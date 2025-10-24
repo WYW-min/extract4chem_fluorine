@@ -34,7 +34,7 @@
 # 运行最小样例（推荐使用 VS Code）
 3. **用 VS Code 打开仓库**
    - 安装 VS Code 扩展：Python、Jupyter。
-   - 在 VS Code 中打开 `draft/main.ipynb`，选择右上角内核为 `Python: extract4chem_fluorine`。
+   - 在 VS Code 中打开 `draft/main.ipynb`，选择右上角内核为 `Python: notebook`。
 4. **运行 Notebook**
    - 按顺序执行每个单元，即可查看从原始文本到结构化 JSON 的完整流程。
 
@@ -44,13 +44,6 @@
 - `prompts/抽取.txt`：给大模型的提示词模版，可根据业务需要调整。
 - `data/out/extraction_results.json`：Notebook 运行后的示例输出，可用于比对。
 
-# 常用命令速查
-```bash
-pixi run python -m pytest             # 运行测试（如后续补充）
-pixi run python your_script.py        # 在默认环境中执行脚本
-pixi shell                            # 打开交互式 shell（默认环境）
-pixi run -e notebook python script.py # 在 notebook 环境中执行脚本
-```
 
 # 后续拓展建议
 - 结合实际论文扩展 `data/raw` 样本，并在 `draft/main.ipynb` 复制新的工作表。
