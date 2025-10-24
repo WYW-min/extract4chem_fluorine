@@ -1,0 +1,70 @@
+// 1.提取出来的下述信息要求在原文可以找到实际数据或文字支撑，实事求是
+// 2.下述字段都是关键信息，有就是有，填写明确的信息，没有就统一采用null字段填写
+// 3.填写字段时得用具体数据值或者名称，不可使用模棱两可的描述
+// 4.对于凝胶组成部分，有些文献没有给出明确的比例，但有给具体加入的质量或者体积，因此需要专业的人员计算出具体的摩尔比例
+// 5.对于用一个字段，采用相同的单位，模板中在每个字段名称末尾都将单位表示了出来
+
+
+
+{
+  //对应文献匹配
+  //一篇文献可能含有多个合成方案，靠doi来唯一区分不够，所给示例文献便有多个合成方案
+  //文中一般都会给产物命名，比如示例文献中命名为Zn/Z5(2,50)
+  "material_id": "Zn/Z5(2,50)",   
+  "doi": "10.1016/j.apcatb.2018.11.023",
+
+  //合成
+  "synthesis": {
+    "zeolite_type": "MFI",                                                     //结构代码
+    "gel_composition": "30Na2O:1Al2O3:100SiO2:10C22-6-6Br2:18H2SO4:4000H2O",   //凝胶组成摩尔比
+    "template": "C22-6-6Br2",                                                  //模板剂
+    "silica_source":"sodium silicate solution",                                //硅源
+    "aluminium_source":"Al2(SO4)3∙18H2O",                                      //铝源
+    "crystallization": {"temp_c": 150, "time_d": 5, "agitation_rpm": 60},      //晶化条件，单位:℃、day(天)、rpm（转速每分）
+    //后处理：在晶化后的所有操作（根据实际情况罗列）
+    "post_treatment_steps": [
+      "filtered",                                                              //过滤
+      "washed_deionized-water",                                                //洗涤，命名方式：操作_用什么洗
+      "dried_120c",                                                            //干燥，命名方式：操作_温度_时间（倘若没有时间就不写时间）
+      "calcination_550c_4h_air",                                               //焙烧，命名方式：操作_温度_时间_气氛
+      "ion-exchange_NH₄NO₃_80c_3times",                                        //离子交换，命名方式：操作_离子源_温度_次数
+      "calcination_550c_4h_air",                                               //焙烧，命名方式：操作_温度_时间_气氛
+      "incipient-wetness-impregnation_Zn_2 wt%"                                //金属修饰，命名方式：操作_金属元素_浓度
+    ] 
+  },
+
+  //物化性质
+  "characterization": {
+    //直接说片状(sheet)、花球状(flower-like)、球状(spherical)、立方体状(cubic)等
+    "morphology": "sheet",   
+    "crystal_size": {
+      "a_axis_nm": 320,                                                        //a轴尺寸，单位nm
+      "b_axis_nm": 2,                                                          //b轴尺寸，单位nm
+      "c_axis_nm": null,                                                       //c轴尺寸，单位nm
+      "average_nm": null                                                       //平均尺寸，单位nm
+      },     
+    "si_al_ratio_actual": 54.2,                                                //实际硅铝比
+    "porosity": {   
+      "bet_m2_g": 545.8,                                                       //比表面积，单位m2/g
+      //孔容积   
+      "v_total_cm3_g": 1.050,                                                  //总容积，单位cm3/g
+      "v_micro_cm3_g": 0.072,                                                  //微孔容积，单位cm3/g
+      "v_meso_cm3_g": 0.978                                                    //介孔容积，单位cm3/g
+    },   
+    "acidity": {   
+      "bronsted_acid_amount_mmol_g": 0.38,                                     //Brønsted 酸含量，单位mmol/g
+      "lewis_acid_amount_mmol_g": 0.30,                                        //Lewis 酸含量，单位mmol/g
+      "l_b_ratio": 0.79                                                        //Lewis 酸含量/Brønsted 酸含量 的比值
+    }
+  },
+  
+  //应用
+  "application": {
+    "scenario": "catalysis",                                                   //场景：催化(catalyst)、吸附分离(adsorption_separation )、离子交换(ion_exchange)
+    "target_species": "methanol",                                              //反应底物
+    "capacity": {"value": 157.63, "unit": "g_MeOH/g_catalysis"},               //转化能力，每克催化剂能够转化的甲醇克数(g MeOH / g catalyst)，unit单位根据实际情况设置
+    "selectivity": {"value": 2.52, "unit": "%_light_olefins"},                 //轻烯烃选择性，根据实际反应修改目标产物
+    "breakthrough": {"value": 197, "unit": "h_t50"},                           //转化率从 100 % 掉到 50 % 所经历时间(t₅₀)，unit单位根据实际情况设置
+    "regeneration": {"temp_c": 650,"yield_percent": 95}                        //再生温度以及恢复比例
+  }
+}

@@ -1,0 +1,40 @@
+<System>
+请阅读提供的中文或英文文献片段，识别其中与含氟抽取材料相关的结构化信息。输出时遵循以下通用原则：
+- 所有结论必须有原文依据，不得杜撰；若信息缺失，输出字段值为 `null`。
+- 数值统一使用文献中给定的单位；若需换算，请在说明中写出换算逻辑并给出换算后的数值。
+- 若文献给出了质量或体积等原始数据，需要据此计算出目标摩尔配比后再填入字段。
+- 不允许遗漏字段。即便无法获得信息，也要显式写出对应键并赋值为 `null`。
+
+输出要求：
+- 返回合法的 JSON 字符串，可被严格模式解析。
+- 顶层键：`material_id`、`doi`、`synthesis`、`characterization`、`application`。
+- 任何列表采用明确顺序。若无数据，使用 `null` 而非空列表。
+- 用英文输出
+
+字段约束说明（采用点号表示层级）：
+- `material_id`：材料在文献中的命名，可含字母、数字及符号。
+- `doi`：文献 DOI。若正文未出现，填入 `null`。
+- `synthesis.zeolite_type`：框架结构代码（如 MFI、BEA）。
+- `synthesis.gel_composition`：凝胶摩尔比，字段顺序应与文献一致。
+- `synthesis.template`：结构导向剂完整名称或缩写。
+- `synthesis.silica_source` / `synthesis.aluminium_source`：原料名称。
+- `synthesis.crystallization.temp_c` / `time_d` / `agitation_rpm`：晶化条件，缺失时写 `null`。
+- `synthesis.post_treatment_steps`：后处理步骤，按文献顺序，用“操作_补充说明”命名。
+- `characterization.morphology`：形貌关键词（如 sheet、flower-like）。
+- `characterization.crystal_size.{{a_axis_nm,b_axis_nm,c_axis_nm,average_nm}}`：晶体尺寸，单位 nm。
+- `characterization.si_al_ratio_actual`：实际 Si/Al 值。
+- `characterization.porosity.{{bet_m2_g,v_total_cm3_g,v_micro_cm3_g,v_meso_cm3_g}}`：比表面积与孔容积。
+- `characterization.acidity.{{bronsted_acid_amount_mmol_g,lewis_acid_amount_mmol_g,l_b_ratio}}`：酸量与比值。
+- `application.scenario`：应用场景，使用固定枚举（`catalysis`、`adsorption_separation`、`ion_exchange`）。
+- `application.target_species`：反应底物或目标分子。
+- `application.capacity` / `selectivity` / `breakthrough`：均含 `value` 与 `unit`，注意单位必须写全。
+- `application.regeneration.temp_c` / `yield_percent`：再生温度与恢复比例。
+
+请在 JSON 中附带一段 `"_extraction_notes"` 字段，列出关键决策及可能的歧义，方便人工复核；若无可补充的信息，使用空数组。
+</System>
+
+<User>
+<Paper>
+{paper}
+</Paper>
+</User>
