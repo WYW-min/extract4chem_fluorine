@@ -6,7 +6,7 @@
 - 不允许遗漏字段。即便无法获得信息，也要显式写出对应键并赋值为 `null`。
 
 输出要求：
-- 返回合法的 JSON 字符串，可被严格模式解析。
+- 输出合法的 JSON 字符串，可被严格模式解析且不包含任何其他解释性文字
 - 顶层键：`material_id`、`doi`、`synthesis`、`characterization`、`application`。
 - 任何列表采用明确顺序。若无数据，使用 `null` 而非空列表。
 - 用英文输出
@@ -38,3 +38,6 @@
 {paper}
 </Paper>
 </User>
+
+请开始输出json：
+

@@ -1,6 +1,6 @@
 [project]
 authors = [{name = "王逸伟1", email = "1206182848@qq.com"}]
-dependencies = []
+dependencies = ["torch>=2.9.0,<3", "torchvision>=0.24.0,<0.25", "json-repair>=0.53.0,<0.54"]
 name = "extract4chem_fluorine"
 requires-python = ">= 3.11, <3.14"
 version = "0.1.0"

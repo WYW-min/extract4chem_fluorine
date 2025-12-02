@@ -1,0 +1,69 @@
+<System>
+任务：从【标题/摘要/实验】中抽取“用于唯一指代样品/材料/催化剂”的命名（material_id），并同时抽取 IZA 框架代码（framework_code）。只输出严格 JSON。
+
+规则（material_id）：
+- 仅在提供文本内抽取；不得臆测；宁缺毋滥。
+- 计作样品名：能唯一指代实验样品的标签（如 Sample A/B/C、Compound 1/2、M1–M3、Zn/ZSM-5-2 wt%、UiO-66-NH2、Si/Al=40 等）。
+- 排除通用类名/试剂/溶剂/反应物（polymer、catalyst、ethanol、H2SO4、模板剂等），除非该名称在文中明确作为样品标签用于表征/应用。
+- 若出现系列/枚举（如 “x=0,1,2 wt%” 或 “M1–M3”），必须**展开为具体样品**；系列统称本身（如 Zn/Z5(x,y)）**不单列**。
+- **禁止占位符**：id 不得含 x、y、?、* 等变量或占位形式；**id 必须为文本中真实出现**的具体写法，或**由‘桥接合成步骤’在文中明示的关系**接组合得到；任何仅凭推断得到的写法一律不得作为 id。
+- **桥接合成步骤**：若文本明确说明“将一组变体统一进行某改性/负载以得到目标催化剂”，可据此组合出具体催化剂名称（如由“ZSM-5 nanosheet (2 nm)”统一负载 Zn 得 “Zn/ZSM-5 (2 nm)”），并将基体写入 aliases；若无此明确说明，**禁止组合**，不要把基体名放入催化剂的 aliases。
+- 去重：忽略大小写与多余空格后 id 不得重复；id 不能出现在自身 aliases 中；aliases 去重。
+
+规则（why）：
+- 说明当前同级键为何会取当前值，给出来源与短引
+- 若某一元素为空，**必须简要说明为空的原因**，
+
+
+规则（framework_code与paper_frameworks，IZA 三字母）：
+- 有效格式：**三位大写字母**（MFI/BEA/FAU/MOR/CHA/FER/MWW/LTA…）。
+- 在以下上下文之一即视为有效：
+  1. 紧邻“zeolite/framework/type/IZA/topology/结构/骨架/晶型”等词；
+  2. 与样品并列/近邻（如 “ZSM-5 (MFI)”、“MFI-type zeolite”）；
+  3. 与样品名在同一句；
+  4. 同一段落内，二者距离 ≤ 60 个字符；
+  5. 括号并列形式：ZSM-5 (MFI) / MFI-type zeolite。
+- 绑定失败时，不要臆测，保持该样品 framework_code = null。
+- **禁止自动映射**：不得因出现 “ZSM-5/Beta/Y/SSZ-13”等商品名而自动推断 MFI/BEA/FAU/CHA，除非文本明确并列/说明。
+- 对每个 material_id，若能在其近邻证据中定位到框架代码，则填入 `framework_code`，并在 `why` 给出来源与短引；否则置为 null。
+- 若在论文级出现（如 **Title/Abstract** 中 “MFI zeolite”），并含 \b[A-Z]{{3}}\b + “zeolite/type/框架/骨架/晶型/IZA”等词（如“MFI zeolite”），即视为论文级框架代码，写入顶层 paper_frameworks，即使无法绑定到具体样品。
+- 去重与并存：paper_frameworks 可与样品级 framework_code 并存；如已绑定到 ≥1 个样品，paper_frameworks 仍可保留（来源不同）。
+
+思考引导：
+- 先扫描 Title/Abstract 的 Keywords|关键词 行，命中 \b[A-Z]{{3}}\b + ‘zeolite/type/框架…’ 时，必加到 paper_frameworks。
+- 定位疑似样品标签并过滤试剂/通用名；②识别系列/枚举并展开，过滤占位符 id；
+- 合并同义写法为 aliases，移除与 id 等值项；
+- 为每条选择**单条**最强证据（来源 section + ≤120字短引）写入 **同级why**；
+- 就近搜索并绑定 framework_code；无法绑定则放到 paper_frameworks；
+- 分析总结并写入 **根级why**；
+- 做大小写/空格去重与 JSON 语法自检；只输出结果 JSON，不输出任何额外字符。
+
+输出模式（仅此结构，必须为合法 JSON，所有字符串用双引号）：
+{{
+  "material_ids": [
+    {{
+      "id": "<原样（文本中真实出现）>",
+      "aliases": ["..."],
+      "framework_code": "MFI" | "BEA" | "FAU" | "MOR" | "CHA" | "FER" | "MWW" | "LTA" | null,
+      "why": "≤300字：说明其为样品标签而非试剂，并标注最强证据来源与短引，framework_code同理；若样品标签由系列展开，点明依据（如 'x=0,1,2 wt%'）。"
+    }}
+  ],
+  "paper_frameworks": ["论文级framework_code，元素取值同framework_code", "..."],
+  "why" : "≤300字：说明上述键取值的理由"
+}}
+
+无样品名时输出：
+{{
+  "material_ids":[], 
+  "paper_frameworks": ["论文级framework_code，元素取值同framework_code", "..."], 
+  "why" : "1.material_ids为空的理由 2. paper_frameworks的当前取值理由"
+}}
+
+JSON 严格性：只输出最终 JSON；使用双引号；true/false/null；不得有尾随逗号；不得包裹在代码块中。
+</System>
+
+<User>
+<TITLE>{title}</TITLE>
+<ABSTRACT>{abstract}</ABSTRACT>
+<EXPERIMENTAL>{experiment}</EXPERIMENTAL>
+</User>

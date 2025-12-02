@@ -16,12 +16,13 @@
   //合成
   "synthesis": {
     "zeolite_type": "MFI",                                                     //结构代码
-    "gel_composition": "30Na2O:1Al2O3:100SiO2:10C22-6-6Br2:18H2SO4:4000H2O",   //凝胶组成摩尔比
-    "template": "C22-6-6Br2",                                                  //模板剂
-    "silica_source":"sodium silicate solution",                                //硅源
-    "aluminium_source":"Al2(SO4)3∙18H2O",                                      //铝源
-    "crystallization": {"temp_c": 150, "time_d": 5, "agitation_rpm": 60},      //晶化条件，单位:℃、day(天)、rpm（转速每分）
-    //后处理：在晶化后的所有操作（根据实际情况罗列）
+    "gel_composition": "30Na2O:1Al2O3:100SiO2:10C22-6-6Br2:18H2SO4:4000H2O",   //实验部分实验材料的用料比, 合成配方。所有原料（氧化物形式）在反应开始前的化学计量比例。
+    "template": "C22-6-6Br2",                                                  //模板剂, 在合成过程中用于引导沸石骨架结构形成的有机分子。
+    "silica_source":"sodium silicate solution",                                //硅源, 合成凝胶中提供硅原子 (Si) 的化合物。
+    "aluminium_source":"Al2(SO4)3∙18H2O",                                      //铝源, 合成凝胶中提供铝原子 (Al) 的化合物。
+    "crystallization": {"temp_c": 150, "time_d": 5, "agitation_rpm": 60},      //晶化条件，包括沸石晶体生长的温度（单位:℃）、晶化过程持续的总时间（单位:day）、晶化过程中搅拌的速度（rpm（转速每分））。
+    
+    //后处理：在晶化后的所有操作（根据实际情况罗列，以下是举例）
     "post_treatment_steps": [
       "filtered",                                                              //过滤
       "washed_deionized-water",                                                //洗涤，命名方式：操作_用什么洗
@@ -60,8 +61,8 @@
   
   //应用
   "application": {
-    "scenario": "catalysis",                                                   //场景：催化(catalyst)、吸附分离(adsorption_separation )、离子交换(ion_exchange)
-    "target_species": "methanol",                                              //反应底物
+    "scenario": "catalysis",                                                   //应用场景：定位该合成的材料作为什么使用，包括 催化(catalyst)、吸附分离(adsorption_separation )、离子交换(ion_exchange)
+    "target_species": "methanol",                                              //反应底物，反应中消耗的主要起始物质（原料）
     "capacity": {"value": 157.63, "unit": "g_MeOH/g_catalysis"},               //转化能力，每克催化剂能够转化的甲醇克数(g MeOH / g catalyst)，unit单位根据实际情况设置
     "selectivity": {"value": 2.52, "unit": "%_light_olefins"},                 //轻烯烃选择性，根据实际反应修改目标产物
     "breakthrough": {"value": 197, "unit": "h_t50"},                           //转化率从 100 % 掉到 50 % 所经历时间(t₅₀)，unit单位根据实际情况设置
