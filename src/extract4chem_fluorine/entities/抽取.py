@@ -27,7 +27,10 @@ class Crystallization(BaseSchema):
 
 class Synthesis(BaseSchema):
     zeolite_type: str | None = Field(None, description="分子筛结构代码")
-    gel_composition: str | None = Field(None, description="合成凝胶的摩尔配比")
+    gel_composition: str | None = Field(
+        None,
+        description="合成凝胶配方；优先摩尔比，若仅有原料用量则记录“原料: 数值单位”",
+    )
     template: str | None = Field(None, description="结构导向剂")
     silica_source: str | None = Field(None, description="硅源名称")
     aluminium_source: str | None = Field(None, description="铝源名称")
@@ -58,7 +61,7 @@ class Acidity(BaseSchema):
     lewis_acid_amount_mmol_g: float | None = Field(
         None, description="Lewis 酸含量（mmol/g）"
     )
-    l_b_ratio: float | None = Field(None, description="Lewis/Brønsted 酸含量比值")
+    b_l_ratio: float | None = Field(None, description="Brønsted/Lewis 酸含量比值")
 
 
 class Characterization(BaseSchema):

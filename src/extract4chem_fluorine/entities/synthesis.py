@@ -59,7 +59,8 @@ class Synthesis(BaseModel):
         description=(
             "合成配方（氧化物/前驱体形式）在反应前的计量比字符串；"
             "示例：\"30Na2O:1Al2O3:100SiO2:10C22-6-6Br2:18H2SO4:4000H2O\" 或 \"100TEOS:1Al2O3\"。"
-            "注意：若文本仅给出前驱体（如 TEOS），保留原样，不得自行换算；未知则为 null。"
+            "若仅给出原料用量（g/mL 等），用 \"原料: 数值单位\" 列表字符串按顺序记录（如 \"TEOS: 10 g; H2O: 40 mL\"），不做摩尔比换算。"
+            "若给出 Si/Al 比且需要换算 SiO2/Al2O3，使用 SiO2/Al2O3 = (Si/Al) * 0.5。未知则为 null。"
         ),
     )
     
@@ -146,7 +147,7 @@ def render_prompt_schema() -> str:
         '  "material_id": "<样品原样命名，如 \\"Zn/ZSM-5 (10 nm)\\">",\n'
         '  "synthesis": {\n'
         '    "zeolite_type": "MFI" | null,  // IZA 三字母（仅回填，不得推断）\n'
-        '    "gel_composition": "30Na2O:1Al2O3:100SiO2:10C22-6-6Br2:18H2SO4:4000H2O" | "100TEOS:1Al2O3" | null,\n'
+        '    "gel_composition": "30Na2O:1Al2O3:100SiO2:10C22-6-6Br2:18H2SO4:4000H2O" | "100TEOS:1Al2O3" | "TEOS: 10 g; H2O: 40 mL" | null,\n'
         '    "template": "C22-6-6Br2" | "TPAOH" | null,\n'
         '    "silica_source": "sodium silicate solution" | "TEOS" | null,\n'
         '    "aluminium_source": "Al2(SO4)3·18H2O" | "Al(O-i-Pr)3" | null,\n'

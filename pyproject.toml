@@ -24,12 +24,19 @@ polars = ">=1.34.0,<2"
 bidict = ">=0.23.1,<0.24"
 langchain-openai = ">=1.0.1,<2"
 orjsonl = ">=1.0.0,<2"
+loguru = ">=0.7.3,<0.8"
+jsonlines = ">=4.0.0,<5"
 
 [tool.pixi.environments]
 default = { solve-group = "default" }
 test = { features = ["test"], solve-group = "default" }
 notebook = { features = ["notebook"], solve-group = "default" }
 
+
+
 [dependency-groups]
 test = ["pytest"]
 notebook = ["ipykernel"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/extract4chem_fluorine"]

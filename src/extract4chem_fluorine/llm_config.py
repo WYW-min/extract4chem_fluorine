@@ -29,19 +29,35 @@ class LLMManager:
                 "max_completion_tokens": 64000
             },
             "gpt": {
-                "model": "gpt-5",
+                "model": "gpt-5.2",
+                "model_provider": "openai",
+                "temperature": 0,
+                "base_url": os.getenv("BASEURL_FS"),
+                "api_key": os.getenv("OPENAI_APIKEY_FS"),
+                "reasoning_effort": "high"
+            },
+            "gpt_medium": {
+                "model": "gpt-5.2",
                 "model_provider": "openai",
                 "temperature": 0,
                 "base_url": os.getenv("BASEURL_FS"),
                 "api_key": os.getenv("OPENAI_APIKEY_FS"),
                 "reasoning_effort": "medium"
             },
+            "gpt_low": {
+                "model": "gpt-5.2",
+                "model_provider": "openai",
+                "temperature": 0,
+                "base_url": os.getenv("BASEURL_FS"),
+                "api_key": os.getenv("OPENAI_APIKEY_FS"),
+                "reasoning_effort": "low"
+            },
             "qwen_stream": {
                 "model": "qwen3-max-preview",
                 "model_provider": "openai",
                 "temperature": 0,
                 "base_url": os.getenv("QWEN_BASEURL"),
-                "api_key": os.getenv("QWEN_APIKEY"),
+                "api_key": os.getenv("QWEN_APIKEY_FS"),
                 "extra_body": {"enable_thinking": True},
                 "stream": True,
             },
@@ -50,7 +66,7 @@ class LLMManager:
                 "model_provider": "openai",
                 "temperature": 0,
                 "base_url": os.getenv("QWEN_BASEURL"),
-                "api_key": os.getenv("QWEN_APIKEY"),
+                "api_key": os.getenv("QWEN_APIKEY_FS"),
                 "response_format": {
                     "type": "json_object"
                 },

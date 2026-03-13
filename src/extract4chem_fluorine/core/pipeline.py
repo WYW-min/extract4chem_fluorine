@@ -12,6 +12,8 @@ from extract4chem_fluorine.tools import MyJSONParser
 import orjson
 from xopen import xopen
 from tqdm import tqdm
+from extract4chem_fluorine.tools.global_state_manager import gs_manager
+from extract4chem_fluorine.tools.data_tool import add_nowstr
 def get_chain_input(splited_texts):
     main_input = {
     "title": f"# {splited_texts[0]["content_title"]}",
@@ -81,23 +83,27 @@ def get_final_data(record, chain_response, other_info = None | dict):
     return final_data
     
 
-INPATH = "./data/raw/氟基高分子_20251109183100.jsonl.zst"
-OUTPATH = "./data/out/20251109.json"
+INPATH = "data/out/分子筛/raw_20260108.jsonl"
+OUTPATH = "./data/out/分子筛/main.jsonl"
 PROMPT_PATH = "./prompts/主信号抽取.txt"
-READ_NUM = 20
+READ_NUM = 200
 
 async def main():
-    main_llm = llm_manager["qwen_stream"]
+    main_llm = llm_manager["gpt_low"]
     prompt_temp = ChatPromptTemplate.from_template(Path(PROMPT_PATH).read_text(encoding="utf-8"))
 
     main_chain = prompt_temp | main_llm  | MyJSONParser(Er4MaterialId)
-    outpath = Path(OUTPATH)
+    
+    outpath = add_nowstr(Path(OUTPATH))
+
+    
+    
     inpaths = sorted(list(orjsonl.stream(INPATH)), key=lambda x: x.get("file_name", ""))
     
     pbars = tqdm(desc = "抽取进度", total = len(inpaths))
     with xopen(outpath, "wb") as fout:
         for records in batched(inpaths, n =READ_NUM):
-            pbars.update(len(records))
+            
             splited_texts = [processDoc(record["content"]) for record in records]
             input_data = [ get_chain_input(s) for s in  splited_texts]
             ga_coroutine = [arun_chain(main_chain, input) for input in input_data]
@@ -108,6 +114,7 @@ async def main():
                 
                 final_data = get_final_data(record, run_chain_result, {"doi": extract_doi(record["content"])})
                 fout.write(orjson.dumps(final_data) + b"\n")
+            pbars.update(len(records))
             
 if __name__ == "__main__":
     asyncio.run(main())

@@ -34,15 +34,15 @@ class Porosity(BaseModel):
         return self
 
 class Acidity(BaseModel):
-    """酸性参数。单位：mmol/g；l_b_ratio=Lewis/Brønsted。"""
+    """酸性参数。单位：mmol/g；b_l_ratio=Brønsted/Lewis。"""
     bronsted_acid_amount_mmol_g: float | None = Field(None, description="Brønsted 酸含量（mmol/g）")
     lewis_acid_amount_mmol_g: float | None = Field(None, description="Lewis 酸含量（mmol/g）")
-    l_b_ratio: float | None = Field(None, description="Lewis/Brønsted 比值（>=0）")
+    b_l_ratio: float | None = Field(None, description="Brønsted/Lewis 比值（>=0）")
 
     @model_validator(mode="after")
     def _check(self):
-        if self.l_b_ratio is not None and self.l_b_ratio < 0:
-            raise ValueError("l_b_ratio must be >= 0")
+        if self.b_l_ratio is not None and self.b_l_ratio < 0:
+            raise ValueError("b_l_ratio must be >= 0")
         return self
 
 class Characterization(BaseModel):

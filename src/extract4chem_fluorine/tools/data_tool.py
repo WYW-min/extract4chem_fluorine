@@ -1,7 +1,14 @@
 
+from pathlib import Path
 from langchain_text_splitters import MarkdownHeaderTextSplitter
 from bidict import bidict
 from typing import Dict, List
+import orjson
+from .global_state_manager import gs_manager
+def add_nowstr(p:Path):
+    new_p = p.parent / gs_manager["timestamp"] / p.name
+    new_p.parent.mkdir(exist_ok = True, parents = True)
+    return new_p
 
 
 def count_jsonlines(filepath):
