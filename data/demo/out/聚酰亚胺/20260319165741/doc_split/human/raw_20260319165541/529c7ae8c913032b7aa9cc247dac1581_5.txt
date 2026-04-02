@@ -1,0 +1,98 @@
+source_file: A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles As a Chemiresistor Sensor for Hyd.md
+doc_id: 529c7ae8c913032b7aa9cc247dac1581
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [189, 270]
+char_span: [28715, 45680]
+line_count: 82
+effective_body_non_empty_lines: 74
+
+lines:
+--- chunk (b0006: References) ---
+189: # References
+190: 
+191: 1. OSHA Fact Sheet; U.S. Department of Labor: Washington, DC, USA. Available online: https://www.osha.gov/SLTC/hydrogensulfide/hazards.html (accessed on 3 November 2019).  
+192: 2. Occupational Safety and Health Administration Technical Center. Hydrogen Sulfide Backup Data Report (ID-141); Occupational Safety and Health Administration Technical Center: Salt Lake City, UT, USA, 1989.  
+193: 3. Rubright, S.; Pearce, L.; Peterson, J. Environmental toxicology of hydrogen sulfide. Nitric Oxide 2017, 71, 1-13. [CrossRef]  
+194: 4. Guidotti, T.L. Hydrogen Sulfide Intoxication. In Handbook of Clinical Neurology, 3rd ed.; Lotti, M., Bleecker, M.L., Eds.; Elsevier: Amsterdam, The Netherlands, 2015; Chapter 8; Volume 131, pp. 111-133.  
+195: 5. Roth, S.H. Handbook of Hazardous Materials; Academic Press: Cambridge, UK, 1993; pp. 367-376.  
+196: 6. Terrence, S. Hydrogen Sulphide in Agricultural Biogas Systems; Ministry of Agriculture Food and Rural Affairs: Centre Wellington, ON, Canada, 2011; pp. 1-7.  
+197: 7. Plaza, C.; Xu, Q.; Townsend, T.; Bitton, G.; Booth, M. Evaluation of alternative landfill cover soils for attenuating hydrogen sulfide from construction and demolition (C&D) debris landfills. J. Environ. Manag. 2007, 84, 314-322.
+198: 
+199: 8. Shen, D.S.; Du, Y.; Fang, Y.; Hu, Li.; Fang, Ch.; Long, Yu. Characteristics of H2S emission from aged refuse after excavation exposure. J. Environ. Manag. 2015, 154, 159-165. [CrossRef]  
+200: 9. Textor, C.; Graf, H.F.; Herzog, M.; Oberhuber, J.M. Injection of gases into the stratosphere by explosive volcanic eruptions. J. Geophys. Res. 2003, 108, 4606. [CrossRef]  
+201: 10. Oppenheimer, C.; Scaillet, B.; Martin, R.S. Sulfur Degassing from Volcanoes: Source Conditions, Surveillance, Plume Chemistry and Earth System Impacts. Sulfur Magmas Melts 2011, 73, 363-422.  
+202: 11. Edmonds, M.; Grattan, J.; Michnowicz, S. Volcanic Gases: Silent Killers. In Observing the Volcano World. Advances in Volcanology; Fearnley, C.J., Bird, D.K., Haynes, K., McGuire, W.J., Jolly, G., Eds.; Springer: Cham, Switzerland, 2015.  
+203: 12. Jafarinejad, S. Odours emission and control in the petroleum refinery: A review. Curr. Sci. Perspect. 2016, 2, 78-82.  
+204: 13. Jafarinejad, S. Pollutions and Wastes from the Petroleum Industry. In Petroleum Waste Treatment and Pollution Control; Butterworth-Heinemann: Oxford, UK, 2017; pp. 19-83.  
+205: 14. Shivanthan, M.C.; Perera, H.; Jayasinghe, S.; Karunanayake, P.; Chang, T.; Ruwanpathirana, S.; Jayasinghe, N.; De Silva, Y.; Jayaweerabandara, D. Hydrogen sulphide inhalational toxicity at a petroleum refinery in Sri Lanka: A case series of seven survivors following an industrial accident and a brief review of medical literature. J. Occup. Med. Toxicol. (Lond. UK) 2013, 8, 9. [CrossRef]  
+206: 15. Kangas, J.; Jappinen, P.; Savolainen, H. Exposure to Hydrogen Sulfide, Mercaptans and Sulfur Dioxide in Pulp Industry. Am. Ind. Hyg. Assoc. J. 1984, 45, 787-790. [CrossRef]  
+207: 16. Veluchamy, C.; Kalamdhad, A.S. Enhancement of hydrolysis of lignocellulose waste pulp and paper mill sludge through different heating processes on thermal pretreatment. J. Clean. Prod. 2017, 168, 219-226. [CrossRef]  
+208: 17. Crundwell, F.; Moats, M.; Ramachandran, V.; Robinson, T.; Davenport, W.G. Extractive Metallurgy of Nickel, Cobalt and Platinum Group Metals; Elsevier Ltd.: Oxford, UK, 2011; pp. 443-455. ISBN 9780080968094.  
+209: 18. Chaulya, S.K.; Prasad, G.M. Chapter 3—Gas Sensors for Underground Mines and Hazardous Areas. In Sensing and Monitoring Technologies for Mines and Hazardous Areas Monitoring and Prediction Technologies; Elsevier: Amsterdam, The Netherlands, 2016; pp. 161-212.  
+210: 19. Jiang, G.; Keller, J.; Bond, P.L. Determining the long-term effects of H2S concentration, relative humidity and air temperature on concrete sewer corrosion. Water Res. 2014, 65, 157-169. [CrossRef]  
+211: 20. Andriamanohiarisoamanana, F.J.; Sakamoto, Y.; Yamashiro, T.; Yasui, S.; Iwasaki, M.; Ihara, I.; Tsuji, O.; Umetsu, K. Effects of handling parameters on hydrogen sulfide emission from stored dairy manure. J. Environ. Manag. 2015, 154, 110-116. [CrossRef] [PubMed]  
+212: 21. Maurer, D.L.; Koziel, J.A.; Bruning, K.; Parker, D.B. Farm-scale testing of soybean peroxidase and calcium peroxide for surficial swine manure treatment and mitigation of odorous VOCs, ammonia and hydrogen sulfide emissions. Atmos. Environ. 2017, 166, 467-478. [CrossRef]  
+213: 22. Kim, K.H. Performance characterization of the GC/PPPD for H2S, CH3SH, CH3SCH3, and CH3SSCH3 in air. Atmos. Environ. 2005, 39, 2235-2242. [CrossRef]  
+214: 23. Vitvitsky, V.; Banerjee, R. H2S analysis in biological samples using gas chromatography with sulfur chemiluminescence detection. Methods Enzym. 2015, 554, 111-123.  
+215: 24. Varlet, V.; Giuliani, N.; Palmiere, C.; Maujean, G.; Augsburger, M. Hydrogen Sulfide Measurement by Headspace-Gas Chromatography-Mass Spectrometry (HS-GC-MS): Application to Gaseous Samples and Gas Dissolved in Muscle. J. Anal. Toxicol. 2015, 39, 52–57. [CrossRef] [PubMed]  
+216: 25. Larsen, E.S.; Hong, W.W.; Spartz, M.L. Hydrogen Sulfide Detection by UV-Assisted Infrared Spectrometry. Appl. Spectrosc. 1997, 51, 1656-1667. [CrossRef]  
+217: 26. Chen, R.; Morris, H.R.; Whitmore, P.M. Fast detection of hydrogen sulfide gas in the ppmv range with silver nanoparticle films at ambient conditions. Sens. Actuators B Chem. 2013, 186, 431-438. [CrossRef]  
+218: 27. Gersen, S.; Van Essen, M.; Visser, P.; Ahmad, M.; Mokhov, A.; Sepman, A.; Alberts, R.; Douma, A.; Levinsky, H. Detection of  $\mathrm{H}_2\mathrm{S}$ ,  $\mathrm{SO}_2$  and  $\mathrm{NO}_2$  in  $\mathrm{CO}_2$  at pressures ranging from 1-40 bar by using broadband absorption spectroscopy in the UV/VIS range. Energy Procedia 2014, 63, 2570-2582. [CrossRef]  
+219: 28. Shariati-Rad, M.; Irandoust, M.; Jalilvand, F. Spectrophotometric determination of hydrogen sulfide in environmental samples using sodium 1,2-naphthoquinone-4-sulfonate and response surface methodology. Int. J. Environ. Sci. Technol. 2016, 13, 1347–1356. [CrossRef]
+220: 
+221: 29. Wallace, K.J.; Cordero, S.R.; Tan, C.P.; Lynch, V.M.; Anslyn, E.V. A colorimetric response to hydrogen sulfide. Sens. Actuators B Chem. 2007, 120, 362-367. [CrossRef]  
+222: 30. Zhang, Y.; Li, M.; Niu, Q.; Gao, P.; Zhang, G.; Dong, C.; Shuang, S. Gold nanoclusters as fluorescent sensors for selective and sensitive hydrogen sulfide detection. Talanta 2017, 171, 143-151. [CrossRef] [PubMed]  
+223: 31. Lawrence, N.S.; Deo, R.P.; Wang, J. Electrochemical determination of hydrogen sulfide at carbon nanotube modified electrodes. Anal. Chim. Acta 2004, 517, 131-137. [CrossRef]  
+224: 32. Zeng, L.; He, M.; Yu, H.; Li, D. An  $\mathrm{H}_2\mathrm{S}$  Sensor Based on Electrochemistry for Chicken Coops. Sensors 2016, 16, 1398. [CrossRef]  
+225: 33. Ke, Z.J.; Tang, D.L.; Lai, X.; Dai, Z.Y.; Zhang, Q. Optical fiber evanescent-wave sensing technology of hydrogen sulfide gas concentration in oil and gas fields. Optik 2018, 157, 1094-1100. [CrossRef]  
+226: 34. Zhou, H.; Wen, J.Q.; Zhang, X.Z.; Wang, W.; Feng, D.Q.; Wang, Q.; Jia, F. A Study on Fiber-optic Hydrogen Sulfide Gas Sensor. Phys. Procedia 2014, 56, 1102-1106. [CrossRef]  
+227: 35. He, H.; Dong, C.; Fu, Y.; Han, W.; Zhao, T.; Xing, L.; Xue, X. Self-powered smelling electronic-skin based on the piezo-gas-sensor matrix for real-time monitoring the mining environment. Sens. Actuators B Chem. 2018, 267, 392-402. [CrossRef]  
+228: 36. Kuchmenko, T.A.; Kochetova, Z.Y.; Silina, Y.E.; Korenman, Y.I.; Kulin, L.A.; Lapitski, I.V. Determination of Trace Amounts of Hydrogen Sulfide in a Gas Flow Using a Piezoelectric Detector. J. Anal. Chem. 2007, 62, 781-787. [CrossRef]  
+229: 37. Berahman, M.; Sheikhi, M. Hydrogen sulfide gas sensor based on decorated zigzag graphene nanoribbon with copper. Sens. Actuators B Chem. 2015, 219, 338-345. [CrossRef]  
+230: 38. Tomchenko, A.A.; Harmer, G.P.; Marquis, B.T.; Allen, J.W. Semiconducting metal oxide sensor array for the selective detection of combustion gases. Sens. Actuators B Chem. 2003, 93, 126-134. [CrossRef]  
+231: 39. MalekAlaie, M.; Jahangiri, M.; Rashidi, A.; HaghighiAsl, A.; Izadi, N.; Rashidi, A. Selective hydrogen sulfide  $(\mathrm{H}_2\mathrm{S})$  sensors based on molybdenum trioxide  $\left(\mathrm{MoO}_3\right)$  nanoparticle decorated reduced graphene oxide. Mater. Sci. Semicond. Process. 2015, 38, 93-100. [CrossRef]  
+232: 40. Kaur, M.; Jain, N.; Sharma, K.; Bhattacharya, S.; Roy, M.; Tyagi, A.; Gupta, S.; Yakhmi, J.V. Room-temperature  $\mathrm{H}_2\mathrm{S}$  gas sensing at ppb level by single crystal  $\mathrm{In}_2\mathrm{O}_3$  whiskers. Sens. Actuators B Chem. 2008, 133, 456-461. [CrossRef]  
+233: 41. Alaie, M.M.; Jahangiri, M.; Rashidi, A.; Asl, A.H.; Izadi, N.; Rashidi, A. A novel selective  $\mathrm{H}_2\mathrm{S}$  sensor using dodecylamine and ethylenediamine functionalized graphene oxide. J. Ind. Eng. Chem. 2015, 29, 97-103. [CrossRef]  
+234: 42. Sarfraz, J.; Ihalainen, P.; Maattanen, A.; Peltonen, J.; Linden, M. Printed hydrogen sulfide gas sensor on paper substrate based on polyaniline composite. Thin Solid Film. 2013, 534, 621-628. [CrossRef]  
+235: 43. Li, M.; Zhou, D.; Zhao, J.; Zheng, Z.; He, J.; Hu, L.; Xia, Z.; Tang, J.; Liu, H. Resistive gas sensors based on colloidal quantum dot (CQD) solids for hydrogen sulfide detection. Sens. Actuators B Chem. 2015, 217, 198-201. [CrossRef]  
+236: 44. Kumar, V.; Sunny; Rawal, I.; Mishra, V.; Dwivedi, R.; Das, R. Fabrication and characterization of gridded Pt/SiO2/Si MOS structure for hydrogen and hydrogen sulphide sensing. Mater. Chem. Phys. 2014, 146, 418-424. [CrossRef]  
+237: 45. Emelin, E.V.; Nikolaev, I.N. Sensitivity of mos sensors to hydrogen, hydrogen sulfide, and nitrogen dioxide in different gas atmospheres. Meas. Tech. 2006, 49, 524-528. [CrossRef]  
+238: 46. Crowley, K.; Morrin, A.; Sheperd, R.; Panhuis, M.; Wallace, G.; Smyth, M.; Killard, A. Fabrication of Polyaniline-Based Gas Sensors using Piezoelectric Inkjet and Silkscreen Printing for the Detection of Hydrogen Sulfide. IEEE Sens. J. 2010, 10, 1419-1426. [CrossRef]  
+239: 47. Liu, C.; Hayashi, K.; Toko, K. Au nanoparticles decorated polyaniline nanofiber sensor for detecting volatile sulfur compounds in expired breath. Sens. Actuators B Chem. 2012, 161, 504-509. [CrossRef]  
+240: 48. Chen, R.; Whitmore, P.M. Chapter 6: Silver Nanoparticle Films as Hydrogen Sulfide Gas Sensors with Applications in Art Conservation. In The Science and Function of Nanomaterials: From Synthesis to Application; Harper-Leatherman, A.S., Solbrig, C.M., Eds.; ACS Symposium Series; American Chemical Society: Washington, DC, USA, 2014.  
+241: 49. Yuan, Z.; Lu, F.; Peng, M.; Wang, C.-W.; Tseng, Y.T.; Du, Y.; Cai, N.; Lien, C.W.; Chang, H.T.; He, Y.; et al. Selective Colorimetric Detection of Hydrogen Sulfide Based on Primary Amine-Active Ester Cross-Linking of Gold Nanoparticles. Anal. Chem. 2015, 87, 7267-7273. [CrossRef]
+242: 
+243: 50. Ji, W.F.; Chu, C.M.; Hsu, S.C.; Lu, Y.D.; Yu, Y.C.; Santiago, K.S.; Yeh, J.M. Synthesis and characterization of organo-soluble aniline oligomer-based electroactive doped with gold nanoparticles, and application to electrochemical sensing of ascorbic acid. Polymers 2017, 128, 218-228. [CrossRef]  
+244: 51. Vanherck, K.; Vankelecom, I.; Verbiest, T. Improving fluxes of polyimide membranes containing gold nanoparticles by photothermal heating. J. Membr. Sci. 2011, 373, 5-13. [CrossRef]  
+245: 52. Weng, C.J.; Jhuo, Y.S.; Chen, Y.L.; Feng, C.F.; Chang, C.H.; Chen, S.W.; Yeh, J.M.; Wei, Y. Intrinsically electroactive polyimide microspheres fabricated by electrospraying technology for ascorbic acid detection. J. Mater. Chem. 2011, 21, 15666-15672. [CrossRef]  
+246: 53. Weng, C.J.; Huang, K.Y.; Jhuo, Y.S.; Chen, Y.L.; Feng, C.F.; Cho-Ming, C.; Yeh, J.M. Controllable Electroactive Polyimide Particles Size Generated by Electrospraying. Polym. Int. 2012, 61, 205-212. [CrossRef]  
+247: 54. Huang, T.C.; Lin, S.T.; Yeh, L.C.; Chen, C.A.; Huang, H.Y.; Nian, Z.Y.; Chen, H.H.; Yeh, J.M. Aniline pentamer-based electroactive polyimide prepared from oxidation coupling polymerization for electrochemical sensing application. Polymers 2012, 53, 4373-4379. [CrossRef]  
+248: 55. Huang, T.C.; Yeh, L.C.; Huang, H.Y.; Nian, Z.Y.; Yeh, Y.C.; Chou, Y.C.; Yeh, J.M.; Tsai, M.H. The use of a carbon paste electrode mixed with multiwalled carbon nanotube/electroactive polyimide composites as an electrode for sensing ascorbic acid. Polym. Chem. 2014, 5, 630-637. [CrossRef]  
+249: 56. Huang, K.Y.; Jhuo, Y.S.; Wu, P.S.; Lin, C.H.; Yu, Y.H.; Yeh, J.M. Electrochemical Studies for the Content of Amine-Capped Aniline Trimers on the Corrosion Protection Effect of as-prepared Electroactive Polyimide Coatings. Eur. Polym. J. 2009, 45, 485-493. [CrossRef]  
+250: 57. Weng, C.J.; Huang, J.Y.; Huang, K.Y.; Jhuo, Y.S.; Tsai, M.H.; Yeh, J.M. Advanced anticorrosive coatings prepared from electroactive polyimide-TiO2 hybrid nanocomposite materials. Electrochim. Acta 2010, 55, 8430-8438. [CrossRef]  
+251: 58. Huang, H.Y.; Huang, T.C.; Yeh, T.C.; Tsai, C.Y.; Lai, C.L.; Tsai, M.H.; Yeh, J.M.; Chou, Y.C. Advanced anticorrosive materials prepared from amine-capped aniline trimer-based electroactive polyimide-clay nanocomposite materials with synergistic effects of redox catalytic capability and gas barrier properties. Polymers 2011, 52, 2391-2400. [CrossRef]  
+252: 59. Huang, T.C.; Yeh, T.C.; Huang, H.Y.; Ji, W.F.; Chou, Y.C.; Hung, W.I.; Yeh, J.M.; Tsai, M.H. Electrochemical Studies on aniline-pentamer-Based Electroactive Polyimide Coating: Corrosion Protection and Electrochromic Properties. Electrochim. Acta 2011, 56, 10151-10158. [CrossRef]  
+253: 60. Chang, K.C.; Lu, H.I.; Peng, C.W.; Lai, M.C.; Hsu, S.C.; Hsu, M.H.; Tsai, Y.K.; Chang, C.H.; Hung, W.I.; Wei, Y.; et al. Nanocasting Technique to Prepare Lotus-leaf-like Superhydrophobic Electroactive Polyimide as Advanced Anticorrosive Coatings. ACS Appl. Mater. Interfaces 2013, 5, 1460-1467. [CrossRef]  
+254: 61. Chou, Y.C.; Lee, P.C.; Hsu, T.F.; Huang, W.Y.; Zi-Han, L.; Chuang, C.Y.; Yang, T.I.; Yeh, J.M. Synthesis and anticorrosive properties of electroactive polyimide/SiO $_2$  composites. Polym. Compos. 2014, 35, 617-625. [CrossRef]  
+255: 62. Chang, K.C. Advanced anticorrosive coatings prepared from electroactive polyimide/graphene nanocomposites with synergistic effects of redox catalytic capability and gas barrier properties. *Express Polym. Lett.* 2014, 8, 243-255. [CrossRef]  
+256: 63. Huang, T.C.; Yeh, L.C.; Lai, G.H.; Huang, B.S.; Yang, T.I.; Hsu, S.C.; Lo, A.Y.; Yeh, J.M. Advanced Superhydrophobic Electroactive Fluorinated Polyimide and Its Application in Anticorrosion Coating. Int. J. Green Energy 2016, 14, 113-120. [CrossRef]  
+257: 64. Ji, W.F.; Li, C.W.; Yu, S.K.; Chen, P.J.; Chen, H.L.; Chen, R.D.; Chen, B.H.; Hsu, C.L.; Yeh, J.M. Biomimetic electroactive polyimide with rose petal-like surface structure prepared from nanocasting technique for anticorrosive coating application. Express Polym. Lett. 2017, 11, 635-644. [CrossRef]  
+258: 65. Weng, C.J.; Jhuo, Y.S.; Huang, K.Y.; Feng, C.F.; Yeh, J.M.; Wei, Y.; Tsai, M.H. Mechanically and Thermally Enhanced Intrinsically Dopable Polyimide Membrane with Advanced Gas Separation Capabilities. Macromolecules 2011, 44, 6067-6076. [CrossRef]  
+259: 66. Weng, C.J.; Jhuo, Y.S.; Chang, C.H.; Feng, C.F.; Peng, C.W.; Dai, C.F.; Yeh, J.M.; Wei, Y. A smart surface prepared using the switchable superhydrophobicity of neat electrospun intrinsically electroactive polyimide fiber mats. Soft Matter 2011, 7, 10313-10318. [CrossRef]  
+260: 67. Chang, K.C.; Huang, K.Y.; Hsu, C.H.; Ji, W.F.; Lai, M.C.; Hung, W.I.; Chuang, T.L.; Yeh, J.M. Synthesis of ultra-high-strength electroactive polyimide membranes containing oligoaniline in the main chain by thermal imidization reaction. Eur. Polym. J. 2014, 56, 26-32. [CrossRef]
+261: 
+262: 68. Chang, K.C.; Lu, H.I.; Lai, M.C.; Hsu, C.H.; Hsiao, Y.R.; Huang, K.Y.; Chuang, T.L.; Yeh, J.M.; Liu, W.R. Enhanced Physical Properties of Electroactive Polyimide Nanocomposites by Addition of Graphene Nanosheets. Polym. Int. 2014, 63, 1011-1017. [CrossRef]  
+263: 69. Jeon, H.; Lee, K. Effect of gold nanoparticle morphology on thermal properties of polyimide nanocomposite films. Colloids Surf. A Physicochem. Eng. Asp. 2019, 579, 123651. [CrossRef]  
+264: 70. Wei, Y.; Yang, C.; Ding, T. A one-step method to synthesize n,n'-bis(4'-aminopiienyl)- 1,4-quinonenediimine and its derivatives. Tetrahedron Lett. 1996, 37, 731-734. [CrossRef]  
+265: 71. Krishnamurthy, S.; Esterle, A.; Sharma, N.C.; Sahi, S.V. Yucca-derived synthesis of gold nanomaterial and their catalytic potential. Nanoscale Res. Lett. 2014, 9, 627. [CrossRef]  
+266: 72. Sneha, K.; Sathishkumar, M.; Kim, S.; Yun, Y.S. Counter ions and temperature incorporated tailoring of biogenic gold nanoparticles. Process. Biochem. 2010, 45, 1450-1458. [CrossRef]
+267: 
+268: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+269: 
+270: © 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

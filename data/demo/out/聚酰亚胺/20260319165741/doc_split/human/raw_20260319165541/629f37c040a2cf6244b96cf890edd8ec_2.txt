@@ -1,0 +1,51 @@
+source_file: Closed-Cell Rigid Polyimide Foams for High-Temperature Applications The Effect of Structure on Combined Proper.md
+doc_id: 629f37c040a2cf6244b96cf890edd8ec
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [61, 97]
+char_span: [9901, 16927]
+line_count: 35
+effective_body_non_empty_lines: 14
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+61: # 2. Materials and Methods
+62: 
+63: # 2.1.Materials
+64: 
+65: $2,3,3^{\prime},4^{\prime}$ -Biphenyl tetracarboxylic dianhydride ( $\alpha$ -BPDA) was purchased from Chinatech (Tianjin) Chemical Co., Ltd., (Tianjin, China) and dried at a reduced pressure at  $160^{\circ}\mathrm{C}$  for  $8\mathrm{~h}$  prior to use. cis-5-Norbornene-endo-2,3-dicarboxylic anhydride (NA) was purchased from Changzhou Sunlight Pharmaceutical Co., Ltd., (Changzhou, China) and dried at a reduced pressure at  $80^{\circ}\mathrm{C}$  for  $8\mathrm{~h}$  prior to use. p-Phenylenediamine (PDA) and 2-(4-aminophenyl)-5-aminobenzimidazole (BIA) were obtained from Changzhou Sunlight Pharmaceutical Co., Ltd., (Changzhou, China) and used as received. Ethyl alcohol was obtained from Beijing Chemical Reagents Co. (Beijing, China) and stored over  $4\AA$  molecular sieves to remove the moisture.
+66: 
+67: # 2.2. Preparation of Nadimide End-Capped Polyimide Oligomers (NPOs)
+68: 
+69: $\alpha$ -BPDA (0.1 mol) (29.42 g) and NA (0.07 mol) (11.49 g) were combined in 63.58 g of ethanol (1.38 mol). The solution was stirred at solvent reflux for three hours to obtain a homogeneous solution. Then, 11.68 g of PDA (0.108 mol) and 6.06 g of BIA (0.027 mol) were added, and the solution was stirred at solvent reflux for another two hours to produce a homogeneous PEAS solution. After removing most of the solvent by rotating distillation, the viscous liquid was dried at a reduced pressure at  $200^{\circ}\mathrm{C}$ . The obtained solid resin was crushed into a fine powder and sieved, yielding a powder with a particle diameter of 50 to  $200\mu \mathrm{m}$ . In this experiment, the oligomer powder (NPO-2) had a BIA/(BIA + PDA) molar ratio of  $20\%$  and a calculated molecular weight (calcd  $\mathrm{M_w}$ ) of  $1500\mathrm{g / mol}$ .
+70: 
+71: In addition, a series of NPO powders (NPO-0, NPO-1, and NPO-3) with a fixed calcd  $\mathrm{M_w}$  of  $1500\mathrm{g / mol}$  but different BIA/(BIA + PDA) molar ratios of  $0\%$ $10\%$  ,and  $30\%$  respectively, were prepared by adjusting the molar ratio of aromatic diamines. Moreover, a series of NPO powders with a fixed molar ratio of BIA/(BIA + PDA)  $(20\%)$  but different calcd  $\mathrm{M_w}$  were also prepared, including NPO-2-1000 (calcd  $\mathrm{M_w} = 1000$  ), NPO-2-1250 (calcd  $\mathrm{M_w} = 1250$  ), NPO-2-1500 (calcd  $\mathrm{M_w} = 1500$  ), NPO-2-1750 (calcd  $\mathrm{M_w} = 1750$  ), and NPO-2-2000 (calcd  $\mathrm{M_w} = 2000$  ), respectively.
+72: 
+73: # 2.3. Preparation of Closed-Cell Rigid PI Foams
+74: 
+75: The polyimide foams were prepared by thermal foaming of the NPO powder in a closed mold. The NPO powder was placed at the bottom of the mold, which was then heated in a hot press. The mold was heated stepwise to  $350^{\circ}\mathrm{C}$  and held for three hours with applied pressure. Then, the mold was cooled to room temperature and the rigid PI foam was removed and cut into the desired dimensions for testing.
+76: 
+77: The amount of NPO powder placed in the mold was determined according to the desired foam density and mold volume as well as the calculated amounts of organic volatiles evolved in the thermal foaming process. The foam density was determined by the amount of precursor and the size of the mold:
+78: 
+79: $$
+80: \rho = \mathrm {a} \times \mathrm {m} / \mathrm {V} \tag {1}
+81: $$
+82: 
+83: where  $a$  is a constant factor determined by the mass loss during the foaming process and the volume shrinkage of the foam caused by the cooling process,  $m$  is the mass of the NPO precursor, and  $V$  represents the volume of the mold.
+84: 
+85: Hence, a series of rigid PI foams (PIF-0, PIF-1, PIF-2, and PIF-3) with a fixed calcd  $\mathrm{M_w}$  of  $1500\mathrm{g / mol}$  but different molar ratios of BIA/(BIA + PDA) of  $0\%$ ,  $10\%$ ,  $20\%$ , and  $30\%$  were prepared, respectively. Similarly, a series of rigid PI foams (PIF-2-1000, PIF-2-1250, PIF-2-1500, PIF-2-1700, and PIF-2-2000) with a fixed molar ratio of BIA/(BIA + PDA) of  $20\%$  but different calcd  $\mathrm{M_w}$  were also prepared. Additionally, a series of rigid PI foams with a fixed BIA/(BIA + PDA) molar ratio of  $20\%$  and calcd  $\mathrm{M_w}$  of  $1500\mathrm{g / mol}$  but different densities (70, 150, 200, and  $300\mathrm{kg / m^3}$ ) were prepared. Unless otherwise indicated, the density of the foam was  $100\mathrm{kg / m^3}$ .
+86: 
+87: # 2.4. Measurements
+88: 
+89: The chemical structures of the NPO precursors were characterized using a Bruker TENSOR27 Fourier transform infrared (FT-IR) spectrometer (Bruker, Karlsruhe, Germany). The measurements were performed in the range of  $400 - 4000\mathrm{cm}^{-1}$  by averaging 32 scans.  ${}^{1}\mathrm{H}$  NMR spectra were obtained on a Bruker AVANCE 300 spectrometer (Bruker, Karlsruhe, Germany) using dimethyl sulfoxide (DMSO-d6) (J&K Co, Beijing, China) as a solvent. The morphology of the PI foam cellular structure was observed using a Hitachi S-4800 scanning electron microscope (SEM) (Hitachi, Tokyo, Japan). The closed-cell rate of the PI foams was measured by a Micromeritic AccuPyc II 1340 pycnometer (Micromeritics, Norcross, GA, USA) according to GB/T 10799-2008 using specimens with the dimensions  $25\mathrm{mm}\times 25\mathrm{mm}\times 25\mathrm{mm}$  and under 2.9 psi pressure.
+90: 
+91: The rheological behavior measurements of the NPO precursors at different temperatures were performed on a TA AR2000 rheometer (TA Instruments, New Castle, DE, USA) with a heating rate of  $4^{\circ}\mathrm{C / min}$ . The specimen disks  $(25\mathrm{mm}$  in diameter and weighing  $1\mathrm{g})$  were prepared by compression molding of the NPO powder. The rheometer instrument was equipped with a  $25\mathrm{mm}$  diameter parallel plate fixture. The upper plate was oscillated at a fixed strain of  $0.1\%$  and a constant angular frequency of  $10\mathrm{rad / s}$ , while the lower plate was attached to a transducer that recorded the resultant torque and converted it to the complex viscosity.
+92: 
+93: Thermal gravimetric analysis (TGA) was performed on a TA Q50 thermal analysis system (TA Instruments, New Castle, DE, USA) with a heating rate of  $20^{\circ}\mathrm{C / min}$  under an air atmosphere with a gas flow rate of  $40~\mathrm{mL / min}$ . Dynamic mechanical analysis (DMA) was performed on a TA Q800 instrument (TA Instruments, New Castle, DE, USA) under an  $\mathbf{N}_2$  atmosphere with a heating rate of  $5^{\circ}\mathrm{C / min}$ . A dual cantilever mode was employed using specimens with the dimensions  $60.0\mathrm{mm} \times 15.0\mathrm{mm} \times 5.0\mathrm{mm}$ .
+94: 
+95: The mechanical properties of the PI foams were measured using an Instron 5567 universal testing machine (Instron, Norwood, MA, USA). The compression property measurement was performed according to GB T8813-2008 using specimens with a size of  $25\mathrm{mm} \times 25\mathrm{mm} \times 25\mathrm{mm}$  at a compression rate of  $2.5\mathrm{mm/min}$ . Dumbbell-shaped specimens were prepared to test the tensile properties of the PI foams with a tensile rate of  $5\mathrm{mm/min}$  according to GB/T 9641-1988.

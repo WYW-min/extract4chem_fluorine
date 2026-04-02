@@ -1,0 +1,172 @@
+source_file: Alicyclic PolyimideSiO2 Mixed Matrix Membranes for Watern-Butanol Pervaporation.md
+doc_id: e0b3ab252e5119414a412cf73a251285
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [131, 288]
+char_span: [16265, 42671]
+line_count: 156
+effective_body_non_empty_lines: 86
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+131: # 3. Results and Discussion
+132: 
+133: # 3.1. Membrane Characterization
+134: 
+135: Figure 3 presents the FTIR spectra of pristine alicyclic PI membranes and their related  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs. In comparison with the pristine PI membranes, the characteristic peaks of Si-O-Si at  $1080~\mathrm{cm^{-1}}$  and  $\mathrm{Si - O(H)}$  at  $940~\mathrm{cm^{-1}}$  [52-54] were observed for all the  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs. It verified the successful incorporation of  $\mathrm{SiO}_2$  nanoparticles in alicyclic PI-based matrices.
+136: 
+137: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+138: Figure 3. FTIR spectra of pristine alicyclic PI membranes and their related  $\mathrm{PI} / \mathrm{SiO}_2$  mixed matrix membranes.
+139: 
+140: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+141: 
+142: According to the TGA results in Figure 4, both pristine alicyclic PI membranes (BCDA-3,4'-ODA and BCDA-1,3,3-APB) exhibited excellent thermal stability because their temperatures for  $5\%$  weight loss  $(T_{5\%})$  were higher than  $350^{\circ}\mathrm{C}$ . Compared to pristine alicyclic PI membranes, the TGA curves for  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs shifted toward slightly higher temperatures. It implies that the thermal stability of the membrane was enhanced with the incorporation of inorganic  $\mathrm{SiO}_2$  nanoparticles.
+143: 
+144: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+145: Figure 4. TGA results of pristine alicylic PI membranes and their related  $\mathrm{PI} / \mathrm{SiO}_2$  mixed matrix membranes.
+146: 
+147: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+148: 
+149: The residual  $\mathrm{wt\%}$  of  $\mathrm{PI} / \mathrm{SiO}_2$  MMM in Figure 4 was contributed from the undecomposed  $\mathrm{SiO}_2$  nanoparticles, and the value was elevated with the increasing  $\mathrm{SiO}_2$  content. The actual  $\mathrm{SiO}_2$ $\mathrm{wt\%}$  in  $\mathrm{PI} / \mathrm{SiO}_2$  MMM was then calculated from the residual  $\mathrm{wt\%}$  values of the relevant TGA curves as follows:
+150: 
+151: $$
+152: \mathrm{SiO}_{2}\mathrm{wt}\% = \frac{\mathrm{Y} - \mathrm{X}}{\mathrm{W} - \mathrm{X}}\times 100\%, \tag{6}
+153: $$
+154: 
+155: where  $\mathrm{Y} =$  residual wt% of PI/SiO $_2$  MMM,  $\mathrm{X} =$  residual wt% of pristine PI membrane,  $\mathrm{W} =$  residual wt% of SiO $_2$  particles. The results are listed in Table 1. The actual SiO $_2$  contents in PI/SiO $_2$  MMMs were a little greater than the values used in the experiments of the membrane preparation. It is possible that some polymer was vanished with solvent vaporization during the curing stage so that the resulted inorganic filler content in MMM was increased. In the subsequent text of this paper, the values of SiO $_2$  wt% adopted in the experiment are presented, since the actual contents are close to them.
+156: 
+157: Table 1. Values of actual  ${\mathrm{{SiO}}}_{2}$  .wt% in alicyclic PI/SiO  ${}_{2}$  MMMs obtained from TGA.  
+158: 
+159: <table><tr><td>SiO2 wt% Used in Experiment</td><td>0.5 wt%</td><td>2.5 wt%</td><td>5 wt%</td><td>15 wt%</td></tr><tr><td>BCDA-3,4&#x27;-ODA/SiO2 MMM</td><td>0.7 wt%</td><td>2.6 wt%</td><td>6.1 wt%</td><td>17.5 wt%</td></tr><tr><td>BCDA-1,3,3-APB/SiO2 MMM</td><td>0.6 wt%</td><td>3.0 wt%</td><td>7.1 wt%</td><td>17.4 wt%</td></tr></table>
+160: 
+161: The thickness for pristine PI membranes and  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs ranged from 20 to  $40~\mu \mathrm{m}$  such that the average thickness was  $30~{\mu\mathrm{m}}$ . The membrane structures were observed via FE-SEM, and the cross-sectional images are displayed in Figure 5. When  $0.5\mathrm{wt}\%$ $\mathrm{SiO}_2$  was filled into the PI matrix, clusters of several  $\mathrm{SiO}_2$  nanoparticles were created. This phenomenon could be attributed to the particle-particle interaction formed via hydrogen bonding [43,55]. With increasing  $\mathrm{SiO}_2$  content, particle agglomeration became more and more serious. As the  $\mathrm{SiO}_2$  content was raised to  $15\mathrm{wt}\%$ , large defects appeared due to the severe particle-cluster aggregation. A similar trend occurred in the literature with
+162: 
+163: mesoporous  $\mathrm{SiO}_2$  spheres  $(1.8 - 2\mu \mathrm{m})$  dispersed into PVA membranes [56]. Because the membrane defects greatly deteriorated the pervaporation performance, the  $\mathrm{PI} / 15\mathrm{wt}\%$ $\mathrm{SiO}_2$  MMMs were not suitable for pervaporation.
+164: 
+165: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+166: 
+167: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+168: 
+169: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+170: 
+171: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+172: 
+173: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+174: 
+175: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+176: 
+177: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+178: 
+179: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+180: 
+181: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+182: Figure 5. FE-SEM images of pristine alicyclic PI membranes and their related  $\mathrm{PI} / \mathrm{SiO}_2$  mixed matrix membranes.
+183: 
+184: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+185: 
+186: Table 2 presents the water contact angles of pristine alicyclic PI membranes and their related  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs. The PI with BCDA-3,4'-ODA had a lower contact angle (about  $10^{\circ}$  lower) than that with BCDA-1,3,3-APB, indicating that BCDA-3,4'-ODA was more hydrophilic than BCDA-1,3,3-APB (with one more phenoxy group). However, the addition of  $\mathrm{SiO}_2$  nanoparticles gave opposite effects on the water contact angle for both PIs. The water contact angle increased for the  $\mathrm{SiO}_2$  incorporation on BCDA-3,4'-ODA/SiO $_2$  MMMs, while the value decreased in the case of BCDA-1,3,3-APB/SiO $_2$  MMMs. In most literatures incorporating  $\mathrm{SiO}_2$  particles into dehydration pervaporation membranes [56-59], the water contact angle decreased with the increased  $\mathrm{SiO}_2$  wt%. Our case of BCDA-1,3,3-APB/SiO $_2$  MMMs exhibited a similar tendency, which implies that BCDA-1,3,3-APB/SiO $_2$  MMMs became slightly more hydrophilic than the pristine BCDA-1,3,3-APB PI membrane [56-59]. On the contrary, the water contact angle for the composite coating via filling  $\mathrm{SiO}_2$  nanoparticles into waterborne fluorine-containing epoxy was found to increase with the increased  $\mathrm{SiO}_2$  content in the work of [60]; a superhydrophobic surface was created with the inclusion of fumed  $\mathrm{SiO}_2$  nanoparticles inside a PDMS pervaporation membrane for ethanol recovery [61]. Similar to these results, the as-prepared BCDA-3,4'-ODA/SiO $_2$  MMMs was a little less hydrophilic than the pristine BCDA-3,4'-ODA PI membrane.
+187: 
+188: Table 2. Water contact angles of pristine alicyclic PI membranes and their related  $\mathrm{PI / SiO_2}$  mixed matrix membranes.  
+189: 
+190: <table><tr><td>SiO2 wt% Used in Experiment</td><td>0 wt%</td><td>0.5 wt%</td><td>2.5 wt%</td><td>5 wt%</td><td>15 wt%</td></tr><tr><td>BCDA-3,4&#x27;-ODA/SiO2 MMM</td><td>64 ± 2°</td><td>64 ± 2°</td><td>65 ± 3°</td><td>70 ± 3°</td><td>72 ± 2°</td></tr><tr><td>BCDA-1,3,3-APB/SiO2 MMM</td><td>75 ± 1°</td><td>72 ± 1°</td><td>71 ± 2°</td><td>70 ± 1°</td><td>66 ± 2°</td></tr></table>
+191: 
+192: # 3.2. Swelling Effects
+193: 
+194: The degree of swelling may be used as an indication of the affinity between polymer and a certain solvent [62]. The experimental results of pure alicyclic PI membranes on the degree of swelling for the three solvents are in the following order: for BCDA-3,4'-ODA, n-butanol  $(61\%) >$  ethanol  $(57\%) >$  water  $(47\%)$ ; for BCDA-1,3,3-APB, n-butanol  $(55\%) >$  ethanol  $(25\%) >$  water  $(10\%)$ . As indicated in the literature [63] using aromatic PI membranes, the degree of swelling for  $90~\mathrm{wt}\%$  aqueous ethanol solution was higher than that for  $10~\mathrm{wt}\%$  aqueous ethanol solution; that is, the aromatic PIs exhibited a stronger affinity with ethanol molecules than water molecules. In [62], the pure membranes of commercial PIs such as Matrimid, Torlon, and P84 showed the solvent uptake ratio in an order of n-butanol  $>$  isopropanol  $>$  ethanol  $>$  water. Our results of alicyclic PI membranes had the same tendency on solvent affinity as theirs.
+195: 
+196: To theoretically investigate the membrane solubility, Hansen solubility parameters [64] are usually adopted. The total solubility parameter  $\delta$ $(\mathrm{(MJ / m^3)^{1 / 2})}$  includes three terms: dispersion  $(\delta_{\mathrm{d}})$ , polarity  $(\delta_{\mathrm{p}})$ , and hydrogen bonding  $(\delta_{\mathrm{h}})$ :
+197: 
+198: $$
+199: \delta^ {2} = \delta_ {\mathrm {d}} ^ {2} + \delta_ {\mathrm {p}} ^ {2} + \delta_ {\mathrm {h}} ^ {2}. \tag {7}
+200: $$
+201: 
+202: The values of Hansen solubility parameters for common polymers could be found from the literature, but not for the polymers with more complex, uncommon, or newly synthesized monomers. In our case, the Van-Krevelen-Hoftyzer (VKH) method [65] was used to decompose the functional groups of alicyclic PI and then sum up the group contributions for evaluating the solubility parameter value, as follows:
+203: 
+204: $$
+205: \delta_ {\mathrm {d}} = \sum \frac {\mathrm {F} _ {\mathrm {d i}}}{\mathrm {V}}, \tag {8}
+206: $$
+207: 
+208: $$
+209: \delta_ {\mathrm {P}} = \frac {\sqrt {\sum \mathrm {F} _ {\mathrm {p i}} ^ {2}}}{\mathrm {V}}, \tag {9}
+210: $$
+211: 
+212: $$
+213: \delta_ {\mathrm {h}} = \sqrt {\frac {\sum \mathrm {E} _ {\mathrm {h i}}}{\mathrm {V}}}, \tag {10}
+214: $$
+215: 
+216: $$
+217: V = \frac {M}{\rho}, \tag {11}
+218: $$
+219: 
+220: where  $\mathrm{F_{di}}$ : dispersion term  $(\mathrm{J}^{1 / 2}\mathrm{cm}^{3 / 2}\mathrm{mol}^{-1})$ ;  $\mathrm{F_{pi}}$ : polar term  $(\mathrm{J}^{1 / 2}\mathrm{cm}^{3 / 2}\mathrm{mol}^{-1})$ ;  $\mathrm{E_{hi}}$ : hydrogen bonding term (J/mol); V: molar volume  $(\mathrm{cm}^3 /\mathrm{mol})$ ;  $\rho$ : density  $(\mathrm{g / cm^3})$ ; M: molecular weight of the repeating unit (g/mol). In order to judge the affinity between solvent and polymer,  $\delta_{\mathrm{m,c}}$ , the interaction force between polymer (m) and solvent (c) was calculated from the following equation [66-68]:
+221: 
+222: $$
+223: \delta_ {\mathrm {m}, \mathrm {c}} = \sqrt {\left(\delta_ {\mathrm {d} , \mathrm {m}} - \delta_ {\mathrm {d} , \mathrm {c}}\right) ^ {2} + \left(\delta_ {\mathrm {p} , \mathrm {m}} - \delta_ {\mathrm {p} , \mathrm {c}}\right) ^ {2} + \left(\delta_ {\mathrm {h} , \mathrm {m}} - \delta_ {\mathrm {h} , \mathrm {c}}\right) ^ {2}}. \tag {12}
+224: $$
+225: 
+226: The values of  $\delta_{\mathrm{d}}$ ,  $\delta_{\mathrm{p}}$ ,  $\delta_{\mathrm{h}}$ ,  $\delta$ , and  $\delta_{\mathrm{m,c}}$  for alicyclic PIs,  $\mathrm{SiO}_2$ , and three solvents are presented in Table 3. In general, the smaller the  $\delta_{\mathrm{m,c}}$  value, the higher the affinity between polymer and solvent [66].
+227: 
+228: Table 3. Values of Hansen solubility parameters for alicyclic PIs,  $\mathrm{SiO}_2$ , and three solvents.  
+229: 
+230: <table><tr><td></td><td>δD</td><td>δP</td><td>δH</td><td>δ</td></tr><tr><td>BCDA-3,4&#x27;-ODA</td><td>15.3</td><td>6.3</td><td>8.3</td><td>18.5</td></tr><tr><td>BCDA-1,3,3-APB</td><td>16.1</td><td>5.3</td><td>8.0</td><td>18.7</td></tr><tr><td>SiO2</td><td>18</td><td>27.5</td><td>29</td><td>43.8</td></tr><tr><td>Butanol</td><td>16</td><td>5.7</td><td>15.8</td><td>23.2</td></tr><tr><td>Ethanol</td><td>15.8</td><td>8.8</td><td>19.4</td><td>26.5</td></tr><tr><td>Water</td><td>15.5</td><td>16</td><td>42.3</td><td>47.8</td></tr><tr><td>δm,c</td><td>BCDA-3,4&#x27;-ODA</td><td colspan="2">BCDA-1,3,3-APB</td><td>SiO2</td></tr><tr><td>Butanol</td><td>7.6</td><td colspan="2">7.8</td><td>25.6</td></tr><tr><td>Ethanol</td><td>11.4</td><td colspan="2">11.9</td><td>21.1</td></tr><tr><td>Water</td><td>35.4</td><td colspan="2">35.9</td><td>17.8</td></tr></table>
+231: 
+232: As shown in Table 3, BCDA-3,4'-ODA had slightly lower  $\delta_{\mathrm{m,c}}$  values for the three solvents than BCDA-1,3,3-APB. That is, BCDA-3,4'-ODA should have had slightly better affinities with the three solvents than BCDA-1,3,3-APB, which matched the results of solvent swelling effect. Moreover, the order of  $\delta_{\mathrm{m,c}}$  value for both PIs was butanol  $<$  ethanol  $<$  water. In reverse order, the affinity between alicyclic PI and solvent became butanol  $>$  ethanol  $>$  water. This sequence was consistent with the order of the solvent swelling degree obtained in this work. On the other hand, the Hansen solubility parameters of  $\mathrm{SiO}_2$  and its related  $\delta_{\mathrm{m,c}}$  values for the three solvents were also evaluated, and the data are reported in Table 3. The order of  $\delta_{\mathrm{m,c}}$  value for  $\mathrm{SiO}_2$  was butanol  $>$  ethanol  $>$  water, in an entirely opposite order to alicyclic PIs. These data suggest that  $\mathrm{SiO}_2$  should be more hydrophilic than alicyclic PIs.
+233: 
+234: However, the results of water contact angle in Table 2 indicate that the incorporation of  $\mathrm{SiO}_2$  nanoparticles in MMM exhibited the opposite tendency on hydrophilicity for a different PI matrix. Thus, the solvent solubilities of  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs were investigated via measuring their solvent swelling degrees. The results are listed in Table 4. In the case of BCDA-3,  $4^{\prime}$ -ODA/ $\mathrm{SiO}_2$  MMMs, the increase in  $\mathrm{SiO}_2$  wt% led to the decrease in the degree of swelling of pure water but an increase in pure butanol solubility. In contrast, an opposite trend was attained for BCDA-1,3,3-APB/ $\mathrm{SiO}_2$  MMMs. These trends are in good agreement with the water contact angle results. Conclusively, the BCDA-3,  $4^{\prime}$ -ODA/ $\mathrm{SiO}_2$  MMMs became less hydrophilic due to the incorporation of  $\mathrm{SiO}_2$  nanoparticles, whereas BCDA-1,3,3-APB/ $\mathrm{SiO}_2$  MMMs were more hydrophilic with  $\mathrm{SiO}_2$  loading. The phenomena on solvent swelling degrees displayed in the literature adopting chitosan/ $\mathrm{SiO}_2$  xerogel MMMs [59] were similar to our BCDA-1,3,3-APB/ $\mathrm{SiO}_2$  MMM case, since the tendency of water contact angle was the same.
+235: 
+236: Table 4. Degrees of swelling for pristine alicylic PI membranes and their related  $\mathrm{{PI}}/{\mathrm{{SiO}}}_{2}$  mixed matrix membranes.  
+237: 
+238: <table><tr><td>SiO2 wt% Used in Experiment</td><td></td><td>0 wt%</td><td>0.5 wt%</td><td>2.5 wt%</td><td>5 wt%</td><td>15 wt%</td></tr><tr><td rowspan="2">BCDA-3,4&#x27;-ODA/SiO2 MMM</td><td>water</td><td>47%</td><td>48%</td><td>47%</td><td>44%</td><td>38%</td></tr><tr><td>n-butanol</td><td>61%</td><td>69%</td><td>79%</td><td>83%</td><td>92%</td></tr><tr><td rowspan="2">BCDA-1,3,3-APB/SiO2 MMM</td><td>water</td><td>10%</td><td>19%</td><td>22%</td><td>24%</td><td>39%</td></tr><tr><td>n-butanol</td><td>55%</td><td>48%</td><td>37%</td><td>34%</td><td>31%</td></tr></table>
+239: 
+240: # 3.3. Pervaporation Performance
+241: 
+242: The pervaporation process of  $85\mathrm{wt}\%$  n-butanol aqueous solution was conducted at  $40^{\circ}\mathrm{C}$  using one piece of membrane disc (effective surface area:  $19.63~\mathrm{cm}^2$ ) in this study. The results of the total permeation flux and separation factor are illustrated in Figure 6. Due to the membrane thickness variation, the normalized permeation flux  $(J_{\mathrm{N}})$  in terms of  $30~\mu \mathrm{m}$  (the average membrane thickness) was expressed. For pristine alicyclic PI membranes, BCDA-3,4'-ODA exhibited both a larger flux and a higher separation factor than BCDA-1,3,3-APB.
+243: 
+244: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+245: 
+246: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+247: 
+248: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+249: Figure 6. Pervaporation performance of pristine alicyclic PI membranes and their related  $\mathrm{PI} / \mathrm{SiO}_2$  mixed matrix membranes.
+250: 
+251: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+252: 
+253: Worth reminding is that solution-diffusion is the principal separation mechanism for pervaporation through a dense membrane [14,15]. In the previous section discussing the swelling effect, BCDA-3,4'-ODA certainly revealed higher solvent affinities than BCDA-1,3,3-APB. To further understand the diffusion discrepancy for both alicyclic PIs, fractional free volume (FFV) was evaluated. FFV is usually applied to quantify the gap between polymer segments. As FFV increases, solvent molecules pass through the membrane more easily, resulting in an increased flux. The calculation of FFV is as follows [69]:
+254: 
+255: $$
+256: \mathrm {F F V} = \frac {\mathrm {V} - \mathrm {V} _ {0}}{\mathrm {V}} = 1 - \rho_ {\mathrm {m}} \mathrm {V} _ {0}, \tag {13}
+257: $$
+258: 
+259: $$
+260: \mathrm {V} _ {0} = 1. 3 \mathrm {V} _ {\mathrm {W}}, \tag {14}
+261: $$
+262: 
+263: where V: specific volume of polymer  $(= 1 / \rho_{\mathrm{m}})$ $(\mathrm{cm}^3 /\mathrm{mol})$  .  $\mathrm{V_0}$  : occupied volume of polymer at  $0\mathrm{K}$ $(\mathrm{cm}^3 /\mathrm{mol})$  .  $\rho_{\mathrm{m}}$  : molar density of polymer  $(\mathrm{mol} / \mathrm{cm}^{3})$  .  $\mathrm{V_W}$  : Van der Waals volume  $(\mathrm{cm}^3 /\mathrm{mol})$  .  $\mathrm{V_W}$  value was estimated by Bondi's model of group contribution [70]. The results verified that BCDA-3,4'-ODA had a larger FFV value (0.189) than BCDA-1,3,3-APB (0.171). More free volume allowed more solvent molecules to pass through the PI membrane
+264: 
+265: with BCDA-3,4'-ODA. Since both the solvent solubility and diffusivity of BCDA-3,4'-ODA were higher than BCDA-1,3,3-APB, the resulting total permeation flux of BCDA-3,4'-ODA was two-fold that of BCDA-1,3,3-APB.
+266: 
+267: In addition, the individual fluxes of water and n-butanol were separately plotted in Figure 6. For both pristine PI membranes, the water flux was much larger than the butanol flux, such that the total flux was close to the individual water flux. This phenomenon is totally opposite to their swelling results in Table 4, where n-butanol could be uptaken and sorbed into the pure PI membrane more than water. The contradictory trend between solvent swelling degree and permeation flux for water/alcohol systems was also reported for the chitosan membrane [59] and BPDA-PI membrane [63]. The molecular dynamic diameter of water (2.7 Å) is smaller than butanol (5.5 Å) [59] so that water has a faster diffusion capability than butanol. Diffusion accelerated more water molecules across the dense PI membrane, resulting in a high water percentage at the permeate flux. Consequently, a large separation factor of water over butanol was yielded. The separation ability of our PI membranes was mainly accredited to the diffusion mechanism. The dominant diffusivity process of pervaporation was also found in the literature [58] using the PVA/nano silica composite membranes.
+268: 
+269: To evaluate the effect of  $\mathrm{SiO_2}$  incorporation, the pervaporation results of the alicyclic  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs are also presented in Figure 6. The tendency of total flux was close to that of individual water flux because the water content in permeate was very big. Moreover, both kinds of  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs revealed similar effects on permeation fluxes, although they had opposite effects on membrane hydrophilicity (analyzed from the data of water contact angle and degree of swelling). The water flux values in most MMM cases were less than that of pristine PI membrane. On the other hand, with the increased  $\mathrm{SiO_2}$  content, the n-butanol flux decreased first and then increased for both types of  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs. The variation in solvent flux may be contributed from three effects: The first one is the degree of swelling [59], and a reminder that both types of  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs exhibited the opposite tendency in solvent swelling degree. The second effect is the restriction on liquid transport due to the blockage of nonporous  $\mathrm{SiO_2}$  nanoparticles [71], which would reduce the solvent flux. The third possible effect is the creation of non-selective transport paths owing to the void formation from  $\mathrm{SiO_2}$  nanoparticle aggregation [43,56,58,59], which usually occurs at higher loading content. The combination of these phenomena led to different trends for water flux and n-butanol flux. Water flux may be interfered more with the addition of nonporous  $\mathrm{SiO_2}$  nanoparticles. Since diffusion transport took over the permeation rate, this influence had even overwhelmed the effect of increasing water affinity for  $\mathrm{SiO_2}$  loading in BCDA-1,3,3-APB/ $\mathrm{SiO_2}$  MMMs. As for n-butanol flux, the combined effect resulted in the minimal flux appearing at  $0.5\mathrm{wt}\%$ $\mathrm{SiO_2}$  loading for BCDA-3,4'-ODA/ $\mathrm{SiO_2}$  MMMs and  $2.5\mathrm{wt}\%$  for BCDA-1,3,3-APB/ $\mathrm{SiO_2}$  MMMs.
+270: 
+271: In the aspect of the separation factor, both  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs displayed a similar effect: the separation factor increased first and then decreased with the increasing filler loading. Similar trends were also indicated in the literatures [56,59]. In Figure 6, the optimal separation factor occurred at  $0.5\mathrm{wt}\%$  for BCDA-3,4'-ODA/SiO $_2$  MMMs and  $2.5\mathrm{wt}\%$  for BCDA-1,3,3-APB/SiO $_2$  MMMs, which were identical to the  $\mathrm{SiO}_2$  content for the minimal n-butanol flux in each case. The separation factor was raised mainly by the decrease in n-butanol flux. In addition, the incorporation of  $\mathrm{SiO}_2$  nanoparticles was more effective for the case of BCDA-1,3,3-APB/SiO $_2$  MMMs, especially to enhance the separation factor at 3-5.7-fold.
+272: 
+273: By combining the two important pervaporation outcomes (total flux and separation factor) together, the PSI value for each membrane was calculated as the index of separation efficiency. The PSI data are plotted in Figure 7. Based on the PSI performance, the optimal  $\mathrm{SiO}_2$  content was  $0.5\mathrm{wt}\%$  for BCDA-3,4'-ODA/SiO $_2$  MMMs and  $5\mathrm{wt}\%$  for BCDA-1,3,3-APB/SiO $_2$  MMMs. In the case of BCDA-1,3,3-APB, the maximum PSI value did not occur at the maximal separation factor ( $2.5\mathrm{wt}\%$  from Figure 6). The value of total permeation flux had a more significant contribution on the evaluation of PSI in this case,
+274: 
+275: due to the fact that the separation factor values for BCDA-1,3,3-APB/ $\mathrm{SiO}_2$  MMMs were not high. However, at the optimal filler content, the PSI value of BCDA-1,3,3-APB/5 wt%  $\mathrm{SiO}_2$  MMM was raised 3.6-fold of pure PI membrane, while that of BCDA-3,4'-ODA/0.5 wt%  $\mathrm{SiO}_2$  MMM was enhanced by only  $8\%$ .
+276: 
+277: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+278: Figure 7. Variation in PSI (pervaporation separation index) with the increasing  $\mathrm{SiO_2}$  wt% in  $\mathrm{PI} / \mathrm{SiO}_2$  mixed matrix membrane.
+279: 
+280: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+281: 
+282: The water/n-butanol pervaporation performances using the as-prepared alicyclic  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs in this study are compared to those of other membranes reported in the literatures, as listed in Table 5. Note that the overall separation efficiency (PSI) of BCDA-3,4'-ODA-based membranes is about 10-30 times higher than that of BCDA-1,3,3-APB-based membranes. Only the PSI values of pristine alicyclic PI membrane and the  $\mathrm{PI} / \mathrm{SiO}_2$  MMM with optimal  $\mathrm{SiO}_2$  content are presented in Table 5 for comparison. The PSI values of BCDA-1,3,3-APB-based membranes are only comparable to those of silica membranes, but they have better permeation flux than silica, pristine PBI, Torlon-based, P84-based, and PPSU-based membranes. On the other hand, the BCDA-3,4'-ODA-based membranes are superior to commercial PI/30% hPIM-1, PPSU-based, PVA cross-linked by citric acid, and silica membranes in both permeation flux and PSI. Consequently, large permeation flux is the chief feature of our alicyclic  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs.
+283: 
+284: Table 5. Comparison of water/n-butanol pervaporation performance of alicyclic PI/SiO $_2$  mixed matrix membranes with literatures.  
+285: 
+286: <table><tr><td>Membrane</td><td>Feed Conc. (wt%)</td><td>Temp. (°C)</td><td>Flux (g/m2h)</td><td>Separation Factor</td><td>PSI (g/m2h)</td><td>Ref.</td></tr><tr><td>BCDA-3,4&#x27;-ODA</td><td>85</td><td>40</td><td>106</td><td>235</td><td>24,804</td><td>This work</td></tr><tr><td>BCDA-3,4&#x27;-ODA/0.5 wt% SiO2</td><td>85</td><td>40</td><td>96</td><td>279</td><td>26,688</td><td>This work</td></tr><tr><td>BCDA-1,3,3-APB</td><td>85</td><td>40</td><td>55</td><td>15</td><td>770</td><td>This work</td></tr><tr><td>BCDA-1,3,3-APB/5 wt% SiO2</td><td>85</td><td>40</td><td>38</td><td>72</td><td>2698</td><td>This work</td></tr><tr><td>Matrimid/0% hPIM-1</td><td>85</td><td>60</td><td>24.8</td><td>5661</td><td>140,368</td><td>[63]</td></tr><tr><td>Matrimid/30% hPIM-1</td><td>85</td><td>60</td><td>109</td><td>72</td><td>7739</td><td>[63]</td></tr><tr><td>Torlon/0% hPIM-1</td><td>85</td><td>60</td><td>11.3</td><td>5661</td><td>63,958</td><td>[63]</td></tr><tr><td>Torlon/30% hPIM-1</td><td>85</td><td>60</td><td>30</td><td>655</td><td>19,620</td><td>[63]</td></tr><tr><td>P84/0% hPIM-1</td><td>85</td><td>60</td><td>18</td><td>5661</td><td>101,880</td><td>[63]</td></tr><tr><td>P84/30% hPIM-1</td><td>85</td><td>60</td><td>52.2</td><td>74</td><td>3811</td><td>[63]</td></tr><tr><td>PBI</td><td>85</td><td>60</td><td>11.6</td><td>&gt;5000</td><td>&gt;57,988</td><td>[35]</td></tr><tr><td>PBI/58%ZIF-8</td><td>85</td><td>60</td><td>226</td><td>698</td><td>157,522</td><td>[35]</td></tr><tr><td>CS/SiO2 xerogel (0.25 wt%)</td><td>90</td><td>25</td><td>476</td><td>1930</td><td>918,204</td><td>[59]</td></tr><tr><td>CS/SiO2 xerogel (0.25 wt%)</td><td>90</td><td>75</td><td>817</td><td>285</td><td>232,028</td><td>[59]</td></tr><tr><td>PPSU</td><td>85</td><td>60</td><td>28</td><td>395</td><td>11,032</td><td>[72]</td></tr><tr><td>5%-sPPSU</td><td>85</td><td>60</td><td>35</td><td>659</td><td>23,030</td><td>[72]</td></tr><tr><td>PVA cross-linked by citric acid</td><td>90</td><td>30</td><td>82</td><td>171</td><td>13,940</td><td>[73]</td></tr><tr><td>Silica membrane with α- and γ-alumina support layers</td><td>95</td><td>75</td><td>4.5</td><td>600</td><td>2696</td><td>[73]</td></tr><tr><td>Silica membrane with γ-alumina substrate tube</td><td>95</td><td>75</td><td>3</td><td>250</td><td>747</td><td>[73]</td></tr></table>

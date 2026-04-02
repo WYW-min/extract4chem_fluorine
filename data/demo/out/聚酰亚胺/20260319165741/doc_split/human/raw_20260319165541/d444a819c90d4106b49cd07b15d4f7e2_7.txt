@@ -1,0 +1,21 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 7
+block_id: b0008
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Preparation of the organophilic clays BAOB-MMT
+line_span: [65, 71]
+char_span: [14792, 15792]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0008: Preparation of the organophilic clays BAOB-MMT) ---
+65: # Preparation of the organophilic clays BAOB-MMT
+66: 
+67: Sodium montmorillonite  $(2.000\mathrm{g})$  was stirred in  $100~\mathrm{ml}$  of distilled water (beaker A) at room temperature overnight. A separate solution containing BAOB  $(0.9152\mathrm{g}, 2.308\mathrm{mmol})$  in  $200~\mathrm{ml}$  of distilled water (beaker B) was kept under magnetic stirring at  $80^{\circ}\mathrm{C}$  and then  $35\%$  aqueous HCl was added to adjust the pH value to about 3-4. After complete dissolution of diamine and stirring for additional  $1\mathrm{h}$ , the contents of beaker
+68: 
+69: A were added at approximately  $10\mathrm{ml / min}$  under vigorous stirring and then stirred at  $80^{\circ}\mathrm{C}$  for an hour. The organoclay was filtered in a Buchner funnel. To remove any excess of ammonium ions, the precipitate was washed with distilled water until a chloride ion test with a  $0.1\mathrm{MAgNO}_3$  solution was negative and then dried in vacuum at  $50^{\circ}\mathrm{C}$  for  $48\mathrm{h}$  [47].

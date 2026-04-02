@@ -1,0 +1,26 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol Fuel Cell
+line_span: [1, 12]
+char_span: [0, 477]
+line_count: 10
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0001: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol Fuel Cell) ---
+1: [MINERU_DISCARDED_META]
+2: Sains Malaysiana 49(12)(2020):3125-3143
+3: http://dx.doi.org/10.17576/jsm-2020-4912-25
+4: [/MINERU_DISCARDED_META]
+5: 
+6: # Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol Fuel Cell
+7: 
+8: (Pengubahsuaian dan Pengoptimuman Bio-Pengisi Abu Sekam Padi dalam Membran Poliimida Tersulfonan untuk Bahan Api Sel Metanol Langsung)
+9: 
+10: YOU PO YING, SITI KARTOM KAMARUDIN, MOHD SHAHBUDIN MASPAR & AZRAN MOHD ZAINOODIN*

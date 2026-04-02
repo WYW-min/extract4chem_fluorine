@@ -1,0 +1,25 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. I. PolyimidePolycarbonate &amp; Polyi.md
+doc_id: f91b88f276768d6bce57bac63e978fc5
+chunk_index: 7
+block_id: b0008
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [92, 100]
+char_span: [9957, 10844]
+line_count: 9
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0008: References) ---
+92: # References
+93: 
+94: 1. S. Kudaikulova, G. Boiko, B. Zhubanov, N. Ashurov, O. Figovsky, M. Abadie. Formulation of polyimide macromolecular blends by one step matrix polycondensation. Sci. Israel-Technol. Adv. 1:3 (1999).  
+95: 2. T. Agag, T. Takeichi. Synthesis and characterization of epoxy film cured with reactive polyimide. Polymer. 40:6557 (1999).  
+96: 3. K. Gaw, M. Kikei, M. Kakimoto, Y. Imai. Preparation of polyimide-epoxy composites. Reac.& Funct. Polym. 30:85 (1996).  
+97: 4. E. M. Woo, S. N. Yau. Peculiar glass transition behavior and miscibility in a binary mixture comprising amorphous poly(ether imide) with semicrystalline poly(butylene terephthalate). Macromolecules 30(12):3626 (1997).  
+98: 5. M. Zuo, T. Takeichi. Preparation and characterization of poly(urethane-imide) films prepared from reactive polyimide and polyurethane prepolymer. Polymer 40: 5153 (1999).
+99: 
+100: Received 28 June 2003.

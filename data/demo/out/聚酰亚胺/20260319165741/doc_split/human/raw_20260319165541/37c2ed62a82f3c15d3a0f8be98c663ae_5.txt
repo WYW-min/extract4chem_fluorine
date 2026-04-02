@@ -1,0 +1,179 @@
+source_file: Formation of Nano-Fibrous Patterns on Aluminum Substrates via Photolithographic Fabrication of Electrospun Pho.md
+doc_id: 37c2ed62a82f3c15d3a0f8be98c663ae
+chunk_index: 5
+block_id: b0006
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [104, 268]
+char_span: [21035, 48744]
+line_count: 163
+effective_body_non_empty_lines: 92
+
+lines:
+--- chunk (b0006: 3. Results and Discussion) ---
+104: # 3. Results and Discussion
+105: 
+106: # 3.1. PI Resin Synthesis and Electrospun PI NFMs Preparation
+107: 
+108: The standard PI-1 (BTDA-TMMDA) represents a type of auto-sensitive negative PSPI developed in the 1980s, which is intrinsically sensitive to the emitting wavelength of a high-pressure mercury lamp  $(365\sim 436\mathrm{nm})$  without any additional photoactive compounds [26]. In such PSPI, the benzophenone units in the BTDA moiety will be excited by the UV exposure to form the triplet, which will capture the hydrogen atoms in the methyl substituents ortho to the amino groups in the TMMDA moiety. This will lead to the intra- and intermolecular photocrosslinking reactions, making the UV-exposed parts insoluble in the developer (DMF or CPA) [27]. Thus, negative patterns to the photomask will be obtained. In view of the several intrinsic defects of the pristine PI (BTDA-TMMDA) system, such as the relatively low photo-efficiency, low optical transmittance to the UV light sources, the high coefficient of linear thermal expansion (CTE), and so on, various modifications via incorporation of the third or more monomers have been reported in the past decades [28,29]. Most of the above modification works are to improve the comprehensive properties of the
+109: 
+110: pristine PI (BTDA-TMMDA) system with the preconditions of maintaining the inherent photosensitivity. In the current work, a third monomer, TSN diamine, was used to copolymerize with TMMDA to afford the modified PSPI with improved properties. On the one hand, the TSN diamine contains two ortho-substituted methyl groups to the amino groups in one molecular unit. Thus, the photosensitivity of the derived co-polyimides might be maintained to a great extent because the photoreaction efficiency of such types of PSPIs was positively correlated with the numbers of alkyl substituents in the repeating units of the polymers. Secondly, the TSN diamine has sulfone groups in the structure, whose bulky and electron-withdrawing nature might endow the derived PIs with enhanced solubility in organic solvents and improved optical transparency. At last, the TSN diamine has a ring-fused structure, which might provide high thermal stability to the derived PIs. These are all desirable properties for the practical applications of the PIs.
+111: 
+112: The detailed synthesis procedure for the PIs is shown in Figure 2. All the reaction systems remained homogeneous, and no gelling or precipitating phenomena were observed, indicating the good solubility of the derived PI resins in the reaction medium. Flexible and tough silky PI resins were nearly quantitatively obtained after precipitating the PI solutions into the poor solvent of aqueous ethanol.
+113: 
+114: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+115: Figure 2. Synthesis of PI-1 (BTDA-TMMDA) and SPI copolymer resins.
+116: 
+117: First, the inherent viscosities  $([\eta]_{\mathrm{inh}})$  and molecular weights of the PI and SPI resins were detected, and the results are shown in Table 2. The copolymer PI (SPI-2~SPI-6) resins showed the  $(\eta)_{\mathrm{inh}}$  values in the range of  $0.47\sim 0.78\mathrm{dLg}^{-1}$ , the number of average molecular weights  $(M_n)$  in the range of  $(2.87\sim 4.70)\times 10^{4}\mathrm{g mol}^{-1}$ , and the weight average molecular weights  $(M_w)$  in the range of  $(5.13\sim 8.83)\times 10^{4}\mathrm{g mol}^{-1}$ , respectively. These values are all correspondingly lower than those of the pristine PI-1 (BTDA-TMMDA) system  $((\eta)_{\mathrm{inh}} = 1.00\mathrm{dLg}^{-1}, M_n = 5.06\times 10^4\mathrm{g mol}^{-1})$ , indicating that incorporation of the TSN monomer decreased the molecular weights of the polymers. This might be due to the decreased reactivity of the TSN diamine due to the existence of the electron-withdrawing sulfone groups. Nevertheless, the current co-polyimides possessed acceptable molecular weights for the following NFM fabrications.
+118: 
+119: The solubility of the PI resins in some representative solvents was evaluated, and the results are presented in Table 2. As expected, all the PI resins were soluble in the polar aprotic solvents (NMP and DMAc) and ketone-type solvent (CPA) at room temperature at a solid content of  $10\mathrm{wt}\%$ . All of them were resistant to the ester-type solvent, such as
+120: 
+121: GBL. Undoubtedly, the synergistic effects of the multi-substituted methyl groups and the bulky sulfone units efficiently prevented the ordered packing of the molecular chains in the polymers. This structural feature endowed the PI resins amorphous nature, as could be proven by the XRD spectra of the polymers shown in Figure 3. When the molar ratio of the TSN in the diamine moiety was lower than  $10\%$  (SPI-2 and SPI-3), they were also soluble in THF. Further higher loading of TSN resulted in the deterioration of the solubility in THF. Basically, the incorporation of the TSN component slightly decreased the solubility of the PI resins in organic solvents, which might be due to the highly conjugated and fused rings in the diamine. The good solubility of the PI resins in the tested solvents makes it possible to fabricate the PI NFMs using the PI solutions as the starting materials.
+122: 
+123: Table 2. Inherent viscosities, molecular weights, and solubility of PI resins.  
+124: 
+125: <table><tr><td rowspan="2"></td><td rowspan="2">(η)inh1(dL g-1)</td><td colspan="3">Molecular Weight2</td><td colspan="5">Solubility3</td></tr><tr><td>Mn (×104g mol-1)</td><td>Mw (×104g mol-1)</td><td>PDI</td><td>NMP</td><td>DMAc</td><td>GBL</td><td>CPA</td><td>THF</td></tr><tr><td>PI-1</td><td>1.00</td><td>5.06</td><td>8.98</td><td>1.77</td><td>++</td><td>++</td><td>-</td><td>++</td><td>++</td></tr><tr><td>SPI-2</td><td>0.78</td><td>4.70</td><td>8.83</td><td>1.88</td><td>++</td><td>++</td><td>-</td><td>++</td><td>++</td></tr><tr><td>SPI-3</td><td>0.62</td><td>3.80</td><td>6.97</td><td>1.83</td><td>++</td><td>++</td><td>-</td><td>++</td><td>++</td></tr><tr><td>SPI-4</td><td>0.56</td><td>3.43</td><td>6.03</td><td>1.76</td><td>++</td><td>++</td><td>-</td><td>++</td><td>+</td></tr><tr><td>SPI-5</td><td>0.50</td><td>3.16</td><td>5.46</td><td>1.73</td><td>++</td><td>++</td><td>-</td><td>++</td><td>+</td></tr><tr><td>SPI-6</td><td>0.47</td><td>2.87</td><td>5.13</td><td>1.79</td><td>++</td><td>++</td><td>-</td><td>++</td><td>+</td></tr></table>
+126: 
+127: <sup>1</sup> Inherent viscosities measured with a  $0.5\mathrm{g}\mathrm{dL}^{-1}$  PI solution in NMP at  $25^{\circ}\mathrm{C}$ ; <sup>2</sup>  $M_{\mathrm{n}}$ : number average molecular weight;  $M_{\mathrm{w}}$ : weight average molecular weight; PDI: polydispersity index,  $\mathrm{PDI} = M_{\mathrm{w}} / M_{\mathrm{n}}$ ; <sup>3</sup> ++: Soluble; +: partially soluble; -: insoluble. GBL:  $\gamma$ -butyrolactone; CPA: cyclopentanone; THF: tetrahydrofuran.
+128: 
+129: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+130: Figure 3. XRD spectra of PI-1 and SPI resins.
+131: 
+132: Although all the co-polyimide resins were soluble in the polar solvents, such as in DMAc, the dissolution behaviors might be quite different. Therefore, the correlations between the solid contents and the absolute viscosities of the PI solutions were quantitatively evaluated, as shown in Figure 4. The absolute viscosities of the PI solutions were determined by both the solubility of resins in the solvent and the molecular weights of the resins. Thus, the plot could reveal the dissolution behaviors of the PI resins. For example, at the same solid content of  $30\mathrm{wt}\%$ , the viscosities of the PI solutions increased with the order of  $\mathrm{SPI - 6 < SPI - 5 < SPI - 4 < SPI - 3 < SPI - 2}$ . This is in good agreement with the changing trend of  $M_{\mathrm{n}}$  values for the PI resins. On the other hand, in order to achieve the same absolute viscosity for the PI solutions, much more resins with relatively low molecular weight have to be added. The information was beneficial for the selection of appropriate solution parameters for the electrospinning fabrication of the PI NFMs.
+133: 
+134: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+135: Figure 4. Relationship between the solid contents and the absolute viscosities of the SPI solutions. (Insert: appearance of the SPI solutions).
+136: 
+137: Based on the evaluation results of the solution properties of the developed PI resins, a series of photosensitive PI NFMs were fabricated by a standard electrospinning procedure, as shown in Figure 5. In the current work, PI solutions with the same solid content of  $30\mathrm{wt}\%$  were used as the electrospinning solutions so as to achieve a similar thickness to the final NMFs. According to the data shown in Figure 4, the absolute viscosities of the PI solutions were  $19,350\mathrm{mPa}$  s for SPI-2,  $7773\mathrm{mPa}$  s for SPI-3,  $3377\mathrm{mPa}$  s for SPI-4,  $3199\mathrm{mPa}$  s for SPI-5, and  $1957\mathrm{mPa}$  s for SPI-6, respectively. It can be anticipated that the different viscosities of the starting materials will affect the final micro-morphologies of the derived PI NFMs.
+138: 
+139: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+140: Figure 5. Electrospinning fabrication for the photosensitive PI and SPI NFMs.
+141: 
+142: Figure 6 shows the microscopic and representative macroscopic morphologies of the PI NFMs together with the average diameters of the fibers. It can be clearly seen from Figure 6a-e that as the viscosity (molecular weight) of the starting electrospinning solution decreased, the micro-morphologies of the PI NFMs gradually evolved from the filaments (SPI-2) to the combination of filaments and beads (SPI-3), and finally formed NFMs almost completely composed of the bead structures (SPI-4, SPI-5, and SPI-6). It has been well established in the literature that the micro-morphologies of the electrospun NFMs could be tailored by adjusting the solution parameters of the starting solutions [30]. Bead-like structures could often be achieved under the comprehensive actions of gravity force, electrical field force, and surface tension of the polymer droplets when the dilute solution was used as the electrospinning solution. The current phenomenon is in good agreement with the literature reports. The SPI-2 and SPI-3 NFMs mainly composed of fibers showed statistical average diameters  $(d_{\mathrm{av}})$  of around  $240~\mathrm{nm}$ , whereas the SPI-4~SPI-6 NFMs, mainly composed of beads, showed much higher  $d_{\mathrm{av}}$  values at the level of micrometers. The representative SPI-4 NFM showed a compact and pale-brown appearance, as shown in Figure 6f.
+143: 
+144: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+145: (a)
+146: 
+147: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+148: (b)
+149: 
+150: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+151: 
+152: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+153: 
+154: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+155: (c)
+156: 
+157: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+158: (d)
+159: 
+160: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+161: 
+162: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+163: 
+164: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+165: (e)
+166: 
+167: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+168: (f)
+169: 
+170: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+171: Figure 6. Microscopic (a-e) and macroscopic (f) morphologies of PI NFMs together with the average diameters of the fibers. (a-e) SEM images of SPI-2, SPI-3, SPI-4, and SPI-5 membranes, respectively; (f) Appearance of SPI-4 NFM.
+172: 
+173: The chemical structures of the PI NMFs were confirmed by the AFR-FTIR spectra shown in Figure 7. First, all the characteristic absorptions of imide rings, including the asymmetrical and symmetrical carbonyl stretching vibrations at the wavenumber of 1778 and  $1717~\mathrm{cm}^{-1}$ , respectively, the C-N stretching vibration at  $1373~\mathrm{cm}^{-1}$ , and the in-plane bending vibrations of carbonyl peaks at  $729~\mathrm{cm}^{-1}$  were clearly detected in the spectra. Meanwhile, the characteristic absorptions of saturated C-H bonds in methyl groups at 2924 and  $2866~\mathrm{cm}^{-1}$  were also observed in all of the spectra. However, the characteristic symmetrical stretching vibrations of  $-\mathrm{SO}_2-$  at  $1157~\mathrm{cm}^{-1}$  were only detected in the spectra of SPI-2~SPI-6. It demonstrates the successful preparation of the target PIs.
+174: 
+175: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+176: Figure 7. ATR-FTIR spectra of PI-1 and the SPI NFMs.
+177: 
+178: # 3.2. Thermal Properties
+179: 
+180: The thermal stability of the PI NFMs was then evaluated by TGA measurements, and the results are listed in Table 3. It can be clearly detected from the TGA and derivative TGA (DTG) plots of the SPI NFMs shown in Figure 8 that all the polymers showed good stability before  $400^{\circ}\mathrm{C}$ , after which all the SPI NFMs gradually decomposed and revealed the  $5\%$  weight loss temperatures  $(T_{5\%})$  in the range of  $507.6\sim 527.8^{\circ}\mathrm{C}$ , the  $10\%$  weight loss temperatures  $(T_{10\%})$  in the range of  $558.3\sim 568.4^{\circ}\mathrm{C}$ , and the residual weight ratios at  $750^{\circ}\mathrm{C}$ $(R_{\mathrm{w750}})$  of  $64.0\sim 67.0\%$ . All the thermal data of the SPI NFMs were a bit lower than those of the pristine PI-1 NFM when comparing the corresponding thermal data shown in Table 3. This is mainly due to the relatively low thermal stability of sulfone groups at elevated temperatures [31]. The SPI-6 NFM with the highest sulfone contents in the molecular structure showed the lowest thermal data among the polymers. In addition, according to the DTG plots, all the SPI NFMs showed two-stage thermal decomposition behaviors during the test. The first stage occurred around  $450^{\circ}\mathrm{C}$ , which might be due to the decomposition of methyl side chains or sulfone units, and the second stage was recorded around  $650^{\circ}\mathrm{C}$ , which could be ascribed to the decomposition of the main chains of the PIs.
+181: 
+182: Table 3. Thermal properties of PI and SPIs.  
+183: 
+184: <table><tr><td></td><td>Tg1(°C)</td><td>T5%2(°C)</td><td>T10%2(°C)</td><td>Rw7503(%)</td><td>CTE4(×10-6/K)</td></tr><tr><td>PI-1</td><td>347.6</td><td>530.2</td><td>568.5</td><td>72.3</td><td>56.5</td></tr><tr><td>SPI-2</td><td>366.7</td><td>516.4</td><td>564.6</td><td>65.7</td><td>55.7</td></tr><tr><td>SPI-3</td><td>337.6</td><td>527.8</td><td>568.4</td><td>66.5</td><td>54.0</td></tr><tr><td>SPI-4</td><td>366.2</td><td>521.6</td><td>566.3</td><td>66.7</td><td>53.3</td></tr><tr><td>SPI-5</td><td>351.1</td><td>524.0</td><td>568.1</td><td>67.0</td><td>51.0</td></tr><tr><td>SPI-6</td><td>359.6</td><td>507.6</td><td>558.3</td><td>64.0</td><td>50.9</td></tr></table>
+185: 
+186: ${}^{1}{T}_{\mathrm{g}}$  : Glass transition temperatures measured by TMA via PI films;  ${}^{2}{T}_{5\% },{T}_{10\% }$  : Temperatures at 5% and 10% weight loss, respectively;  ${}^{3}{R}_{\mathrm{w}{750}}$  : Residual weight ratios at  ${750}^{ \circ  }\mathrm{C}$  in nitrogen;  ${}^{4}$  CTE: linear coefficient of thermal expansion measured with the PI films in the temperature range of  ${50} - {250}^{ \circ  }\mathrm{C}$  .
+187: 
+188: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+189: Figure 8. TGA and DTG curves of SPI NFMs.
+190: 
+191: In addition to the TGA measurements for the PI NFMs, the structurally analogous PI films were also prepared for the TMA measurements in order to reveal the glass transition temperatures  $(T_{\mathrm{g}})$  and linear coefficients of thermal expansion (CTE) of the polymers. Flexible and tough SPI films with good optical transparency and pale-yellow colors were
+192: 
+193: obtained by the standard casting procedure from SPI solutions. Effects of the incorporation of TSN units on the glass transition behaviors and the high-temperature dimensional stability of the SPIs were studied. As could be seen from the TMA plots of the PI films shown in Figure 9, all the PI films showed thermally shrinking behaviors at elevated temperatures. For the high-temperature-resistant polymers containing rigid-rod units, this unusual shrinkage beyond the  $T_{\mathrm{g}}$  is usually considered to be an indication of the orderly arrangement of the molecular chain segments in the polymers. After the ordered arrangements, the polymers will show the usual dimensional expansion with increasing temperatures. The turning points of this dimensional change are usually recorded as the  $T_{\mathrm{g}}$  values of the polymers. According to the records, the PI films showed the  $T_{\mathrm{g}}$  values higher than  $330^{\circ}\mathrm{C}$ . It meant that the incorporation of the TSN components did not deteriorate the high-temperature stability of the pristine PI-1. According to the CTE values of the polymers, incorporation of the TSN units slightly improved the dimensional stability of the PI-1 film at elevated temperatures. The CTE values of the polymers gradually decreased with the increasing contents of TSN in the polymers. The SPI-6 film showed the lowest CTE value of  $50.9 \times 10^{-6} / \mathrm{K}$  in the temperature range of  $50 \sim 250^{\circ}\mathrm{C}$ , which is lower than that of PI-1 (CTE = 56.5 × 10⁻⁶ / K). This might be due to the ring-fused dibenzothiophene sulfone structure of TSN. The highly conjugated and fused nature of the TSN units efficiently prohibited the free motion of the molecular chain segments at high temperatures. In summary, the high- $T_{\mathrm{g}}$  and low-CTE features of the SPIs are all beneficial for their applications in advanced optoelectronic fabrications.
+194: 
+195: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+196: Figure 9. TMA curves of PI and SPI films. (Insert: locally enlarged TMA curves for clear demonstration with the same X- and Y-axis captions).
+197: 
+198: # 3.3. Optical Properties
+199: 
+200: The optical properties of the PI NFMs, including the optical reflectance, CIE Lab color parameters, photocrosslinking behaviors upon UV exposure, and photoimageable abilities via photolithography were systemically evaluated, and the related data are summarized in Table 4. First, the UV-Vis reflectance spectra of the SPI NFMs are shown in Figure 10. The SPI NFMs showed the optical reflectance values at the wavelength of  $365\mathrm{nm}$  ( $R_{365}$ ) and  $436\mathrm{nm}$  ( $R_{436}$ ) of  $6.1\sim24.4\%$  and  $66.4\sim84.0\%$ , respectively. These values were all correspondingly lower than those of the pristine PI-1 ( $R_{365} = 34.2\%$ ;  $R_{436} = 85.3\%$ ). This meant that more UV lights were absorbed by the SPI NFMs than that of PI-1. In addition, the optical reflectances of the PI NFMs decreased with the increasing TSN contents in the polymers.
+201: 
+202: For example, the  $R_{365}$  values of the PI NFMs decreased with the order of PI-1 (34.2%) > SPI-2 (24.4%) > SPI-3 (21.1%) > SPI-4 (8.2%) > SPI-5 (7.6%) > SPI-6 (6.1%) The enhancement of the UV absorption might be due to the highly conjugated dibenzothiophene structure in the TSN units although the electron-withdrawing sulfone group was beneficial for reducing the UV absorption via prohibiting the charge transfer (CT) interactions in the molecular structures of the PIs. This enhancement of UV absorption might be advantageous for the photocrosslinking reactions in the SPI NFMs.
+203: 
+204: The increased UV absorbing ability via the incorporation of the TSN components also affected the CIE Lab color parameters of the PI NFMs, as shown in Table 4. Basically, with the increasing TSN contents in the polymers, the lightness  $(L^{*})$  of the NFMs gradually decreased while the yellow indices  $(b^{*})$  increased. This directly led to the decrease in the whiteness indices (WI) of the PI NFMs.
+205: 
+206: Table 4. Optical data of PI-1 and SPI NFMs.  
+207: 
+208: <table><tr><td></td><td>R3651(%)</td><td>R4361(%)</td><td>L*2</td><td>a*2</td><td>b*2</td><td>WI3(%)</td></tr><tr><td>PI-1</td><td>34.2</td><td>85.3</td><td>91.98</td><td>-1.31</td><td>6.34</td><td>89.69</td></tr><tr><td>SPI-2</td><td>24.4</td><td>84.0</td><td>93.23</td><td>-1.65</td><td>5.25</td><td>91.28</td></tr><tr><td>SPI-3</td><td>21.1</td><td>82.5</td><td>93.17</td><td>-1.65</td><td>6.26</td><td>90.59</td></tr><tr><td>SPI-4</td><td>8.2</td><td>68.7</td><td>89.36</td><td>-2.87</td><td>9.73</td><td>85.30</td></tr><tr><td>SPI-5</td><td>7.6</td><td>69.8</td><td>90.72</td><td>-3.37</td><td>11.72</td><td>84.68</td></tr><tr><td>SPI-6</td><td>6.1</td><td>66.4</td><td>89.72</td><td>-3.42</td><td>11.82</td><td>83.97</td></tr></table>
+209: 
+210: $^{1}R_{365}, R_{436}$ : Optical reflectance at the wavelength of 365 and  $436~\mathrm{nm}$ , respectively;  $^{2}L^{*}, a^{*}, b^{*}$ , see Section 2.2;  $^{3}$ WI: whiteness index.
+211: 
+212: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+213: Figure 10. UV-Vis reflectance plots of PI membranes in the wavelength range of  $200\sim 600~\mathrm{nm}$
+214: 
+215: Secondly, the photocrosslinking behaviors of the SPIs upon UV exposure at different times  $(0\sim 3\mathrm{min})$  were investigated, and the results are shown in Figure 11. The investigation used the characteristic absorption strength of benzophenone carbonyl groups at the wavenumber of  $1674~\mathrm{cm}^{-1}$  in FTIR spectra as the indicator justifying the degree of photocrosslinking reactions. This is mainly due to the fact that once the carbonyl groups are excited by the UV light, the structure will change from  $>C = O$  to  $>\dot{C}$ -OH (triplet). Thus, the absorption strength at  $1674~\mathrm{cm}^{-1}$  in the FTIR spectra will decrease. If the absorption strength was 0, the photocrosslinking reaction was thought to be finished. The UV exposure times were set to be 0.5, 1, 2, and 3 min, respectively. It can be clearly observed from Figure 11a-e that all the copolymers could undergo the UV excitation reaction upon exposure, and all the photoreactions finished within 3 min according to the photocrosslinking mechanism shown in Figure 11f. It demonstrates that the SPI coatings showed good sensitivity to the emitting wavelengths  $(365\sim 436~\mathrm{nm})$  of the high-pressure mercury lamp sources. This is quite beneficial for the following photolithography processing of the SPI NFMs.
+216: 
+217: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+218: (a)  
+219: (b)
+220: 
+221: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+222: (c)
+223: 
+224: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+225: 
+226: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+227: (d)
+228: 
+229: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+230: (e)
+231: 
+232: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+233: (f)  
+234: Figure 11. Photocrosslinking of benzophenone carbonyl at  $1674~\mathrm{cm}^{-1}$  with the exposure time (high-pressure mercury lamp, power:  $400~\mathrm{mW/cm^2}$ ). (a) SPI-2; (b) SPI-3; (c) SPI-4; (d) SPI-5; (e) SPI-6; (f) photocrosslinking mechanisms.
+235: 
+236: At last, the photoimageable ability of the representative SPI-4 NFM was evaluated according to the process shown in Figure 12. First, the SPI-4 NFM with a thickness of around  $20\mu \mathrm{m}$  on the aluminum substrate together with the photomask ("CUGB" patterns with different line widths) was exposed with an unfiltered high-pressure mercury lamp for  $60~s$ . Then, the exposed PI NFM was developed in DMF for  $5s$ , after which the sample was rinsed in butyl acetate for  $10s$ . At last, the PI NFM was baked at  $120^{\circ}C$  for  $60\mathrm{min}$ .
+237: 
+238: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+239: Figure 12. Photolithographic patterning process of SPI-4 NFM. (Insert: photomask).
+240: 
+241: The thickness and micro-morphologies of the obtained SPI-4 NFM were checked, and the results are shown in Figure 13. According to the macro-morphologies of the NFM shown in Figure 13a, clear NFM patterns were first obtained on the aluminum substrates after the UV exposure and developing process. The unexposed region in SPI-4 NFM was totally dissolved into the DMF developer. It demonstrates that the methodology of forming
+242: 
+243: patterns directly with the solvent-free PI NFM via the standard photolithography procedure is reasonable and feasible. The afforded PI NFM patterns showed the distorted profiles at the narrow line width (36  $\mu$ m, left, Figure 13a) while fine profiles at the wide line width (96  $\mu$ m, right, Figure 13a). It meant that although the photo-crosslinked SPI-4 NFM showed good resistance to the DMF developer, the patterns at thin line width showed slightly poor adhesion to the substrate. This resulted in the squiggly lines for the pattern. In the extreme case, the independent letter "B" floating in the DMF developer was observed in our experiments. This is because the ring nature of the letter "B" gives it a good initial shape in the developer. While the other letters, such as "C", "U", and "G", become curved lines in the developer. When the line width became large, patterns with fine profiles were obtained. The thickness of the obtained SPI-4 NFM was about  $15 \pm 1 \mu \mathrm{m}$ , according to the SEM measurements shown in Figure 13e. Given that the initial thickness for SPI-4 NFM before photolithography is about  $20 \mu \mathrm{m}$ , this means that the material maintains about  $75\%$  of the initial thickness during the photolithography process. Such a high thickness retention rate is mainly due to the intrinsic photosensitivity of the SPI-4. With no additional material, such as a large amount of photosensitizers, the photolithographic NFM showed a high ratio of thickness retention. This is very advantageous for the preparation of thick NFM-type patterns.
+244: 
+245: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+246: (a)
+247: 
+248: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+249: 
+250: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+251: (b)
+252: 
+253: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+254: (c)
+255: 
+256: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+257: (d)
+258: 
+259: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+260: Figure 13. Macroscopic (a) and microscopic (b-e) morphologies of patterns formed by the photolithography process of SPI-4 NFM on aluminum substrate. (a) Left: "CUGB" patterns with the narrow line width; right: "CUGB" patterns with the wide line width (insert: "CUGB" pattern with the line width of  $96\mu \mathrm{m}$ ); (b-d): planar SEM photos of the locally enlarged patterns with the magnification times of 30 to 5000; (e): cross-sectional SEM photos of the SPI-4 pattern.
+261: 
+262: The micro-morphologies of the SPI-4 NFM patterns were further detected by SEM measurements, and the results are illustrated in Figure 13b-e. The patterns showed the a width of around  $100\mu \mathrm{m}$  according to Figure 13c,d, which was a bit higher than that of the labeled value on the photomask  $(96\mu \mathrm{m})$ , which meant that the lines slightly swelled during the developing process. This could also be proven by the locally enlarged patterns with magnification times of 5000 (Figure 13d), in which the fusion of fibers and beads was clearly
+263: 
+264: observed. In addition, the patterns basically maintained the porous feature of polymer NFM characterized by the high specific surface areas and good porosity.
+265: 
+266: The glass transition behaviors of the SPI-4 pattern were detected by the differential scanning calorimetry (DSC) (TA-Q 100, New Castle, DE, USA) measurements and no obvious  $T_{\mathrm{g}}$  was detected. Meanwhile, the SPI-4 pattern was not soluble in the good solvents for the pristine SPI-4 resin, such as NMP and DMAc. All these experimental results further confirm the occurrence of the photo-crosslinking reactions during the photolithographic processing.

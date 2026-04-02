@@ -1,0 +1,57 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 7
+block_id: b0008
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Thermal Treatment of Block Copolymer
+line_span: [94, 136]
+char_span: [12725, 19712]
+line_count: 41
+effective_body_non_empty_lines: 22
+
+lines:
+--- chunk (b0008: Thermal Treatment of Block Copolymer) ---
+94: # Thermal Treatment of Block Copolymer
+95: 
+96: Thermally treated films were prepared under a heating condition presented in previous study. The films were heated to induce thermal degradation of decomposition component (PMMA block). The treatment condition included  $150^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ ,  $200^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ ,  $240^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  in vacuum atmosphere, and  $300^{\circ}\mathrm{C}$  for  $12\mathrm{h}$  in air atmosphere.
+97: 
+98: Figure 4 presents the photo images of each polymer film before and after thermal treatment. All thermally treated films were clear and brown, and the film strength decreased with increasing PMMA content. Block(10/90), which comprised  $70\%$  of the weight ratio of PMMA, could not maintain the film shape through decomposition using thermal treatment because this block contained large mass of PMMA. Thermally treated films were not dissolved in  $N,N$ -dimethylformamide, tetrahydrofran, and chloroform but were soluble before thermal treatment. Therefore, solvent solubility resistance of thermally treated films was higher than that of the nontreated films.
+99: 
+100: Figure 5 presents the FT-IR spectra of each polymer before and after thermal treatment. As PMMA increased, the peaks around
+101: 
+102: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+103: 
+104: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+105: Figure 5. FT-IR spectra of Block(PI/PMMA) (a) before thermal treatment and (b) after thermal treatment. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+106: 
+107: 3000 (C-H stretching), 1440 (C-H and  $-\mathrm{CH}_2$  bending), 1380  $(-\mathrm{CH}_3$  asymmetric stretching), 1256 (C-O stretching), and  $1147~\mathrm{cm}^{-1}$ $\mathrm{(C = O}$  bending) derived from the PMMA component also increased. However, the peaks at 1785  $(\mathbf{C} = \mathbf{O}$  asymmetric stretching), 1357, 1192 (C-F and C-N stretching), and  $724~\mathrm{cm}^{-1}$ $\mathrm{(C = O}$  bending) decreased. The peaks derived from the PMMA structure on thermally treated films could not be observed and were similar to those of the PI structure after thermal treatment. These results revealed an additive property between the PMMA content and peak intensity derived from PMMA in Block(PI/PMMA). In addition, PMMA block was completely decomposed by thermal treatment in all content ratios. To analyze the detailed structure, we calculated the
+108: 
+109: intensity of the differential FT-IR spectra of Block(PI/PMMA), thermally treated films, and 6FDA-TeMPD and then compared with the PMMA structure.
+110: 
+111: Figure 6(a) presents the differential spectra intensity of Block(PI/PMMA) and 6FDA-TeMPD. The peak around  $3000~\mathrm{cm}^{-1}$  (C-H stretching) derived from PMMA increased with increasing PMMA content. The peaks at 1725 (C=O stretching), 1440 (C-H and  $-\mathrm{CH}_2-$  bending), 1256 (C-O stretching), and  $1147~\mathrm{cm}^{-1}$  (C=O bending) derived from PMMA also increased. However, the peaks at  $1357~\mathrm{cm}^{-1}$  (C-F
+112: 
+113: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+114: 
+115: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+116: Figure 6. FT-IR differential spectra (a) between Block(PI/PMMA) and 6FDA-TeMPD before thermal treatment and (b) between each polymer after thermal treatment and before thermal treatment. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+117: 
+118: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+119: Figure 7. SEM images of Block(PI/PMMA) films.
+120: 
+121: and C-N stretching) derived from 6FDA-TeMPD and the peak  $(\mathrm{C = O}$  bending) derived from imide ring decreased. The peaks derived from PMMA and PI increased with increasing PMMA content rate of triblock copolymer. Figure 6(b) presents the differential spectra intensity of thermally treated films and 6FDA-TeMPD. The peak of the stretching vibration around  $3000~\mathrm{cm}^{-1}$  derived from PMMA and the positive differential peaks were not observed in all films. Therefore, PMMA block completely decomposed. In addition, the peaks at 1500 (C-H bending), 1357, 1192 (C-F and C-N stretching), 1112 (C-F stretching), and  $724~\mathrm{cm}^{-1}$  (C=O bending) derived from 6FDA-TeMPD decreased in the differential peaks of thermally treated films and 6FDA-TeMPD. Block(PI/PMMA) was further observed in functional groups similar to that of 6FDA-TeMPD after thermal
+122: 
+123: treatment. The differential peak of Block(10/90) was the maximum. These results indicated that the different structures on 6FDA-TeMPD block before and after thermal treatment resulted from the decomposition of their functional groups and/or the bond parts with PMMA block. Hence, decomposition of the 6FDA-TeMPD end chains was promoted in Block(10/90) because the long-length chain of PMMA easily promoted the movement of the 6FDA-TeMPD chains.
+124: 
+125: Figure 7 presents the SEM images of each polymer before and after thermal treatment. Surface image of Block(10/90) is citation of the previous study. $^{30}$  The flat and smooth surface structures were observed before thermal treatment of PMMA and 6FDA-TeMPD films. Surface asperity was observed in
+126: 
+127: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+128: 
+129: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+130: Figure 8. Sorption isotherms for  $\mathrm{CO}_{2}$  at  $35^{\circ}\mathrm{C}$  in Block(PI/PMMA) films. The solid lines represent values before thermal treatment, whereas dotted lines demonstrate values after thermal treatment. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+131: 
+132: Block(PI/PMMA) films. This asperity was micro-phase separation caused by the PMMA block content rate. Block(10/90) presented a sea-island structure, whereas Block(73/27) and Block(28/72) exhibited inhomogeneous structures. Evident changes were also detected after thermal treatment of Block(PI/PMMA) films. The surface of Block(73/27) was flat, partially-clacked, and without phase-separation structure. Numerous pores with size of approximately  $10 - 50\mathrm{nm}$  were observed in Block(28/72) and Block(10/90). Before thermal treatment, the clearest thermal transformation was observed in 10/90 block through DSC measurement; this block also demonstrated clearer microphase separation than the other block copolymers. After
+133: 
+134: thermal treatment, shrinkage and surface structure analyses showed that lower than  $27\mathrm{mol}\%$  of the decomposed PMMA block did not affect the film structure of 6FDA-TeMPD. About  $90\mathrm{mol}\%$  of the decomposed PMMA block significantly influenced the film structure of 6FDA-TeMPD and formed dense structure through shrinkage. About  $72\mathrm{mol}\%$  of the decomposed PMMA block affected the film structure of 6FDA-TeMPD and minimized the shrinkage of the film. Therefore, Block(28/72) demonstrated the optimum balance pore and PI structure.

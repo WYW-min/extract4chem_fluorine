@@ -1,0 +1,41 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 14
+block_id: b0015
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [175, 199]
+char_span: [20537, 24441]
+line_count: 25
+effective_body_non_empty_lines: 23
+
+lines:
+--- chunk (b0015: References) ---
+175: # References
+176: 
+177: Arai T and Kawakami H (2012) Ultrafine electrospun nanofiber created from cross-linked polyimide solution. Polymer 53: 2217-2222.  
+178: Bucher T, Tafreshi HV and Tepper G (2013) Modeling performance of thin fibrous coatings with orthogonally layered nanofibers for improved aerosol filtration. *Powder Technology* 249: 43-53.  
+179: Çakmakçı E and Güngör A (2013) Preparation and characterization of flame retardant and proton conducting boron phosphate/polyimide composites. Polymer Degradation and Stability 98: 927-933.  
+180: Cecopieri-Gomez ML, Palacios-Alquisira J and Dominguez J (2007) On the limits of gas separation in  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$ ,  $\mathrm{N}_{2} / \mathrm{CH}_{4}$  and  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  binary mixtures using polyimide membranes. Journal of Membrane Science 293: 53-65.  
+181: Chen D, Wang R, Tjiu WW, et al. (2011) High performance polyimide composite films prepared by homogeneity reinforcement of electrospun nanofibers. Composites Science and Technology 71: 1556-1562.  
+182: Diapouli E, Chaloulakou A and Spyrellis N (2007) Levels of ultrafine particles in different microenvironments - Implications to children exposure. The Science of the Total Environment 388: 128-136.  
+183: Fang M, Chan CK and Yao X (2009) Managing air quality in a rapidly developing nation: China. Atmospheric Environment 43: 79-86.  
+184: Heidenreich S (2013) Hot gas filtration - A review. Fuel 104: 83-94.  
+185: Hosseini S and Tafreshi HV (2011) On the importance of fibers' cross-sectional shape for air filters operating in the slip flow regime. Powder Technology 212: 425-431.  
+186: Lee J, Lee C-L, Park K, et al. (2014) Synthesis of an  $\mathrm{Al_2O_3}$ -coated polyimide nanofiber mat and its electrochemical characteristics as a separator for lithium ion batteries. Journal of Power Sources 248: 1211-1217.  
+187: Li P, Wang C, Zhang Y, et al. (2014) Air filtration in the free molecular flow regime: A review of high-efficiency particulate air filters based on carbon nanotubes. Small (Weinheim an Der Bergstrasse, Germany) 10: 4543-4561.  
+188: Li Y, He JH, Sun QL, et al. (2015) High temperature resistant nanofiber by bubbfil-spinning. Thermal Science 19: 1461-1462.  
+189: Liu C, Hsu P-C, Lee H-W, et al. (2015) Transparent air filter for high-efficiency PM2.5 capture. Nature Communications 6: 6205.  
+190: Miao Y-E, Zhu G-N, Hou H, et al. (2013) Electrospun polyimide nanofiber-based nonwoven separators for lithium-ion batteries. Journal of Power Sources 226: 82-86.  
+191: Patanaik A, Jacobs V and Anandjiwala RD (2010) Performance evaluation of electrospun nanofibrous membrane. Journal of Membrane Science 352: 136-142.  
+192: Purchas D and Sutherland K (2002) Handbook of Filter Media. Amsterdam: Elsevier, pp.178-188.  
+193: Sambaer W, Zatloukal M and Kimmer D (2012) 3D air filtration modeling for nanofiber based filters in the ultrafine particle size range. Chemical Engineering Science 82: 299-311.  
+194: Socrates G (2001) Infrared and Raman Characteristic Group Frequencies: Tables and Charts. Chichester: Wiley.  
+195: Wang Q, Bai Y, Xie J, et al. (2016) Synthesis and filtration properties of polyimide nanofiber membrane/carbon woven fabric sandwiched hot gas filters for removal of PM 2.5 particles. Powder Technology 292: 54-63.  
+196: Xiao G, Wang X, Zhang J, et al. (2013) Granular bed filter: A promising technology for hot gas cleanup. Powder Technology 244: 93-99.  
+197: Zhang L, Luo J, Menkhaus TJ, et al. (2011) Antimicrobial nanofibrous membranes developed from electrospun polyacrylonitrile nanofibers. Journal of Membrane Science 369: 499-505.  
+198: Zhang R, Liu C, Hsu P-C, et al. (2016) Nanofiber air filters with high-temperature stability for efficient PM2.5 removal from the pollution sources. Nano Letters 16: 3642-3649.  
+199: Zhang S, Shim WS and Kim J (2009) Design of ultra-fine nonwovens via electrospinning of Nylon 6: Spinning parameters and filtration efficiency. Materials & Design 30: 3659-3666.

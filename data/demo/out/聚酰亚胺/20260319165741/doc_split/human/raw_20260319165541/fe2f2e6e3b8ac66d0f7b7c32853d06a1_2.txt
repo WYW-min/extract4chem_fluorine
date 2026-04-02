@@ -1,0 +1,35 @@
+source_file: Comparative Studies of CPEs Modified with Distinctive Metal Nanoparticle-Decorated Electroactive Polyimide for.md
+doc_id: fe2f2e6e3b8ac66d0f7b7c32853d06a1
+chunk_index: 2
+block_id: b0003
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [58, 78]
+char_span: [3380, 9762]
+line_count: 19
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0003: 1. Introduction) ---
+58: # 1. Introduction
+59: 
+60: Uric acid (UA) in the human body stems from purine metabolism and is an important marker for illness [1]. Generally, a person's health is related to the concentration of UA in the blood  $(1.2 - 4.5 \times 10^{-4} \mathrm{~mol} \mathrm{~L}^{-1})$  or urine  $(2 \times 10^{-3} \mathrm{~mol} \mathrm{~L}^{-1})$  [2]. An abnormal concentration of UA in body fluids could be a symptom of a disease like Lesch-Nyhan syndrome [3], toxemia of pregnancy [4], or hyperuricemia [5], and along with cardiovascular diseases it may also affect the circulatory system [6]. Therefore, UA sensing with cost-effective monitoring, intended sensitivity, and accuracy in human body fluids is crucial to disease screening [7]. In general, different techniques have been acquired for UA sensing, including HPLC [8], fluorescence [9], a single line manifold [10], uricase immobilization methods [11], chemiluminescence [12], and direct electrochemical detection [13].
+61: 
+62: Among all these methods, the electrochemical technique is extensively used and has been proven to be an excellent method for the determination of UA due to its quick response, easy handling, specificity, low expenditure, and high sensitivity [14,15]. In an aqueous solution, UA undergoes oxidation at common electrodes with ease, so direct electrochemical detection leads to better sensing. Moreover, direct sensing can be extended for evaluating UA in a blood sample by the simple pin-prick method [13].
+63: 
+64: However, other potentially co-existing analytes in body fluids like AA and DA may interfere with the electrochemical detection of UA. The oxidation potential of UA, AA, and
+65: 
+66: DA are too close to strongly overlap, which results in poor selectivity of electrodes. To address this concern, two techniques have been employed, i.e., polymer-modified electrodes and chemically-modified electrodes. Thus, the electrode can be modified and improved using conducting polymers (CPs), noble metal nanoparticles, organic/inorganic compounds, and ionic/polymeric film [16,17]. Conducting polymers have various properties, including electrochemical activity, electrical conductivity, mechanical strength, biocompatibility, and environmental stability, which are highly desirable for the advancement of sensing performance in analytical or bioanalytical system. Moreover, they can be easily doped by electrochemical techniques [18].
+67: 
+68: For instance, Ramanavicius et al., recently developed a quartz-crystal microbalance sensor (EQCM) based on polypyrrole imprinted by uric acid (MIP(UA)-Ppy). Experimental measurements and theoretical calculations showed that the formation of a uric acid complex with MIP(UA)-Ppy is thermodynamically more favorable than that of complexation with NIP-Ppy. However, the sensitivity of the MIP(UA)-Ppy-based sensor to uric acid in a linear dependence interval was approximately 3.5 times higher than that of a NIP-Ppy-based sensor [19]. Gryglewicz et al., developed a GCE sensor modified with nitrogen-doped reduced graphene oxide and gold nanoparticle nanocomposites to improve the simultaneous detection of DA, AA, and UA. The results showed that nitrogen doping exhibited better electrochemical performance due to the more efficient anchoring of Au NPs on the N-doped areas of the graphene structure [20]. Similarly, Ma et al., devised a system that includes a screen-printed electrode (SPE), which is used as a sensor by alternately depositing PEDOT, CS, and graphene onto the working electrode for the detection of dopamine. The system could detect DA with a detection sensitivity of  $0.52 \pm 0.01\mathrm{uA} / \mathrm{uM}$  and a limit of detection of  $0.29\mathrm{uM}$  in the linear range of DA concentrations from 0.05 to  $70\mathrm{uM}$  [21].
+69: 
+70: Due to its superior environmental stability, ease of synthesis, low cost, and uniform conductive mechanism, PANI is a popular conjugated polymer. Doped PANI is often used in sensing applications as it shows high conductivity under acidic conditions. Generally, PANI doped with noble metal nanoparticles (NPs) enhances the electron transfer and improves the conductivity and stability. Therefore, it is used in electrochemical sensing [22-24] as it provides rapid and accurate sensing [25].
+71: 
+72: As a model compound of PANI, oligoanilines have been studied enormously in the past decade. Consequently, oligoaniline-derived electroactive polymers (OAEPs) have gained considerable attention [26-29] due to their good solubility, biodegradable nature, and mechanical strength [30-33]. For instance, Chao and Wang prepared OAEPs that have remarkable electrochemical and electrochromic behavior [34,35]. In 2020, Yeh et al. reported an  $\mathrm{H}_2\mathrm{S}$  gas sensor based on an electroactive polymer containing aniline trimer in the main chain [36]. Additionally, Huang et al., prepared a polylactide-based OAEP for tissue engineering [37]. Some reports [38] of fullerene (C60) and carbon nanotubes (CNTs) grafted with oligoanilines were reported in the literature. Moreover, OAEPs report good thermal stability [39], electrochemical activity [40,41], biomedical applications [42], electrochromic properties [43], and electrochemical [44] and conductivity studies [45]. Additionally, in our previous studies, OAEPs have been used for electrochemical sensing of ascorbic acid [46-54].
+73: 
+74: To the best of our knowledge, OAEPs are generally used for electrochemical sensing of ascorbic acid [55,56] but are seldom mentioned for UA sensing. With this information in hand, we constructed an electrochemical sensor for UA sensing based upon an oligoaniline derived electroactive polyimide (EPI). Furthermore, to improve analytical performances like sensitivity and detection limit, nanosized particles of noble metals [57-61] were reduced on the surface of EPI. An electroactive polyimide (EPI) was prepared by a two-step process followed by a complete characterization. The as-prepared EPI was then immersed in different aqueous solutions including  $\mathrm{AgNO_3}$ ,  $\mathrm{H}_2\mathrm{PtCl}_6$ , and  $\mathrm{HAuCl_4}$  for  $6\mathrm{h}$ . The presence of metal particles that were reduced on the EPI surface was examined by XRD, TEM, and XPS. The electrochemical sensors constructed for UA sensing were investigated for various
+75: 
+76: studies, such as electroanalytical, kinetic, sensitivity, selectivity, and differential-pulse voltammetry.

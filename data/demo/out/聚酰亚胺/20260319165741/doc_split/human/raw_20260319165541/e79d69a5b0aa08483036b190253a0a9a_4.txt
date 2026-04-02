@@ -1,0 +1,21 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 4
+block_id: b0005
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: MATERIALS AND METHODS
+line_span: [38, 44]
+char_span: [10437, 11230]
+line_count: 5
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0005: MATERIALS AND METHODS) ---
+38: # MATERIALS AND METHODS
+39: 
+40: # MATERIALS
+41: 
+42: Filler for the composite membrane, which was the rice husk, was taken from Satu Cita Sdn Bhd rice mill, which was located at Semanggol, Perak, Malaysia. Chemicals to synthesis the SPI polymer and the SPI-RHA composite membranes such as 1,4,5,8- naphthalenetetracarboxylic dianhydride (NTDA) (Sigma-Aldrich, Germany), 4,4-diaminodiphenyl ether (ODA) (Sigma-Aldrich, Germany), sodium hydroxide, concentrated hydrochloric acid, fuming sulfuric acid (SO3,  $65\%$  ) (Sigma-Aldrich, Germany), concentrated sulfuric acid  $(98\%)$  ,benzoic acid, acetone, dimethyl sulfoxide (DMSO) (SigmaAldrich, Germany) were used as received. Chemicals required for sulfonation of RHA such as chloroform and chlorosulfonic acid (Merck, Germany) were also used as received.

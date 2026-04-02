@@ -1,0 +1,21 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 4
+block_id: b0005
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: MATERIALS AND METHODS
+line_span: [46, 52]
+char_span: [8668, 9385]
+line_count: 5
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0005: MATERIALS AND METHODS) ---
+46: # MATERIALS AND METHODS
+47: 
+48: # MATERIALS
+49: 
+50: 6FDA  $(99\%)$ , MDI  $(98\%)$ ,  $N$ -methyl-2-pyrrolidinone (NMP),  $N$ ,  $N$ -dimethylformamide (DMF),  $N$ ,  $N$ -dimethylacetamide (DMAc), tetrahydrofuran (THF), acetonitrile (ACN), were purchased from Sigma Aldrich Chemie GmbH, Germany. Dimethyl sulfoxide (DMSO), Dichloromethane (DCM), ethanol and methanol used were obtained from Systerm, Malaysia, while acetone and chloroform  $\left(\mathrm{CHCl}_3\right)$  were from R&M chemical company, England. Standard Kapton film (film thickness:  $24~\mu \mathrm{m}$ ) was from DuPont company. All chemicals were used as received, and all organic solvents were dried over an activated  $4\AA$  molecular sieve prior to use.

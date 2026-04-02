@@ -1,0 +1,58 @@
+source_file: Methylethynyl-Terminated Polyimide Nanofibrous Membranes High-Temperature-Resistant Adhesives with Low-Tempera.md
+doc_id: e149dbb77904d4c03394a1ba0bfde6b5
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [240, 281]
+char_span: [42718, 50976]
+line_count: 42
+effective_body_non_empty_lines: 38
+
+lines:
+--- chunk (b0006: References) ---
+240: # References
+241: 
+242: 1. Ebnesajjad, S. Handbook of Adhesives and Surface Preparation: Technology Applications and Manufacturing, 1st ed.; Elsevier: Amsterdam, The Netherlands, 2011; Volume 9, pp. 185-220.  
+243: 2. Marques, E.; Da Silva, L.F.; Banea, M.; Carbas, R. Adhesive joints for low-and high-temperature use: An overview. J. Adhes. 2015, 91, 556-585. [CrossRef]  
+244: 3. Bowditch, M.; Shaw, S. Adhesive bonding for high performance materials. Adv. Perform. Mater. 1996, 3, 325-342. [CrossRef]  
+245: 4. Xu, S.; Guo, S.; Dillard, D.A. Evaluation of the long-term durability of high-performance polyimide adhesives for bonding titanium. J. Adhes. 2004, 80, 1153-1172.  
+246: 5. Cheng, S.; Han, J.; Wang, X.; Yuan, K.; Jian, X.; Wang, J. Oxidatively stable thermosets derived from thermal copolymerization of acetylene-terminated imide monomer with an acetylenic monomer containing carborane. Polymer 2017, 115, 96–105. [CrossRef]  
+247: 6. Naito, K.; Onta, M.; Kogo, Y. The effect of adhesive thickness on tensile and shear strength of polyimide adhesive. Int. J. Adhes. Adhes. 2012, 36, 77-85. [CrossRef]  
+248: 7. Connell, J.W.; Smith, J.J.; Hergenrother, P.M.; Rommel, M.L. Neat resin, adhesive and composite properties of reactive additive/PETI-5 blends. High Perform. Polym. 2000, 12, 323-334. [CrossRef]
+249: 
+250: 8. Connell, J.W.; Smith, J.J.; Hergenrother, P.M.; Cris, J.M. High temperature transfer molding resins: Laminate properties of PETI-298 and PETI-330. High Perform. Polym. 2003, 15, 375-394. [CrossRef]  
+251: 9. Yu, P.; Wang, Y.; Yu, J.; Zhu, J.; Hu, Z. Influence of different ratios of a-ODPA/a-BPDA on the properties of phenylethynyl terminated polyimide. J. Polym. Res. 2018, 25, 110. [CrossRef]  
+252: 10. Tan, B.; Vasudevan, V.; Lee, Y.J.; Gardner, S.R.; Davis, M.; Bullions, T.; Loos, A.C.; Parvatureddy, H.; Dillard, D.A.; McGrath, J.E.; et al. Design and characterization of thermosetting polyimide structural adhesive and composite matrix systems. J. Polym. Sci. Part A Pol. Chem. 1997, 35, 2943-2954. [CrossRef]  
+253: 11. An, H.Y.; Zhan, M.S.; Wang, K. Synthesis and properties of fluorene-based polyimide adhesives. Polym. Eng. Sci. 2011, 51, 1533-1540. [CrossRef]  
+254: 12. Smith, J.J.; Connell, J.W.; Hergenrother, P. Imide oligomers containing pendent and terminal phenylethynyl groups. Polymer 1997, 38, 4657-4665. [CrossRef]  
+255: 13. Del, C.A.; Arzt, E. Design parameters and current fabrication approaches for developing bioinspired dry adhesives. Macromol. Biosci. 2007, 7, 118-127.  
+256: 14. Ratta, V.; Stancik, E.J.; Ayambem, A.; Pavatareddy, H.; McGrath, J.E.; Wilkes, G.L. A melt-processable semicrystalline polyimide structural adhesive based on 1, 3-bis (4-aminophenoxy) benzene and  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride. Polymer 1999, 40, 1889-1902. [CrossRef]  
+257: 15. Kadiyala, A.K.; Sharma, M.; Bijwe, J. Exploration of thermoplastic polyimide as high temperature adhesive and understanding the interfacial chemistry using XPS, ToF-SIMS and Raman spectroscopy. Mater. Design 2016, 109, 622-633. [CrossRef]  
+258: 16. St Clair, T.; Progar, D. A novel addition polyimide adhesive. In NASA Technical Memorandum; Report NASA-TM-81976; National Aeronautics and Space Administration: Hampton, VA, USA, 1981.  
+259: 17. Kuhbander, R.; Aponyi, T. Thermid 600 adhesive formulation studies. In Proceedings of the 11th National SAMPE Technical Conference, Boston, MA, USA, 13-15 November 1979; Volume 11, pp. 295-308.  
+260: 18. Connell, J.W.; Smith, J.J.; Hergenrother, P.M. Imide oligomers containing pendent and terminal phenylethynyl groups-II. High Perform. Polym. 1998, 10, 273-284. [CrossRef]  
+261: 19. Progar, D.J. Evaluation of polyimide films as adhesives. J. Adhes. Sci. Technol. 1987, 1, 53-68. [CrossRef]  
+262: 20. Ding, Y.; Hou, H.; Zhao, Y.; Zhu, Z.; Fong, H. Electrospun polyimide nanofibers and their applications. Prog. Polym. Sci. 2016, 61, 67-103.  
+263: 21. Guo, C.; Liu, J.; Yin, L.; Huangfu, M.; Zhang, Y.; Wu, X.; Zhang, X. Preparation and characterization of electrospun polyimide microfibrous mats with high whiteness and high thermal stability from organo-soluble polyimides containing rigid-rod moieties. Fiber. Polym. 2018, 19, 1706-1714. [CrossRef]  
+264: 22. Guo, C.; Wang, Q.; Liu, J.; Qi, L.; Huangfu, M.; Wu, X.; Zhang, Y.; Zhang, X. Electrospun polyimide ultrafine non-woven fabrics with high whiteness and good thermal stability from organo-soluble semi-alicyclic polyimides: Preparation and properties. Express Polym. Lett. 2019, 13, 724-738. [CrossRef]  
+265: 23. Hao, Z.; Wu, J.; Wang, C.; Liu, J. Electrospun polyimide/metal-organic framework nanofibrous membrane with superior thermal stability for efficient PM2.5 capture. ACS Appl. Mater. Inter. 2019, 11, 11904-11909. [CrossRef] [PubMed]  
+266: 24. Qi, L.; Guo, C.; Huangfu, M.; Zhang, Y.; Yin, L.; Wu, L.; Liu, J.; Zhang, X.M. Enhancement of solvent resistance of polyimide electrospun mat via the UV-assisted electrospinning and photosensitive varnish. Polymers 2019, 11, 2055. [CrossRef] [PubMed]  
+267: 25. Qi, L.; Guo, C.; Huangfu, M.; Zhang, Y.; Wu, L.; Zhi, X.; Liu, J.; Zhang, X. Highly solvent-stable polyimide ultrafine NFMs fabricated by a novel ultraviolet-assisted electrospinning technique via organo-soluble intrinsically negative photosensitive varnishes. Express Polym. Lett. 2021, 15, 72-87. [CrossRef]  
+268: 26. Qi, H.; Shen, D.; Jia, Y.; An, Y.; Wu, H.; Wei, X.; Zhang, Y.; Zhi, X.; Liu, J. Preparation and properties of electrospun phenylethynyl-terminated polyimide nano-NFMs with potential applications as solvent-free and high-temperature resistant adhesives for harsh environments. Nanomaterials 2021, 11, 1525. [CrossRef] [PubMed]  
+269: 27. Wu, G.L.; Li, J.L.; Wang, K.K.; Wang, Y.Q.; Pan, C.; Feng, A.L. In situ synthesis and preparation of  $\mathrm{TiO}_2$ /polyimide composite containing phenolphthalein functional group. J. Mater. Sci. Mater. Electron. 2017, 28, 6544-6551. [CrossRef]  
+270: 28. Zhang, C.L.; Cao, B.; Li, P. Thermal oxidative crosslinking of phenolphthalein-based cardio polyimides with enhanced gas permeability and selectivity. J. Membr. Sci. 2018, 546, 90-99. [CrossRef]  
+271: 29. Yang, C.P.; Lin, J.H. Preparation and properties of aromatic polyamides and polyimides derived from 3,3-bis [4-(4-aminophenoxy) phenyl] phthalide. J. Polym. Sci. Pol. Chem. 1994, 32, 423-433. [CrossRef]  
+272: 30. GB/T 7124-2008; ISO 4587:2003; Adhesives—Determination of Tensile Lap-Shear Strength of Rigid-to-Rigid Bonded Assemblies. Administration of Quality Supervision, Inspection and Quarantine: Beijing, China, 2008.  
+273: 31. GJB 444-1988; Test Method for High Temperature Tensile Shear Strength of Adhesives (Metal to Metal). Commission of Science, Technology and Industry for National Defense of the People's Republic of China: Beijing, China, 1988.  
+274: 32. Yuan, L.; Ji, M.; Yang, S. Molecular weight controlled poly (amic acid) resins end-capped with phenylethynyl groups for manufacturing advanced polyimide films. J. Appl. Polym. Sci. 2017, 134, 45168. [CrossRef]  
+275: 33. Fang, X.; Xie, X.Q.; Simone, C.D.; Stevens, M.P.; Scola, D.A. A solid-state  $13^{\mathrm{c}}$  NMR study of the cure of  $13^{\mathrm{c}}$ -labeled phenylethynyl end-capped polyimides. Macromolecules 2000, 33, 1671-1681. [CrossRef]  
+276: 34. Zhang, P.; Liu, H.; Yao, Y.; Yang, T.; Sun, J.; Zhong, X.; Bao, J.; Zhao, Y.; Chen, X. Preparation and properties of modified phenylethynyl terminated polyimide with neodymium oxide. Materials 2022, 15, 4148. [CrossRef]
+277: 
+278: 35. Li, K.; Ding, J.; Guo, Y.; Wu, H.; Wang, W.; Ji, J.; Pei, Q.; Gong, C.; Ji, Z.; Wang, X. Direct ink writing of phenylethynyl end-capped oligoimide/SiO $_2$  to additively manufacture high-performance thermosetting polyimide composites. Polymers 2022, 14, 2669. [CrossRef] [PubMed]  
+279: 36. Hong, W.; Yuan, L.; Ma, T.; Cui, C.; Zhang, H.; Yang, S.; Sun, W. Resin transfer moldable fluorinated phenylethynyl-terminated imide oligomers with high  $\mathrm{T_g}$ : Structure-melt stability relationship. Polymers 2021, 13, 903. [CrossRef] [PubMed]  
+280: 37. Feng, X.; Li, G. UV curable, flame retardant, and pressure-sensitive adhesives with two-way shape memory effect. Polymer 2022, 249, 124835. [CrossRef]  
+281: 38. Saeed, M.B.; Zhan, M.S. Adhesive strength of partially imidized thermoplastic polyimide films in bonded joints. Int. J. Adhes. Adhes. 2007, 27, 9-19. [CrossRef]

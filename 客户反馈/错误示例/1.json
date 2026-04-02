@@ -1,0 +1,52 @@
+{
+    "file_name": "integration-of-nano-sized-hzsm-5-with-znzrox-as-a-bifunctional-catalyst-to-boost-benzene-alkylation-with-carbon-dioxide.md",
+    "doi": "10.1021/acssuschemeng.3c02375",
+    "material_id": "nHZ60",
+    "aliases": [],
+    "synthesis": {
+        "zeolite_type": "MFI",
+        "gel_composition": "1SiO2/4EtOH/0.01667Al2O3/0.25TPAOH/0.0833Na2O/12.28H2O",
+        "template": "TPAOH",
+        "silica_source": "tetraethyl orthosilicate (TEOS)",
+        "aluminium_source": "aluminum nitrate nonahydrate (Al(NO3)3·9H2O)",
+        "crystallization": {
+            "temp_c": 170.0,
+            "time_d": 1.0,
+            "agitation_rpm": null
+        },
+        "post_treatment_steps": [
+            "washed_unknown",
+            "dried_100c",
+            "calcination_550c_6h_unknown",
+            "ion-exchange_NH4Cl_unknown_3times",
+            "calcination_550c_6h_unknown"
+        ]
+    },
+    "characterization": {
+        "morphology": "partially stacked rectangular structure",
+        "crystal_size": null,
+        "si_al_ratio_actual": 60.0,
+        "porosity": {
+            "bet_m2_g": 339.0,
+            "v_total_cm3_g": 0.48,
+            "v_micro_cm3_g": 0.14,
+            "v_meso_cm3_g": 0.34
+        },
+        "acidity": {
+            "bronsted_acid_amount_mmol_g": 0.0238,
+            "lewis_acid_amount_mmol_g": 0.0199,
+            "l_b_ratio": 0.8361344537815126
+        }
+    },
+    "application": {
+        "scenario": "catalysis",
+        "target_species": "benzene alkylation reaction with CO2/H2",
+        "capacity": {
+            "value": 17.6,
+            "unit": "%_benzene_conversion"
+        },
+        "selectivity": null,
+        "breakthrough": null,
+        "regeneration": null
+    }
+}

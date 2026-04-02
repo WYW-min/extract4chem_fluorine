@@ -1,0 +1,55 @@
+source_file: Molecular Design, Preparation, and Characterization of Fluoro-Containing Polyimide Ultrafine Fibrous Membranes.md
+doc_id: ae11befcafa2cd480ac2097408e1b9ff
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Molecular Design, Preparation, and Characterization of Fluoro-Containing Polyimide Ultrafine Fibrous Membranes with High Whiteness, High Thermal Stability, and Good Hydrophobicity
+line_span: [1, 41]
+char_span: [0, 3679]
+line_count: 39
+effective_body_non_empty_lines: 24
+
+lines:
+--- chunk (b0001: Molecular Design, Preparation, and Characterization of Fluoro-Containing Polyimide Ultrafine Fibrous Membranes with High Whiteness, High Thermal Stability, and Good Hydrophobicity) ---
+1: [MINERU_DISCARDED_META]
+2: molecules
+3: MDPI
+4: Molecules 2022, 27, 5447. https://doi.org/10.3390/molecules27175447
+5: https://www.mdpi.com/journal/molecules
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Molecular Design, Preparation, and Characterization of Fluoro-Containing Polyimide Ultrafine Fibrous Membranes with High Whiteness, High Thermal Stability, and Good Hydrophobicity
+11: 
+12: Zhen Pan  $^{1,\dagger}$ , Han-li Wang  $^{2,\dagger}$ , Hao-ran Qi  $^{1}$ , Yan-shuang Gao  $^{1}$ , Xiao-lei Wang  $^{1}$ , Xin-xin Zhi  $^{1}$ , Yan Zhang  $^{1}$ , Xi Ren  $^{1}$  and Jin-gang Liu  $^{1,*}$
+13: 
+14: $^{1}$  School of Materials Science and Technology, China University of Geosciences, Beijing 100083, China  
+15: 2 Shandong Huaxia Shenzhen New Material Co., Ltd., Zibo 256401, China  
+16: * Correspondence: liujg@cugb.edu.cn; Tel.: +86-10-8232-2972  
+17: These authors contributed equally to this work.
+18: 
+19: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+20: 
+21: check for updates
+22: 
+23: Citation: Pan, Z.; Wang, H.-l.; Qi, H.-r.; Gao, Y.-s.; Wang, X.-l.; Zhi, X.-x.; Zhang, Y.; Ren, X.; Liu, J.-g. Molecular Design, Preparation, and Characterization of Fluoro-Containing Polyimide Ultrafine Fibrous Membranes with High Whiteness, High Thermal Stability, and Good Hydrophobicity. Molecules 2022, 27, 5447. https://doi.org/10.3390/molecules27175447
+24: 
+25: Academic Editor: Matthias Schnabelrauch
+26: 
+27: Received: 4 August 2022  
+28: Accepted: 23 August 2022  
+29: Published: 25 August 2022
+30: 
+31: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+32: 
+33: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+34: 
+35: Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+36: 
+37: Abstract: Polymeric ultrafine fibrous membranes (UFMs) with high thermal stability and high whiteness are highly desired in modern optoelectronic applications. A series of fluoro-containing polyimide (FPI) UFMs with high whiteness, good thermal stability, and good hydrophobicity were prepared via a one-step electrospinning procedure from the organo-soluble FPI resins derived from a fluoro-containing dianhydride,  $4,4^{\prime}$ -(hexafluoroisopropylidene) diphthalic anhydride (6FDA), and various diamines containing either pendant trifluoromethyl  $\left(-\mathrm{CF}_{3}\right)$  groups or alicyclic units in the side chains. The obtained FPI UFMs, including FPI-1 from 6FDA and 3,5-diaminobenzotrifluoride (TFMDA), FPI-2 from 6FDA and  $2^{\prime}$ -trifluoromethyl- $3,4^{\prime}$ -oxydianiline (3FODA), FPI-3 from 6FDA and 1,4-bis[(4-amino-2-trifluoromethyl)phenoxy]benzene (6FAPB), FPI-4 from  $4,4^{\prime}$ -bis[(4-amino-2-trifluoromethyl)phenoxy]biphenyl (6FBAB), and FPI-5 from 6FDA and  $4^{\prime}$ -tert-butyl-cyclohexyl-3,5-diaminobenzoate (DABC) showed whiteness indices (WI) higher than 87.00 and optical reflectance values higher than  $80\%$  at the wavelength of  $457~\mathrm{nm}$  ( $\mathrm{R}_{457}$ ), respectively. The FPI-5 UFM, especially, showed the highest WI of 92.88. Meanwhile, the prepared PI UFMs exhibited good hydrophobic features with water contact angles (WCA) higher than  $105^{\circ}$ . At last, the PI UFMs exhibited good thermal stability with glass transition temperatures ( $\mathrm{T_g}$ ) higher than  $255^{\circ}\mathrm{C}$ , and the  $5\%$  weight-loss temperatures ( $\mathrm{T}_{5\%}$ ) higher than  $510^{\circ}\mathrm{C}$  in nitrogen.
+38: 
+39: Keywords: polyimide; ultrafine fibrous membranes; electrospinning; trifluoromethyl; whiteness index

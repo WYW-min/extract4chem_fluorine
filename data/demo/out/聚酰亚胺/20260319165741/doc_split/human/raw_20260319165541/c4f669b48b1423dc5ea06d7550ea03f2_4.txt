@@ -1,0 +1,35 @@
+source_file: Physical Properties of Thermally Crosslinked Fluorinated Polyimide and Its Application to a Liquid Crystal Ali.md
+doc_id: c4f669b48b1423dc5ea06d7550ea03f2
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [211, 231]
+char_span: [41399, 44681]
+line_count: 19
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+211: # 4. Conclusions
+212: 
+213: This study investigated a crosslinking strategy to compensate for the various shortcomings of soluble 6FDA-ODA PI. A small amount of epoxy compound was introduced as a crosslinking agent in PAA to prepare a crosslinked PI. The crosslinked PI film was found to be superior to the neat PI film in terms of its solvent resistance and thermal stability, and its elastic modulus and tensile strength. The performances of LC ALs that used the 6FDA-ODA-based PI and its crosslinked PI in LC cells were compared. In summary, the reliability of LC cells with the crosslinked PI AL was superior, which was confirmed by evaluating the VHR and RDC values of the LC cell. The material development strategy using crosslinked PI presented in this study was able to improve solvent and heat resistance while maintaining the intrinsic physical properties of PI by easily fabricating a thin film using PI with excellent processability, and then post-processing it. Therefore, the possibility of using crosslinked PI as an LC alignment layer material was unambiguously demonstrated.
+214: 
+215: Supplementary Materials: The following are available online at https://www.mdpi.com/article/10.3390/polym13223903/s1. Figure S1: Absorption spectra of crosslinked PI obtained before and after rinsing (1 min) in THF (a) 5 wt% EP and (b) 10 wt% EP. Figure S2: ATR-FTIR spectra of 6FDA-ODA PAA and 6FDA-ODA PAA with 5% EP during thermal treatment at an elevated temperature. Figure S3: FT-IR spectra of PAA, PAA with 30 wt% EP, and EP samples. Figure S4: FT-IR spectra of a sample bearing PAA and 30 wt% EP subjected to heat treatment at different times at  $50^{\circ}\mathrm{C}$ . Figure S5: FT-IR spectra of a sample bearing PAA and 30 wt% EP subjected to heat treatment at different times at  $70^{\circ}\mathrm{C}$ .
+216: 
+217: Figure S6: Degree of conversion over time for two different heat treatments using PAA with  $30\mathrm{wt}\%$  EP sample. Figure S7: Absorption spectra of crosslinked PI obtained before and after rinsing (1 min) in DMF (a) and NMP (b). Figure S8: (a) The absorption spectrum of the THF solution of neat PI film and the absorption spectrum of the extracted solution obtained after Soxhlet extraction of crosslinked PI using THF solvent; (b) image of neat PI film and its THF solution; and (c) crosslinked PI film, its extracted THF solution, and undissolved crosslinked PI film. Figure S9: Frequency dependence of dielectric constants of neat 6FDA-ODA PI film and crosslinked PI film. Figure S10: Voltage holding ratio (VHR) plots of the LC cells fabricated with the 6FDA-ODA PI AL and its crosslinked PI AL.
+218: 
+219: Author Contributions: Conceptualization, J.-S.A.; methodology, M.J.C.; investigation, J.-S.A., M.J.C., and S.-H.P.; formal analysis, S.H.P. and N.Y.K.; writing—original draft preparation, M.J.C., S.-H.P., and D.H.C.; supervision, D.H.C. All authors have read and agreed to the published version of the manuscript.
+220: 
+221: Funding: This research was funded by the National Research Foundation (NRF) of Korea (no. NRF2019R1A2C2002647 and NRF2019R1A6A1A11044070).
+222: 
+223: Institutional Review Board Statement: Not applicable.
+224: 
+225: Informed Consent Statement: Not applicable.
+226: 
+227: Data Availability Statement: Not applicable.
+228: 
+229: Conflicts of Interest: The authors declare no conflict of interest.

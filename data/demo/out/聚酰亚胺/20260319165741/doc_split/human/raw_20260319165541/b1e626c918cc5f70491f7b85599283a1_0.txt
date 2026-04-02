@@ -1,0 +1,33 @@
+source_file: Physical and Gas Transport Properties of Asymmetric Hyperbranched Polyimide-Silica Hybrid Membranes.md
+doc_id: b1e626c918cc5f70491f7b85599283a1
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Physical and Gas Transport Properties of Asymmetric Hyperbranched Polyimide-Silica Hybrid Membranes
+line_span: [1, 19]
+char_span: [0, 2749]
+line_count: 17
+effective_body_non_empty_lines: 11
+
+lines:
+--- chunk (b0001: Physical and Gas Transport Properties of Asymmetric Hyperbranched Polyimide-Silica Hybrid Membranes) ---
+1: [MINERU_DISCARDED_META]
+2: Journal of Membrane and Separation Technology, 2013 Vol. 2, No. 4
+3: Miki et al.
+4: DOI: http://dx.doi.org/10.6000/1929-6037.2013.02.04.3
+5: [/MINERU_DISCARDED_META]
+6: 
+7: # Physical and Gas Transport Properties of Asymmetric Hyperbranched Polyimide-Silica Hybrid Membranes
+8: 
+9: Masako Miki<sup>1</sup>, Yasuyuki Ishikawa<sup>2</sup>, Masaya Haraguchi<sup>2</sup> and Yasuharu Yamada<sup>3,*</sup>
+10: 
+11: $^{1}$ R&D Center for Nanomaterials and Devices, Kyoto Institute of Technology, Matsugasaki, Sakyo-Ku, Kyoto, 606-8585, Japan  
+12: $^{2}$ Department of Biomolecular Engineering, Kyoto Institute of Technology, Matsugasaki, Sakyo-Ku, Kyoto, 606-8585, Japan  
+13: $^{3}$ Institute of Technological Research, Kanagawa University, 3-27-1 Rokkakubashi, Kanagawa-ku, Yokohama, 226-8686, Japan
+14: 
+15: Abstract: Physical and gas transport properties of the asymmetric hyperbranched polyimide (HBPI) -silica hybrid membranes prepared with a dianhydride, 4,4'-(hexafluoroisopropylidene)diphthalic anhydride (6FDA), and an asymmetric triamine, 2,4,4'-(triaminodiphenyl)ether (TADE), were investigated and compared with those of the symmetric HBPI-silica hybrid membranes prepared with a symmetric triamine, 1,3,5-tris(4-aminophenoxy)benzene (TAPOB). The HBPI-silica hybrid membranes were prepared via sol-gel reaction using hyperbranched polyamic acid of which end groups were modified with silane coupling agents, water and tetramethoxysilane. The thermal mechanical and dynamic mechanical analysis measurements confirmed that the rigidity of asymmetric HBPI was higher than that of symmetric HBPI because of the rigid and asymmetric structure of TADE monomer. In addition, the degree of branching of asymmetric HBPI is lower than that of symmetric HBPI because of the different reactivity of the three amino groups included in TADE. The rigidity and linearity of HBPIs had an effect on the progression of sol-gel reaction, consequently the gas transport properties. The increasing of the gas permeability coefficient of the asymmetric dianhydride(DA)-HBPI-silica hybrid membranes with increasing silica content was smaller than those of symmetric DA- and amine(AM)-HBPI-silica hybrid membranes. In addition, the gas permeability coefficient of the asymmetric AM-HBPI-silica hybrid membranes decreased with increasing silica content. This was due to the fact that the dispersibility of silica in the asymmetric HBPI-silica hybrids, of which polymer chain was more rigid and linear than those of symmetric HBPI-silica hybrid, was not as fine as in the symmetric HBPI-silica hybrids, and that the long and tortuous diffusion path was newly formed by hybridization with silica.
+16: 
+17: Keywords: Hyperbranched Polyimide, Silica hybrid, Gas permeability, Asymmetric, Symmetric.

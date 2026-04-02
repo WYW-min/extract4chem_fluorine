@@ -1,0 +1,77 @@
+source_file: Mixed Rigid and Flexible Component Design for High-Performance Polyimide Films.md
+doc_id: fccc26fc991bc38c4a2573b2131f2453
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [44, 106]
+char_span: [7830, 17358]
+line_count: 61
+effective_body_non_empty_lines: 24
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+44: # 2. Materials and Methods
+45: 
+46: # 2.1.Materials
+47: 
+48: $N,N$ -Dimethylacetamide (DMAc) was obtained from Tianjin Chemical Agent Factory (Tianjin, China) and was vacuum-distilled after drying over calcium hydride. BTDA and ODA were purchased from Forsman Scientific Company (Beijing, China). DAPBI was purchased from Nanjing Chemlin Chemical Industry Company (Nanjing, China). The dianhydride was dried in a vacuum oven at  $150^{\circ}\mathrm{C}$  for  $12\mathrm{h}$  and the diamines were dried at  $80^{\circ}\mathrm{C}$  for  $12\mathrm{h}$ . To improve the relative molecular weight, all the reaction vessels, solvents, and reactants must be anhydrous.
+49: 
+50: # 2.2. Methods
+51: 
+52: # 2.2.1. Infrared Spectroscopic Analysis
+53: 
+54: The inherent viscosities  $(\eta)$  of the PAAs were measured to evaluate the polymerization degree of the PIs.  $\eta$  was obtained by dissolving  $0.5\mathrm{g}$  of PAA in  $100~\mathrm{mL}$  DMAc at  $25^{\circ}\mathrm{C}$ , and the flow of the PAA solution was measured using an Ubbelohde viscometer (Zhongwang Technology, Hangzhou, China). The  $\eta$  value was calculated using the following equation:
+55: 
+56: $$
+57: \eta = \frac {\ln \left(t / t _ {0}\right)}{0 . 5 \mathrm {g} / \mathrm {d L}} \tag {1}
+58: $$
+59: 
+60: where  $t$  and  $t_0$  are the determination times for the PAA solution and a blank DMAc solution, respectively. In order to evaluate the imidization degree of the PI films, their Fourier transform infrared (FTIR) spectra were obtained on a Excalibur 3100 spectrometer (Varian, Palo Alto, CA, USA) from 600 to  $4000\mathrm{cm}^{-1}$ .
+61: 
+62: The equilibrium water absorbability was determined by the weight difference of vacuum dried film specimens before and after immersion in deionized water at  $25^{\circ}\mathrm{C}$  for  $24\mathrm{h}$ . Dry films which had been weighed  $(W_{1})$  were immersed in water at room temperature for  $24\mathrm{h}$ . The surfaces of the films were wiped to remove the water and weighed again  $(W_{2})$ . Water absorption was calculated by the equation:  $(W_{2} - W_{1}) / W_{1} \times 100\%$ .
+63: 
+64: # 2.2.2. Morphology and Structural Analysis
+65: 
+66: The microstructures of the polymers were characterized on Rigaku wide-angle and small-angle X-ray diffractometers (Rigaku Corporation, Tokyo, Japan). The 2θ scan data were collected at  $0.02^{\circ}$  intervals over ranges of  $5^{\circ} - 60^{\circ}$  and  $0.6^{\circ} - 5^{\circ}$ . The scan speed was  $0.1^{\circ} / \mathrm{min}$ . The average distance (d) between the molecular chains can be obtained from Bragg's equation:
+67: 
+68: $$
+69: d = \lambda / 2 \sin \theta \tag {2}
+70: $$
+71: 
+72: where  $2\theta$  is the X-ray diffraction angle and  $\lambda$  is the wavelength of the X-rays. The cross-sectional micromorphologies of the PI films were sputtered with gold and then investigated using scanning electron microscopy (SEM) (Hitachi Limited, Hitachi, Japan) with HITACHI S-4300-4300 apparatus at an acceleration voltage of  $10\mathrm{kV}$ . Moreover, the surface morphology and the element mapping of the PI layer and copper substrate after the T-peel test were measured with SEM and Energy Dispersive X-ray Spectrometric microanalysis (EDX) (Hitachi Limited, Hitachi, Japan) with HITACHI S-4300 apparatus.
+73: 
+74: # 2.2.3. Thermal Analysis
+75: 
+76: In order to investigate the thermal properties, the glass transition temperature  $(T_{\mathrm{g}})$ , thermal decomposition temperature  $(T_{\mathrm{d}})$ , and the CTEs of the films were characterized. The  $T_{\mathrm{g}}$  values of the PI films were determined on a Mettler Toledo DSC 1 thermal analyzer (METTLER TOLEDO, Zurich, Switzerland). DSC measurements were carried out on  $5 - 10\mathrm{mg}$  film samples heated under nitrogen atmosphere at a heating rate of  $10^{\circ}\mathrm{C / min}$  from 50 to  $400^{\circ}\mathrm{C}$ . The samples were first heated from 50 to  $400^{\circ}\mathrm{C}$ , then cooled at the same heating rate, and then heated again at the same conditions. The  $T_{\mathrm{g}}$  of these PIs were determined in the second heating scan by the midpoint ASTM D3417-83 with the Mettler software. Dynamic mechanical analysis (DMA) was performed on thin film specimens (ca.  $3\times 0.65\times \mathrm{Xcm}^3$ , the X represent the thickness of the film, which is about  $3\times 10^{-3}\mathrm{cm}$ ) on a TA instrument DMA Q800 (TA Instruments, New Castle, PA, USA) at a heating rate of  $5^{\circ}\mathrm{C / min}$  and at a load frequency of  $1\mathrm{Hz}$  under nitrogen atmosphere. The peak on the tan  $\delta$  vs. temperature curve was regarded as the  $T_{\mathrm{g}}$  of the film.  $T_{\mathrm{d}}$  values for the PI films were obtained on a TA Q50 thermogravimetric analyzer (TA Instruments, New Castle, PA, USA). Measurements were carried out on  $3 - 5\mathrm{mg}$  film samples heated at  $5^{\circ}\mathrm{C / min}$  in nitrogen atmosphere. Decomposition temperatures of  $5\%$  weight
+77: 
+78: loss were recorded  $(T_{\mathrm{d}5\%})$  to evaluate the thermal stability of the films. The CTEs of the films were measured using a Mettler Toledo TMA/SDTA841e (METTLER TOLEDO, Zurich, Switzerland). A constant force of  $0.01\mathrm{N}$  was applied to film samples (ca.  $1.5\times 0.4\times \mathrm{Xcm}^3$ ). The samples were heated to  $400^{\circ}\mathrm{C}$  at a heating rate of  $5^{\circ}\mathrm{C / min}$ . The data were collected from the second heating run after the first run, which was performed up to the annealing temperature to eliminate the internal stresses in the films. Owing to the variation of the CTE with temperature, it is common practice to report the average CTEs determined over a specified temperature range. The average CTE is defined by:
+79: 
+80: $$
+81: \bar {a} _ {\mathrm {L}} = \frac {1}{L _ {0}} \left(\frac {\Delta L}{\Delta T}\right) \tag {3}
+82: $$
+83: 
+84: where  $L_{0}$  is the initial length of the sample between the grips at ambient temperature;  $\Delta T = T_{2} - T_{1}$ , where  $T_{1}$  and  $T_{2}$  are the temperature limits; and  $\Delta L = L_{2} - L_{1}$ , where  $L_{1}$  and  $L_{2}$  are the sample lengths at temperatures  $T_{1}$  and  $T_{2}$ , respectively. All of the CTEs in this study were measured between 50 and  $250^{\circ}\mathrm{C}$  in the film plane direction and were derived using Equation (3).
+85: 
+86: # 2.2.4. Mechanical Analysis
+87: 
+88: The tensile properties of the films were examined with an Instron R5966 (INSTRON corporation, Canton, OH, USA). Tensile samples were machined to dimensions of ca.  $4 \times 0.5 \times X \mathrm{~cm}^3$  after imidization and tested with a crossed-head speed of  $8\mathrm{mm / min}$  and a load capacity of  $500\mathrm{N}$ . Each test was conducted on five samples, and the average tensile strength, modulus, and elongation at the break are reported.
+89: 
+90: # 2.2.5. Adhesion Properties
+91: 
+92: The adhesion strength between the PI layer and copper substrate was studied by the T- peel strength test method with an Instron R5966 (INSTRON corporation, Canton, OH, USA). The laminate samples were cut into  $5\mathrm{cm}\times 0.5\mathrm{cm}$  strips. The peeling speed was kept constant at  $10\mathrm{mm / min}$ . The peel strength was expressed in  $\mathrm{N / cm}$  and was determined from the peel load divided by the width of the PI/Cu laminate.
+93: 
+94: # 2.2.6. Synthesis of PAA Precursors
+95: 
+96: PAA precursors were prepared by copolymerization of the diamines ODA and DAPBI and the dianhydride BTDA at a 1:1 molar ratio of diamines and dianhydride. Six different PAAs were obtained by employing diamine mixtures with DAPBI molar contents of  $0\%$ ,  $20\%$ ,  $40\%$ ,  $60\%$ ,  $80\%$ , and  $100\%$ . The corresponding PI films were fabricated by coating, solvent drying, and thermal imidization, and denoted as PI-0, PI-20, PI-40, PI-60, PI-80, and PI-100.
+97: 
+98: The polymerization procedure for synthesizing the PAA for the PI-60 precursor is presented as an example: The molar ratio of ODA to DAPBI was 4:6, and the solid content was controlled at  $15\%$ . First, the ODA  $(1.602\mathrm{g},8\mathrm{mmol})$  was dissolved in  $60~\mathrm{mL}$  DMAc at room temperature under  $\mathbf{N}_2$  atmosphere. After the ODA was dissolved, DAPBI  $(2.691\mathrm{g},12\mathrm{mmol})$  was dispersed uniformly in the ODA solution, and a beige brown suspension was obtained. Then, a stoichiometric amount of BTDA  $(6.445\mathrm{g},20\mathrm{mmol})$  was added gradually to the suspension, and the mixture was stirred continually for  $6\mathrm{h}$  to form a viscous PAA precursor solution. The PAA was sealed and stored at  $0^{\circ}\mathrm{C}$ .
+99: 
+100: # 2.2.7. Thermal Imidization of PAA Films
+101: 
+102: PI films were obtained by casting the PAA solution onto clean, dry glass plates with a  $300\mu \mathrm{m}$  depth blade. The solvent was then removed by drying the PAA films in an oven with a programmed procedure (50  $^\circ \mathrm{C}$  for 1 h,  $80^{\circ}\mathrm{C}$  for 1 h,  $100^{\circ}\mathrm{C}$  for 1 h,  $120^{\circ}\mathrm{C}$  for 0.5 h,  $150^{\circ}\mathrm{C}$  for 0.5 h, and  $180^{\circ}\mathrm{C}$  for 0.5 h) at a heating rate of  $10^{\circ}\mathrm{C / min}$ . The PAA films were then cured in a vacuum oven at a heating rate of  $5^{\circ}\mathrm{C / min}$  to afford PI films. The PI-0 film was obtained with a curing program of  $200^{\circ}\mathrm{C}$  for
+103: 
+104: 1 h,  $250^{\circ}\mathrm{C}$  for 1 h,  $300^{\circ}\mathrm{C}$  for 0.5 h, and  $360^{\circ}\mathrm{C}$  for 0.5 h. All the cured films were cooled to room temperature at a cooling rate of  $3^{\circ}\mathrm{C} / \mathrm{min}$ . The PI films with thicknesses of  $30~\mu \mathrm{m}$  were easily peeled from the glass plate.

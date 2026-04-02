@@ -1,0 +1,39 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 12
+block_id: b0013
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Conclusions
+line_span: [248, 272]
+char_span: [40426, 42949]
+line_count: 23
+effective_body_non_empty_lines: 14
+
+lines:
+--- chunk (b0013: Conclusions) ---
+248: # Conclusions
+249: 
+250: New, thermally stable polyimides and containing 1,3,4-oxadiazole ring in the main chain based on BAOB (4) were synthesized. Solubility tests showed the polymers to be soluble in polar and aprotic solvents such as DMF, DMSO, NMP, and
+251: 
+252: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+253: Fig. 8. TGA Curves of PI and PI/clay nanocomposites with various organoclay contents.
+254: 
+255: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+256: (a)
+257: 
+258: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+259: (b)
+260: 
+261: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+262: (c)
+263: 
+264: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+265: Fig. 9 SEM images of the films obtained from PI (a) at  $30000\mathrm{x}$  and (b) at  $50000\mathrm{x}$ , and PCN  $1\%$  (c) at  $30000\mathrm{x}$  and (d) at  $50000\mathrm{x}$ .  
+266: (d)
+267: 
+268: DMAc. The thermal behaviours of the polymers were studied by TGA, DTA and DSC methods. Softening temperatures were observed for all polymers except for polyimides (8), which it was obtained from BAOB and pyromellitic dianhydride. DSC, DTA, and TGA measurements showed among the prepared PIs, polyimide (7) has the most improved thermal properties.
+269: 
+270: A new thermally stable organoclay were then prepared through the modification of sodium montmorillonite with BAOB. An X-ray diffraction study confirmed the intercalation of organic surfactant within the silicate layers. SEM images showed that some significant changes occurred on the surface of BAOB-modified organoclay with respect to Na-MMT, including a decrease in hydrophilicity. Furthermore, the high thermal stability of BAOB avoids pyrolysis during thermal imidization of poly(amic acid) intermediate. The preparation and characterization of new PI/clay nanocomposite materials with different contents of BAOB-modified organoclay and PI (7) have also been investigated. PCNs  $1 - 5\%$  were prepared from the thermal imidization of a BAOB-modified organoclay dispersion in a poly(amic acid) solution obtained from BAOB and ODPA. WXRD patterns showed that exfoliated nanocomposite may be obtained with the organoclay content of  $1\%$ , but at higher clay loadings intercalated structure is significant. TGA and DSC measurements showed that  $\mathrm{T_g}$  increases with increasing organoclay content loading to  $3\%$ , and then decrease thereafter. SEM images showed that the surface roughness of the film obtained from PCNs  $1\%$  is lower than that of the virgin polyimide.

@@ -1,0 +1,81 @@
+source_file: Comparison of Properties of Colorless and Transparent Polyimide Nanocomposites Containing Chemically Modified .md
+doc_id: e5f03432a19ee35991e4eea399ad5d8a
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [62, 128]
+char_span: [8332, 16220]
+line_count: 65
+effective_body_non_empty_lines: 23
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+62: # 2. Materials and Methods
+63: 
+64: # 2.1. Materials
+65: 
+66: BPADA and  $m$ -BAPS were purchased from TCI (Tokyo, Japan). Hexadecylamine and  $N,N^{\prime}$ -dimethylacetamide (DMAc) from Aldrich (Yongin, Korea). DMAc was dried on a molecular sieve (4 Å). Graphene oxide (GO) was purchased from Standard Graphene Co. (Ulsan, Korea).  $\mathrm{Na^{+}}$ -MMT was obtained from Aldrich (Yongin, Korea), and the cation exchange capacity was 119 meq/100 g.
+67: 
+68: # 2.2. Syntheses of Nanofillers
+69: 
+70: # 2.2.1. Synthesis of C16-GS
+71: 
+72: A mixture of  $0.5\mathrm{g}$  GO dispersed in  $1.5\mathrm{L}$ $\mathrm{H}_2\mathrm{O}$  and  $1.0\mathrm{g}$  C16 dissolved in  $25\mathrm{mL}$  EtOH was allowed to react at room temperature in a nitrogen atmosphere for more than  $12\mathrm{h}$ . The mixture was filtered at a reduced pressure to obtain a powder, which was washed using
+73: 
+74: 1:1  $\mathrm{H}_2\mathrm{O}$ :EtOH (v:v) and dried under vacuum at  $70^{\circ}\mathrm{C}$  for  $24\mathrm{h}$  [25]. A black powder was obtained in approximately  $90\%$  yield.
+75: 
+76: # 2.2.2. Synthesis of C16-MMT
+77: 
+78: C16 (11.47 g) was added to a solution of  $100\mathrm{mL}$ $\mathrm{H}_2\mathrm{O}$  and  $4.8\mathrm{mL}$  HCl in a nitrogen atmosphere at  $80^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ . In a separate beaker,  $20\mathrm{gNa^{+}}$  -MMT was dispersed in  $400\mathrm{mL}$ $\mathrm{H}_2\mathrm{O}$  at  $80^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ . The two solutions were subsequently mixed and stirred vigorously at  $80^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ . A white powder obtained via filtration at reduced pressure was washed using 1:1 distilled water:ethanol  $(v:v)$  and freeze-dried under vacuum at room temperature for  $24\mathrm{h}$  [26]. The yield of the white powder obtained was approximately  $95\%$ .
+79: 
+80: # 2.3. Synthesis of PAA
+81: 
+82: The purity, molar ratio, concentration, and solvent of PAA are important factors in determining the properties of CPI. After dissolving  $6.77\mathrm{g}$ $(1.3\times 10^{-2}\mathrm{mol})$  BPADA in  $40~\mathrm{mL}$  DMAc under nitrogen, the mixture was stirred at  $25^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ . A solution of  $5.62\mathrm{g}$ $(1.3\times 10^{-2}\mathrm{mol})$  of  $m$ -BAPS in  $40~\mathrm{mL}$  DMAc was mixed with the BPADA solution and stirred at room temperature for  $16\mathrm{h}$ .
+83: 
+84: # 2.4. Preparation of the CPI Hybrid Film
+85: 
+86: There are three major methods for preparing a nanocomposite using a filler: a solution intercalation method, a melt intercalation method, and an in situ polymerization method [27]. Among them, the solution intercalation method requires that the filler and the polymer have compatibility and be well dispersed or dissolved at the same time in the specific solvent used. From this point of view, it is difficult to select a solvent, and post-treatment of the solvent after production is difficult. However, the solution intercalation method is mainly used in the process using a solvent [28]. In this study, the solution intercalation method was used because the monomers for PI synthesis were reacted in DMAc solvent. Several methods for preparing nanocomposites are shown in Scheme 1.
+87: 
+88: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+89: Scheme 1. Several methods for preparing nanocomposites.
+90: 
+91: The same procedure was followed to produce all CPI hybrid films; therefore, the synthesis procedure of only a CPI hybrid film containing  $0.5\mathrm{wt}\%$  C16-GS is described
+92: 
+93: as a representative example. A mixture of  $0.06\mathrm{g}$  C16-GS in  $70~\mathrm{mL}$  DMAc was dispersed via sonication at room temperature for  $3\mathrm{h}$ . The solution was then added to the prepared PAA solution and sonicated for  $1.5\mathrm{h}$ . The PAA hybrid solution was cast onto a glass plate and placed under vacuum at  $50^{\circ}\mathrm{C}$  for  $2\mathrm{h}$  and at  $80^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  to remove the solvent. Thereafter, CPI hybrid films were prepared via thermal imidization at various temperatures and durations. The reaction conditions are listed in Table 1, and the overall chemical structure of the materials and reaction steps for the CPI hybrid synthesis are shown in Scheme 2. Nanofiller loadings were varied from 0 to  $1.0\mathrm{wt\%}$ .
+94: 
+95: Table 1. Heat treatment conditions of the CPI hybrid film.  
+96: 
+97: <table><tr><td>Sample</td><td>Temperature (°C)/Time (h)/Pressure (torr)</td></tr><tr><td>PAA</td><td>25/16/760 → 50/2/1 → 80/1/1</td></tr><tr><td>CPI Hybrid</td><td>110/0.5/1 → 140/0.5/1 → 170/0.5/1 → 195/0.8/1 → 220/0.8/1 → 235/2/1</td></tr></table>
+98: 
+99: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+100: 
+101: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+102: Scheme 2. Synthesis route for the fabrication of CPI hybrid films.
+103: 
+104: # 2.5. Characterization
+105: 
+106: 2.5.1. Atomic Force Microscopy (AFM), Field Emission Scanning Electron Microscopy (FE-SEM), and Transmission Electron Microscopy (TEM) Analyses
+107: 
+108: An AutoProbe CP/MT scanning probe microscope was used to obtain images during AFM analysis (Multimode, NanoScope III, Digital Instruments Inc., New York NY, USA). After dispersing the samples in a solvent, the solution was sonicated for  $3\mathrm{h}$  and spin-coated on a silicon wafer.
+109: 
+110: To observe the cross-section of a film, the sample was quenched in liquid nitrogen, segmented, and then examined using FE-SEM (JEOL, JSM-6500F, Tokyo, Japan). To increase the conductivity of the segmented surface, it was sputter-coated with gold using an SPI sputter coater. TEM (JEOL, JEM 2100, Tokyo, Japan) was used to investigate the morphology of graphene and clay dispersed in the CPI matrix. The specimens were cured with epoxy resin at  $70^{\circ}\mathrm{C}$  for  $24\mathrm{h}$ , and samples with a thickness of  $90\mathrm{nm}$  were prepared under vacuum using a microtome equipped with a glass knife. The TEM acceleration voltage was  $120\mathrm{kV}$ .
+111: 
+112: 2.5.2. Fourier Transform Infrared (FT-IR) and  $^{13}\mathrm{C}$  Magic Angle Spinning-Nuclear Magnetic Resonance (MAS NMR) Spectroscopy Analyses
+113: 
+114: FT-IR spectroscopy (PerkinElmer, Spectrum Two, Llantrisant, UK) was used to confirm the synthesis of the nanofillers and CPI. Room-temperature solid-state  $^{13}\mathrm{C}$  cross-polarized (CP)/MAS NMR spectroscopy (Bruker 400 DSX NMR, Berlin, Germany) was performed at a Larmor frequency condition of  $100.61\mathrm{MHz}$ . Chemical shifts were corrected using tetramethylsilane as reference.
+115: 
+116: # 2.5.3. X-ray Diffraction (XRD) Analysis
+117: 
+118: A wide-angle X-ray diffractometer (Rigaku, SWXD/X-MAX/2000PC, Tokyo, Japan) was used to determine the interlayer distance of the nanofiller dispersed in the CPI matrix using Cu-K $\alpha$  ( $\lambda = 1.5406 \AA$ ) radiation. The measurement range was  $2\theta = 2^{\circ} - 15^{\circ}$  at a scan speed of  $2^{\circ} / \mathrm{min}$ .
+119: 
+120: # 2.5.4. Thermal Analysis
+121: 
+122: Differential scanning calorimetry (DSC, 2-00915, Delaware, USA) and thermogravimetric analysis (TGA, SDT 0650-0439, Delaware, USA) were used to evaluate the thermal properties of the CPI film, and the temperature increase during measurement was  $20^{\circ}\mathrm{C / min}$ . Thermomechanical analysis (TMA, SS6100, Tokyo, Japan) was employed for measuring the coefficient of thermal expansion (CTE) using a sample with dimensions of  $5 \times 30\mathrm{mm}^2$  and the heating rate was  $5^{\circ}\mathrm{C / min}$  under the condition of an expansion force of  $0.1\mathrm{N}$ . The resulting values were obtained via secondary heating.
+123: 
+124: # 2.5.5. Optical Properties
+125: 
+126: The cutoff wavelength  $(\lambda_{o})$  and transmittance between 300 and  $800\mathrm{nm}$  of  $53 - 58~{\mu \mathrm{m}}$  thick films were measured using an ultraviolet-visible (UV-vis) spectrometer (SHIMADZU UV-3600, Tokyo, Japan). The yellow index (YI) of the CPI and CPI hybrid films was measured using a spectrophotometer (KONICA MINOLTA CM-3600D, Tokyo, Japan).

@@ -1,0 +1,19 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: MEASUREMENTS
+line_span: [52, 56]
+char_span: [9385, 11007]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0006: MEASUREMENTS) ---
+52: # MEASUREMENTS
+53: 
+54: Fourier transform infrared (FTIR) spectrum of the powder sample was performed on Agilent Cary 630 spectrometer using diamond as the attenuated total reflectance (ATR) accessory. Nuclear magnetic resonance (NMR) measurement of the sample was carried out using Bruker Avance III HD  $400\mathrm{MHz}$  spectrometer with dimethyl sulfoxide  $(\mathrm{DMSO}) - d_{6}$  as a solvent. The molecular weight of the polymer was measured via gel permeation chromatography (GPC) using Shodex GPC101 after calibrating with pullulan standard. The DMF/0.1M lithium bromide (LiBr) solution was used as an eluent for this measurement. The film thickness was measured on the Bruker DektakXT Standard System (DXT-S) surface profiler. The crystallinity of the films was determined using Bruker D8 Advance X-ray diffractometer with  $\mathrm{Cu - k}\alpha$  radiation  $(\alpha = 1.5406\AA)$ . A Perkin Elmer Lambda 35 spectrophotometer was used to measure the ultraviolet-visible (UV-vis) absorption spectra. Tensile properties of PI films (film dimension:  $50~\mathrm{mm}$  long,  $10~\mathrm{mm}$  wide) were characterized using a universal testing machine Shimadzu AGS-50KNX with a cross-head speed of  $0.5~\mathrm{mm / min}$  at room temperature. Differential scanning calorimetry (DSC) and thermogravimetric analysis (TGA) were conducted at a heating rate of  $10^{\circ}\mathrm{C / min}$  in nitrogen on NETZSCH DSC 214 Polyma calorimeter and PerkinElmer TGA 4000 analyzer, respectively. The chemical resistance of films was tested in 8 different solvents at ambient temperature for a maximum of  $30\mathrm{min}$ .

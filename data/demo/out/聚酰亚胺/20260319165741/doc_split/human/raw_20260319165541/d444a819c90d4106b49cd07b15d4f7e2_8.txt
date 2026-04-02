@@ -1,0 +1,19 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 8
+block_id: b0009
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Preparation of the PI/clay hybrid film
+line_span: [71, 75]
+char_span: [15792, 17306]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0009: Preparation of the PI/clay hybrid film) ---
+71: # Preparation of the PI/clay hybrid film
+72: 
+73: A poly(amic acid)/clay dispersion was prepared according to method II described by Gu et al. [48]. A typical procedure to prepare a N,N-dimethylacetamide (DMAc) solution of poly(amic acid)/clay containing 1 wt% clay is described as follows: organophilic clay  $(0.090\mathrm{g})$  was magnetically stirred vigorously at room temperature for  $24\mathrm{h}$  in  $3\mathrm{ml}$  of DMAc to yield a DMAc dispersion of MMT (beaker A). A separate solution was prepared by dissolving BAOB  $(0.496\mathrm{g},1.25\mathrm{mmol})$  in  $2\mathrm{ml}$  of DMAc under magnetic stirring for  $10\mathrm{min}$  at room temperature (beaker B). The contents of the beaker B were added to beaker A and stirred vigorously for another  $24\mathrm{h}$  at room temperature. Then, a solution of ODPA  $(0.388\mathrm{g},1.25\mathrm{mmol})$  in  $2\mathrm{ml}$  of DMAc was prepared under magnetic stirring for  $10\mathrm{min}$  at room temperature (beaker C). Beaker C was then added to beaker  $\mathrm{A + B}$  and the contents were stirred for an additional  $24\mathrm{h}$  at room temperature to yield a DMAc solution of poly(amic acid). The obtained DMAc solution of poly(amic acid)/clay was poured on a glass plate, allowed to stand at room temperature overnight, and then heated from 60 to 270  $^\circ \mathrm{C}$  (at a heating rate of  $1^{\circ}\mathrm{C / min}$ ) in a high temperature oven. The film was then peeled off from the glass plate to obtain the PI/clay hybrid film.

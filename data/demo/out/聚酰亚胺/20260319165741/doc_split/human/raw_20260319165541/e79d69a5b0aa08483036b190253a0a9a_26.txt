@@ -1,0 +1,68 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 26
+block_id: b0027
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: REFERENCES
+line_span: [346, 397]
+char_span: [58253, 66219]
+line_count: 52
+effective_body_non_empty_lines: 39
+
+lines:
+--- chunk (b0027: REFERENCES) ---
+346: # REFERENCES
+347: 
+348: Abdullah, N. & Kamarudin, S.K. 2015. Titanium dioxide in fuel cell technology: An overview. Journal of Power Sources 278: 109-118.  
+349: Awang, N., Jaafar, J. & Ismail, A.F. 2018. Thermal stability and water content study of void-free electrospun SPEEK/ cloisite membrane for direct methanol fuel cell application. Polymers 10(2): 194-209.  
+350: Azat, S., Korobeinyk, A.V., Moustakas, K. & Inglezakis, V.J. 2019. Sustainable production of pure silica from rice husk waste in Kazakhstan. Journal of Cleaner Production 217: 352-359.  
+351: Barbosa, S.L., Ottone, M., De Almeida, M.T., Lage, G.L.C., Almeida, M.A.R., Nelson, D.L., Dos Santos, W.T.P., Clososki, G.C., Lopes, N.P., Klein, S.I. & Zanatta, L.D. 2018. Ketalization of ketones to 1,3-dioxolanes and concurring self-aldolization catalyzed by an amorphous, hydrophilic  $\mathrm{SiO}_2\mathrm{-SO}_3\mathrm{H}$  catalyst under microwave irradiation. Journal of the Brazilian Chemical Society 29(8): 1663-1671.  
+352: Chen, W., Yuan, W., Ye, G., Han, F. & Tang, Y. 2017. Utilization and positive effects of produced  $\mathrm{CO}_{2}$  on the performance of a passive direct methanol fuel cell with a composite anode structure. International Journal of Hydrogen Energy 42(23): 15613-15622.
+353: 
+354: Cui, Y., Liu, Y., Wu, J., Zhang, F., Baker, A.P., Lavorgna, M., Wu, Q., Tang, Q., Lu, J., Xiao, Z. & Liu, X. 2018. Porous silicon-aluminium oxide particles functionalized with acid moieties: An innovative filler for enhanced Nafion-based membranes of direct methanol fuel cell. Journal of Power Sources 403: 118-126.  
+355: Devrim, Y. 2014. Fabrication and performance evaluation of hybrid membrane based on a sulfonated polyphenyl sulfone/ phosphotungstic acid/silica for proton exchange membrane fuel cell at low humidity conditions. Electrochimica Acta 146: 741-751.  
+356: Ekrami-Kakhki, M.S., Naeimi, A. & Donyagard, F. 2019. Pt nanoparticles supported on a novel electrospun polyvinyl alcohol-  $\mathrm{CuOCO_3O_4}$  /chitosan based on Sesbania sesban plant as an electrocatalyst for direct methanol fuel cells. International Journal of Hydrogen Energy 44(3): 1671-1685.  
+357: Fadzillah, D.M., Kamarudin, S.K., Zainoodin, M.A. & Masdar, M.S. 2019. Critical challenges in the system development of direct alcohol fuel cells as portable power supplies: An overview. International Journal of Hydrogen Energy 44(5): 3031-3054.  
+358: Johanek, V., Ostroverkh, A. & Fiala, R. 2019. Vapor-feed low temperature direct methanol fuel cell with Pt and PtRu electrodes: Chemistry insight. Renewable Energy 138: 409-415.  
+359: Kumar, V., Kumar, P., Nandy, A. & Kundu, P.P. 2016. A nanocomposite membrane composed of incorporated nano-alumina within sulfonated PVDF-co-HFP/Nafion blend as separating barrier in a single chambered microbial fuel cell. RSC Advances 6(28): 23571-23580.
+360: 
+361: Kuo, Y.J. & Lin, H.L. 2018. Effects of mesoporous fillers on properties of polybenzimidazole composite membranes for high-temperature polymer fuel cells. International Journal of Hydrogen Energy 43(9): 4448-4457.  
+362: Lee, C.H., Park, C.H., Lee, S.Y., Jung, B.O. & Lee, M.L. 2008. Passive DMFC system using a proton conductive hydrocarbon membrane. Desalination 233(1): 210-217.  
+363: Li, J., Xu, G., Luo, X., Xiong, J., Liu, Z. & Cai, W. 2018. Effect of nano-size of functionalized silica on overall performance of swelling-filling modified Nafion membrane for direct methanol fuel cell application. Applied Energy 213: 408-414.  
+364: Liu, D., Peng, J., Li, Z., Liu, B. & Wang, L. 2018. Improvement in the mechanical properties, proton conductivity, and methanol resistance of highly branched sulfonated poly(arylene ether)/graphene oxide grafted with flexible alkylsulfonated side chains nanocomposite membranes. Journal of Power Sources 378: 451-459.  
+365: Ong, B.C., Kamarudin, S.K. & Basri, S. 2017a. Direct liquid fuel cells: A review. International Journal of Hydrogen Energy 42(15): 10142-10157.  
+366: Ong, B.C., Kamarudin, S.K., Masdar, M.S. & Hasran, U.A. 2017b. Applications of graphene nano-sheets as anode diffusion layers in passive direct methanol fuel cells (DMFC). International Journal of Hydrogen Energy 42(14): 9252-9261.  
+367: Pandey, R.P. & Shahi, V.K. 2015. Phosphonic acid grafted poly(ethyleneimine)-silica composite polymer electrolyte membranes by epoxide ring opening: Improved conductivity and water retention at high temperature. International Journal of Hydrogen Energy 40(41): 14235-14245.  
+368: Parthiban, V., Panda, S.K. & Sahu, A.K. 2018. Highly fluorescent carbon quantum dots-Nafion as proton selective hybrid membrane for direct methanol fuel cells. Electrochimica Acta 292: 855-864.  
+369: Saccà, A., Carbone, A., Gatto, I., Pedicini, R. & Passalacqua, E. 2018. Synthesized yttria stabilised zirconia as filler in proton exchange membranes (PEMs) with enhanced stability. Polymer Testing 65: 322-330.  
+370: Salim, Z.A.S.A., Hassan, A. & Ismail, H. 2018. The effect of high purity rice husk silica synthesised using solvent-thermal extraction method on the properties of natural rubber compounds. BioResources 13(3): 6936-6951.  
+371: Shaari, N. & Kamarudin, S.K. 2018. Performance of crosslinked sodium alginate/sulfonated graphene oxide as polymer electrolyte membrane in DMFC application: RSM optimization approach. International Journal of Hydrogen Energy 43(51): 22986-23003.  
+372: Shahabadi, R., Abdollahi, M. & Sharif, A. 2015. Preparation, characterization and properties of polymer electrolyte nanocomposite membranes containing silica nanoparticles modified via surface-initiated atom transfer radical polymerization. International Journal of Hydrogen Energy 40(9): 3749-3761.
+373: 
+374: Thiam, H.S., Daud, W.R.W., Kamarudin, S.K., Mohamad, A.B., Kadhum, A.A.H., Loh, K.S. & Majlan, E.H. 2013. Performance of direct methanol fuel cell with a palladium-silica nanofibre/Nafion composite membrane. Energy Conversion and Management 75: 718-726.  
+375: Vijayakumar, V. & Khastgir, D. 2018a. Fabrication and comprehensive investigation of physicochemical and electrochemical properties of chitosan-silica supported silicotungstic acid nanocomposite membranes for fuel cell applications. Energy 142: 313-330.  
+376: Vijayakumar, V. & Khastgir, D. 2018b. Hybrid composite membranes of chitosan/sulfonated polyaniline/silica as polymer electrolyte membrane for fuel cells. Carbohydrate Polymers 179: 152-163.  
+377: Wang, H., Li, X., Feng, X., Liu, Y., Kang, W., Xu, X., Zhuang, X. & Cheng, B. 2018. Novel proton-conductive nanochannel membranes with modified  $\mathrm{SiO}_2$  nanospheres for direct methanol fuel cells. Journal of Solid State Electrochemistry 22(11): 3475-3484.  
+378: Yang, H.N., Lee, W.H., Choi, B.S. & Kim, W.J. 2016. Preparation of Nafion/Pt-containing  $\mathrm{TiO}_2/$  graphene oxide composite membranes for self-humidifying proton exchange membrane fuel cell. Journal of Membrane Science 504: 20-28.  
+379: Ying, Y.P., Kamarudin, S.K. & Masdar, M.S. 2018. Silica-related membranes in fuel cell applications: An overview. International Journal of Hydrogen Energy 43(33): 16068-16084.  
+380: You, P.Y., Kamarudin, S.K. & Masdar, M.S. 2019. Improved performance of sulfonated polyimide composite membranes with rice husk ash as a bio-filler for application in direct methanol fuel cells. International Journal of Hydrogen Energy 44(3): 1857-1866.  
+381: Zainoodin, A.M., Kamarudin, S.K., Masdar, M.S., Daud, W.R.W., Mohamad, A.B. & Sahari, J. 2014. Investigation of MEA degradation in a passive direct methanol fuel cell under different modes of operation. Applied Energy 135: 364-372.
+382: 
+383: You Po Ying, Siti Kartom Kamarudin, Mohd Shahbudin Masdar & Azran Mohd Zainoodin*
+384: 
+385: Fuel Cell Institute
+386: 
+387: Universiti Kebangsaan Malaysia
+388: 
+389: 43600 UKM Bangi, Selangor Darul Ehsan Malaysia
+390: 
+391: Siti Kartom Kamarudin & Mohd Shahbudin Masdar Research Centre for Sustainable Process Technology Faculty of Engineering and Built Environment Universiti Kebangsaan Malaysia 43600 UKM Bangi, Selangor Darul Ehsan Malaysia
+392: 
+393: *Corresponding author; email: azrans@ukm.edu.my
+394: 
+395: Received: 6 August 2020
+396: 
+397: Accepted: 11 September 2020

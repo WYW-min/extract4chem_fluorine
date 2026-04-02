@@ -1,0 +1,3613 @@
+{
+    "文献信息": {
+        "唯一文献标识": "doi:10.3390/polym13213614",
+        "论文标题": "3D Printing of Thermal Insulating Polyimide/Cellulose Nanocrystal Composite Aerogels with Low Dimensional Shrinkage",
+        "作者列表": [
+            "Chiao Feng",
+            "Sheng-Sheng Yu"
+        ],
+        "期刊名称": "Polymers",
+        "年份": 2021,
+        "卷号": 13,
+        "页码": "3614",
+        "文档类型": "Article",
+        "语言": "English",
+        "关键词": [
+            "polyimide",
+            "aerogels",
+            "3D printing"
+        ]
+    },
+    "聚合物": [
+        {
+            "聚合物分类名称": "Polyamic Acid",
+            "聚合物分类编码": "PAA",
+            "名称": "PMDA-ODA polyamic acid",
+            "样本形态": "Powder",
+            "结构特征_L1": "unmodified_linear",
+            "结构特征_L2": "aromatic",
+            "表征": {},
+            "性质": [],
+            "工艺流程": [
+                {
+                    "产物名称": "PMDA-ODA聚酰胺酸前驱体溶液",
+                    "原料": [
+                        {
+                            "原料名称": "ODA",
+                            "原料类别": "单体",
+                            "原料类型": "二胺",
+                            "缩写": "ODA",
+                            "投料方式": "加入三口烧瓶",
+                            "质量": {
+                                "单值": 4.806,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "PMDA",
+                            "原料类别": "单体",
+                            "原料类型": "二酐",
+                            "缩写": "PMDA",
+                            "投料方式": "逐步加入",
+                            "质量": {
+                                "单值": 5.235,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "反应溶剂",
+                            "缩写": "DMF",
+                            "投料方式": "混合加入",
+                            "体积": {
+                                "单值": 100,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "三口烧瓶",
+                            "反应气氛": "氮气",
+                            "反应温度": {
+                                "单值": "室温"
+                            },
+                            "溶剂": "DMF",
+                            "溶剂量": {
+                                "单值": 100,
+                                "单位": "mL"
+                            },
+                            "反应时间": {
+                                "单值": 4,
+                                "单位": "小时"
+                            },
+                            "制备过程": "ODA加入三口烧瓶，与DMF在室温和氮气气氛下混合，逐步加入PMDA形成浅黄色聚酰胺酸前驱体溶液，之后搅拌四小时保证反应完全"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "doi:10.3390/polym13213614_PMDA-ODA polyamic acid_01",
+                        "md_range": "80-83",
+                        "原文": "First,  $4.806\\mathrm{g}$  (24 mmol) ODA was added to a three-neck flask and mixed with  $100~\\mathrm{mL}$  DMF under room temperature and a nitrogen atmosphere. A total of  $5.235\\mathrm{g}$  (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction."
+                    }
+                },
+                {
+                    "产物名称": "PMDA-ODA polyamic acid",
+                    "原料": [
+                        {
+                            "原料名称": "PMDA-ODA聚酰胺酸前驱体溶液",
+                            "原料类别": "聚合物前驱体",
+                            "原料类型": "聚酰胺酸前驱体溶液"
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "稀释溶剂",
+                            "缩写": "DMF",
+                            "体积": {
+                                "单值": 100,
+                                "单位": "mL"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "试剂",
+                            "原料类型": "沉淀剂",
+                            "体积": {
+                                "单值": 600,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应温度": {
+                                "单值": 50,
+                                "单位": "°C"
+                            },
+                            "反应时间": {
+                                "单值": "超过两天"
+                            },
+                            "制备过程": "将粘稠的聚酰胺酸溶液用额外的100 mL DMF稀释，在剧烈搅拌下缓慢倒入600 mL去离子水中进行沉淀"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "沉淀",
+                        "真空烘箱50℃干燥超过两天"
+                    ],
+                    "位置索引": {
+                        "block_id": "doi:10.3390/polym13213614_PMDA-ODA polyamic acid_01",
+                        "md_range": "80-83",
+                        "原文": "Next, the viscous polyamic acid solution was diluted with another  $100~\\mathrm{mL}$  DMF, and slowly poured into  $600~\\mathrm{mL}$  deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at  $50^{\\circ}\\mathrm{C}$  for more than two days before use."
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_PMDA-ODA polyamic acid_01"
+        },
+        {
+            "聚合物分类名称": "Polyamic Acid Ammonium Salt/Cellulose Nanocrystal composite ink",
+            "聚合物分类编码": "PAAS/CNC",
+            "名称": "5.6wt% CNCs PAAS/CNC ink",
+            "样本形态": "Ink",
+            "结构特征_L1": "unmodified_linear",
+            "结构特征_L2": "aromatic, aliphatic",
+            "表征": {},
+            "性质": [
+                {
+                    "类别": "流变性质",
+                    "名称": "剪切行为",
+                    "值": {
+                        "说明": "具有显著剪切变稀行为"
+                    },
+                    "测试条件": {
+                        "样品": "5.6wt% CNCs PAAS/CNC ink",
+                        "样品尺寸": "平行板直径25mm，板间隙1000μm",
+                        "方法": "稳态剪切流动测试",
+                        "仪器": "HR-2流变仪（TA instruments）",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性质",
+                    "名称": "粘弹行为",
+                    "值": {
+                        "说明": "小剪切应力下呈现类凝胶行为，储能模量大于损耗模量"
+                    },
+                    "测试条件": {
+                        "样品": "5.6wt% CNCs PAAS/CNC ink",
+                        "样品尺寸": "平行板直径25mm，板间隙1000μm",
+                        "方法": "振荡应力扫描法",
+                        "仪器": "HR-2流变仪（TA instruments）",
+                        "测量参数": "频率1Hz",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性质",
+                    "名称": "粘弹行为",
+                    "值": {
+                        "说明": "高剪切应力下转变为液态，损耗模量大于储能模量，适合DIW打印"
+                    },
+                    "测试条件": {
+                        "样品": "5.6wt% CNCs PAAS/CNC ink",
+                        "样品尺寸": "平行板直径25mm，板间隙1000μm",
+                        "方法": "振荡应力扫描法",
+                        "仪器": "HR-2流变仪（TA instruments）",
+                        "测量参数": "频率1Hz",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性质",
+                    "名称": "储能模量",
+                    "缩写": "G'",
+                    "值": {
+                        "说明": "随CNCs浓度升高而增大，本样品储能模量低于6.5wt%和7.4wt% CNCs的PAAS/CNC ink"
+                    },
+                    "测试条件": {
+                        "样品": "5.6wt% CNCs PAAS/CNC ink",
+                        "样品尺寸": "平行板直径25mm，板间隙1000μm",
+                        "方法": "振荡应力扫描法",
+                        "仪器": "HR-2流变仪（TA instruments）",
+                        "测量参数": "频率1Hz",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性质",
+                    "名称": "屈服应力",
+                    "值": {
+                        "说明": "随CNCs浓度升高而增大，本样品屈服应力低于6.5wt%和7.4wt% CNCs的PAAS/CNC ink"
+                    },
+                    "测试条件": {
+                        "样品": "5.6wt% CNCs PAAS/CNC ink",
+                        "样品尺寸": "平行板直径25mm，板间隙1000μm",
+                        "方法": "振荡应力扫描法",
+                        "仪器": "HR-2流变仪（TA instruments）",
+                        "测量参数": "频率1Hz",
+                        "工作温度": "室温"
+                    }
+                }
+            ],
+            "工艺流程": [
+                {
+                    "产物名称": "聚酰胺酸前驱体溶液",
+                    "原料": [
+                        {
+                            "原料名称": "ODA",
+                            "原料类别": "单体",
+                            "原料类型": "二胺",
+                            "缩写": "ODA",
+                            "质量": {
+                                "单值": 4.806,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "PMDA",
+                            "原料类别": "单体",
+                            "原料类型": "二酐",
+                            "缩写": "PMDA",
+                            "质量": {
+                                "单值": 5.235,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "反应溶剂",
+                            "缩写": "DMF",
+                            "体积": {
+                                "单值": 100,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "三颈烧瓶",
+                            "反应气氛": "氮气",
+                            "反应温度": {
+                                "单值": "室温"
+                            },
+                            "溶剂": "DMF",
+                            "溶剂量": {
+                                "单值": 100,
+                                "单位": "mL"
+                            },
+                            "反应时间": {
+                                "单值": 4,
+                                "单位": "h"
+                            },
+                            "制备过程": "先将ODA加入三颈烧瓶，与DMF在室温氮气氛围下混合，逐步加入全部PMDA，搅拌四小时保证反应完全，形成浅黄色聚酰胺酸前驱体溶液"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "80-83",
+                        "原文": "First,  $4.806\\mathrm{g}$  (24 mmol) ODA was added to a three-neck flask and mixed with  $100~\\mathrm{mL}$  DMF under room temperature and a nitrogen atmosphere. A total of  $5.235\\mathrm{g}$  (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction."
+                    }
+                },
+                {
+                    "产物名称": "干燥聚酰胺酸",
+                    "原料": [
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "稀释溶剂",
+                            "缩写": "DMF",
+                            "体积": {
+                                "单值": 100,
+                                "单位": "mL"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "沉淀溶剂",
+                            "体积": {
+                                "单值": 600,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "真空烘箱",
+                            "反应温度": {
+                                "单值": 50,
+                                "单位": "°C"
+                            },
+                            "反应时间": {
+                                "单值": "超过两天"
+                            },
+                            "制备过程": "将粘稠的聚酰胺酸前驱体溶液用额外DMF稀释，在剧烈搅拌下缓慢倒入去离子水中沉淀，得到黄色聚酰胺酸"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "50℃真空干燥超过两天"
+                    ],
+                    "位置索引": {
+                        "md_range": "80-83",
+                        "原文": "Next, the viscous polyamic acid solution was diluted with another  $100~\\mathrm{mL}$  DMF, and slowly poured into  $600~\\mathrm{mL}$  deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at  $50^{\\circ}\\mathrm{C}$  for more than two days before use."
+                    }
+                },
+                {
+                    "产物名称": "PAAS（聚酰胺酸铵盐）水溶液",
+                    "原料": [
+                        {
+                            "原料名称": "聚酰胺酸",
+                            "原料类别": "聚合物",
+                            "原料类型": "聚酰胺酸前驱体",
+                            "缩写": "PAA",
+                            "质量": {
+                                "单值": 0.75,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "TEA",
+                            "原料类别": "试剂",
+                            "原料类型": "成盐试剂",
+                            "缩写": "TEA",
+                            "质量": {
+                                "单值": 0.363,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "水性溶剂",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "玻璃小瓶",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "制备过程": "将聚酰胺酸、TEA和去离子水混合，超声处理至所有物料溶解，形成PAAS溶液"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87",
+                        "原文": "First,  $0.750\\mathrm{g}$  polyamic acid,  $0.363\\mathrm{g}$  TEA, and  $4.444\\mathrm{g}$  deionized water were mixed in a glass vial. The solution was sonicated until all materials had dissolved to form the PAAS solution."
+                    }
+                },
+                {
+                    "产物名称": "均匀CNC水凝胶",
+                    "原料": [
+                        {
+                            "原料名称": "CNCs",
+                            "原料类别": "填料",
+                            "原料类型": "纤维素纳米晶体",
+                            "缩写": "CNCs",
+                            "质量": {
+                                "单值": 700,
+                                "单位": "mg"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "水性溶剂",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星搅拌机（MV-300S, CGT, Taiwan）",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "反应时间": {
+                                "单值": 10,
+                                "单位": "min"
+                            },
+                            "制备过程": "将CNCs分散在去离子水中，加入七个特氟龙球辅助解聚CNC粉末，在1500rpm下搅拌10min，形成均匀CNC水凝胶",
+                            "反应条件": "转速1500rpm"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87",
+                        "原文": "Next,  $700\\mathrm{mg}$  of CNCs was dispersed in  $4.444\\mathrm{g}$  deionized water by a planetary mixer (MV-300S, CGT, Taiwan) at  $1500\\mathrm{rpm}$  for  $10\\mathrm{min}$  to form a uniform CNC hydrogel. Seven Teflon balls were added in the container to deagglomerate the CNC powder better."
+                    }
+                },
+                {
+                    "产物名称": "5.6wt% CNCs PAAS/CNC ink",
+                    "原料": [
+                        {
+                            "原料名称": "PAAS水溶液",
+                            "原料类别": "聚合物溶液",
+                            "原料类型": "聚酰胺酸铵盐水溶液"
+                        },
+                        {
+                            "原料名称": "CNC水凝胶",
+                            "原料类别": "填料分散液",
+                            "原料类型": "纤维素纳米晶体水凝胶"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星搅拌机",
+                            "反应时间": {
+                                "单值": 30,
+                                "单位": "min"
+                            },
+                            "制备过程": "将水性PAAS溶液与CNC水凝胶在1500rpm下混合30min，调整CNC的用量，得到CNCs浓度为5.6wt%、聚酰胺酸浓度为7.0wt%的目标PAAS/CNC ink",
+                            "反应条件": "转速1500rpm"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87",
+                        "原文": "Finally, the aqueous PAAS solution was mixed with the CNC hydrogel by the planetary mixer at  $1500\\mathrm{rpm}$  for  $30\\mathrm{min}$ . The final concentration of polyamic acid and CNCs was  $7.0\\mathrm{wt\\%}$  and  $6.5\\mathrm{wt\\%}$ , respectively. For comparison, the amount of CNC was adjusted to make inks with  $5.6\\mathrm{wt\\%}$ ,  $6.5\\mathrm{wt\\%}$ , and  $7.4\\mathrm{wt\\%}$  CNCs."
+                    }
+                },
+                {
+                    "产物名称": "脱泡后待打印5.6wt% CNCs PAAS/CNC ink",
+                    "原料": [
+                        {
+                            "原料名称": "5.6wt% CNCs PAAS/CNC ink",
+                            "原料类别": "复合油墨",
+                            "原料类型": "PAAS/CNC复合油墨"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "10mL一次性注射器、行星搅拌机",
+                            "制备过程": "将制备好的PAAS/CNC ink转移到10mL一次性注射器中，用行星搅拌机去除油墨中的气泡"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "92-95",
+                        "原文": "The as-prepared PAAS/CNC ink was transferred into a  $10~\\mathrm{mL}$  disposable syringe. The bubbles within the ink were removed by the planetary mixer."
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_5.6wt% CNCs PAAS/CNC ink_01"
+        },
+        {
+            "聚合物分类名称": "Polyamic Acid Ammonium Salt/Cellulose Nanocrystal composite ink",
+            "聚合物分类编码": "PAAS/CNC",
+            "名称": "6.5wt% CNCs PAAS/CNC ink",
+            "样本形态": "Ink",
+            "结构特征_L1": "unmodified_linear",
+            "结构特征_L2": "aromatic, aliphatic",
+            "表征": {},
+            "性质": [
+                {
+                    "类别": "流变性能",
+                    "名称": "黏度",
+                    "值": {
+                        "单值": 18134,
+                        "单位": "Pa·s"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PAAS/CNC ink",
+                        "方法": "稳态剪切流动测试",
+                        "仪器": "HR-2 流变仪 (TA instruments, New Castle, DE, USA)",
+                        "测量参数": "剪切速率 0.01 s⁻¹",
+                        "工作距离": "平行板直径25mm，平行板间隙1000μm",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性能",
+                    "名称": "黏度",
+                    "值": {
+                        "单值": 228,
+                        "单位": "Pa·s"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PAAS/CNC ink",
+                        "方法": "稳态剪切流动测试",
+                        "仪器": "HR-2 流变仪 (TA instruments, New Castle, DE, USA)",
+                        "测量参数": "剪切速率 1 s⁻¹",
+                        "工作距离": "平行板直径25mm，平行板间隙1000μm",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性能",
+                    "名称": "屈服应力",
+                    "值": {
+                        "最小": 200,
+                        "单位": "Pa",
+                        "说明": "屈服应力大于200 Pa，满足直写成型要求"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PAAS/CNC ink",
+                        "方法": "振荡应力扫描法，由储能模量和损耗模量的交点计算得到屈服应力",
+                        "仪器": "HR-2 流变仪 (TA instruments, New Castle, DE, USA)",
+                        "测量参数": "频率 1 Hz",
+                        "工作距离": "平行板直径25mm，平行板间隙1000μm",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性能",
+                    "名称": "黏弹行为",
+                    "值": {
+                        "说明": "低剪切应力下储能模量大于损耗模量，呈现类凝胶行为；高剪切应力下转变为液体状态，损耗模量大于储能模量，适合直写成型"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PAAS/CNC ink",
+                        "方法": "振荡应力扫描法",
+                        "仪器": "HR-2 流变仪 (TA instruments, New Castle, DE, USA)",
+                        "测量参数": "频率 1 Hz",
+                        "工作距离": "平行板直径25mm，平行板间隙1000μm",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "加工性能",
+                    "名称": "直写成型可打印性",
+                    "值": {
+                        "说明": "可成功挤出并逐层堆叠，最高可堆叠70层，高度为28.22 mm，打印件具有良好的形状保真度"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PAAS/CNC ink",
+                        "工作温度": "室温"
+                    }
+                }
+            ],
+            "工艺流程": [
+                {
+                    "产物名称": "PMDA-ODA聚酰胺酸固体",
+                    "原料": [
+                        {
+                            "原料名称": "ODA",
+                            "原料类别": "单体",
+                            "原料类型": "二胺",
+                            "质量": {
+                                "单值": 4.806,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "PMDA",
+                            "原料类别": "单体",
+                            "原料类型": "二酐",
+                            "投料方式": "逐步加入",
+                            "质量": {
+                                "单值": 5.235,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "反应稀释溶剂",
+                            "体积": {
+                                "单值": 200,
+                                "单位": "mL"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "沉淀溶剂",
+                            "体积": {
+                                "单值": 600,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "三口烧瓶",
+                            "反应气氛": "氮气",
+                            "反应温度": {
+                                "单值": "室温"
+                            },
+                            "溶剂": "DMF",
+                            "溶剂量": {
+                                "单值": 200,
+                                "单位": "mL"
+                            },
+                            "反应时间": {
+                                "单值": 4,
+                                "单位": "小时"
+                            },
+                            "制备过程": "先将ODA加入三口烧瓶与DMF混合，逐步加入PMDA形成淡黄色聚酰胺酸前驱体溶液，搅拌4小时保证反应完全，之后用额外100mL DMF稀释，剧烈搅拌下缓慢倒入去离子水沉淀"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "置于真空烘箱50℃干燥超过两天"
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 1",
+                        "md_range": "line 80-83",
+                        "原文": "First,  $4.806\\mathrm{g}$  (24 mmol) ODA was added to a three-neck flask and mixed with  $100~\\mathrm{mL}$  DMF under room temperature and a nitrogen atmosphere. A total of  $5.235\\mathrm{g}$  (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction. Next, the viscous polyamic acid solution was diluted with another  $100~\\mathrm{mL}$  DMF, and slowly poured into  $600~\\mathrm{mL}$  deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at  $50^{\\circ}\\mathrm{C}$  for more than two days before use."
+                    }
+                },
+                {
+                    "产物名称": "PAAS水溶液",
+                    "原料": [
+                        {
+                            "原料名称": "聚酰胺酸",
+                            "原料类别": "聚合物",
+                            "原料类型": "聚酰胺酸前驱体",
+                            "质量": {
+                                "单值": 0.75,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "TEA",
+                            "原料类别": "试剂",
+                            "原料类型": "碱",
+                            "质量": {
+                                "单值": 0.363,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "溶解介质",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "玻璃瓶",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "制备过程": "将所有原料混合后超声至所有物料完全溶解"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 2",
+                        "md_range": "line 84-87",
+                        "原文": "First,  $0.750\\mathrm{g}$  polyamic acid,  $0.363\\mathrm{g}$  TEA, and  $4.444\\mathrm{g}$  deionized water were mixed in a glass vial. The solution was sonicated until all materials had dissolved to form the PAAS solution."
+                    }
+                },
+                {
+                    "产物名称": "均匀CNC水凝胶",
+                    "原料": [
+                        {
+                            "原料名称": "CNCs",
+                            "原料类别": "填料",
+                            "原料类型": "纤维素纳米晶体",
+                            "缩写": "CNCs",
+                            "质量": {
+                                "单值": 700,
+                                "单位": "mg"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "分散介质",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星混合器 (MV-300S, CGT, Taiwan)",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "反应时间": {
+                                "单值": 10,
+                                "单位": "min"
+                            },
+                            "制备过程": "加入7个特氟龙球促进CNC粉末解团聚，1500rpm搅拌分散CNCs形成均匀水凝胶",
+                            "反应条件": "搅拌转速1500rpm"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 2",
+                        "md_range": "line 84-87",
+                        "原文": "Next,  $700\\mathrm{mg}$  of CNCs was dispersed in  $4.444\\mathrm{g}$  deionized water by a planetary mixer (MV-300S, CGT, Taiwan) at  $1500\\mathrm{rpm}$  for  $10\\mathrm{min}$  to form a uniform CNC hydrogel. Seven Teflon balls were added in the container to deagglomerate the CNC powder better."
+                    }
+                },
+                {
+                    "产物名称": "6.5wt% CNCs PAAS/CNC ink",
+                    "原料": [
+                        {
+                            "原料名称": "PAAS水溶液",
+                            "原料类别": "聚合物溶液",
+                            "原料类型": "聚酰胺酸铵盐水溶液"
+                        },
+                        {
+                            "原料名称": "均匀CNC水凝胶",
+                            "原料类别": "填料分散液",
+                            "原料类型": "纤维素纳米晶体水凝胶"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星混合器",
+                            "溶剂": "去离子水",
+                            "反应时间": {
+                                "单值": 30,
+                                "单位": "min"
+                            },
+                            "制备过程": "调整CNC用量，将水性PAAS溶液与CNC水凝胶混合搅拌，最终得到聚酰胺酸浓度7.0wt%、CNCs浓度6.5wt%的复合ink",
+                            "反应条件": "搅拌转速1500rpm"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 2",
+                        "md_range": "line 84-87",
+                        "原文": "Finally, the aqueous PAAS solution was mixed with the CNC hydrogel by the planetary mixer at  $1500\\mathrm{rpm}$  for  $30\\mathrm{min}$ . The final concentration of polyamic acid and CNCs was  $7.0\\mathrm{wt\\%}$  and  $6.5\\mathrm{wt\\%}$ , respectively. For comparison, the amount of CNC was adjusted to make inks with  $5.6\\mathrm{wt\\%}$ ,  $6.5\\mathrm{wt\\%}$ , and  $7.4\\mathrm{wt\\%}$  CNCs."
+                    }
+                },
+                {
+                    "产物名称": "注射器内除泡后的6.5wt% CNCs PAAS/CNC ink",
+                    "原料": [
+                        {
+                            "原料名称": "6.5wt% CNCs PAAS/CNC ink",
+                            "原料类别": "复合油墨",
+                            "投料方式": "转移加入",
+                            "原料类型：聚酰胺酸铵盐/纤维素纳米晶体复合ink": "IUPAC名称"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "10mL一次性注射器、行星混合器",
+                            "制备过程": "将制备好的PAAS/CNC ink转移入10mL一次性注射器，用行星混合器去除ink内的气泡，用于后续3D打印"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 3",
+                        "md_range": "line 92-95",
+                        "原文": "The as-prepared PAAS/CNC ink was transferred into a  $10~\\mathrm{mL}$  disposable syringe. The bubbles within the ink were removed by the planetary mixer."
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_6.5wt% CNCs PAAS/CNC ink_01"
+        },
+        {
+            "聚合物分类名称": "Polyamic Acid Ammonium Salt/Cellulose Nanocrystal composite ink",
+            "聚合物分类编码": "PAAS/CNC",
+            "名称": "7.4wt% CNCs PAAS/CNC ink",
+            "样本形态": "Ink",
+            "结构特征_L1": "unmodified_linear",
+            "结构特征_L2": "aromatic, aliphatic",
+            "表征": {},
+            "性质": [
+                {
+                    "类别": "流变性能",
+                    "名称": "剪切流变行为",
+                    "值": {
+                        "说明": "具有显著剪切稀化行为；低剪切应力下储能模量大于损耗模量，呈凝胶状行为；高剪切应力下转变为液体状态，损耗模量大于储能模量"
+                    },
+                    "测试条件": {
+                        "样品": "7.4wt% CNCs PAAS/CNC ink",
+                        "方法": "稳态剪切流测试测定黏度，振荡应力扫描测试测定储能模量和损耗模量",
+                        "仪器": "HR-2 流变仪（TA instruments, New Castle, DE, USA）",
+                        "测量参数": "振荡频率1Hz，平行板直径25mm，板间距1000μm",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性能",
+                    "名称": "屈服应力",
+                    "值": {
+                        "最小": 200,
+                        "单位": "Pa",
+                        "说明": "屈服应力大于200 Pa"
+                    },
+                    "测试条件": {
+                        "样品": "7.4wt% CNCs PAAS/CNC ink",
+                        "方法": "屈服应力由储能模量和损耗模量的交点获得",
+                        "仪器": "HR-2 流变仪（TA instruments, New Castle, DE, USA）",
+                        "测量参数": "平行板直径25mm，板间距1000μm，振荡频率1Hz",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性能",
+                    "名称": "储能模量",
+                    "缩写": "G'",
+                    "值": {
+                        "说明": "随CNCs浓度升高而增大，高于更低CNCs浓度的PAAS/CNC ink"
+                    },
+                    "测试条件": {
+                        "样品": "7.4wt% CNCs PAAS/CNC ink",
+                        "仪器": "HR-2 流变仪（TA instruments, New Castle, DE, USA）",
+                        "测量参数": "振荡频率1Hz，平行板直径25mm，板间距1000μm",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "加工性能",
+                    "名称": "可印刷性",
+                    "值": {
+                        "说明": "足以满足直接油墨书写（DIW）"
+                    },
+                    "测试条件": {
+                        "样品": "7.4wt% CNCs PAAS/CNC ink",
+                        "工作温度": "室温"
+                    }
+                }
+            ],
+            "工艺流程": [
+                {
+                    "产物名称": "聚酰胺酸",
+                    "原料": [
+                        {
+                            "原料名称": "ODA",
+                            "原料类别": "单体",
+                            "原料类型": "二胺",
+                            "质量": {
+                                "单值": 4.806,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "PMDA",
+                            "原料类别": "单体",
+                            "原料类型": "二酐",
+                            "质量": {
+                                "单值": 5.235,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "反应溶剂",
+                            "体积": {
+                                "单值": 200,
+                                "单位": "mL"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "沉淀溶剂",
+                            "体积": {
+                                "单值": 600,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "三颈烧瓶",
+                            "反应气氛": "氮气",
+                            "反应温度": {
+                                "单值": "室温"
+                            },
+                            "溶剂": "DMF",
+                            "溶剂量": {
+                                "单值": 200,
+                                "单位": "mL"
+                            },
+                            "反应时间": {
+                                "单值": 4,
+                                "单位": "小时"
+                            },
+                            "制备过程": "将ODA加入三颈烧瓶，与DMF在室温氮气氛围下混合，逐步加入PMDA形成浅黄色聚酰胺酸前驱体溶液，搅拌4小时保证反应完全，之后用额外100mL DMF稀释，在剧烈搅拌下缓慢倒入去离子水中沉淀"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "真空烘箱50℃干燥超过两天"
+                    ],
+                    "位置索引": {
+                        "md_range": "80-83",
+                        "原文": "First, 4.806g (24 mmol) ODA was added to a three-neck flask and mixed with 100 mL DMF under room temperature and a nitrogen atmosphere. A total of 5.235g (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction. Next, the viscous polyamic acid solution was diluted with another 100 mL DMF, and slowly poured into 600 mL deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at 50℃ for more than two days before use."
+                    }
+                },
+                {
+                    "产物名称": "PAAS溶液",
+                    "原料": [
+                        {
+                            "原料名称": "聚酰胺酸",
+                            "原料类别": "聚合物前驱体",
+                            "原料类型": "聚酰胺酸",
+                            "质量": {
+                                "单值": 0.75,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "TEA",
+                            "原料类别": "碱",
+                            "原料类型": "成盐试剂",
+                            "质量": {
+                                "单值": 0.363,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "溶解溶剂",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "玻璃小瓶",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "制备过程": "将所有原料混合，超声至所有物料完全溶解形成PAAS溶液"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87",
+                        "原文": "First, 0.750g polyamic acid, 0.363g TEA, and 4.444g deionized water were mixed in a glass vial. The solution was sonicated until all materials had dissolved to form the PAAS solution."
+                    }
+                },
+                {
+                    "产物名称": "均匀CNC水凝胶",
+                    "原料": [
+                        {
+                            "原料名称": "CNCs",
+                            "原料类别": "填料",
+                            "原料类型": "纤维素纳米晶体"
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "分散介质",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "聚四氟乙烯球",
+                            "原料类别": "助剂",
+                            "原料类型": "解团聚助剂",
+                            "投料方式": "加入七个至容器中"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星搅拌机（MV-300S, CGT, Taiwan）",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "反应时间": {
+                                "单值": 10,
+                                "单位": "min"
+                            },
+                            "制备过程": "将CNCs分散在去离子水中，加入聚四氟乙烯球辅助解团聚，调整CNCs用量，在1500rpm转速下搅拌形成均匀CNC水凝胶，用于制备7.4wt% CNCs的目标ink",
+                            "反应条件": "搅拌转速1500rpm"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87",
+                        "原文": "Next, 700mg of CNCs was dispersed in 4.444g deionized water by a planetary mixer (MV-300S, CGT, Taiwan) at 1500rpm for 10min to form a uniform CNC hydrogel. Seven Teflon balls were added in the container to deagglomerate the CNC powder better. For comparison, the amount of CNC was adjusted to make inks with 5.6wt%, 6.5wt%, and 7.4wt% CNCs."
+                    }
+                },
+                {
+                    "产物名称": "7.4wt% CNCs PAAS/CNC ink",
+                    "原料": [
+                        {
+                            "原料名称": "PAAS水溶液",
+                            "原料类别": "聚合物溶液",
+                            "原料类型": "聚酰胺酸铵盐水溶液"
+                        },
+                        {
+                            "原料名称": "CNC水凝胶",
+                            "原料类别": "填料分散液",
+                            "原料类型": "纤维素纳米晶体水凝胶"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星搅拌机",
+                            "反应时间": {
+                                "单值": 30,
+                                "单位": "min"
+                            },
+                            "制备过程": "将水性PAAS溶液与CNC水凝胶混合，调整CNC用量，在1500rpm转速下搅拌30min，得到最终CNCs浓度为7.4wt%、聚酰胺酸浓度为7.0wt%的复合ink",
+                            "反应条件": "搅拌转速1500rpm"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87",
+                        "原文": "Finally, the aqueous PAAS solution was mixed with the CNC hydrogel by the planetary mixer at 1500rpm for 30min. The final concentration of polyamic acid and CNCs was 7.0wt% and 6.5wt%, respectively. For comparison, the amount of CNC was adjusted to make inks with 5.6wt%, 6.5wt%, and 7.4wt% CNCs."
+                    }
+                },
+                {
+                    "产物名称": "脱泡后装于注射器的7.4wt% CNCs PAAS/CNC ink",
+                    "原料": [
+                        {
+                            "原料名称": "7.4wt% CNCs PAAS/CNC ink",
+                            "原料类别": "复合ink",
+                            "原料类型": "PAAS/CNC复合ink"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "10mL一次性注射器、行星搅拌机",
+                            "制备过程": "将制备好的PAAS/CNC ink转移到10mL一次性注射器中，用行星搅拌机去除ink内的气泡，用于后续3D打印"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "92-95",
+                        "原文": "The as-prepared PAAS/CNC ink was transferred into a 10 mL disposable syringe. The bubbles within the ink were removed by the planetary mixer."
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_7.4wt% CNCs PAAS/CNC ink_01"
+        },
+        {
+            "聚合物分类名称": "Polyamic Acid Ammonium Salt/Cellulose Nanocrystal composite ink",
+            "聚合物分类编码": "PAAS/CNC",
+            "名称": "4.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+            "样本形态": "Ink",
+            "结构特征_L1": "unmodified_linear",
+            "结构特征_L2": "aromatic, aliphatic",
+            "表征": {},
+            "性质": [
+                {
+                    "类别": "流变性质",
+                    "名称": "黏度",
+                    "值": {
+                        "单值": 18134,
+                        "单位": "Pa·s"
+                    },
+                    "测试条件": {
+                        "样品": "4.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                        "方法": "稳态剪切流动测试",
+                        "仪器": "HR-2 rheometer, TA instruments",
+                        "测量参数": "剪切速率 0.01 s⁻¹",
+                        "工作温度": "室温",
+                        "平行板直径": "25 mm",
+                        "板间距": "1000 μm"
+                    }
+                },
+                {
+                    "类别": "流变性质",
+                    "名称": "黏度",
+                    "值": {
+                        "单值": 228,
+                        "单位": "Pa·s"
+                    },
+                    "测试条件": {
+                        "样品": "4.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                        "方法": "稳态剪切流动测试",
+                        "仪器": "HR-2 rheometer, TA instruments",
+                        "测量参数": "剪切速率 1 s⁻¹",
+                        "工作温度": "室温",
+                        "平行板直径": "25 mm",
+                        "板间距": "1000 μm"
+                    }
+                },
+                {
+                    "类别": "流变性质",
+                    "名称": "屈服应力",
+                    "值": {
+                        "最小": 200,
+                        "单位": "Pa",
+                        "说明": "屈服应力大于200 Pa，满足直接墨水书写要求"
+                    },
+                    "测试条件": {
+                        "样品": "4.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                        "方法": "振荡应力扫描法，由存储模量与损耗模量的交点得到屈服应力",
+                        "仪器": "HR-2 rheometer, TA instruments",
+                        "测量参数": "频率 1 Hz",
+                        "工作温度": "室温",
+                        "平行板直径": "25 mm",
+                        "板间距": "1000 μm"
+                    }
+                },
+                {
+                    "类别": "流变性质",
+                    "名称": "模量行为",
+                    "值": {
+                        "说明": "小剪切应力下存储模量大于损耗模量，呈凝胶状行为；高剪切应力下转变为液体状，损耗模量大于存储模量"
+                    },
+                    "测试条件": {
+                        "样品": "4.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                        "方法": "振荡应力扫描法",
+                        "仪器": "HR-2 rheometer, TA instruments",
+                        "测量参数": "频率 1 Hz",
+                        "工作温度": "室温",
+                        "平行板直径": "25 mm",
+                        "板间距": "1000 μm"
+                    }
+                },
+                {
+                    "类别": "加工性能",
+                    "名称": "可打印性",
+                    "值": {
+                        "说明": "可成功挤出并逐层堆叠，可堆叠至70层，高度为28.22 mm，打印后具有良好形状保真度，满足直接墨水书写要求"
+                    },
+                    "测试条件": {
+                        "样品": "4.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                        "方法": "直接墨水书写(DIW)打印测试",
+                        "工作温度": "室温"
+                    }
+                }
+            ],
+            "工艺流程": [
+                {
+                    "产物名称": "PMDA-ODA聚酰胺酸固体前驱体",
+                    "原料": [
+                        {
+                            "原料名称": "4,4'-二氨基二苯醚",
+                            "原料类别": "单体",
+                            "原料类型": "二胺",
+                            "缩写": "ODA",
+                            "质量": {
+                                "单值": 4.806,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "均苯四甲酸二酐",
+                            "原料类别": "单体",
+                            "原料类型": "二酐",
+                            "缩写": "PMDA",
+                            "质量": {
+                                "单值": 5.235,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "N,N-二甲基甲酰胺",
+                            "原料类别": "溶剂",
+                            "原料类型": "反应溶剂",
+                            "缩写": "DMF",
+                            "体积": {
+                                "单值": 200,
+                                "单位": "mL"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "沉淀剂",
+                            "体积": {
+                                "单值": 600,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "三口烧瓶",
+                            "反应气氛": "氮气",
+                            "反应温度": {
+                                "单值": "室温"
+                            },
+                            "反应时间": {
+                                "单值": 4,
+                                "单位": "小时"
+                            },
+                            "制备过程": "先将ODA加入三口烧瓶，与DMF在室温、氮气氛围下混合，逐步加入PMDA形成淡黄色聚酰胺酸前驱体溶液，搅拌4小时保证反应完全，之后用额外DMF稀释粘稠聚酰胺酸溶液"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "在剧烈搅拌下将稀释后的聚酰胺酸溶液缓慢倒入去离子水中沉淀",
+                        "收集黄色产物，在50℃真空烘箱中干燥超过两天备用"
+                    ],
+                    "位置索引": {
+                        "md_range": "80-83",
+                        "原文": "First,  4.806g  (24 mmol) ODA was added to a three-neck flask and mixed with  100 mL  DMF under room temperature and a nitrogen atmosphere. A total of  5.235g  (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction. Next, the viscous polyamic acid solution was diluted with another  100 mL  DMF, and slowly poured into  600 mL  deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at  50℃  for more than two days before use."
+                    }
+                },
+                {
+                    "产物名称": "聚酰胺酸铵盐水溶液",
+                    "原料": [
+                        {
+                            "原料名称": "聚酰胺酸",
+                            "原料类别": "聚合物前驱体",
+                            "原料类型": "聚酰胺酸",
+                            "质量": {
+                                "单值": 0.75,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "三乙胺",
+                            "原料类别": "试剂",
+                            "原料类型": "成盐试剂",
+                            "缩写": "TEA",
+                            "质量": {
+                                "单值": 0.363,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "水相溶剂",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "玻璃样品瓶",
+                            "制备过程": "将聚酰胺酸、TEA和去离子水混合，超声至所有物料完全溶解，形成聚酰胺酸铵盐（PAAS）溶液"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87",
+                        "原文": "First,  0.750g  polyamic acid,  0.363g  TEA, and  4.444g  deionized water were mixed in a glass vial. The solution was sonicated until all materials had dissolved to form the PAAS solution."
+                    }
+                },
+                {
+                    "产物名称": "均匀纤维素纳米晶水凝胶",
+                    "原料": [
+                        {
+                            "原料名称": "纤维素纳米晶",
+                            "原料类别": "填料",
+                            "原料类型": "纳米纤维素晶体",
+                            "缩写": "CNCs",
+                            "质量": {
+                                "单值": 700,
+                                "单位": "mg"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "水相溶剂",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星混合器（MV-300S, CGT, Taiwan）",
+                            "制备过程": "将CNCs分散在去离子水中，容器中加入七个特氟龙球促进CNC粉末解团聚，在1500rpm下混合10min，形成均匀CNC水凝胶"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87",
+                        "原文": "Next,  700mg  of CNCs was dispersed in  4.444g  deionized water by a planetary mixer (MV-300S, CGT, Taiwan) at  1500rpm  for  10min  to form a uniform CNC hydrogel. Seven Teflon balls were added in the container to deagglomerate the CNC powder better."
+                    }
+                },
+                {
+                    "产物名称": "4.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                    "原料": [
+                        {
+                            "原料名称": "聚酰胺酸铵盐水溶液",
+                            "原料类别": "前驱体溶液",
+                            "原料类型": "水性PAAS溶液"
+                        },
+                        {
+                            "原料名称": "均匀纤维素纳米晶水凝胶",
+                            "原料类别": "预分散体",
+                            "原料类型": "CNC水凝胶"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星混合器",
+                            "制备过程": "将水性PAAS溶液与CNC水凝胶混合，在1500rpm下混合30min，调节浓度得到聚酰胺酸含量4.7wt%、CNCs含量6.5wt%的目标PAAS/CNC ink"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87; 118-122",
+                        "原文": "Finally, the aqueous PAAS solution was mixed with the CNC hydrogel by the planetary mixer at  1500rpm  for  30min . ... A CNC of  6.5wt%  and the concentrations of polyamic acid ranged from  4.7wt%  to  9.7wt% ."
+                    }
+                },
+                {
+                    "产物名称": "打印前处理后的可打印PAAS/CNC ink",
+                    "原料": [
+                        {
+                            "原料名称": "4.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                            "原料类别": "复合ink",
+                            "原料类型": "待处理PAAS/CNC ink"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "制备过程": "将制备好的PAAS/CNC ink转移到10mL一次性注射器中，用行星混合器去除ink内部的气泡，得到可用于3D打印的ink"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "92-95",
+                        "原文": "The as-prepared PAAS/CNC ink was transferred into a  10 mL  disposable syringe. The bubbles within the ink were removed by the planetary mixer."
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_4.7wt% PAA 6.5wt% CNCs PAAS/CNC ink_01"
+        },
+        {
+            "聚合物分类名称": "Polyamic Acid Ammonium Salt/Cellulose Nanocrystal composite ink",
+            "聚合物分类编码": "PAAS/CNC",
+            "名称": "9.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+            "样本形态": "Ink",
+            "结构特征_L1": "unmodified_linear",
+            "结构特征_L2": "aromatic, aliphatic",
+            "表征": {},
+            "性质": [
+                {
+                    "类别": "流变性质",
+                    "名称": "黏度",
+                    "缩写": "η",
+                    "值": {
+                        "单值": 18134,
+                        "单位": "Pa·s"
+                    },
+                    "测试条件": {
+                        "样品": "9.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                        "样品尺寸": "平行板直径25mm，板间隙1000μm",
+                        "方法": "稳态剪切流动测试",
+                        "仪器": "HR-2 rheometer, TA instruments, New Castle, DE, USA",
+                        "测量参数": "剪切速率 0.01 s⁻¹",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性质",
+                    "名称": "黏度",
+                    "缩写": "η",
+                    "值": {
+                        "单值": 228,
+                        "单位": "Pa·s"
+                    },
+                    "测试条件": {
+                        "样品": "9.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                        "样品尺寸": "平行板直径25mm，板间隙1000μm",
+                        "方法": "稳态剪切流动测试",
+                        "仪器": "HR-2 rheometer, TA instruments, New Castle, DE, USA",
+                        "测量参数": "剪切速率 1 s⁻¹",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性质",
+                    "名称": "屈服应力",
+                    "缩写": "τ_y",
+                    "值": {
+                        "最小": 200,
+                        "单位": "Pa",
+                        "说明": "大于200 Pa"
+                    },
+                    "测试条件": {
+                        "样品": "9.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                        "样品尺寸": "平行板直径25mm，板间隙1000μm",
+                        "方法": "振荡应力扫描法",
+                        "仪器": "HR-2 rheometer, TA instruments, New Castle, DE, USA",
+                        "测量参数": "频率 1 Hz",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性质",
+                    "名称": "剪切变稀行为",
+                    "值": {
+                        "说明": "表现出显著的剪切变稀行为"
+                    },
+                    "测试条件": {
+                        "样品": "9.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                        "方法": "稳态剪切流变测试",
+                        "仪器": "HR-2 rheometer, TA instruments, New Castle, DE, USA",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "流变性质",
+                    "名称": "储能模量与损耗模量随剪切应力变化行为",
+                    "值": {
+                        "说明": "小剪切应力下，储能模量大于损耗模量，呈现类凝胶行为；高剪切应力下，转变为类液体状态，损耗模量大于储能模量"
+                    },
+                    "测试条件": {
+                        "样品": "9.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                        "样品尺寸": "平行板直径25mm，板间隙1000μm",
+                        "方法": "振荡应力扫描法",
+                        "仪器": "HR-2 rheometer, TA instruments, New Castle, DE, USA",
+                        "测量参数": "频率 1 Hz",
+                        "工作温度": "室温"
+                    }
+                },
+                {
+                    "类别": "加工性能",
+                    "名称": "直写成型（DIW）可印刷性",
+                    "值": {
+                        "说明": "可成功挤出并逐层堆叠，满足直写成型要求，能够堆叠至70层，堆叠高度达28.22 mm"
+                    },
+                    "测试条件": {
+                        "样品": "9.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                        "工作温度": "室温"
+                    }
+                }
+            ],
+            "工艺流程": [
+                {
+                    "产物名称": "聚酰胺酸固体",
+                    "原料": [
+                        {
+                            "原料名称": "ODA",
+                            "原料类别": "单体",
+                            "原料类型": "二胺",
+                            "质量": {
+                                "单值": 4.806,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "PMDA",
+                            "原料类别": "单体",
+                            "原料类型": "二酐",
+                            "质量": {
+                                "单值": 5.235,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "N,N-二甲基甲酰胺",
+                            "原料类别": "溶剂",
+                            "原料类型": "反应溶剂",
+                            "缩写": "DMF",
+                            "体积": {
+                                "单值": 200,
+                                "单位": "mL"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "试剂",
+                            "原料类型": "沉淀溶剂",
+                            "体积": {
+                                "单值": 600,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "三颈烧瓶",
+                            "反应气氛": "氮气",
+                            "反应温度": {
+                                "单值": "室温"
+                            },
+                            "溶剂": "DMF",
+                            "溶剂量": {
+                                "单值": 200,
+                                "单位": "mL"
+                            },
+                            "反应时间": {
+                                "单值": 4,
+                                "单位": "小时"
+                            },
+                            "制备过程": "先将ODA加入三颈烧瓶，与DMF混合，再逐步加入PMDA形成聚酰胺酸前驱体溶液，搅拌四小时保证反应完全"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "用额外100mL DMF稀释聚酰胺酸溶液",
+                        "缓慢倒入600mL去离子水并剧烈搅拌沉淀",
+                        "50℃真空烘箱干燥超过两天"
+                    ],
+                    "位置索引": {
+                        "原文": "First, 4.806g (24 mmol) ODA was added to a three-neck flask and mixed with 100 mL DMF under room temperature and a nitrogen atmosphere. A total of 5.235g (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction. Next, the viscous polyamic acid solution was diluted with another 100 mL DMF, and slowly poured into 600 mL deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at 50℃ for more than two days before use."
+                    }
+                },
+                {
+                    "产物名称": "聚酰胺酸铵盐水溶液（PAAS溶液）",
+                    "原料": [
+                        {
+                            "原料名称": "聚酰胺酸",
+                            "原料类别": "聚合物",
+                            "原料类型": "聚酰亚胺前驱体",
+                            "缩写": "PAA"
+                        },
+                        {
+                            "原料名称": "三乙胺",
+                            "原料类别": "碱",
+                            "原料类型": "成盐试剂",
+                            "缩写": "TEA",
+                            "质量": {
+                                "单值": 0.363,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "溶解介质",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "玻璃样品瓶",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "制备过程": "将聚酰胺酸、三乙胺和去离子水混合，超声处理至所有物料完全溶解，调整聚酰胺酸含量以获得目标9.7wt%的浓度"
+                        }
+                    ],
+                    "位置索引": {
+                        "原文": "First, 0.750g polyamic acid, 0.363g TEA, and 4.444g deionized water were mixed in a glass vial. The solution was sonicated until all materials had dissolved to form the PAAS solution. A CNC of 6.5wt% and the concentrations of polyamic acid ranged from 4.7wt% to 9.7wt%."
+                    }
+                },
+                {
+                    "产物名称": "均匀纤维素纳米晶水凝胶（CNC水凝胶）",
+                    "原料": [
+                        {
+                            "原料名称": "纤维素纳米晶",
+                            "原料类别": "填料",
+                            "原料类型": "纳米纤维素晶",
+                            "缩写": "CNCs",
+                            "质量": {
+                                "单值": 700,
+                                "单位": "mg"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "分散介质",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星混合机（MV-300S, CGT, Taiwan）",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "反应时间": {
+                                "单值": 10,
+                                "单位": "min"
+                            },
+                            "制备过程": "将CNCs分散在去离子水中，加入七个特氟龙球促进CNC粉末解团聚，行星混合机搅拌分散，调整CNC含量获得目标6.5wt%的浓度",
+                            "反应条件": "搅拌转速1500rpm"
+                        }
+                    ],
+                    "位置索引": {
+                        "原文": "Next, 700mg of CNCs was dispersed in 4.444g deionized water by a planetary mixer (MV-300S, CGT, Taiwan) at 1500rpm for 10min to form a uniform CNC hydrogel. Seven Teflon balls were added in the container to deagglomerate the CNC powder better."
+                    }
+                },
+                {
+                    "产物名称": "9.7wt% PAA 6.5wt% CNCs PAAS/CNC ink",
+                    "原料": [
+                        {
+                            "原料名称": "PAAS水溶液",
+                            "原料类别": "聚合物溶液",
+                            "原料类型": "聚酰胺酸铵盐水溶液"
+                        },
+                        {
+                            "原料名称": "CNC水凝胶",
+                            "原料类别": "填料分散液",
+                            "原料类型": "纤维素纳米晶水凝胶"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星混合机（MV-300S, CGT, Taiwan）",
+                            "反应时间": {
+                                "单值": 30,
+                                "单位": "min"
+                            },
+                            "制备过程": "将水性PAAS溶液与CNC水凝胶混合，行星混合机搅拌，调整浓度得到PAA浓度9.7wt%、CNCs浓度6.5wt%的目标ink",
+                            "反应条件": "搅拌转速1500rpm"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "转移至10mL一次性注射器",
+                        "行星混合机除去ink中的气泡"
+                    ],
+                    "位置索引": {
+                        "原文": "Finally, the aqueous PAAS solution was mixed with the CNC hydrogel by the planetary mixer at 1500rpm for 30min. The final concentration of polyamic acid and CNCs was 7.0wt% and 6.5wt%, respectively. For comparison, the amount of CNC was adjusted to make inks with 5.6wt%, 6.5wt%, and 7.4wt% CNCs. A CNC of 6.5wt% and the concentrations of polyamic acid ranged from 4.7wt% to 9.7wt%. The as-prepared PAAS/CNC ink was transferred into a 10 mL disposable syringe. The bubbles within the ink were removed by the planetary mixer."
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_9.7wt% PAA 6.5wt% CNCs PAAS/CNC ink_01"
+        },
+        {
+            "聚合物分类名称": "Polyamic Acid Ammonium Salt aerogel",
+            "聚合物分类编码": "PAAS",
+            "名称": "freeze-dried pure PAAS aerogel",
+            "样本形态": "Aerogel",
+            "结构特征_L1": "unmodified_linear",
+            "结构特征_L2": "aromatic",
+            "表征": {
+                "形貌": {
+                    "仪器": "SU-8010 high-resolution field emission scanning electron microscope (Hitachi)",
+                    "SEM": "含有一些平行片状结构，冰晶体仍发生各向异性生长，该结构在热亚胺化后通常会因气凝胶收缩而消失"
+                }
+            },
+            "性质": [],
+            "工艺流程": [
+                {
+                    "产物名称": "PMDA-ODA聚酰胺酸前驱体溶液",
+                    "原料": [
+                        {
+                            "原料名称": "ODA",
+                            "原料类别": "单体",
+                            "原料类型": "二胺",
+                            "质量": {
+                                "单值": 4.806,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "PMDA",
+                            "原料类别": "单体",
+                            "原料类型": "二酐",
+                            "质量": {
+                                "单值": 5.235,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "极性非质子溶剂",
+                            "体积": {
+                                "单值": 100,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "三口烧瓶",
+                            "反应气氛": "氮气",
+                            "反应温度": {
+                                "单值": "室温"
+                            },
+                            "反应时间": {
+                                "单值": 4,
+                                "单位": "小时"
+                            },
+                            "制备过程": "ODA加入三口烧瓶，与DMF在室温和氮气气氛下混合，逐渐加入PMDA，搅拌四小时确保反应完全，形成浅黄色聚酰胺酸前驱体溶液"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 1",
+                        "md_range": "line_span 80-83",
+                        "原文": "First, 4.806g (24 mmol) ODA was added to a three-neck flask and mixed with 100 mL DMF under room temperature and a nitrogen atmosphere. A total of 5.235g (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction."
+                    }
+                },
+                {
+                    "产物名称": "干燥PMDA-ODA聚酰胺酸固体",
+                    "原料": [
+                        {
+                            "原料名称": "聚酰胺酸前驱体溶液",
+                            "原料类别": "聚合物前驱体溶液",
+                            "原料类型": "聚酰胺酸溶液"
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "稀释剂",
+                            "体积": {
+                                "单值": 100,
+                                "单位": "mL"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "沉淀剂",
+                            "体积": {
+                                "单值": 600,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "制备过程": "粘稠的聚酰胺酸溶液用额外100mL DMF稀释，在剧烈搅拌下缓慢倒入600mL去离子水中沉淀"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "在真空烘箱中50℃干燥超过两天"
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 1",
+                        "md_range": "line_span 80-83",
+                        "原文": "Next, the viscous polyamic acid solution was diluted with another 100 mL DMF, and slowly poured into 600 mL deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at 50°C for more than two days before use."
+                    }
+                },
+                {
+                    "产物名称": "纯PAAS水溶液",
+                    "原料": [
+                        {
+                            "原料名称": "聚酰胺酸",
+                            "原料类别": "聚合物前驱体",
+                            "原料类型": "PMDA-ODA聚酰胺酸固体",
+                            "质量": {
+                                "单值": 0.75,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "TEA",
+                            "原料类别": "试剂",
+                            "原料类型": "成盐剂",
+                            "质量": {
+                                "单值": 0.363,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "去离子水",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "玻璃样品瓶",
+                            "制备过程": "将三种原料混合在玻璃样品瓶中，超声至所有物质溶解，调整浓度为7.5wt%用于制备纯PAAS气凝胶"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 2",
+                        "md_range": "line_span 84-87",
+                        "原文": "First, 0.750g polyamic acid, 0.363g TEA, and 4.444g deionized water were mixed in a glass vial. The solution was sonicated until all materials had dissolved to form the PAAS solution. Pure PI aerogels were prepared using a 7.5wt% polyamic acid solution."
+                    }
+                },
+                {
+                    "产物名称": "3D打印纯PAAS成型体",
+                    "原料": [
+                        {
+                            "原料名称": "7.5wt%纯PAAS水溶液",
+                            "原料类别": "聚合物墨水",
+                            "原料类型": "纯PAAS ink"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "改装FDM打印机（配备注射泵）",
+                            "制备过程": "将纯PAAS ink转移到10mL一次性注射器，行星搅拌机脱除气泡，将注射器安装在注射泵上，连接0.4mm圆锥形塑料喷嘴，设置打印速度20mm/s，挤出速率0.155mL/min进行3D打印，得到纯PAAS成型体"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 3",
+                        "md_range": "line_span 92-95",
+                        "原文": "The as-prepared PAAS/CNC ink was transferred into a 10 mL disposable syringe. The bubbles within the ink were removed by the planetary mixer. A FDM printer (INFINITY X1Speed, INFINITY3DP, Kaohsiung, Taiwan) was modified for the DIW process by replacing the extruder with a 3D printed adapter. The syringe was then mounted on a syringe pump (NE-1010, New Era Instrument, Farmingdale, NY, USA) and connected to a 0.4mm conical type plastic nozzle (TPND-22G-U, Musashi Engineering, Tokyo, Japan). Typically, the printing speed was set at 20 mm / s, and the extrusion rate was 0.155 mL / min."
+                    }
+                },
+                {
+                    "产物名称": "freeze-dried pure PAAS aerogel",
+                    "原料": [
+                        {
+                            "原料名称": "3D打印纯PAAS成型体",
+                            "原料类别": "聚合物成型体",
+                            "原料类型": "纯PAAS打印体"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应温度": {
+                                "单值": -20,
+                                "单位": "°C"
+                            },
+                            "反应时间": {
+                                "单值": "overnight"
+                            },
+                            "制备过程": "将3D打印后的纯PAAS成型体在-20℃冰箱冷冻过夜，随后快速转移到冷冻干燥机干燥超过两天，得到目标产物"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 4",
+                        "md_range": "line_span 96-99",
+                        "原文": "The printed objects were frozen in a -20°C refrigerator overnight. The frozen samples were rapidly transferred to a freeze dryer and dried for more than two days."
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_freeze-dried pure PAAS aerogel_01"
+        },
+        {
+            "聚合物分类名称": "Polyimide aerogel",
+            "聚合物分类编码": "PI",
+            "名称": "pure PI aerogel",
+            "样本形态": "Aerogel",
+            "结构特征_L1": "heterocyclic",
+            "结构特征_L2": "aromatic",
+            "表征": {
+                "红外_FTIR": {
+                    "仪器": "Nicolet 6700 Fourier transform infrared spectrometer (Thermo Scientific, Waltham, MA, USA)",
+                    "说明": "无1540 cm⁻¹（酰胺II）和1660 cm⁻¹（酰胺C=O伸缩）信号，表明纯PI气凝胶成功酰亚胺化",
+                    "峰位_cm_1": [
+                        "1776 (asymmetrical C=O stretching of imide ring)",
+                        "1721 (symmetrical C=O stretching of imide ring)",
+                        "1500 (C=C stretching of aromatic ring)",
+                        "1375 (C-N stretching of imide ring)"
+                    ]
+                },
+                "核磁_NMR": {
+                    "仪器": "Bruker Avance III HD 400 MHz NMR spectrometer",
+                    "频率_MHz": 400,
+                    "C13_NMR": "存在165.6 ppm（酰亚胺部分C=O）、156.2 ppm（苯氧基碳）、115-134 ppm（芳环）特征峰；170-190 ppm和70-90 ppm附近的峰为魔角旋转产生的旋转边带"
+                },
+                "形貌": {
+                    "仪器": "SU-8010 high-resolution field emission scanning electron microscope (Hitachi, Tokyo, Japan)",
+                    "SEM": "generally showed a smaller pore distribution, lamellar morphology was less pronounced; contained smaller and denser pores compared to PI/CNC composite aerogels"
+                }
+            },
+            "性质": [
+                {
+                    "类别": "热稳定性",
+                    "名称": "降解起始温度",
+                    "缩写": "Td",
+                    "值": {
+                        "单值": 576,
+                        "单位": "°C"
+                    },
+                    "测试条件": {
+                        "样品": "pure PI aerogel",
+                        "方法": "热重分析",
+                        "仪器": "PerkinElmer TGA 4000",
+                        "气氛": "氮气",
+                        "测试温度范围": {
+                            "最小": 30,
+                            "最大": 700,
+                            "单位": "°C"
+                        },
+                        "升温速率": {
+                            "单值": 10,
+                            "单位": "°C/min"
+                        }
+                    }
+                },
+                {
+                    "类别": "热稳定性",
+                    "名称": "550℃前失重情况",
+                    "值": {
+                        "说明": "无明显失重"
+                    },
+                    "测试条件": {
+                        "样品": "pure PI aerogel",
+                        "方法": "热重分析",
+                        "仪器": "PerkinElmer TGA 4000",
+                        "气氛": "氮气",
+                        "测试温度范围": {
+                            "最小": 30,
+                            "最大": 700,
+                            "单位": "°C"
+                        },
+                        "升温速率": {
+                            "单值": 10,
+                            "单位": "°C/min"
+                        }
+                    }
+                },
+                {
+                    "类别": "热稳定性",
+                    "名称": "残炭率",
+                    "值": {
+                        "单值": 51,
+                        "单位": "%"
+                    },
+                    "测试条件": {
+                        "样品": "pure PI aerogel",
+                        "方法": "热重分析",
+                        "仪器": "PerkinElmer TGA 4000",
+                        "气氛": "氮气",
+                        "测试温度范围": {
+                            "最小": 30,
+                            "最大": 700,
+                            "单位": "°C"
+                        },
+                        "升温速率": {
+                            "单值": 10,
+                            "单位": "°C/min"
+                        }
+                    }
+                },
+                {
+                    "类别": "加工性质",
+                    "名称": "热酰亚胺化后剩余质量百分比",
+                    "值": {
+                        "单值": 42.3,
+                        "单位": "%"
+                    },
+                    "测试条件": {
+                        "样品": "pure PI aerogel",
+                        "方法": "称量冷冻干燥样品热酰亚胺化前后的重量计算得到"
+                    }
+                },
+                {
+                    "类别": "加工性质",
+                    "名称": "收缩率",
+                    "值": {
+                        "最大": 60,
+                        "单位": "%",
+                        "说明": "最高可达60%，远高于同体系PI/CNC复合气凝胶"
+                    },
+                    "测试条件": {
+                        "样品": "pure PI aerogel",
+                        "方法": "根据公式Shrinkage (%) = 100% × (V_CAD - V_s)/V_CAD计算，其中V_CAD为圆柱CAD模型体积，V_s为酰亚胺化后气凝胶的表观体积"
+                    }
+                },
+                {
+                    "类别": "物理性质",
+                    "名称": "体积密度",
+                    "值": {
+                        "说明": "因热酰亚胺化过程中严重收缩，体积密度较高，与同体系PI/CNC复合气凝胶体积密度相近"
+                    },
+                    "测试条件": {
+                        "样品": "pure PI aerogel",
+                        "方法": "通过酰亚胺化后样品的重量和体积计算得到"
+                    }
+                },
+                {
+                    "类别": "力学性质",
+                    "名称": "压缩模量",
+                    "值": {
+                        "单位": "MPa",
+                        "说明": "为同体系不同CNC浓度气凝胶中的最低值"
+                    },
+                    "测试条件": {
+                        "样品": "pure PI aerogel",
+                        "方法": "压缩测试，遵循ASTM-D695标准",
+                        "仪器": "Shimadzu AGS-X 100kN，配备10kN力传感器"
+                    }
+                }
+            ],
+            "工艺流程": [
+                {
+                    "产物名称": "PMDA-ODA聚酰胺酸固体",
+                    "原料": [
+                        {
+                            "原料名称": "ODA",
+                            "原料类别": "单体",
+                            "原料类型": "二胺",
+                            "缩写": "ODA",
+                            "质量": {
+                                "单值": 4.806,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "PMDA",
+                            "原料类别": "单体",
+                            "原料类型": "二酐",
+                            "缩写": "PMDA",
+                            "质量": {
+                                "单值": 5.235,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "体积": {
+                                "单值": 200,
+                                "单位": "mL"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "沉淀溶剂",
+                            "体积": {
+                                "单值": 600,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "三颈烧瓶",
+                            "反应气氛": "氮气",
+                            "反应温度": {
+                                "单值": "室温",
+                                "单位": "℃"
+                            },
+                            "反应时间": {
+                                "单值": 4,
+                                "单位": "小时"
+                            },
+                            "制备过程": "将ODA加入三颈烧瓶，与DMF混合后，逐渐加入PMDA形成浅黄色聚酰胺酸前驱体溶液，搅拌保证反应完全；再用额外DMF稀释聚酰胺酸溶液，在剧烈搅拌下缓慢倒入去离子水沉淀"
+                        }
+                    ],
+                    "后处理步骤": "在真空烘箱中于50℃干燥超过两天，得到黄色聚酰胺酸固体备用",
+                    "位置索引": {
+                        "block_id": "excerpt1",
+                        "md_range": "80-83",
+                        "原文": "First,  $4.806\\mathrm{g}$  (24 mmol) ODA was added to a three-neck flask and mixed with  $100~\\mathrm{mL}$  DMF under room temperature and a nitrogen atmosphere. A total of  $5.235\\mathrm{g}$  (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction. Next, the viscous polyamic acid solution was diluted with another  $100~\\mathrm{mL}$  DMF, and slowly poured into  $600~\\mathrm{mL}$  deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at  $50^{\\circ}\\mathrm{C}$  for more than two days before use."
+                    }
+                },
+                {
+                    "产物名称": "7.5wt%纯聚酰胺酸前驱体水溶液",
+                    "原料": [
+                        {
+                            "原料名称": "PMDA-ODA聚酰胺酸固体",
+                            "原料类别": "聚合物",
+                            "原料类型": "聚酰亚胺前驱体"
+                        },
+                        {
+                            "原料名称": "TEA",
+                            "原料类别": "碱",
+                            "原料类型": "添加剂"
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "制备过程": "将聚酰胺酸、TEA、去离子水混合，超声处理至所有物料完全溶解，得到浓度为7.5wt%的纯聚酰胺酸前驱体水溶液"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt2",
+                        "md_range": "84-87",
+                        "原文": "First,  $0.750\\mathrm{g}$  polyamic acid,  $0.363\\mathrm{g}$  TEA, and  $4.444\\mathrm{g}$  deionized water were mixed in a glass vial. The solution was sonicated until all materials had dissolved to form the PAAS solution.... Pure PI aerogels were prepared using a  $7.5\\mathrm{wt\\%}$  polyamic acid solution."
+                    }
+                },
+                {
+                    "产物名称": "冷冻干燥纯聚酰胺酸气凝胶",
+                    "原料": [
+                        {
+                            "原料名称": "7.5wt%纯聚酰胺酸前驱体水溶液",
+                            "原料类别": "聚合物前驱体溶液",
+                            "原料类型": "聚酰亚胺前驱体溶液"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "制备过程": "对纯聚酰胺酸前驱体水溶液进行冷冻后冷冻干燥，得到纯聚酰胺酸气凝胶"
+                        }
+                    ],
+                    "后处理步骤": "冷冻干燥",
+                    "位置索引": {
+                        "block_id": "excerpt 2",
+                        "md_range": "153-164",
+                        "原文": "We then recorded the weight of each freeze-dried sample before and after the thermal imidization process. For the pure PI aerogel without CNCs, a significant loss of weight to  $42.3\\%$  was observed."
+                    }
+                },
+                {
+                    "产物名称": "pure PI aerogel",
+                    "原料": [
+                        {
+                            "原料名称": "冷冻干燥纯聚酰胺酸气凝胶",
+                            "原料类别": "聚合物前驱体气凝胶",
+                            "原料类型": "聚酰胺酸气凝胶"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应温度": {
+                                "单值": 300,
+                                "单位": "℃"
+                            },
+                            "制备过程": "对冷冻干燥后的纯聚酰胺酸气凝胶进行热酰亚胺化处理，得到纯聚酰亚胺气凝胶"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 2",
+                        "md_range": "148-152",
+                        "原文": "...successful imidization of the pure PI aerogels... the thermal imidization process  $(300^{\\circ}\\mathrm{C})$"
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_pure PI aerogel_01"
+        },
+        {
+            "聚合物分类名称": "Cellulose Nanocrystal aerogel",
+            "聚合物分类编码": "CNC",
+            "名称": "pure CNC aerogel",
+            "样本形态": "Aerogel",
+            "结构特征_L1": "unmodified_linear",
+            "结构特征_L2": "aliphatic",
+            "表征": {
+                "红外_FTIR": {
+                    "仪器": "Nicolet 6700 Fourier transform infrared spectrometer (Thermo Scientific, Waltham, MA, USA)",
+                    "峰位_cm_1": [
+                        "3400 (hydroxyl groups on CNCs)"
+                    ]
+                },
+                "核磁_NMR": {
+                    "仪器": "Bruker Avance III HD 400 MHz NMR spectrometer",
+                    "频率_MHz": 400,
+                    "C13_NMR": "Characteristic signals of CNCs: 65.6 ppm (C6 crystalline), 70-75 ppm (C2, C3, C5), 84-89 ppm (C4), 104.9 ppm (C1)"
+                },
+                "形貌": {
+                    "仪器": "SU-8010 high-resolution field emission scanning electron microscope (Hitachi, Tokyo, Japan)",
+                    "SEM": "Freeze-dried pure CNC aerogel formed much larger pores than composite aerogels; low concentration of CNCs was not enough to form strongly packed networks; the pure CNC aerogel was too fragile for further studies"
+                }
+            },
+            "性质": [
+                {
+                    "类别": "加工性质",
+                    "名称": "收缩率",
+                    "值": {
+                        "单位": "%",
+                        "说明": "仅发生轻微收缩"
+                    },
+                    "测试条件": {
+                        "样品": "pure CNC aerogel",
+                        "方法": "基于CAD模型体积与气凝胶表观体积计算，测试在热亚胺化处理后进行",
+                        "样品预处理": "热亚胺化处理"
+                    }
+                },
+                {
+                    "类别": "力学性质",
+                    "名称": "力学性能",
+                    "值": {
+                        "说明": "样品过于脆弱，无法开展进一步性能测试"
+                    },
+                    "测试条件": {
+                        "样品": "pure CNC aerogel"
+                    }
+                },
+                {
+                    "类别": "热性质",
+                    "名称": "热稳定性",
+                    "值": {
+                        "说明": "热亚胺化处理后部分CNC发生热降解，样品颜色变深"
+                    },
+                    "测试条件": {
+                        "样品": "pure CNC aerogel",
+                        "样品预处理": "热亚胺化处理"
+                    }
+                }
+            ],
+            "工艺流程": [
+                {
+                    "产物名称": "6.5wt%纯CNC ink（纯CNC水凝胶）",
+                    "原料": [
+                        {
+                            "原料名称": "CNCs",
+                            "原料类别": "纳米纤维素",
+                            "原料类型": "纤维素纳米晶",
+                            "缩写": "CNCs",
+                            "质量": {
+                                "单值": 700,
+                                "单位": "mg"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "分散介质",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星混合器（MV-300S, CGT, Taiwan）",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "反应时间": {
+                                "单值": 10,
+                                "单位": "min"
+                            },
+                            "制备过程": "将CNCs分散在去离子水中，加入七个特氟龙球以更好地解聚CNC粉末，在1500rpm下混合10min，形成均匀的纯CNC水凝胶（即纯CNC ink），最终CNC浓度为6.5wt%"
+                        }
+                    ],
+                    "位置索引": {
+                        "原文": "Next, 700mg of CNCs was dispersed in 4.444g deionized water by a planetary mixer (MV-300S, CGT, Taiwan) at 1500rpm for 10min to form a uniform CNC hydrogel. Seven Teflon balls were added in the container to deagglomerate the CNC powder better. For comparison, [...] Pure CNC aerogels were prepared from the inks containing only 6.5wt% CNCs."
+                    }
+                },
+                {
+                    "产物名称": "pure CNC aerogel",
+                    "原料": [
+                        {
+                            "原料名称": "6.5wt%纯CNC ink",
+                            "原料类别": "前驱体ink",
+                            "原料类型": "纯CNC水凝胶"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "制备过程": "由仅含6.5wt% CNC的纯CNC ink制备得到纯CNC气凝胶"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "冷冻干燥",
+                        "热处理"
+                    ],
+                    "位置索引": {
+                        "原文": "Pure CNC aerogels were prepared from the inks containing only 6.5wt% CNCs. We also examined the morphology of the freeze-dried pure PAAS and pure CNC aerogels (Figure S7). Volumetric shrinkage ratio of aerogels after freeze-drying and after thermal imidization. [...] the pure CNC aerogel only shrank slightly. However, the color of the pure CNC aerogels became darker, indicating that some CNCs were thermally degraded."
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_pure CNC aerogel_01"
+        },
+        {
+            "聚合物分类名称": "Polyimide/Cellulose Nanocrystal composite aerogel",
+            "聚合物分类编码": "PI/CNC",
+            "名称": "5.6wt% CNCs PI/CNC composite aerogel",
+            "样本形态": "Aerogel",
+            "结构特征_L1": "heterocyclic",
+            "结构特征_L2": "aromatic, aliphatic",
+            "表征": {
+                "红外_FTIR": {
+                    "仪器": "Nicolet 6700 Fourier transform infrared spectrometer (Thermo Scientific, Waltham, MA, USA)",
+                    "说明": "FTIR谱与纯PI气凝胶相似，CNCs的加入不影响PI的酰亚胺化过程，3400 cm⁻¹处的羟基特征峰表明大量CNCs保留在复合气凝胶中",
+                    "峰位_cm_1": [
+                        "1776 (asymmetrical C=O stretching of imide ring)",
+                        "1721 (symmetrical C=O stretching of imide ring)",
+                        "1500 (C=C stretching of aromatic ring)",
+                        "1375 (C-N stretching of imide ring)",
+                        "3400 (hydroxyl groups from CNCs)"
+                    ]
+                },
+                "核磁_NMR": {
+                    "仪器": "Bruker Avance III HD 400 MHz NMR spectrometer",
+                    "频率_MHz": 400,
+                    "C13_NMR": "可检测到CNCs的特征碳信号：65.6 ppm (C6 crystalline)、70-75 ppm (C2, C3, C5)、84-89 ppm (C4)、104.9 ppm (C1)；以及PI的特征碳信号：165.6 ppm (酰亚胺C=O)、156.2 ppm (苯氧碳)、115-134 ppm (芳环)；未发现新信号，表明大多数CNCs未在热酰亚胺化过程中降解，PAA与CNCs的反应极少，复合气凝胶实现完全酰亚胺化，大量CNCs保留"
+                },
+                "形貌": {
+                    "仪器": "SU-8010 high-resolution field emission scanning electron microscope (Hitachi, Tokyo, Japan)",
+                    "SEM": "与不同CNC浓度的PI/CNC复合气凝胶形貌相似，具有层状结构，平行孔由冰晶沿冷冻前沿各向异性生长形成，相较于纯PI气凝胶层状结构更明显，孔尺寸更大"
+                }
+            },
+            "性质": [
+                {
+                    "类别": "热稳定性",
+                    "名称": "降解起始温度",
+                    "值": {
+                        "单值": 300,
+                        "单位": "°C",
+                        "说明": "第一阶段降解，对应CNCs的分解"
+                    },
+                    "测试条件": {
+                        "方法": "热重分析",
+                        "仪器": "TGA 4000 (PerkinElmer)",
+                        "气氛": "氮气",
+                        "测试温度范围": {
+                            "最小": 30,
+                            "最大": 700,
+                            "单位": "°C"
+                        },
+                        "升温速率": {
+                            "单值": 10,
+                            "单位": "°C/min"
+                        }
+                    }
+                },
+                {
+                    "类别": "热稳定性",
+                    "名称": "降解起始温度",
+                    "值": {
+                        "单值": 540,
+                        "单位": "°C",
+                        "说明": "第二阶段降解，对应PI基体的分解"
+                    },
+                    "测试条件": {
+                        "方法": "热重分析",
+                        "仪器": "TGA 4000 (PerkinElmer)",
+                        "气氛": "氮气",
+                        "测试温度范围": {
+                            "最小": 30,
+                            "最大": 700,
+                            "单位": "°C"
+                        },
+                        "升温速率": {
+                            "单值": 10,
+                            "单位": "°C/min"
+                        }
+                    }
+                },
+                {
+                    "类别": "热稳定性",
+                    "名称": "CNCs降解程度",
+                    "值": {
+                        "说明": "比更高CNC含量的PI/CNC复合气凝胶更显著"
+                    },
+                    "测试条件": {
+                        "方法": "热重分析结合冷冻干燥后样品称重",
+                        "样品预处理": "经过热亚胺化过程"
+                    }
+                },
+                {
+                    "类别": "加工性质",
+                    "名称": "冷冻干燥后体积收缩率",
+                    "值": {
+                        "说明": "约10%体积减少，收缩率高于更高CNC含量的PI/CNC复合气凝胶，远低于纯PI气凝胶"
+                    },
+                    "测试条件": {
+                        "方法": "基于CAD模型体积和样品表观体积计算"
+                    }
+                },
+                {
+                    "类别": "加工性质",
+                    "名称": "热亚胺化后初始体积保留率",
+                    "值": {
+                        "说明": "保留超过70%的初始体积，体积保留率高于纯PI气凝胶"
+                    },
+                    "测试条件": {
+                        "方法": "基于CAD模型体积和样品表观体积计算"
+                    }
+                },
+                {
+                    "类别": "力学性质",
+                    "名称": "压缩模量",
+                    "值": {
+                        "最小": 6.4,
+                        "最大": 13.64,
+                        "单位": "MPa",
+                        "说明": "处于该区间的较低范围，压缩模量随CNCs浓度升高而增大"
+                    },
+                    "测试条件": {
+                        "方法": "压缩测试，遵循ASTM-D695标准",
+                        "仪器": "AGS-X 100kN universal electromechanical testing machine (Shimadzu)",
+                        "测量参数": "10kN load cell"
+                    }
+                },
+                {
+                    "类别": "物理性质",
+                    "名称": "体积密度",
+                    "值": {
+                        "说明": "低于更高CNC含量的PI/CNC复合气凝胶，体积密度随CNCs浓度升高而增大"
+                    },
+                    "测试条件": {
+                        "方法": "基于热亚胺化后样品的重量和体积计算"
+                    }
+                }
+            ],
+            "工艺流程": [
+                {
+                    "产物名称": "浅黄色聚酰胺酸前驱体溶液",
+                    "原料": [
+                        {
+                            "原料名称": "ODA",
+                            "原料类别": "单体",
+                            "原料类型": "二胺",
+                            "质量": {
+                                "单值": 4.806,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "PMDA",
+                            "原料类别": "单体",
+                            "原料类型": "二酐",
+                            "投料方式": "逐步加入",
+                            "质量": {
+                                "单值": 5.235,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "反应溶剂",
+                            "缩写": "DMF",
+                            "体积": {
+                                "单值": 100,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "三颈烧瓶",
+                            "反应气氛": "氮气",
+                            "反应温度": {
+                                "单值": "室温"
+                            },
+                            "溶剂": "DMF",
+                            "溶剂量": {
+                                "单值": 100,
+                                "单位": "mL"
+                            },
+                            "反应时间": {
+                                "单值": 4,
+                                "单位": "小时"
+                            },
+                            "制备过程": "先将ODA加入三颈烧瓶，室温氮气气氛下与DMF混合，逐步加入PMDA，搅拌4小时保证反应完全"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 1",
+                        "md_range": "80-83",
+                        "原文": "First,  4.806g (24 mmol) ODA was added to a three-neck flask and mixed with  100 mL DMF under room temperature and a nitrogen atmosphere. A total of  5.235g (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction."
+                    }
+                },
+                {
+                    "产物名称": "干燥PMDA-ODA聚酰胺酸",
+                    "原料": [
+                        {
+                            "原料名称": "聚酰胺酸前驱体溶液",
+                            "原料类别": "聚合物前驱体",
+                            "原料类型": "聚酰胺酸溶液"
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "稀释溶剂",
+                            "缩写": "DMF",
+                            "体积": {
+                                "单值": 100,
+                                "单位": "mL"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "沉淀溶剂",
+                            "体积": {
+                                "单值": 600,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "制备过程": "将粘稠聚酰胺酸溶液用额外100mL DMF稀释，剧烈搅拌下缓慢倒入600mL去离子水进行沉淀"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "真空烘箱50℃干燥超过两天"
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 1",
+                        "md_range": "80-83",
+                        "原文": "Next, the viscous polyamic acid solution was diluted with another  100 mL DMF, and slowly poured into  600 mL deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at  50℃ for more than two days before use."
+                    }
+                },
+                {
+                    "产物名称": "PAAS溶液",
+                    "原料": [
+                        {
+                            "原料名称": "PMDA-ODA聚酰胺酸",
+                            "原料类别": "聚合物前驱体",
+                            "原料类型": "聚酰胺酸",
+                            "质量": {
+                                "单值": 0.75,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "三乙胺",
+                            "原料类别": "试剂",
+                            "原料类型": "成盐试剂",
+                            "缩写": "TEA",
+                            "质量": {
+                                "单值": 0.363,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "溶解介质",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "玻璃小瓶",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "制备过程": "将聚酰胺酸、TEA、去离子水加入玻璃小瓶混合，超声至所有原料溶解形成PAAS溶液"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 2",
+                        "md_range": "84-87",
+                        "原文": "First,  0.750g polyamic acid,  0.363g TEA, and  4.444g deionized water were mixed in a glass vial. The solution was sonicated until all materials had dissolved to form the PAAS solution."
+                    }
+                },
+                {
+                    "产物名称": "均匀CNC水凝胶",
+                    "原料": [
+                        {
+                            "原料名称": "纤维素纳米晶",
+                            "原料类别": "填料",
+                            "原料类型": "纳米纤维素填料",
+                            "缩写": "CNCs",
+                            "质量": {
+                                "单值": 700,
+                                "单位": "mg"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "分散介质",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "特氟龙球",
+                            "原料类别": "助剂",
+                            "原料类型": "解聚助剂"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星搅拌机（MV-300S, CGT, Taiwan）",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "反应时间": {
+                                "单值": 10,
+                                "单位": "min"
+                            },
+                            "制备过程": "容器中加入7个特氟龙球促进CNC粉末解聚，CNCs分散于去离子水，行星搅拌机1500rpm搅拌10min形成均匀CNC水凝胶",
+                            "反应条件": "搅拌转速1500rpm"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 2",
+                        "md_range": "84-87",
+                        "原文": "Next,  700mg of CNCs was dispersed in  4.444g deionized water by a planetary mixer (MV-300S, CGT, Taiwan) at  1500rpm for  10min to form a uniform CNC hydrogel. Seven Teflon balls were added in the container to deagglomerate the CNC powder better."
+                    }
+                },
+                {
+                    "产物名称": "5.6wt% CNCs PAAS/CNC复合ink",
+                    "原料": [
+                        {
+                            "原料名称": "PAAS水溶液",
+                            "原料类别": "聚合物前驱体溶液",
+                            "原料类型": "聚酰胺酸盐水溶液"
+                        },
+                        {
+                            "原料名称": "CNC水凝胶",
+                            "原料类别": "填料分散体",
+                            "原料类型": "纤维素纳米晶水凝胶"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星搅拌机",
+                            "反应时间": {
+                                "单值": 30,
+                                "单位": "min"
+                            },
+                            "制备过程": "将PAAS水溶液与CNC水凝胶混合，行星搅拌机1500rpm搅拌30min，调整CNC用量获得最终CNC浓度为5.6wt%的复合ink",
+                            "反应条件": "搅拌转速1500rpm"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 2",
+                        "md_range": "84-87",
+                        "原文": "Finally, the aqueous PAAS solution was mixed with the CNC hydrogel by the planetary mixer at  1500rpm for  30min. The final concentration of polyamic acid and CNCs was  7.0wt%  and  6.5wt% , respectively. For comparison, the amount of CNC was adjusted to make inks with  5.6wt% ,  6.5wt% , and  7.4wt%  CNCs."
+                    }
+                },
+                {
+                    "产物名称": "3D打印成型PAAS/CNC复合坯体",
+                    "原料": [
+                        {
+                            "原料名称": "5.6wt% CNCs PAAS/CNC复合ink",
+                            "原料类别": "打印ink",
+                            "原料类型": "聚酰胺酸/纤维素纳米晶复合打印油墨"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "改造FDM打印机（INFINITY X1Speed, INFINITY3DP）、注射泵（NE-1010, New Era Instrument）、0.4mm锥形塑料喷嘴（TPND-22G-U, Musashi Engineering）",
+                            "制备过程": "将复合ink转移入10mL一次性注射器，行星搅拌机除去油墨中气泡，注射器安装到注射泵并连接喷嘴，通过Repetier软件控制打印机，Slic3r生成G代码进行直写成型",
+                            "反应条件": "打印速度20mm/s，挤出速率0.155mL/min"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 3",
+                        "md_range": "92-95",
+                        "原文": "The as-prepared PAAS/CNC ink was transferred into a  10 mL  disposable syringe. The bubbles within the ink were removed by the planetary mixer. A FDM printer (INFINITY X1Speed, INFINITY3DP, Kaohsiung, Taiwan) was modified for the DIW process by replacing the extruder with a 3D printed adapter. The syringe was then mounted on a syringe pump (NE-1010, New Era Instrument, Farmingdale, NY, USA) and connected to a  0.4mm  conical type plastic nozzle (TPND-22G-U, Musashi Engineering, Tokyo, Japan). The printer was controlled by Repetier software, and the G-codes were generated from the Slic3r toolpath generator. Typically, the printing speed was set at  20 mm / s , and the extrusion rate was  0.155 mL / min ."
+                    }
+                },
+                {
+                    "产物名称": "冷冻干燥后PAAS/CNC复合坯体",
+                    "原料": [
+                        {
+                            "原料名称": "3D打印成型PAAS/CNC复合坯体",
+                            "原料类别": "成型坯体",
+                            "原料类型": "3D打印聚酰胺酸/CNC复合坯体"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "冰箱、冷冻干燥机",
+                            "反应温度": {
+                                "单值": -20,
+                                "单位": "℃"
+                            },
+                            "制备过程": "打印好的坯体先冷冻，再冷冻干燥除去水分"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "-20℃冰箱冷冻过夜",
+                        "冷冻干燥机干燥超过两天"
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 4",
+                        "md_range": "96-99",
+                        "原文": "The printed objects were frozen in a  -20℃  refrigerator overnight. The frozen samples were rapidly transferred to a freeze dryer and dried for more than two days."
+                    }
+                },
+                {
+                    "产物名称": "5.6wt% CNCs PI/CNC composite aerogel",
+                    "原料": [
+                        {
+                            "原料名称": "冷冻干燥后PAAS/CNC复合坯体",
+                            "原料类别": "前驱体坯体",
+                            "原料类型": "聚酰胺酸/CNC复合干燥坯体"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "制备过程": "干燥样品在真空下进行程序升温热处理，完成酰亚胺化得到PI/CNC复合气凝胶",
+                            "反应条件": "真空环境，升温程序：从80℃依次升温至120℃、180℃、240℃、300℃，每个温度保温1小时，升温速率1℃/min"
+                        }
+                    ],
+                    "位置索引": {
+                        "block_id": "excerpt 4",
+                        "md_range": "96-99",
+                        "原文": "The dried samples further underwent a sequential temperature increase from 80, 120, 180, 240, to  300℃  under vacuum to form the PI/CNC composite aerogels. Each temperature was held for one hour, and the ramping rate was  1℃/min  in all cases."
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_5.6wt% CNCs PI/CNC composite aerogel_01"
+        },
+        {
+            "聚合物分类名称": "Polyimide/Cellulose Nanocrystal composite aerogel",
+            "聚合物分类编码": "PI/CNC",
+            "名称": "6.5wt% CNCs PI/CNC composite aerogel",
+            "样本形态": "Aerogel",
+            "结构特征_L1": "heterocyclic",
+            "结构特征_L2": "aromatic, aliphatic",
+            "表征": {
+                "红外_FTIR": {
+                    "仪器": "Nicolet 6700 Fourier transform infrared spectrometer (Thermo Scientific, Waltham, MA, USA)",
+                    "说明": "FTIR谱与纯PI气凝胶相似，CNCs不影响酰亚胺化，未出现1540 cm⁻¹和1660 cm⁻¹的酰胺特征信号，证明酰亚胺化成功，大量CNCs经热酰亚胺化后仍保留在复合气凝胶中",
+                    "峰位_cm_1": [
+                        "1776 (asymmetrical C=O stretching of imide ring)",
+                        "1721 (symmetrical C=O stretching of imide ring)",
+                        "1500 (C=C stretching of aromatic ring)",
+                        "1375 (C-N stretching of imide ring)",
+                        "3400 (hydroxyl groups from CNCs)"
+                    ]
+                },
+                "核磁_NMR": {
+                    "仪器": "Bruker Avance III HD 400 MHz NMR spectrometer",
+                    "频率_MHz": 400,
+                    "C13_NMR": "观察到CNCs的特征信号：65.6 ppm (C6 crystalline)、70-75 ppm (C2, C3, C5)、84-89 ppm (C4)、104.9 ppm (C1)，以及PI的特征信号：165.6 ppm (C=O imide moiety)、156.2 ppm (phenoxy carbon)、115-134 ppm (aromatic rings)；未发现新信号，说明大部分CNCs未被热酰亚胺化降解，复合气凝胶实现完全酰亚胺化，PAA与CNCs之间的反应极少"
+                },
+                "形貌": {
+                    "仪器": "SU-8010 high-resolution field emission scanning electron microscope (Hitachi, Tokyo, Japan)",
+                    "SEM": "具有层状结构，平行孔由冰晶体沿冷冻前沿的各向异性生长形成"
+                }
+            },
+            "性质": [
+                {
+                    "类别": "热学性质",
+                    "名称": "降解起始温度",
+                    "值": {
+                        "单值": 300,
+                        "单位": "°C",
+                        "说明": "对应复合气凝胶中CNC组分的降解"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PI/CNC composite aerogel",
+                        "方法": "Thermogravimetric analysis",
+                        "仪器": "TGA 4000 (PerkinElmer)",
+                        "气氛": "氮气",
+                        "测试温度范围": {
+                            "最小": 30,
+                            "最大": 700,
+                            "单位": "°C"
+                        },
+                        "升温速率": {
+                            "单值": 10,
+                            "单位": "°C/min"
+                        }
+                    }
+                },
+                {
+                    "类别": "热学性质",
+                    "名称": "降解起始温度",
+                    "值": {
+                        "单值": 540,
+                        "单位": "°C",
+                        "说明": "对应复合气凝胶中PI组分的降解"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PI/CNC composite aerogel",
+                        "方法": "Thermogravimetric analysis",
+                        "仪器": "TGA 4000 (PerkinElmer)",
+                        "气氛": "氮气",
+                        "测试温度范围": {
+                            "最小": 30,
+                            "最大": 700,
+                            "单位": "°C"
+                        },
+                        "升温速率": {
+                            "单值": 10,
+                            "单位": "°C/min"
+                        }
+                    }
+                },
+                {
+                    "类别": "热学性质",
+                    "名称": "酰亚胺化过程重量损失",
+                    "值": {
+                        "单值": 32.4,
+                        "单位": "%"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PI/CNC composite aerogel",
+                        "方法": "测量冻干粉在热酰亚胺化处理前后的重量计算得到"
+                    }
+                },
+                {
+                    "类别": "热学性质",
+                    "名称": "热稳定性",
+                    "值": {
+                        "说明": "复合气凝胶中CNCs的热稳定性较纯CNCs气凝胶略有提高，PI的分解温度较纯PI气凝胶略有降低"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PI/CNC composite aerogel",
+                        "方法": "热重分析",
+                        "仪器": "TGA 4000 (PerkinElmer)",
+                        "气氛": "氮气"
+                    }
+                },
+                {
+                    "类别": "加工性质",
+                    "名称": "冻干后体积收缩率",
+                    "值": {
+                        "单值": 10,
+                        "单位": "%"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PI/CNC composite aerogel",
+                        "方法": "根据CAD模型体积和冻干后表观体积计算，公式：Shrinkage (%) = 100% × (V_CAD - V_s)/V_CAD"
+                    }
+                },
+                {
+                    "类别": "加工性质",
+                    "名称": "酰亚胺化后总体积收缩率",
+                    "值": {
+                        "最大": 30,
+                        "单位": "%",
+                        "说明": "酰亚胺化后仍保留70%以上初始体积，总收缩率小于30%"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PI/CNC composite aerogel",
+                        "方法": "根据CAD模型体积和酰亚胺化后表观体积计算，公式：Shrinkage (%) = 100% × (V_CAD - V_s)/V_CAD"
+                    }
+                },
+                {
+                    "类别": "力学性质",
+                    "名称": "压缩模量",
+                    "值": {
+                        "最小": 6.4,
+                        "最大": 13.64,
+                        "单位": "MPa",
+                        "说明": "压缩模量随CNC浓度升高而增大，6.5wt% CNCs样品处于该范围内"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PI/CNC composite aerogel",
+                        "方法": "压缩测试，遵循ASTM-D695标准",
+                        "仪器": "AGS-X 100kN 万能机电试验机 (Shimadzu)",
+                        "测量参数": "10kN 载荷传感器"
+                    }
+                },
+                {
+                    "类别": "物理性质",
+                    "名称": "体积密度",
+                    "值": {
+                        "说明": "随CNC浓度升高而增大，低于纯PI气凝胶的体积密度"
+                    },
+                    "测试条件": {
+                        "样品": "6.5wt% CNCs PI/CNC composite aerogel",
+                        "方法": "由酰亚胺化后样品的重量和体积计算得到"
+                    }
+                }
+            ],
+            "工艺流程": [
+                {
+                    "产物名称": "PMDA-ODA聚酰胺酸固体",
+                    "原料": [
+                        {
+                            "原料名称": "ODA",
+                            "原料类别": "单体",
+                            "原料类型": "二胺",
+                            "质量": {
+                                "单值": 4.806,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "PMDA",
+                            "原料类别": "单体",
+                            "原料类型": "二酐",
+                            "质量": {
+                                "单值": 5.235,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "极性非质子溶剂",
+                            "体积": {
+                                "单值": 200,
+                                "单位": "mL"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "试剂",
+                            "原料类型": "沉淀剂",
+                            "体积": {
+                                "单值": 600,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "三口烧瓶",
+                            "反应气氛": "氮气",
+                            "反应温度": {
+                                "单值": "室温"
+                            },
+                            "反应时间": {
+                                "单值": 4,
+                                "单位": "小时"
+                            },
+                            "制备过程": "将ODA与DMF混合，逐步加入PMDA形成淡黄色聚酰胺酸前驱体溶液，搅拌4小时确保反应完全，之后用额外100mL DMF稀释"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "稀释后缓慢倒入剧烈搅拌的去离子水中沉淀",
+                        "50℃真空烘箱干燥超过两天"
+                    ],
+                    "位置索引": {
+                        "原文": "First, 4.806g (24 mmol) ODA was added to a three-neck flask and mixed with 100 mL DMF under room temperature and a nitrogen atmosphere. A total of 5.235g (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction. Next, the viscous polyamic acid solution was diluted with another 100 mL DMF, and slowly poured into 600 mL deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at 50℃ for more than two days before use."
+                    }
+                },
+                {
+                    "产物名称": "PAAS溶液",
+                    "原料": [
+                        {
+                            "原料名称": "聚酰胺酸",
+                            "原料类别": "聚合物",
+                            "原料类型": "PMDA-ODA聚酰胺酸",
+                            "质量": {
+                                "单值": 0.75,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "TEA",
+                            "原料类别": "试剂",
+                            "原料类型": "成盐试剂",
+                            "质量": {
+                                "单值": 0.363,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "去离子水",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "玻璃样品瓶",
+                            "制备过程": "将聚酰胺酸、TEA、去离子水混合，超声至所有物料完全溶解，形成PAAS溶液"
+                        }
+                    ],
+                    "位置索引": {
+                        "原文": "First, 0.750g polyamic acid, 0.363g TEA, and 4.444g deionized water were mixed in a glass vial. The solution was sonicated until all materials had dissolved to form the PAAS solution."
+                    }
+                },
+                {
+                    "产物名称": "均匀CNC水凝胶",
+                    "原料": [
+                        {
+                            "原料名称": "CNCs",
+                            "原料类别": "纳米填料",
+                            "原料类型": "纤维素纳米晶体",
+                            "质量": {
+                                "单值": 700,
+                                "单位": "mg"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "去离子水",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星混合器 (MV-300S, CGT, Taiwan)",
+                            "反应时间": {
+                                "单值": 10,
+                                "单位": "min"
+                            },
+                            "制备过程": "加入七个特氟龙球促进CNC粉末解聚，将CNCs分散在去离子水中，1500rpm搅拌，形成均匀CNC水凝胶",
+                            "搅拌转速": {
+                                "单值": 1500,
+                                "单位": "rpm"
+                            }
+                        }
+                    ],
+                    "位置索引": {
+                        "原文": "Next, 700mg of CNCs was dispersed in 4.444g deionized water by a planetary mixer (MV-300S, CGT, Taiwan) at 1500rpm for 10min to form a uniform CNC hydrogel. Seven Teflon balls were added in the container to deagglomerate the CNC powder better."
+                    }
+                },
+                {
+                    "产物名称": "6.5wt% CNCs PAAS/CNC复合油墨",
+                    "原料": [
+                        {
+                            "原料名称": "PAAS水溶液",
+                            "原料类别": "聚合物溶液",
+                            "原料类型": "聚酰胺酸盐水溶液"
+                        },
+                        {
+                            "原料名称": "均匀CNC水凝胶",
+                            "原料类别": "水凝胶",
+                            "原料类型": "纤维素纳米晶体水凝胶"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星混合器",
+                            "反应时间": {
+                                "单值": 30,
+                                "单位": "min"
+                            },
+                            "制备过程": "将PAAS水溶液与CNC水凝胶混合，1500rpm搅拌30min，得到最终聚酰胺酸浓度7.0wt%、CNCs浓度6.5wt%的复合油墨",
+                            "搅拌转速": {
+                                "单值": 1500,
+                                "单位": "rpm"
+                            }
+                        }
+                    ],
+                    "位置索引": {
+                        "原文": "Finally, the aqueous PAAS solution was mixed with the CNC hydrogel by the planetary mixer at 1500rpm for 30min. The final concentration of polyamic acid and CNCs was 7.0wt% and 6.5wt%, respectively. For comparison, the amount of CNC was adjusted to make inks with 5.6wt%, 6.5wt%, and 7.4wt% CNCs."
+                    }
+                },
+                {
+                    "产物名称": "3D打印PAAS/CNC复合生坯",
+                    "原料": [
+                        {
+                            "原料名称": "6.5wt% CNCs PAAS/CNC复合油墨",
+                            "原料类别": "打印油墨",
+                            "原料类型": "PAAS/CNC复合油墨"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "改性DIW 3D打印系统，包含FDM打印机(INFINITY X1Speed, INFINITY3DP, Kaohsiung, Taiwan)、注射器泵(NE-1010, New Era Instrument, Farmingdale, NY, USA)、0.4mm圆锥形塑料喷嘴(TPND-22G-U, Musashi Engineering, Tokyo, Japan)",
+                            "制备过程": "将复合油墨转移到10mL一次性注射器，行星混合器去除气泡后安装到打印系统，由Repetier软件控制，Slic3r生成G代码进行直写打印",
+                            "打印速度": {
+                                "单值": 20,
+                                "单位": "mm/s"
+                            },
+                            "挤出速率": {
+                                "单值": 0.155,
+                                "单位": "mL/min"
+                            }
+                        }
+                    ],
+                    "位置索引": {
+                        "原文": "The as-prepared PAAS/CNC ink was transferred into a 10 mL disposable syringe. The bubbles within the ink were removed by the planetary mixer. A FDM printer (INFINITY X1Speed, INFINITY3DP, Kaohsiung, Taiwan) was modified for the DIW process by replacing the extruder with a 3D printed adapter. The syringe was then mounted on a syringe pump (NE-1010, New Era Instrument, Farmingdale, NY, USA) and connected to a 0.4mm conical type plastic nozzle (TPND-22G-U, Musashi Engineering, Tokyo, Japan). The printer was controlled by Repetier software, and the G-codes were generated from the Slic3r toolpath generator. Typically, the printing speed was set at 20 mm / s, and the extrusion rate was 0.155 mL / min."
+                    }
+                },
+                {
+                    "产物名称": "冻干PAAS/CNC复合干坯",
+                    "原料": [
+                        {
+                            "原料名称": "3D打印PAAS/CNC复合生坯",
+                            "原料类别": "打印生坯",
+                            "原料类型": "PAAS/CNC复合打印物体"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "['-20℃冰箱', '冷冻干燥机']",
+                            "反应温度": {
+                                "单值": -20,
+                                "单位": "℃"
+                            },
+                            "制备过程": "打印物体先冷冻，再冷冻干燥",
+                            "冷冻时间": "过夜",
+                            "冻干时间": "超过两天"
+                        }
+                    ],
+                    "位置索引": {
+                        "原文": "The printed objects were frozen in a -20℃ refrigerator overnight. The frozen samples were rapidly transferred to a freeze dryer and dried for more than two days."
+                    }
+                },
+                {
+                    "产物名称": "6.5wt% CNCs PI/CNC composite aerogel",
+                    "原料": [
+                        {
+                            "原料名称": "冻干PAAS/CNC复合干坯",
+                            "原料类别": "前驱体干坯",
+                            "原料类型": "PAAS/CNC复合冻干样品"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应气氛": "真空",
+                            "制备过程": "冻干样品进行程序升温热处理，完成热酰亚胺化，得到最终PI/CNC复合气凝胶",
+                            "升温程序": "从80℃、120℃、180℃、240℃逐步升温至300℃，每个温度保温1小时",
+                            "升温速率": {
+                                "单值": 1,
+                                "单位": "℃/min"
+                            }
+                        }
+                    ],
+                    "位置索引": {
+                        "原文": "The dried samples further underwent a sequential temperature increase from 80, 120, 180, 240, to 300℃ under vacuum to form the PI/CNC composite aerogels. Each temperature was held for one hour, and the ramping rate was 1℃/min in all cases."
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_6.5wt% CNCs PI/CNC composite aerogel_01"
+        },
+        {
+            "聚合物分类名称": "Polyimide/Cellulose Nanocrystal composite aerogel",
+            "聚合物分类编码": "PI/CNC",
+            "名称": "7.4wt% CNCs PI/CNC composite aerogel",
+            "样本形态": "Aerogel",
+            "结构特征_L1": "heterocyclic",
+            "结构特征_L2": "aromatic, aliphatic",
+            "表征": {
+                "红外_FTIR": {
+                    "仪器": "Nicolet 6700 Fourier transform infrared spectrometer (Thermo Scientific)",
+                    "峰位_cm_1": [
+                        "1776 (酰亚胺环不对称C=O伸缩)",
+                        "1721 (酰亚胺环对称C=O伸缩)",
+                        "1500 (芳香环C=C伸缩)",
+                        "1375 (酰亚胺环C-N伸缩)",
+                        "3400 (CNCs羟基特征峰)"
+                    ]
+                },
+                "核磁_NMR": {
+                    "仪器": "Bruker Avance III HD 400 MHz NMR spectrometer",
+                    "频率_MHz": 400,
+                    "C13_NMR": "检出酰亚胺C=O特征峰165.6 ppm、苯氧碳特征峰156.2 ppm、芳香环碳特征峰115-134 ppm；同时检出CNCs的特征碳信号：65.6 ppm (C6结晶)、70-75 ppm (C2/C3/C5)、84-89 ppm (C4)、104.9 ppm (C1)；未发现新信号，表明多数CNCs未发生热降解，PAA与CNCs反应极少，实现完全咪唑化"
+                },
+                "形貌": {
+                    "仪器": "high-resolution field emission scanning electron microscope (SU-8010, Hitachi)",
+                    "SEM": "具有CNCs诱导形成的层状结构，平行孔由冰晶沿冷冻前沿各向异性生长形成；不同CNC浓度的PI/CNC复合气凝胶形貌相似，相比纯PI气凝胶，层状结构更显著，孔径更大；随着CNC浓度升高体积收缩降低，本样品为高浓度CNC样品，形状保留较好"
+                }
+            },
+            "性质": [
+                {
+                    "类别": "热学性质",
+                    "名称": "第一降解起始温度（CNC组分）",
+                    "值": {
+                        "单值": 300,
+                        "单位": "°C"
+                    },
+                    "测试条件": {
+                        "方法": "热重分析",
+                        "仪器": "TGA 4000 (PerkinElmer)",
+                        "气氛": "氮气",
+                        "测试温度范围": {
+                            "最小": 30,
+                            "最大": 700,
+                            "单位": "°C"
+                        },
+                        "升温速率": {
+                            "单值": 10,
+                            "单位": "°C/min"
+                        }
+                    }
+                },
+                {
+                    "类别": "热学性质",
+                    "名称": "第二降解起始温度（PI组分）",
+                    "值": {
+                        "单值": 540,
+                        "单位": "°C"
+                    },
+                    "测试条件": {
+                        "方法": "热重分析",
+                        "仪器": "TGA 4000 (PerkinElmer)",
+                        "气氛": "氮气",
+                        "测试温度范围": {
+                            "最小": 30,
+                            "最大": 700,
+                            "单位": "°C"
+                        },
+                        "升温速率": {
+                            "单值": 10,
+                            "单位": "°C/min"
+                        }
+                    }
+                },
+                {
+                    "类别": "加工性质",
+                    "名称": "冻干后体积收缩率",
+                    "值": {
+                        "最大": 10,
+                        "单位": "%",
+                        "说明": "随CNCs浓度升高而降低，7.4wt% CNCs样品为该系列体积收缩率最低"
+                    },
+                    "测试条件": {
+                        "方法": "根据CAD模型体积与气凝胶表观体积计算，公式为Shrinkage (%) = 100% × (V_CAD - V_s)/V_CAD"
+                    }
+                },
+                {
+                    "类别": "加工性质",
+                    "名称": "热亚胺化后体积保留率",
+                    "值": {
+                        "最小": 70,
+                        "单位": "%",
+                        "说明": "随CNCs浓度升高而升高，7.4wt% CNCs样品为该系列体积保留率最高"
+                    },
+                    "测试条件": {
+                        "方法": "根据CAD模型体积与气凝胶表观体积计算"
+                    }
+                },
+                {
+                    "类别": "物理性质",
+                    "名称": "体积密度（堆密度）",
+                    "值": {
+                        "说明": "随CNCs浓度升高而增大，7.4wt% CNCs样品为该系列复合气凝胶中最高值"
+                    },
+                    "测试条件": {
+                        "方法": "由热亚胺化后样品的重量和体积计算得到"
+                    }
+                },
+                {
+                    "类别": "力学性质",
+                    "名称": "压缩模量",
+                    "值": {
+                        "单值": 13.64,
+                        "单位": "MPa",
+                        "说明": "随CNCs浓度升高而增大，为该系列复合气凝胶中最高值"
+                    },
+                    "测试条件": {
+                        "方法": "压缩性能测试，遵循ASTM-D695标准",
+                        "仪器": "万能电子试验机AGS-X 100kN (Shimadzu)，配备10kN测力传感器"
+                    }
+                },
+                {
+                    "类别": "力学性质",
+                    "名称": "最大压缩应力",
+                    "值": {
+                        "说明": "随CNCs浓度升高而增大，7.4wt% CNCs样品为该系列复合气凝胶中最高值"
+                    },
+                    "测试条件": {
+                        "方法": "压缩性能测试，遵循ASTM-D695标准",
+                        "仪器": "万能电子试验机AGS-X 100kN (Shimadzu)，配备10kN测力传感器"
+                    }
+                },
+                {
+                    "类别": "化学性质",
+                    "名称": "热亚胺化后CNCs残留量",
+                    "值": {
+                        "说明": "300°C热亚胺化后仍有大量CNCs残留，CNCs的重量损失极小"
+                    },
+                    "测试条件": {
+                        "方法": "热重分析结合热亚胺化前后样品称重分析"
+                    }
+                },
+                {
+                    "类别": "热学性质",
+                    "名称": "热绝缘性能",
+                    "值": {
+                        "说明": "具有良好的热绝缘能力"
+                    },
+                    "测试条件": {
+                        "方法": "热成像测试，样品放置于160°C热板上，加热10min后观察",
+                        "仪器": "FLIR C2 thermal imaging camera",
+                        "工作距离": "约30cm"
+                    }
+                }
+            ],
+            "工艺流程": [
+                {
+                    "产物名称": "PMDA-ODA聚酰胺酸固体",
+                    "原料": [
+                        {
+                            "原料名称": "ODA",
+                            "原料类别": "单体",
+                            "原料类型": "二胺",
+                            "缩写": "ODA",
+                            "质量": {
+                                "单值": 4.806,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "PMDA",
+                            "原料类别": "单体",
+                            "原料类型": "二酐",
+                            "缩写": "PMDA",
+                            "投料方式": "逐步加入",
+                            "质量": {
+                                "单值": 5.235,
+                                "单位": "g"
+                            },
+                            "摩尔量": {
+                                "单值": 24,
+                                "单位": "mmol"
+                            }
+                        },
+                        {
+                            "原料名称": "DMF",
+                            "原料类别": "溶剂",
+                            "原料类型": "极性非质子溶剂",
+                            "缩写": "DMF",
+                            "体积": {
+                                "单值": 200,
+                                "单位": "mL"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "原料类型": "沉淀剂",
+                            "体积": {
+                                "单值": 600,
+                                "单位": "mL"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "三口烧瓶",
+                            "反应气氛": "氮气",
+                            "反应温度": {
+                                "单值": "室温"
+                            },
+                            "溶剂": "DMF",
+                            "溶剂量": {
+                                "单值": 200,
+                                "单位": "mL"
+                            },
+                            "反应时间": {
+                                "单值": 4,
+                                "单位": "小时"
+                            },
+                            "制备过程": "将ODA加入三口烧瓶，与DMF在室温氮气气氛下混合，逐步加入PMDA形成浅黄色聚酰胺酸前驱体溶液，搅拌4小时保证反应完全，之后用额外100mL DMF稀释粘稠聚酰胺酸溶液"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "剧烈搅拌下将稀释后的聚酰胺酸溶液缓慢倒入600mL去离子水中沉淀",
+                        "真空烘箱50℃干燥超过两天"
+                    ],
+                    "位置索引": {
+                        "md_range": "80-83",
+                        "原文": "First,  4.806g  (24 mmol) ODA was added to a three-neck flask and mixed with  100 mL  DMF under room temperature and a nitrogen atmosphere. A total of  5.235g  (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction. Next, the viscous polyamic acid solution was diluted with another  100 mL  DMF, and slowly poured into  600 mL  deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at  50℃  for more than two days before use."
+                    }
+                },
+                {
+                    "产物名称": "PAAS水溶液",
+                    "原料": [
+                        {
+                            "原料名称": "聚酰胺酸",
+                            "原料类别": "聚合物",
+                            "原料类型": "PMDA-ODA聚酰胺酸",
+                            "缩写": "PAA",
+                            "质量": {
+                                "单值": 0.75,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "TEA",
+                            "原料类别": "试剂",
+                            "原料类型": "碱",
+                            "缩写": "TEA",
+                            "质量": {
+                                "单值": 0.363,
+                                "单位": "g"
+                            }
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "溶剂",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "玻璃样品瓶",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "制备过程": "将聚酰胺酸、TEA、去离子水加入玻璃样品瓶混合，超声处理至所有物料完全溶解，形成PAAS溶液"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87",
+                        "原文": "First,  0.750g  polyamic acid,  0.363g  TEA, and  4.444g  deionized water were mixed in a glass vial. The solution was sonicated until all materials had dissolved to form the PAAS solution."
+                    }
+                },
+                {
+                    "产物名称": "纤维素纳米晶体水凝胶",
+                    "原料": [
+                        {
+                            "原料名称": "纤维素纳米晶体",
+                            "原料类别": "填料",
+                            "原料类型": "纳米纤维素晶",
+                            "缩写": "CNCs"
+                        },
+                        {
+                            "原料名称": "去离子水",
+                            "原料类别": "分散介质",
+                            "质量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            }
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星混合器（MV-300S, CGT, Taiwan）",
+                            "溶剂": "去离子水",
+                            "溶剂量": {
+                                "单值": 4.444,
+                                "单位": "g"
+                            },
+                            "反应时间": {
+                                "单值": 10,
+                                "单位": "min"
+                            },
+                            "制备过程": "将CNCs分散在去离子水中，加入7个特氟龙球促进CNC粉末解团聚，行星混合器1500rpm搅拌10min形成均匀CNC水凝胶，调整CNC投料量以制备最终浓度为7.4wt%的复合墨水",
+                            "反应条件": "搅拌转速1500rpm"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87",
+                        "原文": "Next,  700mg  of CNCs was dispersed in  4.444g  deionized water by a planetary mixer (MV-300S, CGT, Taiwan) at  1500rpm  for  10min  to form a uniform CNC hydrogel. Seven Teflon balls were added in the container to deagglomerate the CNC powder better. ... For comparison, the amount of CNC was adjusted to make inks with  5.6wt% ,  6.5wt% , and  7.4wt%  CNCs."
+                    }
+                },
+                {
+                    "产物名称": "7.4wt% CNCs PAAS/CNC复合墨水",
+                    "原料": [
+                        {
+                            "原料名称": "PAAS水溶液",
+                            "原料类别": "聚合物溶液",
+                            "原料类型": "聚酰胺酸盐水溶液"
+                        },
+                        {
+                            "原料名称": "CNC水凝胶",
+                            "原料类别": "填料分散液",
+                            "原料类型": "纤维素纳米晶体水凝胶"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "行星混合器（MV-300S, CGT, Taiwan）",
+                            "反应时间": {
+                                "单值": 30,
+                                "单位": "min"
+                            },
+                            "制备过程": "将PAAS水溶液与CNC水凝胶混合，行星混合器1500rpm搅拌30min，调整CNC投料量使最终CNC浓度为7.4wt%，聚酰胺酸浓度为7.0wt%",
+                            "反应条件": "搅拌转速1500rpm"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "84-87",
+                        "原文": "Finally, the aqueous PAAS solution was mixed with the CNC hydrogel by the planetary mixer at  1500rpm  for  30min . The final concentration of polyamic acid and CNCs was  7.0wt%  and  6.5wt% , respectively. For comparison, the amount of CNC was adjusted to make inks with  5.6wt% ,  6.5wt% , and  7.4wt%  CNCs."
+                    }
+                },
+                {
+                    "产物名称": "3D打印PAAS/CNC复合坯体",
+                    "原料": [
+                        {
+                            "原料名称": "7.4wt% CNCs PAAS/CNC复合墨水",
+                            "原料类别": "打印ink",
+                            "原料类型": "可挤出复合打印墨水",
+                            "投料方式": "转移装入"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "改装FDM打印机（INFINITY X1Speed, INFINITY3DP）、10mL一次性注射器、注射器泵（NE-1010, New Era Instrument）、0.4mm锥形塑料喷嘴",
+                            "制备过程": "将制备好的复合墨水转移到10mL一次性注射器，行星混合器脱除墨水内气泡；改装FDM打印机用于DIW工艺，更换挤出头为3D打印适配器，安装注射器和喷嘴，通过Repetier软件控制打印机，Slic3r生成G代码进行3D打印得到打印坯体",
+                            "反应条件": "打印速度20mm/s，挤出速率0.155mL/min"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "92-95",
+                        "原文": "The as-prepared PAAS/CNC ink was transferred into a  10 mL  disposable syringe. The bubbles within the ink were removed by the planetary mixer. A FDM printer (INFINITY X1Speed, INFINITY3DP, Kaohsiung, Taiwan) was modified for the DIW process by replacing the extruder with a 3D printed adapter. The syringe was then mounted on a syringe pump (NE-1010, New Era Instrument, Farmingdale, NY, USA) and connected to a  0.4mm  conical type plastic nozzle (TPND-22G-U, Musashi Engineering, Tokyo, Japan). The printer was controlled by Repetier software, and the G-codes were generated from the Slic3r toolpath generator. Typically, the printing speed was set at  20 mm / s , and the extrusion rate was  0.155 mL / min ."
+                    }
+                },
+                {
+                    "产物名称": "冷冻干燥PAAS/CNC复合干燥坯体",
+                    "原料": [
+                        {
+                            "原料名称": "3D打印PAAS/CNC复合坯体",
+                            "原料类别": "打印坯体",
+                            "原料类型": "湿态复合打印物件"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "反应装置": "-20℃冰箱、冷冻干燥机",
+                            "反应温度": {
+                                "单值": -20,
+                                "单位": "℃"
+                            },
+                            "制备过程": "将打印后的物件放入-20℃冰箱冷冻过夜，随后快速转移到冷冻干燥机干燥超过两天得到干燥坯体"
+                        }
+                    ],
+                    "后处理步骤": [
+                        "-20℃冰箱冷冻过夜",
+                        "冷冻干燥机干燥超过两天"
+                    ],
+                    "位置索引": {
+                        "md_range": "96-99",
+                        "原文": "The printed objects were frozen in a  -20℃  refrigerator overnight. The frozen samples were rapidly transferred to a freeze dryer and dried for more than two days."
+                    }
+                },
+                {
+                    "产物名称": "7.4wt% CNCs PI/CNC composite aerogel",
+                    "原料": [
+                        {
+                            "原料名称": "冷冻干燥PAAS/CNC复合干燥坯体",
+                            "原料类别": "前驱体坯体",
+                            "原料类型": "聚酰胺酸/CNC复合干燥坯体"
+                        }
+                    ],
+                    "反应条件": [
+                        {
+                            "制备过程": "干燥样品在真空下进行程序升温热处理完成热酰亚胺化，得到最终PI/CNC复合气凝胶",
+                            "反应条件": "真空环境，程序升温：80℃→120℃→180℃→240℃→300℃，升温速率1℃/min，每个温度保温1小时"
+                        }
+                    ],
+                    "位置索引": {
+                        "md_range": "96-99",
+                        "原文": "The dried samples further underwent a sequential temperature increase from 80, 120, 180, 240, to  300℃  under vacuum to form the PI/CNC composite aerogels. Each temperature was held for one hour, and the ramping rate was  1℃/min  in all cases. ... Fortunately, a significant amount of CNCs remained in the aerogels prepared by  6.5wt%  and  7.4wt%  CNCs."
+                    }
+                }
+            ],
+            "身份标识": "doi:10.3390/polym13213614_7.4wt% CNCs PI/CNC composite aerogel_01"
+        }
+    ]
+}

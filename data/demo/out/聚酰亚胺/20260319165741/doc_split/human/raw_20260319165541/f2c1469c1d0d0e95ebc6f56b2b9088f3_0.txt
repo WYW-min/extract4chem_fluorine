@@ -1,0 +1,33 @@
+source_file: Nanoindentation studies of polyimide thin films with various internal linkages in the diamine component.md
+doc_id: f2c1469c1d0d0e95ebc6f56b2b9088f3
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Nanoindentation Studies of Polyimide Thin Films with Various Internal Linkages in the Diamine Component
+line_span: [1, 19]
+char_span: [0, 2706]
+line_count: 17
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0001: Nanoindentation Studies of Polyimide Thin Films with Various Internal Linkages in the Diamine Component) ---
+1: [MINERU_DISCARDED_META]
+2: LEE ET AL.
+3: [/MINERU_DISCARDED_META]
+4: 
+5: # Nanoindentation Studies of Polyimide Thin Films with Various Internal Linkages in the Diamine Component
+6: 
+7: CHOONKEUN LEE, $^{1}$  JINUK KWON, $^{1}$  SUNGGOOK PARK, $^{2}$  SAIMANI SUNDAR, $^{1}$  BYOUNGRYUL MIN, $^{1}$  HAKSOO HAN $^{1}$
+8: 
+9: $^{1}$ Department of Chemical Engineering, Yonsei University, 134 Shinchon-dong, Sedaemun-gu, Seoul, 120-749 Korea
+10: 
+11: $^{2}$ Laboratory for Micro- and Nanotechnology, Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland
+12: 
+13: Received 4 April 2003; revised 26 August 2003; accepted 21 October 2003
+14: 
+15: ABSTRACT: Polyimide thin films were synthesized from  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic acid dianhydride (BPDA) and four different diamines ( $p$ -phenylene diamine,  $4,4^{\prime}$ -oxydiphenylene diamine,  $4,4^{\prime}$ -biphenylene diamine, and  $4,4^{\prime}$ -sulfonyldiphenylene diamine). The nanoindentation behavior of the resulting polyimides, namely, poly( $p$ -phenylene biphenyltetracarboximide) (BPDA-PDA), poly( $4,4^{\prime}$ -biphenylene biphenyltetracarboximide) (BPDA-BZ), poly( $4,4^{\prime}$ -oxydiphenylene biphenyltetracarboximide) (BPDA-ODA), and poly( $4,4^{\prime}$ -sulfonyldiphenylene biphenyltetracarboximide) (BPDA-DDS), were investigated. Also, the morphological properties were characterized with a prism coupler and wide-angle X-ray diffraction and were correlated to the nanoindentation studies. The nanoindentation behavior and hardness varied quite significantly, depending on the changes in the chemical and morphological structures. The hardness of the polyimide thin films increased in the following order: BPDA-DDS < BPDA-ODA < BPDA-BZ < BPDA-PDA. For all the polyimide thin films, except that of BPDA-BZ, the hardness decreased with an increase in the load. The birefringence, a measure of the molecular in-plane orientation, increased in the following order: BPDA-DDS < BPDA-ODA < BPDA-PDA < BPDA-BZ. The X-ray diffraction studies revealed that the crystallinity of the polyimide thin films varied with the changes in the chemical structure. The studies showed that the indentation response with an applied load and the hardness by nanoindentation for the BPDA-based polyimides were closely related to the morphological structure. The nanoindentation and birefringence results revealed that the mechanical properties of the polyimide thin films were dependent on the crystallinity, which arose because of the chain order along the chain axis and the molecular packing order. © 2004 Wiley Periodicals, Inc. J Polym Sci Part B: Polym Phys 42:861-870, 2004
+16: 
+17: Keywords: nanoindentation; polyimides; hardness; birefringence; crystallinity; orientation

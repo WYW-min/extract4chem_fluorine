@@ -1,0 +1,72 @@
+source_file: Enhancing the Toughness of Free-Standing Polyimide Films for Advanced Electronics Applications A Study on the .md
+doc_id: c884e49a30bd98baa9c0ec7a77277509
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Enhancing the Toughness of Free-Standing Polyimide Films for Advanced Electronics Applications: A Study on the Impact of Film-Forming Processes
+line_span: [1, 58]
+char_span: [0, 2691]
+line_count: 56
+effective_body_non_empty_lines: 30
+
+lines:
+--- chunk (b0001: Enhancing the Toughness of Free-Standing Polyimide Films for Advanced Electronics Applications: A Study on the Impact of Film-Forming Processes) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2023, 15, 2073. https://doi.org/10.3390/polym15092073
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Enhancing the Toughness of Free-Standing Polyimide Films for Advanced Electronics Applications: A Study on the Impact of Film-Forming Processes
+11: 
+12: Ruoqing Zhao, Hao Wu, Xuan Dong, Manzhang Xu, Zhenhua Wang and Xuewen Wang *
+13: 
+14: Frontiers Science Center for Flexible Electronics (FSCFE), Shaanxi Institute of Flexible Electronics (SIFE), Northwestern Polytechnical University, Xi'an 710072, China
+15: 
+16: * Correspondence: iamxwwang@nwpu.edu.cn
+17: 
+18: Abstract: High-quality and free-standing polyimide (PI) film with desirable mechanical properties and uniformity is in high demand due to its widespread applications in highly precise flexible and chip-integrated sensors. In this study, a free-standing PI film with high toughness was successfully prepared using a diamine monomer with ether linkages. The prepared PI films exhibited significantly superior mechanical properties compared to PI films of the same molecular structure, which can be attributed to the systematic exploration of the film-forming process. The exploration of the film-forming process includes the curing procedures, film-forming substrates, and annealing treatments. Additionally, the thickness uniformity and surface homogeneity of free-standing films were crucial for toughness. Increasing the crystallinity of the PI films by eliminating residual stress also contributed to their high strength. The results demonstrate that by adjusting the above-mentioned factors, the prepared PI films possess excellent mechanical properties, with tensile strength and elongation at break of  $194.71\mathrm{MPa}$  and  $130.13\%$ , respectively.
+19: 
+20: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+21: 
+22: check for updates
+23: 
+24: Citation: Zhao, R.; Wu, H.; Dong, X.;
+25: 
+26: Xu, M.; Wang, Z.; Wang, X.
+27: 
+28: Enhancing the Toughness of
+29: 
+30: Free-Standing Polyimide Films for
+31: 
+32: Advanced Electronics Applications:
+33: 
+34: A Study on the Impact of
+35: 
+36: Film-Forming Processes. Polymers
+37: 
+38: 2023, 15, 2073. https://doi.org/
+39: 
+40: 10.3390/polym15092073
+41: 
+42: Academic Editor: Patrick Lee
+43: 
+44: Received: 6 April 2023
+45: 
+46: Revised: 23 April 2023
+47: 
+48: Accepted: 25 April 2023
+49: 
+50: Published: 27 April 2023
+51: 
+52: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+53: 
+54: Copyright: © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+55: 
+56: Keywords: polyimide film; high toughness; performance regulation; fabrication process optimization

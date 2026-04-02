@@ -1,0 +1,21 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 2
+block_id: b0003
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Keywords
+line_span: [47, 53]
+char_span: [2247, 2399]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0003: Keywords) ---
+47: # Keywords
+48: 
+49: Polyimide, electrospinning, coating, hot gas filtration, nonwoven fabric
+50: 
+51: Submission date: 5 July 2017; Acceptance date: 19 September 2018

@@ -1,0 +1,19 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 7
+block_id: b0008
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Electrical Conductivity
+line_span: [72, 76]
+char_span: [11974, 12431]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0008: Electrical Conductivity) ---
+72: # Electrical Conductivity
+73: 
+74: The electrical conductivity of the composite films  $(100\mathrm{mm}\times 25\mathrm{mm}\times 0.1\mathrm{mm})$  was measured by fourpoint contact method [13] using a Keithley 224 programmable current source for providing current, the voltage drop was measured by Keithley 197A auto ranging digital microvoltmeter. The values reported in text are averaged over five readings of voltage drops at different portions of the sample.

@@ -1,0 +1,63 @@
+source_file: A Rigid and Planar Aza-Based Ternary Anhydride for the Preparation of Cross-Linked Polyimide Membrane Displayi.md
+doc_id: fc1d46c21270bb01aab3338147d76c95
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [210, 256]
+char_span: [35292, 44342]
+line_count: 47
+effective_body_non_empty_lines: 43
+
+lines:
+--- chunk (b0006: References) ---
+210: # References
+211: 
+212: 1. Baker, R.W.; Lokhandwala, K. Natural Gas Processing with Membranes: An Overview. Ind. Eng. Chem. Res. 2008, 47, 2109-2121. [CrossRef]  
+213: 2. Koros, W.J.; Fleming, G.K. Membrane-Based Gas Separation. J. Membr. Sci. 1993, 83, 1-80. [CrossRef]  
+214: 3. Chow, J.C. Separation and Capture of  $\mathrm{CO}_{2}$  from Large Stationary Sources and Sequestration in Geological Formations. J. Air Waste Manag. Assoc. 2003, 53, 643-644. [CrossRef]  
+215: 4. D'Alessandro, D.M.; Smit, B.; Long, J.R. Carbon Dioxide Capture: Prospects for New Materials. Angew. Chem. Int. Ed. 2010, 49, 6058-6082. [CrossRef]  
+216: 5. Baker, R.W. Future directions of membrane gas-separation technology. Ind. Eng. Chem. Res. 2002, 41, 5-10. [CrossRef]  
+217: 6. Ockwig, N.W.; Nenoff, T.M. Membranes for Hydrogen Separation. Chem. Rev. 2010, 110, 2573-2574. [CrossRef]  
+218: 7. Anwar, F.; Arthanareeswaran, G. Performance studies of carbon membranes from polyamideimide and polyetherimide for gas separation. Int. J. Hydrogen Energy 2017, withdrawn. [CrossRef]  
+219: 8. Park, S.H.; Kim, K.J.; So, W.W.; Moon, S.J.; Lee, S.B. Gas separation properties of 6FDA-based polyimide membranes with a polar group. Macromol. Res. 2003, 11, 157-162. [CrossRef]  
+220: 9. Ye, H.; Li, J.; Lin, Y.; Chen, J.; Chen, C. Synthesis of Polyimides Containing Fluorine and Their Pervaporation Performances to Aromatic/Aliphatic Hydrocarbon Mixtures. J. Macromol. Sci. Part A Pure Appl. Chem. 2008, 45, 172-178. [CrossRef]  
+221: 10. Tong, H.; Hu, C.; Yang, S.; Ma, Y.; Guo, H.; Fan, L. Preparation of fluorinated polyimides with bulky structure and their gas separation performance correlated with microstructure. Polymer 2015, 69, 138-147. [CrossRef]  
+222: 11. Wu, A.X.; Drayton, J.A.; Rodriguez, K.M.; Qian, Q.; Lin, S.; Smith, Z.P. Influence of Aliphatic and Aromatic Fluorine Groups on Gas Permeability and Morphology of Fluorinated Polyimide Films. Macromolecules 2020, 53, 5085-5095. [CrossRef]  
+223: 12. Freeman, B.D. Basis of Permeability/Selectivity Tradeoff Relations in Polymeric Gas Separation Membranes. Macromolecules 1999, 32, 375-380. [CrossRef]
+224: 
+225: 13. Chan, S.S.; Chung, T.S.; Liu, Y.; Wang, R. Gas and hydrocarbon (C2 and C3) transport properties of co-polyimides synthesized from 6FDA and 1,5-NDA (naphthalene)/Durene diamines. J. Membr. Sci. 2003, 218, 235-245. [CrossRef]  
+226: 14. Moon, J.D.; Freeman, B.D.; Hawker, C.J.; Segalman, R.A. Can Self-Assembly Address the Permeability/Selectivity Trade-Offs in Polymer Membranes? Macromolecules 2020, 53, 5649–5654. [CrossRef]  
+227: 15. Fang, J.; Kita, H.; Okamoto, K.I. Gas permeation properties of hyperbranched polyimide membranes. J. Membr. Sci. 2001, 182, 245-256. [CrossRef]  
+228: 16. Chen, W.; Yan, W.; Wu, S.; Xu, Z.; Yeung, K.W.K.; Yi, C. Preparation and Properties of Novel Triphenylpyridine-Containing Hyperbranched Polyimides Derived from 2,4,6-Tris(4-aminophenyl)pyridine under Microwave Irradiation. Macromol. Chem. Phys. 2010, 211, 1803–1813. [CrossRef]  
+229: 17. Shen, J.; Zhang, Y.; Chen, W.; Wang, W.; Xu, Z.; Yeung, K.W.; Yi, C. Synthesis and properties of hyperbranched polyimides derived from novel triamine with prolonged chain segments. J. Polym. Sci. Part A Polym. Chem. 2013, 51, 2425-2437. [CrossRef]  
+230: 18. Yan, D.; Gao, C. Hyperbranched Polymers Made from A2 and BB'2 Type Monomers. 1. Polyaddition of 1-(2-Aminoethyl)piperazine to Divinyl Sulfone. Macromolecules 2006, 33, 7693-7699. [CrossRef]  
+231: 19. Peter, J.; Khalyavina, A.; Križ, J.; Bleha, M. Synthesis and gas transport properties of ODPA-TAP-ODA hyperbranched polyimides with various comonomer ratios. Eur. Polym. J. 2009, 45, 1716-1727. [CrossRef]  
+232: 20. Tanaka, K.; Kita, H.; Okano, M.; Okamoto, K.I. Permeability and permselectivity of gases in fluorinated and non-fluorinated polyimides. Polymer 1992, 33, 585-592. [CrossRef]  
+233: 21. Li, Y.; Wang, X.; Ding, M.; Xu, J. Effects of molecular structure on the permeability and permselectivity of aromatic polyimides. J. Appl. Polym. Sci. 1996, 61, 741-748. [CrossRef]  
+234: 22. Qiu, W.; Xu, L.; Chen, C.C.; Paul, D.R.; Koros, W.J. Gas separation performance of 6FDA-based polyimides with different chemical structures. Polymer 2013, 54, 6226-6235. [CrossRef]  
+235: 23. Du, N.; Park, H.B.; Dal-Cin, M.M.; Guiver, M.D. Advances in high permeability polymeric membrane materials for  $\mathrm{CO}_{2}$  separations. Energy Environ. Sci. 2012, 5, 7306-7322. [CrossRef]  
+236: 24. Deng, G.; Luo, J.; Liu, S.; Wang, Y.; Zong, X.; Wu, Q.; Xue, S. Low-temperature synthesis and gas transport properties of novel contorted hyperbranched polyimides containing binaphthyl structures. Sep. Purif. Technol. 2020, 248, 117088. [CrossRef]  
+237: 25. Liu, S.; Luo, J.; Deng, G.; Wang, Y.; Liu, X.; Wu, Q.; Xue, S. From a hyperbranched polyimide to a microporous network polyimide via reaction temperature change and its application in gas separation membranes. Polym. Adv. Technol. 2021, 32, 1866-1876. [CrossRef]  
+238: 26. Yan, X.Y.; Lin, M.D.; Zheng, S.T.; Zhan, T.G.; Zhang, X.; Zhang, K.D.; Zhao, X. Recent advances of hexazatriphenylene (HAT) derivatives: Their applications in self-assembly and porous organic materials. Tetrahedron Lett. 2018, 59, 592-604. [CrossRef]  
+239: 27. Zhu, X.; Tian, C.; Veith, G.M.; Abney, C.W.; Dehaudt, J.; Dai, S. In Situ Doping Strategy for the Preparation of Conjugated Triazine Frameworks Displaying Efficient  $\mathrm{CO}_{2}$  Capture Performance. J. Am. Chem. Soc. 2016, 138, 11497-11500. [CrossRef] [PubMed]  
+240: 28. Kanakarajan, K.; Czarnik, A.W. Synthesis and some reactions of hexaaazatriphenylenehexanitrile, a hydrogen-free polyfunctional heterocycle with D3h symmetry. J. Org. Chem. 1986, 51, 5241-5243. [CrossRef]  
+241: 29. Rademacher, J.T.; Kanakarajan, K.; Czarnik, A.W. Improved Synthesis of 1,4,5,8,9,12-Hexaazatriphenylenehexacarboxylic Acid. ChemInform 1994, 1994, 378-380. [CrossRef]  
+242: 30. Bhanvadia, V.; Patel, A.L.; Zade, S.S. Constructing a self-assembling C3-symmetric covalently linked (fused) donor-acceptor-type molecule containing a hexaazatriphenylene core. New J. Chem. 2018, 42, 17700-17707. [CrossRef]  
+243: 31. Kim, S.J.; Ahn, Y.; Kim, J.F.; Nam, S.E.; Park, H.; Cho, Y.H.; Park, Y.I. Comparison of liquid-phase and methanol-swelling crosslinking processes of polyimide dense membrane for  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  separation. J. Appl. Polym. Sci. 2021, 138, 49860. [CrossRef]  
+244: 32. Wakita, J.; Jin, S.; Shin, T.J.; Ree, M.; Ando, S. Analysis of Molecular Aggregation Structures of Fully Aromatic and Semialiphatic Polyimide Films with Synchrotron Grazing Incidence Wide-Angle X-ray Scattering. Macromolecules 2010, 43, 1930-1941. [CrossRef]  
+245: 33. Zhuang, Y.; Liu, X.; Yi, G. Molecular packing and properties of poly(benzoxazole-benzimidazole-imide) copolymers. Polym. Chem. 2012, 3, 1517-1525. [CrossRef]  
+246: 34. Zhuang, Y.; Seong, J.G.; Do, Y.S.; Jo, H.J.; Lee, M.J.; Wang, G.; Guiver, M.D.; Lee, Y.M. Effect of Isomerism on Molecular Packing and Gas Transport Properties of Poly(benzoxazole-co-imide)s. Macromolecules 2014, 47, 7947. [CrossRef]  
+247: 35. Zhuang, Y.; Gu, Y. Probing structural evolution of the poly(amic acid) containing benzoxazole moieties in backbone during thermal imidization. J. Polym. Res. 2012, 19, 14. [CrossRef]  
+248: 36. Tien-Binh, N.; Vinh-Thang, H.; Chen, X.Y.; Rodrigue, D.; Kaliaguine, S. Polymer functionalization to enhance interface quality of mixed matrix membranes for high  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  gas separation. J. Mater. Chem. A 2015, 3, 15202-15213. [CrossRef]  
+249: 37. Kammakakam, I.; Nam, S.Y.; Kim, T.H. PEG-Imidazolium-Functionalized 6FDA-Durene Polyimide as a Novel Polymeric Membrane for Enhanced  $\mathrm{CO}_{2}$  Separation. RSC Adv. 2016, 6, 31083-31091. [CrossRef]  
+250: 38. Robeson, L.M. Correlation of separation factor versus permeability for polymeric membranes. J. Membr. Sci. 1991, 62, 165-185. [CrossRef]  
+251: 39. Zhang, C.; Pei, L.; Bing, C. Decarboxylation Crosslinking of Polyimides Based on Molecularly Designed Carboxylic Acid Containing Diamines with High  $\mathrm{CO_2 / CH_4}$  separation performance and Plasticization Resistance. J. Membr. Sci. 2017, 528, 206-216. [CrossRef]  
+252: 40. An, H.; Lee, A.S.; Kammakam, I.; Hwang, S.S.; Kim, J.H.; Lee, J.H.; Lee, J.S. Bromination/Debromination-Induced Thermal Crosslinking of 6FDA-Durene for Aggressive Gas Separations. J. Membr. Sci. 2018, 545, 358-366. [CrossRef]
+253: 
+254: 41. Hu, X.; Pang, Y.; Mu, H.; Meng, X.; Wang, X.; Wang, Z.; Yan, J. Synthesis and gas separation performances of intrinsically microporous polyimides based on 4-methylcatechol-derived monomers. J. Membr. Sci. 2020, 620, 118825. [CrossRef]  
+255: 42. Yerzhankyzy, A.; Ghanem, B.S.; Wang, Y.; Alaslai, N.; Pinnau, I. Gas separation performance and mechanical properties of thermally-rearranged polybenzoxazoles derived from an intrinsically microporous dihydroxyl-functionalized triptycene diamine-based polyimide. J. Membr. Sci. 2020, 595, 117512. [CrossRef]  
+256: 43. Xu, S.; Ren, X.; Zhao, N.; Wu, L.; Zhang, Z.; Fan, Y.; Li, N. Self-crosslinking of bromomethylated 6FDA-DAM polyimide for gas separations. J. Membr. Sci. 2021, 636, 119534. [CrossRef]

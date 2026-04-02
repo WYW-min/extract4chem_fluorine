@@ -1,0 +1,149 @@
+source_file: A Universal Study on the Effect Thermal Imidization Has on the Physico-Chemical, Mechanical, Thermal and Elect.md
+doc_id: 0f43da0f5e40ed55d6d84519f0353d25
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [68, 202]
+char_span: [20837, 44477]
+line_count: 133
+effective_body_non_empty_lines: 80
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+68: # 3. Results and Discussion
+69: 
+70: PAA is cyclized as a result of the curing process, with the carbon atom of the amic acid group bonding to nitrogen to form an imide bond. This process, referred to as imidization (Figure 1a shows polyimide film cured at  $240^{\circ}\mathrm{C}$ ), is accompanied by the loss of  $\mathrm{H}_2\mathrm{O}$  (Figure 1b) [32]. The evaporation of both the NMP solvent and loss of  $\mathrm{H}_2\mathrm{O}$  results in a decrease in the weight of the initial film, as characterized by TGA analysis up to  $300^{\circ}\mathrm{C}$  (Figure S1, see Supplementary Materials). The maximum rate of weight decrease is centered just above  $200^{\circ}\mathrm{C}$  and is related to evaporation of NMP which has a boiling point of  $202^{\circ}\mathrm{C}$ . A gradual and steady weight decrease is observed above this related to dehydration of the precursor.
+71: 
+72: In order to analyze the effect cure temperature has on the degree of imidization, ATR-FTIR analysis was performed. ATR-FTIR is a surface technique, therefore, to ensure the results were representative of the entire sample, twelve measurements were taken in total: six measurements from the top side and six from the bottom side of the layer (i.e., side that was directly contacted to the wafer during curing). The ATR-FTIR spectra of the PI films at each curing temperature are presented in Figure S2 in the Supplementary Materials. To determine the DOI, the ratio of the imide peak height at  $1370~\mathrm{cm}^{-1}$  to that at  $1500~\mathrm{cm}^{-1}$  was calculated at each cure temperature and normalized against the PI sample that exhibited maximum imidization according to Equation (1) [33].
+73: 
+74: The peak at  $1500\mathrm{cm}^{-1}$  corresponds to the aromatic ring and was chosen as the internal standard as it remains unchanged during the imidization process. In Equation (1), A represents the height of a specific absorption peak at either  $1370\mathrm{cm}^{-1}$  or  $1500\mathrm{cm}^{-1}$  of the PI films cured at a given temperature. A' represents the height of the same absorption peaks for the PI sample that demonstrated the maximal degree of imidization, which occurs at and above  $320^{\circ}\mathrm{C}$ .
+75: 
+76: $$
+77: \mathrm {D O I} = \frac {\mathrm {A} _ {1 3 7 0} / \mathrm {A} _ {1 5 0 0}}{\mathrm {A} _ {1 3 7 0} ^ {\prime} / \mathrm {A} _ {1 5 0 0} ^ {\prime}} \tag {1}
+78: $$
+79: 
+80: The average of DOI values as a function of the temperature are plotted in Figure 1c. The DOI increases with increasing cure temperature up to  $320^{\circ}\mathrm{C}$ , above which it reaches a plateau. There is no significant change in DOI above this temperature, with all values being within the margin of error at higher temperatures. Notably, at the two lowest cure temperatures (200 and  $220^{\circ}\mathrm{C}$ ), the DOI was considerably different on each side of the PI film (Figure S3, see Supplementary Materials). The side directly in contact with the wafer exhibited a much higher DOI compared to the top side (89.0% and 90.4% DOI for the side contacted to the wafer and 54.1% and 67.5% for the bottom side of films cured at  $200^{\circ}\mathrm{C}$  and  $220^{\circ}\mathrm{C}$ , respectively). This is evident from the ATR-FTIR spectra in Figure 1d, which reveals two additional peaks at  $1536~\mathrm{cm}^{-1}$  and  $1655~\mathrm{cm}^{-1}$  (associated with the amide on the under-cured sides (Figure S4, see Supplementary Materials)). This discrepancy is likely related to a more efficient transfer of heat from the substrate to the side of the film in contact with the wafer compared to the top side.
+81: 
+82: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+83: (a)
+84: 
+85: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+86: (b)
+87: 
+88: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+89: (c)
+90: 
+91: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+92: (d)  
+93: Figure 1. (a) Polyimide film peeled-off from an 8-inch wafer cured at  $240^{\circ}\mathrm{C}$ . (b) Synthesis steps of the PMDA/ODA PI. (c) Effect of curing temperature on the degree of imidization. (d) ATR-FTIR spectra for PI films cured at  $200^{\circ}\mathrm{C}$  (top and bottom sides).
+94: 
+95: To further probe the effect of cure temperature on the chemical structure of PI, XPS was performed to identify the chemical environments present in PI films cured at  $200^{\circ}\mathrm{C}$ ,  $280^{\circ}\mathrm{C}$  and  $380^{\circ}\mathrm{C}$ . High-resolution spectra of C 1s were deconvoluted into five peaks at binding energies  $\sim 284.8$ , 285.5, 286.5, 288.4 and 291 eV (Figure 2a). The peak at  $284.8\mathrm{eV}$  is assigned to  $\mathrm{C - C / C = C}$  hydrocarbon species including the aromatic rings present in the polyimide structure. The peak at  $285.5\mathrm{eV}$  is assigned to  $\mathrm{C - N}$  imide groups in the cured PI. The related nitrogen of  $\mathrm{C - N}$  is present as a single peak at  $400.2\mathrm{eV}$  in the  $\mathrm{N}1\mathrm{s}$  spectra (Figure S5, see Supplementary Materials). The peak at  $286.5\mathrm{eV}$  is characteristic of  $\mathrm{C - O}$  bonding present in the ODA unit of the PI. The peak component at  $288.3\mathrm{eV}$  is characteristic of the imide groups  $\mathrm{N - C = O}$  in the cured PI. Interestingly, the absence of a peak at  $289.5\mathrm{eV}$ , which is characteristic of the PDMA di-anhydride unit,  $\mathrm{O = C - O - C = O}$ , is indicative of a high degree of amidization of PI at least on the surface of the films. The presence of the aromatic
+96: 
+97: ring in the polyimide structure is further evidenced by the broad  $\pi$  to  $\pi^{*}$  satellite peaks at  $291\mathrm{eV}$ . As the curing temperature increased from  $200^{\circ}\mathrm{C}$  to  $380^{\circ}\mathrm{C}$ , the C-N component peak at  $285.5\mathrm{eV}$  (Figure 2a) and the related N peak at  $400.2\mathrm{eV}$  (Figure S6, Supplementary Materials) were both observed to increase from  $9.6\mathrm{at.}\%$  to  $13.7\mathrm{at.}\%$  and  $2.1\mathrm{at.}\%$  to  $3.9\mathrm{at.}\%$ , respectively. This result is in good agreement with the FTIR spectra, where the degree of imidization was observed to increase with the curing temperature (Figure 1a).
+98: 
+99: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+100: (a)
+101: 
+102: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+103: (b)  
+104: Figure 2. High-resolution XPS scans of (a) C 1s, (b) O 1s.
+105: 
+106: The deconvoluted O 1s spectra are shown in Figure 2b. The peaks at  $531.8\mathrm{eV}$  and  $533.3\mathrm{eV}$  are attributed to  $\mathrm{C = O}$  and  $\mathrm{C - O}$  bonding in the PMDA-ODA structure, respectively. Overall, oxygen concentration related to PMDA-ODA decreased from 22.1 atomic  $\%$  O at  $200^{\circ}\mathrm{C}$  to 17.5 atomic  $\%$  O at  $380^{\circ}\mathrm{C}$ , indicative of the removal of O as the degree of imidization increased.
+107: 
+108: To demonstrate the effect that cure temperature has on the physical appearance of the PI, a photograph of the PI films cured at each temperature is presented in Figure 3a. It was noted that the films appear darker in color compared to the commercially available Kapton films. It is known that the use of NMP as a solvent leads to darker PI films when compared to using DMAc or DMF [34]. This is most likely related to trace amounts of the oxidized solvent remaining in the film. As NMP was used in this study, this may be a contributing factor to making the films appear darker than commercially available films.
+109: 
+110: It is obvious from Figure 3a that there is a progressive darkening of the color shade of the films with increasing cure temperature going from pale yellow to black [35,36]. To quantify the color change, a histogram intensity of the grey values (the brightness) of a pixel of each film was calculated and displayed using ImageJ software (Figure S6, see Supplementary Materials) demonstrating that the intensity decreases with increasing temperature. It is posited that the darkening of the films with cure temperature is primarily due to enhanced CTC formation. Another factor that may have an effect is the presence of impurities (e.g., oxidized non-reacted diamines) [34]; however, for wholly aromatic polyimides such as PMDA-ODA, it is widely regarded that the coloration is predominantly related to increases in charge transfer interactions [37-43]. Since CTC formation increases with curing temperature, the color intensity increases concomitantly [44].
+111: 
+112: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+113: 
+114: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+115: 
+116: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+117: 
+118: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+119: 
+120: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+121: 
+122: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+123: 
+124: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+125: 
+126: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+127: 
+128: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+129: 
+130: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+131: rrnnnne nnnnne
+132: 
+133: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+134: (b)
+135: 
+136: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+137: 
+138: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+139: (d)
+140: 
+141: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+142: (c)  
+143: (e)
+144: 
+145: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+146: (f)  
+147: Figure 3. (a) Color shade of the PI films baked at different temperatures. (b) Transmittance in UV–vis spectroscopy of the PI films cured at different temperatures. (c) Cut-off wavelength for polyimide films. (d) Comparison between the transmittance at  $533\mathrm{nm}$  with the PI films thickness changes as a function of cure temperature. (e) Steady-state photoluminescence spectra with excitation wavelength of  $405\mathrm{nm}$  observed for PI films thermally cured at different temperatures. (f) Effect of cure temperature on the red-shift of the fluorescence spectrum of PMDA-ODA.
+148: 
+149: Spectroscopy has been used by researchers to track the optical properties of polyimide samples [45-47]. UV-Vis spectroscopy was employed here to determine the effect cure temperature has on the extent of CTC formation [48]. The UV-Vis spectra of the PI films cured at each temperature are shown in Figure 3b.
+150: 
+151: The transmittance decreases with increasing imidization temperature. PI films cured at  $360^{\circ}\mathrm{C}$  and  $380^{\circ}\mathrm{C}$  show lowest transmission in the wavelength range between  $400\mathrm{nm}$  and  $800\mathrm{nm}$ . As the CTC absorbs light [49], a low transmittance can be indicative of a high degree of CTC formation in the PI sample [50]. A high-cured temperature of the PI films is effective in increasing the extent of charge transfer complex formation between polyimide chains leading to a decrease in the intermolecular distance. The increased presence of oxidized impurities may also contribute to the reduction in transmittance as these will increase with curing temperature.
+152: 
+153: The cut-off wavelength is defined as the wavelength at which the transmittance is lower than  $1\%$  [51]. Figure 3c shows the plot of the cut-off wavelength as a function of curing temperature, the value of cut-off wavelength gradually increases from 378 to  $485~\mathrm{nm}$  with increasing the curing temperature from  $200^{\circ}\mathrm{C}$  to  $380^{\circ}\mathrm{C}$ . Since the CT interactions originate from the formation of charge transfer complex between alternating electron-donor (diamine) and electron-acceptor (dianhydride) (Figure S7, in the Supplementary Materials), PI cured at  $380^{\circ}\mathrm{C}$  will exhibit more CTC than film cured at  $200^{\circ}\mathrm{C}$  [52].
+154: 
+155: Mechanical profilometry was performed to analyze the extent to which the thickness of the PI film is affected by the cure temperature (Figure 3d) [53]. The thickness of the PI films decreased from 28.4 to  $21.1\mu \mathrm{m}$  when increasing the curing temperature from 200 to  $380^{\circ}\mathrm{C}$ , respectively. This corresponds to an overall shrinkage of  $26\%$  over the whole temperature range. It is posited that CTC formation plays an important role in this effect as the interaction between electron donor (diamine) and electron acceptor (dianhydride) decreases the intermolecular distance and promotes closer packing of the polymer chains. This interaction results in a decrease in the final thickness of film.
+156: 
+157: Figure 3e shows the changes of the photoluminescence (PL) spectra vs. the curing temperature. The PL spectra of the film reveal a peak at  $600\mathrm{nm}$  that increases simultaneously with curing temperature, showing that the formation of CTC structure occurs simultaneously with the progress of the imidization reaction [54-56]. A maximum intensity was observed for films cured between  $300^{\circ}\mathrm{C}$  and  $320^{\circ}\mathrm{C}$  corresponding to the maximum degree of imidization, a decrease in the intensity appears above this temperature, and could be explained by the formation of some quenchers at high temperature [55]. The plot of wavelength at maximum intensity vs. curing temperature exhibits a red shift with increasing curing temperature (Figure 3f). As described by Donghwan et al. in their study on the effect thermal imidization and curing has on the fluorescence behavior of a phenylethynyl-terminated poly(amic acid) [57], this red shift is most likely related to a decrease in the intermolecular distance due to enhanced CTC formation in the polymers cured at higher temperatures. This is in agreement with the conclusion we drew from the optical properties and UV-Vis spectra of the films investigated in this study.
+158: 
+159: Thermal properties are important for PI films as they are potentially used as high-performance and heat-resistant engineering plastics. DSC, DMTA and BDRS analysis was performed to study the thermal behavior of the films cured at each temperature. Figure 4a shows the  $\mathrm{T_g}$  for each sample as a function of curing temperature, calculated from the DSC curves (Figure S8, see Supplementary Materials), DMTA and BDRS. It was observed that the  $\mathrm{T_g}$  shifted to higher temperatures with increased curing temperature. The value of  $\mathrm{T_g}$  depends on the mobility of the polyimide chains and is dependent on the cooperative macroscopic macromolecular movements when the film enters the viscoelastic range. When used in a device, a higher  $\mathrm{T_g}$  facilitates a wider operating temperature range. The increase in  $\mathrm{T_g}$  observed is related to the increase in the extent of the CTC formation as this progressively increases the interchain interaction. This results in higher energy necessary for rotation and a higher heat capacity, and thus, higher  $\mathrm{T_g}$  values [58,59]. In addition to this, we observed a similarity in shape between the cut-off wavelength (Figure 3c) and  $\mathrm{T_g}$
+160: 
+161: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+162: (Figure 4a) for polyimide films, both increasing with curing temperature; this confirms that the improvement in glass temperature is the result of CTC formation.  
+163: (a)
+164: 
+165: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+166: (b)
+167: 
+168: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+169: (c)  
+170: Figure 4. (a) Comparison between  $\mathrm{T_g}$  obtained from DSC, DMTA (1 Hz) and BDRS (1 kHz). (b) CTE versus the cure temperature. (c) Mechanical storage modulus and (d) mechanical loss factor as a function of the measurement temperature and for the different cured films.
+171: 
+172: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+173: (d)
+174: 
+175: Figure 4b shows the effect of PI curing temperature on the CTE. The CTE decreases markedly when the curing temperature increases, dropping from  $34.4\mathrm{ppm} / {}^{\circ}\mathrm{C}$  to  $23.3\mathrm{ppm} / {}^{\circ}\mathrm{C}$  when cured from  $200~^\circ \mathrm{C}$  up to  $380~^\circ \mathrm{C}$ . This trend is in close agreement with the thickness changes depicted in Figure 4c and is a result of the denser molecular packing in the film [43].
+176: 
+177: DMTA measurements were used to characterize the thermo-mechanical properties of PI films (Young's modulus  $\mathrm{E'}$  and loss factor  $\tan \delta_{\mathrm{m}}$  for the different curing temperature conditions [60]. The maximum temperature prior to the sharp decrease in the Young's storage modulus  $\mathrm{E'}$  corresponds to DMTA  $\mathrm{T_g}$  values in Figure 4a [61,62]. Further analysis of the DMTA curves in Figure 4c shows that the magnitude of  $\mathrm{E'}$  gradually increases from 2.17 GPa to 4 GPa at room temperature with increasing PI curing temperature. In addition, the storage modulus exhibits a significant extension of the glassy plateau for the PI films cured at higher temperatures. Simultaneously, the plot of the mechanical loss factor,  $\tan \delta_{\mathrm{m}}$ , as a function of temperature shows a shift in the peak maxima with increasing PI cure temperature related to a shift in  $\mathrm{T_g}$  towards higher temperature (Figure 4d). This is partly due to an increase in DOI [16], with the increase in PI chain packing density being the major
+178: 
+179: contributing factor. This means that the mobility of the PI chains is restricted due to the interaction of adjacent molecules derived from the imidization process. It is worth noting that  $\mathrm{T_g}$  values determined from both  $\tan \delta_{\mathrm{m}}$  and through DSC measurements correlate quite well with each other (Figure 4a).
+180: 
+181: Furthermore, the magnitude of the mechanical  $\tan \delta_{\mathrm{m}}$  indicates the energy dissipation of a material during cyclic stress in DMTA testing. This is an indicator of a material's ability to absorb energy. A material is perfectly elastic if  $\tan \delta_{\mathrm{m}} = 0$ , perfectly viscous if  $\tan \delta_{\mathrm{m}}$  is infinite and equally elastic and viscous when  $\tan \delta_{\mathrm{m}} = 1$ . The  $\tan \delta_{\mathrm{m}}$  of the various PI films reaches a peak maximum around 0.59 at  $320^{\circ}\mathrm{C}$ . It suggests that the thermal imidization process increases the mechanical rigidity of the PI films. This restricts free movements of the molecular chains and makes them behave less elastically [63]. The previous observation of lower CTE values for the higher cured PI films are clearly related here to the higher values of  $\mathbf{E}^{\prime}$  in the rubbery state. Finally, it was observed for the films with a higher DOI that a higher thermal energy is required to develop the necessary macromolecular mobility to detect  $\mathrm{T_g}$ .
+182: 
+183: The dielectric and electrical properties of PI films, such as for the mechanical, optical, and thermal properties, are directly related to the chemical structure of the PI backbone. From the previous characterization, one could expect that PI films cured at the highest temperature should present fewer losses and a higher breakdown threshold due to the lower impurity density in bulk (e.g., less ionizable COOH groups releasing free  $\mathrm{H^{+}}$  protons) and higher chain packing. Figure 5 shows the temperature dependence of both the permittivity (a) and dielectric factor loss  $\tan \delta_{\mathrm{d}}$  (b) for the different PI films measured at  $1\mathrm{kHz}$ . The permittivity  $\varepsilon^{\prime}$  and loss factor  $\tan \delta_{\mathrm{d}}$  present a first relaxation phenomenon occurring between 0 and  $150^{\circ}\mathrm{C}$  well-known as the  $\beta$ -relaxation [64]. The  $\beta$ -relaxation corresponds to a sub-glass transition local dipolar relaxation mode due to imide group movements coming either from the dianhydride moiety or to rotations of the para-phenylene moieties in the diamine part. It is noteworthy that the increase in the PI cure temperature gives a mitigation of the  $\beta$ -relaxation magnitude. Moreover, a second relaxation of higher magnitude, that occurs above  $170^{\circ}\mathrm{C}$  and is a result of a combination between the  $\alpha$ -relaxation and the charge conduction due to  $\mathrm{T_g}$ , appeared to be widely affected by the PI curing temperature. This relaxation, on both  $\varepsilon^{\prime}$  and  $\tan \delta_{\mathrm{d}}$ , remarkably shifts to a higher temperature when the PI curing temperature increases from  $200^{\circ}\mathrm{C}$  up to  $380^{\circ}\mathrm{C}$ .
+184: 
+185: Higher electric field characterizations were used to determine the electrical properties when the PI films are highly stressed closer to real applicative operating conditions. Consequently, CC measurements have been performed up to  $350\mathrm{V} / \mu \mathrm{m}$  to extract the field-dependency of the DC conductivity  $\sigma_{\mathrm{DC}}$ , as shown in Figure 5c. The conductivity  $\sigma_{\mathrm{DC}}$  is poorly dispersed with very low values between  $10^{-16}$  and  $10^{-15}\Omega^{-1}\mathrm{m}^{-1}$  at low field up to  $100\mathrm{V} / \mu \mathrm{m}$  whatever the curing temperature confirming the dielectric properties. At higher field,  $\sigma_{\mathrm{DC}}$  shows a slight divergence between the different curing conditions. The charge density (and/or their mobility) can be strongly reduced by increasing imidization temperature for PMDA/ODA PI films. Earlier, Diaham et al. have reported on a  $400^{\circ}\mathrm{C}$  optimal imidization temperature in the case of BPDA/PDA PI [65], where CTC has less effect. In the present PMDA/ODA PI films, from  $340^{\circ}\mathrm{C}$  the conductivity increases again (Figure 5c). This tendency highlights a detrimental effect of the PI chain packing on the high electric field characteristics. XRD analysis revealed that the films have a low degree of crystallinity (Figure S9), demonstrating that the higher chain packing density in the PMDA/ODA PI films does not result in a crystallization of the molecular structure. Therefore, the higher chain packing density does not bring similar beneficial electrical effects such as in semicrystalline polymers [66,67]. The CTC formation could give rise to an extension of charge density in the PI bulk when cured at too high a temperature. Such a drawback can be easily mitigated when the PI films are cured at a lower temperature. On the contrary, an under-cure of PI films favors a non-complete imidization process that leads to the residual presence of ionizable PAA impurities and giving high conductivity values under high field.
+186: 
+187: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+188: 
+189: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+190: (b)
+191: 
+192: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+193: (a)  
+194: (c)  
+195: Figure 5. (a) Dielectric permittivity and (b) dielectric loss factor at  $1\mathrm{kHz}$  vs. temperature. (c) DC conductivity vs. electric field for different PI imidization temperatures. (d) Dielectric breakdown field of PI films vs. imidization temperature.
+196: 
+197: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+198: (d)
+199: 
+200: Finally, the breakdown field is one of the most important parameters that characterizes the electrical properties of insulating materials. The changes in the AC dielectric breakdown field  $(\mathrm{E}_{\mathrm{BR}})$  as a function of the imidization temperature are shown in Figure 5d. The evolution of  $\mathrm{E}_{\mathrm{BR}}$  with the curing temperature clearly reveals a continuous improvement going to higher curing temperature. At lower curing temperatures, the breakdown field collapses due to a low DOI.

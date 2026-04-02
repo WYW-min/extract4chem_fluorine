@@ -1,0 +1,75 @@
+source_file: Polyimide-Coated Glass Microfiber as Polysulfide Perm-Selective Separator for High-Performance Lithium-Sulphur.md
+doc_id: ef18be836c8f3be7e19f16513d3e1978
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [217, 275]
+char_span: [41617, 52469]
+line_count: 59
+effective_body_non_empty_lines: 53
+
+lines:
+--- chunk (b0006: References) ---
+217: # References
+218: 
+219: 1. Suberu, M.Y.; Mustafa, M.W.; Bashir, N. Energy storage systems for renewable energy power sector integration and mitigation of intermittency. Renew. Sustain. Energy Rev. 2014, 35, 499-514. [CrossRef]  
+220: 2. Panwar, N.L.; Kaushik, S.C.; Kothari, S. Role of renewable energy sources in environmental protection: A review. Renew. Sustain. Energy Rev. 2011, 15, 1513-1524. [CrossRef]  
+221: 3. Divya, K.C.; Ostergaard, J. Battery energy storage technology for power systems—An overview. Electr. Power Syst. Res. 2009, 79, 511-520. [CrossRef]  
+222: 4. Koppelaar, R.H.E.M.; Keirstead, J.; Shah, N.; Woods, J. A review of policy analysis purpose and capabilities of electricity system models. Renew. Sustain. Energy Rev. 2016, 59, 1531-1544. [CrossRef]  
+223: 5. Tarascon, J.M.; Armand, M. Issues and challenges facing rechargeable lithium batteries. Nature 2001, 414, 359-367. [CrossRef]  
+224: 6. Reddy, M.V.; Rao, G.V.S.; Chowdari, B.V.R. Metal Oxides and Oxysalts as Anode Materials for Li Ion Batteries. Chem. Rev. 2013, 113, 5364-5457. [CrossRef]  
+225: 7. Xielei, J.; Kyu Tae, L.; Nazar, L.F. A highly ordered nanostructured carbon-sulphur cathode for lithium-sulphur batteries. Nat. Mater. 2009, 500-506.  
+226: 8. Cunningham, P.T.; Cairns, E.J.; Johnson, S.A. Phase Equilibria in Lithium-Chalcogen Systems II. Lithium-Sulfur. J. Electrochem. Soc. 1972, 119, 1448-1450. [CrossRef]  
+227: 9. Worthington, M.J.H.; Kucera, R.L.; Chalker, J.M. Green chemistry and polymers made from sulfur. *Green Chem.* 2017, 19, 2748-2761. [CrossRef]  
+228: 10. Jiulin, W.; Jun, Y.; Chunrong, W.; Ke, D.; Jingying, X.; Naixin, X. Sulfur composite cathode materials for rechargeable lithium batteries. Adv. Funct. Mater. 2003, 13, 487-492.  
+229: 11. Hagen, M.; Hanselmann, D.; Ahlbrecht, K.; Maca, R.; Gerber, D.; Tubke, J. Lithium-Sulfur Cells: The Gap between the State-of-the-Art and the Requirements for High Energy Battery Cells. Adv. Energy Mater. 2015, 5, 1401986. [CrossRef]  
+230: 12. Liang, C.D.; Dudney, N.J.; Howe, J.Y. Hierarchically Structured Sulfur/Carbon Nanocomposite Material for High-Energy Lithium Battery. Chem. Mater. 2009, 21, 4724-4730. [CrossRef]  
+231: 13. Yang, Y.; Yu, G.H.; Cha, J.J.; Wu, H.; Vosgueritchian, M.; Yao, Y.; Bao, Z.A.; Cui, Y. Improving the Performance of Lithium-Sulfur Batteries by Conductive Polymer Coating. ACS Nano 2011, 5, 9187-9193. [CrossRef]  
+232: 14. Wang, H.; Yang, Y.; Liang, Y.; Robinson, J.T.; Li, Y.; Jackson, A.; Cui, Y.; Dai, H. Graphene-Wrapped Sulfur Particles as a Rechargeable Lithium-Sulfur Battery Cathode Material with High Capacity and Cycling Stability. Nano Lett. 2011, 11, 2644-2647. [CrossRef]  
+233: 15. Li, D.; Han, F.; Wang, S.; Cheng, F.; Sun, Q.; Li, W.-C. High Sulfur Loading Cathodes Fabricated Using Peapodlike, Large Pore Volume Mesoporous Carbon for Lithium-Sulfur Battery. ACS Appl. Mater. Interfaces 2013, 5, 2208-2213. [CrossRef]  
+234: 16. Hassoun, J.; Scrosati, B. Moving to a Solid-State Configuration: A Valid Approach to Making Lithium-Sulfur Batteries Viable for Practical Applications. Adv. Mater. 2010, 22, 5198-5201. [CrossRef]  
+235: 17. Zhang, S.; Ueno, K.; Dokko, K.; Watanabe, M. Recent Advances in Electrolytes for Lithium-Sulfur Batteries. Adv. Energy Mater. 2015, 5, 1500117. [CrossRef]  
+236: 18. Seh, Z.W.; Zhang, Q.F.; Li, W.Y.; Zheng, G.Y.; Yao, H.B.; Cui, Y. Stable cycling of lithium sulfide cathodes through strong affinity with a bifunctional binder. Chem. Sci. 2013, 4, 3673-3677. [CrossRef]  
+237: 19. Liu, M.; Ren, Y.X.; Zhou, D.; Jiang, H.R.; Kang, F.Y.; Zhao, T. A Lithium/Polysulfide Battery with Dual-Working Mode Enabled by Liquid Fuel and Acrylate-Based Gel Polymer Electrolyte. ACS Appl. Mater. Interfaces 2017, 9, 2526-2534. [CrossRef]  
+238: 20. Yang, Y.; Zheng, G.Y.; Cui, Y. A membrane-free lithium/polysulfide semi-liquid battery for large-scale energy storage. Energy Environ. Sci. 2013, 6, 1552–1558. [CrossRef]  
+239: 21. Green, J. The Flame Retardation of Polyolefins. In Flame—Retardant Polymeric Materials; Lewin, M., Atlas, S.M., Pearce, E.M., Eds.; Springer: New York, NY, USA; Boston, MA, USA, 1982; Volume 3, pp. 1-37.
+240: 
+241: 22. Yu, L.; Miao, J.; Jin, Y.; Lin, J.Y.S. A comparative study on polypropylene separators coated with different inorganic materials for lithium-ion batteries. Front. Chem. Sci. Eng. 2017, 11, 346-352. [CrossRef]  
+242: 23. Famprikis, T.; Canepa, P.; Dawson, J.A.; Islam, M.S.; Masquelier, C. Fundamentals of inorganic solid-state electrolytes for batteries. Nat. Mater. 2019. [CrossRef]  
+243: 24. Umeshbabu, E.; Zheng, B.; Yang, Y. Recent Progress in All-Solid-State Lithium-Sulfur Batteries Using High Li-Ion Conductive Solid Electrolytes. Electrochem. Energy Rev. 2019, 2, 199-230. [CrossRef]  
+244: 25. Song, J.-Y.; Lee, H.-H.; Hong, W.; Huh, Y.; Lee, Y.; Kim, H.; Jun, Y.-S. A Polysulfide-Infiltrated Carbon Cloth Cathode for High-Performance Flexible Lithium-Sulfur Batteries. Nanomaterials 2018, 8, 90. [CrossRef]  
+245: 26. Kirchhöfer, M.; Von Zamory, J.; Paillard, E.; Passerini, S. Separators for Li-Ion and Li-Metal Battery Including Ionic Liquid Based Electrolytes Based on the TFSI- and FSI- Anions. Int. J. Mol. Sci. 2014, 15, 14868–14890. [CrossRef]  
+246: 27. Yang, J.; Lee, M.H. A water-soluble polyimide precursor: Synthesis and characterization of poly (amic acid) salt. Macroml. Res. 2004, 12, 263-268. [CrossRef]  
+247: 28. Sun, G.H.; Dong, G.Q.; Kong, L.S.; Yan, X.N.; Tian, G.F.; Qi, S.L.; Wu, D.Z. Robust polyimide nanofibrous membrane with porous-layer-coated morphology by in situ self-bonding and micro-crosslinking for lithium-ion battery separator. Nanoscale 2018, 10, 22439-22447. [CrossRef]  
+248: 29. Jun, Y.S.; Hong, W.H.; Antonietti, M.; Thomas, A. Mesoporous, 2D Hexagonal Carbon Nitride and Titanium Nitride/Carbon Composites. Adv. Mater. 2009, 21, 4270-4274. [CrossRef]  
+249: 30. Chen, X.F.; Jun, Y.S.; Takanabe, K.; Maeda, K.; Domen, K.; Fu, X.Z.; Antonietti, M.; Wang, X.C. Ordered Mesoporous SBA-15 Type Graphitic Carbon Nitride: A Semiconductor Host Structure for Photocatalytic Hydrogen Evolution with Visible Light. Chem. Mater. 2009, 21, 4093–4095. [CrossRef]  
+250: 31. Yang, S.-Y.; Yuan, L.-L. Chapter 1—Advanced Polyimide Films. In Advanced Polyimide Materials; Yang, S.-Y., Ed.; Elsevier: Amsterdam, The Netherlands, 2018; pp. 1-66.  
+251: 32. Wang, L.; Deng, N.P.; Fan, L.L.; Wang, L.Y.; Wang, G.; Kang, W.M.; Cheng, B.W. A novel hot-pressed electrospun polyimide separator for lithium-sulfur batteries. Mater. Lett. 2018, 233, 224-227. [CrossRef]  
+252: 33. Li, J.; Luo, K.J.; Yu, J.R.; Wang, Y.; Zhu, J.; Hu, Z.M. Promising Free-Standing Polyimide Membrane via Solution Blow Spinning for High Performance Lithium-Ion Batteries. Ind. Eng. Chem. Res. 2018, 57, 12296-12305. [CrossRef]  
+253: 34. Xiu, T.P.; Liu, Q.; Wang, J.C. Alkali-free borosilicate glasses with wormhole-like mesopores. J. Mater. Chem. 2006, 16, 4022-4024. [CrossRef]  
+254: 35. Wang, J.C.; Liu, Q. Mesoporous silicon oxynitride thin films. Chem. Commun. 2006, 8, 900-902. [CrossRef] [PubMed]  
+255: 36. Wu, D.S.; Shi, F.; Zhou, G.; Zu, C.; Liu, C.; Liu, K.; Wang, J.; Peng, Y.; Cui, Y. Quantitative investigation of polysulfide adsorption capability of candidate materials for Li-S batteries. Energy Storage Mater. 2018, 13, 241-246. [CrossRef]  
+256: 37. Xia, Y.; Fang, R.; Xiao, Z.; Huang, H.; Gan, Y.; Yan, R.; Lu, X.; Liang, C.; Zhang, J.; Tao, X.; et al. Confining Sulfur in N-Doped Porous Carbon Microspheres Derived from Microalgaes for Advanced Lithium-Sulfur Batteries. ACS Appl. Mater. Interfaces 2017, 9, 23782-23791. [CrossRef] [PubMed]  
+257: 38. Zou, Q.L.; Lu, Y.C. Solvent-Dictated Lithium Sulfur Redox Reactions: An Operando UV-vis Spectroscopic Study. J. Phys. Chem. Lett. 2016, 7, 1518-1525. [CrossRef]  
+258: 39. Wu, H.P.; Yang, Q.; Meng, Q.H.; Ahmad, A.; Zhang, M.; Zhu, L.Y.; Liu, Y.G.; Wei, Z.X. A polyimide derivative containing different carbonyl groups for flexible lithium ion batteries. J. Mater. Chem. A 2016, 4, 2115-2121. [CrossRef]  
+259: 40. Ji, X.L.; Evers, S.; Black, R.; Nazar, L.F. Stabilizing lithium-sulphur cathodes using polysulphide reservoirs. Nat. Commun. 2011, 2, 325. [CrossRef]  
+260: 41. Demir-Cakan, R.; Morcette, M.; Nouar, F.; Davoisne, C.; Devic, T.; Gonbeau, D.; Dominko, R.; Serre, C.; Ferey, G.; Tarascon, J.M. Cathode Composites for Li-S Batteries via the Use of Oxygenated Porous Architectures. J. Am. Chem. Soc. 2011, 133, 16154-16160. [CrossRef]  
+261: 42. Sahore, R.; Levin, B.D.A.; Pan, M.; Muller, D.A.; DiSalvo, F.J.; Gianielis, E.P. Design Principles for Optimum Performance of Porous Carbons in Lithium-Sulfur Batteries. Adv. Energy Mater. 2016, 6, 1600134. [CrossRef]  
+262: 43. Zheng, S.Y.; Yi, F.; Li, Z.P.; Zhu, Y.J.; Xu, Y.H.; Luo, C.; Yang, J.H.; Wang, C.S. Copper-Stabilized Sulfur-Microporous Carbon Cathodes for Li-S Batteries. Adv. Funct. Mater. 2014, 24, 4156-4163. [CrossRef]
+263: 
+264: 44. Lee, H.; Yanilmaz, M.; Toprakci, O.; Fu, K.; Zhang, X. A review of recent developments in membrane separators for rechargeable lithium-ion batteries. Energy Environ. Sci. 2014, 7, 3857-3886. [CrossRef]  
+265: 45. Zhang, R.; Chen, X.-R.; Chen, X.; Cheng, X.-B.; Zhang, X.-Q.; Yan, C.; Zhang, Q. Lithiophilic Sites in Doped Graphene Guide Uniform Lithium Nucleation for Dendrite-Free Lithium Metal Anodes. Angew. Chem. Int. Ed. 2017, 56, 7764-7768. [CrossRef] [PubMed]  
+266: 46. Kalantarian, M.M.; Asgari, S.; Mustarelli, P. A theoretical approach to evaluate the rate capability of Li-ion battery cathode materials. J. Mater. Chem. A 2014, 2, 107-115. [CrossRef]  
+267: 47. Caimi, S.; Klaue, A.; Wu, H.; Morbidelli, M. Effect of  $\mathrm{SiO}_2$  Nanoparticles on the Performance of PVdF-HFP/Ionic Liquid Separator for Lithium-Ion Batteries. Nanomaterials 2018, 8, 926. [CrossRef] [PubMed]  
+268: 48. Kong, L.; Fu, X.; Fan, X.; Wang, Y.; Qi, S.; Wu, D.; Tian, G.; Zhong, W.-H. A Janus nanofiber-based separator for trapping polysulfides and facilitating ion-transport in lithium-sulfur batteries. Nanoscale 2019, 11, 18090-18098. [CrossRef]  
+269: 49. Wang, Y.; Zhang, Z.; Haibara, M.; Sun, D.; Ma, X.; Jin, Y.; Munakata, H.; Kanamura, K. Reduced Polysulfide Shuttle Effect by Using Polyimide Separators with Ionic Liquid-based Electrolytes in Lithium-Sulfur Battery. Electrochim. Acta 2017, 255, 109-117. [CrossRef]  
+270: 50. Yun, J.H.; Kim, J.-H.; Kim, D.K.; Lee, H.-W. Suppressing Polysulfide Dissolution via Cohesive Forces by Interwoven Carbon Nanofibers for High-Areal-Capacity Lithium-Sulfur Batteries. Nano Lett. 2018, 18, 475-481. [CrossRef]  
+271: 51. Zheng, M.; Hu, Q.; Zhang, S.; Tang, H.; Li, L.; Pang, H. Macroporous Activated Carbon Derived from Rapeseed Shell for Lithium-Sulfur Batteries. Appl. Sci. 2017, 7, 1036. [CrossRef]
+272: 
+273: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+274: 
+275: © 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

@@ -1,0 +1,21 @@
+source_file: High performance polyimide films containing benzimidazole moieties for thin film solar cells.md
+doc_id: 94e4f472b87b176909aab79040a1b019
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4 Conclusions
+line_span: [131, 137]
+char_span: [26624, 28382]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0005: 4 Conclusions) ---
+131: # 4 Conclusions
+132: 
+133: To improve the performances of the PI films used as flexible substrate for solar cell and high frequency communication applications, a copolymerization method by introducing a third rigid component DATFPBI has been studied. It is found that the imidization procedure and the heating rate are crucial for the properties of the BPDA/PPD-DATFPBI films. The best heat treatment process to prepare BPDA/PPD-DATFPBI polyimide film is a four-step heat treatment. We find that  $\mathrm{T_g}$  of the PI films increases from 345 to  $392^{\circ}\mathrm{C}$  when the DATFPBI content is up to  $20\%$ . The tensile modulus and strength of the copolymer film are also reinforced greatly when the content of rigid DATFPBI component is increased to  $15\%$ . Additionally, the hygroscopicity, dimensional stability and electrical property of the PI films are improved slightly. The optimized content of the rigid DATFPBI component in the PI films is found to be  $15\%$  (PIPBI $_d$ ), for which the prepared materials show performance of  $\mathrm{T_g}$  at  $368^{\circ}\mathrm{C}$ , a tensile modulus of  $6.8\mathrm{GPa}$ , a CTE of  $16.8\mathrm{ppm / K}$ , a moisture absorption of 1.42 and an initial  $\mathrm{T_d}$  of  $524^{\circ}\mathrm{C}$ . To summarize, the overall performance of the PI films has been improved significantly by adding the rigid DATFPBI, which can be a potential candidate for the flexible substrates of solar cell process.
+134: 
+135: Acknowledgements: The work was supported by the ShenzhenBasicResearchGrantno.JCYJ20170818114324998, the Key Characteristic and Innovative Scientific Research Project of Guangdong Provincial Education Department no. 2017GKTSCX080, and the Major Social Welfare Project of Zhongshan No. 2018B1020.

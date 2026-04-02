@@ -1,0 +1,19 @@
+source_file: Fiber Reinforced Polyimide Aerogel Composites with High Mechanical Strength for High Temperature Insulation.md
+doc_id: 1871f3aecf6ef7f359f2feb0426ee386
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusion
+line_span: [198, 202]
+char_span: [30265, 31200]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0005: 4. Conclusion) ---
+198: # 4. Conclusion
+199: 
+200: Novel lightweight mechanically resistant composites have been fabricated using glass fiber as a 3D reinforcement for PI aerogels to produce materials with a porous polymeric matrix. Conventional expensive chemical cross-linking agents have been replaced with porous glass fiber which acts as a skeleton for the aerogel to suppress collapse and shrinkage during the composite preparation process. The resultant GF/PI composites exhibit low density (0.143 to  $0.177\mathrm{gcm}^{-3}$ ) and high compressive strengths, as well as excellent thermal stability and low thermal conductivity (0.023 to  $0.029\mathrm{Wm}^{-1}\mathrm{K}^{-1}$  at room temperature and 0.057 to  $0.082\mathrm{Wm}^{-1}\mathrm{K}^{-1}$  at  $500^{\circ}\mathrm{C}$ ) values. These properties are highly promising for the development of lightweight and high-mechanical-strength PI composites for use in high temperature insulation applications.

@@ -2,4 +2,5 @@
 !.pixi/config.toml
 
 data/*
-客户反馈
+
+!data/demo

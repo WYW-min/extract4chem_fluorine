@@ -1,0 +1,25 @@
+source_file: Mass-Synthesized Solution-Processable Polyimide Gate Dielectrics for Electrically Stable Operating OFETs and I.md
+doc_id: a809d2bf210d4f02052e331d2b4c98a0
+chunk_index: 2
+block_id: b0003
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [47, 57]
+char_span: [3915, 7038]
+line_count: 9
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0003: 1. Introduction) ---
+47: # 1. Introduction
+48: 
+49: Polymeric dielectrics are regarded as key components in the realization of organic electronics for the fabrication of scalable device arrays and integrated circuits [1,2]. Compared with conventional inorganic-based dielectric materials employed in the modern electronic industry, polymeric dielectrics are capable of providing excellent mechanical flexibility, good solution processability, and better compatibility with various types of substrates and organic channel materials [3,4]. Additionally, interface engineering with polymeric dielectrics, such as surface treatment on inorganic insulators, can offer potential capabilities for optimizing the molecular arrangements of organic semiconductors and trap-free interfaces for efficient charge transport, [2,5,6] influencing their compatibility with microfabrication technologies for highly integrated practical applications [5,7].
+50: 
+51: Indeed, various polymeric materials, including poly(methyl methacrylate), [8,9] polystyrene, [10] polyimide (PI), [7] and poly(4-vinylphenol) [11] have been utilized as
+52: 
+53: gate dielectrics in organic field-effect transistors (OFETs) and integrated circuits. Among them, PIs are flexible, lightweight, endurable to thermal and chemical stress, [12] and have become promising candidates as gate dielectrics with good feasibility in the manufacture of organic electronics [7,13]. In particular, various types of PIs can be produced by the addition of various types of monomers and polymerization systems [14]. The first polyimide of significant commercial importance 'Kapton' was pioneered in the 1950s by workers at Dupont, who developed a successful route for the synthesis of high-molecular-weight PI involving a soluble polymer precursor (poly(amic acid) (PAA)) [15]. To date, this route continues to be the main route for the production of most PIs, enabling mass production. In this respect, PIs with these systems can be considered as the most promising materials for realizing a solution-processable organic electronic industry.
+54: 
+55: In this work, we synthesized mass-produced solution-processable conventional PAA (soluble PI precursor) through the factory method, and fabricated PI thin films through the imidization of PAA solution for polymeric dielectric layers of OFETs. To confirm the suitability of the fabricated PI films as gate dielectrics of OFETs, various characteristics, including surface roughness, dielectric constant (k), and leakage current properties were identified. Through these analyses, our fabricated PI films could reliably compensate for the electrically stable operation of OFETs under bias stress, showing a threshold voltage  $(\mathrm{V_{th}})$  shift of less than  $1\mathrm{V}$ . In addition, we demonstrated the potential of our coated PI layers in practical gate dielectrics for organic electronics by manufacturing integrated logic circuits. We expect that this study shows that many types of PIs reported so far have the potential to be industrially produced and used in device fabrication, and suggests a future direction for practical organic electronics in industrialization.

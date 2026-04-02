@@ -1,0 +1,145 @@
+[section_titles]
+method = [
+  "METHODS",
+  "MATERIALS AND METHODS",
+  "EXPERIMENTAL",
+  "EXPERIMENT",
+  "MATERIALS"
+]
+support = [
+  "RESULTS",
+  "DISCUSSION",
+  "RESULTS AND DISCUSSION",
+  "RESULTS AND DISCUSSIONS"
+]
+ignore = [
+  "REFERENCES",
+  "SUPPLEMENTARY",
+  "SUPPORTING",
+  "ACKNOWLEDG",
+  "AUTHOR CONTRIBUT",
+  "CONFLICT"
+]
+
+[segment_title_patterns]
+include = [
+  "materials?",
+  "chemicals?",
+  "reagents?",
+  "synthe(?:sis|tic procedures?)",
+  "preparation",
+  "fabrication",
+  "printing",
+  "imidization",
+  "drying",
+  "freeze[-\\s]?drying",
+  "curing",
+  "doping",
+  "substrate preparation",
+  "solution preparation",
+  "ink preparation"
+]
+exclude = [
+  "characterization",
+  "rheological",
+  "evaluation",
+  "performance",
+  "analysis",
+  "test",
+  "testing",
+  "property",
+  "properties"
+]
+
+[segment_title_contains]
+include = [
+  "material",
+  "chemical",
+  "reagent",
+  "synthesis",
+  "synthetic",
+  "procedure",
+  "preparation",
+  "fabrication",
+  "printing",
+  "imidization",
+  "drying",
+  "freeze-drying",
+  "freeze drying",
+  "curing",
+  "doping",
+  "substrate",
+  "solution",
+  "ink"
+]
+exclude = [
+  "characterization",
+  "rheological",
+  "evaluation",
+  "performance",
+  "analysis",
+  "test",
+  "testing",
+  "property",
+  "properties"
+]
+
+[keywords]
+actions = [
+  "\\bwas prepared\\b",
+  "\\bwere prepared\\b",
+  "\\bwas synthesized\\b",
+  "\\bwere synthesized\\b",
+  "\\bwas fabricated\\b",
+  "\\bwere fabricated\\b",
+  "\\bwas obtained\\b",
+  "\\bwere obtained\\b",
+  "\\bwas formed\\b",
+  "\\bwere formed\\b",
+  "\\bto form\\b",
+  "\\bto prepare\\b",
+  "\\bto obtain\\b",
+  "\\badd(?:ed|ing)?\\b",
+  "\\bmix(?:ed|ing)?\\b",
+  "\\bdissolv(?:ed|ing)\\b",
+  "\\bstirr(?:ed|ing)\\b",
+  "\\bsonicat(?:ed|ion|ing)\\b",
+  "\\bpour(?:ed|ing)?\\b",
+  "\\bprecipitat(?:ed|ion|ing)\\b",
+  "\\bfilter(?:ed|ing)\\b",
+  "\\bwash(?:ed|ing)\\b",
+  "\\bdry(?:ing)?\\b",
+  "\\bfreeze[-\\s]?dry(?:ing)?\\b",
+  "\\bheat(?:ed|ing)?\\b",
+  "\\breflux(?:ed|ing)?\\b",
+  "\\bcentrifug(?:ed|ing)\\b",
+  "\\bimidi[sz](?:ed|ation|ing)\\b",
+  "\\bcure(?:d|ing)?\\b",
+  "\\bprint(?:ed|ing)?\\b",
+  "\\bextrud(?:ed|ing)\\b",
+  "\\bcast(?:ing)?\\b",
+  "\\bcoat(?:ed|ing)?\\b",
+  "\\bdop(?:ed|ing)\\b"
+]
+materials = [
+  "\\bmaterials?\\b",
+  "\\bchemicals?\\b",
+  "\\breagents?\\b"
+]
+support = [
+  "\\bscheme\\b",
+  "\\bmechanism\\b",
+  "\\bsynthe(?:sis|tic)\\b",
+  "\\bprepared\\b",
+  "\\bfabricated\\b",
+  "\\bformed\\b",
+  "\\bobtained\\b"
+]
+
+[form_group_upstream_preferences]
+PorousBody = ["PorousBody", "PrecursorFluid", "Powder", "Solid"]
+ThinLayer = ["ThinLayer", "SupportedNode", "PrecursorFluid", "Solution", "Solid"]
+PrecursorFluid = ["PrecursorFluid", "Powder", "Solid"]
+SupportedNode = ["SupportedNode", "ThinLayer", "Solid", "Solution"]
+Powder = ["Powder", "Solution", "Solid"]
+Solid = ["Solid", "Solution", "Powder", "PrecursorFluid", "ThinLayer"]

@@ -1,0 +1,40 @@
+source_file: Mixed Rigid and Flexible Component Design for High-Performance Polyimide Films.md
+doc_id: fccc26fc991bc38c4a2573b2131f2453
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Mixed Rigid and Flexible Component Design for High-Performance Polyimide Films
+line_span: [1, 26]
+char_span: [0, 2231]
+line_count: 24
+effective_body_non_empty_lines: 14
+
+lines:
+--- chunk (b0001: Mixed Rigid and Flexible Component Design for High-Performance Polyimide Films) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2017, 9, 451; doi:10.3390/polym9090451
+5: www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Mixed Rigid and Flexible Component Design for High-Performance Polyimide Films
+11: 
+12: Xiaohui Yu, Weihua Liang, Jianhua Cao and Dayong Wu*
+13: 
+14: Technical Institute of Physics and Chemistry, Chinese Academy of Sciences, Beijing 100190, China;
+15: 
+16: xhyu@mail.ipc.ac.cn (X.Y.); lwh@mail.ipc.ac.cn (W.L.); caojh@mail.ipc.ac.cn (J.C.)
+17: 
+18: * Correspondence: dayongwu@mail.ipc.ac.cn; Tel.: +86-010-82543772
+19: 
+20: Received: 25 July 2017; Accepted: 14 September 2017; Published: 15 September 2017
+21: 
+22: Abstract: To develop the polyimide (PI) which is closely matched to the coefficient of the thermal expansion (CTE) of copper, a series of PIs are prepared from  $5,4^{\prime}$ -diamino-2-phenyl benzimidazole (DAPBI),  $4,4^{\prime}$ -diaminodiphenyl ether (ODA), and  $3,3^{\prime},4,4^{\prime}$ -benzophenonetetracarboxylic dianhydride (BTDA) using a sequential copolymerization, blade coating, and thermal imidization process. The physical properties of the PIs are effectively regulated and optimized by adjusting the ratio of the rigid DAPBI and flexible ODA components. By increasing the DAPBI content, thermal stability, dimensional stability, and mechanical properties, the resultant polymer is enhanced. PI-80 exhibits an excellent comprehensive performance, a glass transition temperature of  $370^{\circ}\mathrm{C}$ , and a tensile strength of  $210\mathrm{MPa}$ . Furthermore, the CTE as calculated in the range  $50 - 250^{\circ}\mathrm{C}$  is ca.  $19\mathrm{ppm / K}$ , which is equal to that of copper. A highly dimensionally stable, curl-free, and high T-style peel strength  $(6.4\mathrm{N / cm})$  of copper/PI laminate was obtained by casting the polyamic acid onto copper foil  $(13\mu \mathrm{m})$  and thermally curing at  $360^{\circ}\mathrm{C}$ , which indicates that it has the potential to be applied as an electronic film for flexible displays and flexible printed circuit boards. A structural rationalization for these remarkable properties is also presented.
+23: 
+24: Keywords: polyimide film; linear coefficient of thermal expansion (CTE); copper clad laminate; structure and properties

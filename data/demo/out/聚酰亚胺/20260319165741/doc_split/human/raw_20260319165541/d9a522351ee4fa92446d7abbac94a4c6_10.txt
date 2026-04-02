@@ -1,0 +1,19 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 10
+block_id: b0011
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Conclusions
+line_span: [159, 163]
+char_span: [18937, 19939]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0011: Conclusions) ---
+159: # Conclusions
+160: 
+161: Commercial PI nonwoven fabric filters were coated with PI nanofibers by electrospinning PAA solution followed by a thermal imidization process. PAA solutions were synthesized by polycondensation of PMDA and ODA. The resultant electrospun PI nanofibers showed a high thermal stability with an initial decomposition temperature of  $532^{\circ}\mathrm{C}$ . They also displayed a variety of morphologies due to the difference in the viscosities of their corresponding precursor PAA solution. As the viscosity of spinning solution increased, beads with diameters of  $2 - 3\mu \mathrm{m}$  were changed to  $300 - 500\mathrm{nm}$  of nanofibers. The air filtration properties depended on the pore size and distribution. Nanofibers coating decreased the pore dimension and also increased the portion of small pores. It improved the PM2.5 removal efficiency that was increased from 81.4 to  $97.2\%$ . However, this coating did not lead to significant changes in pressure drop over filters.

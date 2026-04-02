@@ -1,0 +1,31 @@
+source_file: Comparative Studies of CPEs Modified with Distinctive Metal Nanoparticle-Decorated Electroactive Polyimide for.md
+doc_id: fe2f2e6e3b8ac66d0f7b7c32853d06a1
+chunk_index: 5
+block_id: b0006
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [232, 248]
+char_span: [32950, 34879]
+line_count: 15
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0006: 4. Conclusions) ---
+232: # 4. Conclusions
+233: 
+234: In conclusion, we fabricated stable and sensitive UA sensors based on EPI decorated with reduced nanoparticles of  $\mathrm{Ag}$ , Pt, and Au, i.e., EPIS, EPIP, and EPIG, respectively. The characterization of the as-prepared materials via XRD, XPS, CV, and TEM demonstrated the metallic nanoparticles were successfully reduced upon the electroactive segment of the EPI. The redox capability of the UA sensors based on CV studies decreased in the following order EPIG > EPIP > EPIS > EPI > ITO, which implied that EPIG may reveal the highest sensitivity. The amperometric data showed that the UA sensor EPIG exhibited higher sensitivity (0.153 A·M $^{-1}$  UA), low LOD (0.78 μM.) and wide LDA (5–50 μM UA) at a lower oxidation potential of 310 mV. Similarly, the DPV results clearly indicated the excellent selectivity of EPIG as compared to other constructed sensors. Hence, the EPIG electrochemical sensor developed for UA detection showed reliable results. Considering the good selectivity, simple preparation, low cost, and selectivity of the modified sensor of UA the practical application value of this system will be later evaluated using real samples.
+235: 
+236: Author Contributions: Methodology, A.B.; software, S.-C.H.; validation, S.-C.H.; formal analysis, A.B. and Y.-C.C.; investigation, W.-F.J.; writing—original draft preparation, J.-M.Y.; writing—review and editing, K.S.S.; supervision, J.-M.Y. All authors have read and agreed to the published version of the manuscript.
+237: 
+238: Funding: This research was funded by the Ministry of Science and Technology (MOST) Taiwan, grant number MOST-109-2113-M-033-002-.
+239: 
+240: Institutional Review Board Statement: Not applicable.
+241: 
+242: Informed Consent Statement: Not applicable.
+243: 
+244: Data Availability Statement: No new data were created or analyzed in this study. Data sharing is not applicable to this article.
+245: 
+246: Conflicts of Interest: The authors declare no conflict of interest.

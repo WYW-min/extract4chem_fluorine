@@ -1,0 +1,37 @@
+source_file: Formation of Nano-Fibrous Patterns on Aluminum Substrates via Photolithographic Fabrication of Electrospun Pho.md
+doc_id: 37c2ed62a82f3c15d3a0f8be98c663ae
+chunk_index: 2
+block_id: b0003
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: check for updates
+line_span: [21, 43]
+char_span: [1068, 4205]
+line_count: 21
+effective_body_non_empty_lines: 10
+
+lines:
+--- chunk (b0003: check for updates) ---
+21: # check for updates
+22: 
+23: Citation: Gao, Y.-s.; Ren, X.; Du, X.-z.; Wang, Z.-z.; He, Z.-b.; Yuan, S.-q.; Pan, Z.; Zhang, Y.; Zhi, X.-x.; Liu, J.-g. Formation of Nano-Fibrous Patterns on Aluminum Substrates via Photolithographic Fabrication of Electrospun Photosensitive Polyimide Fibrous Membranes. Nanomaterials 2022, 12, 2745. https://doi.org/10.3390/nano12162745
+24: 
+25: Academic Editor: Maria Losurdo
+26: 
+27: Received: 21 July 2022
+28: 
+29: Accepted: 9 August 2022
+30: 
+31: Published: 10 August 2022
+32: 
+33: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+34: 
+35: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+36: 
+37: Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+38: 
+39: Abstract: The formation of polymeric micro-patterns on various substrates via a photolithography procedure has been widely used in semiconductor fabrication. Standard polymer patterns are usually fabricated via photosensitive polymer varnishes, in which large amounts of potentially harmful solvents with weight ratios over  $50\mathrm{wt}\%$  have to be removed. In the current work, a novel pattern-formation methodology via solvent-free electrospun photosensitive polymeric fibrous membranes (NFMs) instead of the conventional photosensitive solutions as the starting photoresists was proposed and practiced. For this purpose, a series of preimidized negative auto-photosensitive polyimide (PSPI) resins were first prepared via the two-step chemical imidization procedure from the copolymerization reactions of  $3,3^{\prime},4,4^{\prime}$ -benzophenonetetraacarboxylic- dianhydride (BTDA) and two orthomethyl-substituted aromatic diamines, including  $3,3^{\prime},5,5^{\prime}$ -tetramethyl-  $4,4^{\prime}$ -diaminodiphenylmethane (TMMDA) and 3,7-diamino-2,8-dimethyl- dibenzothiophene sulfone (TSN). The derived homopolymer PI-1 (BTDA-TMMDA) and the copolymers, including SPI-2~SPI-6, with the molar ratio of  $5\sim 25\%$  for TSN in the diamine units, showed good solubility in polar solvents. Then, a series of PSPI NFMs were fabricated via standard electrospinning procedure with the developed PSPI solutions in  $N,N$ -dimethylacetamide (DMAc) with a solid content of  $25\mathrm{wt}\%$  as the starting materials. The derived PSPI NFMs showed good thermal stability with  $5\%$  weight loss temperatures higher than  $500^{\circ}\mathrm{C}$  in nitrogen. Meanwhile, the derived PSIPs showed good photosensitivity to the ultraviolet (UV) emitting wavelengths of i-line  $(365\mathrm{nm})$ , g-line  $(405\mathrm{nm})$  and h-line  $(436\mathrm{nm})$  of the high-pressure mercury lamps in both forms of transparent films and opaque NFMs. Fine micro-patterns with a line width of around  $100\mu \mathrm{m}$  were directly obtained from the representative SPI-4 NFM via standard photolithography procedure.
+40: 
+41: Keywords: photosensitive polyimide; electrospinning; nano-fibrous membrane; photolithography; pattern

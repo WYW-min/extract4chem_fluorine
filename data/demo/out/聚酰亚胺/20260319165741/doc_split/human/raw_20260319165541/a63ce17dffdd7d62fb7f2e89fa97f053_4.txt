@@ -1,0 +1,23 @@
+source_file: Enhanced thermal conductivity of flexible h-BNpolyimide composites films with ethyl cellulose.md
+doc_id: a63ce17dffdd7d62fb7f2e89fa97f053
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4 Conclusion
+line_span: [142, 150]
+char_span: [18384, 19512]
+line_count: 7
+effective_body_non_empty_lines: 3
+
+lines:
+--- chunk (b0005: 4 Conclusion) ---
+142: # 4 Conclusion
+143: 
+144: In summary, the flexible PI composite film with high thermal conductivity was prepared through the solution casting process of h-BN combined with ethyl cellulose, which is a relatively convenient method. With the help of ethyl cellulose, the dispersity of h-BN in PI was improved which contributed to the double increase of the thermal conductivity of the PI composite film. Moreover, the thermal conductivity increased up to 6 times than that of the pure PI film. At the same time, the combination of TFMB-GO can increase the tensile strength of the PI composite film by up to  $80\%$ . Therefore, this PI composite film is very promising for thermal management of electronic products.
+145: 
+146: Acknowledgments: This study was supported by School of Materials Science and Engineering, Tongji University.
+147: 
+148: Authors' contribution: Lin Liu and Siyu Shen conceived and co-designed the study. Lin Liu, at the same time, supervised the project. Yiyao Wang assisted with the pre-synthesizing of PI. Siyu Shen oversaw the research work on the improvement of thermal conductivity and mechanical properties of PI composite film.

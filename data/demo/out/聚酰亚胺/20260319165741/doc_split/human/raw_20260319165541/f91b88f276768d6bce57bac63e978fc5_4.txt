@@ -1,0 +1,55 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. I. PolyimidePolycarbonate &amp; Polyi.md
+doc_id: f91b88f276768d6bce57bac63e978fc5
+chunk_index: 4
+block_id: b0005
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Results and Discussion
+line_span: [42, 82]
+char_span: [4548, 9406]
+line_count: 39
+effective_body_non_empty_lines: 21
+
+lines:
+--- chunk (b0005: Results and Discussion) ---
+42: # Results and Discussion
+43: 
+44: Optimal conditions were chosen for the synthesis of P1-P2 composites. It was shown that P2 could combine with polyimide at low concentrations up to  $30\%$ . The amount of P2 more than 30 wt.% leads to strong phase separation, which manifests as nontransparent opaque structure of blend films. Physicochemical and physico-mechanical characterization of polymer-polymer blends were carried out using viscometry, IR-spectroscopy, optical microscopy and Xray diffraction analysis, in order to find out the structure and mechanism of interactions between PI and P2 components.
+45: 
+46: Figs. 1 & 2 present the characteristic viscosities  $(\eta_{\mathrm{char}})$  and their dependence on PI-P2 composition
+47: 
+48: synthesized by mechanical (Fig. 1) and chemical mixing (Fig. 2). It is observed that viscosity depends on the composition and the effect is additive. This indicates no formation of any strong interactions between PI and P2, nor any conformation changes are observed.
+49: 
+50: X-ray analysis was carried out to obtain information about polymer structure and its conformations, phase changes and conformation of macromolecules that might have occurred as a result of different interactions during mixing. X-ray analysis of PI-P2 blends represents the amorphous halo at  $\theta = 11^{\circ}$ , that indicates no formation of the new crystal phase and evidents of polymer mixing at their appropriate miscibility. According to X-ray data the components
+51: 
+52: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+53: Fig. 1. Viscosity via concentration of PI:PC (a) and PI:PS (b) blends prepared by mechanical mixing.
+54: 
+55: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+56: Fig. 2. Viscosity via concentration of PI:PC (a) and PI:PS (b) blends prepared by chemical mixing.
+57: 
+58: PC, PS and alicyclic PI form unite amorphous phase in their blends.
+59: 
+60: Microscope data (Figs. 3 and 4) corresponds to mechanical and chemical mixing blends, respectively. The morphology of both modes of blends is homogenous with uniformly distributed particles of disperse
+61: 
+62: phase P2 like domains. The films are transparent and dark-yellowish. The Figures show that it is possible to obtain more homogenous and finely dispersed structures with excellent miscibility. Thus making use the chemical mixing microstructure of the films is entirely homogenous and finer than one of mechanical mixing due to better distribution of PI chains among highmolecular weight P2.
+63: 
+64: There were studied physico-chemical characteristics of the composites on Table 1 for their breaking stress  $\sigma$  and tensile elongation L. [η] represents viscosity of  $5\mathrm{wt}.\%$  polymer mixture solution. It was found out that for the blend with P2 contents up to  $30\mathrm{wt}.\%$  the homogenous composites with both appropriate miscibility and wide mechanical performances could be formed. Blending of polyimide films leads to formation of more elastic films with reduced strength and enhanced elongation. Addition of another polymer with good mechanical performances gives rise to a new polyimide blend, which has better me
+65: 
+66: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+67: Fig. 3. Microphotos of films on the basis of PI:PC (ratio 90:10) blends prepared by mechanical (a) and chemical (b) mixing. Bar is  $100\mu \mathrm{m}$ .
+68: 
+69: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+70: 
+71: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+72: Fig. 4. Microphotos of films on the basis of PI:PS (ratio 90:10) blends prepared by mechanical (a) and chemical (b) mixing. Bar is  $100\mu \mathrm{m}$ .
+73: 
+74: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+75: 
+76: chanical stability, while retaining the excellent thermally resistant properties of the polyimide itself.
+77: 
+78: Table 1 Physico-mechanical performances of homopolymers and their blends  
+79: 
+80: <table><tr><td>Composition, mol%</td><td>[η], dL/g</td><td>σ, kg/cm²</td><td>L, %</td></tr><tr><td>PI</td><td>1.28</td><td>1026.6</td><td>28.6</td></tr><tr><td>PS</td><td>0.625</td><td>715</td><td>75.0</td></tr><tr><td>PC</td><td>0.68</td><td>780</td><td>72.0</td></tr><tr><td>10%PS : 90%PI</td><td>1.21</td><td>945.3</td><td>29.9</td></tr><tr><td>20%PS : 80%PI</td><td>1.149</td><td>926.3</td><td>33.4</td></tr><tr><td>30%PS : 70%PI</td><td>1.1</td><td>897</td><td>49.0</td></tr><tr><td>40%PS : 60%PI</td><td>1.025</td><td>802.4</td><td>46.3</td></tr><tr><td>50%PS : 50%PI</td><td>-</td><td>798.8</td><td>43.8</td></tr><tr><td>10%PC : 90%PI</td><td>1.225</td><td>957.4</td><td>36.6</td></tr><tr><td>20%PC : 80%PI</td><td>1.175</td><td>953</td><td>44.5</td></tr><tr><td>30%PC : 70%PI</td><td>1.12</td><td>904.5</td><td>51.1</td></tr><tr><td>40%PC : 60%PI</td><td>1.065</td><td>875.2</td><td>48.2</td></tr><tr><td>50%PC : 50%PI</td><td>-</td><td>827</td><td>46.6</td></tr></table>

@@ -1,0 +1,54 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. II. PolyimidePoly(ethylene terephthal.md
+doc_id: 2b9b7fd94648141b6fbac35d7ed21dcc
+chunk_index: 4
+block_id: b0005
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Results and Discussion
+line_span: [53, 92]
+char_span: [5713, 11265]
+line_count: 38
+effective_body_non_empty_lines: 21
+
+lines:
+--- chunk (b0005: Results and Discussion) ---
+53: # Results and Discussion
+54: 
+55: The IR-spectra of PETP shows characteristic absorption bands in the region of  $1735~\mathrm{cm}^{-1}$ ,  $1110~\mathrm{cm}^{-1}$  and  $1220~\mathrm{cm}^{-1}$ ,  $830~\mathrm{cm}^{-1}$  that are related to valency oscillations of the bonds  $\nu (\mathrm{C = O})$  at  $1735~\mathrm{cm}^{-1}$  and  $\nu (\mathrm{C - O - C})$  at 1110 and  $1220~\mathrm{cm}^{-1}$  respectively and to deformation bonds oscillations (C-H) at  $830~\mathrm{cm}^{-1}$ . There are also bands at  $1110~\mathrm{cm}^{-1}$  due to ester (C-O-C), at  $2960~\mathrm{cm}^{-1} - (\mathrm{C - H})$  and also at  $1500~\mathrm{cm}^{-1}$  that is related to valency oscillations of the  $-\mathrm{C = C - }$  benzene ring [6].
+56: 
+57: The Figs. 1 and 2 present IR-spectra of blends PI-PETP. The characteristic band  $1240~\mathrm{cm}^{-1}$  due to polyimide in PI-PETP spectra remains unchanged, which indicates that the imide structure remains intact. Based on the analysis of IR spectra, it was observed that there was a shift of the carbonyl absorption peak in the region of  $1735~\mathrm{cm}^{-1}$ , as compared to the original IR-spectra of PETP (Fig. 1). There is also a shift of the absorption at  $1720~\mathrm{cm}^{-1}$  (the carbonyl group of the polyimide) in the blend, with re
+58: 
+59: spect to the same band in original polymer, indicating polymer - polymer interactions. The increase of PETP contents up to 20 wt.% demonstrates an appearance of obvious  $3440~\mathrm{cm}^{-1}$  carbamide group of PI, especially for samples of chemical mixing. That could be interpreted as non-cyclized imide groups form of amidoacid structures. However, the rate of two polymer miscibility should approved from viscous data and thermogravimetry analysis as well as also because the IR data does not show other serious descripances between blend samples prepared by chemical and mechanical ways.
+60: 
+61: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+62: Fig. 1. IR-spectra of PI:PETP at ratio 90:10.
+63: 
+64: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+65: Fig. 2. IR-spectra of PI:PETP at ratio 70:30.
+66: 
+67: The characteristic solution viscosity of original polymers and their blends is additive, based on the number of components in a blend (Figs. 3 and 4). This indicates that there is no reactive interaction between PI and PETP, which could be led to the formation of a new phase.
+68: 
+69: X-ray photographs of polymer-polymer blends (PI-PETP) represent the amorphous halo at  $\theta = 11^{\circ}$  that testifies the fact that there has been no formation of any new crystal phase, during the mixing process. Being amorphous the PETP and alicyclic PI do
+70: 
+71: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+72: Fig. 3. Viscosity via concentration of PI:PETP blends prepared by mechanical mixing.
+73: 
+74: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+75: Fig. 4. Viscosity via concentration of PI:PETP blends prepared by chemical mixing.
+76: 
+77: not form a new phase while mixing as it can be seen from comparing of the X-ray photographs. This fact proves once more that a compatible and definite composite is obtained, while mixing the two components PI and PETP, within the definite limit at PETP content in a blend less 15 wt.%
+78: 
+79: The morphology of the film surfaces, which were formed by mechanical and reaction mixing were investigated by optical microscopy that helps to judge the sizes and thin structure of domains. The general picture of blend morphology represents transparent homogenous polyimide matrix with uniformly distributed particles of disperse phase PETP at its content less than  $15\mathrm{wt.\%}$  (Fig. 5). The Figure 5 shows that under reaction mixing it is possible to obtain deeper miscibility that results in formation of homogenous and fine-disperse structure. One of the main reasons is condensation of upgrowing polyimide chains along PETP matrix during chemical way of blending. It could cause fine mixing of two polymers at molecular level. Higher content of PETP (above  $15\mathrm{wt.\%}$ ) promotes the beginning of phase separation which manifests in opaque morphology of blends (data does not show).
+80: 
+81: Figure 6 presents the derivatives of weight loss thermogrammes of the initial polyimide and its blends
+82: 
+83: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+84: 
+85: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+86: Fig. 5. Microphotos of films on the basis of PI:PETP (ratio 90:10) blends prepared by mechanical (a) and chemical (b) mixing.
+87: 
+88: at various ratios of PETP 2, 5, 10, 15, and  $20\mathrm{wt.}\%$  at the range of temperature within  $50 - 800^{\circ}\mathrm{C}$ . The addition of PETP up to 10-12 wt.% changes the thermostability of the initial PI hardly. The content of PETP more than  $10\%$  leads to obvious destruction of the composites below  $400^{\circ}\mathrm{C}$ , because of tremendous separation of two parts of the composite. Calculated from TGA analysis it was summarized a phase depiction of the prepared PI composites in Table 1.
+89: 
+90: The addition of P2 into the initial PI causes increasing content of non-cyclized amide groups of PI from 9.4 (PI) to 12.2 wt.% (PI-PETP 1 wt.%). Composites with PETP content between 1-10 wt.% have almost the same fraction of non-cyclized amide group, around 12 wt.% The increase of PETP content more than 10 wt.% gives rise to low amount of amide group, about 10.2 wt., which is close to amide content in the initial PI. It can be speculated that PETP content above 10 wt.% evokes deep separation of two polymers.

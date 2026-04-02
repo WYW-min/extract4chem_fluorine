@@ -1,0 +1,25 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 9
+block_id: b0010
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: PROTON CONDUCTIVITY
+line_span: [78, 88]
+char_span: [15512, 16644]
+line_count: 9
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0010: PROTON CONDUCTIVITY) ---
+78: # PROTON CONDUCTIVITY
+79: 
+80: Proton conductivities of pure SPI, SPI/RHA and SPI/sRHA composite membranes in full hydration form were measured in the lateral direction by AC impedance method using Multi-channel Potentiostat/Galvanostat (WonATech, Korea). Before carrying out the test, the ascast membranes were soaked in  $2\mathrm{M}$  methanol solution for  $1\mathrm{h}$  at  $60^{\circ}\mathrm{C}$  in order to remove the DMSO residue. Then, the membranes were immersed in  $1.0\mathrm{N}$  hydrochloric acid for  $12\mathrm{h}$  in room temperate. This was the proton exchange treatment step. Next, the membranes in proton form were then immersed in deionized water for  $2\mathrm{h}$ . Finally, a modified four-probe AC impedance method was used to measure the resistance within each of the composite membranes. The proton conductivity of the membranes was calculated from the following equation:
+81: 
+82: $$
+83: \sigma = \frac {L}{R A} \tag {3}
+84: $$
+85: 
+86: where  $\sigma$  was the proton conductivity in  $\mathrm{Scm^{-1}}$ ;  $L$  was the two electrodes distance;  $R$  was the membrane resistance; and  $A$  was the membrane cross-sectional area.

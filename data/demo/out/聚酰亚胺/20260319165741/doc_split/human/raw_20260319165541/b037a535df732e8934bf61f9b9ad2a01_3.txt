@@ -1,0 +1,130 @@
+source_file: Atomic Oxygen-Resistant Polyimide Composite Films Containing Nanocaged Polyhedral Oligomeric Silsesquioxane Co.md
+doc_id: b037a535df732e8934bf61f9b9ad2a01
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [97, 212]
+char_span: [18250, 37469]
+line_count: 114
+effective_body_non_empty_lines: 69
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+97: # 3. Results and Discussion
+98: 
+99: # 3.1. PI Composite Films Preparation
+100: 
+101: A serious of POSS-PAA composite varnishes were first prepared by the combination of copolymerization and physical blending procedures according to the chemical reaction equation shown in Figure 2 and the illustrated procedure shown in Figure 3. The detailed synthesis formulations are listed in Table 1. The weight proportion of the TSP-POSS additives in the final PI films was controlled to be  $20\mathrm{wt}\%$  while the weight proportion of the DABA-POSS was set to from  $10\mathrm{wt}\%$  to  $30\mathrm{wt}\%$ . The selected amount of  $20\mathrm{wt}\%$  for the TSP-POSS filler is based on our previous work [21], at which the excellent combined properties for the PI composite films were obtained. DABA-POSS exhibited good polymerization reactivity and afforded POSS-PAA solutions high viscosities, indicating the high molecular weights of the polymers. TSP-POSS additive showed good compatibility with the PAA matrix, as could be evidenced by the homogeneous and transparent appearance of the obtained PAA composite solutions, in which no phase separation and gelling occurred even being stored at  $-18^{\circ}\mathrm{C}$  for several months. The corresponding PI composite films were obtained by thermally imidized the precursors POSS-PAA from 80 to  $350^{\circ}\mathrm{C}$  in nitrogen. The fingernail-creasable PI composite films showed good flexibility and toughness.
+102: 
+103: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+104: Figure 2. Synthesis of POSS-poly(amic acid) (PAA) varnishes and the derived POSS-polyimide (PI) composite films.
+105: 
+106: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+107: Figure 3. Preparation procedure of POSS-PI films.
+108: 
+109: Table 1. Formulation for the synthesis of POSS-PAAs.  
+110: 
+111: <table><tr><td>PAA</td><td>PMDA
+112: (M = 218.12 g/mol)</td><td>ODA
+113: (M = 200.24 g/mol)</td><td>DABA-POSS
+114: (M = 1008.71 g/mol)</td><td>TSP-POSS
+115: (M = 931.34 g/mol)</td><td>DMAc
+116: (g)</td></tr><tr><td>POSS-PAA-10</td><td>20.00 g
+117: (91.69 mmol)</td><td>17.53 g
+118: (87.56 mmol)</td><td>4.17 g
+119: (4.13 mmol)</td><td>10.43 g</td><td>208.5 g</td></tr><tr><td>POSS-PAA-15</td><td>20.00 g
+120: (91.69 mmol)</td><td>17.06 g
+121: (85.21 mmol)</td><td>6.54 g
+122: (6.48 mmol)</td><td>10.90 g</td><td>218.0 g</td></tr><tr><td>POSS-PAA-20</td><td>20.00 g
+123: (91.69 mmol)</td><td>16.55 g
+124: (82.64 mmol)</td><td>9.14 g
+125: (9.06 mmol)</td><td>11.42 g</td><td>228.4 g</td></tr><tr><td>POSS-PAA-25</td><td>20.00 g
+126: (91.69 mmol)</td><td>15.98 g
+127: (79.80 mmol)</td><td>11.99 g
+128: (11.89 mmol)</td><td>11.99 g</td><td>239.9 g</td></tr><tr><td>POSS-PAA-30</td><td>20.00 g
+129: (91.69 mmol)</td><td>15.35 g
+130: (76.67 mmol)</td><td>15.15 g
+131: (15.02 mmol)</td><td>12.63 g</td><td>252.5 g</td></tr></table>
+132: 
+133: The successful incorporation of POSS units into the composite films, on one hand could be directly proven by the structure characterization, such as ATR-FTIR and XPS measurements, and on the other hand could be indirectly reflected by the XRD and optical properties evaluation. Figure 4 shows the ATR-FTIR spectra and the typical absorptions of the POSS-PI composite films. First, the asymmetrical stretching vibration and symmetric stretching vibration are at  $1776~\mathrm{cm}^{-1}$  and  $1717~\mathrm{cm}^{-1}$ , respectively, and the stretching vibration of C-N bonds are at  $1375~\mathrm{cm}^{-1}$ . These are the characteristic absorptions of imide rings. The characteristic absorptions of  $\mathrm{C = C}$  bonds at  $1499~\mathrm{cm}^{-1}$  in phenyl units were observed in all of the PI systems in the spectra. Moreover, the characteristic absorptions of Si-O-Si in both of the DABA-POSS and the TSP-POSS were all detected at  $1086~\mathrm{cm}^{-1}$ . In addition, the peaks at  $2953~\mathrm{cm}^{-1}$  could be assigned to the absorptions of saturated C-H bonds in isobutyl groups in DABA-POSS units. The absorptions of Si-OH in the TSP-POSS filler at the wavenumber around  $3300 - 3500~\mathrm{cm}^{-1}$  were not observed in the spectra, which are in consistence with the other PI/TSP-POSS system [31]. This might be due to the low contents of the Si-OH units in the PI composite films.
+134: 
+135: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+136: Figure 4. Attenuated total reflectance Fourier transform infrared (ATR-FTIR) spectra of POSS-PI composite films.
+137: 
+138: The XRD patterns of the POSS-PI composite film were shown in Figure 5. The sharp reflection of the TSP-POSS compound disappeared in the spectra of the composite films, indicating that the POSS-additives have good compatibility with the PI-matrix. This might be due to the similarity of the chemical structures for the POSS components. In addition, the bulky POSS units apparently decreased the crystallinity of the PI molecular chains, thereby giving the films an amorphous property.
+139: 
+140: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+141: Figure 5. XRD patterns of POSS-PI composite films.
+142: 
+143: The good miscibility of the additives with the DABA-POSS-PI matrix could be further revealed by the optical characteristics of the composite films. The optical data are tabulated in Table 2. Figures 6 and 7 present the UV-Vis spectra and the CIE Lab optical parameters of the PI composite films, respectively. As can be seen from Figure 5 and Table 2, the PI composite films presented similar optical transparency with the transmittance values of  $61.2 - 73.3\%$  at the wavelength of  $550~\mathrm{nm}$  and UV cutoff wavelengths  $(\lambda_{\mathrm{cut}})$  between  $411~\mathrm{nm}$  and  $431~\mathrm{nm}$ . Incorporation of the TSP-POSS additives into the films slightly increased the yellow indices  $(b^{*})$  and haze values of the composite films. Obviously, the haze values of the PI composite films increased from  $7.19\%$  to  $15.82\%$  when the contents of DABA-POSS increased from 10 to  $30~\mathrm{wt\%}$  in the films. Furthermore, the haze values of the pristine DABA-POSS-PI films and the composites films are compared in Table 2. It can be clearly deduced from the data that addition of TSP-POSS deteriorated the haze values of the composite films when the contents of DABA-POSS were lower than  $20~\mathrm{wt\%}$ . However, the PI composite films gradually exhibited lower haze values at higher DABA-POSS contents. POSS-PI-30 with the DABA-POSS content of  $30~\mathrm{wt\%}$  and the TSP-POSS content of  $20~\mathrm{wt\%}$  showed a haze value of  $15.82\%$ , which is about half of the analogous PI film without TSP-POSS additives (haze =  $31.70\%$ ). This might be attributed to the formation of continuous POSS components in the composite films at higher loadings, which efficiently reducing the light scattering caused by the dispersed POSS components at lower contents.
+144: 
+145: Table 2. Optical properties of POSS-PI composite films.  
+146: 
+147: <table><tr><td>PI</td><td>λcut1 (nm)</td><td>T5502 (%)</td><td>L*3</td><td>a*3</td><td>b*3</td><td>Haze4 (%)</td></tr><tr><td>POSS-PI-10</td><td>431</td><td>68.8</td><td>87.55</td><td>-6.88</td><td>83.04</td><td>7.19 (4.78)</td></tr><tr><td>POSS-PI-15</td><td>431</td><td>61.2</td><td>85.63</td><td>-4.02</td><td>87.99</td><td>16.63 (7.65)</td></tr><tr><td>POSS-PI-20</td><td>411</td><td>73.3</td><td>86.78</td><td>-5.52</td><td>82.75</td><td>11.79 (9.55)</td></tr><tr><td>POSS-PI-25</td><td>428</td><td>64.8</td><td>85.69</td><td>-4.08</td><td>86.26</td><td>14.15 (14.53)</td></tr><tr><td>POSS-PI-30</td><td>425</td><td>63.7</td><td>84.53</td><td>-2.41</td><td>87.73</td><td>15.82 (31.70)</td></tr></table>
+148: 
+149: ${}^{1}$  Cutoff wavelength.  ${}^{2}{T}_{550}$  : Transmittance at the wavelength of  ${550}\mathrm{\;{nm}}$  (thickness:  ${25\mu }\mathrm{m}$  );  ${}^{3}{L}^{ * },{a}^{ * },{b}^{ * }$  : color parameters calculated according to a CIE Lab equation.  ${L}^{ * }$  is the lightness,where 100 means white and 0 implies black.  ${a}^{ * }$  : positive value means red,negative value indicates green.  ${b}^{ * }$  : positive value means yellow, negative value indicates blue;  ${}^{4}$  The data in the parentheses are the values without TSP-POSS additives [30].
+150: 
+151: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+152: Figure 6. UV-Vis spectra of POSS-PI composite films.
+153: 
+154: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+155: Figure 7. 2D and 3D map for CIE Lab parameters of POSS-PI composite films. (a) 2D map; (b) 3D map.
+156: 
+157: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+158: 
+159: # 3.2. Thermal Properties
+160: 
+161: In order to evaluate the thermal stability of the PI composite films, TGA and TMA measurements was used, and the data obtained are summarized in Table 3. The TGA and corresponding derivative TGA (DTG) plots of the PI films are shown in Figure 8. The POSS-PI composite films displayed good thermal stability before  $450^{\circ}\mathrm{C}$  in nitrogen, and then the films started decomposing and maintained nearly  $60\mathrm{wt}\%$  of their original weights at  $750^{\circ}\mathrm{C}$ . The  $5\%$  weight loss temperatures  $(T_{5\%})$  of the composite films decreased with the increasing contents of DABA-POSS in the polymers. Basically, the  $T_{5\%}$  values of the film decrease by  $5 - 8^{\circ}\mathrm{C}$  for every  $5\%$  increase of the DABA-POSS contents in the film. What's more, addition of TSP-POSS apparently improved the thermal decomposition temperatures of the PI composite films. The  $T_{5\%}$  values of the composite films were about  $40^{\circ}\mathrm{C}$  higher than those of the pristine films without TSP-POSS additives. For example, POSS-PI-30 film showed a  $T_{5\%}$  value of  $554^{\circ}\mathrm{C}$ , which was  $42^{\circ}\mathrm{C}$  higher than that of the PI-30 film without TSP-POSS [30]. Higher silicon contents in the PI composite films afforded much higher char yield of the films at high temperatures. The residual weight ratios at  $750^{\circ}\mathrm{C}$ $(R_{\mathrm{w750}})$  values of the composite films were all higher than  $70.0\%$  in nitrogen, while the un-filled films showed the  $R_{\mathrm{w750}}$  values below  $60.0\%$ . The increase of the thermal stability of the composite films might be owing to the enhanced interactions and miscibility between the TSP-POSS additives and the POSS-containing PI matrix. According to the DTG plots in Figure 8b, the maximum decompose temperatures  $(T_{\mathrm{max}})$  for the PI composite films were all higher than  $600^{\circ}\mathrm{C}$  and also decreased with the increase of the DABA-POSS contents in the composite films.
+162: 
+163: Table 3. Thermal properties of POSS-PI composite films.  
+164: 
+165: <table><tr><td>Samples</td><td>T5%1(nm)</td><td>T10%1(%)</td><td>Rw7501(%)</td><td>Tmax1(°C)</td><td>CTE (×10-6/K)</td></tr><tr><td>POSS-PI-10</td><td>580 (5343)</td><td>608 (568)</td><td>70.6 (59.1)</td><td>624.6</td><td>61.0 (45.62)</td></tr><tr><td>POSS-PI-15</td><td>572 (528)</td><td>601 (528)</td><td>70.7 (58.5)</td><td>620.7</td><td>74.7 (50.4)</td></tr><tr><td>POSS-PI-20</td><td>564 (524)</td><td>592 (548)</td><td>71.0 (59.6)</td><td>620.4</td><td>81.0 (56.1)</td></tr><tr><td>POSS-PI-25</td><td>559 (519)</td><td>585 (541)</td><td>71.3 (59.9)</td><td>611.9</td><td>79.6 (55.0)</td></tr><tr><td>POSS-PI-30</td><td>554 (512)</td><td>579 (531)</td><td>70.7 (59.3)</td><td>602.2</td><td>ND3</td></tr></table>
+166: 
+167: $T_{5\%}$  :  $5 \%$  weight loss temperature;  $T_{10\%}$  : weight loss temperature;  $R_{\mathrm{w750}}$  : residual weight ratio at  $750^{\circ}\mathrm{C}$  in nitrogen;  $T_{\mathrm{max}}$  : temperature at which the maximum thermal decomposition occurred. 2 The data in the parentheses are the values without TSP-POSS additives [30]. Not detected.
+168: 
+169: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+170: Figure 8. Thermal decomposition of POSS-PI composite films at a heating rate of  $10\mathrm{K / min}$  under nitrogen flow. (a) TGA; (b) DTG.
+171: 
+172: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+173: 
+174: In our previous work, it has been found that the introduction of side-chain-substituted POSS units deteriorated the high-temperature dimensional stability of the derived PI films because of the easy movement of the latent POSS groups at elevated temperatures [30]. In the current work, the addition of TSP-POSS additives further increased the CTE values of the derived PI composite films, which could be deduced from the TMA curves of the films shown in Figure 9. For example, the CTE value of POSS-PI-20 film in the temperature range of  $50 - 200^{\circ}\mathrm{C}$  is  $81.0 \times 10^{-6} / \mathrm{K}$ , which was obviously higher than the CTE of the analogous PI film without TSP-POSS additives (CTE =  $56.1 \times 10^{-6} / \mathrm{K}$ ). It is possible that the TSP-POSS additive act as a "plasticizer", which made the matrix easy to move at elevated temperatures.
+175: 
+176: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+177: Figure 9. TMA curves of POSS-PI composite films under nitrogen flow.
+178: 
+179: # 3.3. AO Erosion Properties
+180: 
+181: The ground-simulated AO facility was used to investigate the AO erosion behaviours of the composite films. And the experimental erosion yields  $(E_{\mathrm{s}})$  of the PI films were
+182: 
+183: tabulated in Table 4. The fluence of atomic oxygen is  $2.51 \times 10^{21}$  atoms/ $\mathrm{cm}^2$ . Figure 10 illustrates the  $E_{\mathrm{s}}$  values of the POSS-PI films together with the representative appearances and SEM images of the POSS-PI-10 and POSS-PI-30 films after AO erosion, respectively. It can be clearly observed that as the POSS contents in the composite films are higher, the  $E_{\mathrm{s}}$  values are lower. The  $E_{\mathrm{s}}$  value of the POSS-PI-30 film was  $1.64 \times 10^{-26}$ $\mathrm{cm}^3$ /atom, which was nearly an order of magnitude lower than the  $E_{\mathrm{s}}$  value of the PI sample without TSP-POSS filler ( $E_{\mathrm{s}} = 11.1 \times 10^{-26}$ $\mathrm{cm}^3$ /atom) and was only  $0.55\%$  of the referenced Kapton® film ( $E_{\mathrm{s}} = 300 \times 10^{-26}$ $\mathrm{cm}^3$ /atom). The lowest  $E_{\mathrm{s}}$  value of the novel PI composite films developed in the current work is more than two orders of magnitude lower than that of the standard Kapton® film. The big difference in the  $E_{\mathrm{s}}$  values of these two series of PI films is mainly due to the synergistic effects of the nanocaged POSS units in both matrix and the additives for the newly developed PI composite films. The POSS units effectively decreased the AO erosion of the PI composite films. In addition, AO exposure deteriorated the optical transparency of the PI composite films, and a relatively dense layer could be observed on the surface of the POSS-PI-30 film through SEM detection. The surface elemental compositions of the PI composite films before and after AO exposure were then detected by XPS. The plots were shown in Figure 11, and the corresponding data were listed in Table 4. The elemental proportions of the silicon (Si) and oxygen (O) on the surface of the films increased significantly after AO exposure; however, those of the carbon (C) and nitrogen (N) decreased. By comparing the shifts of the binding energies for the Si2p and O1s components,  $\mathrm{SiO_x}$  or silicate layers could be confirmed to form on the surface of the AO-eroded PI samples. Undoubtedly, these inert passivation layers provided efficient protection for the under-layer films.
+184: 
+185: Table 4. XPS results for the unexposed and exposed POSS-PI composite films.  
+186: 
+187: <table><tr><td rowspan="3">Samples</td><td rowspan="3">Es1(10-26cm3/atom)</td><td colspan="8">Relative Atomic Concentration (%)</td></tr><tr><td colspan="4">Unexposed Samples</td><td colspan="4">AO Exposed Samples</td></tr><tr><td>Si2p</td><td>C1s</td><td>O1s</td><td>N1s</td><td>Si2p</td><td>C1s</td><td>O1s</td><td>N1s</td></tr><tr><td>POSS-PI-10</td><td>9.21 (26.02)</td><td>8.96</td><td>68.07</td><td>19.62</td><td>2.72</td><td>24.33</td><td>23.01</td><td>51.22</td><td>0.95</td></tr><tr><td>POSS-PI-15</td><td>6.06 (21.0)</td><td>4.90</td><td>74.65</td><td>16.63</td><td>2.94</td><td>23.36</td><td>27.56</td><td>47.78</td><td>0.70</td></tr><tr><td>POSS-PI-20</td><td>2.15 (16.9)</td><td>4.73</td><td>75.56</td><td>16.75</td><td>2.42</td><td>15.27</td><td>53.00</td><td>31.11</td><td>0.62</td></tr><tr><td>POSS-PI-25</td><td>1.82 (12.8)</td><td>4.94</td><td>74.93</td><td>16.81</td><td>2.87</td><td>21.33</td><td>30.77</td><td>46.20</td><td>1.45</td></tr><tr><td>POSS-PI-30</td><td>1.64 (11.1)</td><td>4.61</td><td>72.89</td><td>18.60</td><td>2.76</td><td>9.55</td><td>64.29</td><td>23.94</td><td>1.99</td></tr><tr><td>PI-ref3</td><td>300</td><td>ND4</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td><td>ND</td></tr></table>
+188: 
+189: 1 Erosion yield with the AO fluence of  $2.51\times 10^{21}$  atom/cm $^2$ ; 2 The data in the parentheses are the values without TSP-POSS additives with the AO fluence of  $2.16\times 10^{21}$  atom/cm $^2$  [30]; 3  $\mathrm{PI}_{\mathrm{PMDA - ODA}}$ ; 4 Not detected.
+190: 
+191: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+192: Figure 10. AO erosion yields as a function of DABA-POSS contents for the POSS-PI composite films (Insert: Appearance and field emission scanning electron microscopy (FE-SEM) images of POSS-PI-10-AO and POSS-PI-30-AO exposure to  $2.51 \times 10^{21}$  atom/cm $^2$  AO attack, respectively).
+193: 
+194: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+195: Figure 11. X-ray photoelectron spectroscopy (XPS) spectra of POSS-PI composite films. (a) Before AO exposure; (b) After AO exposure.
+196: 
+197: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+198: 
+199: The formation of the passivation layers caused by AO exposure could also be verified by inspecting the surface roughness of the AO-attacked surface of the composite films. Figure 12 showed the AFM images of the AO-eroded POSS-PI composite films in a 2D height scan on an area of  $10\mu \mathrm{m}\times 10\mu \mathrm{m}$ . AO exposure obviously increased the surface roughness of the films, as indicated by the large peak-to-valley depth  $(R_{\mathrm{t}})$ . Basically, the surface roughness caused by the AO exposure decreased gradually with the increasing contents of POSS components in the films due to the formation of compact passivation layer. For instance, the  $R_{\mathrm{t}}$  values of the composite films decreased from the initial value of  $-286.3 - 285.2\mathrm{nm}$  of POSS-PI-10-AO to  $-19.0 - 41.2\mathrm{nm}$  of POSS-PI-30-AO. This result indicates that the distribution of passivation layer onto the surface of the composite films progressively became dense and compact, thus providing much efficient protection for the underlying films and apparently reducing the AO erosion yield of the composite films.
+200: 
+201: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+202: 
+203: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+204: 
+205: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+206: 
+207: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+208: Figure 12. Atomic force microscopy (AFM) patterns of POSS-PI composite films after AO exposure (Fluence:  $2.51 \times 10^{21} \, \text{atom/cm}^2$ ).
+209: 
+210: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)

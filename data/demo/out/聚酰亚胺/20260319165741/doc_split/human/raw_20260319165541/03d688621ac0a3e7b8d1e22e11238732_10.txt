@@ -1,0 +1,23 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 10
+block_id: b0011
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Thermoxidative Properties
+line_span: [102, 110]
+char_span: [16499, 18710]
+line_count: 7
+effective_body_non_empty_lines: 3
+
+lines:
+--- chunk (b0011: Thermoxidative Properties) ---
+102: # Thermoxidative Properties
+103: 
+104: Figure 7a clearly shows the onset of the degradation temperature of the raw, acid and amine modified MWCNTs. In the case of as produced MWCNTs, the weight loss starts at  $475^{\circ}\mathrm{C}$ , whereas in case of modified tubes the weight loss initiation temperatures shifts to around  $300^{\circ}\mathrm{C}$  for acid modified and  $230^{\circ}\mathrm{C}$  for amine modified tubes. The curves of the modified tubes show the weight loss in two steps, the initial one before  $400^{\circ}\mathrm{C}$  is due to decomposition of the functional groups, while the other one relates to the oxidation of the nanotubes. A weight loss of  $\sim 17\%$  for acid-MWCNTs and  $\sim 40\%$  for amide-MWCNTs is observed which quantitatively estimates these functional groups to 6 and  $5\mathrm{mmol / g}$ , respectively. These values are quite high as compared to previous results from Reto et al. [12], Hu et al. [9] and Datsyuk et al. [15].
+105: 
+106: The weight loss behaviour of the respective composites with different weight fractions of functionalized MWCNTs are presented in Fig.7b and c. It is clear from the TGA curves that with increase in the acid-MWCNTs loading,
+107: 
+108: degradation temperature  $(T_{\mathrm{d}})$  also increases up to  $3\mathrm{wt}\%$  which is due to the synergistic of polyimide and MWCNTs wherein large volume of polyamic acid is converted into polyimide. However, when MWCNTs loading is increased to  $5\mathrm{wt}\%$  slight decrease in the  $T_{\mathrm{d}}$  is observed. This can be attributed to the interference produced by the large number of acidic groups present on the MWCNTs which reduces the percentage conversion of polyamic acid to polyimide. In case of amide-MWCNTs/polyimide, nanocomposites increase in MWCNTs loading does not seem to show much increment in the  $T_{\mathrm{d}}$ , which is explained by the fact that the amine group present onto the amine-MWCNTs inhibits the imidization process [7, 8]. Table 1 shows the numerical values of the  $T_{\mathrm{d}}$  at different loadings. The table also provides degradation temperature corresponding to  $5\%$  wt loss  $(T_{5})$  values of the composites, showing similar trend as  $T_{\mathrm{d}}$ .

@@ -1,0 +1,67 @@
+source_file: Alicyclic PolyimideSiO2 Mixed Matrix Membranes for Watern-Butanol Pervaporation.md
+doc_id: e0b3ab252e5119414a412cf73a251285
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Alicyclic Polyimide/SiO $_2$  Mixed Matrix Membranes for Water/n-Butanol Pervaporation
+line_span: [1, 53]
+char_span: [0, 3220]
+line_count: 51
+effective_body_non_empty_lines: 29
+
+lines:
+--- chunk (b0001: Alicyclic Polyimide/SiO $_2$  Mixed Matrix Membranes for Water/n-Butanol Pervaporation) ---
+1: [MINERU_DISCARDED_META]
+2: A
+3: membranes
+4: MDPI
+5: Membranes 2021, 11, 564. https://doi.org/10.3390/membranes11080564
+6: https://www.mdpi.com/journal/membranes
+7: [/MINERU_DISCARDED_META]
+8: 
+9: Article
+10: 
+11: # Alicyclic Polyimide/SiO $_2$  Mixed Matrix Membranes for Water/n-Butanol Pervaporation
+12: 
+13: Ching-Wen Hsieh  $^{1}$ , Bo-Xian Li  $^{1}$  and Shing-Yi Suen  $^{1,2,*}$
+14: 
+15: $^{1}$  Department of Chemical Engineering, National Chung Hsing University, Taichung 402, Taiwan; d100065008@mail.nchu.edu.tw (C.-W.H.); sa4104065009@smail.nchu.edu.tw (B.-X.L.)  
+16: 2 i-Center for Advanced Science and Technology, National Chung Hsing University, Taichung 402, Taiwan  
+17: * Correspondence: sysuen@nchu.edu.tw
+18: 
+19: Abstract: Alicyclic polyimides (PIs) have excellent properties in solubility, mechanical strength, thermal property, etc. This study developed two types of alicyclic PI-based mixed matrix membranes (MMMs) for water/n-butanol pervaporation application, which have never been investigated previously. The fillers were hydrophilic  $\mathrm{SiO}_2$  nanoparticles. The synthesized PI was mixed with  $\mathrm{SiO}_2$  nanoparticles in DMAc to make the casting solution, and a liquid film was formed over PET substrate using doctor blade. A dense MMM was fabricated at  $80^{\circ}\mathrm{C}$  and further treated via multistage curing  $(100 - 170^{\circ}\mathrm{C})$ . The prepared membranes were characterized by FTIR, TGA, FE-SEM, water contact angle, and solvent swelling. The trends of pure solvent swelling effects agree well with the water contact angle results. Moreover, the pervaporation efficiencies of alicyclic PI/ $\mathrm{SiO}_2$  MMMs for  $85\mathrm{wt}\%$  n-butanol aqueous solution at  $40^{\circ}\mathrm{C}$  were investigated. The results showed that BCDA-3,4'-ODA/ $\mathrm{SiO}_2$  MMMs had a larger permeation flux and higher separation factor than BCDA-1,3,3-APB/ $\mathrm{SiO}_2$  MMMs. For both types of MMMs, the separation factor increased first and then decreased, with increasing  $\mathrm{SiO}_2$  loading. Based on the PSI performance, the optimal  $\mathrm{SiO}_2$  content was  $0.5\mathrm{wt}\%$  for BCDA-3,4'-ODA/ $\mathrm{SiO}_2$  MMMs and  $5\mathrm{wt}\%$  for BCDA-1,3,3-APB/ $\mathrm{SiO}_2$  MMMs. The overall separation efficiency of BCDA-3,4'-ODA-based membranes was 10-30-fold higher.
+20: 
+21: Keywords: mixed matrix membrane; alicyclic polyimide; pervaporation
+22: 
+23: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+24: 
+25: check for updates
+26: 
+27: Citation: Hsieh, C.-W.; Li, B.-X.; Suen, S.-Y. Alicyclic Polyimide/SiO $_2$
+28: 
+29: Mixed Matrix Membranes for
+30: 
+31: Water/n-Butanol Pervaporation.
+32: 
+33: Membranes 2021, 11, 564.
+34: 
+35: https://doi.org/10.3390/
+36: 
+37: membranes11080564
+38: 
+39: Academic Editor: Alexander Toikka
+40: 
+41: Received: 22 June 2021
+42: 
+43: Accepted: 23 July 2021
+44: 
+45: Published: 27 July 2021
+46: 
+47: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+48: 
+49: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+50: 
+51: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).

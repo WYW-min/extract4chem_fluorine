@@ -1,0 +1,28 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 23
+block_id: b0024
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: PASSIVE SINGLE CELL PERFORMANCE
+line_span: [312, 325]
+char_span: [51145, 53197]
+line_count: 12
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0024: PASSIVE SINGLE CELL PERFORMANCE) ---
+312: # PASSIVE SINGLE CELL PERFORMANCE
+313: 
+314: The optimized composite membrane SPI/sRHA was tested using a passive single cell to investigate its DMFC performance. Figure 10 illustrates the power density and polarization curves of the optimized SPI/sRHA (S-12-sR) composite membrane, pristine SPI and Nafion 117 membranes. In Figure 10, it showed that under the optimized synthesis conditions, S-12-sR composite membrane outperformed the pristine SPI by giving the highest passive single DMFC maximum power density, which was  $16.4\mathrm{mWcm}^{-2}$ . This value was the two-fold of the pure SPI membrane  $(8.1\mathrm{mWcm}^{-2})$ .
+315: 
+316: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+317: FIGURE 10. Polarization and power density curves of optimized S-12-sR composite membrane, pure SPI membrane and commercial Nafion 117 membrane using  $2\mathrm{M}$  methanol solution at room temperature
+318: 
+319: The presence of sRHA in SPI polymer matrix had improved the membrane performances in term of water intake, proton conductivity and IEC. These physicochemical properties enabled the optimized membrane to have high water uptake, enhanced proton conductivity and
+320: 
+321: improved IEC performances. Hence, with the optimum amount of sRHA added, it intensified the passive single cell performance. Besides that, the optimized SPI/sRHA composite membrane displayed  $23.31\%$  higher in the value of maximum power density as compared to commercial
+322: 
+323: Nafion 117 membrane, which was only  $13.3\mathrm{mWcm}^{-2}$  in this work. Nafion 117 was always facing the challenge of low tolerance in methanol crossover. The incorporation of sRHA in SPI matrix helped the optimized S-12-sR composite membrane to have low methanol permeability as rice husk ash blocked the methanol transport via the ionic channels present in the membrane matrix. Hence, it proved that with the enhanced physicochemical properties of the optimized S-12-sR membrane, the optimization of the filler loading, annealing temperature and filler type will give the highest performance of passive DMFC.

@@ -1,0 +1,25 @@
+source_file: Carborane-Containing Aromatic Polyimide Films with Ultrahigh Thermo-Oxidative Stability.md
+doc_id: c71e2616cedfda9fcf5f09260a8bd28e
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [29, 39]
+char_span: [2288, 6219]
+line_count: 9
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+29: # 1. Introduction
+30: 
+31: Aromatic polyimide films have been extensively utilized in a variety of applications from microelectronic and optoelectronic devices to aerospace industries, owing to its excellent thermal stability, dielectric and electrical insulating performance, mechanical properties, and chemical and radiation resistance [1-7]. With the rapid development of high-tech fields, polyimide films have also been attempted to be used as gas separation membranes [8-11], battery separators [12-15], thermally conductive films [16-18], transparent electrodes [19-22], etc. Although polyimide is one of the most thermal stable polymers, it starts rapid thermal or thermo-oxidative decomposition at the beginning from  $500 - 550^{\circ}\mathrm{C}$  and loses most of its original weight at about  $600 - 650^{\circ}\mathrm{C}$ , which restricts its application in extreme environments, such as engine culverts in airplanes, nuclear power stations, and submarines. In those circumstances, high temperatures and repeated thermal cycles require thermal and thermos-oxidative stability of materials at elevated temperatures. In order to improve the thermal or thermo-oxidative stability, polyimide films are usually coated with metal or inorganic oxide protection layer or blended with inorganic fillers [23-27]. However, the mismatching of the coefficient of thermal expansion (CTE) between inorganic coatings and polymer matrices might result in serious troubles such as delamination, curl, or crack after harsh heat shocking [28]. Although the addition of inorganic fillers into polymer matrices to form hybrid structures is an effective pathway in enhancing
+32: 
+33: thermo-oxidative stability of polymer materials, the limited filler loadings and the poor miscibility of inorganic fillers and organic matrices are the big issues [26,27,29,30]. Hence, developing intrinsic thermo-oxidative stable polymers is still the desirable pathway.
+34: 
+35: Incorporating the carborane  $(\mathrm{C}_2\mathrm{B}_{10}\mathrm{H}_{12})$  cage structure into the polymer backbone has been found to provide a promising pathway to improve the thermo-oxidative stability of polymer materials due to the reaction of carborane with oxygen atoms to yield a boron oxide layer [31]. The icosahedral carborane structure has two carbon atoms in a symmetrical polyhedral cage, exhibiting three-dimensional aromaticity [32-34]. Y.P. Bai et al. synthesized wholly carborane-containing polyesters exhibiting a char yield of  $64\%$  in air and  $47\%$  in N2 at  $700^{\circ}\mathrm{C}$ , respectively, much superior to the carborane-free polyesters [35]. Zh. J. Zhang et al. synthesized a series of exactly alternating carborane-siloxane polymers showing excellent thermal stability with char yields of  $\geq 83\%$  both in air at  $800^{\circ}\mathrm{C}$  and in nitrogen at  $1000^{\circ}\mathrm{C}$ , respectively [36]. X. D. Jia et al. introduced a meta-carborane structure into the polybenzoxazine main-chain via click reaction showing a  $5\%$  weight loss at temperatures above  $400^{\circ}\mathrm{C}$  and high char yield of  $76\%$  in air at  $800^{\circ}\mathrm{C}$  [37].
+36: 
+37: In this paper, a series of carborane-containing aromatic polyimide (CPI) films with carborane cage structures in the polymer backbone have been prepared by copolymerization of aromatic dianhydride and a mixture of aromatic diamines, including 1,7-bis(aminophenyl)-meta-carborane. Experimental results indicated that the carborane containing polyimide films demonstrated great thermo-oxidative stability at temperatures of as high as  $700^{\circ}\mathrm{C}$ . The effect of polyimide structures on the thermal properties have been systematically investigated, and a mechanism of thermo-oxidative degradation was proposed. Combined with the neutron-trapping ability of the boron atoms, the thermal-oxidative stable CPI we reported were potential candidates in nuclear power applications.

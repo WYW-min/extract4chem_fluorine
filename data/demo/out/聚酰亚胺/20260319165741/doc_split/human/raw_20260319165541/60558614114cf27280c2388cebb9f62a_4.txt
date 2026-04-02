@@ -1,0 +1,31 @@
+source_file: Direct Ink Writing of Phenylethynyl End-Capped OligoimideSiO2 to Additively Manufacture High-Performance Therm.md
+doc_id: 60558614114cf27280c2388cebb9f62a
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [216, 232]
+char_span: [34873, 37009]
+line_count: 15
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+216: # 4. Conclusions
+217: 
+218: In summary, we established a simple strategy to 3D print thermal setting poly-imides using DIW technology. Based on phenylethynyl end-capped  $\mathrm{SiO}_2@oligoimide$  self-supporting ink, the printing parameters of extruding pressure, the moving speed of the nozzle, and z-spacing were studied, and structures with tailored geometry were successfully printed. After the curing procedure was operated, the maximum dimensional shrinkage was only  $16\%$ . Additionally, the printed samples exhibited highly anisotropic behavior, which could be described as the average tensile strengths for when the X and Y orientations were  $95.0\mathrm{MPa}$  and  $34.9\mathrm{MPa}$ , respectively. Both the printed  $\mathrm{SiO}_2@TSPI$  composite and TSPI showed considerable thermal properties and thermo-stability, and their T5% values were higher than  $515^{\circ}\mathrm{C}$ . The thermal properties and thermo-stability of the printed  $\mathrm{SiO}_2@TSPI$  composite were superior to those of the TSPI composite. Overall, this method may extend the applications of thermosetting polymers by providing a simple and convenient strategy to manufacture 3D parts with outstanding performance.
+219: 
+220: Author Contributions: K.L., J.D. and Y.G. contributed equally. Conceptualization, C.G. and X.W.; methodology, K.L., W.W. and J.D.; validation, Y.G. and Z.J.; formal analysis, Q.P., K.L., H.W. and J.J.; investigation, K.L., J.D., W.W. and Y.G.; writing—original draft preparation, K.L. and J.D.; writing—review and editing, C.G. and X.W.; supervision, C.G., Z.J. and X.W.; project administration, C.G. and X.W. All authors have read and agreed to the published version of the manuscript.
+221: 
+222: Funding: This research was funded by the Natural Science Foundation of China (no. 21975112, 51935012, 52175201) and the Western Light Project of CAS.
+223: 
+224: Institutional Review Board Statement: Not applicable.
+225: 
+226: Informed Consent Statement: Not applicable.
+227: 
+228: Data Availability Statement: The data presented in this study are available on request from the corresponding authors.
+229: 
+230: Conflicts of Interest: The authors declare no conflict of interest.

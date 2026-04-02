@@ -1,0 +1,50 @@
+source_file: Atomic Oxygen-Resistant Polyimide Composite Films Containing Nanocaged Polyhedral Oligomeric Silsesquioxane Co.md
+doc_id: b037a535df732e8934bf61f9b9ad2a01
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [230, 263]
+char_span: [39676, 46610]
+line_count: 34
+effective_body_non_empty_lines: 31
+
+lines:
+--- chunk (b0006: References) ---
+230: # References
+231: 
+232: 1. Gouzman, I.; Grossman, E.; Verker, R.; Atar, N.; Bolker, A.; Elia, N. Advances in polyimide-Based materials for space applications. Adv. Mater. 2019, 31, 1807738. [CrossRef] [PubMed]  
+233: 2. Samwel, S.W. Low earth orbital atomic oxygen erosion effect on spacecraft material. Space Res. J. 2014, 7, 1-13. [CrossRef]  
+234: 3. Minton, T.K.; Wu, B.; Zhang, J.; Lindholm, N.F.; Abdulagatov, A.I.; O'Patchen, J.; George, S.M.; Groner, M.D. Protecting polymers in space with atomic layer deposition coatings. ACS Appl. Mater. Interfaces 2010, 2, 2515-2520. [CrossRef] [PubMed]  
+235: 4. Dever, J.A.; Miller, S.K.; Sechkar, E.A.; Wittberg, T.N. Space environment exposure of polymer films on the materials international space station experiment: Results from MISSE 1 and MISSE 2. High Perform. Polym. 2008, 20, 371-387. [CrossRef]  
+236: 5. Miller, S.K.R.; Banks, B.A.; Waters, D.L. Investigation into the differences between atomic oxygen erosion yields of materials in ground-based facilities and LEO. High Perform. Polym. 2008, 20, 523-534. [CrossRef]  
+237: 6. Waters, D.L.; Banks, B.A.; De Groh, K.K.; Miller, S.K.R.; Thorson, S.D. The atomic oxygen erosion depth and cone height of various materials at hyperthermal energy. High Perform. Polym. 2008, 20, 512-522. [CrossRef]  
+238: 7. Zhao, W.; Li, W.; Liu, H.; Zhu, L. Erosion of a polyimide material exposed to simulated atomic oxygen environment. Chin. J. Aeronaut. 2010, 23, 268-273.  
+239: 8. Devapal, D.; Packirisamy, S.; Korulla, R.M.; Ninan, K.N. Atomic oxygen resistant coating from poly(tetramethyldisilylene-costyrene). J. Appl. Polym. Sci. 2004, 94, 2368-2375. [CrossRef]  
+240: 9. Lei, X.; Yao, P.; Qiao, M.; Sun, W.; Zhang, H.; Zhang, Q. Atomic oxygen resistance of polyimide/silicon hybrid thin films with different compositions and architectures. High Perform. Polym. 2014, 26, 712-724. [CrossRef]  
+241: 10. Xiao, F.; Wang, K.; Zhan, M. Atomic oxygen erosion resistance of titania-polyimide hybrid films derived from titanium tetrabutoxide and polyamic acid. J. Appl. Polym. Sci. 2012, 123, 143-151. [CrossRef]  
+242: 11. Tagawa, M.; Yokota, K.; Ohmae, N.; Kinoshita, H. Volume diffusion of atomic oxygen in alpha-SiO $_2$  protective coating. *High Perform. Polym.* **2000**, 12, 53–63. [CrossRef]  
+243: 12. Duo, S.; Chang, Y.; Liu, T.; Zhang, H. Atomic oxygen erosion resistance of polysiloxane/POSS hybrid coatings on Kapton. Phys. Proc. 2013, 50, 337-342. [CrossRef]  
+244: 13. Duo, S.; Song, M.; Liu, T.; Hu, C.; Li, M. Erosion effects of atomic oxygen on polyhedral pligomeric silsesquioxane-polyimide hybrid films in low earth orbit space environment. J. Nanosci. Nanotechnol. 2013, 13, 1356-1359. [CrossRef] [PubMed]  
+245: 14. Xiao, F.; Wang, K.; Zhan, M. Atomic oxygen resistant phosphorus-containing polyimides for LEO environment. J. Mater. Sci. 2012, 47, 4904-4913. [CrossRef]  
+246: 15. Wang, C.; Jiang, H.; Tian, D.; Qin, W.; Chen, C.; Zhao, X.; Zhou, H.; Wang, D. Atomic oxygen effects on polymers containing silicon or phosphorus: Mass loss, erosion yield, and surface morphology. High Perform. Polym. 2019, 31, 969-976.  
+247: 16. Atar, N.; Grossman, E.; Gouzman, I.; Bolker, A.; Murray, V.J.; Marshall, B.C.; Qian, M.; Minton, T.K.; Hanein, Y. Atomic-oxygen-durable and electrically-conductive CNT-POSS-Polyimide flexible films for space applications. ACS Appl. Mater. Interfaces 2015, 7, 12047-12056. [CrossRef]  
+248: 17. Wang, X.; Li, Y.; Qian, Y.; Qi, H.; Li, J.; Sun, J. Mechanically robust atomic oxygen-resistant coatings capable of autonomously healing damage in low earth orbit space environment. Adv. Mater. 2018, 30, 1803854. [CrossRef]  
+249: 18. Liu, Y.; Li, G. Numerical simulation on atomic oxygen undercutting of Kapton film in low earth orbit. Acta Astronaut. 2010, 67, 388-395. [CrossRef]
+250: 
+251: 19. Gilman, J.W.; Schlitzer, D.S.; Lichtenhan, J.D. Low earth orbit resistant siloxane copolymers. J. Appl. Polym. Sci. 1996, 60, 591-596. [CrossRef]  
+252: 20. Li, Z.; Song, H.; He, M.; Liu, J.; Yang, S. Atomic oxygen-resistant and transparent polyimide coatings from [3,5-bis (3-aminophenoxy) phenyl] diphenylphosphine oxide and aromatic dianhydrides: Preparation and characterization. Prog. Org. Coat. 2012, 75, 49-58. [CrossRef]  
+253: 21. Wu, B.; Zhang, Y.; Yang, D.; Yang, Y.; Yu, Q.; Che, L.; Liu, J. Self-healing anti-atomic-oxygen phosphorus-containing polyimide film via molecular level incorporation of nanocage trisilanolphenyl POSS: Preparation and characterization. Polymers 2019, 11, 1013. [CrossRef] [PubMed]  
+254: 22. Song, G.; Li, X.; Jiang, Q.; Mu, J.; Jiang, Z. A novel structural polyimide material with synergistic phosphorus and POSS for atomic oxygen resistance. RSC Adv. 2015, 5, 11980-11988. [CrossRef]  
+255: 23. Mohamed, M.G.; Kuo, S.W. Functional polyimide/polyhedral oligomeric silsesquioxane nanocomposites. Polymers 2018, 11, 26. [CrossRef] [PubMed]  
+256: 24. Minton, T.K.; Wright, M.E.; Tomczak, S.J.; Marquez, S.A.; Shen, L.; Brunsvold, A.L.; Cooper, R.; Zhang, J.; Vij, V.; Guenthner, A.J.; et al. Atomic oxygen effects on POSS polyimides in low earth orbit. ACS Appl. Mater. Interfaces 2012, 4, 492-502. [CrossRef]  
+257: 25. Lei, X.F.; Chen, Y.; Zhang, H.P.; Li, X.J.; Yao, P.; Zhang, Q.Y. Space survivable polyimides with excellent optical transparency and self-healing properties derived from hyperbranched polysiloxane. ACS Appl. Mater. Interfaces 2013, 5, 10207-10220. [CrossRef]  
+258: 26. Li, X.; Al-Ostaz, A.; Jaradat, M.; Rahmani, F.; Nouranian, S.; Rushing, G.; Manasrah, A.; Alkhateb, H.; Finckenor, M.; Lichtenhan, J. Substantially enhanced durability of polyhedral oligomeric silsequioxane-polyimide nanocomposites against atomic oxygen erosion. Eur. Polym. J. 2017, 92, 233-249. [CrossRef]  
+259: 27. Qian, M.; Murray, V.J.; Wei, W.; Marshall, B.C.; Minton, T.K. Resistance of POSS polyimide blends to hyperthermal atomic oxygen attack. ACS Appl. Mater. Interfaces 2016, 8, 33982-33992. [CrossRef] [PubMed]  
+260: 28. Wang, P.; Tang, Y.; Yu, Z.; Gu, J.; Kong, J. Advanced aromatic polymers with excellent antiatomic oxygen performance derived from molecular precursor strategy and copolymerization of polyhedral oligomeric silsesquioxane. ACS Appl. Mater. Interfaces 2015, 7, 20144-20155. [CrossRef] [PubMed]  
+261: 29. Lei, X.; Qiao, M.; Tian, L.; Chen, Y.; Zhang, Q. Evolution of surface chemistry and morphology of hyperbranched polysiloxane polyimides in simulated atomic oxygen environment. Corros. Sci. 2015, 98, 560-572. [CrossRef]  
+262: 30. Wu, H.; Zhang, Y.; Guo, Y.D.; Qi, H.R.; An, Y.C.; Jia, Y.J.; Tan, Y.Y.; Liu, J.G.; Wu, B.H. Preparation and properties of intrinsically atomic-oxygen resistant polyimide films containing polyhedral oligomeric silsesquioxane (POSS) in the side chains. Polymers 2020, 12, 2865. [CrossRef] [PubMed]  
+263: 31. Zhang, Y.; Liu, J.G.; Wu, X.; Guo, C.Y.; Qu, L.Q.; Zhang, X.M. Trisilanolphenyl-POSS nano-hybrid poly(phenyl dianhydride-p-phenylenediamine) polyimide composite films: Miscibility and structure-property relationship. J. Polym. Res. 2018, 25, 139. [CrossRef]

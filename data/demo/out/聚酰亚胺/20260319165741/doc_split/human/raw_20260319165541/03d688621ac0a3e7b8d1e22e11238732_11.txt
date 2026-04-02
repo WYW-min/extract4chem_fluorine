@@ -1,0 +1,44 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 11
+block_id: b0012
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Mechanical Properties
+line_span: [110, 139]
+char_span: [18710, 22381]
+line_count: 28
+effective_body_non_empty_lines: 15
+
+lines:
+--- chunk (b0012: Mechanical Properties) ---
+110: # Mechanical Properties
+111: 
+112: The TS and YM of the nanocomposites with different MWCNT loadings are plotted in Figs. 8a and b, respectively. It is very much evident from the plots that there is a sharp rise in the mechanical properties at small loadings of functionalized MWCNTs. The increase is more gradual with higher loadings ( $>3\mathrm{wt}\%$ ). The difference in the TS values of the two composites is maximum at  $1\mathrm{wt}\%$  loading, wherein the amide-MWCNT/polyimide composite strength is  $136\mathrm{MPa}$  as compared to only  $110\mathrm{MPa}$  for acid-MWNT/polyimide composite. The difference in the TS values narrows down with higher loadings of the tubes so much so that at  $5\mathrm{wt}\%$  of MWCNTs, the TS of acid-MWCNT/polyimide composite becomes higher ( $151\mathrm{MPa}$ ) relative to amide-MWCNTs/polyimide composites ( $126\mathrm{MPa}$ ). This is very close to the value  $165.5\mathrm{MPa}$
+113: 
+114: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+115: Fig. 4 FTIR spectra of a neat polyimide and b 2 wt% amide-MWCNTs reinforced polyimide composite
+116: 
+117: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+118: 
+119: reported only by Mo et al. [3] with  $7\mathrm{wt}\%$  CNT loadings in polyimide. The fracture surfaces of the two composites are completely different. While in case of amine functionalized tubes a thick coating of the polymer matrix (Fig. 6b) is observed, in case of acid modified tubes such coating is either much thinner or even absent (Fig. 6a). Most of amine functionalized tubes remain embedded in the matrix, with few exceptions of MWCNT pull outs. Interestingly the pull out tubes show a telescopic failure (shown by arrows) and suggestive of sharing of load by the tubes before fracture due to strong MWCNT-polyimide bonding. There can be two reasons for lowering the strength at
+120: 
+121: higher loadings. Firstly, it can be traced to longer chains of amine groups present on the surface of the tubes. The longer alkyl chains provide more repulsion between the individual MWCNT, hence the available surface area for of the MWCNTs will be more as compared to acid-MWCNTs. The corresponding amount of polymer will not be sufficient to properly wet the large volume of MWCNTs surface, therefore creating voids in the composites. Secondly, the amine group present on the surface of MWCNTs may react with the polyamic acid and lower the imidization of polyamic acid to polyimide. The unreacted polyamic acid may be a cause of premature failure of the composites.
+122: 
+123: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+124: 
+125: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+126: Fig. 6 SEM fractographs of a  $2\mathrm{wt}\%$  acid modified-MWCNTs/ polyimide nanocomposites and b  $2\mathrm{wt}\%$  amide-MWCNTs/polyimide nanocomposites
+127: 
+128: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+129: Fig. 5 SEM images of a raw, b acid modified-MWCNTs and c amide-MWCNTs
+130: 
+131: As in the case of TS, the YM of the amide-MWCNTs/polyimide is also higher (3.5 GPa) up to 3 wt% of MWCNT loadings as compared to only 2.75 GPa for acid-MWCNTs/polyimide nanocomposites. However, the value is much higher as compared to neat polyimide film (YM = 2.4 GPa). The study shows that the mechanical properties obtained with amide-MWCNTs/polyimide and that of acid-MWCNTs/polyimide composites are almost
+132: 
+133: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+134: 
+135: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+136: 
+137: equivalent, the only difference being that these are achieved with only  $3\mathrm{wt}\%$  of MWCNT in case of former and with  $5\mathrm{wt}\%$  in case of the latter.

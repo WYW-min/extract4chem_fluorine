@@ -1,0 +1,49 @@
+source_file: Nanoindentation studies of polyimide thin films with various internal linkages in the diamine component.md
+doc_id: f2c1469c1d0d0e95ebc6f56b2b9088f3
+chunk_index: 3
+block_id: b0004
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Measurements
+line_span: [41, 75]
+char_span: [8224, 12725]
+line_count: 33
+effective_body_non_empty_lines: 18
+
+lines:
+--- chunk (b0004: Measurements) ---
+41: # Measurements
+42: 
+43: A nanohardness tester (MTS XP System) was used to measure the mechanical properties of the
+44: 
+45: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+46: 
+47: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+48: (a)
+49: 
+50: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+51: 
+52: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+53: (b)  
+54: Figure 1. (a) Synthetic scheme of the PAA precursor and its polyimide. (b) Chemical backbone structure of polyimides.
+55: 
+56: polyimide thin films. A Berkovich (three-facedpyramid) indenter was used in this study. Multiple indentations were made at different locations of the film surface at a fixed and applied load. At different locations, the load-displacement curve was recorded, from which the effective modulus and hardness could be calculated with standard formulas.[24-26] In addition, the actual plastic (permanent) deformation was determined at the end of each loading cycle.
+57: 
+58: The out-of-plane and in-plane refractive indices of the polyimide thin films were measured with a prism coupler (Metricron model 2010) equipped with a He-Ne laser light source (wavelength = 632.8 nm), which was controlled with a personal computer. The measurements of the refractive indices were carried out in transverse electric (TE) and transverse magnetic (TM) modes with the appropriate polarization of the incident laser beam, as described elsewhere. The
+59: 
+60: TE measurement in which the electric field was in the film plane provided the in-plane refractive index  $(n_{\mathrm{TE}})$ , whereas the TM measurement in which the electric field was out-of-plane gave the out-of-plane refractive index  $(n_{\mathrm{TM}})$ . All measurements were performed with a cubic zirconia prism of  $n_{\mathrm{TE}} = n_{\mathrm{TM}} = 2.1677$ .
+61: 
+62: WAXD patterns were obtained for the polyimide thin films with a Rigaku horizontal X-ray diffractometer (model D/Max-200B) with nickel-filtered radiation. One diffractometer was set up for the transmission mode (i.e., reflections from lattice planes normal to the film surface) with a thin, asymmetric cut (101) quartz plate monochromator bent to a section of a logarithmic spiral and located in the diffracted beam. The other was used for the reflection mode (i.e., reflections from lattice planes parallel to the film surface) with a curved graphite monochromator in the diffracted beam. The  $\mathrm{CuK}\alpha$  radiation source  $(\lambda = 1.54\AA)$  was operated at  $35\mathrm{kV}$  and  $40\mathrm{mA}$ . All the WAXD measurements were carried out in the  $\theta /2\theta$  mode. The  $2\theta$  scan data were collected from 5 to  $60^{\circ}$  at  $0.02^{\circ}$  intervals at a scanning speed of  $0.3 - 0.5^{\circ}$  min $^{-1}$ , which depended on whether a reflection or transmission scan was being made. The measured X-ray diffraction intensities were corrected for the background run and then normalized for the film samples by the matching of the integrated intensity over the range of  $58 - 60^{\circ}(2\theta)$ .
+63: 
+64: The dynamic mechanical thermal analysis (DMTA) measurements were performed with a
+65: 
+66: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+67: Figure 2. Indentation response of the polyimide thin films with a load of  $0.126\mathrm{mN}$ .
+68: 
+69: Table 1. Nanoindentation Data of the Polyimide Thin Films  
+70: 
+71: <table><tr><td>Polymer</td><td>Load (mN)</td><td>Depth (nm)</td><td>Modulus (GPa)</td><td>Hardness (GPa)</td></tr><tr><td rowspan="3">BPDA-PDA</td><td>0.089</td><td>86</td><td>6.75</td><td>0.749</td></tr><tr><td>0.126</td><td>107</td><td>6.68</td><td>0.709</td></tr><tr><td>0.162</td><td>123</td><td>6.67</td><td>0.687</td></tr><tr><td rowspan="3">BPDA-BZ</td><td>0.087</td><td>91</td><td>6.66</td><td>0.660</td></tr><tr><td>0.127</td><td>109</td><td>6.74</td><td>0.665</td></tr><tr><td>0.162</td><td>125</td><td>6.84</td><td>0.639</td></tr><tr><td rowspan="3">BPDA-ODA</td><td>0.086</td><td>103</td><td>5.77</td><td>0.453</td></tr><tr><td>0.124</td><td>129</td><td>5.68</td><td>0.420</td></tr><tr><td>0.159</td><td>151</td><td>5.63</td><td>0.386</td></tr><tr><td rowspan="3">BPDA-DDS</td><td>0.086</td><td>113</td><td>5.27</td><td>0.372</td></tr><tr><td>0.125</td><td>138</td><td>5.16</td><td>0.363</td></tr><tr><td>0.160</td><td>159</td><td>5.40</td><td>0.344</td></tr></table>
+72: 
+73: PL series (Polymer Laboratories Co.) from 50 to  $500^{\circ}\mathrm{C}$  at a heating rate of  $5^{\circ}\mathrm{C / min}$  and at a frequency of  $1\mathrm{Hz}$ .

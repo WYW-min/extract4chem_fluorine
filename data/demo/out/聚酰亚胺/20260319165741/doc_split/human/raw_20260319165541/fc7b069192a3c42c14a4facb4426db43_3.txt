@@ -1,0 +1,134 @@
+source_file: Electrospun Semi-Alicyclic Polyimide Nanofibrous Membrane High-Reflectance and High-Whiteness with Superior Th.md
+doc_id: fc7b069192a3c42c14a4facb4426db43
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [100, 219]
+char_span: [20083, 40714]
+line_count: 118
+effective_body_non_empty_lines: 61
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+100: # 3. Results and Discussion
+101: 
+102: # 3.1. PI Resin Synthesis and Electrospun PI NFM Preparation
+103: 
+104: A newly designed PI (HTDA-BDAF) was synthesized via a two-step imidization procedure, as illustrated in Figure 2. An alicylic dianhydride HTDA and a fluoro-containing diamine, BDAF, were used as the monomers for the PI synthesis. The nonconjugated alicylic units in HTDA and the large electronegativity of the C-F bonds in BDAF are anticipated to be able to efficiently prohibit the charge transfer (CT) interactions between the electron-donating diamine moiety and the electron-accepting dianhydride moiety [21]. This CT interaction was thought to be one of the main reasons inducing the coloration of conventional wholly aromatic PIs [29]. As expected, the polymerization reaction for the PI was stable and a homogeneous PI solution was obtained after the reaction. Fine and white PI resins were almost quantitatively obtained.
+105: 
+106: The PI resin showed an inherent viscosity  $\left[\eta\right]_{\mathrm{inh}}$  of  $0.63\mathrm{dLg}^{-1}$ , a number average molecular weight  $(M_{\mathrm{n}})$  of  $3.38\times 10^{4}\mathrm{g mol}^{-1}$ , and a weight average molecular weight  $(M_{\mathrm{w}})$  of  $5.76\times 10^{4}\mathrm{g mol}^{-1}$ , respectively, as shown in Table 2. It can be deduced from the moderate inherent viscosity and molecular weights of the PI resin that the alicyclic HTDA dianhydride showed good reactivity during the polymerization with BDAF. In addition, the PI resin exhibited a narrow PDI value of 1.70, indicating that rare side reactions occurred in the polymerization. The solubility of the PI resin in various solvents was detected and the results are shown in Table 2. It was easily soluble in the polar aprotic solvents, including NMP, DMAc, and DMF at room temperature, and partially soluble in less polar chloroform and THF. The good solubility of the current PI resin was mainly attributed
+107: 
+108: to the less conjugated molecular structure and low molecular packing density caused by the perhydro-naphthalene and bulky hexafluoroisopropylene units in the polymer. The excellent solubility of the PI resin makes it possible to use PI solutions to fabricate electrospun PI NFMs, which is helpful in reducing the coloration of the PI NFMs.
+109: 
+110: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+111: Figure 2. Synthesis of PI (HTDA-BDAF) resin.
+112: 
+113: Table 2. Inherent viscosities, molecular weights, and solubility of PI resins.  
+114: 
+115: <table><tr><td rowspan="2">Sample</td><td rowspan="2">[η]inh1(dL/g)</td><td colspan="4">Molecular Weight2(×104g/mol)</td><td colspan="4">Solubility3</td></tr><tr><td>Mn</td><td>Mw</td><td>PDI</td><td>NMP</td><td>DMAc</td><td>DMF</td><td>CHCl3</td><td>THF</td></tr><tr><td>PI (HTDA-BDAF)</td><td>0.63</td><td>3.38</td><td>5.76</td><td>1.70</td><td>++</td><td>++</td><td>++</td><td>+-</td><td>+-</td></tr></table>
+116: 
+117: 1 Inherent viscosity measured with PI resins at a concentration of  $0.5\mathrm{g}\mathrm{dL}^{-1}$  in NMP at  $25^{\circ}\mathrm{C};$ $2M_{\mathrm{n}}$  : number average molecular weight;  $M_{\mathrm{w}}$  : weight average molecular weight; PDI: polydispersity index  $(M_{\mathrm{w}} / M_{\mathrm{n}})$  .  $^{3} + +$  Soluble;  $+ -$  : partially soluble;  $-$  : insoluble;  $\mathrm{CHCl}_3$  : chloroform; THF: tetrahydrofuran.
+118: 
+119: Figure 3 shows the ATR-FTIR spectra of the PI and the starting HTDA dianhydride. It can be clearly observed that the characteristic absorptions of anhydride carbonyl in HTDA, especially the asymmetrical one at  $1848~\mathrm{cm}^{-1}$ , totally disappeared in the spectrum of PI. The symmetrical absorption of anhydride carbonyl in HTDA at  $1782~\mathrm{cm}^{-1}$  was overlapped with the characteristic absorptions of the imide rings. For the PI resin, the asymmetrical and symmetrical carbonyl stretching vibrations at the wavenumbers of  $1782~\mathrm{cm}^{-1}$  and  $1713~\mathrm{cm}^{-1}$ , respectively, and the C-N stretching vibration at  $1383~\mathrm{cm}^{-1}$  were clearly observed. Meanwhile, the characteristic absorptions of saturated C-H bonds in the HTDA moiety at  $2931~\mathrm{cm}^{-1}$  were detected in both spectra. However, the characteristic absorptions of unsaturated  $\mathrm{C = C}$  bonds at  $1501~\mathrm{cm}^{-1}$  and those of the C-F bonds at  $1171~\mathrm{cm}^{-1}$  were only detected in the spectrum of PI. The spectral information was in good consistency with the structural features of the PIs.
+120: 
+121: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+122: Figure 3. ATR-FTIR spectra of the PI (HTDA-BDAF) and the HTDA dianhydride.
+123: 
+124: Figure 4 depicts the  ${}^{1}\mathrm{H}$  NMR spectrum of the PI resin. The absorptions of the protons in the PI were clearly divided into two parts. The absorptions of the aromatic protons  $(\mathrm{H}_{13}\sim \mathrm{H}_{16})$  in the BDAF appeared at the downfield area in the spectrum (7.0-7.5 ppm), whereas the aliphatic protons  $(\mathrm{H}_1\sim \mathrm{H}_{12})$  in the HTDA moiety revealed the absorptions at the upfield region in the spectrum (1.0-3.5 ppm). This is also in good consistency with the theoretical molecular structure of the PI.
+125: 
+126: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+127: Figure 4.  ${}^{1}\mathrm{H}$  NMR spectrum of the PI(HTDA-BDAF) resin (NMR solvent: DMSO-  ${d}_{6}$  ).
+128: 
+129: A series of PI (HTDA-BDAF) NFMs were fabricated by the electrospinning procedure, as shown in Figure 5, with the tailored solid contents of the starting PI solution and the electrospinning parameters shown in Table 1. In order to understand the effects of the molecular structure on the properties of the PIs, the PI (HTDA-BDAF) film was also prepared with a procedure according to our previous work [30]. The appearances of the free-standing PI film and NFM are shown in Figure 6a,b, respectively. It could be clearly observed that the PI film exhibited a very pale-yellow appearance with excellent
+130: 
+131: optical transparency, and the opaque PI NFMs showed high whiteness. The microscopic morphologies of the PI NFMs were investigated by SEM measurements and the results are shown in Figure 6c-f. For comparison, the SEM image of the PI-ref NFM is shown in Figure 6g. The results indicated that PI nonwoven NFMs with random aligned fibers were all successfully prepared, although they showed different fiber morphologies. As expected, for the PI-1 NFM derived from PI solution with low a solid content (25 wt%) and low electrospinning voltage (12 kV), although the electrospun NFM with fine fibers could be obtained, bead-like structures were observed on the fibers, as shown in Figure 6c. This is mainly due to the relatively low viscosity of the starting PI solution. The formation of bead structures was gradually reduced by increasing the solid contents of the PI solution and adjusting the electrospun parameters, as shown in Figure 6d for PI-2, 6e for PI-3, and 6f for PI-4. The average fiber diameters  $(d_{\mathrm{av}})$  of the PI NFMs increased with the solid contents of the PI solutions. Thus, the optimal electrospinning parameters for the current PI NFMs included a solid content of  $30~\mathrm{wt}\%$  , an electrospinning voltage of  $15\mathrm{kV},$  and a spinneret inner diameter of  $0.21\mathrm{mm}$  . Under these conditions, PI-3 NFM with the smooth and fine fibers  $(d_{\mathrm{av}} = 710\mathrm{nm})$  was obtained.
+132: 
+133: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+134: Figure 5. Preparation of PI NFM via electrospinning procedure from soluble PI resin.
+135: 
+136: # 3.2. Optical Properties
+137: 
+138: In order to reveal the influence of the chemical structure and physical morphologies of the PI NFMs on the optical properties, the ultraviolet-visible light (UV-Vis) reflectance spectra and CIE Lab optical parameters of the PI NFMs were investigated. For the current applications, a higher UV-Vis reflectance and higher whiteness index (WI) for the PI NFMs are preferred in order to achieve a high efficiency. Figure 7 shows the UV-Vis reflectance spectra of the PI and PI-ref NFMs, and the reflectance values of the PI NFMs at the wavelength of  $457~\mathrm{nm}$  ( $R_{457}$ ) are listed in Table 3. It can be clearly observed from Figure 7a that the currently developed PI (HTDA-BDAF) NFMs showed much higher  $R_{457}$  values than that of the PI-ref NFM. For example, PI-3 NFM had a  $R_{457}$  value of  $90.2\%$  at room temperature, which was nearly  $53.0\%$  higher than that of the PI-ref NFM. It can be mainly attributed to the prohibited formation of the charge transfer complexes (CTC) in the molecular structures of the PI due to the existence of the nonconjugated alicyclic units in the HTDA moiety and the highly electronegative hexafluoroisopropylidene units in the BDAF moiety. Effects of the micro-morphologies of the PI NFMs on the optical reflectance could also be deduced from Figure 7b. The  $R_{457}$  values of the PI NFMs decreased with the order of PI-2 ( $91.3$ ) > PI-1 ( $90.4$ ) > PI-3 ( $90.2$ ) > PI-4 (89.5). The thinner fiber diameters and
+139: 
+140: the bead structures in PI-1 and PI-2 were beneficial for increasing the  $R_{457}$  values of the PI NFMs. For PI NFMs consisting of fine and smooth fibers, the smaller the average diameter of the fiber in the PI NFM, the higher the reflectance of the NFM to the light. PI-3 NFM exhibited a higher  $R_{457}$  value than that of PI-4, which is associated with the higher specific surface area of the former with a smaller  $d_{\mathrm{av}}$  value.
+141: 
+142: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+143: 
+144: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+145: 
+146: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+147: 
+148: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+149: 
+150: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+151: 
+152: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+153: 
+154: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+155: Figure 6. Macroscopic and microscopic morphology of PI samples. (a) Appearance of PI film; (b) appearance of PI membranes; (c-f) SEM images of PI-1, PI-2, PI-3, and PI-4 membranes, respectively; (g) SEM image of PI-ref NFM.
+156: 
+157: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+158: Figure 7. Optical properties of electrospun PI membranes. (a) UV-Vis reflectance plots of PI membranes in the range of  $250\sim 800 \mathrm{~nm}$ ; (b) UV-Vis reflectance plots of PI membranes in the range of  $400\sim 500 \mathrm{~nm}$ .
+159: 
+160: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+161: 
+162: Table 3. Comparison of optical properties of PI-3 and PS NFMs before and after thermal treatment.  
+163: 
+164: <table><tr><td>Samples</td><td>R457 (%)1</td><td>L*1</td><td>a*1</td><td>b*1</td><td>WI1</td></tr><tr><td>PI-1</td><td>90.4</td><td>91.02</td><td>-0.49</td><td>1.24</td><td>90.92</td></tr><tr><td>PI-2</td><td>91.3</td><td>91.49</td><td>-0.48</td><td>1.19</td><td>91.39</td></tr><tr><td>PI-3</td><td>90.2</td><td>91.38</td><td>-0.47</td><td>1.62</td><td>91.22</td></tr><tr><td>PI-4</td><td>89.5</td><td>90.94</td><td>-0.38</td><td>2.07</td><td>90.70</td></tr><tr><td>PI-ref2</td><td>37.3</td><td>84.65</td><td>1.62</td><td>37.96</td><td>59.00</td></tr><tr><td>PI-50 °C</td><td>95.7</td><td>94.50</td><td>-0.43</td><td>3.51</td><td>93.46</td></tr><tr><td>PI-200 °C</td><td>89.0</td><td>93.29</td><td>-0.28</td><td>6.17</td><td>90.88</td></tr><tr><td>PS</td><td>88.4</td><td>93.52</td><td>-0.49</td><td>1.78</td><td>93.26</td></tr><tr><td>PS-50 °C</td><td>88.1</td><td>93.37</td><td>-0.46</td><td>1.79</td><td>93.23</td></tr><tr><td>PS-150 °C</td><td>18.1</td><td>ND3</td><td>ND3</td><td>ND3</td><td>ND3</td></tr></table>
+165: 
+166: $^{1}R_{457}$ : Reflectance at a wavelength of  $457~\mathrm{nm}$ ; WI: whiteness index;  ${}^{2}$  PI-ref: poly(pyromellitic dianhydride-co-4,4'-oxydianiline) (PMDA-ODA) NFM derived from pyromellitic dianhydride (PMDA) and 4,4'-oxydianiline (ODA) [28];  ${}^{3}$  Not detected.
+167: 
+168: The CIE Lab optical parameters of the PI and PI-ref NFMs were compared and the results are shown in Figure 8. From the three-dimensional (3D) plots, one can clearly observe that the newly developed PI NFMs showed a much higher lightness  $(L^{*})$  and much lower yellow indices  $(b^{*})$  than those of the PI-ref NFM. However, the currently developed PI NFMs showed inferior optical parameters than those of the PS NFM, which was usually thought to be the standard high-whiteness polymer fabric. The polymer NFMs showed decreased whiteness indices (WI) with the order of PS  $(93.26) > \mathrm{PI - 3}$ $(91.22) > \mathrm{PI - ref}$  (59.00) according to the data shown in Table 3. This trend is in good consistency with the structural features of the polymers. For PS, the bulky and pendant phenyl side chains efficiently decreased the crystallinity of the molecular chains and improved the optical reflectance of the NFM. For PI (HTDA-BDAF), the synergistic effects of nonconjugated perhydro-naphthalene and highly electronegative  $-\mathrm{C}(\mathrm{CF}_3)_2$  groups endowed the NFM with good optical reflectance. Contrarily, the wholly aromatic and highly conjugated molecular structures of the PI-ref greatly deteriorated the optical properties of the derived NFM.
+169: 
+170: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+171: Figure 8. Three-dimensional (3D) plots of the CIE Lab parameters for electrospun PI, PI-ref, and PS membranes.
+172: 
+173: Besides the chemical factors that affect the whiteness of the polymer NFMs, the whiteness of polymer NFMs is also affected by the physical structure of the mats. It has been well established that the whiteness of the surfaces of Cyphochilus beetles and the poplar leaves is mainly caused by the disordered fiber structure [6,7]. It could be deduced from the appearance of the PIs shown in Figure 6 that the PI film was transparent, while
+174: 
+175: the PI NFM was opaque and showed brilliant whiteness. This indicated that fiber structure is an important factor affording the high-whiteness surfaces.
+176: 
+177: # 3.3. Thermal Properties
+178: 
+179: Although the PI (HTDA-BDAF) NFMs showed inferior optical properties than those of the PS NFM analog, they exhibited a much better thermal resistance than that of the PS NFM, as could be deduced from various thermal property evaluations. For the current applications, higher thermal stabilities for the polymers are highly preferred in order to achieve a high reliability and safety. The poor thermal stability of the commercially available high-whiteness polymer materials, such as PS, polylactic acid (PLA), and polyamide (nylon), is one of the key factors limiting their wide applications in high-temperature optoelectronic fields, such as the reflectors for high-power LED devices. The research and development of polymer materials with both high whiteness and high thermal stability is highly required for the high-tech applications. As PI stands for a class of thermally stable polymer, we expected that the PI NFMs might have excellent thermal stability. The thermal stability of PI NFMs was evaluated by thermogravimetric analysis (TGA) and differential scanning calorimetry (DSC) measurements, and the results are shown in Figure 9. The representative PI-3 NFM showed a glass transition temperature  $(T_{\mathrm{g}})$  as high as  $239.6^{\circ}\mathrm{C}$ , a  $5\%$  weight loss temperature  $(T_{5\%})$  of  $468.7^{\circ}\mathrm{C}$ , and a residual weight ratio at  $700^{\circ}\mathrm{C}$ $(R_{700})$  of  $26.2\%$  in nitrogen.
+180: 
+181: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+182: Figure 9. Thermal properties of PI-3 membrane. (a) TGA; (b) DSC.
+183: 
+184: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+185: 
+186: To further study the retention ability of whiteness level of the PI NFM at elevated temperatures, thermal treatments for PI-3 NFM and the referenced PS NMF were performed. The PI and PS NFMs thermally treated at different temperatures were named as  $\mathrm{PI - 50}^{\circ}\mathrm{C}$ ,  $\mathrm{PI - 200}^{\circ}\mathrm{C}$ ,  $\mathrm{PS - 50}^{\circ}\mathrm{C}$ , and  $\mathrm{PS - 150}^{\circ}\mathrm{C}$ , respectively, as shown in Table 3. The changes in appearances and microscopic morphologies of the polymer NFMs after heating treatment are shown in Figure 10. The UV-Vis reflectance spectra of the polymer NFMs after thermal treatment are shown in Figure 11. The corresponding optical data of the polymer NFMs after thermal treatment are tabulated in Table 3. It could be clearly observed from Figure 10a,d that the PI-3 NFM basically maintained the original whiteness even after thermal treatment at  $200^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ . The PI-3 NFM showed  $R_{457}$  values of  $90.2\%$  for the pristine sample,  $95.7\%$  for  $\mathrm{PI - 50}^{\circ}\mathrm{C}$ , and  $89.0\%$  for  $\mathrm{PI - 200}^{\circ}\mathrm{C}$ . Meanwhile, the PI-3 NFM showed WI values of 91.22 for the pristine sample, 93.46 for  $\mathrm{PI - 50}^{\circ}\mathrm{C}$ , and 90.88 for  $\mathrm{PI - 200}^{\circ}\mathrm{C}$ . Thus, the thermal treatment at a relatively lower temperature ( $50^{\circ}\mathrm{C}$ ) could increase the optical properties of the PI-3 NFM, which might be due to the releasing of the absorbed moisture in PI-3 NFM during the thermal treatment at  $50^{\circ}\mathrm{C}$ . Thermal treatment at an elevated temperature ( $200^{\circ}\mathrm{C}$ ) slightly deteriorated the optical properties of the PI NFM. For the PS NFM sample, although the thermal treatment process at  $50^{\circ}\mathrm{C}$  did not ap
+187: 
+188: parently affect the optical properties and micro-morphologies of the PS NFM (Figure 10e), the higher-temperature treatment at  $150^{\circ}\mathrm{C}$  nearly totally destroyed the fibrous structure of the polymer, as evidenced by Figure 10d,f. The PS NFM showed  $R_{457}$  values of  $88.4\%$  for the pristine sample,  $88.1\%$  for PS- $50^{\circ}\mathrm{C}$ , and  $18.1\%$  for PS- $150^{\circ}\mathrm{C}$ , as can be seen from Figure 11. Thus, the PS NFM exhibited a much poorer high-temperature resistance compared with that of the currently developed PI NFM. This phenomenon happened because of a relatively low  $T_{\mathrm{g}}$  of PS ( $\sim 100^{\circ}\mathrm{C}$ ) [31].
+189: 
+190: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+191: 
+192: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+193: 
+194: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+195: 
+196: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+197: Figure 10. Thermal stability of the high-whiteness membranes. (a) Appearance of PI-3 membrane after heat treatment (upper: PI-50 °C; lower: PI-200 °C); (b) SEM image of PI-3 membrane after thermal treatment at 50 °C for 1 h; (c) SEM image of PI-3 membrane after thermal treatment at 200 °C for 1 h; (d) Appearance of PS membranes after heat treatment (upper: PS-50 °C; lower: PS-150 °C); (e) SEM image of PS membrane after thermal treatment at 50 °C for 1 h; (f) SEM image of PS membrane after thermal treatment at 150 °C for 1 h.
+198: 
+199: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+200: 
+201: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+202: 
+203: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+204: Figure 11. UV-Vis reflectance plots of PI-3 membranes after heat treatment.
+205: 
+206: # 3.4. UV Exposure Properties
+207: 
+208: The high thermal stability and high-whiteness features of the currently developed semi-alicyclic PI NFMs make them good potential candidates as reflectors for high-power LED devices. For such kind of applications, another important property is the UV exposure stability. A significant degradation in molecular structures or optical properties might occur after UV irradiation for many polymers. Therefore, UV stability tests for the polymer NFMs were carried out, and the result is shown in Figure 12. When the PS NFM was subjected to the UV irradiation in air, it underwent a rapid yellowing and a gradual embrittlement. The reflectance of the PS NFM apparently decreased after UV exposure. For the PI NFM, the
+209: 
+210: reflectance value of the PI NFM nearly maintained the same level after UV exposure with a high dose of  $2670~\mathrm{J / cm^2}$ , indicating the higher UV stability of the PI NFMs. Meanwhile, the PI NFM maintained the flexible and tough nature.
+211: 
+212: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+213: (a)
+214: 
+215: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+216: Figure 12. UV-Vis plots of polymer membranes after UV radiation (365 nm) treatment. (a) UV exposure test; (b) UV-Vis reflectance plots in the wavelength range of  $200\sim 400\mathrm{nm}$ .  
+217: (b)

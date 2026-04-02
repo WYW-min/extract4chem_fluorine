@@ -1,0 +1,57 @@
+source_file: Molecular Weight and Gas Separation Performance of Polyimide Membrane Insight into Role of Imidization Route.md
+doc_id: fb1dd6074f79c59df9404d02d6e02586
+chunk_index: 3
+block_id: b0004
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: REFERENCES
+line_span: [222, 262]
+char_span: [33052, 39777]
+line_count: 41
+effective_body_non_empty_lines: 34
+
+lines:
+--- chunk (b0004: REFERENCES) ---
+222: # REFERENCES
+223: 
+224: [1] Wotzka, A., R. Duhren, T. Suhrbier, M. Polyakov, and S. Wohlrab. 2020. Adsorptive Capture of  $\mathrm{CO}_{2}$  from Air and Subsequent Direct Esterification Under Mild Conditions. ACS Sustainable Chemistry & Engineering. 8: 5013-5017.  
+225: [2] Wang, T., C. Cheng, L.-g. Wu, J.-n. Shen, B. Van der Bruggen, Q. Chen, D. Chen, and C.-y. Dong. 2017. Fabrication of Polyimide Membrane Incorporated with Functional Graphene Oxide for  $\mathrm{CO}_{2}$  Separation: The Effects of GO Surface Modification on Membrane Performance. Environmental Science & Technology. 51: 6202-6210.  
+226: [3] Sanaeepur, H., A. E. Amooghin, S. Bandehali, A. Moghadassi, T. Matsuura, and B. Van der Bruggen. 2019. Polyimides in Membrane Gas Separation: Monomer's Molecular Design and Structural Engineering. Progress in Polymer Science. 91: 80-125.  
+227: [4] Kraftschik, B., W. J. Koros, J. Johnson, and O. Karvan. 2013. Dense Film Polyimide Membranes for Aggressive Sour Gas Feed Separations. Journal of Membrane Science. 428: 608-619.  
+228: [5] Sun, H., T. Wang, Y. Xu, W. Gao, P. Li, and Q.J. Niu. 2017. Fabrication of Polyimide and Functionalized Multi-walled
+229: 
+230: Carbon Nanotubes Mixed Matrix Membranes by In-Situ Polymerization for  $\mathrm{CO}_{2}$  Separation. Separation and Purification Technology. 177: 327-336.  
+231: [6] Tena, A., S. Shishatskiy, D. Meis, J. Wind, V. Filiz, and V. Abetz. 2017. Influence of the Composition and Imidization Route on the Chain Packing and Gas Separation Properties of Fluorinated Copolyimides. Macromolecules. 50: 5839-5849.  
+232: [7] Yoshioka, T., K. Kojima, R. Shindo, and K. Nagai. 2017. Gas-separation Properties of Amine-crosslinked Polyimide Membranes Modified by Amine Vapor. Journal of Applied Polymer Science. 134: 44569.  
+233: [8] Kammakakam, I., H. W. Yoon, S. Nam, H. B. Park, and T.-H. Kim. 2015. Novel Piperazinium-Mediated Crosslinked Polyimide Membranes for High Performance  $\mathrm{CO}_{2}$  Separation. Journal of Membrane Science. 487: 90-98.  
+234: [9] Shamsipur, H., B. A. Dawood, P. M. Budd, P. Bernardo, G. Clarizia, and J. C. Jansen. 2014. Thermally Rearrangeable PIMpolyimides for Gas Separation Membranes. Macromolecules. 47: 5595-5606.  
+235: [10] Ghosh, M. 1996. Polyimides: Fundamentals and Applications. CRC Press.  
+236: [11] Han, S. H., N. Misdan, S. Kim, C. M. Doherty, A. J. Hill, and Y. M. Lee. 2010. Thermally Rearranged (TR) Polybenzoxazole: Effects of Diverse Imidization Routes on Physical Properties and Gas Transport Behaviors. Macromolecules. 43: 7657-7667.  
+237: [12] Hsiao, S.-H. and Y.-J. Chen. 2002. Structure-property Study
+238: 
+239: of Polyimides Derived from PMDA and BPDA Dianhydrides with Structurally Different Diamines. European Polymer Journal. 38: 815-828.  
+240: [13] Wang, Y.-C., S.-H. Huang, C.-C. Hu, C.-L. Li, K.-R. Lee, D.-J. Liaw, and J.-Y. Lai. 2005. Sorption and Transport Properties of Gases in Aromatic Polyimide Membranes. Journal of Membrane Science. 248: 15-25.  
+241: [14] Lua, A.C. and Y. Shen. 2013. Preparation and Characterization of Polyimide-silica Composite Membranes and Their Derived Carbon-silica Composite Membranes for Gas Separation. Chemical Engineering Journal. 220: 441-451.  
+242: [15] Xu, S. and Y. Wang. 2015. Novel Thermally Cross-linked Polyimide Membranes for Ethanol Dehydration via Pervaporation. Journal of Membrane Science. 496: 142-155.  
+243: [16] Wang, Q., Y. Bai, J. Xie, Q. Jiang, and Y. Qiu. 2016. Synthesis and Filtration Properties of Polyimide Nanofiber Membrane/Carbon Woven Fabric Sandwiched Hot Gas Filters for Removal of PM 2.5 Particles. Powder Technology. 292: 54-63.  
+244: [17] Madzarevic, Z. P., S. Shahid, K. Nijmeijer, and T. J. Dingemans. 2019. The Role of Ortho-, Meta- and Para-substitutions in the Main-chain Structure of Poly(etherimide)s and the Effects on  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  Gas Separation Performance. Separation and Purification Technology. 210: 242-250.  
+245: [18] Tan, P., B. Ooi, A. Ahmad, and S. Low. 2018. Monomer Atomic Configuration as Key Feature in
+246: 
+247: Governing the Gas Transport Behaviors of Polyimide Membrane. Journal of Applied Polymer Science. 135: 46073.  
+248: [19] Tan, P. C., B. S. Ooi, A. L. Ahmad, and S. C. Low. 2019. Formation of a Defect-free Polyimide/zeolitic Imidazolate Framework-8 Composite Membrane for Gas Separation: In-depth Analysis of Organic-inorganic Compatibility. Journal of Chemical Technology & Biotechnology. 94: 2792-2804.  
+249: [20] Liaw, D.-J., P.-N. Hsu, W.-H. Chen, and S.-L. Lin. 2002. High Glass Transitions of New Polyamides, Polyimides, and Poly(amide-imide)s Containing a Triphenylamine Group: Synthesis and Characterization. Macromolecules. 35: 4669-4676.  
+250: [21] Tan, P., B. Ooi, A. Ahmad, and S. Low. 2017. Correlating the Synthesis Protocol of Aromatic Polyimide Film with the Properties of Polyamic Acid Precursor. IOP Conference Series: Materials Science and Engineering. 206:012049.  
+251: [22] Gavin, W. 2016. GPC - Gel Permeation Chromatography Aka Size Exclusion Chromatography - SEC. [cited 2020 29 September]; Available from: https://crfuml.edu/gc.php?u=%2 Ffmi%2Fxml%2Fcnt%2Fgpc- Training-2.pdf%3F- db%3DUML-CoreResearchFacilities%26- lay%3DPHP_Resource%26- recid%3D1696%26- field%3Dresource_DOCUMENT %3A%3ADocument%281%29.1 639#:~:text=In%20other%20words%2C%20to%20do,weight%20 ~100%2C000%2C%20is%20typical.&text=The%20larger%20size %20molecules%20will%20not%
+252: 
+253: 20fit%20into%20the%20smaller %20pores.  
+254: [23] Grubisic, Z., P. Rempp, and H. Benoit. 1996. A Universal Calibration for Gel Permeation Chromatography. Journal of Polymer Science Part B: Polymer Physics. 34: 1707-1713.  
+255: [24] Ratta, V. 1999. Polyimides: Chemistry & Structure-property Relationships–literature Review. Virginia Plytechnic Institute.  
+256: [25] Mehdi, P. A. S. and L. N. Bahri. 2008. Synthesis and Properties of Polyimides and Copolyimides Containing Pyridine Units: A Review. 17: 95-124.  
+257: [26] Sulub-Sulub, R., M. Loria-Bastarrachea, H. Vázquez-Torres, J. Santiago-García, and M. Aguilar-Vega. 2018. Highly Permeable Polyimide Membranes with a Structural Pyrene Containing Tert-Butyl Groups: Synthesis,
+258: 
+259: Characterization and Gas Transport. Journal of Membrane Science. 563: 134-141.  
+260: [27] Babu, V. P., B. E. Kraftschik, and W. J. Koros. 2018. Crosslinkable TEGMC Asymmetric Hollow Fiber Membranes for Aggressive Sour Gas Separations. Journal of Membrane Science. 558: 94-105.  
+261: [28] Qiu, W., C.-C. Chen, L. Xu, L. Cui, D.R. Paul, and W.J. Koros. 2011. Sub-Tg Cross-linking of a Polyimide Membrane for Enhanced  $\mathrm{CO}_{2}$  Plasticization Resistance for Natural Gas Separation. Macromolecules. 44: 6046-6056.  
+262: [29] Kratochvil, A. M. and W. J. Koros. 2008. Decarboxylation-Induced Cross-linking of a Polyimide for Enhanced  $\mathrm{CO}_{2}$  Plasticization Resistance. Macromolecules. 41: 7920-7927.

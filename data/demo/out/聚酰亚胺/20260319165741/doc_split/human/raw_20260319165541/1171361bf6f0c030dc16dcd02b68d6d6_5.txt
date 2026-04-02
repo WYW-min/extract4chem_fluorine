@@ -1,0 +1,53 @@
+source_file: Electrospun Benzimidazole-Based Polyimide Membrane for Supercapacitor Applications.md
+doc_id: 1171361bf6f0c030dc16dcd02b68d6d6
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [206, 242]
+char_span: [33910, 41661]
+line_count: 37
+effective_body_non_empty_lines: 33
+
+lines:
+--- chunk (b0006: References) ---
+206: # References
+207: 
+208: 1. Da Silva, L.M.; Cesar, R.; Moreira, C.M.R.; Santos, J.H.M.; De Souza, L.G.; Pires, B.M.; Vicentini, R.; Nunes, W.; Zanin, H. Reviewing the fundamentals of supercapacitors and the difficulties involving the analysis of the electrochemical findings obtained for porous electrode materials. Energy Storage Mater. 2020, 27, 555-590. [CrossRef]  
+209: 2. Zhu, Q.; Zhao, D.; Cheng, M.; Zhou, J.; Owusu, K.A.; Mai, L.; Yu, Y. A new view of supercapacitors: Integrated supercapacitors. Adv. Energy Mater. 2019, 9, 81-91. [CrossRef]  
+210: 3. Zhuang, P.; Sun, Y.; Li, L.; Chee, M.O.L.; Dong, P.; Pei, L.; Chu, H.; Sun, Z.; Shen, J.; Ye, M.; et al. FIB-patterned nanosupercapacitors: Minimized size with ultrahigh performances. Adv. Mater. 2020, 32, 72-80. [CrossRef] [PubMed]  
+211: 4. Fernandez, A.P.R.; Pérgio, E.A.; Faria, R.N. Simulation of galvanostatic charge-discharge curves of carbon-based symmetrical electrochemical supercapacitor with organic electrolyte employing potential dependent capacitance and time domain analytical expressions. J. Energy Storage 2022, 51, 104471. [CrossRef]
+212: 
+213: 5. Wang, Y.; Lin, X.; Liu, T.; Chen, H.; Chen, S.; Jiang, Z.; Liu, J.; Huang, J.; Liu, M. Wood-derived hierarchically porous electrodes for high-performance all-solid-state supercapacitors. Adv. Funct. Mater. 2018, 28, 1806207. [CrossRef]  
+214: 6. Li, Q.; Jiang, Y.; Jiang, Z.; Zhu, J.; Gan, X.; Qin, F.; Tang, T.; Luo, W.; Guo, N.; Liu, Z.; et al. Ultrafast pore-tailoring of dense microporous carbon for high volumetric performance supercapacitors in organic electrolyte. Carbon 2022, 191, 19-27. [CrossRef]  
+215: 7. Costa, C.M.; Barbosa, J.C.; Gonçalves, R.; Castro, H.; Campo, F.J.D.; Lanceros-Méndez, S. Recycling and environmental issues of lithium-ion batteries: Advances, challenges and opportunities. Energy Storage Mater. 2021, 37, 433-465. [CrossRef]  
+216: 8. Dai, P.; Zhang, S.; Liu, H.; Yan, L.; Gu, X.; Li, L.; Liu, D.; Zhao, X. Cotton fabrics-derived flexible nitrogen-doped activated carbon cloth for high-performance supercapacitors in organic electrolyte. Electrochim. Acta 2020, 354, 136717. [CrossRef]  
+217: 9. Dong, G.; Dong, N.; Liu, B.; Tian, G.; Qi, S.; Wu, D. Ultrathin inorganic-nanoshell encapsulation:  $\mathrm{TiO}_2$  coated polyimide nanofiber membrane enabled by layer-by-layer deposition for advanced and safe high-power LIB separator. J. Membr. Sci. 2020, 601, 117884. [CrossRef]  
+218: 10. Barbosa, J.C.; Dias, J.P.; Lanceros-Mendez, S.; Costa, C.M. Recent advances in poly(vinylidene fluoride) and its copolymers for lithium-ion battery separators. Membranes 2018, 8, 45. [CrossRef]  
+219: 11. Földes, E.; Fekete, E.; Karasz, F.E.; Pukánszky, B. Interaction, miscibility and phase inversion in PBI/PI blends. Polymer 2000, 41, 975-983. [CrossRef]  
+220: 12. Bui, V.T.; Nguyen, V.T.; Nguyen, N.A.; Umapathi, R.; Larina, L.L.; Kim, J.H.; Kim, H.S.; Choi, H.S. Multilayered PVDF-HFP porous separator via phase separation and selective solvent etching for high voltage lithium-ion batteries. Membranes 2021, 11, 41. [CrossRef]  
+221: 13. Berrada, M.; Carriere, F.; Abboud, Y.; Abourriche, A.; Benamara, A.; Lajrhed, N.; Kabbaj, M. Preparation and characterization of new soluble benzimidazole-imide copolymers. J. Mater. Chem. 2002, 12, 3551-3559. [CrossRef]  
+222: 14. Liu, J.; Zhang, Q.; Xia, Q.; Dong, J.; Xu, Q. Synthesis, characteri-zation and properties of polyimides derived from a symmetrical diamine containing bis-benzimidazole rings. Polym. Degrad. Stab. 2012, 97, 987-994. [CrossRef]  
+223: 15. Ku, H.-Y.; Pai, J.-Y.; Lu, Y.-T.; Wang, L.-Q.; Hu, C.-C. Design of polyimide-based separators for effective suppression of self-discharge in non-aqueous electrical double layer capacitors. J. Power Sources 2021, 514, 230594. [CrossRef]  
+224: 16. Chu, S.; Pan, Y.; Wang, Y.; Zhang, H.; Xiao, R.; Zou, Z. Polyimide-based photocatalysts: Rational design for energy and environmental applications. J. Mater. Chem. A 2020, 8, 14441-14462. [CrossRef]  
+225: 17. Gou, J.; Liu, W.; Tang, A.; Wu, L. Interfacially stable and high-safety lithium batteries enabled by porosity engineering toward cellulose separators. J. Membr. Sci. 2022, 659, 120807. [CrossRef]  
+226: 18. He, L.; Cao, J.-H.; Liang, T.; Wu, D.-Y. Effect of monomer structure on properties of polyimide as LIB separator and its mechanism study. Electrochim. Acta 2020, 337, 135838. [CrossRef]  
+227: 19. Hossain, I.; Al Munsur, A.Z.; Kim, T.H. A Facile Synthesis of (PIM-polyimide)-(6FDA-durene-polyimide) copolymer as novel polymer membranes for  $\mathrm{CO}_{2}$  separation. Membranes 2019, 9, 113. [CrossRef]  
+228: 20. Hou, X.; Mao, Y.; Zhang, R.; Fang, D. Super-flexible polyimide nanofiber cross-linked polyimide aerogel membranes for high efficient flexible thermal protection. Chem. Eng. J. 2021, 417, 129341. [CrossRef]  
+229: 21. Sun, M.; Chang, J.; Tian, G.; Niu, H.; Wu, D. Preparation of high-performance polyimide fibers containing benzimidazole and benzoxazole units. J. Mater. Sci. 2015, 51, 2830-2840. [CrossRef]  
+230: 22. Li, D.; Shi, D.; Xia, Y.; Qiao, L.; Li, X.; Zhang, H. Superior thermally dtable and nonflammable porous polybenzimidazole membrane with high wettability for high-power lithium-ion batteries. ACS Appl. Mater. Interfaces 2017, 9, 8742-8750. [CrossRef] [PubMed]  
+231: 23. Lian, M.; Zheng, F.; Wu, Q.; Lu, X.; Lu, Q. Incorporating bis-benzimidazole into polyimide chains for effectively improving thermal resistance and dimensional stability. Poly. Int. 2019, 69, 93-99. [CrossRef]  
+232: 24. Liu, X.; Zhang, B.; Wu, Y.; Chen, J.; Fang, M.; Wang, L.; Wang, L. The effects of polybenzimidazole nanofiber separator on the safety and performance of lithium-ion batteries: Characterization and analysis from the perspective of mechanism. J. Power Sources 2020, 475, 228624. [CrossRef]  
+233: 25. Ma, P.; Dai, C.; Wang, H.; Li, Z.; Liu, H.; Li, W.; Yang, C. A review on high temperature resistant polyimide films: Heterocyclic structures and nanocomposites. Compos. Commun. 2019, 16, 84-93. [CrossRef]  
+234: 26. Song, J.; Zhao, G.; Ding, Q.; Yang, Y. Molecular dynamics study on the thermal, mechanical and tribological properties of PBI/PI composites. Mater. Today Commun. 2022, 30, 103077. [CrossRef]  
+235: 27. Yue, Z.; Cai, Y.-B.; Xu, S. Facile synthesis of a symmetrical diamine containing bis-benzimidazole ring and its thermally stable polyimides. J. Polym. Res. 2014, 21, 463. [CrossRef]  
+236: 28. Hsu, C.H.; Pan, Z.B.; Chen, C.R.; Wei, M.X.; Chen, C.A.; Lin, H.P.; Hsu, C.H. Synthesis of multiporous carbons from water caltrop shell for high-performance supercapacitors. ACS Omega 2020, 5, 10626-10632. [CrossRef]  
+237: 29. Zhang, M.; Niu, H.; Chang, J.; Ge, Q.; Cao, L.; Wu, D. High-performance fibers based on copolyimides containing benzimidazole and ether moieties: Molecular packing, morphology, hydrogen-bonding interactions and properties. Polym. Eng. Sci. 2015, 55, 2615-2625. [CrossRef]  
+238: 30. Zhang, S.; Luo, J.; Du, M.; Hui, H.; Sun, Z. Safety and cycling stability enhancement of cellulose paper-based lithium-ion battery separator by aramid nanofibers. Eur. Polym. J. 2022, 171, 111222. [CrossRef]  
+239: 31. Yan, B.; Zheng, J.; Feng, L.; Du, C.; Jian, S.; Yang, W.; Wu, Y.A.; Jiang, S.; He, S.; Chen, W. Wood-derived biochar as thick electrodes for high-rate performance supercapacitors. Biochar 2022, 4, 50. [CrossRef]
+240: 
+241: 32. Zheng, S.; Zhang, J.; Deng, H.; Du, Y.; Shi, X. Chitin derived nitrogen-doped porous carbons with ultrahigh specific surface area and tailored hierarchical porosity for high performance supercapacitors. J. Bioresour. Bioprod. 2021, 6, 142-151. [CrossRef]  
+242: 33. Wang, Z.Z.; Zhang, B.; Weng, X.; Yu, X.D.; Liu, X.; He, T.S. Application of electrospun polyimide-based porous nano-fibers separators in ionic liquid electrolyte for electrical double-layer capacitors. Polymer 2022, 253, 124945. [CrossRef]

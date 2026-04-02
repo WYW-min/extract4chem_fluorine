@@ -1,0 +1,43 @@
+source_file: Polyimide-Coated Glass Microfiber as Polysulfide Perm-Selective Separator for High-Performance Lithium-Sulphur.md
+doc_id: ef18be836c8f3be7e19f16513d3e1978
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Polyimide-Coated Glass Microfiber as Polysulfide Perm-Selective Separator for High-Performance Lithium-Sulphur Batteries
+line_span: [1, 29]
+char_span: [0, 3126]
+line_count: 27
+effective_body_non_empty_lines: 17
+
+lines:
+--- chunk (b0001: Polyimide-Coated Glass Microfiber as Polysulfide Perm-Selective Separator for High-Performance Lithium-Sulphur Batteries) ---
+1: [MINERU_DISCARDED_META]
+2: nanomaterials
+3: MDPI
+4: Nanomaterials 2019, 9, 1612; doi:10.3390/nano9111612
+5: www.mdpi.com/journal/hanomaterials
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Polyimide-Coated Glass Microfiber as Polysulfide Perm-Selective Separator for High-Performance Lithium-Sulphur Batteries
+11: 
+12: Mi-Jin Kim  $^{1}$ , Kwansoo Yang  $^{2}$ , Hui-Ju Kang  $^{1}$ , Hyun Jin Hwang  $^{1}$ , Jong Chan Won  $^{2,3}$ , Yun Ho Kim  $^{2,3,*}$  and Young-Si Jun  $^{1,*}$
+13: 
+14: $^{1}$  School of Chemical Engineering, Chonnam National University, 77 Yongbongro, Buk-gu, Gwangju 61186, Korea; mijinkim999@gmail.com (M.-J.K.); gmlwn120@gmail.com (H.-J.K.); wgguswls@gmail.com (H.J.H.)  
+15: 2 Advanced Materials Division, Korea Research Institute of Chemical Technology (KRICT), 141 Gajeongro, Yuseong-gu, Daejeon 34114, Korea; sky215@krict.re.kr (K.Y.); jcwon@krict.re.kr (J.C.W.)  
+16: 3 Advanced materials and chemical engineering, KRICT School, University of Science and Technology, Daejeon 34113, Korea  
+17: * Correspondence: yunho@krict.re.kr (Y.H.K.); ysjun@jnu.ac.kr (Y.-S.J.); Tel.: +82-42-860-7274 (Y.H.K.); +82-62-530-1812 (Y.-S.J.)
+18: 
+19: Received: 22 October 2019; Accepted: 9 November 2019; Published: 13 November 2019
+20: 
+21: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+22: 
+23: check for updates
+24: 
+25: Abstract: Although numerous research efforts have been made for the last two decades, the chronic problems of lithium-sulphur batteries (LSBs), i.e., polysulfide shuttling of active sulphur material and surface passivation of the lithium metal anode, still impede their practical application. In order to mitigate these issues, we utilized polyimide functionalized glass microfibers (PI-GF) as a functional separator. The water-soluble precursor enabled the formation of a homogenous thin coating on the surface of the glass microfiber (GF) membrane with the potential to scale and fine-tune: the PI-GF was prepared by simple dipping of commercial GF into an aqueous solution of poly(amic acid), (PAA), followed by thermal imidization. We found that a tiny amount of polyimide (PI) of 0.5 wt.% is more than enough to endow the GF separator with useful capabilities, both retarding polysulfide migration. Combined with a free-standing microporous carbon cloth-sulphur composite cathode, the PI-GF-based LSB cell exhibits a stable cycling over 120 cycles at a current density of  $1\mathrm{mA/cm^2}$  and an areal sulphur loading of  $2\mathrm{mgS/cm^2}$  with only a marginal capacity loss of  $0.099\%/$ cycle. This corresponds to an improvement in cycle stability by  $200\%$ , specific capacity by  $16.4\%$ , and capacity loss per cycle by  $45\%$  as compared to those of the cell without PI coating. Our study revealed that a simple but synergistic combination of porous carbon supporting material and functional separator enabled us to achieve high-performance LSBs, but could also pave the way for the development of practical LSBs using the commercially viable method without using complicated synthesis or harmful and expensive chemicals.
+26: 
+27: Keywords: lithium-sulphur battery; polysulfide shuttling; separator; glass fibers; polyimide

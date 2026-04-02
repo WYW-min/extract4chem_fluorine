@@ -1,0 +1,19 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 4
+block_id: b0005
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Terephthalic dihydrazide
+line_span: [53, 57]
+char_span: [12311, 12923]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0005: Terephthalic dihydrazide) ---
+53: # Terephthalic dihydrazide
+54: 
+55: Dimethyl terephthalate  $(2.000\mathrm{g},10.31\mathrm{mmol})$  was dissolved in  $50~\mathrm{mL}$  methanol and hydrazine monohydrate  $(5\mathrm{mL},100\mathrm{mmol})$  was added. The reaction mixture was refluxed for  $24\mathrm{h}$ . After cooling to room temperature, the precipitate was filtered, washed with water thoroughly and dried in vacuum to give  $1.890\mathrm{g}$  white powder (Yield:  $94.5\%$ ,  $\mathrm{mp} > 300^{\circ}\mathrm{C}$ ). FT-IR (KBr):  $\nu \mathrm{cm}^{-1}$ : 3326 (s), 3213 (m), 3036 (m), 1696 (m), 1629 (s), 1542 (s), 1490 (s), 1341 (s), 929 (s).

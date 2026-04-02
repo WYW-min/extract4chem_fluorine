@@ -1,0 +1,22 @@
+{
+  "stage": "final_merge",
+  "run_id": "20260319165741",
+  "created_at": "2026-03-20T09:51:03+08:00",
+  "main_signal_jsonl_path": "data/out/聚酰亚胺/20260319165741/main_signal_after/raw_20260319165541.jsonl",
+  "characterization_jsonl_path": "data/out/聚酰亚胺/20260319165741/characterization_after/raw_20260319165541.jsonl",
+  "characterization_exists": true,
+  "property_jsonl_path": "data/out/聚酰亚胺/20260319165741/property_after/raw_20260319165541.jsonl",
+  "property_exists": true,
+  "process_jsonl_path": "data/out/聚酰亚胺/20260319165741/process_after/raw_20260319165541.jsonl",
+  "process_exists": true,
+  "output_jsonl_path": "data/out/聚酰亚胺/20260319165741/final_merge/raw_20260319165541.jsonl",
+  "total_doc_count": 50,
+  "total_polymer_count": 506,
+  "characterization_record_count": 506,
+  "property_record_count": 505,
+  "process_record_count": 506,
+  "matched_characterization_count": 506,
+  "matched_property_count": 505,
+  "matched_process_count": 506,
+  "written_count": 50
+}

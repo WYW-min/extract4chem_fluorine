@@ -1,0 +1,35 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: RESULTS AND DISCUSSION
+line_span: [74, 94]
+char_span: [9865, 12725]
+line_count: 19
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0007: RESULTS AND DISCUSSION) ---
+74: # RESULTS AND DISCUSSION
+75: 
+76: # Thermal Analysis
+77: 
+78: The result of increasing the temperature in a previous study $^{29}$  is shown in Figure 2. Two thermal decomposition steps were observed in Block(PI/PMMA) and the decomposition weight of each step corresponded to the composition ratio of each block. This finding suggested that decomposition products of the first and second steps were PMMA and polyimide blocks, respectively. The complete decomposition of the PMMA block from Block(PI/PMMA) was confirmed with the TGA isotherm reported in a previous study. $^{7}$  Therefore, we also used this condition for the present investigation.
+79: 
+80: Figure 2 presents the TGA decomposition curves and isotherms in a previous study. The TGA isotherms at  $300^{\circ}\mathrm{C}$  of triblock copolymer showed that the residual weight of PMMA block gradually decreased for  $12\mathrm{h}$ . After  $12\mathrm{h}$ , the residual weights of Block(73/27), Block(28/72), and Block(10/90) were 93, 69, and 40 wt  $\%$  respectively; these values included weight ratios of TGA in  $\pm 1\%$ . Therefore, the PMMA block in Block(PI/PMMA) can be completely decomposed at  $300^{\circ}\mathrm{C}$  for  $12\mathrm{h}$  in air atmosphere.
+81: 
+82: Figure 3 presents the DSC curves of each polymer.  $T_{g}$  of 6FDA-TeMPD was  $422^{\circ}\mathrm{C}$  at one peak. Few small and narrow thermal transformations were observed in PMMA and Block(PI/PMMA), and  $T_{g}$  was the thermal transformation with the highest specific heat capacity. The  $T_{g}$  values of PMMA, Block(10/90), and Block(28/72) were  $135^{\circ}\mathrm{C}$  in the first scan and  $113^{\circ}\mathrm{C}$ ,  $124^{\circ}\mathrm{C}$ , and  $143^{\circ}\mathrm{C}$ , respectively, in the second scan.  $T_{g}$  of Block(73/27) was  $200^{\circ}\mathrm{C}$  and was not observed in the first and second scans. The  $T_{g}$  values of PMMA, Block(10/90), and Block(28/72) in the first scan indicated that the unrelaxed state of the PMMA block in Block(PI/PMMA) was similar to that of PMMA homopolymer. Moreover, the  $T_{g}$  values of PMMA and
+83: 
+84: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+85: 
+86: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+87: Figure 3. DSC curves of Block(PI/PMMA) in nitrogen atmosphere; (a) first scan and (b) second scan. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+88: 
+89: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+90: Figure 4. Photoimages of Block(PI/PMMA) films. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+91: 
+92: Block(PI/PMMA) in the second scan increased with decreasing PMMA content. These results suggested that triblock copolymer with shorter PMMA block was significantly affected compared with the copolymer with longer PMMA blocks and PMMA.

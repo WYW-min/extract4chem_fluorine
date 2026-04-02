@@ -1,0 +1,21 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: ABSTRACT
+line_span: [20, 26]
+char_span: [942, 2576]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0002: ABSTRACT) ---
+20: # ABSTRACT
+21: 
+22: The range of available structure combinations to synthesize polyimide (PI) makes it technically possible to have various universal methods of producing PI film. The molecular design, in which monomers used to synthesize PI are carefully selected to meet specific application requirements as it influenced the properties of PI films. This study aimed to outline the approach for film fabrication through the casting of highly organo-soluble polyimide derived from  $4,4^{\prime}$ -methylene diphenyl diisocyanate (MDI) with  $4,4^{\prime}$ -(hexafluoroisopropylidene) diphtalic anhydride (6FDA) in different heating treatments. The solution drop amount was tested in order to control the films colour uniformity. A flexible and less crystalline MDI-6FDA film with an average thickness of  $93\mu \mathrm{m}$  was successfully developed with a tensile strength of up to  $57\mathrm{MPa}$  and an elongation at break of  $5\%$ . The resulting MDI-6FDA film also demonstrated good optical transparency ( $\mathrm{T}_{500} = 69\%$ ) with a cut-off wavelength at  $371\mathrm{nm}$  and high thermal resistance ( $T_{5} = 574^{\circ}\mathrm{C}$ ) with a  $T_{\mathrm{g}}$  temperature of up to  $238^{\circ}\mathrm{C}$ . The obtained film also shows good chemical resistance in methanol, ethanol, isopropanol, and tetrahydrofuran solvents. These outcomes serve as a guideline for the fabrication of polyimide films specifically derived from diisocyanate and dianhydride, with the potential advantages to be used in optical applications.
+23: 
+24: Keywords: Diisocyanate; flexible films; optical transparency; polyimide; tensile strength

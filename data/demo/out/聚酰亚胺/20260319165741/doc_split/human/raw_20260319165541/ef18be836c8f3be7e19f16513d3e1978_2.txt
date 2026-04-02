@@ -1,0 +1,37 @@
+source_file: Polyimide-Coated Glass Microfiber as Polysulfide Perm-Selective Separator for High-Performance Lithium-Sulphur.md
+doc_id: ef18be836c8f3be7e19f16513d3e1978
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [43, 65]
+char_span: [10895, 14996]
+line_count: 21
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+43: # 2. Materials and Methods
+44: 
+45: # 2.1.Materials
+46: 
+47: Pyromellitic dianhydride (PMDA) and m-tolidine (m-TB) were purchased from Sunlight Chem Inc. (Changzhou, China) and used after drying in a vacuum oven at  $60^{\circ}\mathrm{C}$  for  $24\mathrm{h}$ . N-Methyl-2-pyrrolidone (NMP,  $99.8\%$ ), and dimethylethanolamine (DMEA,  $99.5\%$ ) were purchased from Sigma-Aldrich (Darmstadt, Germany) and used as received without further purification. The glass microfiber (GF/C grade) membrane (Whatman Inc., Buckingham, UK) pore size:  $1.2\mu \mathrm{m}$ , thickness:  $260\mu \mathrm{m}$  was used as received.
+48: 
+49: # 2.2. Fabrication of PI Functionalized GF (PI-GF)
+50: 
+51: Polyamic acid (PAA), the precursor solution of polyimide, was synthesized by using PMDA and m-TB. First, m-TB  $(21.229\mathrm{g}, 0.1\mathrm{mol})$  was dissolved in NMP  $(387.369\mathrm{g})$  at  $0^{\circ}\mathrm{C}$  under a nitrogen atmosphere. After complete dissolution, PMDA  $(21.812\mathrm{g}, 0.1\mathrm{mol})$  was gradually added. A viscous and yellow-colored PAA solution with a solid content of  $\sim 10$  wt.% was acquired after stirring for  $24\mathrm{h}$ . To obtain the PAA powder, the PAA solution was poured into deionized water, pulverized using a blender, filtered, and finally dried in a vacuum oven at  $40^{\circ}\mathrm{C}$  overnight. The aqueous PAA solution was then prepared by adding DMEA, the water dissolution agent, in water with a double amount of repeating units [27]. PI-GF was achieved by simply dipping the GF membrane into the as-prepared aqueous PAA solution. The immersed GF membrane was dried in a convection oven at  $50^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  and then heated in a vacuum oven at  $350^{\circ}\mathrm{C}$  for  $2\mathrm{h}$  for thermal imidization.
+52: 
+53: # 2.3. Preparation of Electrolytes and Catholytes
+54: 
+55: The blank electrolyte is 1 M lithium bis(trifluoromethanesulfonyl) imide (LiTFSI,  $99.95\%$ , Sigma-Aldrich Inc., Darmstadt, Germany) dissolved in a 1:1 (v/v) mixture of 1,3-dioxolane (DOL,  $99.8\%$ , Sigma-Aldrich Inc., Darmstadt, Germany) and 1,2-dimethoxyethane (DME,  $99.5\%$ , Sigma-Aldrich Inc., Darmstadt, Germany) with 1 wt.% lithium nitrate ( $\mathrm{LiNO}_3$ ,  $99.99\%$ , Sigma-Aldrich Inc., Darmstadt, Germany). To prepare the catholyte (1 M  $\mathrm{Li}_2\mathrm{S}_6$ ), the sulphur source, elemental sulphur (Sigma-Aldrich,  $\geq 99.5\%$ ) and  $\mathrm{Li}_2\mathrm{S}$  ( $99.9\%$ , Alfa-Aesar Inc., Seoul, Korea) were mixed in a blank electrolyte and heated at  $50^{\circ}\mathrm{C}$  overnight.
+56: 
+57: # 2.4. Cell Assembly
+58: 
+59: LSB cells were assembled using CR2032 coin cells in an Ar-filled glove box (below  $0.1\mathrm{ppm}$  of  $\mathrm{O}_2$  and  $\mathrm{H}_2\mathrm{O}$  concentration). The catholyte was immersed into the commercial carbon cloth (CC, CH900-20, Kuractive, Kuraray Chemical Co., Ltd., Tokyo, Japan,  $21\mathrm{mg}$ ), to which the blank electrolyte  $(100~\mu \mathrm{L})$  was added to make the total amount of electrolyte  $200~\mu \mathrm{L}$ . Then, the PI-GF (or GF) separator with a diameter of  $19\mathrm{mm}$  and the Li metal anode with a diameter of  $10\mathrm{mm}$  and a thickness of  $0.75\mathrm{mm}$  were sequentially placed on top of the CC cathode.
+60: 
+61: # 2.5. Characterization
+62: 
+63: Thermogravimetric analysis (TGA-50) was conducted under nitrogen in the temperature range of 25 and  $900^{\circ}\mathrm{C}$  at a heating rate of  $10^{\circ}\mathrm{C / min}$  (CDFC). Fourier transform infrared (FT-IR) spectra were recorded with a JACSO FT-IR 4100 spectrometer (JACSO Inc., Tokyo, Japan). Field emission scanning electron microscopy (FE-SEM) images were obtained using HITACHI SU-70 (HITACHI Inc., Fukuoka, Japan) in the Korea Basic Science Institute (KBSI). The cycle stability was evaluated in the potential range between 1.8 and  $2.6\mathrm{V}$  vs.  $\mathrm{Li} / \mathrm{Li}^{+}$  with a WBCS 3000 multi-channel cycler (WonATech, Seoul, Korea). Electrochemical impedance spectroscopy (EIS) was measured from  $250\mathrm{kHz}$  to  $0.05\mathrm{Hz}$  by a VSP (Bio-Logic, Seyssinet-Pariset, France) potentiostat.

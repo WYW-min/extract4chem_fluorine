@@ -1,0 +1,21 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 7
+block_id: b0008
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: CHARACTERIZATION
+line_span: [54, 60]
+char_span: [12827, 13649]
+line_count: 5
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0008: CHARACTERIZATION) ---
+54: # CHARACTERIZATION
+55: 
+56: # FUNCTIONAL GROUPS AND MORPHOLOGY ANALYSIS
+57: 
+58: Fourier transform infrared (FTIR) analysis was carried out using model Thermo Fisher Nicolet C700 (Thermo Scientific, USA). Each of the spectra was recorded at a  $4\mathrm{cm}^{-1}$  resolution and 32 average scans were taken. The morphologies of the fillers were studied using Transmission Electron Microscope (TEM) using model Thermo ScientificTM Talos L120C (ThermoFisher Scientific, USA). The surface area and porosimetry (Brunauer-Emmett-Teller, BET) analysis of RHA and sRHA were conducted using model Micromeritics ASAP 2020Plus (Micromeritics Instrument Corp., USA). Each filler was tested under two stages  $(90^{\circ}\mathrm{C}$  for  $60\mathrm{min}$  for pre-degas stage and  $300^{\circ}\mathrm{C}$  for  $60\mathrm{min}$  for degas stage).

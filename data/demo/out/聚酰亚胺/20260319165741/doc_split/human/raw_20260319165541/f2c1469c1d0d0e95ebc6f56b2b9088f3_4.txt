@@ -1,0 +1,44 @@
+source_file: Nanoindentation studies of polyimide thin films with various internal linkages in the diamine component.md
+doc_id: f2c1469c1d0d0e95ebc6f56b2b9088f3
+chunk_index: 4
+block_id: b0005
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: RESULTS AND DISCUSSION
+line_span: [75, 104]
+char_span: [12725, 19137]
+line_count: 28
+effective_body_non_empty_lines: 13
+
+lines:
+--- chunk (b0005: RESULTS AND DISCUSSION) ---
+75: # RESULTS AND DISCUSSION
+76: 
+77: # Nanoindentation
+78: 
+79: The mechanical properties of the polyimides [poly  $(p$ -phenylene biphenyltetracarboximide) (BPDA-PDA), poly  $(4,4^{\prime}$ -biphenylene biphenyltetracarboximide) (BPDA-BZ), poly  $(4,4^{\prime}$ -oxydiphenylene biphenyltetracarboximide) (BPDA-ODA), and poly  $(4,4^{\prime}$ -sulfonyldiphenylene biphenyltetracarboximide) (BPDA-DDS)] were calculated from the nanoindentation behavior and load-displacement curves with the Berkovich indenter. The remarkable elastic-plastic behavior of the polyimides with various backbone structures is best illustrated in Figure 2.
+80: 
+81: Table 1 summarizes the changes in the depth, modulus, and hardness with an applied load for various polyimides. With an applied load, the penetration depth of the polyimide thin films varied from 86 to  $123\mathrm{nm}$  for BPDA-PDA, from 91 to  $125\mathrm{nm}$  for BPDA-BZ, from 103 to  $151\mathrm{nm}$  for BPDA-ODA, and from 113 to  $159\mathrm{nm}$  for BPDA-DDS; the hardness varied from 0.749 to 0.687 GPa for BPDA-PDA, from 0.660 to 0.639 GPa for BPDA-BZ, from 0.453 to 0.386 GPa for BPDA-ODA, and from 0.372 to 0.344 GPa for BPDA-DDS. The hardness of the various polyimides was found to increase in the order: BPDA-DDS  $<$  BPDA-ODA  $<$  BPDA-BZ  $<$  BPDA-PDA. In gen
+82: 
+83: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+84: Figure 3. Indentation response of the polyimide thin films with an applied load.
+85: 
+86: eral, the film properties were sensitive to the molecular order (chain and packing order) and orientation.[27] For the pseudo-rodlike BPDA-PDA and BPDA-BZ, the hardness was almost twice that of the films from semiflexible BPDA-ODA and flexible BPDA-DDS polyimide. The penetration depth, however, was greater for BPDA-ODA and BPDA-DDS than for the other two systems. The hardness of the polyimides, for a particular applied load, decreased in the following order: BPDA-PDA  $>$  BPDA-BZ  $>$  BPDA-ODA  $>$  BPDA-DDS. From a structural point of view, BPDA-PDA and BPDA-BZ had rodlike phenyl structures, BPDA-ODA had hinged polar ether groups  $(\mathrm{O}-)$ , and BPDA-DDS had hinged big polar sulfonyl groups  $(\mathrm{SO}_2-$ . The rodlike phenyl structures of BPDA-PDA and BPDA-BZ were linearly connected without bent structures and a conformational change, and so this could lead to large chain orientation along the polymer chain. In contrast, ether groups of BPDA-ODA and sulfonyl groups of BPDA-DDS had bent structures, and this imparted flexibility to the polyimide chain, leading to changes in their morphology.
+87: 
+88: It is well known that the hardness of a polymer is largely determined by its chemical and morphological structures.[24] Generally, when a repeating unit of a polymer has a rodlike structure, the
+89: 
+90: toughness and strength should be high because such a structure accompanies large chain orientation along the polymer chain. In contrast, when a repeating unit has a bent or hinged structure, the toughness and strength are expected to be low. The bent linkages may weaken the intermolecular interactions among polymer chains (van der Waals interaction) and prevent effective molecular packing.
+91: 
+92: For polyimides with various backbone structures, the variations in the elastic-plastic behaviors with an applied load are illustrated in Figure 3. For all the curves depicted in Figure 3, the characteristic kickback (elbow) appears in the unloading curves. The indentation load-depth curves indicate that all the polymer exhibited an elastic-plastic response. Figure 3 clearly shows that with an increase in the applied load, the maximum indentation depth increased, and the corresponding unloading curve reveals that with an increase in the load, the plastic response of the polymer increased. It can be seen from Figure 3 and Table 1 that as the load increased, the penetration depth increased for all the samples. There was a linear increase in the depth with an applied load. With an increase in the load, the hardness decreased for all the samples, except for BPDA-BZ. The variation in the hardness with the ap
+93: 
+94: Table 2. Optical Properties of the Polyimide Thin Films  
+95: 
+96: <table><tr><td rowspan="2">Polymer</td><td rowspan="2">Thickness (μm)</td><td colspan="4">Refractive Indices at 632.8 nm</td></tr><tr><td>nxy</td><td>nz</td><td>Birefringence</td><td>Average</td></tr><tr><td>BPDA-PDA</td><td>6.34</td><td>1.8425</td><td>1.6089</td><td>0.2336</td><td>1.7646</td></tr><tr><td>BPDA-BZ</td><td>6.45</td><td>1.8343</td><td>1.5879</td><td>0.2464</td><td>1.7522</td></tr><tr><td>BPDA-ODA</td><td>5.86</td><td>1.7550</td><td>1.6720</td><td>0.0830</td><td>1.7273</td></tr><tr><td>BPDA-DDS</td><td>4.50</td><td>1.7019</td><td>1.6895</td><td>0.0124</td><td>1.6978</td></tr></table>
+97: 
+98: plied load may be due to the change in the crystallinity of the film. In the case of BPDA-BZ, the hardness remained a constant with the variation in the load. This reveals that there was no change in the crystallinity between the surface and the bulk of the film and that there was uniformity in the orientation of the molecules in the surface and the bulk. In BPDA-BZ, most of the molecules were oriented in the same plane, that is, in the direction of the film plane (in-plane orientation). However, the hardness value of the BPDA-BZ was lower than that of BPDA-PDA, indicating that BPDA-PDA had the better crystalline surface of the two. However, in BPDA-PDA, the hardness value decreased with an increase in the penetration depth, indicating that there was some out-of-plane orientation in the film. Hence, there was a difference in the orientation between the surface and bulk resulting in a decrease in the hardness value. However, in BPDA-BZ, all the molecules were preferentially oriented in the film plane, rather than out of plane, both in the surface and in the bulk, and so there was no change in the hardness value with an increase in the penetration depth. This is also supported by the birefringence results.
+99: 
+100: However, in the other polyimide films, as the penetration depth increased, the hardness decreased, and this indicated that the films become more and more disordered and less crystalline in the bulk, in comparison with the surface $^{16,24}$
+101: 
+102: These results prove that for the polyimide thin films, the hardness was affected by changes in the chemical structure and morphology, such as the chain orientation, crystallinity, and packing order.

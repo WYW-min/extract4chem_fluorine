@@ -1,0 +1,25 @@
+source_file: Methylethynyl-Terminated Polyimide Nanofibrous Membranes High-Temperature-Resistant Adhesives with Low-Tempera.md
+doc_id: e149dbb77904d4c03394a1ba0bfde6b5
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [59, 69]
+char_span: [3772, 7738]
+line_count: 9
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+59: # 1. Introduction
+60: 
+61: High-temperature-resistant adhesives generally refer to a class of special adhesives that can be used for a long time at hundreds of degrees Celsius or can withstand thousands of degrees Celsius in a short time [1]. Due to the better fatigue resistance and higher strength-to-weight ratio, high-temperature polymer adhesives have been widely used in the aerospace field to replace traditional connection methods such as riveting, welding, and mechanical fastening [2,3]. Among various high-temperature polymers, heteroaromatic polymers can usually endow adhesives with excellent thermal stability due to the highly conjugated structural characteristics and strong intermolecular interactions [4]. Polyimide (PI) adhesives represent a class of the most widely studied heteroaromatic polymer adhesives due to high bonding strength, good processing performance, and good mechanical properties [5-8]. At present, the main problems of the currently used PI adhesives are
+62: 
+63: mainly focused on the high porosity in the cured adhesion layers. For example, either the soluble PI (SPI) types [9,10] or the poly(amic acid) (PAA) types [11] of PI adhesives usually produce pinholes or voids in the cured adhesion layers due to solvent evaporation and dehydration reactions during high-temperature imidization. This inevitably reduces the bonding strength of the adherends. As for film-type PI adhesives [12,13] and powder-type PI adhesives [14,15] with fewer contents of solvents, the former is usually limited to planar bonding while the latter is more difficult to apply. In addition, for conventional thermosetting PI adhesives with rigid molecular chains and reactive end-capping groups, there are usually problems with high curing temperatures, which increase the processing difficulty and limit the applications in temperature-sensitive fields. For example, the 5-norbornene-2,3-dicarboxylic acid anhydride (NA)-end-capped LARC-13 [16] developed by the National Aeronautics and Space Administration (NASA), USA, has a curing temperature of  $343^{\circ}\mathrm{C}$ ; the ethynyl-terminated Thermid 600 [17], developed by the American Hughes Aircraft Company, has a curing temperature of  $340 - 350^{\circ}\mathrm{C}$ ; the phenylethynyl-terminated PETI-5 [18], developed by NASA, USA, has a curing temperature over  $370^{\circ}\mathrm{C}$ . Therefore, the question of how to realize the solvent-free adhesion of PI adhesives at reduced curing temperature has become one of the most attractive topics in the research field of high-performance PI adhesives [19].
+64: 
+65: PI nanofibrous membranes (NFMs) prepared by an electrospinning procedure have been widely used in various fields due to their excellent combined properties [20]. Based on our previous research on the research and development of high-performance PI NFMs [21-25], it can be found that the solvent-free characteristics, good flexibility, highly entangled microstructure, and good processability of the PI NFMs make them good candidates for high-performance adhesives. Thus, it could be anticipated that electrospun PI NFMs might find wide applications as high-temperature-resistant adhesives. In our previous work, a series of phenylethynyl-terminated PI (PETI) NFMs were prepared and characterized as adhesives [26]. Although the developed PI NFM adhesives exhibited good adhesion properties, adhesion temperatures over  $370^{\circ}\mathrm{C}$  limit their wide application in practice.
+66: 
+67: In the current work, a series of methylethynyl-terminated PI (METI) NFMs were designed and developed as high-temperature adhesives in order to reduce the crosslinking temperatures of PETI analogues. The phenolphthalein groups were maintained in the molecular chains of the developed METI NFMs due to the large molar volume, asymmetric molecular structure, and potential crosslinking features [27,28]. The structure-property relationships of the developed METI NFM adhesives were investigated in detail.

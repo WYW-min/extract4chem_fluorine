@@ -1,0 +1,19 @@
+source_file: Fiber Reinforced Polyimide Aerogel Composites with High Mechanical Strength for High Temperature Insulation.md
+doc_id: 1871f3aecf6ef7f359f2feb0426ee386
+chunk_index: 7
+block_id: b0008
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Conflict of Interest
+line_span: [210, 214]
+char_span: [31515, 31585]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0008: Conflict of Interest) ---
+210: # Conflict of Interest
+211: 
+212: The authors declare no conflict of interest.

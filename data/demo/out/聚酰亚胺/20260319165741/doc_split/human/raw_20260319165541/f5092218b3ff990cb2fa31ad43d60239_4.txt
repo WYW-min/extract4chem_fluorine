@@ -1,0 +1,216 @@
+source_file: Interpenetration Networked Polyimide鈥揈poxy Copolymer under Kinetic and Thermodynamic Control for Anticorrosion.md
+doc_id: f5092218b3ff990cb2fa31ad43d60239
+chunk_index: 4
+block_id: b0005
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results
+line_span: [104, 305]
+char_span: [14000, 47482]
+line_count: 200
+effective_body_non_empty_lines: 99
+
+lines:
+--- chunk (b0005: 3. Results) ---
+104: # 3. Results
+105: 
+106: # 3.1. Chemical Structures
+107: 
+108: Li. [35] commented that Raman spectroscopy and FTIR could be used to monitor the progress of corrosion on metal with an EP coating. In this research, we adopted the FTIR spectrum for verifying changes in featured function groups, mainly nitrogen-related amine and imide bonds as well as carboxyl groups.
+109: 
+110: In the first step of synthesizing PAA with diamine (PAA-ODA) and dianhydride (PAA-PMDA) as terminal function groups, PMDA was first allowed to react with ODA to form PAA in NMP solution. Excessive ODA was added to assure that the product was PAA with di-amine terminals. Alternatively, excessive PMDA was added for forming dianhydride-terminated PAA (Figure 1).
+111: 
+112: Figure 1. Reactive function groups of ODA terminated PAA (PAA-ODA) and PMDA terminated PAA (PAA-PMDA): amines (T1), anhydrides (T2), carboxylic acids (A1) and amides (A2).  
+113: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+114: Competing reactions: A1 + A2 imidiazation to PI; or each curing with epoxy (competing)  
+115: T1 and T2: reaction with epoxy functional groups
+116: 
+117: Since the solution was mixed thoroughly, the molecular weight (MW) of PAA could be controlled using the molar difference between ODA and PMDA. The reason why a medium
+118: 
+119: MW of the PAA polymer is preferred over a large MW of PAA is that during subsequent reactions with EP, large molecules of PAA will likely lead to microphase separation during curing and imidization and make the copolymer unsuitable for coating applications.
+120: 
+121: Figure 2 compares the FTIR spectrum of ODA, PI-ODA, and PI. In the FTIR absorption spectra of PI, the absorption peaks of  $\mathrm{C = O}$  at  $1720~\mathrm{cm}^{-1}$  and a shoulder at  $1777~\mathrm{cm}^{-1}$  are characteristic for a PI polymer [36]. Meanwhile, the C-N (resulted from  $-\mathrm{NH}_2$  reacting with anhydride) absorption at  $1390~\mathrm{cm}^{-1}$  was also observed. For the ODA spectra, the diamine (N-H) function group's absorption peak was observed at  $3200 - 3300~\mathrm{cm}^{-1}$ .
+122: 
+123: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+124: Figure 2. FTIR of (a) PI, (b) PIODA, (c) ODA, (d) PIPMDA, and (e) PMDA.
+125: 
+126: Comparing the PI-ODA spectra with that of PI (Figure 2a,b), the characteristic  $C = O$  absorption  $(1720$  and  $1777~\mathrm{cm}^{-1}$ ) and the C-N absorption at  $1390~\mathrm{cm}^{-1}$  are almost identical. In the spectra of PI-ODA, the N-H absorption peak is weak but observable. This indicates that the MW of PI-ODA was not large enough to make the N-H signal unobservable. The reason why PI-ODA, instead of PAA-ODA, is used to confirm the terminal function groups in the above discussions is that the absorption peak of carboxyl -OH (at  $3500~\mathrm{cm}^{-1}$ ) in PAA is broad and strong, which makes the terminal amine  $(3300~\mathrm{cm}^{-1})$  absorption peak vaguely observable.
+127: 
+128: Figure 2 also compares the spectra of PI-PMDA to those of PI and PMDA. The featured  $\mathrm{C = O}$  (1777 and  $1720~\mathrm{cm}^{-1}$ ) and C-N ( $1390~\mathrm{cm}^{-1}$ ) absorptions of PI are observable. Unlike PI, the  $\mathrm{C = O}$  absorptions in the PMDA spectra are broad (1860, 1806 and  $1770~\mathrm{cm}^{-1}$ ) due to the dianhydride carbonyl of PMDA. For the PI-PMDA spectra, there are two points worth noticing.
+129: 
+130: Firstly, the absorption peak at  $1860~\mathrm{cm}^{-1}$ , which is characteristic of the  $\mathrm{C = O}$  group in carboxylic dianhydride in PMDA, is absent in the PI spectra. This shows that in PI-PMDA, the anhydride group originating from PMDA remains observable. This would not be so if the MW of PI-PMDA was large, since a weak signal tends to be buried in strong signals attributed to large numbers of other function groups.
+131: 
+132: Secondly, the  $C = O$  absorption peaks at 1806 and  $1770~\mathrm{cm}^{-1}$  of PMDA are in close proximity to that in PI  $(1777~\mathrm{cm}^{-1})$  and are overlapped (or merged) into the  $1777~\mathrm{cm}^{-1}$  peak
+133: 
+134: (in the PI-PMDA spectra). This leads to a higher and broader peak at  $1777~\mathrm{cm}^{-1}$  compared to the  $1720~\mathrm{cm}^{-1}$  peak.
+135: 
+136: # 3.2. Reaction of PI-O-EP Formation
+137: 
+138: The purpose of presenting Figure 3 is to discuss the curing reaction of EP resin, where it is PAA that actually participates in curing, rather than PI (the reaction of PI formation competes with the curing reaction). In Figure 3, comparisons focus on four characteristic peaks:  $3500~\mathrm{cm}^{-1}$  (-OH, derived from carbonyl and epoxide ring opening),  $1390~\mathrm{cm}^{-1}$ ,  $1777~\mathrm{cm}^{-1}$  (imide C-N bond and  $\mathrm{C = O}$  carbonyl absorption), and  $913~\mathrm{cm}^{-1}$  (C-O bond of epoxide ring). Meanwhile, Figure 1 shows that the functional groups (amine, carboxylic anhydride, carboxylic acid, amide) can react with EP or participate in imidization to form PI.
+139: 
+140: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+141: Figure 3. FTIR of the curing profile of PI(50)-O-EP(50) at different temperatures: (a) room temperature (unheated reaction), (b)  $100^{\circ}\mathrm{C}$ , (c)  $150^{\circ}\mathrm{C}$ , (d)  $200^{\circ}\mathrm{C}$ , and (e)  $250^{\circ}\mathrm{C}$ .
+142: 
+143: In the spectra of the PAA-ODA and EP resin mixture (the reactions with EP have not yet started),  $3500\mathrm{cm}^{-1}$  corresponding to -OH (-COOH group of PAA) and terminal amine  $(3300\mathrm{cm}^{-1}$ , appearing as a shoulder of the  $3500\mathrm{cm}^{-1}$  peak) overlap into one broad and strong absorption peak. The peak at  $3300\mathrm{cm}^{-1}$  disappears right after the reaction between the terminal amine and epoxide ring, which is fast at  $100^{\circ}\mathrm{C}$  [29]. Therefore, this overlapped shoulder at  $3300\mathrm{cm}^{-1}$  diminishes soon after the curing reaction between the terminal amine and the epoxide ring.
+144: 
+145: Figure 3 reveals that when ODA terminated PAA (PAA-ODA) and EP resin mixture are allowed to react with EP at a  $50\% / 50\%$  weight ratio at a curing temperature of  $100^{\circ}\mathrm{C}$ $(1\mathrm{h})$ , both the amide peak at  $1660~\mathrm{cm}^{-1}$  [23] and the acidic OH absorption peak  $(3500~\mathrm{cm}^{-1})$  are strong. The disappeared 3200 to  $3300~\mathrm{cm}^{-1}$  shoulder peak indicates that the terminal diamine function groups reacted with epoxide rings. However, the C-N peak and  $\mathrm{C = O}$  of PI  $(1390$  and  $1777~\mathrm{cm}^{-1}$ ) are not observed. These indicate that at  $100^{\circ}\mathrm{C}$ , the imidization
+146: 
+147: reaction has not begun yet. The epoxide ring peak  $(913\mathrm{cm}^{-1})$  is still salient, and most EP molecules still remain unreacted (at  $100^{\circ}\mathrm{C}$ ).
+148: 
+149: At  $150^{\circ}\mathrm{C}$  (1 h), comparing the above five featured absorption peaks (3500, 1660, 1777, 1390, and  $913~\mathrm{cm}^{-1}$ ), possible chemical changes can be deduced as follows: The disappearance of the  $1660~\mathrm{cm}^{-1}$  amide peak [23], accompanied with the increase in the 1777 and  $1390~\mathrm{cm}^{-1}$  peaks (which is characteristic for PI) and the reduced  $913~\mathrm{cm}^{-1}$  peak, indicate that the amide group  $(1660~\mathrm{cm}^{-1})$  is converted to imide in PI or amide-EP linkages. This indicates that some epoxide ring openings are possibly involved in the formation of nonterminal amide-EP and/or acid-EP linkages.
+150: 
+151: It is noteworthy that with increasing temperature  $(100 - 150^{\circ}\mathrm{C})$ , the intensity of the OH absorption peak  $(3500\mathrm{cm}^{-1})$  remains nearly unchanged or slightly increased, which may appear to contradict the expectation that the amount of acidic OH will be reduced during imidization. This can be explained as follows
+152: 
+153: During amidization of PAA-O-EP to PI-O-EP, which accompanies the curing reaction with EP, the process involves three possible reactions: (1) amidization, (2) acid-EP linkage formation, and (3) amide-EP linkage formation (Figure 4). In the amidization reaction (reaction #1), an amide group reacts with a carboxylic acid group. When forming an imide bond, a water molecule evaporates, which leads to the loss of one N-H and one OH group. This reaction leads to reduction in the total number of OH groups and consequently decreases the  $3500\mathrm{cm}^{-1}$  peak's intensity. However, there is no decrease in peak intensity at  $3500\mathrm{cm}^{-1}$ , which reveals that amidization has not yet begun, or has happened only to a small extent at these temperatures. It is consistent with PI fabrication that the amidization reaction occurs at a higher temperature, which implies a higher activation energy of the reaction.
+154: 
+155: In the reaction of acid-EP linkage formation, the carboxylic OH group reacts with an epoxide ring with ring opening while generating an alcoholic secondary OH. Hence, this reaction (reaction #2) does not cause change in the total number of OH groups and the  $3500\mathrm{cm}^{-1}$  peak intensity is not affected (Figure 4).
+156: 
+157: In the amide-EP linkage formation (reaction #3), the amide nitrogen reacts with an epoxide ring with ring opening and generates an alcoholic secondary OH on an EP segment. Therefore, reaction #3 increases the total number of OH groups; hence, the  $3500\mathrm{cm}^{-1}$  peak strength should increase accordingly. If reaction #3 ( $3500\mathrm{cm}^{-1}$  OH peak increased) occurs or is accompanied by reaction#1 ( $3500\mathrm{cm}^{-1}$  OH peak decreased) and they are taking place simultaneously, the net effect would be unchanged or slightly increased peak intensity at  $3500\mathrm{cm}^{-1}$  at  $150^{\circ}\mathrm{C}$ . Comparing the effects of the above three reactions, the amide-EP linkage reaction (reaction #3) or reaction #3 accompanied by imidization (reaction #1) are dominant during curing. The above inference is consistent with the reactivity of the EP curing reaction, where the amide function group is another reactive group with an epoxide ring (but is less reactive than amino group), the activation energy of EP-amide curing should be low, and therefore it is easier for the curing reaction to take place at medium temperature.
+158: 
+159: The  $1660~\mathrm{cm}^{-1}$  amide peak reappears in the  $200^{\circ}\mathrm{C}$  spectra, indicating that some of the nonterminal amide-EP linkages were broken and the amide-nitrogen was available for subsequent fast imidization reactions [29,30]. It is quite likely that the breakage of the amide-EP linkage was caused by the competing imidization reaction. The above observations follow the principles of reaction kinetics and thermodynamics of chemistry. Initially, at lower temperature (about  $150^{\circ}\mathrm{C}$ ), some amide-EP linkages are formed (lower activation energy, kinetic control); at higher temperature, imidization is thermodynamically favored (more exothermic and stabled PI, thermodynamic control), and some amide-EP linkages are broken.
+160: 
+161: According to the principle of organic synthesis with regard to "kinetic vs. thermodynamic control", which was used to explain the product distribution of the addition reaction of hydrobromide to 1,3-butadiene [37], at lower temperature, the major product was from the 1,2-addition reaction. Meanwhile, at higher temperature, the major product was from
+162: 
+163: the 1,4-addition reaction. The reason of such difference lies in the differences of activation energies of these two reactions and the stabilities of the products. At lower temperature, the thermal energy was sufficient only to cross the activation energy for the 1,2-addition reaction (kinetic control), but was not high enough for the 1,4-addition reaction. At higher temperature, the thermal energy was high enough to cross the activation energies for both reactions. However, the product of the 1,4-addition reaction has lower potential energy, that is, the reaction product is highly stable; therefore, at higher temperature, the major product was from the 1,4-addition reaction (thermodynamic control).
+164: 
+165: Reaction#1. Imidization:
+166: 
+167: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+168: $3500~\mathrm{cm}^{-1}$  peak strength: decrease number of OH group from 2 to 0
+169: 
+170: Reaction#2. Epoxy reacted with acid functional groups of PAA:
+171: 
+172: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+173: 
+174: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+175: 
+176: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+177: $3500\mathrm{cm}^{-1}$  peak strength : no change in number of OH group from 2 to 2
+178: 
+179: Reaction#3. Epoxy reacted with amide functional groups of PAA:
+180: 
+181: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+182: 
+183: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+184: $3500~\mathrm{cm}^{-1}$  peak strength : increase number of OH group from 2 to 4  
+185: Figure 4. Reactions of acid or amide function groups of PAA with EP, as well as imidization reaction.
+186: 
+187: Three scenarios about the OH absorption peak  $(3500\mathrm{cm}^{-1})$
+188: 
+189: Reactions 1: decrease in number of OH groups  $2 \rightarrow 0$ , peak intensity decreased.
+190: 
+191: Reactions 2: no net change in number of OH groups  $2 \rightarrow 2$ , peak intensity unchanged.
+192: 
+193: Reactions 3: increase in number of OH groups  $2\rightarrow 4$  peak intensity increased.
+194: 
+195: Similarly, in the process of PAA-EP reactions to form PI-EP products, the curing of the amide-EP reaction and imidization reaction (of amide-acid to PI) could both be taking place, but the major reaction should be dependent on temperature (energy state), reactivity (activation energy), and product stability. In the process of forming PI-EP, as the temperature increases, there should be a kinetically controlled stage (lower temperature) and a thermodynamically controlled stage (higher temperature). This basic principle of organic chemistry is rarely discussed in regard to polymers, but can be applied here to explain certain phenomena observed in this study [38-43].
+196: 
+197: In the minireviews of J. Matern et al. [43], they discussed supramolecular polymerization (SP), where, quote, "in contrast to classical polymers, the presence of reversible noncovalent interactions" provides various functionalities in nature. In this article, a study by Ryu and Lee [44] was cited, where, quote, "the self-assembly of a bolaamphilic molecule over a period of four weeks, the micellar kinetic assemblies transformed into the thermodynamically stable cylindrical architectures". In this study, PI-EP copolymer is a classical polymer and allowed only covalent bonds in their matrix, which implies no reversible reaction. However, at different reaction temperatures or stages, because the system is not yet cooled down and is in a metastable state, the polymerization or curing reaction can be temporarily reversible. In supramolecular polymerization, the reaction (involving no change in covalent bond) can stay reversible for a long period of time. In contrast, in PI-EP polymerization, only for a short period of time during polymerization is the amide-EP covalent bond's breaking and forming reversible.
+198: 
+199: During heating, the temperature was raised from room temperature to high imidization temperature (about  $200 - 250^{\circ}\mathrm{C}$ ). At the early stage (about  $150^{\circ}\mathrm{C}$ ), due to the high reactivities of the amide group, it could participate in the curing reaction with the epoxide ring of EP. Hence the amide-EP reaction would be dominant (kinetic control). Near the stage of high imidization temperature, the PI formation reaction would be dominant (thermodynamic control). In between, the amide-EP reaction could be considered reversible, since some amides were released for later imidization (PI forming) reaction, and the linked EP molecule was released as its diol form, which is important in inducing EP homopolymerization. This will be further discussed shortly in the IPN structure section.
+200: 
+201: From the viewpoint of the final copolymer matrix, PAA has abundant amide groups that can react with EP; if all or a major portion of these amide groups are bonded in curing with the epoxide ring of EP, the obtained matrix would have a very high crosslink density, which would result in high rigidity, becoming brittle; consequently, the matrix would not be suitable for coating purposes. Moreover, the PAA would not have enough amide groups for imidization to form PI, and the expected PI-EP matrix cannot be obtained, since the limited amount of PI is not able to contribute its superior thermal stability to the copolymer matrix. Therefore, at some intermediate point, the formed amide-EP bonding starts to break and release the amide function group and allow more opportunity for imidization.
+202: 
+203: Besides reacting with terminal amine, the epoxide ring may also react with amide or acid groups of PAA during curing, although the latter two reactions are substituted by the competing imidization reaction. Thus, PAA with terminal amines acts as a polymeric hardener of EP resin [29]. The subsequently formed PI is beneficial in rendering flexibility to the PI-EP copolymer. At the same time, PAA is in the process of imidization to form PI  $(1390\mathrm{cm}^{-1}$  and  $1777\mathrm{cm}^{-1}$ , imide C-N and  $\mathrm{C = O}$  of carbonyl). According to Gaw et al. [29], the nonterminal amide-EP or acid-EP linkages are likely to break due to competitive imidization reactions. If so, the two -OH groups, generated by epoxide ring-opening and linkage breaking, further react with the epoxide ring of another EP molecule and lead to the homopolymerization of the EP resin. This mechanism implies that even with the breaking of amide-EP or acid-EP linkages, the inter-penetration structure is already established, which can provide the opportunity of combining both the desirable physical properties of PI and EP for the copolymer.
+204: 
+205: Upon the breakage of amide-EP linkage, the released EP molecule has already lost its epoxide function group, and the  $913~\mathrm{cm}^{-1}$  epoxide absorption peak does not recover
+206: 
+207: accordingly. With an epoxide ring opened, thus-generated OH groups subsequently join the homopolymerization reactions of EP. Instead, the peak  $(913~\mathrm{cm}^{-1})$  further decreases, which indicates that more EP molecules are consumed during the process. The residual, unreacted EP molecules may react with the OH groups on those released epoxides in the EP homopolymerization reaction [29].
+208: 
+209: In the  $250^{\circ}\mathrm{C}$  (2 h) spectra, the 1660 and  $913~\mathrm{cm}^{-1}$  peaks are not observable, indicating that the amide and EP molecules were fully reacted (imidization, terminal amine-EP, or homopolymerization of EP). The peak intensity at  $3500~\mathrm{cm}^{-1}$  is reduced, but still shows that some OH groups on the EP segment remain unreacted, which plays an essential role in the adhesion with metal.
+210: 
+211: # 3.3. Reaction of PI-P-EP Formation
+212: 
+213: Figure 5a compares the FTIR spectrum of PAA with dianhydride terminal groups. In the spectra of PAA-PMDA (Figure 5b), the C-O absorption peak (of epoxide ring) can be observed at  $913~\mathrm{cm}^{-1}$ , which indicates that epoxide ring-opening has not taken place yet (at  $100^{\circ}\mathrm{C}$ ). This peak intensity begins to reduce above  $100^{\circ}\mathrm{C}$ , and continues to diminish to complete curing at  $250^{\circ}\mathrm{C}$ , which implies that a significant portion of the epoxide rings of the dosed EP molecules reacted with PI to form anhydride-EP linkages, and some EP homopolymerization occurred as well.
+214: 
+215: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+216: Figure 5. FTIR of the curing profile of PI(50)-P-EP(50) at different temperatures: (a) room temperature (b)  $100^{\circ}\mathrm{C}$ , (c)  $150^{\circ}\mathrm{C}$ , (d)  $200^{\circ}\mathrm{C}$ , and (e)  $250^{\circ}\mathrm{C}$ .
+217: 
+218: During the formation of PAA, excessive PMDA (Table 1) was used to ensure that the carboxylic dianhydride was the terminal group of PAA. The reactivity of EP with amide is faster than with carboxylic dianhydride or carboxylic acid. Assuming all terminal function groups are carboxylic dianhydride, the epoxide would first react with amide and then with carboxylic acid or dianhydride. However, once a non-terminal amide nitrogen has reacted
+219: 
+220: with epoxide and formed a N-EP linkage, this nitrogen will not be able to participate in the amidization reaction during heating, unless the N-EP linkage is broken and releases a free amide that will immediately participate in amidization. Therefore, the free amide absorption peak at  $1660~\mathrm{cm}^{-1}$  is not observed again at  $200^{\circ}\mathrm{C}$  (as in Figure 5).
+221: 
+222: Figure 5 shows that the characteristic absorption peaks of PI,  $C = O$  (1777 and  $1720~\mathrm{cm}^{-1}$ ) grow stronger with increased temperature from 100 to  $250^{\circ}\mathrm{C}$ . Meanwhile, the amide peak at  $1660~\mathrm{cm}^{-1}$  is weak at  $100^{\circ}\mathrm{C}$ , which indicates that a significant portion of the amide group was involved in N-EP linkage formation. Unlike in Figure 4, at  $200^{\circ}\mathrm{C}$ , no re-appearance of the amide signal is observed in Figure 5. This may indicate that the regenerated amide upon linkage breaking is very short-lived and is imidized right after linkage breaking. Such a fast transition is not observed (reappearance of  $1660~\mathrm{cm}^{-1}$  peak) in Figure 5. This phenomenon of fast imidization can affect the pattern of linkage formation and EP homopolymerization and, consequently, affect the microstructure and physical property of the copolymer.
+223: 
+224: # 3.4. Morphology
+225: 
+226: Microphase separation is an important phenomenon that is crucial to the physical properties of the copolymer [45]. In the literature [46-48], PI-EP blends were reported to exhibit phase separation. Ellis commented in his book [6] that during curing, mixing, and dissolution, the morphology of the copolymer may be affected. Figure 6 compares the SEM micrographs of the PI-O-EP copolymers at various PI/EP ratios (PI content  $10\%$  to  $90\%$ ). In Figure 6a,b, EP is the continuous phase. In Figure 6d,e, PI is the continuous phase. Considering the large molecular weight difference between PI (ca. 8000) and EP (ca. 380), small molecules of EP are expected to be easily compatible with PI.
+227: 
+228: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+229: 
+230: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+231: 
+232: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+233: Figure 6. SEM of PI-O-EP (numbers in parenthesis are weight  $\%$ ); red circles mark typical microphase separation.
+234: 
+235: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+236: 
+237: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+238: 
+239: Therefore, in Figure 6a,b, the fracture surfaces are relatively smooth (less microphase separation). In Figure 6a, the dispersed PI is barely observable, whereas it is more observable in Figure 6b. In Figure 6d,e, the fracture surfaces are unsmooth, probably due to the microphase separation between PI and EP-homopolymer. In Figure 6c, since PI content is increased to  $50\%$ , the micrograph apparently shows a higher degree of microphase separation, and it seems that phase transition (or phase inversion) occurs at PI(50)-O-EP(50). For anticorrosion coating purposes, a smoothed matrix with little microphase separation would
+240: 
+241: be more protective to the substrate. Thus, PI(10)-O-EP(90) and PI(30)-O-EP(70) would be of better choice in this regard. This will be further compared in the salt-spray test.
+242: 
+243: Figure 7 compares the SEM micrographs of PI-P-EP of various PI/EP ratios. The phase transition (or phase inversion) [39] shifts to PI(70)-P-EP(30) (compared to Figure 6). As stated above, the N-EP linkage breaking in PI-P-EP may take place later than that in PI-O-EP. In the latter case, the EP oligomer would have more opportunity to homopolymerize to larger blocks, which would reduce the miscibility between PI and EP. Thus, for PI-O-EP, microphase separation between PI and EP occurs at a lower PI content of  $50\%$ .
+244: 
+245: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+246: (c) PI(50)-P-EP(50)
+247: 
+248: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+249: (d) PI(70)-P-EP(30)
+250: 
+251: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+252: Figure 7. SEM of PI-P-EP (numbers in parenthesis are weight\%); red circles mark typical microphase separation.
+253: 
+254: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+255: 
+256: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+257: (e) PI(90)-P-EP(10)
+258: 
+259: For PI-P-EP, as discussed in the FTIR section, fast imidization allows less opportunity for reappearance of the amide peak  $(1660\mathrm{cm}^{-1}$  peak at  $200^{\circ}\mathrm{C})$ . Consequently, with the decrease in opportunities for homopolymerization of EP, the homopolymerized EP blocks are relatively smaller than that in PI-O-EP. Therefore, the compatibility of PI in EP is better in PI-P-EP than in PI-O-EP.
+260: 
+261: # 3.5. IPN Structure
+262: 
+263: For PI-O-EPs, the terminal diamines first form PI-EP linkages, whereas for PI-P-EPs, the terminal dianhydrides form PI-EP linkages in a later stage. During curing and amidization, the major reactions involved in forming and breaking of the amide-EP linkage and amidization of the PI chain, as well as the homopolymerization of the released EP, are as follows:
+264: 
+265: From the PI-chain's point of view, it is penetrating the EP network. For EP, some molecules were linked to the terminal diamines or dianhydrides of PI, while some (or the majority of the EP molecules) were homopolymerized to form EP-domain, which includes those EP molecules bonded to the terminal functional groups of PI.
+266: 
+267: According to Sperling [49], "Many interpenetrating networks (IPNs) exhibit dual phase continuity, which means that two or more polymers in the system form phases that are macroscopically continuous". His comment provides a concise and clear description about IPNs. His narration of the IPNs' structure provides a good basis for referencing the current case.
+268: 
+269: In the PI-EP networks, the PI polymer chains are linear and are cross-linked with the EP molecules at both ends of the PI chain. The molecular size of PI was estimated to be
+270: 
+271: 8000 D, and that of EP is about 380 D. Such huge difference in size makes the two more miscible. However, due to the mutual miscibility and chemical linkages between PI and EP, the SEM of PI(10)-O-EP(90) (Figure 6a) and PI(10)-P-EP(90) (Figure 7a) found little or no microphase separation. Another reason for this phenomenon is the relative amounts of PI and EP. When the amount of the large-size PI increased, microphase separation becomes more and more apparent. Therefore, the structure of PI-EP in this study is closest to the definition of Semi-IPN by Sperling [47,49].
+272: 
+273: # 3.6. Mechanical Strength
+274: 
+275: For anticorrosion purposes, the coated film needs to be tough with some degree of flexibility. Otherwise, cracks could develop on the film due to factors like temperature and pressure variations. Table 2 compares the tensile modulus, tensile strength, and elongation at break of PI-O-EP and PI-P-EP with various PI content. As expected, the general trend is that all three measures increase with increasing PI content [49]. Table 2 reveals that chemically incorporating PI in the PI-EP copolymer gave the film improved mechanical properties.
+276: 
+277: Table 2. Results of mechanical tests for PI-EP films.  
+278: 
+279: <table><tr><td>Copolymer System</td><td>PI/EP wt.%</td><td>Tensile Modulus (GPa)</td><td>Tensile Strength (Mpa)</td><td>Elongation at Break (%)</td></tr><tr><td rowspan="5">PI-O-EP</td><td>10/90</td><td>0.88</td><td>15</td><td>0.85</td></tr><tr><td>30/70</td><td>1.70</td><td>25</td><td>1.79</td></tr><tr><td>50/50</td><td>2.67</td><td>68</td><td>3.79</td></tr><tr><td>70/30</td><td>2.68</td><td>80</td><td>4.77</td></tr><tr><td>90/10</td><td>3.18</td><td>105</td><td>9.33</td></tr><tr><td rowspan="5">PI-P-EP</td><td>10/90</td><td>1.99</td><td>26</td><td>1.71</td></tr><tr><td>30/70</td><td>3.16</td><td>82</td><td>8.24</td></tr><tr><td>50/50</td><td>3.28</td><td>102</td><td>4.46</td></tr><tr><td>70/30</td><td>3.37</td><td>115</td><td>3.91</td></tr><tr><td>90/10</td><td>3.48</td><td>118</td><td>9.35</td></tr></table>
+280: 
+281: Comparing these three mechanical properties (stiffness, brittleness, and ductility), for the same PI content, PI-P-EP is better than PI-O-EP (Table 2). Again, such contrast could be attributed to the observation that the extent of microphase separation is less in PI-P-EP than in PI-O-EP. The elongation at break of the two copolymers ranges from 0.85 to  $9.35\%$ , indicating that both have a certain degree of resilience that makes the coating film capable of coping with the metal's expansion and contraction during temperature change.
+282: 
+283: The tensile strengths of PI-P-EP and PI-O-EP, at PI contents of  $10\%$ , (26, and  $15\mathrm{MPa}$ ) are comparable to the data (10 to  $20\mathrm{MPa}$ ) reported by Su et al. [48], who used polyamide and polyether amine as curing agents to improve the physical properties of EP resin.
+284: 
+285: For a good anticorrosion coating material, besides good adhesion property, the coating material must have good mechanical properties (such as toughness and some degree of ductility). Furthermore, the coating material should have no or minor microphase separation to prevent weak spots due to microphase separation from developing into cracks and providing passages for corrosive chemicals.
+286: 
+287: # 3.7. Thermal Properties
+288: 
+289: Table 3 compares the results of TGA analysis in terms of temperature at weight loss of  $5\%$  (Td(5%)) for PI-O-EP and PI-P-EP at various PI contents of the copolymer.  $\mathrm{Td}(5\%)$  of PI-O-EP and PI-P-EP share a common trend: Td increased with increasing PI content. This trend is in line with the expectation that PI would render improved thermal durability to the copolymer [50].
+290: 
+291: Table 3.  ${\mathrm{T}}_{\mathrm{d}}\left( {5\% }\right)$  ,cross cut adhesion test and salt spray test.  
+292: 
+293: <table><tr><td>Copolymer System</td><td>PI/EP wt%</td><td>Td-5% (°C)</td><td>Number of Grids Not Flaked in 100 Grids</td><td>Salt Spry Test (h)</td></tr><tr><td rowspan="5">PI-O-EP</td><td>10/90</td><td>355</td><td>100</td><td>1028</td></tr><tr><td>30/70</td><td>367</td><td>98</td><td>697</td></tr><tr><td>50/50</td><td>346</td><td>96</td><td>361</td></tr><tr><td>70/30</td><td>370</td><td>90</td><td>289</td></tr><tr><td>90/10</td><td>442</td><td>77</td><td>91</td></tr><tr><td rowspan="5">PI-P-EP</td><td>10/90</td><td>380</td><td>100</td><td>1368</td></tr><tr><td>30/70</td><td>386</td><td>99</td><td>1088</td></tr><tr><td>50/50</td><td>395</td><td>98</td><td>577</td></tr><tr><td>70/30</td><td>373</td><td>93</td><td>337</td></tr><tr><td>90/10</td><td>461</td><td>84</td><td>111</td></tr></table>
+294: 
+295: However, one set of data does not follow this  $\mathrm{Td}(5\%)$  trend; the  $\mathrm{Td}(5\%)$  of both PI(10)-O-EP(90) and PI(10)-P-EP(90) are higher than those of PI(50)-O-EP(50) and PI(70)-P-EP(30). This is coherent with the SEM results, which show that the microphase separations (of the  $10/90$  ratio) were minimal among all PI/EP ratio tested. Without microphase separation, PI was more homogeneously inter-penetrated with the EP matrix; therefore, its contribution in thermal stability was more profound than expected. Similarly, as stated above, PI-P-EP exhibited better compatibility of PI in EP than in PI-O-EP. Thus, for the same PI content, the  $\mathrm{Td}(5\%)$  of PI-P-EP are all higher than PI-O-EP.
+296: 
+297: # 3.8. Adhesion and Salt Spray Tests
+298: 
+299: A good anticorrosion coating must possess good adhesion properties with the coated material (most frequently metal). In this regard, EP has long been used in the metal coating industry [3]. For the copolymer under investigation to be a good candidate, it must possess as good, if not improved, adhesion properties as EP. Kim et al. [23] achieved excellent adhesion strength of the polyimide/EP joint using polyamic acid as both the adhesion-promoting layer and the curing agent.
+300: 
+301: The result of the cross cut adhesion test are listed in Table 3 [51]. With a high reputation of excellent thermal stability and toughness, PI's application in metal coating has been limited due to its poor adhesivity. Table 3 shows that for various PI/EP ratios tested, the 10/90 set exhibited adhesion (100% adherence) that was as good as EP. The adhesion performances of the PI-EP copolymer are higher than 90% for PI content up to 70% (Table 3) [52,53]. If we compare PI-O-EP with PI-P-EP, the latter exhibits better adhesivity. This contrast could result from the aforementioned phenomena of reduced microphase separation, or, better yet, as a continuous and homogeneous one phase (Figures 6a and 7a), as discussed in the SEM section.
+302: 
+303: Withstanding a serious salt spray test is prerequisite for designing an anticorrosion of metal coating material. In the above discussions about microphase separation, it is concluded that when we increase PI content to above  $10\%$ , microphase separation becomes more apparent. Theoretically, phase separation indicates the existence of a region that is not continuous between the two microphases, which in turn is likely to be the weak spot of the material and might lead to structural failure under stress. Table 3 shows that the time before salt corrosion development is observed decreases with increasing PI content. In the meantime, Table 3 also shows that PI-P-EP outperformed PI-O-EP for all PI content studied. This is coherent with the above discussions about microphase separation.

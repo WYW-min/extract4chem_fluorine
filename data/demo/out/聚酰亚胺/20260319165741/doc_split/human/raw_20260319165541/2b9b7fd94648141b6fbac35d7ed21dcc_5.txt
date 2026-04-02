@@ -1,0 +1,28 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. II. PolyimidePoly(ethylene terephthal.md
+doc_id: 2b9b7fd94648141b6fbac35d7ed21dcc
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Conclusions
+line_span: [92, 105]
+char_span: [11265, 13313]
+line_count: 12
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0006: Conclusions) ---
+92: # Conclusions
+93: 
+94: Thus, there were obtained the composite materials on the basis of arylalicylicpolyimide and poly(ethylene terephthalate) and developed the synthesis methods, also there were studied physicochemical and physico-mechanical characteristics of the composites. It was found that the absorption bands
+95: 
+96: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+97: Fig. 6. Derivatives of TGA of PI and its compositions with PETP at different ratios: 1 - PI; 2 - 2 wt.% PETP; 3 - 5 wt.% PETP; 4 - 10 wt.% PETP; 5 - 15 wt.% PETP; 6 - 20 wt.% PETP.
+98: 
+99: Table 1 TGA data of PI composites of chemical mixing  
+100: 
+101: <table><tr><td rowspan="2">Composite</td><td rowspan="2">Imide group content, wt.%</td><td rowspan="2">Amide group content, wt.%</td><td colspan="2">PETP content, wt.%</td></tr><tr><td>by gravimetry</td><td>by TGA</td></tr><tr><td>Homopolyimide</td><td>90.1</td><td>9.6</td><td>-</td><td>-</td></tr><tr><td>PI-PETP 1%</td><td>86.1</td><td>12.1</td><td>1.05</td><td>1.15</td></tr><tr><td>PI-PETP 2%</td><td>83.8</td><td>12.0</td><td>2.1</td><td>2.25</td></tr><tr><td>PI-PETP 5%</td><td>80.5</td><td>11.7</td><td>5.1</td><td>7.7</td></tr><tr><td>PI-PETP 10%</td><td>77.9</td><td>11.8</td><td>10.2</td><td>10.3</td></tr><tr><td>PI-PETP 15%</td><td>74.2</td><td>10.4</td><td>15.3</td><td>14.9</td></tr><tr><td>PI-PETP 20%</td><td>65.7</td><td>10.1</td><td>20.4</td><td>24.3</td></tr><tr><td>PETP</td><td>-</td><td>-</td><td>-</td><td>94.9</td></tr></table>
+102: 
+103: of carbonyl function of the composites are broader than ones of the materials obtained before. Without forming of crystallite the blend could be characterized as compatible mixture with an appropriate miscibility up to  $10\mathrm{wt.\%}$  of PETP. Above this content the phase separation of both PETP and PI. It could be an ideal candidate for the preparation of metallized films with broadened physico-mechanical properties as well as with high reflectivity and electroconductivity. However, mechanical performances of the prepared blends are on the current investigation.

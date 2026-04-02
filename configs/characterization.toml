@@ -1,0 +1,153 @@
+[section_titles]
+method = [
+  "MATERIALS AND METHODS",
+  "MATERIALS & METHODS",
+  "MATERIALS AND METHOD",
+  "EXPERIMENTAL",
+  "EXPERIMENT",
+  "METHODS",
+  "METHODOLOGY",
+  "CHARACTERIZATION",
+  "INSTRUMENTATION",
+]
+result = [
+  "RESULTS AND DISCUSSION",
+  "RESULTS",
+  "DISCUSSION",
+  "CHARACTERIZATION RESULTS",
+  "STRUCTURAL CHARACTERIZATION",
+  "CHEMICAL ANALYSIS",
+  "MORPHOLOGICAL CHARACTERIZATION",
+  "INTERNAL MORPHOLOGY",
+]
+ignore = [
+  "REFERENCE",
+  "ACKNOWLEDG",
+  "SUPPLEMENT",
+  "SUPPORTING",
+]
+
+[keywords]
+FTIR = [
+  "FT\\s*[-/]?\\s*IR",
+  "fourier\\s+transform\\s+infrared",
+  "infrared\\s+spectr",
+]
+UVVis = [
+  "UV\\s*[-/]?\\s*Vis",
+  "UV-visible",
+  "ultraviolet-visible",
+  "absorption\\s+peak",
+  "lambda\\s*max",
+  "λmax",
+]
+GPC_SEC = [
+  "\\bGPC\\b",
+  "\\bSEC\\b",
+  "gel\\s+permeation\\s+chromat",
+  "size\\s+exclusion\\s+chromat",
+  "molecular\\s+weight",
+  "polydispersity",
+  "\\bMn\\b",
+  "\\bMw\\b",
+  "\\bPDI\\b",
+]
+NMR = [
+  "\\bNMR\\b",
+  "1H\\s*-?\\s*NMR",
+  "13C\\s*-?\\s*NMR",
+  "\\^1H",
+  "\\^13C",
+]
+XRD_WAXS = [
+  "\\bXRD\\b",
+  "WAXS",
+  "SAXS",
+  "x-ray\\s+diffraction",
+  "wide-angle\\s+x-ray\\s+scattering",
+  "small-angle\\s+x-ray\\s+scattering",
+  "diffractogram",
+  "diffraction\\s+peak",
+  "2θ",
+  "2theta",
+]
+Morphology = [
+  "\\bSEM\\b",
+  "FE-SEM",
+  "\\bTEM\\b",
+  "\\bAFM\\b",
+  "morpholog",
+  "microstructure",
+  "micrograph",
+  "surface\\s+image",
+  "cross-sectional",
+  "lamellar",
+  "porous\\s+structure",
+]
+MassSpec = [
+  "LC\\s*-?\\s*MS",
+  "mass\\s+spectrom",
+  "m/z",
+]
+Raman = [
+  "\\bRaman\\b",
+]
+XPS = [
+  "\\bXPS\\b",
+  "x-ray\\s+photoelectron",
+]
+BET = [
+  "\\bBET\\b",
+  "surface\\s+area",
+  "nitrogen\\s+adsorption",
+  "pore\\s+size\\s+distribution",
+]
+ContactAngle = [
+  "contact\\s+angle",
+  "water\\s+contact\\s+angle",
+  "wettab",
+]
+ElementalAnalysis = [
+  "elemental\\s+analysis",
+  "\\bEDS\\b",
+  "\\bEDX\\b",
+  "element\\s+mapping",
+  "\\bICP\\b",
+  "\\bXRF\\b",
+]
+
+[exclude_keywords]
+process_or_performance = [
+  "printing\\s+performance",
+  "printability",
+  "printable",
+  "shape\\s+fidelity",
+  "shrinkage",
+  "response\\s+time",
+  "recovery\\s+time",
+  "sensor\\s+response",
+  "gas\\s+sensor",
+  "chemiresistor",
+  "thermal\\s+conductivity",
+  "yield\\s+stress",
+  "viscosity",
+  "shear\\s+thinning",
+  "storage\\s+modulus",
+  "loss\\s+modulus",
+  "stacked\\s+to",
+  "layer-by-layer",
+  "shape\\s+retention",
+]
+
+[comparative_patterns]
+side_mention = [
+  "more\\s+.+?\\s+than",
+  "less\\s+.+?\\s+than",
+  "higher\\s+.+?\\s+than",
+  "lower\\s+.+?\\s+than",
+  "compared\\s+with",
+  "compared\\s+to",
+  "in\\s+comparison\\s+with",
+  "\\bversus\\b",
+  "\\bvs\\.?\\b",
+]

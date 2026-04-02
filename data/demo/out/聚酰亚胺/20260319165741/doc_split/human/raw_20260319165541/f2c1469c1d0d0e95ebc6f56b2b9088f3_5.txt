@@ -1,0 +1,44 @@
+source_file: Nanoindentation studies of polyimide thin films with various internal linkages in the diamine component.md
+doc_id: f2c1469c1d0d0e95ebc6f56b2b9088f3
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Morphological Aspects
+line_span: [104, 133]
+char_span: [19137, 27103]
+line_count: 28
+effective_body_non_empty_lines: 14
+
+lines:
+--- chunk (b0006: Morphological Aspects) ---
+104: # Morphological Aspects
+105: 
+106: Morphological structures of the prepared polyimide films were studied through the measurement of their optical properties. For the polyimide thin
+107: 
+108: films, the optical properties were measured at an optical frequency of 474.08 THz (632.8 nm). The results are given in Table 2.
+109: 
+110: All the polyimide thin films showed a larger in-plane refractive index  $(n_{xy})$  than the out-of-plane refractive index  $(n_z)$ , regardless of their chemical structures. This indicates two things: first, the polymer chains were preferentially aligned in the film plane, and second, the polarization along the chain axis was higher than that normal to the chain axis, resulting in positive birefringence in all the polymer films.
+111: 
+112: As shown in Table 2, the average refractive indices of the polyimide thin films were 1.7646 for BPDA-PDA, 1.7522 for BPDA-BZ, 1.7273 for BPDA-ODA, and 1.6978 for BPDA-DDS. It is well known that the refractive index of a polymer is attributable to the molecular polarizability or molecular polarization of the molecules constituting the polymer backbone, and it is sensitive to the molecular order and crystallinity.[28] The birefringence  $(\Delta = n_{xy} - n_z)$  values obtained for the various polyimide thin films were 0.2336 for BPDA-PDA, 0.2464 for BPDA-BZ, 0.0830 for BPDA-ODA, and 0.0124 for BPDA-DDS. In general, the birefringence in a polymer film is a measure of the molecular in-plane orientation, for which the orientation angle is defined by the angle between the polymer chain axis and the film plane. The molecular in-plane orientation in the films was investigated through the measurement of the birefringence.[27]
+113: 
+114: The birefringence of the BPDA-BZ film was relatively large, in comparison with that of the other polyimide thin films. This indicates that the molecular in-plane orientation in the BPDA-BZ film was relatively high. The high in-plane orientation of the BPDA-BZ film may have been due to the difference between polarizations parallel and perpendicular to the polymer chain axis (i.e., molecular birefringence), which was relatively high in fully extended BPDA-BZ molecules. This was
+115: 
+116: because of the linear nature due to the linear biphenyl of the BZ diamine unit on the backbone. The birefringence of the BPDA-PDA film was slightly lower than that of BPDA-BZ but much higher than those of BPDA-ODA and BPDA-DDS films. It can be seen from the results that the in-plane refractive index of BPDA-PDA was higher than that of BPDA-BZ. However, BPDA-PDA had a higher out-of-plane refractive index than BPDA-BZ and, therefore, resulted in lower birefringence values. This indicates that in BPDA-BZ, most of the molecules were aligned in the film plane than out of plane. However, in BPDA-PDA, the out-of-plane orientation was higher than that of BPDA-BZ. Hence, even though the in-plane orientation in BPDA-PDA was comparatively higher than that of BPDA-BZ, because of the higher out-of-plane orientation, BPDA-PDA had a low birefringence value. This result agreed with the nanoindentation studies. The higher out-of-plane orientation in BPDA-PDA can be explained as follows. In contrast to BPDA-BZ, BPDA-PDA had a para-phenyl linkage of the PDA unit in the backbone. Even though this short linear para-phenyl linkage provided linearity to the backbone, its linearity seemed to be more affected by kink chain conformation due to the biphenyl linkage of BPDA unit in comparison with that of BPDA-BZ. For BPDA-ODA, the birefringence was much less than that of the BPDA-BZ and BPDA-PDA films. The low birefringence in this polyimide might have resulted from the bent chain conformations in every repeating unit of the polymer backbone, due to the ether group of ODA. The bent chain conformations reduced the polarization drastically along the chain axis and resulted in a lowering of the molecular birefringence between the directions parallel and vertical to the chain axis. Also, this bent chain conformation provided flexibility to the polymer chain and, therefore, led to poor chain order and poor molecular in-plane orientation. A similar effect on the birefringence, as observed for BPDA-ODA, was detected in BPDA-DDS polyimide thin films. BPDA-DDS had a sulfonyl linkage of the DDS unit on the backbone. In general, the hinged sulfonyl group on BPDA-DDS was bigger or bulkier than the ether group on BPDA-ODA, and so this polyimide thin film showed the lowest birefringence of all the systems.
+117: 
+118: For the various polyimide thin films, the birefringence was in the following increasing order: BPDA-DDS  $<$  BPDA-ODA  $<$  BPDA-PDA  $<$  BPDA-BZ. In addition, the morphological struc
+119: 
+120: ture of the fully cured polyimide thin films was further characterized by WAXD measurements (transmission and reflection geometries). The transmission pattern gave structural information about the film plane, whereas the reflection pattern gave structural information about the out-of-film plane. The WAXD patterns are depicted in Figure 4.
+121: 
+122: The BPDA-PDA polyimide exhibited an  $(hkl)$  peak in addition to the  $(00l)$  peak in the transmission pattern. According to previous X-ray diffraction measurements and structural refinement analysis,[29,30] BPDA-PDA polyimide chains form crystals that are based on the orthorhombic crystal unit cell with a space group of Pba2. The diffraction peaks were indexed in accordance with the previous results.[31] Five distinct  $(00l)$  peaks, which were not detected on the reflection pattern, appeared over the angle range of  $10 - 48^{\circ}$ $(2\theta)$  on the transmission pattern. This indicates that highly ordered BPDA-PDA polymer chains were preferentially aligned in the film plane. The reflection revealed three peaks, (110) at  $18.37^{\circ}$ , (200) at  $21.25^{\circ}$ , and (210) at  $25.40^{\circ}$ , indicating that the in-plane oriented polymer chains were regularly well ordered. However, the BPDA-PDA polyimide thin film showed the highest crystallinity in the film plane and out-of-plane directions. Like BPDA-PDA, the BPDA-BZ polyimide exhibited a high chain order. Five relatively sharp peaks appeared on the transmission pattern. The reflection pattern showed two distinct peaks at  $16.54$  and  $24.74^{\circ}$ . That is, BPDA-BZ molecules were oriented in the film plane and were regularly well ordered. However, their X-ray patterns revealed relatively low crystallinity in comparison with BPDA-PDA. In contrast to both the BPDA-PDA and BPDA-BZ polyimides, BPDA-ODA with a hinged ether structure in the diamine component exhibited ambiguous diffraction peaks seated on a big amorphous halo on the transmission and reflection patterns over the angle range of  $10 - 30^{\circ}$ . From the diffraction patterns, it can be found that BPDA-ODA formed a crystal structure, although its overall crystallinity was much less than those of BPDA-PDA and BPDA-BZ. Unlike the polyimides described previously, the BPDA-DDS polyimide revealed structureless WAXD patterns. BPDA-DDS showed three broad peaks in the transmission and reflection geometry. These might have resulted from very poor chain ordering caused by the bulky sulfonyl groups.
+123: 
+124: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+125: Figure 4. WAXD patterns of the various polyimide thin films.
+126: 
+127: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+128: 
+129: From the characteristic diffraction peaks, it is speculated that the crystallinity in the BPDA-based polyimides was in the following increasing order: BPDA-DDS  $<$  BPDA-ODA  $<$  BPDA-BZ  $<$  BPDA-PDA. These orders were fairly consistent with those of the hardness by nanoindentation in the polyimide thin films.
+130: 
+131: Therefore, it was found that the hardness by nanoindentation for the BPDA-based polyimides was closely related to the morphological structure. In particular, their mechanical properties might be attributed to crystallinity due to the chain order along the chain axis and the molecular packing order.

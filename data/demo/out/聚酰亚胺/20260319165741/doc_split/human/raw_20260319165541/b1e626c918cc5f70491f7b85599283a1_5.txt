@@ -1,0 +1,19 @@
+source_file: Physical and Gas Transport Properties of Asymmetric Hyperbranched Polyimide-Silica Hybrid Membranes.md
+doc_id: b1e626c918cc5f70491f7b85599283a1
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: ACKNOWLEDGEMENTS
+line_span: [226, 230]
+char_span: [41190, 41406]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0006: ACKNOWLEDGEMENTS) ---
+226: # ACKNOWLEDGEMENTS
+227: 
+228: The authors would like to thank Ministry of Education, Science and Culture for support of the project, Regional Innovation Strategy Support Program, "Kyoto Environmental Nanotechnology Cluster".

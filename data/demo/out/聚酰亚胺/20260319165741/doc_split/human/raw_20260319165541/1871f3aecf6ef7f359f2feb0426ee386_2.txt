@@ -1,0 +1,33 @@
+source_file: Fiber Reinforced Polyimide Aerogel Composites with High Mechanical Strength for High Temperature Insulation.md
+doc_id: 1871f3aecf6ef7f359f2feb0426ee386
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Experimental Section
+line_span: [60, 78]
+char_span: [6390, 10617]
+line_count: 17
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0003: 2. Experimental Section) ---
+60: # 2. Experimental Section
+61: 
+62: # 2.1. Preparation of PI Aerogels and Glass Fiber/PI Aerogel Composites
+63: 
+64: Aerogels were prepared using the diamine and anhydride  $(3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride, BPDA) with a molar ratio of  $(n + 1):n$ , where  $n$  is the number of repeat units of the oligomers capped with diamine. The solid content of the PAA solution was set to  $8\mathrm{wt}\%$  for a value of  $n = 15$  in all cases. The mole percent of the rigid diamine, PPDA (as a replacement for ODA), were  $0\%$ ,  $25\%$ ,  $75\%$ , and  $100\%$ , respectively. A representative procedure for preparing an oligomer using  $25\mathrm{mol}\%$  PPDA and  $75\mathrm{mol}\%$  ODA is described as follows: BPDA  $(4.707\mathrm{g}, 16\mathrm{mmol})$  was added to a stirred solution of PPDA  $(0.541\mathrm{g}, 5\mathrm{mmol})$ , ODA  $(2.002\mathrm{g}, 10\mathrm{mmol})$ , and  $87.384\mathrm{g}$  of  $N$ -methylpyrrolidinone (NMP), and the mixture stirred until all the BPDA was dissolved. Polymerization was then initiated via treatment with triethylamine  $(6.533\mathrm{g}, 64\mathrm{mmol}, 4:1$  molar ratio to BPDA) and acetic anhydride  $(6.476\mathrm{g}, 64\mathrm{mmol})$ , with the resultant mixture then stirred for  $5\mathrm{min}$ . The reaction mixture was then poured into a cylindrical mold  $(4\mathrm{cm}$  in diameter) to form a gel that was aged for  $48\mathrm{h}$  at room temperature, with solvent-exchange being carried out via treatment with acetone (four times for  $12\mathrm{h}$ ). The resultant gel was then placed in an autoclave and washed with liquid  $\mathrm{CO}_{2}$  at  $10\mathrm{MPa}$  and  $50^{\circ}\mathrm{C}$  for  $4\mathrm{h}$ .
+65: 
+66: Continuous glass fiber was employed to fabricate the integrated felt, which was prepared by alternately stacking weftless piles and short-cut-fiber webs using a needle-punching technique. The fiber volume content of the felt was around  $10\%$ , which was used as reinforcement for the glass fiber/polyimide aerogel composites (GF/PI). Glass fibers were impregnated with PI sols. These composites were then stored at room temperature for  $48\mathrm{h}$  and soaked in acetone for  $72\mathrm{h}$ , with acetone exchange being carried once a day. Finally, the composites were then placed in an autoclave and washed with liquid  $\mathrm{CO}_{2}$  at  $10\mathrm{MPa}$  and  $50^{\circ}\mathrm{C}$  for  $4\mathrm{h}$ . The resultant composites were classified as GF/PI-x ( $x = 0, 25, 75, 100$ ) where  $x$  is the molar fraction of PPDA relative to the total moles of diamine present.
+67: 
+68: # 2.2. Material Characterization
+69: 
+70: Bulk densities were calculated by measuring the dimensions and masses of each sample after the supercritical drying process. The volume shrinkage  $(V_{\mathrm{s}})$  of the samples was obtained according to the following equation.
+71: 
+72: $$
+73: V _ {s} = \left(V _ {\text {wet g d}} - V _ {\text {acrogel}}\right) / V _ {\text {wet g d}} \times 100 \% \tag{1}
+74: $$
+75: 
+76: The chemical structures of the samples were investigated by Fourier transformed infrared spectroscopy using a Spectrum 100, PerkinElmer spectrometer. The morphology of the aerogels was visualized using a scanning electron microscope (FEI-NOVA Nano SEM450 with operating voltage  $3\mathrm{kV}$ ). Nitrogen adsorption/desorption isotherms were acquired using a Quadrasorb SI analyzer at  $77\mathrm{K}$ , with pore size distribution calculated from analysis of the desorption region of their sorption isotherms using the Barrett-Joyner-Halenda (BJH) formula. Thermogravimetric (TG) analysis was conducted on a SDT Q600 instrument, over a temperature range from room temperature to  $800^{\circ}\mathrm{C}$  using a heating rate of  $10^{\circ}\mathrm{C}\mathrm{min}^{-1}$  in air and nitrogen atmospheres. Compression tests were performed on cylindrical samples with dimensions of  $2\times 2\times 1$  cm using a universal test machine (Instron 3367) and a compression rate of  $5\mathrm{mm}\mathrm{min}^{-1}$ . Thermal conductivity measurements were carried out at different temperatures (from room temperature to  $500^{\circ}\mathrm{C}$ ) to detect the heat insulation performance of the specimen using a heat flux method (Netzsch, HFM436 Lambda).

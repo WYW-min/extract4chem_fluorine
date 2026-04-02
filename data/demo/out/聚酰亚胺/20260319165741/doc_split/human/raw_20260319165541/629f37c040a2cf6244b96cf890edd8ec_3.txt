@@ -1,0 +1,165 @@
+source_file: Closed-Cell Rigid Polyimide Foams for High-Temperature Applications The Effect of Structure on Combined Proper.md
+doc_id: 629f37c040a2cf6244b96cf890edd8ec
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [97, 247]
+char_span: [16927, 42737]
+line_count: 149
+effective_body_non_empty_lines: 81
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+97: # 3. Results and Discussion
+98: 
+99: # 3.1. Characterization
+100: 
+101: The rigid PI foams were prepared by thermal foaming of the reactive end-capped NPO precursor powder at  $350^{\circ}\mathrm{C}$  for  $3\mathrm{h}$  in a closed mold. As shown in Figure 1, the NPO powder was obtained by thermal treating of the polyester-amine salt (PEAS) solution derived from the reaction of the  $\alpha$ -BPDA diethyl ester with PDA and BIA in the presence of an end-capping agent (monoethyl ester of nadic acid anhydride, NE) in aliphatic alcohol. The prepared foam showed a dense cell structure with a light-yellow color after the high-temperature foaming process.
+102: 
+103: The FT-IR spectra of the NPOs with different BIA contents are shown in Figure 2. The NPOs showed imide ring characteristic absorption peaks at  $1778~\mathrm{cm}^{-1}$  ( $C = O$  asymmetric stretching vibration),  $1720~\mathrm{cm}^{-1}$  ( $C = O$  symmetric stretching vibration),  $1363~\mathrm{cm}^{-1}$  ( $C - N$  stretching vibration), and  $730~\mathrm{cm}^{-1}$  (imide ring bending vibration), indicating the formation of an imide structure (Figure 2A). The peaks at  $3100 - 3450~\mathrm{cm}^{-1}$  were attributed to the asymmetric and symmetric stretching vibration of  $\mathrm{N - H}$  as shown in Figure 2B [33,34]. The peak intensity increased with increasing BIA content in the NPOs, indicating the presence of benzimidazole moieties in the polymer backbones.
+104: 
+105: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+106: (A)
+107: 
+108: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+109: (B)  
+110: Figure 1. (A) Schematic diagram and (B) chemical reaction formula of procedure to fabricate the rigid PI foams.  $\alpha$ -BPDE, diethyl ester of  $2,3,3^{\prime},4^{\prime}$ -biphenyl tetracarboxylic dianhydride; NE, monoethyl ester of cis-5-norbornene-endo-2,3-dicarboxylic anhydride.  $\alpha$ -BPDE and NE were obtained by reflux esterification of corresponding monomers in ethanol. The foam dimensions were  $220\mathrm{mm} \times 220\mathrm{mm} \times 35\mathrm{mm}$ .
+111: 
+112: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+113: Figure 2. FT-IR spectra of NPOs with different BIA contents: (A) complete spectrum and (B) partial spectrum at  $3100 - 3500\mathrm{cm}^{-1}$ .
+114: 
+115: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+116: 
+117: The chemical structures of the NPOs were further confirmed by NMR spectra (Figure 3). The signals for  $\mathrm{H}_{1}$  to  $\mathrm{H}_{4}$  in the NA end-capping agent (Figure 3A) were detected in all NPO precursors. The signals at  $13.26~\mathrm{ppm}$  were attributed to  $\mathrm{H}_{5}$  in the BIA moiety, and the intensity was increased with the increase in BIA content. These results confirm the existence of the NA end-capping groups and BIA moiety in the polymer backbones.
+118: 
+119: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+120: Figure 3. NMR spectra of NPOs with different BIA contents: (A) complete spectrum and (B) partial spectrum at 11-15 ppm.
+121: 
+122: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+123: 
+124: The molecular weights of NPO-2 with a fixed BIA content of  $20\%$  and different calcd  $\mathrm{M_w}$  of 1000-2000 g/mol were measured by GPC (Table 1). The measured  $\mathrm{M_n}$  values showed the same trend as the calcd  $\mathrm{M_w}$ , and the determined polydispersity ranged from 1.45 to 1.53.
+125: 
+126: Table 1. Measured molecular weight of NPO-2 with different calcd  ${\mathrm{M}}_{\mathrm{w}}$  .  
+127: 
+128: <table><tr><td>Calcd Mw (g/mol)</td><td>Mn (g/mol)</td><td>Mw (g/mol)</td><td>Polydispersity</td></tr><tr><td>1000</td><td>1644</td><td>2385</td><td>1.45</td></tr><tr><td>1250</td><td>1662</td><td>2490</td><td>1.50</td></tr><tr><td>1500</td><td>1686</td><td>2508</td><td>1.49</td></tr><tr><td>1750</td><td>1688</td><td>2528</td><td>1.50</td></tr><tr><td>2000</td><td>1718</td><td>2626</td><td>1.53</td></tr></table>
+129: 
+130: # 3.2. Thermal Foaming Processability
+131: 
+132: The thermal foaming process of NPO-2 was monitored using a hot stage microscope with a heating rate of  $10^{\circ}\mathrm{C / min}$ . The temperature was increased to  $320^{\circ}\mathrm{C}$ , and the corresponding morphologies of the NPO powder at different temperatures are shown in Figure 4. The morphology of the NPO powder remained unchanged at temperatures below  $280^{\circ}\mathrm{C}$ , and some volume shrinkage was observed at  $300^{\circ}\mathrm{C}$ . At  $320^{\circ}\mathrm{C}$ , the NPO powder was completely melted and bubbles began forming. The foam bubbles gradually expanded from 0.5 to  $10\mathrm{min}$ , implying that there was adequate strength maintaining the bubbles' intactness. The strength of the melt could be attributed to the crosslinking reaction of NPO during the foaming process [27]. In the foaming process, two types of foaming agents are produced: the byproducts of the imidization reaction, such as  $\mathrm{H}_2\mathrm{O}$  and  $\mathrm{CH}_3\mathrm{CH}_2\mathrm{OH}$ , and the cyclopentadiene yielded by the thermal decomposition of the NA end-capping groups [35,36].
+133: 
+134: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+135: Figure 4. Foaming process of NPO-2 with increasing temperature.
+136: 
+137: Figure 5 compares the effect of BIA content on the NPO complex melt viscosities at  $150 - 400^{\circ}\mathrm{C}$ . The NPO powders began melting at temperatures higher than  $250^{\circ}\mathrm{C}$ ; the melt viscosities decreased with the increase in temperature. After the minimum value, the melt viscosities were markedly increased due to the thermal crosslinking of the end-capping groups with a further increase in temperature, and the minimum melt viscosity was observed at  $300 - 330^{\circ}\mathrm{C}$ . Table 2 summarizes the minimum melt viscosity and the corresponding temperatures of the NPO powders with different BIA contents. Obviously, the minimum melt viscosity increased with the increase in BIA content in the polymer backbones. For instance, NPO-0 showed a minimum melt viscosity of  $233\mathrm{Pa}\cdot \mathrm{s}$  at  $317.3^{\circ}\mathrm{C}$ , lower than that of NPO-1 (826 Pa·s at  $324.1^{\circ}\mathrm{C}$ ), NPO-2 (5134 Pa·s at  $328.9^{\circ}\mathrm{C}$ ), and NPO-3 (45,490 Pa·s at  $304.6^{\circ}\mathrm{C}$ ).
+138: 
+139: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+140: Figure 5. Rheological behaviors of melting for NPOs with different BIA contents.
+141: 
+142: Table 2. Minimum melt viscosity of powders NPO with different BIA contents and the corresponding temperature.  
+143: 
+144: <table><tr><td>NPO</td><td>Minimum Melt Viscosity (Pa·s)</td><td>Temperature (°C)</td><td>n(BIA): n(BIA+PDA)</td></tr><tr><td>NPO-0</td><td>233</td><td>317.3</td><td>0%</td></tr><tr><td>NPO-1</td><td>826</td><td>324.1</td><td>10%</td></tr><tr><td>NPO-2</td><td>5134</td><td>328.9</td><td>20%</td></tr><tr><td>NPO-3</td><td>45,490</td><td>304.6</td><td>30%</td></tr></table>
+145: 
+146: Closed-cell rigid PI foams—with different molar ratios of BIA/(BIA + PDA) (0% to 30%)—were successfully prepared by thermal foaming of the NPOs. However, when the molar ratio of BIA/(BIA + PDA) exceeded 40%, the NPOs could not be thermally foamed to yield PI foams—attributed to the lack of melt fluidity. Figure 6 compares the micro morphologies of the PI foams. The distribution of the cell sizes of the PI foams ranged from
+147: 
+148: 50 to  $600\mu \mathrm{m}$ , and most of the cell walls were intact without any broken holes or defects. The cell sizes and uniformity were significantly affected by the BIA content. The average cell diameter decreased with an increase in BIA content, along with the cell size uniformity. Obviously, PIF-3 showed an uneven cell structure.
+149: 
+150: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+151: PIF-0
+152: 
+153: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+154: PIF-1
+155: 
+156: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+157: PIF-2
+158: 
+159: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+160: Figure 6. SEM images of the rigid PI foams with different BIA contents.  
+161: PIF-3  
+162: 500 μm
+163: 
+164: Figure 7 compares the complex melt viscosity of NPOs with different calcd  $\mathrm{M_w}$ . The minimum melt viscosity increased with increasing calcd  $\mathrm{M_w}$ . NPO-1000 showed the lowest minimum melt viscosity of  $73\mathrm{Pa}\cdot \mathrm{s}$  at  $301^{\circ}\mathrm{C}$ , compared with NPO-2-1250 (755 Pa·s at  $311^{\circ}\mathrm{C}$ ), NPO-2-1500 (5134 Pa·s at  $328^{\circ}\mathrm{C}$ ), and NPO-2-1750 (72,350 Pa·s at  $318^{\circ}\mathrm{C}$ ). The minimum melt viscosity of NPO-2-2000 was  $>1.0\times 10^{5}\mathrm{Pa}\cdot \mathrm{s}$  at  $325^{\circ}\mathrm{C}$ , resulting in a poor melt-flowing ability.
+165: 
+166: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+167: Figure 7. Melt viscosities of NPO-2 with different calcd  $\mathbf{M}_{\mathrm{w}}$
+168: 
+169: The NPO-2s with a calcd  $\mathrm{M_w}$  of  $1000 - 2000\mathrm{g / mol}$  could be thermally foamed to produce uniform rigid PI foams. Figure 8 compares the microscopic cell structures of the PI foams. The cell structures and cell diameter of the PI foams clearly changed with increasing calcd  $\mathrm{M_w}$ . The cell size of PIF-2-1000 showed an obvious bimodal distribution comprising large-size cells (around  $750~{\mu\mathrm{m}}$ ) and small-size cells (around  $200~{\mu\mathrm{m}}$ ). The melt strength might not be strong enough to maintain cell integrity in the thermal foaming process, resulting in the occurrence of cell merging. PIF-2-1250 and PIF-2-1500 showed relatively uniform cell sizes, probably attributed to the moderate melt strength and blowing agent dosage.
+170: 
+171: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+172: 
+173: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+174: 1500 g/mol 500 μm
+175: 
+176: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+177: 
+178: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+179: Figure 8. SEM images of rigid PI foams (NPO-2) with different calcd  $\mathrm{M_w}$ .  
+180: 2000 g/mol 500 μm
+181: 
+182: Closed-cell rigid polymer foams are usually used as a core material of sandwich composites by co-curing of the foam core with carbon fiber prepregs. In this process, the high closed-cell rate is a crucial factor for reducing the weight of the finished product by preventing resin penetration into the foam core. Figure 9A compares the closed-cell rate of the PI foams with different BIA contents. The closed-cell rates of the PI foams were  $\geq 80\%$ , in which PIF-1 and PIF-2 showed closed-cell rates of  $90\%$  and  $91\%$ , respectively. The rapidly rising viscosity—due to the crosslinking of end-capping groups—might have accounted for the high closed-cell rate. NPO-0, which had the lowest melt viscosity, resulted in a PI foam with the lowest closed-cell rate. However, NPO-3 with the highest melt viscosity also resulted in PIF-3 with a lower closed-cell rate than PIF-1 and PIF-2, indicating that only an appreciable melt viscosity could produce PI foams with a high closed-cell rate. Figure 9B compares the closed-cell rate of the PI foams with different calcd  $\mathrm{M_w}$ . The closed-cell rate increased from  $85\%$  for PIF-2-1000 to the highest value of  $91\%$  for PIF-2-1500. PIF-2-2000 showed a closed-cell rate of  $<70\%$ . This is consistent with the broken cell structure shown in Figure 8. Overall, the BIA content and the  $\mathrm{M_w}$  had a significant influence on the rheological behavior of the precursor, which in turn affected the foam cell structure. Moderate melt viscosity could contribute to the formation of foam with a uniform cell structure and high closed-cell ratio.
+183: 
+184: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+185: Figure 9. Closed-cell rates of the PI rigid foams according to (A) different BIA contents and (B) different calcd  $\mathrm{M_w}$ .  
+186: B1A content  $(\%)$
+187: 
+188: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+189: Calc'd Mw (g/mol)
+190: 
+191: # 3.3. Thermal Properties of the Rigid PI Foams
+192: 
+193: The thermal properties of the PI foams with different BIA contents are shown in Figure 10, and detailed data are listed in Table 3. No obvious weight loss was detected before  $400^{\circ}\mathrm{C}$  (Figure 10A), demonstrating the outstanding thermal oxidation stabilities of the foams. The  $\mathrm{Tg}$  of the PI foams determined by tan  $\delta$  in DMA was measured at  $\geq 371.4^{\circ}\mathrm{C}$ . The PI foams with higher BIA contents exhibited higher  $\mathrm{Tg}$  values and thermal decomposition temperatures. For instance, PIF-3 showed a  $\mathrm{Tg}$  of  $402.9^{\circ}\mathrm{C}$ , much higher than that of PIF-0 ( $371.4^{\circ}\mathrm{C}$ ) and PIF-1 ( $381.8^{\circ}\mathrm{C}$ ). The  $\mathrm{Tg}$  of polymers is closely related to the rigidity of the polymer backbone. The BIA monomers used for polymerization enhanced the rigidity of the polyimide backbone. Additionally, the N-H groups in the BIA moiety can form hydrogen bonds with carbonyl groups in the imide ring, restricting the motion of polymer segments and increasing the  $\mathrm{Tg}$  value [37].
+194: 
+195: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+196: Figure 10. (A) TGA and (B) DMA curves of the rigid PI foams with different BIA contents.
+197: 
+198: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+199: 
+200: Table 3. Thermal properties of polyimide foams with different BIA content and calcd  ${\mathrm{M}}_{\mathrm{w}}$  .  
+201: 
+202: <table><tr><td rowspan="2">PIFs</td><td colspan="2">TGA</td><td colspan="2">DMA</td><td rowspan="2">n(BIA): n(BIA+PDA)</td><td rowspan="2">Calcd Mw(g/mol)</td></tr><tr><td>T5(℃)</td><td>T10(℃)</td><td>E&#x27;(℃)</td><td>tan δ (℃)</td></tr><tr><td>PIF-0</td><td>474.1</td><td>546.8</td><td>339.2</td><td>371.4</td><td>0%</td><td>1500</td></tr><tr><td>PIF-1</td><td>489.0</td><td>557.5</td><td>347.2</td><td>381.8</td><td>10%</td><td>1500</td></tr><tr><td>PIF-2</td><td>492.1</td><td>556.9</td><td>365.3</td><td>395.0</td><td>20%</td><td>1500</td></tr><tr><td>PIF-3</td><td>492.1</td><td>553.9</td><td>376.8</td><td>402.9</td><td>30%</td><td>1500</td></tr><tr><td>PIF-2-1000</td><td>479.1</td><td>521.8</td><td>378.2</td><td>409.3</td><td>20%</td><td>1000</td></tr><tr><td>PIF-2-1250</td><td>488.0</td><td>542.5</td><td>369.8</td><td>397.5</td><td>20%</td><td>1250</td></tr><tr><td>PIF-2-1500</td><td>492.1</td><td>556.9</td><td>365.3</td><td>395.0</td><td>20%</td><td>1500</td></tr><tr><td>PIF-2-1750</td><td>508.4</td><td>574.0</td><td>363.5</td><td>389.8</td><td>20%</td><td>1750</td></tr><tr><td>PIF-2-2000</td><td>512.9</td><td>578.5</td><td>362.8</td><td>387.0</td><td>20%</td><td>2000</td></tr></table>
+203: 
+204: Abbreviations:  $\mathrm{T}_{5}$ , temperature at  $5\%$  loss of original weight;  $\mathrm{T}_{10}$ , temperature at  $10\%$  loss of original weight;  $\mathrm{E}^{\prime}$ , storage modulus; tan  $\delta$ , tangent of loss angle.
+205: 
+206: The thermal properties of the PI foams with different calcd  $\mathrm{M_w}$  can be seen in Table 3. Tg values were measured from 387.0 to  $409.3^{\circ}\mathrm{C}$ , which decreased with an increase in calcd  $\mathrm{M_w}$ . For instance, PIF-2-2000 showed a Tg of  $387.0^{\circ}\mathrm{C}$ , much lower than PIF-2-1000  $(409.3^{\circ}\mathrm{C})$  and PIF-2-1500  $(395.0^{\circ}\mathrm{C})$ , respectively. Thermal decomposition was restricted by increasing the  $\mathrm{M_w}$ . The PI foams with lower  $\mathrm{M_w}$  had a higher Tg but a lower thermal stability. Shortening the molecular chain could improve the degree of crosslinking and, thus, contribute to a high Tg. In addition, a lower  $\mathrm{M_w}$  would increase the concentration of end-capping groups in the polymer backbone, resulting in a high ratio of aliphatic structure, which could be easily thermally decomposed at high temperatures [35]. Overall, increasing the BIA content and decreasing the  $\mathrm{M_w}$  of the precursor are two effective methods to enhance the Tg of rigid PI foams.
+207: 
+208: # 3.4. Mechanical Properties of the Rigid PI Foams
+209: 
+210: Table 4 summarizes the mechanical properties of the PI foams. PIF-2 possessed the highest strengths, including a compression strength of  $1.1\mathrm{MPa}$  and tensile strength of  $0.9\mathrm{MPa}$ , and the highest elongation at breakage of  $6.6\%$ . The elongation at breakage increased from  $3.0\%$  for PIF-0 to  $5.4\%$  for PIF-1, and to  $6.4\%$  for PIF-3 and  $6.6\%$  (the highest) for PIF-2, implying that increasing the BIA content enhances the toughness of the foams. PIF-3 showed an obvious deterioration in mechanical properties when the BIA content was increased to  $30\%$ , accompanied by an irregular cell structure and lower closed-cell rate.
+211: 
+212: Table 4. Mechanical properties of PI foams with different BIA content and different calcd  ${\mathrm{M}}_{\mathrm{w}}$  .  
+213: 
+214: <table><tr><td rowspan="2">PIFs</td><td colspan="3">Compressive Properties</td><td colspan="2">Tensile Properties</td></tr><tr><td>Strength (MPa)</td><td>Modulus (MPa)</td><td>Strength (MPa)</td><td>Modulus (MPa)</td><td>Elongation at Breakage (%)</td></tr><tr><td>PIF-0</td><td>1.0</td><td>31.0</td><td>0.6</td><td>21.5</td><td>3.0</td></tr><tr><td>PIF-1</td><td>1.0</td><td>35.7</td><td>0.6</td><td>15.3</td><td>5.4</td></tr><tr><td>PIF-2</td><td>1.1</td><td>24.7</td><td>0.9</td><td>17.0</td><td>6.6</td></tr><tr><td>PIF-3</td><td>0.6</td><td>9.8</td><td>0.6</td><td>11.2</td><td>6.4</td></tr><tr><td>PIF-2-1000</td><td>1.3</td><td>27.8</td><td>0.6</td><td>26.1</td><td>2.7</td></tr><tr><td>PIF-2-1250</td><td>1.1</td><td>28.2</td><td>1.0</td><td>28.6</td><td>4.0</td></tr><tr><td>PIF-2-1500</td><td>1.1</td><td>24.7</td><td>0.9</td><td>17.0</td><td>6.6</td></tr><tr><td>PIF-2-1750</td><td>1.4</td><td>35.9</td><td>0.6</td><td>15.7</td><td>4.8</td></tr><tr><td>PIF-2-2000</td><td>1.0</td><td>22.5</td><td>0.6</td><td>11.9</td><td>6.5</td></tr></table>
+215: 
+216: The PI foam mechanical properties were also influenced by  $\mathrm{M_w}$  (Table 4). All PI foams showed a preferable compressive strength of  $\geq 1.0 \, \mathrm{MPa}$ . Increasing the  $\mathrm{M_w}$  can lead to a decrease in tensile strength and enhanced toughness. This might be attributed to the non-uniformity of the cell structure and the decrease in crosslinking density, respectively. Overall, the mechanical properties of rigid PI foams were simultaneously affected by the chemical structure and cell structure of the foams. Generally, toughness can be improved by increasing the BIA content and the  $\mathrm{M_w}$  of the precursors. An intact and uniform cell structure is essential to ensure the preferred mechanical properties of foam materials.
+217: 
+218: # 3.5. Mechanical Properties of the Closed-Cell Rigid PI Foams with Different Densities
+219: 
+220: Density is the most important factor determining the mechanical properties of foam materials [38,39]. A series of PI foams of different densities  $(70 - 300\mathrm{kg} / \mathrm{m}^3)$  were prepared. The precursor selected was NPO-2-1500 with a BIA content of  $20\%$  and calcd  $\mathrm{M_w}$  of  $1500~\mathrm{g / mol}$ , for which the corresponding PI foam had the best combined properties. Figure 11A compares the SEM images of the PI foams with different densities. It is obvious that all the PI foams showed a uniform cell size distribution, in which the cell size was about  $50 - 300~{\mu\mathrm{m}}$  in diameter. In addition, the average cell size decreased with increasing density, and their sizes and their corresponding densities were  $223~{\mu\mathrm{m}}$ $(\rho = 70~\mathrm{kg} / \mathrm{m}^3)$ ,  $216~{\mu\mathrm{m}}$ $(\rho = 100~\mathrm{kg} / \mathrm{m}^3)$ ,  $145~{\mu\mathrm{m}}$ $(\rho = 150~\mathrm{kg} / \mathrm{m}^3)$ ,  $136~{\mu\mathrm{m}}$ $(\rho = 200~\mathrm{kg} / \mathrm{m}^3)$ , and  $132~{\mu\mathrm{m}}$ $(\rho = 300~\mathrm{kg} / \mathrm{m}^3)$ . The closed-cell rate of the PI foams with different densities can be seen in Figure 11B. All the rigid PI foams exhibited high closed-cell rates of  $\geq 85\%$ , which increased with increasing density. When the density exceeded  $100~\mathrm{kg} / \mathrm{m}^3$ , the closed-cell rates were  $\geq 91\%$ .
+221: 
+222: Figure 12 compares the compressive properties of the PI foams with different densities both at room temperature and  $300^{\circ}\mathrm{C}$ . The compressive strength and modulus increased with the increasing density, which is in accordance with the intensity being related to density as previously reported [38,39]. As the foam density increased from 70 to  $300\mathrm{kg} / \mathrm{m}^3$ , the compressive strength and modulus increased by more than 10 times. The PI foam with  $300\mathrm{kg} / \mathrm{m}^3$  exhibited excellent mechanical properties with a compressive strength of  $11\mathrm{MPa}$  and a compressive modulus of  $215\mathrm{MPa}$ . Moreover, both the compressive strength and modulus retention at  $300^{\circ}\mathrm{C}$  were higher than  $50\%$ , demonstrating the outstanding thermodynamic properties of the rigid PI foams.
+223: 
+224: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+225: Figure 11. (A) SEM images and (B) closed-cell rate of the PI foams with different densities.
+226: 
+227: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+228: 
+229: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+230: Figure 12. Compressive properties of the PI foams with different densities both at room temperature (RT) and  $300^{\circ}\mathrm{C}$ : (A) compressive strength and (B) compressive modulus.
+231: 
+232: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+233: 
+234: The compression creep properties of the rigid PI foams with different densities are shown in Figure 13. The compression creep deformation decreased sharply with the increasing density. For instance, the creep deformation was  $1.6\%$  for a PI foam with  $250\mathrm{kg} / \mathrm{m}^3$  and  $0.7\%$  with a density of  $300\mathrm{kg} / \mathrm{m}^3$  after thermal aging at  $320^{\circ}\mathrm{C} / 0.4\mathrm{MPa}$  for  $2\mathrm{h}$ , compared with  $11\%$  with a density of  $70\mathrm{kg} / \mathrm{m}^3$ . To ensure the stability of the sandwich composite material performance, the compression creep deformation of the foam core material should be lower than  $2\%$ . Hence, PI foams with a density of  $\geq 250\mathrm{kg} / \mathrm{m}^3$  are suitable as the foam core materials of carbon fiber reinforced polyimide sandwich composites processed at  $320^{\circ}\mathrm{C}$ .
+235: 
+236: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+237: Figure 13. Compression creep deformation of the rigid PI foams with different densities after thermal aging at  $320^{\circ}\mathrm{C} / 0.4\mathrm{MPa}$  for  $2\mathrm{h}$ .
+238: 
+239: Table 5 compares the combined properties of PIF-2 in this work with those of other PI foams reported in the literature. PIF-2 shows the most optimally combined properties, including higher Tg values, higher closed-cell rates, and excellent mechanical properties. For instance, PIF-2 has a Tg of  $395^{\circ}\mathrm{C}$ ,  $21^{\circ}\mathrm{C}$  higher than that of  $\alpha$ -BPDA-PDA  $(374^{\circ}\mathrm{C})$  [31],  $31^{\circ}\mathrm{C}$  higher than that of  $\alpha$ -BPDA-4,4'-ODA  $(364^{\circ}\mathrm{C})$  [27],  $50^{\circ}\mathrm{C}$  higher than that of BTDA-4,4'-ODA/BIA  $(345^{\circ}\mathrm{C})$  [28], and  $89^{\circ}\mathrm{C}$  higher than that of ODPA-4,4'-ODA/BIA  $(306^{\circ}\mathrm{C})$  [32], respectively. PIF-2 also has a closed-cell rate of  $\geq 91\%$ , higher than those reported for other PI foams ( $\leq 89\%$ ). In addition, when the density is similar, the compression performance of PIF-2 is better than for most other PI foams, such as BTDA-MDA/BDM [25],  $\alpha$ -BPDA-3,4'-ODA [27], and  $\alpha$ -BPDA-4,4'-ODA [27].
+240: 
+241: Table 5. Performance comparison of different PI foams.  
+242: 
+243: <table><tr><td>PI Foams</td><td>Density (kg/m3)</td><td>Closed-Cell Rate (%)</td><td>Tg (°C)</td><td>Compressive Strength (MPa)</td><td>Compressive Modulus (MPa)</td></tr><tr><td>PIF-2 (this work)</td><td>100</td><td>91</td><td>395</td><td>1.10</td><td>25.7</td></tr><tr><td>α-BPDA-PDA/BIA</td><td>150</td><td>95</td><td>395</td><td>3.70</td><td>77.6</td></tr><tr><td>α-BPDA-PDA [27]</td><td>100</td><td>89</td><td>374</td><td>1.34</td><td>37.1</td></tr><tr><td>α-BPDA-3,4&#x27;-ODA [27]</td><td>100</td><td>82</td><td>318</td><td>0.96</td><td>21.1</td></tr><tr><td>α-BPDA-4,4&#x27;-ODA [27]</td><td>100</td><td>86</td><td>364</td><td>0.70</td><td>16.3</td></tr><tr><td>BTDA-4,4&#x27;-ODA [15]</td><td>32</td><td>32</td><td>300</td><td>0.30</td><td>11.03</td></tr><tr><td rowspan="2">ODPA-3,4&#x27;-ODA [15]</td><td>80</td><td>-</td><td>237</td><td>0.84</td><td>6.13</td></tr><tr><td>32</td><td>32</td><td>237</td><td>0.19</td><td>3.89</td></tr><tr><td>BTDA-MDA/BDM [25]</td><td>101</td><td>-</td><td>285</td><td>0.86</td><td>10.79</td></tr><tr><td>BTDA-4,4&#x27;-ODA/BIA [28]</td><td>243</td><td>-</td><td>345</td><td>7.45a</td><td>23.8a</td></tr><tr><td>ODPA-4,4&#x27;-ODA/BIA [31]</td><td>54</td><td>-</td><td>306</td><td>0.71</td><td>-</td></tr><tr><td>BTDA-4,4&#x27;-ODA/DAPBO [32]</td><td>77</td><td>-</td><td>368</td><td>1.03</td><td>-</td></tr></table>
+244: 
+245: Compressive properties were tested at  $10\%$  strain. a These compressive properties were measured at  $15\%$  strain. Abbreviations: ODPA,  $4,4^{\prime}$  -oxydiphthalic anhydride;  $3,4^{\prime}$  ODA,  $3,4^{\prime}$  -oxydianiline;  $4,4^{\prime}$  ODA,  $4,4^{\prime}$  -oxydianiline; BTDA,  $3,3^{\prime},4,4^{\prime}$  -benzophenonetetracarboxylic dianhydride; MDA, 4,4-diaminodiphenyl methane; BDM,  $4,4^{\prime}$  -bismaleimidisediphenylmethane; PDA, p-phenylenediamine;  $\alpha$  BPDA,  $2,3,3^{\prime},4^{\prime}$  -biphenyl tetracarboxylic dianhydride; BIA, 2-(4-aminophenyl)-5-aminobenzimidazole; m-PDA, m-phenylenediamine; DAPBO, 2-(4-aminophenyl)-5-aminobenzoxazole.

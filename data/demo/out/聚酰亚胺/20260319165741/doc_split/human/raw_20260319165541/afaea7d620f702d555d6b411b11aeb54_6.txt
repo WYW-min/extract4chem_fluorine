@@ -1,0 +1,35 @@
+source_file: Development and Morphological Characterization of Novel PolyimideMetal nano Hybrid Materials.md
+doc_id: afaea7d620f702d555d6b411b11aeb54
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [152, 170]
+char_span: [25595, 28570]
+line_count: 19
+effective_body_non_empty_lines: 16
+
+lines:
+--- chunk (b0007: References) ---
+152: # References
+153: 
+154: 1.RAMESH, G.V., POREL, S., RADHAKRISHNAN, T.P., Polymer thin films embedded with in situ grown metal nanoparticles, Chem. Soc. Rev., 38, 2009, 2646-2656.  
+155: 2. BOZANO, L.D., KEAN, B.W., DELINE, V.R., SALEM, J.R., SCOTT, J.C., Mechanism for bistability in organic memory elements, Appl. Phys. Lett., 84, 2004, 607-609.  
+156: 3.MA, L.P., LIU, J., YANG, Y., Organic electrical bistable devices and rewritable memory cells, Appl. Phys. Lett., 80, 2002, 2997-2999.  
+157: 4. OUYANG, J., CHU, C.W., SZMANDA, C.R., MA, L., YANG, Y., Programmable polymer thin film and non-volatile memory device, Nat. Mater., 3, 2004, 918-922.  
+158: 5. ZHANG, J., SULLIVAN, M.B., ZHENG, J.W., LOH, K.P., WU, P., Theoretical study on polyimide-Cu(100)/Ni(100) adhesion, Chem. Mater., 18, 2006, 5312-5316.  
+159: 6.STOICA, I., EPURE, L., SAVA, I., DAMIAN, V., HURDUC, N., An atomic force microscopy statistical analysis of laser induced azo-polyimide periodic tridimensional nanogrooves, Microsc. Res. Tech., 76, 2013, 914-923.  
+160: 7. SAVA, I., BURESCU, A., STOICA, I., MUSTEATA, V., CRISTEA, M., MIHAILA, I., POHOATA, V., TOPALA, I., Properties of some azo-copolyimide thin films used in formation of photoinduced surface relief gratings, RSC Advances, 5, 2015, 10125-10133.  
+161: 8.SAVA, I., STOICA, I., MIHAILA, I., POHOATA, V., TOPALA, I., STOIAN, G., LUPU, N., Nanoscale analysis of laser-induced surface relief gratings on azocopolyimide films before and after gold coating, Polym. Test., 72, 2018, 407-415.  
+162: 9.O'SULLIVAN, E.J., SCHROTT, A.G., PAUNOVIC, M., SAMBUCETTI, C.J., MARINO, J.R., BAiley, P.J., KAJA, S., SEMKOW, K.W., Electrolessly deposited diffusion barriers for microelectronics, IBM J. Res. Dev, 42(5), 1998, 607-620.  
+163: 10. LU, Q.H., YIN, J., XU, H.-J., ZHANG, J.M., SUN, L.M., ZHU, Z.K., WANG, Z.G., Preparation and properties of organo-soluble polyimides based on 4,4'-diamino-3,3-dimethyldiphenylmethane and conventional dianhydrides, J. Appl. Polym. Sci., 72, 1999, 1299-1304.  
+164: 11.SAVA, I., Sinteza si studiul unor poliimide aromatice pe baza de 3,3'-dimetil-4,4'-diaminodifenil metan, Mater. Plast., 43, 2006, 15-19.  
+165: 12.SAVA, I., CHISCA, S., WOLINSKA-GRABCZYK, A., JANKOWSKI, A., SAVA, M., GRABIEC, E., BRUMA, M., Synthesis and thermal, mechanical and gas permeation properties of aromatic polyimides containing different linkage groups, Polym. Int., 64, 2014, 154-164.  
+166: 13. \*\*\*. I. 25178-2:2009, Geometrical product specifications (GPS) - Surface texture: Areal Part 2 Terms, definitions and surface texture parameters, n.d.  
+167: 14.MARCU PUSCAS, T., SIGNORINI, M., MOLINARI, A., STRAFFELINI, G., Image analysis investigation of the effect of the process variables on the porosity of sintered chromium steels, Mater. Charact., 50, 2003, 1-10.  
+168: 15. STOICA, I., BARZIC, A.I., HULUBEI, C., TIMPU, D., Statistical analysis on morphology development of some semialicyclic polyimides using atomic force microscopy, Microsc. Res. Tech., 76, 2013, 503-513.
+169: 
+170: Manuscript received: 2.03.2020

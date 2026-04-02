@@ -1,0 +1,31 @@
+source_file: Enhanced thermal conductivity of flexible h-BNpolyimide composites films with ethyl cellulose.md
+doc_id: a63ce17dffdd7d62fb7f2e89fa97f053
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Enhanced thermal conductivity of flexible h-BN/ polyimide composites films with ethyl cellulose
+line_span: [1, 17]
+char_span: [0, 1418]
+line_count: 15
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0001: Enhanced thermal conductivity of flexible h-BN/ polyimide composites films with ethyl cellulose) ---
+1: [MINERU_DISCARDED_META]
+2: DE GRUYTER
+3: e-Polymers 2019; 19: 305-312
+4: [/MINERU_DISCARDED_META]
+5: 
+6: Lin Liu, Siyu Shen* and Yiyao Wang
+7: 
+8: # Enhanced thermal conductivity of flexible h-BN/ polyimide composites films with ethyl cellulose
+9: 
+10: https://doi.org/10.1515/epoly-2019-0031  
+11: Received October 22, 2018; accepted January 01, 2019.
+12: 
+13: Abstract: The present work focuses on fabricating a flexible and thermally conductive PI composite film. The PI composite film was obtained by blending hexagonal boron nitride (h-BN) combined with ethyl cellulose and 2,2'-Bis(trifluoromethyl) benzidine (TFMB) functionalized GO (TFMB- GO) in polyimide (PI). The ethyl cellulose successfully formed the thermal conduction network by promoting the dispersion of h-BN in PI matrix. Thus, the thermal conductivity of the PI composite film with ethyl cellulose could be twice than PI film without ethyl cellulose. Besides, the PI composite film containing  $30\mathrm{wt}\%$  of h-BN could still exhibit excellent flexibility. Moreover, the combination of TFMB-GO could increase the tensile strength of the PI composite film by up to  $80\%$ . Overall, we provided a novel idea for the preparation of flexible substrate materials with efficient heat dissipation which was convenient and possible to apply widely in the industrial production.
+14: 
+15: Keywords: polyimide; ethyl cellulose; hexagonal boron nitride; thermal conductivity; mechanical properties

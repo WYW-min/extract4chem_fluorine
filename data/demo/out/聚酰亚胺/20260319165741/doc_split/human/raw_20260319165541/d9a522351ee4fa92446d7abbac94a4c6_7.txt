@@ -1,0 +1,30 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 7
+block_id: b0008
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Results and discussion
+line_span: [96, 111]
+char_span: [10027, 11963]
+line_count: 14
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0008: Results and discussion) ---
+96: # Results and discussion
+97: 
+98: # Imidization confirmation
+99: 
+100: Imidization of PAA was confirmed by Fourier-transform infrared spectroscopy (FTIR) analysis and TGA tests. In the spectrum of PAA nanofiber membrane (Figure 2(a)), characteristic bands were observed at 3250, 3050, 1650, and  $1602\mathrm{cm}^{-1}$ , which were attributed to OH stretching (in carboxyl group), NH stretching (in amide group), OH bending, and NH bending, respectively (Socrates, 2001). These bands were hardly identified in the spectrum of heated counterpart. Moreover, new bands appeared at 1372, 1778, and  $1717\mathrm{cm}^{-1}$ , corresponding to C-N stretching in imide ring, asymmetric and symmetric stretching of  $\mathrm{C = O}$  in
+101: 
+102: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+103: Figure 2. (a) FTIR spectra of PAA and PI nanofibrous membranes and (b) TGA and DTG curves of sample C3. DTG: derivative thermo-gravimetry; PAA: polyamic acid; PI: polyimide.
+104: 
+105: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+106: 
+107: imide ring, respectively (Lee et al., 2014; Miao et al., 2013). All these changes in FTIR spectra indicated the imidization of PAA to PI after a heating process.
+108: 
+109: The TGA and corresponding derivative thermo-gravimetry (DTG) curves of the heated nanofibers are shown in Figure 2(b). All the samples displayed similar TGA and DTG patterns. For the clarity, only the results of sample C3 were showed. The membranes decomposed initially at  $532^{\circ}\mathrm{C}$ $(\mathrm{T_{d5\%}})$  and had a highest weight decomposition temperature  $(\mathrm{T_{dmax}})$  as high as  $591^{\circ}\mathrm{C}$ , similar to the results of pure PI fibers reported in previous work (Çakmakçı and Güngör, 2013; Wang et al., 2016). In addition, merely  $1\%$  of weight loss occurred in the heated samples at  $260^{\circ}\mathrm{C}$ , implying a relatively high thermal stability of PI nanofibers required for hot gas filtration.

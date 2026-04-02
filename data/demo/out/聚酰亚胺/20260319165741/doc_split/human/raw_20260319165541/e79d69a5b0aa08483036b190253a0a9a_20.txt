@@ -1,0 +1,32 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 20
+block_id: b0021
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: EFFECTS OF FACTORS ON WATER UPTAKE
+line_span: [251, 268]
+char_span: [43666, 45588]
+line_count: 16
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0021: EFFECTS OF FACTORS ON WATER UPTAKE) ---
+251: # EFFECTS OF FACTORS ON WATER UPTAKE
+252: 
+253: In Figure 7, at the same annealing temperature, by increasing filler loading in the membrane polymer matrix, the water uptake increased significantly from 10 to 15 wt. % first until it reached maximum performance. Then, it gradually decreased when the filler loading increased from 15 to 20 wt. %. Comparing both 2D contour plots, it showed that filler sRHA had higher potential to retain water in the composite membranes compared to filler RHA. This was due to the hydrophilic properties of the sulfonic group that presented in sRHA. Higher loading of sRHA meant more additional sulfonic group present in SPI matrix. Hence, water uptake increased. The annealing temperature had a less impact on the water uptake compared to the effect of filler loading. At constant filler loading, water uptake of the composite membranes
+254: 
+255: increased with increased annealing temperature from 160 to  $175^{\circ}\mathrm{C}$ . When the annealing temperature exceeded  $175^{\circ}\mathrm{C}$ , the water uptake of the composite membrane started to drop. At  $175^{\circ}\mathrm{C}$ , it was assumed that this temperature was the best parameter to remove internal stresses and toughen
+256: 
+257: the composite membranes. The temperature that exceeded  $175^{\circ}\mathrm{C}$  had caused the early starting of denatured and brittle formation of SPI polymer in the composite membranes. This led to a bad performance in water retention ability of composite membranes produced.
+258: 
+259: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+260: 
+261: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+262: 
+263: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+264: FIGURE 7. 3D-surface plots of (a) RHA (b) sRHA and 2D contour plots of (c) RHA (d) sRHA of the effect of filler loading and annealing temperature on water uptake
+265: 
+266: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)

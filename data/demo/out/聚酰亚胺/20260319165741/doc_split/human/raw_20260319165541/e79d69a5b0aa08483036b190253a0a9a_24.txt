@@ -1,0 +1,32 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 24
+block_id: b0025
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: CONCLUSION
+line_span: [325, 342]
+char_span: [53197, 58102]
+line_count: 16
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0025: CONCLUSION) ---
+325: # CONCLUSION
+326: 
+327: In summary, the optimized S-12-sR composite membrane had achieved higher fuel cell performance as compared to pristine SPI membrane and Nafion 117, which was the main objective for this work. This work is significant, as no work has been reported on incorporating modified RHA as filler in SPI matrix for DMFC application yet. The synthesis parameters such as loading of filler, annealing temperature and the types of filler used were chosen as the input variables and the physicochemical properties of the composite membrane produced such as water uptake, proton conductivity and ion exchange capacity were
+328: 
+329: selected as the outputs or responses. Optimization using CCD in RSM had resulted in second-order quadratic models. These models had illustrated a good correlation between the predicted and the experimental results. The best-optimized composite membrane was S-12-sR, where it was fabricated with 11.5 wt. % of sRHA under 175 °C of annealing temperature. S-12-sR showed the highest value of physicochemical performance, which were  $90.97\%$ ,  $0.1891~\mathrm{S~cm}^{-1}$ , and  $0.2608~\mathrm{mmol~g}^{-1}$  for water uptake, proton conductivity and IEC, respectively, with an average error below  $5\%$ . The maximum power density obtained in the passive single DMFC test for S-12-sR was  $16.4~\mathrm{mW~cm}^{-2}$ , which was  $23.31\%$  higher than Nafion 117. Tables 8 and 9 summarises the comparison of membrane performance and passive DMFC single cell performance of the current work and other recent researches. Hence, it proved that through optimization, high performance of composite membrane S-12-sR can be obtained and sulfonation of RHA had increased the potential to replace the silica in DMFC applications. As future prospects, other types of modifications on RHA such as functionalized RHA with different types of chemicals should be carried out to investigate the relationship between the functionalized RHA and the fuel cell performance.
+330: 
+331: TABLE 8. Comparison of membrane performance in term of IEC, water uptake and proton conductivity for this work and other recent researches  
+332: 
+333: <table><tr><td>Membrane / Filler</td><td>Water uptake (%)</td><td>Proton conductivity (S/cm)</td><td>IEC (mmol/g)</td><td>References</td></tr><tr><td>S-12-sR</td><td>90.97</td><td>0.1891</td><td>0.2608</td><td>This work</td></tr><tr><td>Nafion 115</td><td>19</td><td>0.0312</td><td>0.81</td><td>(Kumar et al. 2016)</td></tr><tr><td>Nafion 117</td><td>35</td><td>0.096</td><td>0.91</td><td>(You et al. 2019)</td></tr><tr><td>Nafion/0.8Pt-TiO2/0.2GO</td><td>36</td><td>0.110</td><td>0.98</td><td>(Yang et al. 2016)</td></tr><tr><td>Chitosan/silica</td><td>80</td><td>0.009</td><td>0.52</td><td>(Vijayakumar et al. 2018a)</td></tr><tr><td>Chitosan-PAπi/SiO2</td><td>60</td><td>0.008</td><td>0.96</td><td>(Vijayakumar et al. 2018b)</td></tr><tr><td>Poly(ethyleneimine)/SiO2</td><td>68.95</td><td>0.079</td><td>2.36</td><td>(Pandey &amp; Shahi 2015)</td></tr><tr><td>PVA/SiO2</td><td>60</td><td>0.011</td><td>0.69</td><td>(Shahabadi et al. 2015)</td></tr><tr><td>SPPS/PWA/Silica</td><td>38.6</td><td>0.101</td><td>1.39</td><td>(Devrim 2014)</td></tr><tr><td>Nafion/Pd-SiO2</td><td>44.9</td><td>0.129</td><td>0.86</td><td>(Thiam et al. 2013)</td></tr></table>
+334: 
+335: TABLE 9. Comparison of passive DMFC single cell performance for this work and other recent researches  
+336: 
+337: <table><tr><td rowspan="2">Membrane</td><td rowspan="2">DMFC type</td><td rowspan="2">Anode</td><td rowspan="2">Cathode</td><td colspan="2">Operational parameters</td><td rowspan="2">MPD (mW cm-2)</td><td rowspan="2">References</td></tr><tr><td>MeOH Conc. (M)</td><td>Operational T (°C)</td></tr><tr><td>S-12-sR</td><td>Passive</td><td>Pt/Ru</td><td>Pt</td><td>2</td><td>RT</td><td>16.4</td><td>This work</td></tr><tr><td>Pure SPI</td><td>Passive</td><td>Pt/Ru</td><td>Pt</td><td>2</td><td>RT</td><td>8.1</td><td>This work</td></tr><tr><td>Nafion 117</td><td>Passive</td><td>Pt/Ru</td><td>Pt</td><td>2</td><td>RT</td><td>13.3</td><td>This work</td></tr><tr><td>Nafion 115</td><td>Passive</td><td>Pt/Ru</td><td>Pt</td><td>8</td><td>25</td><td>11</td><td>(Chen et al. 2017)</td></tr><tr><td>SPI-15-RHA</td><td>Passive</td><td>Pt/Ru</td><td>Pt</td><td>2</td><td>RT</td><td>13</td><td>(You et al. 2019)</td></tr><tr><td>SPI-SiO2</td><td>Passive</td><td>Pt/Ru</td><td>Pt</td><td>3</td><td>25</td><td>7.3</td><td>(Lee et al. 2008)</td></tr><tr><td>Nafion/Pd-SiO2</td><td>Passive</td><td>Pt/Ru</td><td>Pt</td><td>2</td><td>RT</td><td>10.4</td><td>(Thiam et al. 2013)</td></tr><tr><td>Nafion 117/ GC-500</td><td>Passive</td><td>Pt/Ru</td><td>Pt</td><td>3</td><td>RT</td><td>13.7</td><td>(Ong et al. 2017b)</td></tr><tr><td>Sodium alginate/SGO</td><td>Passive</td><td>Pt/Ru</td><td>Pt</td><td>2</td><td>RT</td><td>13.6</td><td>(Shaari &amp; Kamarudin 2018)</td></tr></table>
+338: 
+339: * MPD: Maximum power density  
+340: * RT: Room temperature

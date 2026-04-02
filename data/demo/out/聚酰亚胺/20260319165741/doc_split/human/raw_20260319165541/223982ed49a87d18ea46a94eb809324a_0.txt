@@ -1,0 +1,70 @@
+source_file: Polyimide-Derived Supramolecular Systems Containing Various Amounts of Azochromophore for Optical Storage Uses.md
+doc_id: 223982ed49a87d18ea46a94eb809324a
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Polyimide-Derived Supramolecular Systems Containing Various Amounts of Azochromophore for Optical Storage Uses
+line_span: [1, 56]
+char_span: [0, 3488]
+line_count: 54
+effective_body_non_empty_lines: 30
+
+lines:
+--- chunk (b0001: Polyimide-Derived Supramolecular Systems Containing Various Amounts of Azochromophore for Optical Storage Uses) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2023, 15, 1056. https://doi.org/10.3390/polym15041056
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Polyimide-Derived Supramolecular Systems Containing Various Amounts of Azochromophore for Optical Storage Uses
+11: 
+12: Andreea Irina Barzic  $^{1}$ , Ion Sava  $^{1}$ , Raluca Marinica Albu  $^{1}$ , Cristian Ursu  $^{1}$ , Gabriela Lisa  $^{2}$  and Iuliana Stoica  $^{1, *}$
+13: 
+14: $^{1}$  "Petru Poni" Institute of Macromolecular Chemistry, 700487 Iasi, Romania  
+15: 2 Faculty of Chemical Engineering and Environmental Protection "Cristofor Simionescu", "Gheorghe Asachi" Technical University of Iasi-Romania, 700050 Iasi, Romania  
+16: * Correspondence:stoica_iuliana@icmpp.ro
+17: 
+18: Abstract: The progress of digital technologies demands more speed and larger storage capacity. Optical storage systems have the advantage of being cheap, fast and capacious. This article explores the potential use of polyimide-based films as a recording medium for optical storage devices. The materials were designed through a host-guest approach that involves a cyano-containing polyimide precursor and an azochromophore combined in the following ratios: 1:0.25, 1:0.5, 1:0.75 and 1:1. After thermal treatment up to  $200^{\circ}\mathrm{C}$ , polyimide systems were formed with supramolecular structures constructed via hydrogen bonding as shown by molecular modeling and FTIR at around  $3350~\mathrm{cm}^{-1}$ . The aspects arising from the variation of the azo-dye content in the polyimide samples and their impact on the vitrification temperature, colorimetric features, refractive index, band gap, non-linear optical susceptibility and birefringence were investigated for the first time. The thermal analysis indicated a slight decrease in the vitrification temperature from  $190.84^{\circ}\mathrm{C}$  for the sample without azo dye to  $163.91^{\circ}\mathrm{C}$  for the film containing the highest leading of azo dye. The morphology images revealed the occurrence of periodic structures in azo-derived materials exposed to a UV laser, which is accentuated by the addition of more azo dye molecules. Optical tests allowed observation of the increase in the dominant wavelength, refractivity and optical conductivity of the samples, produced by the incorporation of azochromophore and laser irradiation. The photo-generated birefringence increased from 0.014 (sample with 1:0.25) to 0.036 (sample with 1:1), which in combination with the created regular topography pattern, is essential for the use of these materials as recording media in optical storage applications.
+19: 
+20: Keywords: flexible polyimide; azo derivative; photo-induced properties
+21: 
+22: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+23: 
+24: Citation: Barzic, A.I.; Sava, I.; Albu,
+25: 
+26: R.M.; Ursu, C.; Lisa, G.; Stoica, I.
+27: 
+28: Polyimide-Derived Supramolecular
+29: 
+30: Systems Containing Various
+31: 
+32: Amounts of Azochromophore for
+33: 
+34: Optical Storage Uses. Polymers 2023,
+35: 
+36: 15, 1056. https://doi.org/10.3390/
+37: 
+38: polym15041056
+39: 
+40: Academic Editor: Dariusz
+41: 
+42: Kowalczyk
+43: 
+44: Received: 31 January 2023
+45: 
+46: Revised: 13 February 2023
+47: 
+48: Accepted: 16 February 2023
+49: 
+50: Published: 20 February 2023
+51: 
+52: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+53: 
+54: Copyright: © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).

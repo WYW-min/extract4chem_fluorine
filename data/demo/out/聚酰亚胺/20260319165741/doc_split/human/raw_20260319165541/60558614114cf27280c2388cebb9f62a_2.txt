@@ -1,0 +1,53 @@
+source_file: Direct Ink Writing of Phenylethynyl End-Capped OligoimideSiO2 to Additively Manufacture High-Performance Therm.md
+doc_id: 60558614114cf27280c2388cebb9f62a
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [52, 90]
+char_span: [8053, 15892]
+line_count: 37
+effective_body_non_empty_lines: 17
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+52: # 2. Materials and Methods
+53: 
+54: # 2.1.Materials
+55: 
+56: $4,4^{\prime}$  (hexafluoroisopropylidene) diphthalic anhydride (6FDA), 4-phenylethynylphthalic anhydride (PEPA) and  $4,4^{\prime}$  -diaminodiphenyl ether (ODA) were purchased from HWRK CHEM Co., Beijing, China. Isobutanol was received from Zhongqin Chemical Reagent Co., Shanghai, China.  $4,4^{\prime}$  -diaminodiphenyl ether was recrystallized from isobutanol.  $4,4^{\prime}$  (hexafluoroisopropylidene) diphthalic anhydride was dried at  $120^{\circ}C$  under vacuum for  $24\mathrm{h}$ . Calcium hydride was obtained from Damao Chemical Regent Co., Tianjing, China. Silica nanoparticles with a size of  $15\mathrm{nm}$  were purchased from Ai Purui Nano Regent Co., Nanjing, China.  $N,N$  -dimethylformamide and  $N$  -methyl pyrrolidone were bought from Ke Miou Chemical Reagent Co., Tianjing, China.  $N$  -methyl pyrrolidone (NMP) was dried with calcium hydride for  $12\mathrm{h}$ , was collected by reducing pressure distillation, and was stored over dried molecular sieves  $(4\AA)$ . Other reagents were used as received.
+57: 
+58: # 2.2. Preparation of Thermosetting Polyimide and Polyamide Acid (PAA) Powders
+59: 
+60: The phenylethynyl-terminated PAA solution was synthesized according to the published literature [31]. ODA (24.57 mmol), 6FDA (23.57 mmol), and PEPA (2 mmol) were
+61: 
+62: added to a  $250~\mathrm{mL}$  three-necked flask, which was equipped with a mechanical agitation system and an argon inlet/outlet. The total preparation procedure of the phenylethynyl-terminated polyamide acid (PAA) solution is shown in Scheme 1. First, after ODA was completely dissolved in NMP, the solution was moved into an ice bath for  $20\mathrm{min}$ . Then, 6FDA was added gradually, and the reaction was stirred for  $1\mathrm{h}$  in the ice bath. After that, the ice bath was removed, and the mixture was stirred for  $5\mathrm{h}$  at room temperature. Then, the PEPA and the remainder of the NMP were added, the solution was stirred for another  $24\mathrm{h}$ , and a phenylethynyl-terminated PAA solution with a solid content of  $15\%$  was obtained. The PAA solution was added to  $300~\mathrm{mL}$  of ethanol to obtain a PAA fiber. Then, the PAA fiber was filtered and dried at  $70^{\circ}\mathrm{C}$  for  $12\mathrm{h}$  and smashed into powder. The cured thermosetting polyimide (C-TSPI) films were prepared by coating the PAA solution onto glass for thermal imidization and for the formation of a crosslink network in a muffle furnace in air environment, and the heat treatment route was as follows:  $80^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ ,  $120^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ ,  $150^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ ,  $180^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ ,  $250^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ ,  $280^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ ,  $320^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ , and  $370^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ . The uncured PI samples were prepared using the same procedure in the same conditions, but the heat treatment route was ended after running it at  $280^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ , both of them with a heating rate of  $2^{\circ}\mathrm{C} / \mathrm{min}$ .  $\mathbf{M}_{\mathfrak{n}} = 18,700\mathrm{g / mol}$ ,  $\mathsf{PD} = 1.38$ .
+63: 
+64: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+65: Scheme 1. Preparation process of thermosetting polyimide film and polyimide acid (PAA powders).
+66: 
+67: # 2.3. Preparation of Inks and 3D Printing of Thermoset Objects
+68: 
+69: The used viscous inks consisted of PAA powders with structures of phenylethynyl-terminated,  $N,N$ -dimethylformamide (DMF), and  $\mathrm{SiO}_2$  nanoparticles, which serve as matrix, solvent, and reinforcement fillers and rheology modifiers, respectively. The phenylethynyl-terminated PAA powders were dissolved in DMF using the ball-milling method, and a PAA solution with a solid content of  $70\%$  was obtained. A series of PAA composite inks with  $\mathrm{SiO}_2$  weight contents of  $6.2\%$ ,  $16.3\%$ , and  $26.3\%$  were realized by gradually adding different dosages of  $\mathrm{SiO}_2$  nanoparticles into  $70\%$  PAA solution and dispersed uniformly by repeatedly using the ball-milling method. After that, the rheological behaviors of the composite inks were evaluated using a rheometer (HAAKE, RS6000, Germany), which was equipped with a parallel plate model with a  $35\mathrm{mm}$  diameter, and their heights were fixed at  $1\mathrm{mm}$ . The shear viscosity of the inks was measured at  $25^{\circ}\mathrm{C}$  with shear rates from  $10^{-2}$  to  $102\mathrm{s}^{-1}$ . The storage modulus  $(G')$  and loss modulus  $(G'')$  were tested under room temperature at shear stress ranging from 0.1 to  $6000\mathrm{Pa}$  with a frequency of  $1\mathrm{Hz}$ . Viscoelastic inks were transferred into a syringe and degassed to remove air bubbles by centrifugation under the speed of  $7000\mathrm{r/min}$  for  $10\mathrm{min}$  before use. The inks with
+70: 
+71: high viscosity were successfully extruded under the condition of additionally providing pneumatic pressure by shearing of the screw. The whole printing process is shown in Scheme 2. The syringe filled with inks was equipped with a gauge nozzle with a gauge of 18, 21, or 24 and an inner diameter of about  $800\mu \mathrm{m}$ ,  $700\mu \mathrm{m}$ , or  $300\mu \mathrm{m}$ , respectively. The process of thermal curing was conducted in a muffle furnace under an air atmosphere, and the whole curing procedure with a heating rate of  $1^{\circ}\mathrm{C} / \mathrm{min}$  was carried out as follows:  $80^{\circ}\mathrm{C}$  for  $4\mathrm{h}$ ,  $120^{\circ}\mathrm{C}$  for  $4\mathrm{h}$ ,  $150^{\circ}\mathrm{C}$  for  $4\mathrm{h}$ ,  $180^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ ,  $250^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ ,  $280^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ ,  $320^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ , and  $370^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ . Casting  $\mathrm{SiO}_2@TSPI}$  (C-SiO@TSPI) composite films were thermally cured the same way.
+72: 
+73: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+74: Scheme 2. The process of preparation of 3D printed parts of SiO2@TSPI composite.
+75: 
+76: # 2.4. Characterizations
+77: 
+78: Thermal stability and thermo-oxidative stability were measured using TA instruments (Netzsch STA 449C, Germany), and the tests were operated at a heating rate of  $10^{\circ}\mathrm{C / min}$  with the temperature from  $25^{\circ}\mathrm{C}$  to  $800^{\circ}\mathrm{C}$  under air and a nitrogen atmosphere, respectively. An electronic universal testing machine (SHIMADZU, EZ-Test, China) was used to evaluate the mechanical performances of cured PI and printed coupons at a load capacity of  $500\mathrm{N}$  and at a speed of  $5\mathrm{mm / min}$ . At least three independent test samples were used for each measurement. Pictures of the size, surface, and morphologies of objects and elemental analysis results were gained through optical microscopy (Olympus DP72, Japan) and scanning electron microscopy (SEM, JSM-6701, Japan) at  $10\mathrm{KV}$  to  $15\mathrm{KV}$ . Gel permeation chromatography (GPC, Waters 1525) was utilized to calculate the molecular weight of the polyimide. The mobile phase was DMF, and styrene served as a standard sample. The vernier caliper was utilized to measure and calculate the volume of grids or cylinders before and after thermal treatment. Dimensional shrinkage was calculated as follows:
+79: 
+80: $$
+81: Dimensional shrinkage = (L1 - L2) / L1 \times 100 \%
+82: $$
+83: 
+84: $$
+85: \text{Volume shrinkage} = (\mathrm {V} 1 - \mathrm {V} 2) / \mathrm {V} 1 \times 100 \%
+86: $$
+87: 
+88: In the formula, the parameters of L1 (V1) and L2 (V2) are the dimension (volume) of constructs before and after heat treatment, respectively. The shrinkages were measured three times for every sample.

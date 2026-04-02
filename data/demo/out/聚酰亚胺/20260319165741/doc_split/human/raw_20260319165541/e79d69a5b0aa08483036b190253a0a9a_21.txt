@@ -1,0 +1,43 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 21
+block_id: b0022
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: EFFECTS OF FACTORS ON PROTON CONDUCTIVITY
+line_span: [268, 296]
+char_span: [45588, 48497]
+line_count: 27
+effective_body_non_empty_lines: 14
+
+lines:
+--- chunk (b0022: EFFECTS OF FACTORS ON PROTON CONDUCTIVITY) ---
+268: # EFFECTS OF FACTORS ON PROTON CONDUCTIVITY
+269: 
+270: In Figure 8, both fillers showed a slightly different effect on the membrane proton conductivity. At constant annealing temperature, the proton conductivity of SPI/RHA composite membranes increased from 5 to 12.5 wt.  $\%$  whereas SPI/sRHA composite membranes increased from 7.5 to 15 wt.  $\%$ . Both types of filler experienced a drop in proton conductivity at an additional increase in filler loading. sRHA filler possessed a better distribution
+271: 
+272: of particles in the SPI polymer matrix compared to RHA filler. RHA tended to agglomerate with each other when the loading of filler exceeded 12.5 wt.  $\%$ . Hence, an additional raise in filler loading led to more aggregations. High aggregation of filler particle caused the reduction of effective proton channels present in the composite membranes produced. sRHA had extra benefit compared to RHA as sRHA contained higher sulfonic acid group concentration.
+273: 
+274: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+275: 
+276: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+277: 
+278: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+279: FIGURE 8. 3D-surface plots of (a) RHA (b) sRHA and 2D contour plots of (c) RHA (d) sRHA of the effect of filler loading and annealing temperature on proton conductivity
+280: 
+281: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+282: 
+283: EFFECTS OF FACTORS ON ION EXCHANGE CAPACITY IEC was defined as the number of the sulfonic acid group per  $1\mathrm{g}$  of the membrane. Figure 9 shows that increased filler loading had led to a drop in IEC performance for both types of fillers. This was mainly due to the loss of sulfonic group in the polymer matrix when filler RHA or sRHA was incorporated into the membranes. Addition of filler into the polymer matrix had replaced out a part of the sulfonic acid groups from the composite membranes produced. Hence, IEC performance of the composite
+284: 
+285: membranes reduced along with increased filler content. However, when comparing Figure 9(a) and Figure 9(b), it demonstrated that at the same filler loading, sRHA had a higher value of IEC compared to RHA. This was because sRHA had active participation in providing free acid groups to the membrane compared to RHA as sulfonation of rice husk ash added sulfonic acid groups into rice husk ash and hence, adding benefits to sRHA. Hence, composite membranes with sRHA had displayed higher IEC performance compared to that of RHA.
+286: 
+287: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+288: 
+289: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+290: 
+291: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+292: FIGURE 9. 3D-surface plots of (a) RHA (b) sRHA and 2D contour plots of (c) RHA (d) sRHA of the effect of filler loading and annealing temperature on IEC
+293: 
+294: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)

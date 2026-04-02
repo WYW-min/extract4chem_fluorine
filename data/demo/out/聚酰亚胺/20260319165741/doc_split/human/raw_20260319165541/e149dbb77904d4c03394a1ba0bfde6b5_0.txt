@@ -1,0 +1,73 @@
+source_file: Methylethynyl-Terminated Polyimide Nanofibrous Membranes High-Temperature-Resistant Adhesives with Low-Tempera.md
+doc_id: e149dbb77904d4c03394a1ba0bfde6b5
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Methylethynyl-Terminated Polyimide Nanofibrous Membranes: High-Temperature-Resistant Adhesives with Low-Temperature Processability
+line_span: [1, 59]
+char_span: [0, 3772]
+line_count: 57
+effective_body_non_empty_lines: 31
+
+lines:
+--- chunk (b0001: Methylethynyl-Terminated Polyimide Nanofibrous Membranes: High-Temperature-Resistant Adhesives with Low-Temperature Processability) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2022, 14, 4078. https://doi.org/10.3390/polym14194078
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Methylethynyl-Terminated Polyimide Nanofibrous Membranes: High-Temperature-Resistant Adhesives with Low-Temperature Processability
+11: 
+12: Haoran Qi †, Xi Ren †, Yuang Liu, Shengwei Dai, Changxu Yang, Xiaolei Wang and Jingang Liu *
+13: 
+14: School of Materials Science and Technology, China University of Geosciences, Beijing 100083, China
+15: 
+16: * Correspondence: liujg@cugb.edu.cn; Tel.: +86-10-8232-2972  
+17: † These authors contributed equally to this work.
+18: 
+19: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+20: 
+21: check for updates
+22: 
+23: Citation: Qi, H.; Ren, X.; Liu, Y.; Dai, S.; Yang, C.; Wang, X.; Liu, J.
+24: 
+25: Methylethynyl-Terminated
+26: 
+27: Polyimide Nanofibrous Membranes:
+28: 
+29: High-Temperature-Resistant
+30: 
+31: Adhesives with Low-Temperature
+32: 
+33: Processability. Polymers 2022, 14, 4078.
+34: 
+35: https://doi.org/10.3390/
+36: 
+37: polym14194078
+38: 
+39: Academic Editor:
+40: 
+41: Irfad Kammakakam
+42: 
+43: Received: 2 September 2022
+44: 
+45: Accepted: 24 September 2022
+46: 
+47: Published: 28 September 2022
+48: 
+49: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+50: 
+51: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+52: 
+53: Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+54: 
+55: Abstract: As an alternative to traditional riveting and welding materials, high-temperature-resistant adhesives, with their unique advantages, have been widely used in aviation, aerospace, and other fields. Among them, polyimide (PI) adhesives have been one of the most studied species both from basic and practical application aspects. However, in the main applications of solvent-type PI adhesives, pinholes or bubbles often exist in the cured PI adhesive layers due to the solvent volatilization and dehydration reaction, which directly affect the adhesive performance. To address this issue, electrospun PI nanofibrous membranes (NFMs) were employed as solvent-free or solventless adhesives for stainless steel in the current work. To enhance the adhesion of PI adhesives to the metal substrates, phenolphthalein groups and flexible ether bonds were introduced into the main chain of PIs via the monomers of  $4,4^{\prime}$ -oxydiphthalic anhydride (ODPA) and 3,3-bis[4-(4-aminophenoxy)phenyl] phthalide (BAPPT). At the same time, the methylethynyl group was used as the end-capping component, and the crosslinking reaction of the alkynyl group at high temperature further increased the adhesive strength of the PI adhesives. Three kinds of methylethynyl-terminated PI (METI) NFMs with the set molecular weights of 5000, 10,000, and  $20,000\mathrm{g / mol}$  were first prepared via the one-step high-temperature polycondensation procedure. Then, the PI NFMs were fabricated via the standard electrospinning procedure from the soluble METI solutions. The afforded METI NFMs showed excellent melt-flowing behaviors at high temperature. Incorporation of the methylethynyl end-capping achieved a crosslinking reaction at  $280 - 310^{\circ}\mathrm{C}$  for the NFMs, which was about  $70^{\circ}\mathrm{C}$  lower than those of the phenylacetylene end-capping counterparts. Using the METI NFMs as adhesive, stainless steel adherends were successfully bonded, and the single-lap shear strength (LSS) was higher than  $20.0\mathrm{MPa}$  at both room temperature  $(25^{\circ}\mathrm{C})$  and high temperature  $(200^{\circ}\mathrm{C})$ .
+56: 
+57: Keywords: polyimide; electrospinning; methylethynyl; adhesives; lap shear strength

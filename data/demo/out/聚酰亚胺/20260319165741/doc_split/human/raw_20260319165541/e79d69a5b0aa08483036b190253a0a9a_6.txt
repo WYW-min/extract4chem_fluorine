@@ -1,0 +1,19 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: SYNTHESIS OF RHA-SPI AND SRHA-SPI COMPOSITE MEMBRANES
+line_span: [50, 54]
+char_span: [12125, 12827]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0007: SYNTHESIS OF RHA-SPI AND SRHA-SPI COMPOSITE MEMBRANES) ---
+50: # SYNTHESIS OF RHA-SPI AND SRHA-SPI COMPOSITE MEMBRANES
+51: 
+52: 1 g of SPI polymer was dissolved in 5 mL of DMSO. Another 5 mL of DMSO was added into different amount of filler (RHA or sRHA) ranging from 4-20 wt. %. The filler was sonicated in ultrasonic cell crusher with power range 11% and 30-second time interval for 5 min. Then, the filler was mixed with SPI solution and sonicated for another 5 min. The mixture was heated to 150 °C to completely dissolve the entire SPI polymer. The mixture was then solution-casted onto a petri dish and dried under 80 °C for 8 h. The temperature was then raised to 150 °C and held for 2 h and another 8 h for different annealing temperature ranging from 156-184 °C.

@@ -1,0 +1,99 @@
+source_file: Optical anisotropy of uniaxially drawn and silver-dispersed polyimide films.md
+doc_id: 199b10b1ce79fbeda1fc85972d2d4f9a
+chunk_index: 3
+block_id: b0004
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Optical anisotropy of uniaxially drawn and silver-dispersed polyimide films
+line_span: [65, 147]
+char_span: [1370, 17517]
+line_count: 83
+effective_body_non_empty_lines: 53
+
+lines:
+--- chunk (b0004: Optical anisotropy of uniaxially drawn and silver-dispersed polyimide films) ---
+65: # Optical anisotropy of uniaxially drawn and silver-dispersed polyimide films
+66: 
+67: Takashi Sawada, $^{a)}$  Shinji Ando, $^{b)}$  and Shigekuni Sasaki
+68: 
+69: NTT Science and Core Technology Laboratory Group, 3-9-11 Midori-cho, Musashino-shi, Tokyo,
+70: 
+71: 180-8585, Japan
+72: 
+73: (Received 17 August 1998; accepted for publication 10 December 1998)
+74: 
+75: Distinct anisotropy in optical transmittance in the visible and near-infrared region for uniaxially drawn and silver-dispersed polyimide films was observed. The films were prepared in a one-step operation that involves thermal curing and simultaneous uniaxial drawing of poly(amic acid) (PAA) films, which were made by dissolving silver nitrate in the PAA solution at a 1:4 mol ratio. The polyimide molecular chains with a rod-like structure were oriented along the drawing direction during curing, and this orientation accompanied the generation of silver nanoparticles with elongated shapes. An anisotropy in the optical transmittance of 5:1 was obtained for a  $22 - \mu \mathrm{m}$ -thick film at  $850\mathrm{nm}$  with transmittance of  $68\%$  perpendicular to the drawing direction. The optical and mechanical properties of this film were retained after annealing at  $300^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ . © 1999
+76: 
+77: American Institute of Physics. [S0003-6951(99)02107-5]
+78: 
+79: It has been reported that the polyimide films derived from pyromellitic dianhydride and  $2,2^{\prime}$ -bis(trifluoromethyl)- $4,4^{\prime}$ -diaminobiphenyl (PMDA/TFDB, Fig. 1), which has a rod-like structure, shows a large anisotropy in refractive indices in the film plane (in-plane birefringence:  $\Delta n$ ) by uniaxial drawing during thermal curing. $^{1}$  Comparing with conventional unfluorinated polyimides, this material shows higher transparency in the visible and near-infrared (IR) regions as well as lower dielectric constant, lower refractive indices, and lower water absorption. $^{2}$  The largest  $\Delta n$  of 0.21 was observed at  $1543~\mathrm{nm}$ , $^{3}$  and a thin optical half-waveplate at  $1555~\mathrm{nm}$ , only  $14.5~\mu \mathrm{m}$  thick, which is 6.3 times thinner than a zeroth-order quartz waveplate, was prepared using this polyimide. $^{4,5}$  The  $\Delta n$  of the waveplate was retained after annealing at  $350^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ , indicating that the chemical structure and the molecular ordering of the polyimide were maintained up to  $350^{\circ}\mathrm{C}$ .
+80: 
+81: Polyimide films containing metal/metal oxide particles generated in situ have been studied extensively by Taylor and co-workers. They have also incorporated silver salts and organosilver complexes in aromatic polyimides and obtained highly reflective silver-containing polyimide films. We have recently prepared five kinds of metal [aluminum, copper, palladium, silver(Ag), and gold(Au)]-containing fluorinated polyimide films in order to develop thermally stable polymeric materials that exhibit optical functions and high transparency in the near-infrared region. Although all the films show much less transparency in the visible region than the host polyimide, their transmittance in the near-infrared region (at  $1550\mathrm{nm}$ ) is higher than  $80\%$  except for the Au-containing film.
+82: 
+83: Stookey and Araujo<sup>11</sup> first observed a large anisotropy in optical transmittance (polarizing property) in a stretched inorganic glass containing silver particles. They confirmed that the anisotropy originates from the differences in the selective
+84: 
+85: absorption wavelengths parallel and perpendicular to the longer axis of elongated metal particles and, thus, the wavelengths with high extinction ratio (that is the difference in transmittance between two polarizing directions) can be shifted by changing the size and the anisotropy of the silver particles. Using this principle, Gritz<sup>12</sup> fabricated high-efficiency glass polarizers with transmittance higher than  $90\%$  and contrast larger than 500:1. Baba and co-workers<sup>13-15</sup> investigated the optical anisotropy caused by the elongated silver islands embedded in glasses. In our study, in a one-step operation, we generated silver nanoparticles having elongated shapes in a thermally stable polymeric material. The preparation method is schematically shown in Fig. 2. As shown by Taylor and co-workers<sup>7-9</sup> and these authors,<sup>10</sup> silver salts and organosilver complexes are reduced to the metal state and precipitated as silver nanoparticles in polyimide films by thermal curing. We confirmed by transmission electron micrographs that the silver particles precipitated in a rod-like fluorinated polyimide had spherical shapes.<sup>10</sup> This indicates that the local molecular structure of polyimide does not affect the shape of the precipitated particles. However, when the polyimide molecular chains are highly oriented by uniaxial drawing during curing, the shapes of the silver particles are expected to be elongated along the drawing direction.
+86: 
+87: The fluorinated polyimide, PMDA/TFDB, was used as a matrix polymer in this study because of its properties described above. The preparation of  $N,N$ -dimethylacetamide solution of poly(amic acid) (PAA), the precursor of polyimide, has been described elsewhere. Silver nitrate  $(\mathrm{AgNO}_3)$
+88: 
+89: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+90: PMDA / TFDB  
+91: FIG. 1. Structural formula for rod-like fluorinated polyimide.
+92: 
+93: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+94: FIG. 2. Method for preparing optically anisotropic polyimide films.
+95: 
+96: was used as a source material of silver particles because it has good solubility in PAA solution. After drying at  $110^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ ,  $\mathrm{AgNO}_3$  was dissolved in the PAA solution under nitrogen.  $\mathrm{AgNO}_3$  was added into the PAAs in a 1:4 mol ratio. The solutions were stirred for  $12\mathrm{h}$  at room temperature and spin coated onto a 4 in. silicon wafer, followed by drying in nitrogen at  $70^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ .
+97: 
+98: Figure 3 shows the absorption spectra of the silver-doped PAA and polyimide films cured on silica substrates at various temperatures for  $1\mathrm{h}$ . No optical anisotropy was observed in the film plane for all the films. An absorption peak is clearly observed at  $430~\mathrm{nm}$  for the film cured at  $200^{\circ}\mathrm{C}$ . This peak wavelength coincides with that of the surface plasmon resonance of Ag colloids reported in the literature.[16,17] This indicates that  $\mathrm{AgNO_3}$  incorporated into polyimide was reduced to Ag by the thermal treatment at  $200^{\circ}\mathrm{C}$  and, consequently, silver nanoparticles were generated. As the curing temperature increases, the absorption band at  $430~\mathrm{nm}$  grows and looks slightly displaced to longer wavelengths, suggesting that the silver particles increased in size. The different shape of the spectrum that was observed for the film cured at  $350^{\circ}\mathrm{C}$  can be understood from its appearance; a reflective surface with silvery color was formed on the air-side surface.
+99: 
+100: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+101: FIG. 3. Changes in absorption spectra of fluorinated poly(amic acid) films added  $\mathrm{AgNO_3}$  for final curing temperatures of  $70 - 350^{\circ}\mathrm{C}$ . At around  $200^{\circ}\mathrm{C}$ , the poly(amic acid) is thermally converted to polyimide, and Ag nanoparticles begin to coagulate.
+102: 
+103: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+104: FIG. 4. Optical transmittance spectra of  $22 - \mu \mathrm{m}$  -thick uniaxially drawn Ag-nanoparticle-dispersed and non-dispersed polyimide films for normally incident light polarized perpendicular  $(T_{\perp})$  and parallel  $(T_{\parallel})$  to the drawing direction. The heating rate was  $10^{\circ}\mathrm{C / min}$ , and the load ranged from 5 to  $18\mathrm{g}$ .
+105: 
+106: This indicates that Ag particles were concentrated near the air-side surface. Since the formation of a reflective surface is undesirable for the use of films as an optically anisotropic film such as a polarizer, thermal curing below  $350^{\circ}\mathrm{C}$  is preferable for that purpose.
+107: 
+108: For preparing uniaxially drawn silver-dispersed polyimide films, PAA films peeled from the substrate were cut into rectangles of  $15 \times 5 \mathrm{~mm}$  and loaded in a thermal mechanical analyzer (TMA: Sinku-Riko TM-7000). A constant load was applied along the longer axis of the film by the TMA during thermal curing. The film was thus heated to  $320^{\circ} \mathrm{C}$  at a heating rate of 5 and  $10^{\circ} \mathrm{C} / \mathrm{min}$ , kept at this temperature for  $1 \mathrm{~h}$  and then cooled to room temperature. The optical anisotropy of the films was measured by rotating a Glan-Thompson prism (polarizer) inserted into the light path of a spectrophotometer (Hitachi U-3500, wavelengths:  $600 - 1300 \mathrm{~nm}$ ). The average thicknesses of the polyimide films were  $22 \mu \mathrm{m}$ .
+109: 
+110: Figure 4 shows the transmittance spectra of the silver-dispersed polyimide films uniaxially drawn during curing at the heating rate of  $10^{\circ}\mathrm{C / min}$  with varying the load of the TMA from 5 to  $18\mathrm{g}$ . All films prepared at  $5^{\circ}\mathrm{C / min}$  were cut around  $300^{\circ}\mathrm{C}$ . The spectrum of the polyimide film prepared from undoped PAA is also shown for comparison. The nonsilver-dispersed film showed much higher transmittance in a wide range but no optical anisotropy. All the uniaxially drawn and silver-dispersed films, on the other hand, exhibited distinct anisotropy in optical transmittance in the visible and near-IR region. The transmittance parallel to the drawing direction is considerably lower than that perpendicular to it. This phenomenon can be explained by the same mechanism as that for stretched glasses containing silver particles. In addition, the extinction ratios increased as the load increased. An extinction ratio of  $7\mathrm{dB}$  (1:5 in transmittance ratio) was obtained at  $850~\mathrm{nm}$  for a film cured with a load of  $18\mathrm{g}$ .
+111: 
+112: Temperature dependence of elongation behavior of the films is shown in Fig. 5. Compared with the undoped PAA, the doped PAA films showed larger shrinkage between 100 and  $300^{\circ}\mathrm{C}$  and sudden elongation above  $300^{\circ}\mathrm{C}$ . In addition, the elongation increased as the load increased. The magnitude of the sudden elongation should be important for induc
+113: 
+114: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+115: FIG. 5. Elongation behaviors of  $\mathrm{AgNO_3}$ -doped and undoped poly(amic acid) films for various loads. The final curing temperature was  $320^{\circ}\mathrm{C}$ .
+116: 
+117: ing a high degree of molecular orientation of polyimides, which is the main cause that generates silver particles with elongated shapes.
+118: 
+119: A high-resolution reflection image of an uniaxially drawn film (18 g in Fig. 5) observed by scanning electron micrograph (JEOL JSM-890) is shown in Fig. 6. Some of the particles have elongated shapes and their longer axes are oriented to the drawing direction. The sizes of these particles were estimated to be several tens of nm along the longer axes and several nm along the shorter axes. The difference in transmittance between the two polarization directions and the wavelength dispersion of optical anisotropy should be determined by size, aspect ratio, degree of orientation of the longer axis, and anisotropic distribution of the silver particles precipitated in a film. Hence, the wavelength dependence of the optical transmittance and anisotropy can be controlled by varying the curing conditions, the drawing conditions, and the kind of dopant.
+120: 
+121: In this study, the highest curing temperature of silver-dispersed polyimide films was  $310 - 340^{\circ}\mathrm{C}$  lower than that used for inorganic glass matrices, $^{14}$  and the highest temperature was kept for  $1\mathrm{h}$  after the elongation of the films. It is surprising that the elongated shapes of the silver particles in
+122: 
+123: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+124: FIG. 6. High-resolution reflection image of Ag-nanoparticle-dispersed film observed using scanning electron micrography.
+125: 
+126: the polyimide films do not relax to spheres at the elongation temperature of  $320^{\circ}\mathrm{C}$ . This is due the low elongation temperature of  $\mathrm{Ag}$  particles and the high molecular order of the surrounding polyimide chains. In the conventional processes, metal nanoparticles are formed or embedded in a matrix glass and then elongated by uniaxial drawing with the glass plate. However, in the present method, the precipitation and elongation of silver nanoparticles take place in one step. The fact that an absorption peak of silver nanoparticles was observed even for an isotropic film cured at  $200^{\circ}\mathrm{C}$ , and that it grew considerably at higher temperatures, suggests the following mechanism: (a) silver nanoparticles, which are likely to have spherical shapes, begin to precipitate from polyimide around  $200^{\circ}\mathrm{C}$ ; (b) the precipitation become vigorous, and the particles begin to coagulate or sinter between 250 and  $300^{\circ}\mathrm{C}$ ; and (c) spherical silver particles are elongated along the drawing direction between 300 and  $320^{\circ}\mathrm{C}$  while the polyimide film significantly elongates. Uniaxially oriented polyimide molecules provide an anisotropic environment for the growth of silver nanoparticles. The melting temperature of bulk silver is higher than  $900^{\circ}\mathrm{C}$ ; however, it has been reported that sintering of silver nanoparticles begins at  $150^{\circ}\mathrm{C}$ .
+127: 
+128: The silver-dispersed elongated polyimide films showed good flexibility and tractability although they were cleavable along the drawing direction. The thickness of the films ( $\sim 22 \mu \mathrm{m}$ ) is sufficiently thin for decreasing the excess loss caused when films are inserted into a groove.[4,5] Furthermore, no change was observed in the transmittance spectrum, the optical anisotropy, and the flexibility after annealing at  $300^{\circ} \mathrm{C}$  for  $1 \mathrm{~h}$ . The uniaxially drawn and silver-dispersed polyimide films affords thin, flexible, and thermally stable films that exhibit anisotropy in optical transmittance in the visible and near-infrared region.
+129: 
+130: $^{1}$ S. Ando, T. Sawada, and Y. Inoue, in *Polymeric Materials for Microelectronic Applications*, edited by H. Ito, S. Tagawa, and K. Horie, ACS Symp. Ser. 579 (American Chemical Society, Washington, DC, 1994), p. 283.  
+131: $^{2}$ T. Matsuura, Y. Hasuda, S. Nishi, and Y. Yamada, Macromolecules 24, 5001 (1991).  
+132: $^{3}$ S. Ando, T. Sawada, and S. Sasaki, Polym. Adv. Technol. 9 (in press).  
+133: 4S. Ando, T. Sawada, and Y. Inoue, Electron. Lett. 29, 2143 (1993).  
+134: $^{5}$ Y. Inoue, H. Takahashi, S. Ando, T. Sawada, A. Himeno, and M. Kawachi, J. Lightwave Technol. 15, 1947 (1997).  
+135: For example, M. W. Ellison and L. T. Taylor, Chem. Mater. 6, 990 (1994), and references therein.  
+136: 7 A. K. St. Clair and L. T. Taylor, J. Appl. Polym. Sci. 28, 2393 (1983).  
+137: $^{8}$ J. D. Rancourt, G. M. Porta, and L. T. Taylor, in Proc. 19th Intern. SAMPE Tech. Conf., 13 (1987).  
+138: $^{9}$ A. F. Rubira, J. D. Rancourt, M. L. Caplan, A. K. St. Clair, and L. T. Taylor, Chem. Mater. 6, 2351 (1994).  
+139: 10T. Sawada and S. Ando, Chem. Mater. 6, 2351 (1994).  
+140: 11 S. D. Stoovey and R. J. Araujo, Appl. Opt. 7, 777 (1968).  
+141: $^{12}$ D. N. Gritz, Proc. SPIE 750, (1987).  
+142: 13K. Baba and M. Miyagi, Opt. Lett. 16, 964 (1991).  
+143: $^{14}$ K. Baba, J. Katsu, and M. Miyagi, Opt. Lett. 17, 622 (1992).  
+144: 15M. Takakuwa, K. Baba, and M. Miyagi, Opt. Lett. 21, 1195 (1996).  
+145: 16D. Richard, P. Roussignol, and C. Flytzanis, Opt. Lett. 10, 511 (1985).  
+146: $^{17}$ S. Ogawa, Y. Hayashi, N. Kobayashi, T. Tokizaki, and A. Nakamura, Jpn. J. Appl. Phys., Part 2 33, L331 (1994).  
+147: $^{18}$ R. Radebaugh, J. D. Siegwarth, and J. C. Holste, in Proc. Fifth Intern. Cryogenic Eng. Conf., H6-1 (1974).

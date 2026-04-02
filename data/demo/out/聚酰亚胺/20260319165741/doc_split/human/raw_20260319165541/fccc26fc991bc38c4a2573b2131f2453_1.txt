@@ -1,0 +1,33 @@
+source_file: Mixed Rigid and Flexible Component Design for High-Performance Polyimide Films.md
+doc_id: fccc26fc991bc38c4a2573b2131f2453
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [26, 44]
+char_span: [2231, 7830]
+line_count: 17
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+26: # 1. Introduction
+27: 
+28: Aromatic polyimides (PIs) exhibit outstanding thermal stability, mechanical properties, solvent resistance, and electric insulation performance [1-6]. Aromatic PI films are widely used in the aerospace, automobile manufacture, and microelectronics fields owing to their facile fabrication by casting methods [7-16]. For example, PI films can be used as high-temperature-resistant insulating materials, flexible printed circuits, stress-relieving buffer layers, particle-blocking layers, dielectric and flexible connecting materials for multichip model systems, substrates for flexible solar cells or flexible displays, and lithium-ion battery separators [17-21].
+29: 
+30: Multichip modules require dielectric interlayers with low dielectric properties, excellent mechanical properties, and excellent adhesion. It is especially important that the coefficient of thermal expansion (CTE) of the interlayer should match that of the substrate (e.g., Si wafer, copper foil, aluminium foil) [22]. The use of PIs as dielectric layers can effectively enhance the safety and reduce the weight of electronic devices. However, typical commercial PI films can't tolerate the high temperatures associated with welding fabrication. Furthermore, there is a significant difference in CTE between the PI films and common substrates. For example, the CTEs of copper, silicon wafer, and glass are 19, 6, and  $15\mathrm{ppm / K}$ , respectively [23,24]. Additionally, the CTEs of the commercial PI films Kapton and Upilex without stretching are ca. 47 and  $45\mathrm{ppm / K}$ , respectively [25].
+31: 
+32: The CTEs of polymers can be tuned by modulating their chemical structures and aggregation properties. There are three strategies commonly used to reduce the CTEs of PI films. The first approach
+33: 
+34: is to subject the PAA or PI film to uniaxial or biaxial stretching at a high temperature  $(>150^{\circ}\mathrm{C})$  [26-28]. Upon stretching, the orientation of the molecular chains is improved along the stretching direction by promoting the aggregation of the PIs, and the regularity of the molecular chains is enhanced. However, the reduction of the CTE data by this method is limited owing to the small stretching ratios possible without causing permanent damage. Moreover, the PIs suitable for stretching treatment are typically thermoplastic and the glass transition temperature  $(T_{\mathrm{g}})$  values of PIs are lower than  $300^{\circ}\mathrm{C}$ .
+35: 
+36: The second approach is to introduce inorganic nanoparticles that exhibit very low CTEs into the PI system in order to obtain the PI composite films with low CTEs [29-32]. The sol-gel method has been adopted, in which the precursors of inorganic particles are introduced into the polyamic acid (PAA) solution. However, macroscopic phase separation occurs in PI systems when the inorganic-particle content is higher than 5 wt  $\%$ , and the properties of the resultant polymers are affected [33-36]. Geng et al. introduced reactive groups that can be linked with inorganic components into the PI backbone and adopted the end group (3-aminopropyl)triethoxysilane (APTES) to mitigate this macroscopic phase separation. However, this method had little impact on the CTEs of these inorganic-organic composite PI films.
+37: 
+38: The third approach is to import the rigid rod-like, planar structures or short-chain diamines and dianhydride monomers into the PI unit structure to enhance the proportion of rigid benzene rings and amide rings. This method can reduce the CTEs of PI films because it promotes the ordered arrangement and degree of molecular orientation in the polymer chains. Previous researches have suggested that designing polymers with rigid and ordered molecular chains is the best way to improve their thermal and dimensional stability [37-40].
+39: 
+40: Significant research efforts have been devoted to developing high-performance PIs comprising imidazole and oxazole rings owing to the outstanding heat resistance, high strength, and high moduli of polybenzimidazoles and polybenzoxazines [41-43]. However, the flexibility of these films is poor owing to the high rigidity of the rod-like chains. Furthermore, the CTEs of these films are often negative, which mismatches those of common substrate materials [37,43].
+41: 
+42: To obtain a PI film with an equal CTE to that of copper over a wide temperature range, a series of different structural PIs were synthesized and optimized. The introduction of both rigid and flexible molecular units into polymer chains is an effective way to control and optimize their properties [37]. Consequently, in this study, PI films were prepared using the structurally rigid diamine  $5,4^{\prime}$ -diamino-2-phenyl benzimidazole (DAPBI), the structurally flexible diamine  $4,4^{\prime}$ -diaminodiphenyl ether (ODA), and  $3,3^{\prime},4,4^{\prime}$ -benzophenonetetracarboxylic dianhydride (BTDA). PIs containing different percentages of ODA-BTDA and DAPBI-BTDA chain segments were synthesized by copolymerizing the diamines ODA and DAPBI with BTDA. ODA and BTDA, which exhibit flexible structures, were chosen to provide flexibility to the polymers. The rigid structural diamine DAPBI provides heat resistance and excellent mechanical properties to the polymers. By optimizing the ratio of flexible ODA-BTDA segments and rigid DAPBI-BTDA segments, the flexibility, CTE, mechanical properties, and thermal properties of PIs were tuned. When the ratio of ODA-BTDA and DAPBI-BTDA is 8:2, the optimized PI has a CTE value close to that of copper, and it also exhibits outstanding heat resistance and mechanical properties.

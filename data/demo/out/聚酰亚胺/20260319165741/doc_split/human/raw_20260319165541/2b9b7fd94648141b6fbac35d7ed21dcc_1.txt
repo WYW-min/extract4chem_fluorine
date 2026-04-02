@@ -1,0 +1,19 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. II. PolyimidePoly(ethylene terephthal.md
+doc_id: 2b9b7fd94648141b6fbac35d7ed21dcc
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Abstract
+line_span: [13, 17]
+char_span: [689, 1460]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0002: Abstract) ---
+13: # Abstract
+14: 
+15: The new composite material based on arylalicyclic polyimide and poly(ethylene terephthalate) are being reported. Synthesis and blend preparation methods and their physical-chemical and physical-mechanical properties were investigated. It was observed widening of bands in FTIR spectra, in comparison with the composites reported from our earlier studies. However, it was not detected any physical-chemical interactions between two ingredients of the blend, which could be characterized as a typically compatible polymer blend at the content of PETP up to  $25\mathrm{wt}.\%$  . Such new polyimide composite could be utilized as devices, which show both high thermoresistance and stability of polyimide and elastic properties of poly(ethylene terephthalate).

@@ -1,0 +1,21 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: EXPERIMENTAL METHODS
+line_span: [44, 50]
+char_span: [11230, 12125]
+line_count: 5
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0006: EXPERIMENTAL METHODS) ---
+44: # EXPERIMENTAL METHODS
+45: 
+46: # SULFONATION REACTION PROCESS OF RHA
+47: 
+48: $3.0\mathrm{g}$  of RHA, which had been produced under  $2\mathrm{h}600^{\circ}\mathrm{C}$  oxidation, was mixed with  $10~\mathrm{mL}$  of chloroform in a 100 mL suction flask with a constant-pressure dropping funnel which was filled with  $0.7~\mathrm{mL}$  of chlorosulfonic acid. An inlet gas tube was equipped on the funnel as to conduct HCl gas produced into the water. The reaction mixture was stirred in an ice bath while chlorosulfonic acid was flow dropwise over  $20\mathrm{min}$  into the flask. The mixture was stirred for an additional  $2\mathrm{h}$  at room temperature after the addition was finished as to remove the remaining HCl gas. The mixture was washed with methanol and filtered. The solid residue was dried in an oven under  $70^{\circ}\mathrm{C}$  for 1 h to afford sulfonated RHA (sRHA) in powder form.

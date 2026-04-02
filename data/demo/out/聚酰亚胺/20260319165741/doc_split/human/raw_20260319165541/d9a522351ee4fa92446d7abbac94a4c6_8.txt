@@ -1,0 +1,32 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 8
+block_id: b0009
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Morphology and pore structure
+line_span: [111, 128]
+char_span: [11963, 14577]
+line_count: 16
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0009: Morphology and pore structure) ---
+111: # Morphology and pore structure
+112: 
+113: Four electrospun PI nanofibrous samples displayed various morphologies as shown in Figure 3. This was related with the viscosities of PAA precursor solutions. When a low quantity of PMDA and ODA (0.01 mol) was used, the resultant PAA solution showed a low viscosity (0.92 Pas at a shearing rate of 0.72 l/s), resulting in a breaking of spinning jet and the formation of droplets (Arai and Kawakami, 2012). Therefore, sample C1 showed a structure of beads connected with nanofibers (Figure 3(a)). Increasing the amount of monomers, the synthesized PAA solutions showed higher viscosities, indicating a greater polymerization degree of PAA. The precursor PAA solution for preparing sample C2, C3, and C4 had a viscosity of 1.49, 8.22, and 21.22 Pa s, respectively. Consequently, the density of beads was greatly reduced in sample C2 (Figure 3(b)). When PAA solution was elastic enough (sample C3), nanofibers of homogeneous diameters were generated (Figure 3(c)). However, further increase in viscosity (sample C4) made the solution difficult to be stretched. As a result, nanofibers with larger dimension and uneven distribution were observed in Figure 3(d) (Patanaik et al., 2010).
+114: 
+115: Figure 4 shows the pore dimension and distribution in each sample. Generally, nanofibers coating led to a decrease in pore size and increased the portion of small pore. The proportion of pores with dimensions less than  $10\mu \mathrm{m}$  was over  $60\%$ . This is because nanofibrous
+116: 
+117: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+118: 
+119: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+120: 
+121: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+122: Figure 3. SEM micrographs of electrospun PI nanofibrous membranes: (a) C1, (b) C2, (c) C3, and (d) C4.
+123: 
+124: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+125: 
+126: mats covering the PI nonwoven fabrics have much smaller pores between the nanofibers, as seen in their SEM micrographs (Figure 3). However, this phenomenon was not found in sample C1, which contained a majority of pores  $(56.5\%)$  with dimensions ranging from 14 to  $22\mu \mathrm{m}$  (Figure 4(b)). In comparison to the blank sample (Figure 4(a)), sample C1 did not show significant changes in pore size and corresponding distribution. It may be related with the morphology of electrospun membrane as discussed previously. Sample C1 was composed by beaded nanofibers (Figure 3(a)) that deposited on the surface of nonwoven fabrics. A low nanofibers network density did not contribute to the change of pore structure of filter.

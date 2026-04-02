@@ -1,0 +1,94 @@
+source_file: Enhanced thermal conductivity of flexible h-BNpolyimide composites films with ethyl cellulose.md
+doc_id: a63ce17dffdd7d62fb7f2e89fa97f053
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3 Results and discussion
+line_span: [63, 142]
+char_span: [8318, 18384]
+line_count: 78
+effective_body_non_empty_lines: 37
+
+lines:
+--- chunk (b0004: 3 Results and discussion) ---
+63: # 3 Results and discussion
+64: 
+65: # 3.1 Characterization of TFMB-GO
+66: 
+67: Figures 3a and 3b were electron transmission electron micrographs of GO and TFMB-GO, respectively. Figure 3a indicated that GO was distributed in a sheet structure and had good light transmittance. It could be observed
+68: 
+69: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+70: Figure 3: Electron transmission electron micrographs of GO and TFMB-GO: (a) TEM images of GO (b) TEM images of TFMB-GO.
+71: 
+72: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+73: 
+74: from Figure 3b that TFMB-GO exhibited a lamellar sheet structure while the edge of the sheet was curled. Since a new functional group was introduced into the functionalized structure, which destroyed the structure of GO, resulted in the curl of the sheet. It indicated that the TFMB-GO was prepared.
+75: 
+76: Figure 4 illustrated the FTIR spectra of GO, TFMB, and TFMB-GO separately. As shown, the characteristic
+77: 
+78: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+79: Figure 4: The FTIR spectrum of GO, TFMB, and TFMB-GO.
+80: 
+81: absorption peaks of GO is  $3315~\mathrm{cm^{-1}}$ ,  $1715~\mathrm{cm^{-1}}$  and  $1615~\mathrm{cm^{-1}}$  which assigned to the characteristic peaks of  $-\mathrm{OH}$ ,  $\mathrm{C = O}$  and  $\mathrm{H}_2\mathrm{O}$ , respectively (40-41). And the peak at  $3440~\mathrm{cm^{-1}}$  was attributed to the characteristic peak of  $-\mathrm{NH}_2$  in TFMB while the peak at  $1110~\mathrm{cm^{-1}}$  was assigned to the characteristic peak of C-F bond.  $1450~\mathrm{cm^{-1}}$ ,  $1500~\mathrm{cm^{-1}}$  and  $1580~\mathrm{cm^{-1}}$  are characteristic peaks of  $\mathrm{C = C}$  in the aromatic ring. On the TFMB-GO spectrum, the stretching vibration absorption peak of the  $1715~\mathrm{cm^{-1}}$  carbonyl group had moved to  $1639~\mathrm{cm^{-1}}$  where the absorption peak corresponds to the carbonyl group in the amide bond (42). In the meantime, the bending vibration absorption peak of N-H in TFMB-GO at  $1516~\mathrm{cm^{-1}}$  could also prove the formation of an amide bond. It could be known from above results that the formation of an amide bond was caused by the amino group in the TFMB reacting with the carboxyl group of GO.
+82: 
+83: # 3.2 The stability of the dispersion
+84: 
+85: Figures 5 and 6 respectively show the dispersion of h-BN/PAA (h-BN content  $10\mathrm{wt}\%$  ) and h-BN_EC /PAA (h-BN content  $10\mathrm{wt}\%$  ) during  $4\mathrm{h}$  of standing state. Obviously, the dispersion of h-BN_EC/PAA added with EC was much more stable than h-BN/PAA. Since the solution should be placed in  $80^{\circ}\mathrm{C}$  vacuum oven for  $2\mathrm{h}$  to obtain the composite films, the stability of the dispersion in the first  $2\mathrm{h}$  was critical. For the h-BN_EC/PAA group, only a small amount of h-BN settled to the bottom in the first  $2\mathrm{h}$  of standing state; while, for the h-BN/PAA group, a large amount of h-BN already settled to the bottom in the first  $2\mathrm{h}$ . Accordingly, the addition of EC contributes to the stability of the dispersion of h-BN in PAA.
+86: 
+87: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+88: Figure 5: The digital photo of h-BN /PAA (h-BN content 10 wt%) dispersion
+89: 
+90: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+91: Figure 6: The digital photo of h-BN_EC /PAA (h-BN content 10 wt%) dispersion
+92: 
+93: # 3.3 XRD analysis of PI composites films
+94: 
+95: The XRD patterns of PI, h-BN/PI and h-BN_EC/PI were shown in Figure 7. The sharp peak of BN at  $2\theta$  value of  $26.7^{\circ}$  was due to crystalline peak of boron nitride. The crystal peak at  $2\theta$  value of  $18^{\circ}$  was assigned to crystal plane
+96: 
+97: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+98: Figure 7: The XRD curve of PI, h-BN/PI and h-BN_EC/PI.
+99: 
+100: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+101: 
+102: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+103: 
+104: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+105: Figure 8: Scanning electron microscope of (a) pure PI film, (b) h-BN /PI (h-BN content 10 wt%) composite film, (c) h-BN_EC/PI (h-BN content 10 wt%) composite film, (d) h-BN_EC+TFMB-GO/PI (h-BN content 10 wt%) composite film.
+106: 
+107: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+108: 
+109: of PI. In the case of h-BN_EC/PI, the crystal peaks of PI in h-BN_EC/PI were with a slight offset. This was due to the interaction between the ethyl cellulose, boron nitride and PI. Besides, the peaks of boron nitride were less intense to the h-BN/PI of boron nitride. This may be due to interaction between matrix and filler, confirming the formation of the composite. The analysis of SEM (Figure 8) results is also in agreement with the formation of composites.
+110: 
+111: # 3.4 Morphological study of PI composite film
+112: 
+113: Figure 8 illustrated the tensile fracture surfaces of PI composite film. As shown in Figure 8a, the fracture surface of pure PI film was very flat, homogeneous and smooth, which was similar to the typical brittleness fracture feature (43). This phenomenon indicated that pure PI film was high brittleness, as a result of rigid chain structure of the benzene. Figure 8b showed cross-sectional SEM image of h-BN/PI (h-BN content  $10\mathrm{wt}\%$  composite film without adding ethyl cellulose. The
+114: 
+115: cross section of the film was no uniform and most of BN fillers settled to the bottom of composite film. The poor compatibility of h-BN with PI resulted in phase separation. Figure 8c was the SEM of h-BN_EC/PI (h-BN content  $10\mathrm{wt}\%$  ) composite film. With the addition of ethyl cellulose, the uniformity of h-BN distribution in PI was significantly improved. The surface was rugged, which was very similar to the typical material ductile fracture characteristics. In addition, Figure 8d was a cross-sectional electron micrograph of h-BN_ EC+TFMB-GO/PI (h-BN content  $10\mathrm{wt}\%$  ) composite film. Compared to h-BN_EC/PI composite film, the addition of TFMB-GO lets h-BN more uniform in PI. Moreover, the concave interface was more regular and had a certain depth while the cross-section orientation was biased to one side, which indicated that the filler had strong cohesiveness in polyimide. Lastly, the toughness was enhanced effectively, which could be shown in the mechanical properties analysis below.
+116: 
+117: And the tensile fracture surfaces of PI composite films with different h-BN contents can be seen in Figure 9.
+118: 
+119: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+120: Figure 9: Scanning electron microscope of (a) h-BN_EC/PI (h-BN content 10 wt%) composite film, (b) h-BN_EC/PI (h-BN content 20 wt%) composite film, (c) h-BN_EC/PI (h-BN content 30 wt%) composite film.
+121: 
+122: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+123: 
+124: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+125: 
+126: # 3.5 Mechanical properties of PI composite films
+127: 
+128: The tensile strength of PI composite films was shown in Figure 10. It also could be observed from the Figure 10 that the tensile strength of the PI composite film decreased remarkably with the increase of h-BN content, which conformed to the characteristics of brittle fracture shown in SEM image. As for h-BN_EC/PI composite film, the introduction of ethyl cellulose increased the tensile strength of the PI composite film significantly. This was related to the unevenness of the fracture surface shown in the SEM image. Then, TFMB-GO contributed to the further improvement of the tensile strength of PI composite film. This was due to the filler has a strong adhesion to the PI matrix confirmed by the SEM result of h-BN_EC+TFMB-GO/ PI composite film.
+129: 
+130: # 3.6 The thermal conductivity of PI composite films
+131: 
+132: Figure 11 shows the thermal conductivity of different PI films. Also, the h-BN/PI composite film in Figure 11 reveals that the thermal conductivity exhibited positively relationship with the h-BN content. However, when the filler h-BN was added to  $30\mathrm{wt}\%$  the thermal conductivity that increased to  $0.697\mathrm{W / mK}$  was only three times higher than that of the pure PI film. The result could be attributed to the high interfacial thermal resistance which resulted from the discontinuity of h-BN in PI matrix, and it was also reflected in the SEM image. The thermal conductivity of h-BN_EC/PI composite film with ethyl cellulose appeared a significant improvement under the same filler conditions, up to  $1.308\mathrm{W / mK}$ , which was 6 times higher than pure PI film. It could be observed from SEM image that the dispersion of h-BN in PI matrix was more uniform by the addition of ethyl cellulose. As for the reason of excellent thermal conductivity, we assumed that the h-BN easily
+133: 
+134: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+135: Figure 10: The tensile strength of h-BN /PI composite film, h-BN_EC/PI composite film, and h-BN_EC+TFMB-GO/PI composite film.
+136: 
+137: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+138: Figure 11: The thermal conductivity of h-BN /PI composite film, h-BN_EC/PI composite film, and h-BN_EC+TFMB-GO/PI composite film.
+139: 
+140: settled to the bottom before PAA film forming. While, when both ethyl cellulose and h-BN existed in the PI matrix, the aggregation settlement of h-BN was prevented, because of the interaction between ethyl cellulose and h-BN. That means the ethyl cellulose acts as a support barrier between h-BN sheets, enabling h-BN fully dispersed in PI matrix. At the same time, the interaction between ethyl cellulose and h-BN contributes to the link-age between h-BN sheets, thus forming a heat conduction path. As for the h-BN_EC+TFMB-GO/PI composite film, the addition of TFMB-GO can lead to a slight decrease in thermal conductivity. Because compared to graphene, TFMB-GO introduced oxygen-containing functional groups and compounded organic matter, which reduced the heat conductivity of the composite films. On the other hand, the increase of h-BN contributes to gradually mitigating the effect of TFMB-GO on the overall thermal conductivity.

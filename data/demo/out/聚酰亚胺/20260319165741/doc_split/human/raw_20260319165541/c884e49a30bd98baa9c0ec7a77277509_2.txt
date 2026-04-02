@@ -1,0 +1,39 @@
+source_file: Enhancing the Toughness of Free-Standing Polyimide Films for Advanced Electronics Applications A Study on the .md
+doc_id: c884e49a30bd98baa9c0ec7a77277509
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [68, 92]
+char_span: [6763, 11656]
+line_count: 23
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+68: # 2. Materials and Methods
+69: 
+70: # 2.1.Materials
+71: 
+72: Pyromellitic dianhydride (PMDA)  $(98\%)$  was provided by Tokyo Chemical Industry (TCI) (Shanghai, China). 1,4-Bis(4-aminophenoxy) benzene (TPE-Q)  $(98\%)$  was purchased from Shanghai Aladdin Bio-Chem Technology Co., Ltd., Shanghai, China. N,N-Dimethylformamide (DMF)  $(99.8\%)$ , Extra Dry) was supplied by Energy Chemical (Shanghai, China). All chemicals are not treated before being directly used.
+73: 
+74: # 2.2. Characterization
+75: 
+76: IR spectra were taken on a Fourier transform infrared (FT-IR) spectrophotometer (Bruker Tensor II, Karlsruhe, Germany). Viscosity was measured with a Brookfield DV2THB viscometer in DMF at  $30^{\circ}\mathrm{C}$ . The measurements were conducted as promptly as possible to avoid the depolymerization of PAAs. Surface roughness was measured by Dimension Icon atomic force microscopy (AFM) of Bruker (Dimension Icon, Karlsruhe, Germany). The glass transition temperature of the PI film was measured by NETZSCH (DMA 242E, Selb, Germany) with a heating rate of  $10^{\circ}\mathrm{C} \cdot \mathrm{min}^{-1}$  from  $30^{\circ}\mathrm{C}$  to  $480^{\circ}\mathrm{C}$  under nitrogen. Mikrometry DHG-050 was used to measure the thickness of the films. A UV-vis spectrophotometer (Hitachi U-3900H, Tokyo, Japan) was used to measure the optical transmission. The scan range was  $300 - 800\mathrm{nm}$ , and the scan rate of transmission measurement was  $600\mathrm{nm} \cdot \mathrm{min}^{-1}$ . The tensile strength and elongation at break of PI specimens with dimensions of  $30\mathrm{mm}$  in length and  $2\mathrm{mm}$  in width were measured using a CMT4103 universal testing instrument at room temperature and a testing speed of  $10\mathrm{mm}\mathrm{min}^{-1}$ . The specimens were carefully cut from high-quality samples measuring  $5\mathrm{cm} \times 5\mathrm{cm}$ , which were free of any defects such as fine bubbles. X-ray diffraction (XRD) was executed in the range of  $5 - 80^{\circ}$  at a scanning speed of  $8^{\circ}) \cdot \mathrm{min}^{-1}$  on the Bruker (D8 Advance, Karlsruhe, Germany) with Cu Kα radiation ( $\lambda = 0.154\mathrm{nm}$ ) at  $40\mathrm{kV}$ .
+77: 
+78: # 2.3. Synthesis of PAA Precursor
+79: 
+80: Given that the focus of this article is on the influence of the preparation process on the mechanical properties of the films, we chose PMDA as the dianhydride monomer, which is the most widely studied. Additionally, to achieve the high toughness of the resulting PI films, we selected TPE-Q, a diamine monomer rich in ether bonds. There have been numerous reports in the literature on the synthesis of PMDA-TPE-Q [22-26]. In our study, we adopted a simple two-step method to prepare the PI films (Scheme 1). First, the diamine monomer with two ether bonds was reacted with dianhydride to obtain the corresponding PAA precursor and subsequently heat-treated to obtain the PI films by thermal imidization. Figure 1a shows the schematic illustration for the synthesis of PAA.  $5.84\mathrm{g}$  of TPE-Q  $(0.02\mathrm{mol},1$  equiv.) and  $30~\mathrm{mL}$  of DMF were added to the flask. The mixture was continuously stirred under an  $\mathbf{N}_2$  atmosphere. Until the diamines were completely dissolved,  $4.36\mathrm{g}$  of PMDA  $(0.02\mathrm{mol},1$  equiv.) and  $30~\mathrm{mL}$  of DMF were weighed and added into the obtained pale yellow diamine solution by three times. Considering the possible hydrolysis of dianhydride, the addition of PMDA should be fast to avoid the introduction of moisture. The solution became viscous immediately after the PMDA was completely added. The reaction last for  $2\mathrm{h}$  under the protection of  $\mathbf{N}_2$  at room temperature to ensure full polymerization. Then, the viscous and homogeneous PAA solution was obtained.
+81: 
+82: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+83: Scheme 1. General synthesis route of polyimide.
+84: 
+85: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+86: Figure 1. (a) Schematic illustration of PAA synthesis, (b) fabrication process of PI films.
+87: 
+88: # 2.4. Preparation of PI Films
+89: 
+90: As shown in Figure 1b, the PI films were prepared from PAA by spin coating. The spin coating speed was set to 1000 to  $9000\mathrm{rpm}$ . Glass and  $\mathrm{Si} / \mathrm{SiO}_2$  were selected as substrates, in which glass substrates needed ultrasonic cleaning before use. After coating on a clean substrate, the PAA film was treated through a series of gradient curing in an oven at  $70^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ ,  $150^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ ,  $200^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ , and  $250^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ . After cooling to ambient temperature, the PI films were immersed in deionized water for  $0.5\mathrm{h}$ , then peeled off from the substrates. They were washed with ethanol, and dried at room temperature for further use.

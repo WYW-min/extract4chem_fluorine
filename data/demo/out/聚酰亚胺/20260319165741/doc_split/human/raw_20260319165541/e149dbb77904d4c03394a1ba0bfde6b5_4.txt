@@ -1,0 +1,31 @@
+source_file: Methylethynyl-Terminated Polyimide Nanofibrous Membranes High-Temperature-Resistant Adhesives with Low-Tempera.md
+doc_id: e149dbb77904d4c03394a1ba0bfde6b5
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [224, 240]
+char_span: [40399, 42718]
+line_count: 15
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+224: # 4. Conclusions
+225: 
+226: Three organo-soluble METI resins with different designed molecular weights were synthesized, based on which, three METI NFM adhesives were prepared via electrospinning technology. The METI NFMs showed good thermal stability, with  $\mathrm{T_g}$  values higher than  $270^{\circ}\mathrm{C}$ . More importantly, the solvent-free METI NFMs showed "low-temperature" crosslinking features, and could be used as adhesives for stainless steel bonding at relatively low processing temperatures around  $290 - 330^{\circ}\mathrm{C}$ . This processing temperature was much lower than the commercially available PETI types of adhesives. In the stainless steel bonding experiments, the METI NFM adhesives all exhibited LSS values higher than  $20\mathrm{MPa}$ . The METI-10K sample showed the best combined properties, including good thermal stability ( $\mathrm{T}_{5\%} = 520.2^{\circ}\mathrm{C}$ ;  $\mathrm{T_g} = 276.5^{\circ}\mathrm{C}$ ), lower melting point viscosity ( $11035.2\mathrm{Pa}$  s at  $318.5^{\circ}\mathrm{C}$ ), high bond strength ( $\mathrm{LSS}_{25} = 29.6\mathrm{MPa}$ ;  $\mathrm{LSS}_{200} = 26.2\mathrm{MPa}$ ), and lower crosslinking temperature ( $\mathrm{T_c} = 301.9^{\circ}\mathrm{C}$ ). The information revealed in the current work might be helpful for the research and development (R&D) of high-temperature-resistant adhesives in harsh environments, and could also be beneficial for R&D of low-temperature curable adhesives in aerospace and microelectronic fields.
+227: 
+228: Author Contributions: Conceptualization, J.L.; methodology, J.L.; investigation, H.Q. and X.R.; data curation, Y.L., C.Y., S.D. and X.W.; writing—original draft preparation, H.Q.; writing—review and editing, J.L.; supervision, J.L.; funding acquisition, J.L. All authors have read and agreed to the published version of the manuscript.
+229: 
+230: Funding: This work was supported by the Shenzhen Science and Technology Program (No. JSGG20210629144539012) and the Shandong Key Research and Development Program (No. 2019JZZY020235).
+231: 
+232: Institutional Review Board Statement: Not applicable.
+233: 
+234: Informed Consent Statement: Not applicable.
+235: 
+236: Data Availability Statement: The data presented in this study are available on request from the corresponding author.
+237: 
+238: Conflicts of Interest: The authors declare no conflict of interest.

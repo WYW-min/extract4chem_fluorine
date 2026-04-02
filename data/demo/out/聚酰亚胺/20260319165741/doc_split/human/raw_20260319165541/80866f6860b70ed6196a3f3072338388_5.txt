@@ -1,0 +1,52 @@
+source_file: Multicore-shell nanofiber architecture of polyimidepolyvinylidene fluoride blend for thermal and long-term sta.md
+doc_id: 80866f6860b70ed6196a3f3072338388
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [104, 141]
+char_span: [33120, 39288]
+line_count: 36
+effective_body_non_empty_lines: 33
+
+lines:
+--- chunk (b0006: References) ---
+104: # References
+105: 
+106: 1. Li, F., Zhang, T. & Zhou, H. Challenges of Non-aqueous  $\mathrm{Li - O_2}$  Batteries: Electrolytes, Catalysts, and Anodes. Energy Environ. Sci. 6, 1125-1141 (2013).  
+107: 2. Yang, H., Amiruddin, S., Bang, H. J., Sun, Y. K. & Prakash, J. A Review of Li-Ion Cell Chemistries and Their Potential Use in Hybrid Electric Vehicles. J Ind. Eng. Chem. 12, 12-38 (2006).  
+108: 3. Abraham, D. P. et al. Diagnostic Examination of Thermally Abused High-power Lithium-ion Cells. J. Power Sources. 161, 648-657 (2006).  
+109: 4. Roth, E. P. & Doughty, D. H. Thermal Abuse Performance of High-power 18650 Li-ion cells. J. Power Sources. 128, 308-318 (2004).  
+110: 5. Lee, H., Yanilmaz, M., Toprakci, O., Fu, K. & Zhang, X. A Review of Recent Developments in Membrane Separators for Rechargeable Lithium-ion Batteries. Energy Environ. Sci. 7, 3857-3886 (2014).  
+111: 6. Zhang, S. S. A Review on the Separators of Liquid Electrolyte Li-ion batteries. J. Power Sources. 164, 351-364 (2007).  
+112: 7. Kostecki, R., Norin, L., Song, X. & McLarnon, F. Diagnostic Studies of Polyolefin Separators in High-power Li-ion Cells. J. Electrochem. Soc. 151, A522-A526 (2004).  
+113: 8. Roth, E. P., Doughty, D. H. & Pile, D. L. Effects of Separator Breakdown on Abuse Response of 18650 Li-ion Cells. J. Power Sources 174, 579-583 (2007).  
+114: 9. Woo, J. J., Zhang, Z. C. & Amine, K. Separator/Electrode Assembly Based on Thermally Stable Polymer for Safe Lithium-Ion Batteries. Adv. Energy Mater. 4, 1301208 (2014).
+115: 
+116: 10. Kader, M. A., Kwak, S. K., Kang, S. L., Ahn, J. H. & Nah, C. Novel Microporous Poly (vinylidene fluoride)-graft-poly (tert-butyl acrylate) Electrolytes for Secondary Lithium batteries. Polymer International. 57, 1199-1205 (2008)  
+117: 11. Costa, C. M., Gomez Ribelles, J. L., Lanceros-Mendez, S., Appetecchi, G. B. & Scrosati, B. Poly(vinylidene fluoride)-based copolymer Separator Electrolyte Membranes for Lithium-Ion Battery Systems. J. Power Sources. 245, 779-786 (2014).  
+118: 12. Li, Z. et al. Manganese Sequestration and Improved High-temperature Cycling of Li-ion Batteries by Polymeric aza-15-crown-5. J. Power Sources. 272, 1134-1141 (2014).  
+119: 13. Chen, W., Liu, Y., Ma, Y. & Yang, W. Improved Performance of Lithium Ion Battery Separator Enabled by Co-electrospinning Polyimide/poly(vinylidene fluoride-co-hexafluoropropylene) and the Incorporation of  $\mathrm{TiO}_2$ -(2-hydroxyethyl methacrylate). J. Power Sources. 273, 1127-1135 (2015).  
+120: 14. Li, X. F. et al. Effects of Fluorinated  $\mathrm{SiO}_2$  Nanoparticles on the Thermal and Electrochemical Properties of PP nonwoven/PVdF-HFP Composite Separator for Li-ion Batteries. J. Membrane Sci. 455, 368-374 (2014).  
+121: 15. Zhang, F., Ma, X., Cao, C., Li, J. & Zhu, Y. Poly(vinylidene fluoride)/ $\mathrm{SiO}_2$  Composite Membranes Prepared by Electrospinning and Their Excellent Properties for Nonwoven Separators for Lithium-ion Batteries. J. Power Sources. 251, 423-431 (2014).  
+122: 16. Cao, C., Tan, L., Liu, W., Ma, J. & Li, L. Polydopamine Coated Electrospun Poly(vinyldiene fluoride) Nanofibrous Membrane as Separator for Lithium-ion Batteries. J. Power Sources. 248, 224-229 (2014).  
+123: 17. Ko, Y., Yoo, H. & Kim, J. Curable Polymeric Binder-ceramic Composite-coated Superior Heat-resistant Polyethylene Separator for Lithium Ion Batteries. RSC Adv. 4, 19229-19233 (2014).  
+124: 18. Choi, S. W., Kim, J. R., Ahn, Y. R., Jo, S. M. & Cairns, E. J. Characterization of Electrospun PVDF Fiber-based Polymer Electrolytes. Chem. Mater. 19, 104-115 (2007).  
+125: 19. Lee, S. W. et al. Electrochemical Properties and Cycle Performance of Electrospun Poly (vinylidene fluoride)-based Fibrous Membrane Electrolytes for Li-ion Polymer Battery. J. Power Sources. 163, 41-46 (2006).  
+126: 20. Choi, S., Kim, J., Jo, S., Lee, W. & Kim, Y.-R. Electrochemical and Spectroscopic Properties of Electrospun PAN-based Fibrous Polymer Electrolytes. J. Electrochem. Soc. 152, A989-A995 (2005).  
+127: 21. Kim, J. R., Choi, S. W., Jo, S. M., Lee, W. S. & Kim, B. C. Characterization and Properties of P(VdF-HFP)-based fibrous Polymer Electrolyte Membrane Prepared by Electrospinning. J. Electrochem. Soc. 152, A295-A300 (2005).  
+128: 22. Kim, J. R., Choi, S. W., Jo, S. M., Lee, W. S. & Kim, B. C. Electrospun PVdF-based Fibrous Polymer Electrolytes for Lithium Ion Polymer Batteries. Electrochim. Acta 50, 69-75 (2004).  
+129: 23. Choi, S. W., Jo, S. M., Lee, W. S. & Kim, Y. R. An Electrospun Poly(vinylidene fluoride) Nanofibrous Membrane and Its Battery Applications. Adv. Mat. 15, 2027-2032 (2003).  
+130: 24. Greiner, A. & Wendorff, J. H. Electrospinning: A Fascinating Method for the Preparation of Ultrathin Fibers. Angew. Chem. Int. Ed. 46, 5670-5703 (2007).  
+131: 25. Hunley, M. T. & Long, T. E. Electrospinning Functional Nanoscale Fibers: A Perspective for the Future. Polym. Int. 57, 385-389 (2008).  
+132: 26. Liu, Z. et al. A Core@sheath Nanofibrous Separator for Lithium Ion Batteries Obtained by Coaxial Electrospinning. Macromol. Mater. Eng. 298, 806-813 (2013).  
+133: 27. Maleki, H., Deng, G., Anani, A. & Howard, J. Thermal Stability Studies of Li-Ion Cells and Components. J. Electrochem. Soc. 146, 3224-3229 (1999).  
+134: 28. He, Y.-B. et al. The Thermal Stability of Fully Charged and Discharged  $\mathrm{LiCoO}_2$  Cathode and Graphite Anode in Nitrogen and Air Atmospheres. Thermochimica Acta. 480, 15-21 (2008).  
+135: 29. Ye, Y. H., Shi, Y. X., Cai, N. S., Lee, J. & He, X. M. Electro-thermal Modeling and Experimental Validation for Lithium Ion Battery. J. Power Sources. 199, 227-238 (2012).  
+136: 30. Chen, S. C., Wan, C. C. & Wang, Y. Y. Thermal Analysis of Lithium-ion Batteries. J. Power Sources. 140, 111-124 (2005).  
+137: 31. Chen, Y. F. & Evans, J. W. Thermal Analysis of Lithium-ion Batteries. J. Electrochem. Soc. 143, 2708-2712 (1996).  
+138: 32. Ye, W. et al. Hierarchical Three-dimensional Micro/nano-architecture of Polyaniline Nanowires Wrapped-on Polyimide Nanofibers for High Performance Lithium-ion Battery Separators. J. Power Sources. 299, 417-424 (2015).  
+139: 33. Lee, J. H., Manuel, J., Choi, H., Park, W. H. & Ahn, J.-H. Partially Oxidized Polyacrylonitrile Nanofibrous Membrane as a Thermally Stable Separator for Lithium Ion Batteries. Polymer. 68, 335-343 (2015).

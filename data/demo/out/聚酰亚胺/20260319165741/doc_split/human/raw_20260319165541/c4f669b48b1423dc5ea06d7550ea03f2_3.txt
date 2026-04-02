@@ -1,0 +1,142 @@
+source_file: Physical Properties of Thermally Crosslinked Fluorinated Polyimide and Its Application to a Liquid Crystal Ali.md
+doc_id: c4f669b48b1423dc5ea06d7550ea03f2
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [84, 211]
+char_span: [15368, 41399]
+line_count: 126
+effective_body_non_empty_lines: 60
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+84: # 3. Results and Discussion
+85: 
+86: # 3.1. Preparation and Characterization of PI Films
+87: 
+88: The 6FDA-ODA-based PAA used in this study had an average molecular weight  $(\mathrm{M}_{\mathrm{n}})$  of  $14.6\mathrm{kDa}$ $(\mathrm{PDI} = 3.16)$  and showed good film-forming properties. Thin and thick films were prepared using the spin-coating and bar coating methods, respectively, under ambient conditions. As shown in Scheme 1, the corresponding PI was prepared by imidization at  $230^{\circ}\mathrm{C}$  with the 6FDA-ODA-based PAA. When preparing a crosslinked PAA film bearing  $5\mathrm{wt}\%$  of EP, the film was cured at  $110^{\circ}\mathrm{C}$  for  $2\mathrm{h}$  and  $120^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  to dry the PAA film and induce a crosslinking reaction between the PAA chains. Then, the cured film was heated to  $230^{\circ}\mathrm{C}$  for the final imidization of the repeating groups that did not participate in the crosslinking between the PAA chains. To observe the change in the structure of the 6FDA-ODA-based PAA during imidization, it was necessary to observe the changes in the amide and imide bands in the FT-IR spectrum. To monitor the crosslinking and imidization processes, the FT-IR spectra of neat PAA films and PAA films with  $5\mathrm{wt}\%$  EP heat-treated at different temperatures, were investigated.
+89: 
+90: In the spectrum of the neat PAA film, as shown in Figure S2, an N-H stretching band at  $2900 - 3200\mathrm{cm}^{-1}$ , a carbonyl stretching band of carboxylic acid at  $1722\mathrm{cm}^{-1}$ , and a symmetric carboxylate stretching band at  $1409\mathrm{cm}^{-1}$  can be observed. In addition, carbonyl stretching bands of the amide I and amide II modes were observed at  $1659\mathrm{cm}^{-1}$  and  $1543\mathrm{cm}^{-1}$ , respectively. As the temperature of the sample gradually increased, a change in the spectrum was observed. In particular, it was possible to observe a structural change in the PAA to the corresponding PI after raising the temperature of the sample to  $200^{\circ}\mathrm{C}$  or more. The absorption bands around  $1543\mathrm{cm}^{-1}$  (amide II) and  $1659\mathrm{cm}^{-1}$  (amide I) disappeared as the imidization progressed. Simultaneously, it was observed that carbonyl stretching bands (amide I) appeared at  $1785\mathrm{cm}^{-1}$  (asymmetric stretching) and  $1726\mathrm{cm}^{-1}$  (symmetric stretching). Additionally, a typical C-N stretching (amide II) vibration band was observed at approximately  $1377\mathrm{cm}^{-1}$ . The conversion reaction from PAA to PI was confirmed by the characteristic bands mentioned above. On the other hand, the FT-IR spectrum of the PAA film containing  $5\mathrm{wt}\%$  EP showed a spectral change similar to that of the pure PAA film after heat treatment. No evidence of ring-opening of the epoxy ring was found because the amount of EP was relatively small; thus, almost no variation in the characteristic peaks was observed as a result of the crosslinking. Therefore, in order to obtain evidence of the occurrence of the crosslinking reaction in the samples prepared by mixing 6FDA-ODA-based PAA and  $5\mathrm{wt}\%$  EP and to observe whether curing occurs at low temperature ( $50$  or  $70^{\circ}\mathrm{C}$ ) upon increasing EP concentration to  $30\mathrm{wt}\%$ , we performed FT-IR spectroscopy. We observed that the IR spectrum of the PAA sample mixed with
+91: 
+92: 30 wt% EP was very similar to that of the neat PAA sample, except the slight differences in the peaks detected at around  $1038~\mathrm{cm}^{-1}$  for the neat EP, as shown in Figure S3. On the other hand, the  $898~\mathrm{cm}^{-1}$  band of the neat PAA sample showed a significant overlap with the  $906~\mathrm{cm}^{-1}$  band of the neat epoxy compound, as shown in the FT-IR spectra of PAA with 30 wt% EP. We expected that the epoxy band would disappear when crosslinking proceeded, and only the neat PAA band would remain.
+93: 
+94: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+95: 
+96: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+97: Scheme 1. Preparation of 6FDA-ODA-based PAA and PIs: (i) imidization,  $230^{\circ}\mathrm{C}$ ; (ii) drying/crosslinking condition,  $110^{\circ}\mathrm{C}$  for  $2\mathrm{h}$  and  $120^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ .
+98: 
+99: Assuming this, we calculated the degree of conversion based on the change in absorbance at  $906~\mathrm{cm}^{-1}$  according to the curing time by fixing the curing temperature. In addition, the  $1070~\mathrm{cm}^{-1}$  band of neat PAA, which did not exhibit changes during crosslinking, was determined as a reference band. We assumed that at  $100\%$  conversion, the  $906~\mathrm{cm}^{-1}$  band of the epoxy compound would disappear completely. Therefore, the 906 and  $1070~\mathrm{cm}^{-1}$  absorbance ratio for neat PAA was used as the ratio representing  $100\%$  conversion. Based on the FT-IR results as shown in Figures S4 and S5, the degree of conversion according to the number of reacted epoxy groups was determined using the following Equation (1):
+100: 
+101: $$
+102: \text {Degree of conversion} (\%) = 100 \left[ 1 - \frac {\left(A _ {906} / A _ {1070}\right) _ {t}}{\left(A _ {906} / A _ {1070}\right) _ {0}} \right] \tag{1}
+103: $$
+104: 
+105: where  $A_{906}$  and  $A_{1070}$  represents the absorption intensity at 906 and  $1070\mathrm{cm}^{-1}$ , respectively, and the subscript  $t$  denotes the reaction time. In this experiment, we observed that increasing the curing temperature from 50 to  $70^{\circ}\mathrm{C}$  increased the curing rate and shortened the reaction completion time as shown in Figure S6. The approximate rate constants of the crosslinking reaction in an initial stage of heat treatment were determined to be 0.29 and  $0.76\mathrm{min}^{-1}$  for the reaction at 50 and  $70^{\circ}\mathrm{C}$ , respectively. The above results confirmed that a crosslinked structure between PAA and EP was formed; on this basis, it was expected that a crosslinked structure could similarly be formed, even in the case of the PAA sample mixed with 5 wt% EP. (Figures S4-S6). In this study, to prepare the final crosslinked PI, drying at  $110^{\circ}\mathrm{C}$  (step 1) and heat treatment at  $230^{\circ}\mathrm{C}$  for imidization (step 2) were performed.
+106: 
+107: The above-mentioned experimental results confirm that crosslinking occurred effectively during the drying process of the PAA blend film.
+108: 
+109: # 3.2. Thermal Properties of Neat PI and Crosslinked PI
+110: 
+111: TGA thermograms of the 6FDA-ODA-based PAA and PI films with and without the EP crosslinker are shown in Figure 1. The films were measured in the temperature range  $50 - 900^{\circ}\mathrm{C}$  in nitrogen. When the PAA film was dried in a vacuum oven at  $100^{\circ}\mathrm{C}$  for  $2\mathrm{h}$  and  $120^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ , a two-stage weight loss trend was observed (curve A). The PAA was imidized at a temperature above approximately  $150^{\circ}\mathrm{C}$  and showed an initial weight loss, and the imidization of the PAA was completed at approximately  $300^{\circ}\mathrm{C}$ . Moreover, this sample showed no weight loss from  $300^{\circ}\mathrm{C}$  to  $550^{\circ}\mathrm{C}$ , indicating that the imidization was complete at  $300^{\circ}\mathrm{C}$ . This indicated that the prepared 6FDA-ODA-based PI was thermally stable up to  $550^{\circ}\mathrm{C}$ . In the case of the PI subjected to full imidization at  $230^{\circ}\mathrm{C}$ , as shown in curve B, almost no weight loss occurred up to  $550^{\circ}\mathrm{C}$ . Finally, a significant weight loss occurred again at approximately  $550^{\circ}\mathrm{C}$  as a result of the pyrolysis reaction of the PI chains. On the other hand, the PAA film containing EP  $(5\mathrm{wt\%})$ , dried at  $100^{\circ}\mathrm{C}$  for  $2\mathrm{h}$  and  $120^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  in a vacuum oven, showed a thermogram (curve A') similar to that of the above-mentioned neat PAA film. While the temperature of the sample was being raised to  $300^{\circ}\mathrm{C}$ , a crosslinking reaction occurred in the range  $100 - 120^{\circ}\mathrm{C}$ , and the imidization of the repeating units that did not participate in the crosslinking reaction occurred at  $230^{\circ}\mathrm{C}$ . Therefore, it is believed that a small weight loss occurred as a result of the decomposition of the crosslinking bridge and some water removal from residual imidization above  $300^{\circ}\mathrm{C}$ . In the case of the PAA sample containing EP annealed at  $230^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  (curve B'), a small weight loss was observed from  $300^{\circ}\mathrm{C}$  to  $550^{\circ}\mathrm{C}$  due to the same thermal decomposition of the crosslinking bridges, as shown in curve A'.
+112: 
+113: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+114: Figure 1. TGA thermograms of PAA and PI films. (a) Curve A: PAA film dried in a vacuum oven at  $110^{\circ}\mathrm{C}$  for  $2\mathrm{h}$  and at  $120^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ . Curve B: film sample obtained by thermally annealing a PAA film at  $230^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ . (b) Curve A': PAA film containing  $5\mathrm{wt}\%$  EP dried at  $110^{\circ}\mathrm{C}$  for  $2\mathrm{h}$  and  $120^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  in a vacuum oven. Curve B': film sample obtained by annealing a PAA film containing  $5\mathrm{wt}\%$  EP at  $230^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ .
+115: 
+116: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+117: 
+118: # 3.3. Solvent Resistance of Neat 6FDA-ODA PI and Crosslinked PI
+119: 
+120: In the 6FDA-ODA PI structure, the presence of 1,1,1,3,3,3-hexafluoro-2,2-dimethylpropane units as bulky spacers in the repeating unit induces steric hindrance between the polymer chains. Therefore, the PI synthesized using 6FDA is soluble in organic solvents due to the interchain steric hindrance. Therefore, the polymer chain packing of 6FDA-ODA is poor, and an amorphous region can easily form. Therefore, it is soluble in common polar solvents such as tetrahydrofuran (THF), dimethylformamide (DMF), and N-methyl-2-pyrrolidone (NMP). Meanwhile, when thermal crosslinking was induced by adding  $5\mathrm{wt}\%$  EP to the PAA solution, the solvent resistance of the 6FDA-ODA-based PI was significantly improved.
+121: 
+122: Figure 2a shows the results of the UV-vis absorption spectroscopy study of the 6FDA-ODA PI films, demonstrating their solubility in THF. The absorption spectra recorded after
+123: 
+124: thermal imidization  $(\mathrm{T}_{\mathrm{imidization}} = 230^{\circ}\mathrm{C})$  of the 6FDA-ODA-based PAA films and rinsing with THF show a significant decrease in absorbance in the wavelength range  $250 - 300\mathrm{nm}$ . This indicates that the existing PI was partially dissolved in THF. Meanwhile, when the PAA film, to which  $5\mathrm{wt}\%$  EP was added, was heat-treated at  $230^{\circ}\mathrm{C}$ , almost no decrease in absorbance was observed in the above wavelength range, even after rinsing with THF (Figure 2b). We also performed solubility tests of the crosslinked PI in DMF and NMP solvents and the results are in the Supplementary Materials as Figure S7. As a result, it can be expected that after adding a small amount of EP to PAA, the solubility of the final PI is completely changed after thermal treatment because a crosslinking reaction between the PI chains occurs between the PAA chains.
+125: 
+126: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+127: Figure 2. Solvent resistance of 6FDA-ODA-based PI and crosslinked PI: (a) absorption spectra of neat PI film obtained before and after rinsing (1 min) in THF, and (b) absorption spectra of crosslinked PI obtained before and after rinsing (1 min) in THF.
+128: 
+129: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+130: 
+131: # 3.4. Mechanical Properties of Neat PI and Crosslinked PI Free-Standing Thick Films
+132: 
+133: Representative tensile stress-strain (s-s) curves and specimens of the neat PI and crosslinked PI free-standing films are shown in Figure 3a. The tensile strength and elastic modulus (Young's modulus) of the neat 6FDA-ODA-based PI film were determined to be  $57.4\mathrm{MPa}$  and  $1.85\mathrm{GPa}$ , respectively, while the crosslinked PI film exhibited values of  $72.9\mathrm{MPa}$  and  $2.51\mathrm{GPa}$ , respectively. Therefore, the crosslinked PI film showed higher stiffness and ultimate stress values at break than the neat PI film. The tensile strain at break of the crosslinked PI was 0.040, smaller than that  $(\varepsilon = 0.049)$  of the neat PI film without plastic deformation, as expected. This different mechanical behavior is attributed to the formation of crosslinks between the PI chains.
+134: 
+135: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+136: Figure 3. (a) Tensile s-s curves and (b) dynamic mechanical analysis curves of neat PI and crosslinked PI films. Inset image in (a) shows the specimen after obtaining s-s curves.
+137: 
+138: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+139: 
+140: Figure 3b shows the DMA results for the 6FDA-ODA-based neat PI and crosslinked PI free-standing thick films. The glass transition temperature  $(\mathrm{T_g})$  of the neat PI film was observed to be  $217^{\circ}\mathrm{C}$ , with a tan  $\delta$  value of 0.34. Imidization of PAA is expected to be induced at temperatures below the  $\mathrm{T_g}$ , leading to high levels of chain packing at
+141: 
+142: temperatures above  $230^{\circ}\mathrm{C}$ . The  $\mathrm{T_g}$  of the crosslinked PI  $(339^{\circ}\mathrm{C})$  was much higher than that of the neat PI, and the tan  $\delta$  value was approximately 0.26, which is smaller than that of the neat PI film. This indicated that the crosslinked PI film had a more solid-like viscoelastic behavior.
+143: 
+144: # 3.5. Dielectric Properties of Neat PI and Crosslinked PI Free-Standing Thick Films
+145: 
+146: Next, the capacitance values of the 6FDA-ODA PI and crosslinked PI free-standing films were measured in order to compare their dielectric properties. It is generally known that the dielectric properties of a polymer such as 6FDA-ODA PI change when the polymer repeating unit contains fluorine, which is attributed to a relatively low polarizability and large free volume [23,24]. In general, when a PI film is used as an LC AL, the dielectric constant of PI affects the degree of accumulation of static charges formed on the surface after the rubbing process and also affects the time the residual charges remain on the surface. It is known that the low charge accumulation of a PI film made of PAA can minimize the image sticking problem in LCDs. The effect of crosslinking on the dielectric properties is clearly observed in Figure S9. When the dielectric constant and dielectric loss factor were specifically analyzed according to the frequency of the PI film sample, it was observed that the crosslinked PI film had a lower dielectric constant ( $\varepsilon = 3.69$  at  $10\mathrm{kHz}$ ) than the neat PI film ( $\varepsilon = 4.02$  at  $10\mathrm{kHz}$ ). In addition, the crosslinked PI film exhibited very stable dielectric properties at this frequency compared to the neat PI film. This phenomenon is due to the synergistic effect of the large free volume and loosening of the molecular packing due to the formation of partial crosslinking bridges between the PI chains. Finally, it can be inferred that the formation of a cross-linked structure between the PI chains can change the internal structure of the film, leading to a change in the dielectric properties of the film.
+147: 
+148: # 3.6. Surface Morphologies of Neat PI and Crosslinked PI Films: Effect of Mechanical Rubbing
+149: 
+150: The function and stability of the 6FDA-ODA PI film for application as an LC AL are closely related to the surface morphology of the PI film in contact with the LC and the stability of the rubbed PI film. Therefore, the surface morphological properties of the rubbed 6FDA-ODA PI film were investigated using AFM. For the neat PI films, the root mean square surface roughness  $(\mathrm{R_q})$  slightly increased from  $0.302\mathrm{nm}$  before rubbing to  $0.460\mathrm{nm}$  after rubbing, as shown in Figure 4a,b. Conversely, the surface morphology of the crosslinked PI film was not significantly affected by rubbing (Figure 4c,d). This means that the strong friction between the rubbing cloth and the PI film did not significantly affect the morphological stability of the surface microgrooves on the crosslinked PI film. Therefore, the crosslinked PI film maintained its surface uniformity and the morphological robustness of the microgrooves even after rubbing because the surface dent occurred within the elastic limit of the PI film during rubbing. For this reason, when the crosslinked PI film is used as an LC AL, it is expected to have high reliability for LC alignment in the cells.
+151: 
+152: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+153: 
+154: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+155: 
+156: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+157: Figure 4. AFM height images  $(10\times 10\mu \mathrm{m})$  of 6FDA-ODA PI (a,b) and crosslinked PI (c,d) films before (a,c) and after rubbing (b,d).
+158: 
+159: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+160: 
+161: # 3.7. Rubbing Effects on Anisotropy of Neat PI and Crosslinked PI AL
+162: 
+163: Mechanical rubbing of a PI AL with a rubbing cloth caused changes in the surface morphology of the AL. First, the top layer of the AL surface in contact with the rubbing cloth fibers during the rubbing process was removed by friction action; thus, microgrooves were formed on the AL surface in the rubbing direction. This resulted in a rougher AL surface and a larger surface area. Second, the PI chains near the AL surface were preferentially oriented in the rubbing direction by the rubbing force. These two rubbing effects consequently generated anisotropy in the PI AL. The degree of this rubbing-induced anisotropy of the AL depended on the chemical and mechanical properties of the AL material, as well as the rubbing conditions, including the rubbing force, rubbing length, speed of the rubbing roller, and rubbing temperature. Figure 5 shows the changes in the intensity of the linearly polarized light passing through the AL with respect to the AL's in-plane angle for both the 6FDA-ODA PI film (a) and its crosslinked PI film (b) before and after rubbing. The maximum intensities in Figure 5 are shown for angles of  $45^{\circ}$  and  $-135^{\circ}$ , which correspond to the rubbing direction; on the other hand,  $135^{\circ}$  and  $-45^{\circ}$  corresponded to the perpendicular direction and showed the minimum intensities. The average differences between the maximum and minimum intensities indicated the relative degree of rubbing-induced anisotropy; that is, a larger difference in intensity indicates a larger anisotropy in the AL. The asymmetric polar diagram might be due to the inclination of polyimide chains in the vertical direction or variation of the light incident spot during measurement.
+164: 
+165: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+166: 
+167: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+168: 
+169: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+170: Figure 5. Anisotropy of 6FDA-ODA PI film (a) and its crosslinked PI film (b) before and after rubbing.
+171: 
+172: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+173: 
+174: Significant anisotropy was generated in the AL by rubbing, and its degree is obviously larger for the 6FDA-ODA AL (Figure 5a). This indicates a more significant change in the PI chain orientation as a result of rubbing, which matches the result in Figure 4 showing the rougher surface of the rubbed 6FDA-ODA PI film. This higher rubbing effect for the 6FDA-ODA PI AL is due to its inferior mechanical properties, such as its modulus and tensile strength, compared to the crosslinked PI film.
+175: 
+176: # 3.8. Properties of LC Cell: VHR and RDC
+177: 
+178: The VHR is a measure of an LCD's ability to maintain the voltage applied to its pixels during a frame time interval for active addressing; thus, a higher VHR is required to produce high-quality images [25-27]. It is known that the VHR is reduced by ionic charges and impurities (including radicals) present in the LC material/layer. Moreover, these ionic charges and/or radicals in the LC layer can be absorbed (or accumulated) on the AL surface under repetitive application of an external DC offset voltage, which leads to the generation of an RDC [28-30]. Thus, the VHR is related to the RDC; in general, the VHR tends to decrease with an increasing RDC [30,31]. The RDC is one of the major causes of the image sticking phenomenon, therefore, the minimization of the RDC is also desired for better display performance [10,29].
+179: 
+180: Generation of an RDC is based on the adsorption and desorption of ionic charges/ components at the interface between the LCs and PI AL. Thus, the RDC and VHR characteristics of an LC cell depend on the chemical nature of the AL PI, as well as on the intrinsic properties and purity of the LC material, which determine the interactions of the
+181: 
+182: LCs with the PI molecules [8,28,31]. Figure 6a shows the VHR values of LC cells with the 6FDA-ODA-based neat PI and crosslinked PI ALs. The VHRs were determined by varying the voltage holding time (167 ms and 1667 ms) and temperature  $(23^{\circ}\mathrm{C}$  and  $60^{\circ}\mathrm{C})$ .
+183: 
+184: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+185: Figure 6. (a) VHRs and (b) RDC plots of LC cells made with 6FDA-ODA-based PI AL and its crosslinked PI AL.
+186: 
+187: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+188: 
+189: In general, the VHR decreased considerably as the temperature increased. This was due to the mobility of the ionic impurities increasing at an elevated temperature [8,28]. The VHRs of the LC cell with the crosslinked PI AL were higher under all measurement conditions. A higher VHR value indicates that the desired pixel image could be less deteriorated during a time interval for LCD addressing. Furthermore, the VHRs for the crosslinked PI AL decreased less as the temperature and voltage holding time increased, indicating better stability in the VHR value. The crosslinked PI AL also induced a better RDC characteristic in the LC cell than the 6FDA-ODA PI; the RDC values for the former AL were smaller, as shown in Figure 6b. Rubbing a PI AL with a rubbing cloth is a process involving contact between their surfaces, therefore, triboelectric charging (or effect) occurs on the surface of the rubbed PI AL as a result of the contact. The electrical (or electrostatic) charges can, therefore, remain on the rubbed PI surface, sometimes for a relatively long time. These charges can increase ionic impurities in the LC material in contact with the rubbed AL and/or act as spots to generate an RDC. As previously mentioned, the results shown in Figures 4 and 5 indicate that the rubbing effect was greater for the 6FDA-ODA PI film, and thus, a rougher and larger surface area was generated by rubbing. Therefore, it is likely that the triboelectric charging was also greater for the rubbed 6FDA-ODA PI AL, which was responsible for the larger RDC and, subsequently, the lower VHR compared to the rubbed crosslinked PI AL. The results in Figure 6a,b clearly show that the LC AL of the crosslinked PI induced better VHR and RDC characteristics in the LC cell, due to better stability of the LCs, as well as less changes in its surface during rubbing. These results suggest that the 6FDA-ODA-based crosslinked PI that incorporated a small amount of crosslinking provided a reliable AL for better LCD performance compared to the neat PI AL.
+190: 
+191: # 3.9. Chemical Stability of Neat PI and Crosslinked PI Films
+192: 
+193: The LC AL is a polymer material in direct contact with the LC in the cell. Therefore, the most important property of the AL material is that it must not be swollen or dissolved by the LC used. In particular, the stability of the surface anisotropy formed after mechanical rubbing, which is the most important factor for LC alignment, is also a very important characteristic. To investigate the stability of the anisotropy of the rubbed PI films, the retention of the surface anisotropy of the PI AL was measured after dropping the LC on the PI AL and leaving it at room temperature or at  $60^{\circ}\mathrm{C}$ . Figure 7 shows the relative change in
+194: 
+195: the anisotropy of the rubbed AL with respect to the wetting treatment with LC (MLC-2041) at  $60^{\circ}\mathrm{C}$ . As expected, the anisotropy of the rubbed AL decreased with increasing time for the LC treatment. However, the degree of this decrease in the anisotropy was much smaller for the crosslinked PI AL, indicating that the rubbing-induced orientation of the crosslinked PI AL was less deteriorated, and the crosslinked PI was more stable in the LC material. This better stability of the crosslinked PI AL allowed less damage to the LCs, and, therefore, reduced the possibility of increasing ionic impurities in the LC layer by contamination. It is expected that the dimensions of the microgrooves formed on the surface would be maintained due to the stability of the crosslinked PI surface during the LC contact. In brief, it is thought that the high VHR and low RDC values of the corresponding LC cells using the crosslinked PI AL observed earlier were mainly a result of high anisotropy retention.
+196: 
+197: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+198: (a)
+199: 
+200: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+201: 
+202: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+203: (b)
+204: 
+205: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+206: Figure 7. Anisotropy changes in 6FDA-ODA PI film after contacting MLC-2041 for certain period of time: (a) anisotropy change in neat PI film, (b) anisotropy change in crosslinked PI film, and (c) anisotropy retention with LC contact time.
+207: 
+208: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+209: (c)

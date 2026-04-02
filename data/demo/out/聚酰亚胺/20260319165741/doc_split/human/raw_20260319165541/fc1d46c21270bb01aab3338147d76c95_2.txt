@@ -1,0 +1,79 @@
+source_file: A Rigid and Planar Aza-Based Ternary Anhydride for the Preparation of Cross-Linked Polyimide Membrane Displayi.md
+doc_id: fc1d46c21270bb01aab3338147d76c95
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Experimental
+line_span: [55, 119]
+char_span: [9766, 17296]
+line_count: 63
+effective_body_non_empty_lines: 25
+
+lines:
+--- chunk (b0003: 2. Experimental) ---
+55: # 2. Experimental
+56: 
+57: # 2.1. Materials
+58: 
+59: 2,3,6,7,10,11-hexacyano-1,4,5,8,9,12-hexazatri-phenylene (HAT-CN,  $99\%$ ), 6FDA  $(98\%)$ , SDA  $(98\%)$ , TFDB  $(98\%)$  and PABZ  $(98\%)$  were purchased from Shanghai Aladdin Biochemical Technology Co., Ltd. The reagents N,N-dimethylformamide (DMF), acetic anhydride  $\mathrm{(Ac_2O)}$ , chloroform  $\mathrm{(CHCl_3)}$ , acetone, sodium nitrite, sodium hydroxide, sodium bicarbonate, trifluoroacetic acid, acetonitrile, benzene and methanol were obtained from Tianjin Kemiou Chemical Reagents. The reagents were not further purified before use. All test gases were bought from Daqing Xuelong Petrochemical Technology Development Co. Ltd. (Daqing, China) with purities  $>99.99\%$ .
+60: 
+61: # 2.2. Synthesis of Ternary Anhydride
+62: 
+63: HAT-T was prepared according to the literature [28-30]. Scheme 1 shows the synthesis route of HAT-T.
+64: 
+65: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+66: Scheme 1. Synthesis route for HAT-T.
+67: 
+68: # 2.2.1. 2,3,6,7,10,11-. Hexaacylamino-1,4,5,8,9,12-Hexazatri-Phenylene (HAAHAT)
+69: 
+70: HAT-CN  $(2.4\mathrm{g},6.25\mathrm{mmol})$  and concentrated sulfuric acid  $(50~\mathrm{mL})$  were stirred and dissolved for  $72\mathrm{h}$ . The solution was dropped into stirred water to obtain a yellow suspension, filtered, washed with water  $(3\times 100\mathrm{mL})$ , washed with acetone  $(3\times 100\mathrm{mL})$  and then dried in a vacuum.
+71: 
+72: # 2.2.2. 2,3,6,7,10,11-. Hexacarboxyl-1,4,5,8,9,12-Hexazatri-Phenylene (HCBHAT)
+73: 
+74: Sodium nitrite  $(3.5\mathrm{g},45\mathrm{mmol})$  and acetic acid  $(75~\mathrm{mL})$  were added in batches within  $15\mathrm{min}$  to the mixed solution of HAAHAT  $(2.46\mathrm{g},5\mathrm{mmol})$  and trifluoroacetic acid (TFA)  $(75~\mathrm{mL})$ , placed in an ice bath, stirred for  $12\mathrm{h}$ , then poured into water and filtered to collect crude products. The solid was dissolved in sodium bicarbonate solution  $(20\mathrm{g},100\mathrm{mL}$ $\mathrm{H}_2\mathrm{O})$  and treated with sodium hydroxide solution  $(20\mathrm{g},100\mathrm{mL}$ $\mathrm{H}_2\mathrm{O})$ . A yellow precipitate was generated, washed with  $50\%$  aqueous ethanol  $(3\times 50~\mathrm{mL})$  and vacuum dried at  $80^{\circ}\mathrm{C}$ . The yellow solid was suspended in  $50~\mathrm{mL}$  water, heated to  $50^{\circ}\mathrm{C}$ , acidified with  $50~\mathrm{mL}$  hydrochloric acid, heated at  $90^{\circ}\mathrm{C}$  for  $12\mathrm{h}$ , filtered, washed with  $10\%$  hydrochloric acid  $(3\times 50~\mathrm{mL})$ , washed with water  $(3\times 50~\mathrm{mL})$ , filtered and vacuum dried at  $80^{\circ}\mathrm{C}$ .
+75: 
+76: # 2.2.3. Hexazatriphenylene-Ternary-Anhydride (HAT-T)
+77: 
+78: HCBHAT  $(0.625\mathrm{g}, 23.8\mathrm{mmol})$  was added to  $30~\mathrm{mL}$  acetic anhydride, protected by  $\mathrm{N}_2$ , stirred at  $115^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ , cooled to room temperature, vacuum rotary evaporated to remove the solvent and recrystallized with acetonitrile/benzene.
+79: 
+80: # 2.3. Synthesis of Hexazatriphenylene-Containing Polyimides
+81: 
+82: The PIs PIa-PIc-t of 6FDA and HAT-T, with different diamines (SDA, TFDB and PABZ) were synthesized. The syntheses of PIs with different diamines were similar. Take PIa-t synthesis as an example. A mixed solution of 6FDA  $(2.2212\mathrm{g},5\mathrm{mmol})$  , HAT-T  $(15.55\mathrm{mg},$ $0.035\mathrm{mmol})$  , DMF  $10~\mathrm{mL}$  and SDA  $(991.88\mathrm{mg},4.953\mathrm{mmol};20\mathrm{mL}$  DMF) solution,  $\mathbf{N}_2$  protection, solid content of  $10\%$  ice bath reaction for  $16\mathrm{h}$  then  $2\mathrm{mL}$  of acetic anhydride and pyridine mixed solution (V acetic anhydride: V pyridine  $= 1:1$  ) was added, reacted at  $60^{\circ}C$
+83: 
+84: for  $6\mathrm{h}$ , cooled to room temperature, poured into methanol solution, precipitated to yellow solid, filtered, dried and fibrous PI polymer containing the hexazazobenzophenol structure was obtained. Scheme 2 shows the synthesis route of hexaazatriphenylene-containing PIs.
+85: 
+86: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+87: Scheme 2. Synthesis route of hexaazatriphenylene-containing polyimides.
+88: 
+89: # 2.4. Polyimide Film Preparation
+90: 
+91: The polymer was dissolved in chloroform at a concentration of  $2\mathrm{wt}\%$ , filtered and cast onto a glass plate. The film was further dried at  $80.0^{\circ}\mathrm{C} / 1\mathrm{h}$ ,  $120.0^{\circ}\mathrm{C} / 1\mathrm{h}$ ,  $160.0^{\circ}\mathrm{C} / 1\mathrm{h}$  and  $200.0^{\circ}\mathrm{C} / 1\mathrm{h}$  to obtain the corresponding hexaaazatriphenylene-containing PI film.
+92: 
+93: # 2.5. Characterization
+94: 
+95: The Fourier transform infrared (FTIR) spectra of intermediates and monomer powders and the polymer films were measured using a Nicolet NNexus-470 Fourier transform spectrophotometer.  ${}^{1}\mathrm{H}$  NMR spectra were obtained on a Bruker Avance 600 spectrometer operating at  $600\mathrm{MHz}$  using DMSO- $\mathrm{d}_6$  as the solvent. The molecular weight of HAT-T was determined using a Bruker ultrafléXtreme flight mass spectrometer (MS) with acetonitrile as the solvent. The mechanical properties of thin films were tested using an xLW-500N film tensile strength tester from Jinan Sanquan Zhongshi Experimental Instrument Co., Ltd. (Jinan, China). The spline size was  $3\mathrm{cm} \times 4\mathrm{cm}$ . Each film was tested three times and the test results were averaged. Molecular weight and molecular weight distribution of the PIs were measured using a Polymer Laboratories PL-GPC120 gel permeation chromatograph (GPC) with polystyrene as an external standard and DMF as the eluent. X-ray diffraction analysis (XRD) of the films was carried out on a Bruker AXS-D8 X-ray diffractometer at  $40\mathrm{kV}, 40\mathrm{mA}$  and  $\mathrm{Cu - K}\alpha$  radiation. The  $d$ -spacing was calculated using Bragg's equation,  $n\lambda = 2d\sin \theta$ , where  $n$  is the order of reflection,  $\lambda$  is the wavelength of X-ray radiation and  $\theta$  is the XRD angle [31].
+96: 
+97: # 2.6. Measurements of Gas Transport Properties
+98: 
+99: The gas permeability of the prepared PI gas separation film was measured using a differential pressure gas permeability meter. The permeability coefficient of a gas  $(P)$  represents the permeability rate of the permeable membrane.  $P$  is calculated by the volume
+100: 
+101: of gas passing through the sample per unit thickness and area per unit time (1 barrier =  $10^{-10} \, \text{cm}^3$  (STP) cm cm $^{-2}$  s $^{-1}$  cmHg $^{-1}$ ). The calculation formula is shown in Equation (1):
+102: 
+103: $$
+104: P = \frac {q \times k \times L}{A \times p \times t} \times 1 0 0 0 (\text {b a r r e r}) \tag {1}
+105: $$
+106: 
+107: where  $q$  transport volume (mL),  $k$  auxiliary positive coefficient: 2 (fixed value),  $L$  film thickness (cm),  $p$  pressure (cmHg),  $A$  transmittance area: 0.785 (cm²) fixed value and  $t$  test time (s).
+108: 
+109: The ideal gas displacement selectivity of gas  $A$  to gas  $B$  is expressed as the ratio of the permeability coefficient of the former to the latter, which is called the gas selectivity coefficient and is expressed by  $\alpha$ . The calculation formula is shown in Equation (2).
+110: 
+111: $$
+112: \alpha_ {A / B} = \frac {P _ {A}}{P _ {B}} \tag {2}
+113: $$
+114: 
+115: where  $\alpha_{A / B}$  is the selectivity of the membrane for component  $A$  over component  $B$ .
+116: 
+117: The permeability coefficient, separation coefficient, dissolution coefficient and diffusion coefficient of  $\mathrm{CO_2 / CH_4}$  in this study were obtained by taking the average values of three tests calculated by the formulas listed above.

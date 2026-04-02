@@ -1,0 +1,39 @@
+source_file: Influence of Mixed Imide Composition and Thermal Annealing on Ionic Liquid Uptake and Conductivity of Polyimid.md
+doc_id: 259a3763fadb7eeed7f1a64453962fa4
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. System Design
+line_span: [80, 104]
+char_span: [12198, 16312]
+line_count: 23
+effective_body_non_empty_lines: 11
+
+lines:
+--- chunk (b0003: 2. System Design) ---
+80: # 2. System Design
+81: 
+82: This research was motivated by the need for a better material to be used at elevated temperatures above  $100^{\circ}\mathrm{C}$  which can maintain good mechanical properties and yet provide an environment for effective and high electron transfer via possessing less resistivity. As reported in Coletta et al. and Woo et al.'s studies [13,28,39], there are still areas to be fixed in SBC-type membranes in order to be used in industry. Therefore, the objective of this study was to find an optimal material composition for the PI-PEG SBC membrane class.
+83: 
+84: As mentioned earlier, studies by Coletta et al. showed that PEG-PI systems have the potential to be used as proton exchange membranes (PEMs). Extensive research on this type of material has been conducted, and structural and morphological analyses are given for SBC membranes consisting of either oxygenated or fluorinated diamines along with oxygenated or fluorinated dianhydrides. Through the research performed by this group, it has been shown that the morphology and the free volume domains can be affected depending on the composition. Thus, Coletta et al. concluded that by changing the type of the PI system in PEG-PI SBC membranes, more desirable and superior materials can be produced.
+85: 
+86: Further investigations were carried out by Woo et al. [39], where it was shown that the morphology of the PI-PEG system shows the same pattern as disordered bicontinuous phase-separated nanostructures, which were described by the Teubner-Strey theory.
+87: 
+88: These authors reported that these bicontinuous phase-separated nanostructures positively affected the conductivity and showed increased ionic conductivity by two to five times compared to that of Nafion films. Moreover, the temperature annealing process was performed for three different temperatures of 100, 120, and  $140^{\circ}\mathrm{C}$  to study the temperatur's effect on the nanostructure and conductivity. Woo et al. [39] showed that the temperature annealing process increased conductivity by about four times compared to that of Nafion for SBC membranes with PEG compositions above  $26\mathrm{wt\%}$ .
+89: 
+90: After careful analysis of all of these extensive studies, we were motivated to acquire more information by varying the composition of PI-PEG SBC membranes. Thus, in this study, two groups of PI-PEG SBC membranes were synthesized.
+91: 
+92: In the first group, PI-PEG SBC membranes containing both fluorinated and oxygenated dianhydrides were produced using different compositions. The systematic experimental design is shown in Table 1, along with the acronyms of the synthesized membranes.
+93: 
+94: Table 1. SBC membrane systems with varying PEG1500 wt%.  
+95: 
+96: <table><tr><td>PEG-PI Systems.</td><td>PEG wt%</td><td>6FDA wt% + ODPA wt%</td><td>PDODA wt%</td></tr><tr><td rowspan="3">6FDA-PDODA-PEG1500</td><td>28.8</td><td>48 + 0</td><td>23.2</td></tr><tr><td>42.1</td><td>30 + 0</td><td>27.9</td></tr><tr><td>46.8</td><td>38 + 0</td><td>15.2</td></tr><tr><td rowspan="3">ODPA-PDODA-PEG1500</td><td>28.8</td><td>0 + 48</td><td>23.2</td></tr><tr><td>42.1</td><td>0 + 30</td><td>27.9</td></tr><tr><td>46.8</td><td>0 + 38</td><td>15.2</td></tr><tr><td rowspan="3">6FDA+ODPA-PDODA-PEG1500(50/50 wt% of dianhydrides)</td><td>28.8</td><td>24 + 24</td><td>23.2</td></tr><tr><td>42.1</td><td>15 + 15</td><td>27.9</td></tr><tr><td>46.8</td><td>19 + 19</td><td>15.2</td></tr></table>
+97: 
+98: Additionally, to gain more insight into the effect of changing imide composition in the final product, different dianhydride concentrations were examined, keeping PEG1500 and PDODA contents constant at 42.1 and  $27.9\mathrm{wt}\%$ , respectively. Table 2 summarizes the second group of SBC membranes synthesized for this investigation.
+99: 
+100: Table 2. SBC membrane systems with varying wt% of dianhydrides.  
+101: 
+102: <table><tr><td></td><td>6FDA wt% (in All Materials)</td><td>ODPA wt% (in All Materials)</td></tr><tr><td rowspan="5">6FDA + ODPA-PDODA-PEG1500</td><td>30</td><td>0</td></tr><tr><td>22.5</td><td>7.5</td></tr><tr><td>19</td><td>19</td></tr><tr><td>7.5</td><td>22.5</td></tr><tr><td>0</td><td>30</td></tr></table>

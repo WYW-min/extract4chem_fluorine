@@ -1,0 +1,41 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 18
+block_id: b0019
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: FINAL EQUATION IN TERMS OF CODED FACTORS
+line_span: [219, 245]
+char_span: [41018, 43144]
+line_count: 25
+effective_body_non_empty_lines: 15
+
+lines:
+--- chunk (b0019: FINAL EQUATION IN TERMS OF CODED FACTORS) ---
+219: # FINAL EQUATION IN TERMS OF CODED FACTORS
+220: 
+221: The least squares regression was employed to generate the full quadratic experimental models to predict water uptake model in terms of coded factors as given in (4).
+222: 
+223: Referring to the same evaluation as water uptake, the values for proton conductivity and IEC were as shown in Table 6.
+224: 
+225: TABLE 6. The equations of physicochemical responses  
+226: 
+227: <table><tr><td></td><td>Water uptake (%)</td><td>Proton conductivity (S cm-1)</td><td>IEC (mmol g-1)</td></tr><tr><td></td><td>91.12</td><td>0.1800</td><td>0.2500</td></tr><tr><td>*A</td><td>10.82</td><td>0.0180</td><td>-0.0170</td></tr><tr><td>*B</td><td>4.52</td><td>0.0099</td><td>0.0030</td></tr><tr><td>*C</td><td>3.32</td><td>0.0084</td><td>0.0097</td></tr><tr><td>*AB</td><td>-3.53</td><td>-0.0077</td><td>0</td></tr><tr><td>*AC</td><td>1.71</td><td>0.0053</td><td>0</td></tr><tr><td>*BC</td><td>0.33</td><td>-0.0009</td><td>0</td></tr><tr><td>*A2</td><td>-10.29</td><td>-0.0310</td><td>0</td></tr><tr><td>*B2</td><td>-4.84</td><td>-0.0088</td><td>0</td></tr></table>
+228: 
+229: The least square regression was employed to generate the full quadratic experimental models to predict response models in terms of coded factors as shown in (5) to (7):
+230: 
+231: $$
+232: \begin{array}{l} \text {(W a t e u p t a k e)} = 9 1. 1 2 + 1 0. 8 2 A + 4. 5 2 B + 3. 3 2 C - 3. 5 3 A B \\ + 1. 7 1 A C + 0. 3 3 B C - 1 0. 2 9 A ^ {2} - 4. 8 4 B ^ {2} \end{array} \tag {5}
+233: $$
+234: 
+235: $$
+236: \begin{array}{l} \text {(P r o t o n c o n d u c t i v i t y)} = 0. 1 8 0 0 + 0. 0 1 8 0 A + 0. 0 0 9 9 B + \\ 0. 0 0 8 4 C - 0. 0 0 7 7 A B + 0. 0 0 5 3 A C - 0. 0 0 0 9 B C - 0. 0 3 1 0 A ^ {2} \\ - 0. 0 0 8 8 B ^ {2} \end{array} \tag {6}
+237: $$
+238: 
+239: $$
+240: (I E C) = 0. 2 5 0 0 - 0. 0 1 7 0 \mathrm {A} + 0. 0 0 3 0 \mathrm {B} + 0. 0 0 9 7 \mathrm {C} \tag {7}
+241: $$
+242: 
+243: where A, B, and C were stood for filler loading, annealing temperature and type of the filler, respectively. The sign in front of terms (either in positive or negative) showed synergistic effect (for positive) or antagonistic effect (for negative) in which these would indicate the influence of independent variables on the response.

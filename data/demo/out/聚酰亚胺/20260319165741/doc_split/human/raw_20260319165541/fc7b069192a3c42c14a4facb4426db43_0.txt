@@ -1,0 +1,55 @@
+source_file: Electrospun Semi-Alicyclic Polyimide Nanofibrous Membrane High-Reflectance and High-Whiteness with Superior Th.md
+doc_id: fc7b069192a3c42c14a4facb4426db43
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Electrospun Semi-Alicyclic Polyimide Nanofibrous Membrane: High-Reflectance and High-Whiteness with Superior Thermal and Ultraviolet Radiation Stability for Potential Applications in High-Power UV-LEDs
+line_span: [1, 41]
+char_span: [0, 4662]
+line_count: 39
+effective_body_non_empty_lines: 23
+
+lines:
+--- chunk (b0001: Electrospun Semi-Alicyclic Polyimide Nanofibrous Membrane: High-Reflectance and High-Whiteness with Superior Thermal and Ultraviolet Radiation Stability for Potential Applications in High-Power UV-LEDs) ---
+1: [MINERU_DISCARDED_META]
+2: nanomaterials
+3: MDPI
+4: Nanomaterials 2021, 11, 1977. https://doi.org/10.3390/nano11081977
+5: https://www.mdpi.com/journal/nanomaterials
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Electrospun Semi-Alicyclic Polyimide Nanofibrous Membrane: High-Reflectance and High-Whiteness with Superior Thermal and Ultraviolet Radiation Stability for Potential Applications in High-Power UV-LEDs
+11: 
+12: Xinxin Zhi  $^{1,\dagger}$ , Huasen Wang  $^{2,\dagger}$ , Xinying Wei  $^{1}$ , Yan Zhang  $^{1}$ , Yuancheng An  $^{1}$ , Haoran Qi  $^{1}$  and Jingang Liu  $^{1,*}$
+13: 
+14: $^{1}$  Beijing Key Laboratory of Materials Utilization of Nonmetallic Minerals and Solid Wastes, National Laboratory of Mineral Materials, School of Materials Science and Technology, China University of Geosciences, Beijing 100083, China; 3003200015@cugb.edu.cn (X.Z.); 2003200022@cugb.edu.cn (X.W.); 3003200016@cugb.edu.cn (Y.Z.); 2103190039@cugb.edu.cn (Y.A.); 2103200030@cugb.edu.cn (H.Q.)  
+15: 2 POME Technology Co. Ltd., Liaocheng 252399, China; whs@pome.com.cn  
+16: * Correspondence: liujg@cugb.edu.cn; Tel.: +86-10-82322972  
+17: These authors contributed equally to this work.
+18: 
+19: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+20: 
+21: Citation: Zhi, X.; Wang, H.; Wei, X.; Zhang, Y.; An, Y.; Qi, H.; Liu, J. Electrospun Semi-Alicyclic Polyimide Nanofibrous Membrane: High-Reflectance and High-Whiteness with Superior Thermal and Ultraviolet Radiation Stability for Potential Applications in High-Power UV-LEDs. Nanomaterials 2021, 11, 1977. https://doi.org/10.3390/nano11081977
+22: 
+23: Academic Editor: Bouchta Sahraoui
+24: 
+25: Received: 21 July 2021
+26: 
+27: Accepted: 29 July 2021
+28: 
+29: Published: 31 July 2021
+30: 
+31: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+32: 
+33: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+34: 
+35: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+36: 
+37: Abstract: Polymeric nanofibrous membranes (NFMs) with both high whiteness and high thermal and ultraviolet (UV) stability are highly desired as reflectors for ultraviolet light-emitting diodes (UV-LEDs) devices. In the current work, a semi-alicylic and fluoro-containing polyimide (PI) NFM with potential application in such kinds of circumstances was successfully fabricated from the organosoluble PI resin solution via a one-step electrospinning procedure. In order to achieve the target, a semi-alicylic PI resin was first designed and synthesized from an allyclic dianhydride, 3,4-dicarboxy1,2,3,4,5,6,7,8-decahydro-1-naphthalenesuccinic dianhydride (or hydrogenated tetralin dianhydride, HTDA), and a fluoro-containing diamine, 2,2-bis[4-(4-amino-phenoxy)phenyl]hexafluoropropane (BDAF), via an imidization procedure. The derived PI (HTDA-BDAF) resin possessed a number-average molecular weight  $(M_{\mathrm{n}})$  higher than  $33,000~\mathrm{g / mol}$  and was highly soluble in polar aprotic solvents, such as  $N,N$  -dimethylacetamide (DMAc). The electrospinning solution was prepared by dissolving the PI resin in DMAc at a solid content of 25-35 wt%. For comparison, the conventional high-whiteness polystyrene (PS) NFM was prepared according to a similar electrospinning procedure. The thermal and UV stability of the derived PI and PS NFMs were investigated by exposure under the UV-LED (wavelength:  $365~\mathrm{nm}$ ) irradiation. Various thermal evaluation results indicated that the developed PI (HTDA-BDAF) NFM could maintain both the high reflectance and high whiteness at elevated temperatures. For example, after thermal treatment at  $200^{\circ}\mathrm{C}$  for  $1\textrm{h}$  in air, the PI (HTDA-BDAF) NFM exhibited a reflectance at a wavelength of  $457~\mathrm{nm}$ $(R_{457})$  of  $89.0\%$  , which was comparable to that of the pristine PI NMF  $(R_{457} = 90.2\%)$ . The PI (HTDA-BDAF) NFM exhibited a whiteness index  $(WI)$  of 90.88, which was also close to that of the pristine sample  $(WI = 91.22)$ . However, for the PS NFM counterpart, the  $R_{457}$  value decreased from the pristine  $88.4\%$  to  $18.1\%$  after thermal treatment at  $150^{\circ}\mathrm{C}$  for  $1\textrm{h}$ , and the sample became transparent. The PI NFM maintained good optical and mechanical properties during the high dose  $(2670~\mathrm{J / cm}^2)$  of UV exposure, while the properties of the PS NFM apparently deteriorated under the same UV aging.
+38: 
+39: Keywords: polyimide; electrospinning; nanofibrous membrane; reflectivity; UV-LED

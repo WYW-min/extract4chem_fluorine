@@ -1,0 +1,21 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 2
+block_id: b0003
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: ABSTRACT
+line_span: [26, 32]
+char_span: [2576, 4223]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0003: ABSTRACT) ---
+26: # ABSTRACT
+27: 
+28: Kepelbagaian gabungan struktur yang tersedia untuk mensintesis poliimida secara teknikalnya telah mewujudkan kaedah yang pelbagai untuk menghasilan film PI. Reka;bentuk molekul yang melibatkan pemilihan monomer yang digunakan dalam penyediaan PI dipilih dengan teliti, bagi memenuhi keperluan aplikasi tertentu kerana ia boleh mencpengaruhi sifat film PI. Kajian ini bertujuan untuk menggariskan pendekatan bagi fabrikasi film melalui摄入angan poliimida organo-larut yang dipereleh daripada  $4,4^{\prime}$  -metilena difenil diisosianat (MDI) dengan  $4,4^{\prime}$  -(heksafluoroisopropilidena) diftilik anhidrida (6FDA) dalam rawatan pemanasan berbeza. Jumlah titisan larutan telah diuji bagi mengawal keseragaman warna film. Filem MDI-6FDA yang fleksibel dan kurang hablur dengan purata ketebalan  $93\mu \mathrm{m}$  berjaya dibangunan dengan kekuatan tegangan seesingga  $57\mathrm{MPa}$  dan pemanjangan memutus pada  $5 \%$  .Filem MDI-6FDA yang terhasil juga menunjukkan kelutsinaran optik yang baik  $(T_{500} = 69\%)$  )dengan panjang gelombang terpenggal pada  $371~\mathrm{nm}$  dan ketahanan terma yang tinggi  $(T_{5} = 574^{\circ}\mathrm{C})$  dengan suhu  $T_{\mathrm{g}}$  seeingga  $238^{\circ}\mathrm{C}$  Filem yang dihasilan juga menunjukkan ketahanan kimia yang baik dalam pelarut metanol, etanol, isopropanol dan tetrahidrofuran. Keputusan ini berfungsi sebagai garis panduan dalam fabrikasi film poliimida khususnya daripada diisosianat dan dianhidrida dengan kelebihan potensi untuk digunakan di dalam aplikasi optik.
+29: 
+30: Kata kunci: Diisosianat; filem fleksibel; kekuatan tegangan; kelutsinaran cahaya; polimida

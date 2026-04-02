@@ -1,0 +1,50 @@
+source_file: Electrospun Semi-Alicyclic Polyimide Nanofibrous Membrane High-Reflectance and High-Whiteness with Superior Th.md
+doc_id: fc7b069192a3c42c14a4facb4426db43
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [235, 268]
+char_span: [42445, 48987]
+line_count: 34
+effective_body_non_empty_lines: 31
+
+lines:
+--- chunk (b0006: References) ---
+235: # References
+236: 
+237: 1. Muramoto, Y.; Kimura, M.; Nouda, S. Development and future of ultraviolet light-emitting diodes: UV-LED will replace the UV lamp. Semicond. Sci. Technol. 2014, 29, 084004. [CrossRef]  
+238: 2. Espid, E.; Taghipour, F. UV-LED photo-activated chemical gas sensors: A review. Crit. Rev. Solid State Mater. Sci. 2017, 42, 416-432. [CrossRef]  
+239: 3. Kebbi, Y.; Muhammad, A.I.; Sant'Ana, A.S.; do Prado-silva, L.; Liu, D.; Ding, T. Recent advances on the application of UV-LED technology for microbial inactivation: Progress and mechanism. Compr. Rev. Food Sci. Food Saf. 2020, 19, 3501-3527. [CrossRef]  
+240: 4. Liang, G.; Tang, Y.; Li, J.; Yuan, Y.; Zhang, J.; Li, Z.; Ding, X. Improving optical performance of NUV-LEDs by highly reflective BN/silicone structures. IEEE Photonics Technol. Lett. 2020, 32, 1345-1348. [CrossRef]  
+241: 5. Tang, Y.; Liang, G.; Chen, J.; Yu, S.; Li, Z.; Rao, L.; Yu, B. Highly reflective nanofiber films based on electrospin-ning and their application on color uniformity and luminous efficacy improvement of white light-emitting diodes. Opt. Express 2017, 25, 20598-20611. [CrossRef] [PubMed]
+242: 
+243: 6. Yip, J.; Ng, S.P.; Wong, K.H. Brilliant whiteness surfaces from electrospun nanofiber webs. Texture Res. J. 2009, 79, 771-779. [CrossRef]  
+244: 7. Syurik, J.; Jacucci, G.; Onelli, O.D.; Holscher, H.; Vignolini, S. Bio-inspired highly scattering networks via polymer phase separation. Adv. Funct. Polym. 2018, 28, 1706901. [CrossRef]  
+245: 8. Zeighami, F.; Tehran, M.A. Developing optically efficient nanofiber coatings inspired by Cyphochilus white beetles. J. Ind. Text. 2016, 46, 495-509. [CrossRef]  
+246: 9. Toivonen, M.S.; Onelli, O.D.; Jacucci, G.; Lovikka, V.; Rojas, O.J.; Ikkala, O.; Vignolini, S. Anomalous-diffusion-assisted brightness in white cellulose nanofibril membranes. Adv. Mater. 2018, 30, 1704050. [CrossRef] [PubMed]  
+247: 10. Bae, J.; Kim, Y.; Kim, H.; Kim, Y.; Jin, J.; Bae, B. Ultraviolet light stable and transparent sol-gel methyl siloxane hybrid material for UV light-emitting diode (UV LED) encapsulant. ACS Appl. Mater. Interfaces 2015, 7, 1035-1039. [CrossRef]  
+248: 11. Islam, S.; Ang, B.C.; Andriyana, A.; Afifi, A.M. A review on fabrication of nanofibers via electrospinning and their applications. SN Appl. Sci. 2019, 1, 1248. [CrossRef]  
+249: 12. Guo, C.; Liu, J.; Yin, L.; Huangfu, M.; Zhang, Y.; Wu, X.; Zhang, X. Preparation and characterization of electrospun polyimide microfibrous mats with high whiteness and high thermal stability from organo-soluble polyimides containing rigid-rod moieties. Fibers Polym. 2018, 19, 1706-1714. [CrossRef]  
+250: 13. Liaw, D.; Wang, K.; Huang, Y.; Lee, K.; Lai, J.; Ha, C. Advanced polyimide materials: Syntheses, physical properties and applications. Prog. Polym. Sci. 2012, 37, 907-974. [CrossRef]  
+251: 14. Ma, P.; Dai, C.; Wang, H.; Li, Z.; Liu, H.; Li, W.; Yang, C. A review on high temperature resistant polyimide films: Heterocyclic structures and nanocomposites. Compo. Commun. 2019, 16, 84-93. [CrossRef]  
+252: 15. Mohamed, M.G.; Kuo, S.W. Functional polyimide/polyhedral oligomeric silsesquioxane nanocomosites. Polymers 2019, 11, 26. [CrossRef]  
+253: 16. Chu, S.; Pan, Y.; Wang, Y.; Zhang, H.; Xiao, R.; Zou, Z. Polyimide-based photocatalysts: Rational design for energy and environmental applications. J. Mater. Chem. A 2020, 8, 14441-14462. [CrossRef]  
+254: 17. Qi, L.; Jia, Y.; An, Y.; Zhi, X.; Zhang, Y.; Liu, J.; Li, J. Photo-patternable, high-speed electrospun ultrafine fibers fabricated by intrinsically negative photosensitive polyimide. ACS Omega 2021, 6, 18458-18464. [CrossRef]  
+255: 18. Qi, L.; Guo, C.; Huangfu, M.; Zhang, Y.; Yin, L.; Wu, L.; Liu, J.; Zhang, X. Enhancement of solvent resistance of polyimide electrospun mat via the UV-assisted electrospinning and photosensitive varnish. Polymers 2019, 11, 2055. [CrossRef] [PubMed]  
+256: 19. Hicyilmaz, A.S.; Bedeloglu, A.C. Applications of polyimide coatings: A review. SN Appl. Sci. 2021, 3, 363. [CrossRef]  
+257: 20. KauSar, A. Holistic insights on polyimide nanocomposite nanofiber. Polym. Plast. Technol. Mater. 2020, 59, 1621-1639. [CrossRef]  
+258: 21. Ni, H.; Liu, J.; Wang, Z.; Yang, S. A review on colorless and optically transparent polyimide films: Chemistry, process and engineering applications. J. Ind. Eng. Chem. 2015, 28, 16-27. [CrossRef]  
+259: 22. Kim, J.W.; Chang, J.H. Syntheses of colorless and transparent polyimide membranes for microfiltration. Polymers 2020, 12, 1610. [CrossRef] [PubMed]  
+260: 23. Yi, C.; Li, W.; Shi, S.; He, K.; Ma, P.; Chen, M.; Yang, C. High-temperature-resistant and colorless polyimide: Preparations, properties, and applications. Sol. Energy 2020, 195, 340–354. [CrossRef]  
+261: 24. Tapaswi, P.K.; Ha, C.S. Recent trends on transparent colorless polyimides with balanced thermal and optical properties: Design and synthesis. Macromol. Chem. Phys. 2019, 220, 1800313. [CrossRef]  
+262: 25. Choi, I.H.; Chang, J.H. Colorless polyimide nanocomposite films containing hexafluoroisopropylidene group. Polym. Adv. Technol. 2011, 22, 682-689. [CrossRef]  
+263: 26. Guo, C.; Wu, X.; Liu, J.; Zhang, Y.; Zhang, X. Preparation and properties of high-whiteness polyimide ultrafine fabrics by electrospinning from organo-soluble semi-alicyclic polyimide resins. J. Photopolym. Sci. Technol. 2018, 31, 27-36. [CrossRef]  
+264: 27. Guo, C.Y.; Wang, Q.W.; Liu, J.G.; Qi, L.; Huangfu, M.G.; Wu, X.; Zhang, Y.; Zhang, X.M. Electrospun polyimide ultrafine non-woven fabrics with high whiteness and good thermal stability from organo-soluble semi-alicyclic polyimides: Preparation and properties. Express Polym. Lett. 2019, 13, 724-738. [CrossRef]  
+265: 28. Yin, L.; Guo, C.; Qi, L.; Wang, X.; Zhang, N.; Wu, L.; Liu, J. Electrospun polyphenylquinoxaline fibrous membranes: A versatile filtering medium for separation of highly alkaline aqueous red mud pollutant. J. Polym. Res. 2020, 27, 321. [CrossRef]  
+266: 29. Hasegawa, M.; Ishigami, T.; Ishii, J.; Sugiura, K.; Fujii, M. Solution-processable transparent polyimides with low coefficients of thermal expansion and self-orientation behavior induced by solution casting. Eur. Polym. J. 2013, 49, 3657–3672. [CrossRef]  
+267: 30. Jiang, G.; Wang, D.; Du, H.; Wu, X.; Zhang, Y.; Tan, Y.; Wu, L.; Liu, J.; Zhang, X. Reduced coefficients of linear thermal expansion of colorless and transparent semi-alicyclic polyimide films via incorporation of rigid-rod amide moiety: Preparation and properties. Polymers 2020, 12, 413. [CrossRef]  
+268: 31. Rieger, J. The glass transition temperature of polystyrene: Results of a round robin test. J. Therm. Anal. Calorim. 1996, 46, 965-972. [CrossRef]

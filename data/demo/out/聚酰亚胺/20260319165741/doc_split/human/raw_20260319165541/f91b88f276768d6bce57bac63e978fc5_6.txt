@@ -1,0 +1,19 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. I. PolyimidePolycarbonate &amp; Polyi.md
+doc_id: f91b88f276768d6bce57bac63e978fc5
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Acknowledgment
+line_span: [88, 92]
+char_span: [9862, 9957]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0007: Acknowledgment) ---
+88: # Acknowledgment
+89: 
+90: This work is supported in part by NATO in the framework of SfP978013 grant.

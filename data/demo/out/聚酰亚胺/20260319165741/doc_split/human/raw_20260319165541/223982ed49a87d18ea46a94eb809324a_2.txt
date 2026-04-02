@@ -1,0 +1,73 @@
+source_file: Polyimide-Derived Supramolecular Systems Containing Various Amounts of Azochromophore for Optical Storage Uses.md
+doc_id: 223982ed49a87d18ea46a94eb809324a
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [74, 132]
+char_span: [12101, 19057]
+line_count: 57
+effective_body_non_empty_lines: 24
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+74: # 2. Materials and Methods
+75: 
+76: # 2.1.Materials
+77: 
+78: In this study, the following materials were used:  $4,4^{\prime}$ -isopropylidene-diphenoxybis(phthalic anhydride) (6HDA), which was purchased from Sigma-Aldrich, St. Louis, MO, USA; and 2,6-bis(3-aminophenoxy)benzonitrile (m-CN) and 4-[(4-cyanophenyl)diazenyl] phenol (AzoCN) synthesized in our laboratory using previously reported methods [33-36] at M.p. 136-138 and  $200 - 202^{\circ}C$ , respectively. N,N-dimethylacetamide (HPLC grade), p-aminobenzonitrile, phenol  $(99\%)$  and  $\mathrm{NaNO}_2$ $(99.9\%)$  were purchased from Merck KGaA, Darmstadt, Germany. All reagents and solvents were used as received.
+79: 
+80: # 2.2. Polyamidic Acid (PAA) Synthesis
+81: 
+82: Using polycondensation reaction with equimolar quantities of 2,6-bis(3-aminophenoxy) benzonitrile (m-CN) and  $4,4^{\prime}$ -isopropylidene-diphenoxy-bis(phthalic anhydride) (6HDA), polyamidic acid was obtained. The reaction was undertaken in DMAc at a total concentration around  $15\%$ , at room temperature and under nitrogen atmosphere for  $4\mathrm{~h}$ . The obtained PAA solution was used in the next stage of realizing the supramolecular systems.
+83: 
+84: # 2.3. Polyimide-Based Supramolecular System
+85: 
+86: To realize the supramolecular systems, in the solution of polyamidic acid was introduced the azochromophore 4-[(4-cyanophenyl)diazenzyl]phenol (AzoCN) in different ratios, followed by casting onto glass plates and thermal treatment. Thus, the molar ratio between polyamidic acid and azomonomer was 1:1 (SPIN100), 1:0.75 (SPIN75), 1:0.5 (SPIN50) and 1:0.25 (SPIN25). The pristine PI film based on m-CN and 6HDA was abbreviated SPIN0. The used quantities are presented in Table 1. The step-by-step structural evolution of
+87: 
+88: the reaction is depicted in Scheme 1. By casting guest-host PAA solutions on glass plate, followed by thermal treatment, flexible films with imide structures were obtained. The thermal treatment was realized starting at  $50^{\circ}\mathrm{C}$  for  $4\mathrm{h}$ , followed by slowly increasing the temperature at 100, 125, 150, 175 and  $200^{\circ}\mathrm{C}$  and maintained at each step for  $1\mathrm{h}$ . The thicknesses of the polymer films are the following:  $40~\mu \mathrm{m}$  for SPIN25,  $30~\mu \mathrm{m}$  for SPIN50,  $30~\mu \mathrm{m}$  for SPIN75 and  $20~\mu \mathrm{m}$  for SPIN100.
+89: 
+90: Table 1. Quantities of polyamidic acid and azo monomer used in the PI-based supramolecular systems.  
+91: 
+92: <table><tr><td>Sample Code</td><td>Polyamidic Acid Mol (g)</td><td>Azo Monomer (Azo CN) Mol (g)</td></tr><tr><td>SPIN25</td><td>0.1806 × 10-4(0.151)</td><td>0.045 × 10-4(0.01007)</td></tr><tr><td>SPIN50</td><td>0.1806 × 10-4(0.151)</td><td>0.09 × 10-4(0.020137)</td></tr><tr><td>SPIN75</td><td>0.1806 × 10-4(0.151)</td><td>0.135 × 10-4(0.0302)</td></tr><tr><td>SPIN100</td><td>0.1806 × 10-4(0.151)</td><td>0.18 × 10-4(0.04027)</td></tr></table>
+93: 
+94: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+95: 
+96: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+97: 
+98: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+99: 
+100: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+101: 
+102: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+103: Scheme 1. Step-by-step evolution of the reaction that generates the final PI-based supramolecular system.
+104: 
+105: # 2.4. Laser Exposure
+106: 
+107: In Figure 1 is presented a sketch of the experimental arrangement used for the generation permanent relief grating on azo-copolyimide films. The third harmonic (355 nm) of a pulsed Nd:YAG laser (Brilliant, Quantel;  $6\mathrm{mm}$  in diameter, 10 ns pulse length) directed through a  $3\times$  Galilean expander was used to illuminate a phase mask with 1000 grooves/mm (Edmund Optics Ltd., York, UK). In order to provide a laser irradiation
+108: 
+109: spot with smooth energy distribution, the Galilean expander was interposed between two iris diaphragms. An iris with a  $5\mathrm{mm}$  aperture was employed in the first step to pick the core region from the original Gaussian laser beam. This first cropping of the beam ensures clean edges of energy and, at the same time, avoids the residual corresponding to the second harmonic from reaching the irradiation area of the sample. The selected laser beam is then passed through the Galilean expander, from which a  $10\mathrm{mm}$  central region is selected using a second iris diaphragm.
+110: 
+111: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+112: Figure 1. Laser irradiation sketch used for permanent relief grating generation on sample surface.
+113: 
+114: The generated near-field interference pattern was used for the fabrication of permanent relief grating with the same periodicity as that of the phase mask on PI-based supramolecular systems. The irradiation sequences were performed in air for different azo-copolyimide compositions while keeping constant the laser fluence  $(45\mathrm{mJ} / \mathrm{cm}^2)$ , total delivered laser shots (300 laser pulses) and pulse repetition frequency  $(10\mathrm{Hz})$ . The attenuation factor of the assembly composed of the phase mask sandwiched between the two quartz plates was considered in order to estimate the laser fluence incident on the polymer sample. The laser-irradiated films have the following labels: SPIN25-L, SPIN50-L, SPIN75-L and SPIN100-L.
+115: 
+116: # 2.5. Characterization
+117: 
+118: Molecular modeling was undertaken with the help of HyperChem software. The molecular mechanics' calculations involving Polak-Ribiere algorithm (0.001 kcal/mol) were used. Parametric method number 3 (PM3) was useful for quantum estimation of the molecular structure. The optimization is attained at a minimum free energy.
+119: 
+120: The quantitative structure-activity relationships (QSAR) properties could be employed to link molecular structure with chemical and physical properties. Molecular dynamics (MD) was useful for extraction of information on the van der Waals and hydrogen bonding interactions and the energetic and geometric quantities using Newtonian equations of motions derived from constituent atoms of the systems. Based on this, total energy (Etot), potential energy (Epot), and kinetic energy (Ekin) were evaluated.
+121: 
+122: The infrared spectroscopy (FTIR) experiments were carried out on FT-IR Bruker Vertex 70 instrument.
+123: 
+124: Differential scanning calorimetry (DSC) was experimented on a Mettler Toledo DSC 1 (Mettler Toledo, Greifensee, Switzerland) instrument. The polymer specimens were incorporated in some aluminum pans and subjected to a heating rate of  $10^{\circ}\mathrm{C}\min^{-1}$  (under  $\mathbf{N}_2$  medium).
+125: 
+126: Optical microscopy of the laser-exposed films was performed on a ADL 601 P Bresser device (Bresser, Rhede, Germany) in ambient temperature.
+127: 
+128: Illuminance and colorimetry studies were undertaken on CL-70F device (Konica Minolta, INC., Tokyo, Japan).
+129: 
+130: Refractometry and birefringence analyses were undertaken on DR-M4 (Atago Co., Ltd., Saitama, Japan) instrument under variable wavelength.

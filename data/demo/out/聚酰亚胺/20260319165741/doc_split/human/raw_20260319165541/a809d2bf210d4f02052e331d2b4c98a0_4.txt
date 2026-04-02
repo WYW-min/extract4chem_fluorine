@@ -1,0 +1,102 @@
+source_file: Mass-Synthesized Solution-Processable Polyimide Gate Dielectrics for Electrically Stable Operating OFETs and I.md
+doc_id: a809d2bf210d4f02052e331d2b4c98a0
+chunk_index: 4
+block_id: b0005
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [79, 166]
+char_span: [10908, 25762]
+line_count: 86
+effective_body_non_empty_lines: 52
+
+lines:
+--- chunk (b0005: 3. Results and Discussion) ---
+79: # 3. Results and Discussion
+80: 
+81: The PAA solutions were synthesized by the polymerization of PMDA/ODA with DMAc solvents, as shown in Scheme 1a. PAA solution was prepared by reacting with ODA and PMDA, which dissolved in DMAc under dry nitrogen in an industrialized mass reactor overnight. After the polymerization of PAA, the molecular weight was determined by GPC analysis. As shown in Figure S2, the prepared PAA had a molecular weight (Mw) of  $231\mathrm{kDa}$  and a molecular weight distribution of 5.11 (Table S1). With this prepared PAA solution, we fabricated PI layers following the method described in the Materials and Methods section and Scheme 1b. The FTIR measurements were performed to confirm that the PI film was well formed. According to the FTIR spectra in Figure 1, the PAA film showed broad peaks around  $1650~\mathrm{cm}^{-1}$ , which indicates the characteristic of amide  $\mathrm{C = O}$
+82: 
+83: stretching modes [17]. These broad peaks disappeared in the spectra of the membrane after thermal imidization and became sharp peaks. The peaks at  $1775~\mathrm{cm}^{-1}$ ,  $1720~\mathrm{cm}^{-1}$ ,  $1380~\mathrm{cm}^{-1}$ , and  $738~\mathrm{cm}^{-1}$  correspond to  $\mathrm{C = O}$  asymmetric stretching, symmetric stretching, CN stretching, and  $\mathrm{C = O}$  bending, which are primary indications of PI absorption bands, showing a larger transition with no characteristic PAA peaks [18].
+84: 
+85: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+86: Figure 1. FTIR spectra of prepared PAA and PI thin films.
+87: 
+88: Before utilizing the prepared PI films for electronic applications, we analyzed the film properties. Figure 2a shows AFM images of the prepared PI layers. The AFM image exhibited a smooth amorphous surface with a root-mean-square (RMS) roughness value of  $0.212\mathrm{nm}$ , and this low RMS roughness value of less than  $0.5\mathrm{nm}$  can provide a favorable environment for the growth of organic semiconducting crystals [5,19,20]. Furthermore, in order to identify the possibility of using this PI thin film as a dielectric layer for OFETs, the electrical characteristics were evaluated by fabricating a metal-insulator-metal (MIM)-structured capacitor with Al and thermally prepared PI layers (thickness:  $150\mathrm{nm}$ ) on  $\mathrm{Si} / \mathrm{SiO}_2$  wafers. As illustrated in Figure 2b, the dielectric constant (k) values of the PI were yielded at the level of 2.6, the value of which was roughly similar over a wide range of operating frequencies, from 2.62 at  $70\mathrm{Hz}$  to 2.57 at  $1\mathrm{MHz}$ . This phenomenon of showing constant k values according to the frequency means that there is no irregular arrangement of dipoles in the dielectric layers, which suggests the possibility of implementing a device without hysteresis by dielectrics when applied to a logic device including a transistor [20,21]. Figure 2c shows the leakage current density ( $I_{\mathrm{leak}}$ ) of the PI films.  $I_{\mathrm{leak}}$  was  $1.98\times 10^{-9}\mathrm{Acm}^{-2}$  at  $2\mathrm{MVcm}^{-1}$  which is comparable or superior to that of other polymeric insulating materials [2,20]. Therefore, our synthesized PI layers have good insulating properties and suitable characteristics for gate dielectrics of OFETs or integrated circuits.
+89: 
+90: Generally, the morphology of organic semiconducting layers deposited on the polymeric layers (PI layers in our work) is a significant factor in configured device applications, because charge-carrier transport in OFETs with bottom-gate top-contact configuration mainly occurs in a few-nanometers-wide channel at the interface between organic semiconductors and gate dielectrics [22]. Indeed, the crystalline morphology of the active layers (organic semiconducting layers), which are determined by the surface properties of the gate dielectric layer (surface energy, surface roughness, and chemical functionality), strongly affect the electrical performance of OFETs [23,24]. Thus, the morphologies of the organic semiconductors on the PI layers were analyzed.
+91: 
+92: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+93: (a)
+94: 
+95: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+96: Figure 2. (a) AFM image, (b) dielectric constant value according to frequency, and (c) leakage current density under electric field of PI layers.  
+97: (b)
+98: 
+99: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+100: (c)
+101: 
+102: Figure 3a shows the surface topological image of  $C_{10}$ -DNTT on the PI layers. The  $C_{10}$ -DNTT on our PI layers showed the formation of mixed crystals containing smooth grains observed in wide areas and sharp needle-like grains protruding on the surface with grain sizes of hundreds of nanometers, as previously reported [25,26]. To further understand the orientation of  $C_{10}$ -DNTT, 2D-GIXD measurements of these layers were taken. As shown in Figure 3b, the pattern image represents the mixed molecular orientation of  $C_{10}$ -DNTT with peaks related to face-on orientation (white asterisks) and edge-on orientation (white dotted line with 00l, 11l, 02l, and 12l peaks) [27], which is consistent with the AFM results. It was confirmed that this type of  $C_{10}$ -DNTT morphology showed suitable charge transfer for OFETs, as in previous studies [20]; therefore, it was found that our PI dielectric thin film also gave rise to an organic semiconducting shape suitable for manufacturing OFETs and integrated circuits.
+103: 
+104: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+105: (a)
+106: 
+107: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+108: (b)  
+109: Figure 3. Morphological results of  $C_{10}$ -DNTT on PI dielectrics: (a) AFM and (b) 2D-GIXD images.
+110: 
+111: The fabrication of bottom-gate top-contact OFETs was conducted according to the method described in the Materials and Methods section (Figure 4a). Manufactured OFETs operated in a saturation regime with a gate voltage  $(V_{G})$  from 20 to  $-20\mathrm{V}$  and source-drain voltage  $(V_{D})$  of  $-20\mathrm{V}$  for transfer characteristics under ambient air conditions. The electrical parameters of the devices were calculated using the following equation:
+112: 
+113: $$
+114: I _ {D} = \mu_ {F E T} C _ {i} \frac {W}{2 L} \left(V _ {G} - V _ {t h}\right) ^ {2} \tag {1}
+115: $$
+116: 
+117: where  $C_{\mathrm{i}}$  is the capacitance per unit area (measured value was  $20 \, \mathrm{nF} \, \mathrm{cm}^{-2}$  in same geometry of MIM capacitor on glass wafers),  $W / L$  is the ratio between the channel width ( $1500 \, \mu \mathrm{m}$ )
+118: 
+119: and length  $(150\mu \mathrm{m})$  equivalent to 10, and  $\mathrm{I_D}$  and  $V_{\mathrm{th}}$  are the drain current and threshold voltage of the devices, respectively.
+120: 
+121: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+122: (a)
+123: 
+124: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+125: Figure 4. (a) Schematic illustration of OFET device and electrical properties: (b) transfer, (c) output, and (d) transfer curve with bias stress test.  
+126: (b)  
+127: (c)
+128: 
+129: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+130: 
+131: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+132: (d)
+133: 
+134: Figure 4b shows the transfer and output characteristics of OFETs with PI dielectrics. According to the transfer characteristics, OFETs showed a typical  $p$ -type operation behavior with an average field-effect mobility ( $\mu_{FET}$ ) of  $4.29~\mathrm{cm}^2~\mathrm{V}^{-1}~\mathrm{s}^{-1}$ , an ON/OFF ratio of  $1.3 \times 10^{6}$ , and a  $V_{\mathrm{th}}$  of  $-1.56 \mathrm{~V}$ . In particular, the transfer curve exhibited a low hysteresis shape, indicating that, in addition to the aforementioned dipole disordered effect, there is almost no trapping phenomenon occurring at the interface between the channel and dielectric layers. In addition, the output characteristics in Figure 4c display obvious linear and saturation regions, which indicate a reliable operation of the transistors. In addition, the saturation current in the transfer curve at a  $V_{G}$  of  $-20 \mathrm{~V}$  is similar to the saturation current shown in the output curve at  $V_{G}$  of  $-20 \mathrm{~V}$ . Furthermore, the bias stress stability data suggested highly stable electrically operating features of PI dielectric-based OFETs under ambient air conditions ( $20^{\circ}\mathrm{C}$  and  $50\%$  relative humidity), as shown in Figure 4d. Indeed, the shift in  $V_{\mathrm{th}}$  during the bias stress test was less than  $1 \mathrm{~V}$  even at a driving voltage of  $20 \mathrm{~V}$ , which is comparable to the stable polymeric dielectrics reported previously [28,29].
+135: 
+136: The feasibility of our synthesized PI dielectrics for application in integrated circuits was further investigated by assembling  $p$ -type OFETs for the integration of  $p$ -type integrated logic gates [30,31]. Figure 5a illustrates the circuit diagrams and top-view OM images of the logic gates. Our NOT gates were designed by connecting two types of OFETs in series: diode-connected OFETs for load transistors and typical  $p$ -type OFETs for drive transistors. The W/L ratios of the OFETs were 2 (W:  $100\mu \mathrm{m}$ , L:  $200\mu \mathrm{m}$ ) and 20 (W:  $100\mu \mathrm{m}$ , L:  $2000\mu \mathrm{m}$ ) for the load and drive transistors, respectively. Figure 5b shows the operation behavior of our NOT gates with voltage transfer characteristics (VTC) and voltage gain curves depending on the supply biases ( $V_{DD}$ ) of 10, 15, and 20 V. According to the VTC curve, the output voltage ( $V_{OUT}$ ) was extracted as values close to  $V_{DD}$  under low input voltage ( $V_{IN}$ ) conditions and values close to zero under high  $V_{IN}$  conditions. This was induced by the typical  $p$ -type NOT gate operation [32]. A high  $V_{IN}$  bias condition creates a low current characteristic because the gate-source voltage of the driving transistor is small; therefore, the load transistor is strongly turned on. Thus,  $V_{OUT}$  is pulled down to zero. In contrast, a low  $V_{IN}$  bias condition leads to similar values between the gate and source voltages of both the drive and load transistors. In this situation, the dimension of the drive transistor's W/L ratio was significantly larger than that of the load transistor, and the  $V_{OUT}$  was pulled up toward the  $V_{DD}$ .
+137: 
+138: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+139: (a)
+140: 
+141: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+142: 
+143: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+144: Figure 5. (a) Circuit diagram and OM image of integrated devices (scale bar indicates  $2\mathrm{mm}$ ). (b) VTC and gain curve of NOT gates. (c) Output voltage values corresponding to input voltages  $\mathrm{(V_A}$  and  $\mathrm{V_B}$ ).
+145: 
+146: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+147: (b)  
+148: (c)
+149: 
+150: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+151: 
+152: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+153: 
+154: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+155: 
+156: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+157: 
+158: With this operation mechanism, the "0" and "1" signals of the bias can be named as low and high voltages, respectively. The output of the NOT gates was the opposite of the input/output conditions, such that "1" of the output voltage signal was extracted from "0" of the input voltage signal or "0" of the output voltage signal was extracted from "1" of the input voltage signal. The gain values of these NOT gates  $(\mathrm{dV_{OUT}} / \mathrm{dV_{IN}})$  were extracted from the VTC curve, showing maximum values of 0.92, 1.14, and 1.27 for 10, 15, and  $20\mathrm{V}$ , respectively. These driving results are similar to those of typical NOT gate operation, indicating that our PI-based OFETs were successfully applied to NOT gates.
+159: 
+160: More complex integrated circuit NAND and NOR gates were fabricated by one load OFET and two drive OFETs, as illustrated in Figure 5a [30]. In the case of NAND gates, two  $p$ -type drive OFETs were connected in parallel with each other. Through these manufactured NAND gates, we observed how the output signal was driven according to various logic input signals (see the NAND output signal in Figure 5c). When both of the inputs were in logic low states, such that  $V_{A}$  and  $V_{B}$  were equal to  $0\mathrm{V}$ , both of the OFETs were switched on, resulting in a direct path between  $V_{DD}$  and  $V_{OUT}$ . Therefore, the output signal was a logic high state. Similarly, the input condition when one of the inputs was logic high and the other was logic low operated one of the two transistors connected in parallel, and connected  $V_{DD}$  and  $V_{OUT}$  directly. Thus, the output signal was a logic high state. On the other hand, when both inputs were in logic high states (40 V of input bias), none of the transistors connected in parallel operated, causing ground (GND) to connect directly to  $V_{OUT}$ . Thus, the output signal of the NAND gates was a logic low state.
+161: 
+162: For the NOR gates, two  $p$ -type drive OFETs were connected in series with each other. When both of the inputs were in a logic low state of  $0\mathrm{V}$  input bias at  $\mathrm{V}_{\mathrm{A}}$  and  $\mathrm{V}_{\mathrm{B}}$ , series-connected OFETs were switched on, resulting in the creation of a direct path between  $\mathrm{V}_{\mathrm{DD}}$  and  $\mathrm{V}_{\mathrm{OUT}}$  (see the NOR output signal in Figure 5c). In this situation, the output signal would be a logic high state. On the other hand, when any of the inputs were logic high ( $\sim 40\mathrm{V}$ ), one or more drive transistors were switched off, which triggered
+163: 
+164: disconnection between  $\mathrm{V_{DD}}$  and  $\mathrm{V_{OUT}}$ . Thus, the output signal was logically low. This operation coincided with the conventional logic gate drive, which indicates that our synthesized PI-based OFETs were successfully applied to practical integrated circuits. However, the voltage level of these logic gates was relatively high ( $\sim 40\mathrm{V}$ ), and this point can be a disturbing part for the industrialization of OFETs base PI layers. However, it can be improved if device geometry is improved, such as by applying short channel devices through photolithographic processes usually used in industry and high-k insulating materials that together can maintain high capacitance values [5,33]. Considering the results, this study showed the driving stability of OFETs with PI gate insulators, which were fabricated through factory methods. Additionally, this study suggests the possibility that many types of PIs reported so far, even if they are industrially produced, can be used in device fabrication, and suggests a future direction (e.g., improving the device geometry for real industrialized device manufacturing).

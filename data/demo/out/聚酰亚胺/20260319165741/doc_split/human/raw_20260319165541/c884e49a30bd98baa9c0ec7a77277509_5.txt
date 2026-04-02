@@ -1,0 +1,72 @@
+source_file: Enhancing the Toughness of Free-Standing Polyimide Films for Advanced Electronics Applications A Study on the .md
+doc_id: c884e49a30bd98baa9c0ec7a77277509
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [199, 254]
+char_span: [32763, 44186]
+line_count: 56
+effective_body_non_empty_lines: 51
+
+lines:
+--- chunk (b0006: References) ---
+199: # References
+200: 
+201: 1. Luo, Y.; Abidian, M.R.; Ahn, J.-H.; Akinwande, D.; Andrews, A.M.; Antonietti, M.; Bao, Z.; Berggren, M.; Berkey, C.A.; Bettinger, C.J.; et al. Technology Roadmap for Flexible Sensors. ACS Nano 2023, 17, 5211-5295. [CrossRef] [PubMed]  
+202: 2. Smocot, S.; Zhang, Z.; Zhang, L.; Guo, S.; Cao, C. Printed flexible mechanical sensors. Nanoscale 2022, 14, 17134-17156. [CrossRef] [PubMed]  
+203: 3. Hassan, M.; Abbas, G.; Li, N.; Afzal, A.; Haider, Z.; Ahmed, S.; Xu, X.; Pan, C.; Peng, Z. Significance of Flexible Substrates for Wearable and Implantable Devices: Recent Advances and Perspectives. Adv. Mater. Technol. 2022, 7, 2100773. [CrossRef]  
+204: 4. Naqi, M.; Kim, B.; Kim, S.-W.; Kim, S. Pulsed Gate Switching of  $\mathrm{MoS}_2$  Field-Effect Transistor Based on Flexible Polyimide Substrate for Ultrasonic Detectors. Adv. Funct. Mater. 2021, 31, 2007389. [CrossRef]  
+205: 5. Li, W.; Xu, M.; Gao, J.; Zhang, X.; Huang, H.; Zhao, R.; Zhu, X.; Yang, Y.; Luo, L.; Chen, M.; et al. Large-Scale Ultra-Robust  $\mathrm{MoS}_2$  Patterns Directly Synthesized on Polymer Substrate for Flexible Sensing Electronics. Adv. Mater. 2023, 35, 2207447. [CrossRef]  
+206: 6. Su, C.; Liu, P.; Yue, J.; Huan, H.; Yang, Z.; Yang, K.; Guo, H.; Zhao, J. High-Transparency and Colorless Polyimide Film Prepared by Inhibiting the Formation of Chromophores. Polymers 2022, 14, 4242. [CrossRef]  
+207: 7. Fan, S.-N.; Yuan, L.-L.; Wang, L.-Z.; Jia, B.; Ma, J.-X.; Yang, H.-X.; Yang, S.-Y. Low-Temperature Curable Negative-Tone Photosensitive Polyimides: Structure and Properties. Polymers 2023, 15, 973. [CrossRef]  
+208: 8. Wan, B.; Zheng, M.-S.; Yang, X.; Dong, X.; Li, Y.; Mai, Y.-W.; Chen, G.; Zha, J.-W. Recyclability and Self-Healing of Dynamic Cross-Linked Polyimide with Mechanical/Electrical Damage. Energy Environ. Mater. 2023, 6, e12427. [CrossRef]  
+209: 9. Wu, Z.; He, J.; Yang, H.; Yang, S. Progress in Aromatic Polyimide Films for Electronic Applications: Preparation, Structure and Properties. Polymers 2022, 14, 1269. [CrossRef] [PubMed]  
+210: 10. Pan, X.-F.; Wu, B.; Gao, H.-L.; Chen, S.-M.; Zhu, Y.; Zhou, L.; Wu, H.; Yu, S.-H. Double-Layer Nacre-Inspired Polyimide-Mica Nanocomposite Films with Excellent Mechanical Stability for LEO Environmental Conditions. Adv. Mater. 2022, 34, 2105299. [CrossRef]  
+211: 11. Larin, S.V.; Nazarychev, V.M.; Dobrovskiy, A.Y.; Lyulin, A.V.; Lyulin, S.V. Structural Ordering in SWCNT-Polyimide Nanocomposites and Its Influence on Their Mechanical Properties. Polymers 2018, 10, 1245. [CrossRef]  
+212: 12. He, B.; Wang, B.; Wang, Z.; Qi, S.; Tian, G.; Wu, D. Mechanical properties of hybrid composites reinforced by carbon fiber and high-strength and high-modulus polyimide fiber. Polymer 2020, 204, 122830. [CrossRef]  
+213: 13. Susa, A.; Mordvinkin, A.; Saalwächter, K.; van der Zwaag, S.; Garcia, S.J. Identifying the Role of Primary and Secondary Interactions on the Mechanical Properties and Healing of Densely Branched Polyimides. Macromolecules 2018, 51, 8333-8345. [CrossRef] [PubMed]  
+214: 14. He, J.-J.; Yang, H.-X.; Zheng, F.; Yang, S.-Y. Dielectric Properties of Fluorinated Aromatic Polyimide Films with Rigid Polymer Backbones. Polymers 2022, 14, 649. [CrossRef] [PubMed]  
+215: 15. Choi, J.-Y.; Jin, S.-W.; Kim, D.-M.; Song, I.-H.; Nam, K.-N.; Park, H.-J.; Chung, C.-M. Enhancement of the Mechanical Properties of Polyimide Film by Microwave Irradiation. Polymers 2019, 11, 477. [CrossRef]  
+216: 16. Xu, R.; Ma, J.; Zhou, R.; Sun, H.; Xu, D.; Zeng, Z. Black phosphorus nanoflakes/polyimide composite films with excellent dielectric and mechanical properties. J. Mater. Sci. Mater. Electron. 2020, 31, 3303-3311. [CrossRef]  
+217: 17. Wang, Q.; Shi, J.; Zhang, X.; Wang, X.; Weng, L.; Yu, L.; Li, C.; Cai, H.; Jin, H.; Yang, Z. Study on mechanical and electrical properties of the copolymer of bismaleimide and hyperbranched polyimide. J. Mater. Sci. Mater. Electron. 2022, 33, 25371-25382. [CrossRef]  
+218: 18. Ding, C.; Li, R.; Yu, J.; Wang, X.; Huang, P. Synthesis of porous polyimide films with low dielectric constant and excellent mechanical properties by ambient pressure drying. J. Mater. Sci. 2022, 57, 9480-9492. [CrossRef]  
+219: 19. Lin, D.; Liu, Y.; Jia, Z.; Qi, S.; Wu, D. Structural Evolution of Macromolecular Chain During Pre-imidization Process and Its Effects on Polyimide Film Properties. J. Phys. Chem. B 2020, 124, 7969-7978. [CrossRef]
+220: 
+221: 20. Wang, Y.; Yang, Y.; Jia, Z.; Qin, J.; Gu, Y. Effect of chemical structure and preparation process on the aggregation structure and properties of polyimide film. J. Appl. Polym. Sci. 2013, 127, 4581-4587. [CrossRef]  
+222: 21. Yang, W.; Liu, F.; Zhang, J.; Zhang, E.; Qiu, X.; Ji, X. Influence of thermal treatment on the structure and mechanical properties of one aromatic BPDA-PDA polyimide fiber. Eur. Polym. J. 2017, 96, 429-442. [CrossRef]  
+223: 22. Fang, X.; Yang, Z.; Zhang, S.; Gao, L.; Ding, M. Polyimides Derived from Mellophanic Dianhydride. Macromolecules 2002, 35, 8708-8717. [CrossRef]  
+224: 23. Chou, W.-Y.; Kuo, C.-W.; Chang, C.-W.; Yeh, B.-L.; Chang, M.-H. Tuning surface properties in photosensitive polyimide. Material design for high performance organic thin-film transistors. J. Mater. Chem. 2010, 20, 5474-5480. [CrossRef]  
+225: 24. Hasegawa, M.; Fujii, M.; Ishii, J.; Yamaguchi, S.; Takezawa, E.; Kagayama, T.; Ishikawa, A. Colorless polyimides derived from 1S,2S,4R,5R-cyclohexanetetracarboxylic dianhydride, self-orientation behavior during solution casting, and their optoelectronic applications. Polymer 2014, 55, 4693-4708. [CrossRef]  
+226: 25. Hasegawa, M.; Hirano, D.; Fujii, M.; Haga, M.; Takezawa, E.; Yamaguchi, S.; Ishikawa, A.; Kagayama, T. Solution-processable colorless polyimides derived from hydrogenated pyromellitic dianhydride with controlled steric structure. J. Polym. Sci. Part A Polym. Chem. 2013, 51, 575-592. [CrossRef]  
+227: 26. Birshtein, T.M.; Zubkov, V.A.; Milevskaya, I.S.; Eskin, V.E.; Baranovskaya, I.A.; Koton, M.M.; Kudryavtzev, V.V.; Sklizkova, V.P. Flexibility of aromatic polyimides and polyamidoacids. Eur. Polym. J. 1977, 13, 375-378. [CrossRef]  
+228: 27. Varma, I.K.; Goel, R.N.; Varma, D.S. Stability of polyamic acids and polyimides. Die Angew. Makromol. Chem. 1977, 64, 101-113. [CrossRef]  
+229: 28. Miwa, T.; Numata, S. A mechanism describing polyamic acid solution viscosity change on storage at high temperature. Polymer 1989, 30, 893-896. [CrossRef]  
+230: 29. Hong, M.; Liu, W.; Gao, R.; Li, R.; Liu, Y.; Dai, X.; Kang, Y.; Qiu, X.; Pan, Y.; Ji, X. Storage Stability of 6FDA-DMB Polyamic Acid Solution Detected by Gel Permeation Chromatography Coupled with Multiple Detectors. Polymers 2023, 15, 1360. [CrossRef]  
+231: 30. Zhang, H.; Gao, Y.; Han, C.C. Understanding the viscosity decline of poly(amic acid) solution from the correlation point of view. Polymer 2020, 202, 122728. [CrossRef]  
+232: 31. Chowdhury, M.; Sheng, X.; Ziebert, F.; Yang, A.C.M.; Sepe, A.; Steiner, U.; Reiter, G. Intrinsic Stresses in Thin Glassy Polymer Films Revealed by Crack Formation. Macromolecules 2016, 49, 9060-9067. [CrossRef]  
+233: 32. Yang, Q.; Loos, K. Perpendicular Structure Formation of Block Copolymer Thin Films during Thermal Solvent Vapor Annealing: Solvent and Thickness Effects. Polymers 2017, 9, 525. [CrossRef] [PubMed]  
+234: 33. Cheng, X.; Böker, A.; Tsarkova, L. Temperature-Controlled Solvent Vapor Annealing of Thin Block Copolymer Films. Polymers 2019, 11, 1312. [CrossRef] [PubMed]  
+235: 34. Pham, T.A.; Koo, S.; Park, H.; Luong, Q.T.; Kwon, O.J.; Jang, S.; Kim, S.M.; Kim, K. Investigation on the Microscopic/Macroscopic Mechanical Properties of a Thermally Annealed Nafion® Membrane. Polymers 2021, 13, 4018. [CrossRef]  
+236: 35. Agag, T.; Koga, T.; Takeichi, T. Studies on thermal and mechanical properties of polyimide-clay nanocomposites. Polymer 2001, 42, 3399-3408. [CrossRef]  
+237: 36. Mi, Z.; Liu, Z.; Yao, J.; Wang, C.; Zhou, C.; Wang, D.; Zhou, X.; Zhou, H.; Zhang, Y.; Chen, C. Transparent and soluble polyimide films from 1,4:3,6-dianhydro-D-mannitol based dianhydride and diamines containing aromatic and semiaromatic units: Preparation, characterization, thermal and mechanical properties. Polym. Degrad. Stab. 2018, 151, 80-89. [CrossRef]  
+238: 37. Luo, L.; Zhang, J.; Huang, J.; Feng, Y.; Peng, C.; Wang, X.; Liu, X. The dominant factor for mechanical property of polyimide films containing heterocyclic moieties: In-plane orientation, crystallization, or hydrogen bonding. J. Appl. Polym. Sci. 2016, 133, 44000. [CrossRef]  
+239: 38. Yu, X.; Liang, W.; Cao, J.; Wu, D. Mixed Rigid and Flexible Component Design for High-Performance Polyimide Films. Polymers 2017, 9, 451. [CrossRef]  
+240: 39. Yi, J.; Liu, C.; Tian, Y.; Wang, K.; Liu, X.; Luo, L. Improving dimensional stability at high temperature and toughness of polyimide films via adjustable entanglement density. Polymer 2021, 218, 123488. [CrossRef]  
+241: 40. Zhang, Y.; Wang, J.; Chen, Y. Polyhedral oligosilsesquioxane-modified boron nitride enhances the mechanical properties of polyimide nanocomposites. RSC Adv. 2022, 12, 7276-7283. [CrossRef]  
+242: 41. Liu, X.; Li, Y.; Guo, W.; Sun, X.; Feng, Y.; Sun, D.; Liu, Y.; Yan, K.; Wu, Z.; Su, B.; et al. Dielectric and mechanical properties of polyimide composite films reinforced with graphene nanoribbon. Surf. Coat. Technol. 2017, 320, 497-502. [CrossRef]  
+243: 42. Jian, S.; Ding, C.; Yang, T.; Zhang, C.; Hou, H. Effect of trace diphenyl phosphate on mechanical and thermal performance of polyimide composite films. Compos. Commun. 2018, 7, 42-46. [CrossRef]  
+244: 43. Zhang, Y.; He, J.; Yang, R. Ultra-low dielectric constant and high thermal stability of low-crosslinked polyimide with zinc tetraamino phthalocyanine. J. Mater. Sci. 2022, 57, 16064-16079. [CrossRef]  
+245: 44. Yin, Q.; Hu, Y.; Qin, Y.; Cheng, Z.; Luo, L.; Liu, X. Construction of polyimide films with excellent dimensional stability and toughness via incorporating point-to-face multi-coordination structure. Compos. Part B Eng. 2021, 208, 108566. [CrossRef]  
+246: 45. Cho, K.; Lee, D.; Lee, M.S.; Park, C.E. Fracture behaviour of thin polyimide films. Polymer 1997, 38, 1615-1623. [CrossRef]  
+247: 46. Ruan, K.; Guo, Y.; Gu, J. Liquid Crystalline Polyimide Films with High Intrinsic Thermal Conductivities and Robust Toughness. Macromolecules 2021, 54, 4934-4944. [CrossRef]  
+248: 47. Fang, X.; Wang, Z.; Yang, Z.; Gao, L.; Li, Q.; Ding, M. Novel polyimides derived from  $2,3,3^{\prime},4^{\prime}$ -benzophenonetetracarboxylic dianhydride. Polymer 2003, 44, 2641-2646. [CrossRef]
+249: 
+250: 48. Li, J.; Zhang, H.; Liu, F.; Lai, J.; Qi, H.; You, X. A new series of fluorinated alicyclic-functionalized polyimides derived from natural-(D)-camphor: Synthesis, structure–properties relationships and dynamic dielectric analyses. Polymer 2013, 54, 5673–5683. [CrossRef]  
+251: 49. Hu, X.; Mu, H.; Wang, Y.; Wang, Z.; Yan, J. Colorless polyimides derived from isomeric dicyclohexyl-tetracarboxylic dianhydrides for optoelectronic applications. Polymer 2018, 134, 8-19. [CrossRef]  
+252: 50. Kim, J.W.; Lee, S.J.; Choi, M.Y.; Chang, J.-H. Colorless and Transparent Polyimide Microporous Film with Excellent Physicochemical Property. Polymers 2021, 13, 1298. [CrossRef]
+253: 
+254: Disclaimer/Publisher's Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.

@@ -1,0 +1,33 @@
+source_file: Atomic Oxygen-Resistant Polyimide Composite Films Containing Nanocaged Polyhedral Oligomeric Silsesquioxane Co.md
+doc_id: b037a535df732e8934bf61f9b9ad2a01
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [212, 230]
+char_span: [37469, 39676]
+line_count: 17
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+212: # 4. Conclusions
+213: 
+214: A series of PI composite films with POSS components in both the matrix and the fillers were designed and synthesized. This structural design reduced the AO erosion yields of the PI composite films. After an AO erosion with the fluence of  $2.51 \times 10^{21} \, \text{atom/cm}^2$ , the composite films exhibited the erosion yield as low as  $1.64 \times 10^{-26} \, \text{cm}^3/\text{atom}$ , which was ranked as one of the lowest values for the PI films reported in the literature. The good miscibility and compatibility of the POSS-substituted PI matrix and the POSS-containing additives achieved the molecular-level combination. This feature endowed composite films good uniformity, by which the active AO protection via DABA-POSS in the matrix and the
+215: 
+216: passive AO protection via TSP-POSS in the fillers achieved good synergistic effects. The main disadvantage for the PI composite films might be the deteriorated high-temperature dimensional stability due to the internal plasticization effects of the POSS components. Fortunately, the relatively mild temperature cycle in LEO space environments might provide some practical applications for the composite films developed in this study. It is foreseeable that the excellent AO resistance of the POSS-containing PI composite films might provide long-term AO protection for LEO spacecraft in the future.
+217: 
+218: Author Contributions: Conceptualization, J.-g.L.; Methodology, B.-h.W., F.-z.L. and J.-g.L.; Investigation, Y.Z., H.W. and Y.-d.G.; Data curation, Y.Z., Y.-b.Y. and Q.Y.; Writing—original draft preparation, Y.Z.; Writing—review and editing, B.-h.W. and J.-g.L.; Supervision, J.-g.L. and F.-z.L.; Funding acquisition, J.-g.L. and B.-h.W. All authors have read and agreed to the published version of the manuscript.
+219: 
+220: Funding: This work was jointly supported by the Shandong Key Research and Development Program (No. 2019JZZY020235) and Natural Nature Science Foundation of China (No. 41574101).
+221: 
+222: Institutional Review Board Statement: Not applicable.
+223: 
+224: Informed Consent Statement: Not applicable.
+225: 
+226: Data Availability Statement: Data is contained within the article.
+227: 
+228: Conflicts of Interest: The authors declare no conflict of interest.

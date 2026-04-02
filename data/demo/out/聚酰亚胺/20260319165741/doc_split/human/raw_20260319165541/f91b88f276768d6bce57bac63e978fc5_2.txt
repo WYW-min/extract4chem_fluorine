@@ -1,0 +1,21 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. I. PolyimidePolycarbonate &amp; Polyi.md
+doc_id: f91b88f276768d6bce57bac63e978fc5
+chunk_index: 2
+block_id: b0003
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Introduction
+line_span: [16, 22]
+char_span: [1609, 2739]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0003: Introduction) ---
+16: # Introduction
+17: 
+18: In recent years the technologies applied in electric energy, microelectronic and aerospace fields and working out the modern devices require the development of the new polymer materials with high elasticity and strength, thermal stability and refine ability. Such polymers could provide steady work of electric and electronic equipment. One of the contemporary directions of material investigation [1,2] is development of the special technology of material mixing in order to design blends with high operating characteristics. In this regard, creation of the polymer blends on the basis of polyimides (PI) offers several advantages because of their high thermal and radiation stability. This is due to the presence of the phenyl and imide groups in the main chain [2-5].
+19: 
+20: In this article there are experimental data of the composite polyimide materials based on tricyclodecentetracarbon acid dianhydride and oxydianiline with other thermally stable polymers (P2), such as polycarbonate (PC) and polysulphone (PS). This enables to create new modern materials for electrical engineering with nano-porous structure.

@@ -1,0 +1,84 @@
+source_file: Development and Morphological Characterization of Novel PolyimideMetal nano Hybrid Materials.md
+doc_id: afaea7d620f702d555d6b411b11aeb54
+chunk_index: 4
+block_id: b0005
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and discussions
+line_span: [75, 144]
+char_span: [13120, 23772]
+line_count: 68
+effective_body_non_empty_lines: 37
+
+lines:
+--- chunk (b0005: 3. Results and discussions) ---
+75: # 3. Results and discussions
+76: 
+77: The surface morphological changes induced on the polyimide films PI-I and PI-II after embedding of the metal nanoparticles, were investigated by means of atomic force microscopy. Using bi- and three-dimensional AFM images presented in Figures 4 and 5, two 3D roughness parameters have been estimated, namely the root mean square roughness  $(Sq)$ , which is the root mean square of the surface departures from the mean plane within the sampling area and the developed interfacial area ratio  $(Sdr)$  which is a hybrid parameter described in the literature as the increment of the actual scanned area (the area of the surface area taking into account the  $z$  height) relative to the projected area (the area of the flat  $(x,y)$  plane) [13]. Their values were introduced in Table 2.
+78: 
+79: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+80: 
+81: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+82: 
+83: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+84: 
+85: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+86: Figure 4. Bi- and three-dimensional AFM images of polyimide PI-I, before and after Cu and Ni nanoparticles were embedded. The deposition time was 40 and 600 s, respectively
+87: 
+88: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+89: 
+90: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+91: 
+92: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+93: 
+94: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+95: 
+96: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+97: Figure 5. Bi- and three-dimensional AFM images of polyimide PI-II, before and after Cu and Ni nanoparticles were embedded. The deposition time was 40 and 600 s, respectively
+98: 
+99: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+100: 
+101: According to Figures 4 and 5 and Table 2 the pristine samples PI-I and PI-II shows morphologies generally characteristic to polyimide films, slightly influenced by the glass substrate on which they were deposited, with relatively low root mean square roughness and developed interfacial area ratio. Depending on the structure of the polyimide film used as substrate, more precisely depending on the aromatic diamine that was used in the synthesis of the polyimide (DDM or MMDA), the type of the embedded nanoparticles (Cu or Ni) and the deposition time (60 or  $400\mathrm{~s}$ ), the metal-polymer nano-aggregates formed on the surface and clearly visible in Figures 4 and 5 differ in size and appearance.
+102: 
+103: Table 2. Roughness parameters and characteristics of the Cu/Ni-containing nano-aggregates  
+104: 
+105: <table><tr><td rowspan="2">Sample</td><td colspan="3">Roughness parameters</td><td colspan="5">Metal-polymer nano-aggregates characteristics</td></tr><tr><td>Sq(nm)</td><td>Sdr(%)</td><td>dmin(nm)</td><td>dmax(nm)</td><td>P(nm)</td><td>A(nm2)</td><td>felong</td><td>fshape</td></tr><tr><td>PI-I</td><td>4.9</td><td>1.08</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>PI-I/Cu/40s</td><td>31.4</td><td>2.67</td><td>143±2</td><td>299±41</td><td>921±28</td><td>43200±6780</td><td>0.48±0.06</td><td>0.60±0.05</td></tr><tr><td>PI-I/Cu/600s</td><td>23.3</td><td>13.54</td><td>128±15</td><td>291±24</td><td>823±55</td><td>37600±7640</td><td>0.45±0.02</td><td>0.68±0.04</td></tr><tr><td>PI-I/Ni/40s</td><td>8.5</td><td>0.85</td><td>146±13</td><td>272±41</td><td>872±180</td><td>40300±9760</td><td>0.52±0.03</td><td>0.56±0.11</td></tr><tr><td>PI-I/Ni/600s</td><td>22.8</td><td>12.42</td><td>99±3</td><td>169±11</td><td>489±27</td><td>16850±1060</td><td>0.62±0.04</td><td>0.86±0.04</td></tr><tr><td>PI-II</td><td>0.8</td><td>0.09</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>PI-II/Cu/40s</td><td>2.2</td><td>0.37</td><td>67±2</td><td>151±8</td><td>382±14</td><td>10150±220</td><td>0.42±0.03</td><td>0.79±0.04</td></tr><tr><td>PIII/Cu/600s</td><td>29.5</td><td>26.48</td><td>83±2</td><td>148±4</td><td>421±14</td><td>12100±280</td><td>0.57±0.01</td><td>0.83±0.03</td></tr><tr><td>PI-II/Ni/40s</td><td>5.0</td><td>2.77</td><td>54±1</td><td>112±7</td><td>274±1</td><td>6150±540</td><td>0.47±0.02</td><td>1.03±0.09</td></tr><tr><td>PI-II/Ni/600s</td><td>87.2</td><td>9.95</td><td>612±61</td><td>1065±71</td><td>3715±319</td><td>654000±10889</td><td>0.59±0.02</td><td>0.55±0.01</td></tr><tr><td>Sq</td><td colspan="8">- root mean square roughness</td></tr><tr><td>Sdr</td><td colspan="8">- developed interfacial area ratio</td></tr><tr><td>dmin</td><td colspan="8">- minimum Feret diameter</td></tr><tr><td>dmax</td><td colspan="8">- maximum Feret diameter</td></tr><tr><td>A</td><td colspan="8">- particle area</td></tr><tr><td>P</td><td colspan="8">- particle perimeter</td></tr><tr><td>felong</td><td colspan="8">- elongation factor</td></tr><tr><td>fshape</td><td colspan="8">- shape factor</td></tr></table>
+106: 
+107: The calculations of the shape parameters, namely the elongation factor,  $f_{elong}$ , and the shape factor,  $f_{shape}$ , (displayed in Table 2) were performed on nano-aggregates considered representative for the entire investigated surface. Thus, the average value and standard deviation were presented for each characteristic. The elongation factor was calculated using the equation (1):
+108: 
+109: $$
+110: f _ {e l o n g} = \frac {d _ {\min}}{d _ {\max}} \tag {1}
+111: $$
+112: 
+113: where  $d_{\min}$  is the minimum Feret diameter of the nano-aggregate and  $d_{\max}$  is the maximum Feret diameter of the nano-aggregate. Also the shape factor was obtained using the equation (2):
+114: 
+115: $$
+116: f _ {\text {s h a p e}} = \frac {4 \pi A}{1 . 0 6 4 P ^ {2}} \tag {2}
+117: $$
+118: 
+119: where  $A$  is the nano-aggregate area and  $P$  is the nano-aggregate perimeter. The perimeter was corrected for the effects produced by the image digitization, by using the factor 1.064 [14,15].
+120: 
+121: Thus, when PI-I containing  $4,4^{\prime}$ -diaminodiphenylmethane was used as substrate for Cu deposition by irradiating the target for 40 seconds, on the surface of the polyimide the resulted Cu layer was uneven, fact reflected by the very large value of  $Sq$ , namely  $31.4~\mathrm{nm}$  (Table 2). Still the complexity of the surface described by the Sdr value of  $2.67\%$  was moderate. The Cu-polymer nano-aggregates were hardly observable individually. As the deposition time was increased at 600 seconds, the deposited layer was uniformized,  $Sq$  significantly decreasing till  $23~\mathrm{nm}$ . The increasing complexity of the surface, reflected by a large value of the Sdr  $(13.54\%)$  was determined by the metal-polymer nano-aggregates with small diameters, as seen in Table 2, but more well-defined, as observed in Figure 5. The trend was quite different in case of Ni deposition. For the irradiating time of 40 seconds of course the roughness was higher than that obtained for the pristine sample, PI-I, but significantly lower than that calculated for the
+122: 
+123: 600 seconds deposition time. The deposited metallic layers seem to follow the initial relief of the polymeric substrate. As in the case of Cu deposition, the higher was the deposition time, the smaller were the aggregate sizes (Table 2) and higher the surface complexity ( $Sdr$ ).
+124: 
+125: PI-II containing  $3,3^{\prime}$ -dimethyl-4,4'-diaminodiphenylmethane behave differently when it was used as substrate for  $\mathrm{Cu}$  and  $\mathrm{Ni}$  deposition. Initially, at low deposition time, the metallic-polyimide nano-aggregates were smaller, causing a lower roughness (2.2 nm and 5.0 nm, respectively) and small developed interfacial area ratio (0.37 % and 2.77 %, respectively). When the deposition time was 600 seconds the roughness increases significantly. The bigger formed  $\mathrm{Cu}$ -polyimide nano-aggregates were well-defined and uniformly distributed over the surface, thus increasing the complexity of the morphology ( $Sdr = 26.48\%$ ) (Table 2). For PI-II/Ni/600s, a spectacular phenomenon happens, the aggregates reaching even up to 1  $\mu$ m in diameter, although the topography is relatively simple ( $Sdr = 9.95\%$ ).
+126: 
+127: The elongation factor, which depicts the elongation level of the metal-polymer nano-aggregates, independently of the contour, was lower than 1 for all the samples (Table 2), describing an elliptical form of the features. Also, the vast majority of samples have a shape factor lower than 1 (Table 2), indicating that the formations have irregular contour. The exception seems to be PI-II/Ni/40s sample, who has  $f_{shape} = 1.03 \pm 0.09$ , and implicitly a smooth circumference of the aggregates. It should be remembered that in this case, their dimensions were the smallest.
+128: 
+129: Analyzing all the AFM data, one can conclude that, from the nano-aggregates distribution point of view, the best results for the targeted applications were obtained when Cu layer was deposed for 600 seconds on both DDM-based and MMDA-based polyimide substrate.
+130: 
+131: Taking into account the previous discussions, forwards the images acquired through scanning electron microscopy and EDX analysis were performed only on the samples with Cu or Ni layer deposited for  $600\mathrm{~s}$  on both polyimide substrates (Figure 6), in order to identify the actual presence of Cu or Ni nanoparticles.
+132: 
+133: The SEM images highlighted the overall view of the resulted metal surface, indicating uniform distributions of the Cu or Ni, which follows the initial relief of the polyimide. The chemical structure of the polyimide essentially influenced the mechanism through which the metallic nanoparticles bind to the support. The thickness of the metal layer resulting from the laser ablation process was of about  $90\mathrm{nm}$  (estimated using FIB- Focused Ion Beam technique).
+134: 
+135: The EDX analysis, taken in three different regions for each sample, confirms that all the samples consist of only Cu or Ni (depending on the deposed metal), C and O (all results were in atomic %). Therefore, the purity of all nano-aggregates is high without any trace of other impurities. From these data we can also establish that, in the same experimental conditions, PI-I sample present a higher affinity for Ni, and PI-II for Cu.
+136: 
+137: The obtained features of these polyimide/metal nano hybrid materials can be employed as an indicator of the possibility of using them for potential applications as conductive circuits or substrates for adhesion control.
+138: 
+139: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+140: 
+141: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+142: Figure 6. SEM images and EDX spectra of polyimides PI-I and PI-II, after Cu and Ni nanoparticles were embedded. The deposition time was  $600\mathrm{~s}$

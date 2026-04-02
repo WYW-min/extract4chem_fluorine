@@ -1,0 +1,67 @@
+source_file: Electrospun Benzimidazole-Based Polyimide Membrane for Supercapacitor Applications.md
+doc_id: 1171361bf6f0c030dc16dcd02b68d6d6
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Electrospun Benzimidazole-Based Polyimide Membrane for Supercapacitor Applications
+line_span: [1, 53]
+char_span: [0, 3640]
+line_count: 51
+effective_body_non_empty_lines: 29
+
+lines:
+--- chunk (b0001: Electrospun Benzimidazole-Based Polyimide Membrane for Supercapacitor Applications) ---
+1: [MINERU_DISCARDED_META]
+2: membranes
+3: MDPI
+4: Membranes 2022, 12, 961. https://doi.org/10.3390/membranes12100961
+5: https://www.mdpi.com/journal/membranes
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Electrospun Benzimidazole-Based Polyimide Membrane for Supercapacitor Applications
+11: 
+12: Yu-Hsiang Lu  $^{1}$ , Yen-Zen Wang  $^{1, *}$ , Ming-Ying Tsai  $^{2}$ , Hong-Ping Lin  $^{2}$  and Chun-Han Hsu  $^{3, *}$
+13: 
+14: $^{1}$  Department of Chemical and Materials Engineering, National Yunlin University of Science and Technology, No. 123, Sec. 3, University Road, Douliou 64002, Taiwan  
+15: $^{2}$  Department of Chemistry, National Cheng Kung University, No. 1 University Road, Tainan City 70101, Taiwan  
+16: 3 General Education Center, National Tainan Junior College of Nursing, No. 78, Sec. 2, Minzu Road, Tainan City 700, Taiwan  
+17: * Correspondence: wangzen@yuntech.edu.tw (Y.-Z.W.); chhsu@ntin.edu.tw (C.-H.H.)
+18: 
+19: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+20: 
+21: Citation: Lu, Y.-H.; Wang, Y.-Z.; Tsai, M.-Y.; Lin, H.-P.; Hsu, C.-H.
+22: 
+23: Electrospun Benzimidazole-Based
+24: 
+25: Polyimide Membrane for
+26: 
+27: Supercapacitor Applications.
+28: 
+29: Membranes 2022, 12, 961.
+30: 
+31: https://doi.org/10.3390/
+32: 
+33: membranes12100961
+34: 
+35: Academic Editor: Scott M. Husson
+36: 
+37: Received: 3 September 2022
+38: 
+39: Accepted: 26 September 2022
+40: 
+41: Published: 30 September 2022
+42: 
+43: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+44: 
+45: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+46: 
+47: Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+48: 
+49: Abstract: A benzimidazole-containing diamine monomer was prepared via a simple one-step synthesis process. A two-step procedure involving polycondensation in the presence of aromatic dianhydrides  $(4,4^{\prime}$  -oxydiphthalic anhydride, ODPA) followed by thermal imidization was then performed to prepare a benzimidazole-based polyimide (BI-PI). BI-PI membranes were fabricated using an electrospinning technique and were hot pressed for  $30\mathrm{min}$  at  $200^{\circ}\mathrm{C}$  under a pressure of  $50\mathrm{kgf / cm}^2$  Finally, the hot-pressed membranes were assembled into supercapacitors, utilizing high-porosityactivated water chestnut shell biochar as the active material. The TGA results showed that the BI-PI polymer produced in the two-step synthesis process had a high thermal stability  $\left(\mathrm{T_{d}5\% = 527^{\circ}C}\right)$  Moreover, the hot-press process reduced the pore size in the BI-PI membrane and improved the pore-size uniformity. The hot-press procedure additionally improved the mechanical properties of the BI-PI membrane, resulting in a high tensile modulus of  $783\mathrm{MPa}$  and a tensile strength of  $34.8\mathrm{MPa}$  The cyclic voltammetry test results showed that the membrane had a specific capacitance of  $121\mathrm{F / g}$  and a capacitance retention of  $77\%$  . By contrast, a commercial cellulose separator showed a specific capacitance value of  $107\mathrm{F / g}$  and a capacitance retention of  $49\%$  under the same scanning conditions. Finally, the membrane showed both a small equivalent series resistance  $(\mathbb{R}_s)$  and a small interfacial resistance  $(\mathbb{R}_{\mathrm{ct}})$  . Overall, the results showed that the BI-PI membrane has significant potential as a separator for high-performance supercapacitor applications.
+50: 
+51: Keywords: supercapacitor; separator; polyimide; electrospin; benzimidazole

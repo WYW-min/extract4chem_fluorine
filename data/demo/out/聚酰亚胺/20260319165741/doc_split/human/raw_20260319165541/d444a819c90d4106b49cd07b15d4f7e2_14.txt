@@ -1,0 +1,72 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 14
+block_id: b0015
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [276, 331]
+char_span: [43092, 48561]
+line_count: 56
+effective_body_non_empty_lines: 52
+
+lines:
+--- chunk (b0015: References) ---
+276: # References
+277: 
+278: 1. Liaw, D.-J.; Liaw, B.-Y. Macromol. Chem. Phys. 1998, 199, 1473-1478.  
+279: 2. Imai, Y.; Itoya, K.; Kanamaru, M.; Kakimoto, M.-A. J. Polym. Sci. Part A: Polym. Chem. 2002, 40, 1790-1795.  
+280: 3. Matsumoto, N.; Hiruma, H.; Nagaoka, S.; Fujiyama, K.; Kaneko, A.; Kawakami, H. Polym. Adv. Technol. 2008, 19, 1002-1008.  
+281: 4. Meador, M. A. B.; Malow, E. J.; Silva, R.; Wright, S.; Quade, D.; Vivod, S. L.; Guo, H.; Guo, J.; Cakmak, M. ACS Appl. Mater. Interfaces 2012, 4, 536-544.  
+282: 5. Wu, W.; Wang, K.; Zhan, M.-S. Ind. Eng. Chem. Res. 2012, 51, 12821-12826.  
+283: 6. Chou, W.-Y.; Chang, M.-H.; Cheng, H.-L.; Lee, Y.-C.; Chang, C.-C.; Sheu, H.-S. J. Phys. Chem. C. 2012, 116, 8619-8626.  
+284: 7. Ribeiro, C. P.; Freeman, B. D.; Kalika, D. S.; Kalakkunnath, S. J. Membr. Sci. 2012, 390-391, 182-193.  
+285: 8. Yoonessi, M.; Shi, Y.; Scheiman, D. A.; Lebron-Colon, M.; Ti-gelaar, D. M.; Weiss, R. A.; Meador, M. A. ACS Nano 2012, 6, 7644-7655.  
+286: 9. Battirola, L. C.; Gasparotto, L. H. S.; Rodrigues-Filho, U. P.; Tremiliosi-Filho, G. Membranes 2012, 2, 430-439.  
+287: 10. Gong, G.; Wu, J.; Liu, J.; Sun, N.; Zhao, Y.; Jiang, L. J. Mater. Chem. 2012, 22, 8257-8262.  
+288: 11. Chu, S.; Wang, Y.; Guo, Y.; Zhou, P.; Yu, H.; Luo, L.; Kong, F.; Zou, Z. J. Mater. Chem. 2012, 22, 15519-15521.  
+289: 12. Mansoori, Y.; Fathollahi, K.; Reza, Z. M.; Imanzadeh, G. Polym. Comps. 2011, 32, 1862-1873.  
+290: 13. Mansoori, Y.; Sanaei, S.; Zamanloo, M.-R.; Imanzadeh, G.; Atghia, S. Bull. Mater. Sci. 2013, 36, 789-798.  
+291: 14. Burnside, S. D.; Gianielis, E. P. Chem. Mater. 1995, 7, 1597-1600.  
+292: 15. Vaia, R. A.; Vasudevan, S.; Krawiec, W.; Scanlon, L. G.; Giannelis, E. P. Adv. Mater. 1995, 7, 154-156.  
+293: 16. Gilman, J. W.; Jackson, C. L.; Morgan, A. B.; Harris, R.; Manias, E.; Giannelis, E. P.; Wuthenow, M.; Hilton, D.; Phillips, S. H. Chem. Mater. 2000, 12, 1866-1873.  
+294: 17. Yeh, J.-M.; Liou, S.-J.; Chang, Y.-W. J. Appl. Polym. Sci. 2004, 91, 3489-3496.  
+295: 18. Long, B.; Wang, C.-A.; Lin, W.; Huang, Y.; Sun, J. Compos. Sci. Technol. 2007, 67, 2770-2774.  
+296: 19. hong, Y.; Janes, D.; Zheng, Y.; Hetzer, M.; De Kee, D. Polym. Eng. Sci. 2007, 47, 1101-1107.  
+297: 20. Mansoori, Y.; Atghia, S. V.; Zamanloo, M. R.; Imanzadeh, G.; Sirousazar, M. Eur. Polym. J. 2010, 46, 1844-1853.  
+298: 21. Mansoori, Y.; Atghia, S. V.; Sanaei, S. S.; Zamanloo, M. R.; Gh, I. Macromol. Res. 2010, 18, 1174-1181.  
+299: 22. Yeum, J. H. Polym-Plast. Technol. Eng. 2011, 50, 1149-1154.  
+300: 23. Sinha Ray, S.; Okamoto, M. Prog. Polym. Sci. 2003, 28, 1539-1641.  
+301: 24. Ju, C. H.; Kim, J.-C.; Chang, J.-H. J. Appl. Polym. Sci. 2007, 106, 4192-4201.  
+302: 25. Wang, H.-W.; Dong, R.-X.; Liu, C.-L.; Chang, H.-Y. J. Appl. Polym. Sci. 2007, 104, 318-324.  
+303: 26. Yudin, V. E.; Otaigbe, J. U.; Gladchenko, S.; Olson, B. G.; Nazarenko, S.; Korytkova, E. N.; Gusarov, V. V. Polymer 2007, 48, 1306-1315.  
+304: 27. Huang, C.-C.; Jang, G.-W.; Chang, K.-C.; Hung, W.-I.; Yeh, J.-M. Polym. Intl. 2008, 57, 605-611.  
+305: 28. Voevodin, A. A.; O'Neil, J. P.; Zabinski, J. S. Surf. Coat. Technol. 1999, 116-119, 36-45.  
+306: 29. Ringwald, S. C.; Pemberton, J. E. Enviro. Sci. Technol. 1999, 34, 259-265.  
+307: 30. Yokoyama, R.; Suzuki, S.; Shirai, K.; Yamauchi, T.; Tsubokawa, N.; Tsuchimochi, M. Eur. Polym. J. 2006, 42, 3221-3229.  
+308: 31. Liaw, D.-J.; Liaw, B.-Y.; Li, L.-J.; Sillion, B.; Mercier, R.; Thiria, R.; Sekiguchi, H. Chem. Mater. 1998, 10, 734-739.
+309: 
+310: 32. Yeh, J.-M.; Chen, C.-L.; Kuo, T.-H.; Su, W.-F.; Huang, H.-Y.; Liaw, D.-J.; Lu, H.-Y.; Liu, C.-F.; Yu, Y.-H. J. Appl. Polym. Sci. 2004, 92, 1072-1079.  
+311: 33. Liang, Z.-M.; Yin, J.; Xu, H.-J. Polymer 2003, 44, 1391-1399.  
+312: 34. Chen, C.; Langat, J.; Raghavan, D. Polym. Adv. Technol. 2012, 23, 1287-1296.  
+313: 35. Yousfi, M.; Soulestin, J.; Vergnes, B.; Lacrampe, M. F.; Krawczak, P. J. Appl. Polym. Sci. 2013, 128, 2766-2778.  
+314: 36. Sheng, F.; Tang, X.-Z.; Zhang, S.; Ding, X.; Yu, Z.-Z.; Qiu, Z. Polym. Adv. Technol. 2012, 23, 137-142.  
+315: 37. Abdallah, W.; Yilmazer, U. J. Appl. Polym. Sci. 2013, 127, 772-783.  
+316: 38. Tyan, H.-L.; Wei, K.-H.; Hsieh, T.-E. J. Polym. Sci. Part B: Polym. Phys. 2000, 38, 2873-2878.  
+317: 39. Ding, J.; Day, M.; Robertson, G.; Roovers, J. Macromolecules 2002, 35, 3474-3483.  
+318: 40. Souza, F. G.; Sena, M. E.; Soares, B. G. J. Appl. Polym. Sci. 2004, 93, 1631-1637.  
+319: 41. Kizhnyaev, V. N.; Pokatilov, A. F.; Vereshchagin, L. I.; Adamova, L. V.; Safronov, A. P.; Smirnov, A. I. Russ. J. Appl. Chem. 2006, 79, 1167-1173.  
+320: 42. Chiang, P.-C.; Whang, W.-T. Polymer 2003, 44, 2249-2254.
+321: 
+322: 43. Mansoori, Y.; Shah Sanaei, S.; Atghia, S. V.; Zamanloo, M. R.; Imanzadeh, G. Chin. J. Polym. Sci. 2011, 29, 699-711.  
+323: 44. Mansoori, Y.; Kohi-Zargar, B.; Shekaari, H.; Zamanloo, M. R.; Imanzadeh, G. Polym. Bull. 2012, 68, 113-139.  
+324: 45. Yagoub Mansoori; Somayeh Shah Sanaei; Mohammad-Reza Zamanloo; Gholamhassan Imanzadeh; Atghia, S. V. Bull. Mater. Sci. 2013, 36, 789-798.  
+325: 46. Palekar, V. S.; Damle, A. J.; Shukla, S. R. Eur. J Med. Chem. 2009, 44, 5112-5116.  
+326: 47. Wang S.-F., Lin M.-L., Shieh Y.-N., Wang Y.-R., Wang S.-J., Ceram. Intl. 2007, 33, 681-685.  
+327: 48. Gu, A.; Kuo, S.-W.; Chang, F.-C. J. Appl. Polym. Sci. 2001, 79, 1902-1910.  
+328: 49. Le, N. L.; Wang, Y.; Chung, T.-S. J. Membr. Sci. 2012, 415-416, 109-121.  
+329: 50. Zidelkheir, B.; Abdelgoad, M. J. Therm. Anal. Calorim. 2008, 94, 181-187.  
+330: 51. Delozier, D. M.; Orwoll, R. A.; Cahoon, J. F.; Johnston, N. J.; Smith Jr, J. G.; Connell, J. W. Polymer 2002, 43, 813-822.  
+331: 52. Santiago, F.; Mucientes, A. E.; Osorio, M.; Rivera, C. Eur Polym. J. 2007, 43, 1-9.

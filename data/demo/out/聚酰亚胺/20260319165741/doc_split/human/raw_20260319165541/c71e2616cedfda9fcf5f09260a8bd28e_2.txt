@@ -1,0 +1,31 @@
+source_file: Carborane-Containing Aromatic Polyimide Films with Ultrahigh Thermo-Oxidative Stability.md
+doc_id: c71e2616cedfda9fcf5f09260a8bd28e
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [39, 55]
+char_span: [6219, 10948]
+line_count: 15
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+39: # 2. Materials and Methods
+40: 
+41: # 2.1. Materials
+42: 
+43: $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride (s-BPDA),  $4,4^{\prime}$ -diaminodiphenyl ether  $(4,4^{\prime}$ -ODA), and 1,4-benzenediamine (PDA) were obtained from Changzhou Sunlight Pharmaceutical Co., Ltd. (Changzhou, China), and dried in a vacuum at  $160^{\circ}\mathrm{C}$ ,  $80^{\circ}\mathrm{C}$ ,  $80^{\circ}\mathrm{C}$  for  $12\mathrm{h}$  before use, respectively. The 1,7-bis(aminophenyl)-meta-carborane (BACB) was synthesized in our lab, and the details are shown in Scheme S1 in Supporting Information. N-methyl-2-pyrrolidinone (NMP) was purchased from J&K Scientific Co. Ltd. (Beijing, China), then distilled under reduced pressure with  $\mathrm{CaH_2}$  and stored with  $4\AA$  molecular sieves before use. Other solvents and reagents were directly used without further purification.
+44: 
+45: # 2.2. Synthesis of the Carborane-Containing Polyimide Films
+46: 
+47: According to previous research,  $\mathrm{n(PDA) / n(4,4^{\prime} - ODA)} = 7 / 3$  was the optimal molar ratio for thermal stability and mechanical property of the PI film to be in equilibrium [38]. Thus, the molar ratio of PDA and  $4,4^{\prime}$ -ODA was kept at 7/3 for all PI systems in this research. A typical polymerization process of CPI-20 was prepared in the following procedure: in a dried three-necked flask, equipped with an electric agitation, nitrogen gas inlet and outlet, PDA (1.8168 g, 16.8 mmol),  $4,4^{\prime}$ -ODA (1.4417 g, 7.2 mmol), BACB (1.9586 g, 6 mmol), and part of anhydrous NMP (32 mL) were added. The mixture was stirred at room temperature until the diamine was completely dissolved, then an equimolar amount of dianhydride s-BPDA (8.8266 g, 30 mmol) and residual NMP (10 mL) were added into the solution to adjust the solid content to approximately 25 wt.% The mixture was continuously stirred at room temperature in  $\mathbf{N}_2$  atmosphere for a further  $48\mathrm{h}$  to get a homogeneous poly(amic acid) (PAA) solution. Then the viscous PAA solution was filtrated by G1 sand cored funnel and degassed under vacuum for  $2\mathrm{h}$  in order to prepare a defect-free film. Subsequently, the PAA solution was coated onto a pre-cleaned glass plate and thermally imidized according to the following schedule:  $120^{\circ}\mathrm{C}/2\mathrm{h}$ ,  $200^{\circ}\mathrm{C}/1\mathrm{h}$ ,  $300^{\circ}\mathrm{C}/1\mathrm{h}$ ,  $400^{\circ}\mathrm{C}/0.5\mathrm{h}$  with a heating rate of  $2^{\circ}\mathrm{C}\min^{-1}$  to prepare the self-supporting
+48: 
+49: films. As a consequence, reddish-brown CPI films with a thickness of about  $50~\mu \mathrm{m}$  were obtained. This series of CPI films were named as CPI- $x$ , in which  $x$  represents the molar ratio of BACB. As a comparison, CPI-0 was based on s-BPDA, 4,4'-ODA, and PDA without any BACB, and its preparation and imidization processes were the same as above.
+50: 
+51: # 2.3. Characterization and Measurements
+52: 
+53: FT-IR spectra were measured in the range of  $400 - 4000\mathrm{cm}^{-1}$  on a Tensor-27 Fourier transform spectrophotometer (Bruker, Germany).  ${}^{1}\mathrm{H}$  NMR spectra of PAA resins were acquired on a  $400\mathrm{MHz}$  Avance 400 spectrometer (Bruker, Germany) in deuterated dimethyl sulfoxide (DMSO- $d_6$ ). The elemental analysis of PAA resins was carried out with a Varlo ELIII elemental (Elementar, Langenselbold, Germany). The mechanical properties were conducted on an Instron 5567 universal testing machine (Instron, Norwood, MA, USA) with a specimen size of  $80\times 10\times 0.05\mathrm{mm}^3$  in agreement with GB1447-2005 at a drawing rate of  $2.0\mathrm{mm}\mathrm{min}^{-1}$ . Dynamic mechanical analyses were performed on a DMA Q800 thermal analysis system (TA, USA) with a heating rate of  $5^{\circ}\mathrm{C}\mathrm{min}^{-1}$  under nitrogen atmosphere at a flow rate of  $40\mathrm{cm}^3\mathrm{min}^{-1}$ . Thermogravimetric analyses were recorded on a TGA Q50 thermal analysis system (TA, USA) with a heating rate of  $20^{\circ}\mathrm{C}\mathrm{min}^{-1}$  under both nitrogen and air atmosphere at a flow rate of  $40\mathrm{cm}^3\mathrm{min}^{-1}$ . Thermo-oxidative aging was also carried out on a TGA Q50 thermogravimetric analyzer with a heating rate of  $50^{\circ}\mathrm{C}\mathrm{min}^{-1}$  ramping from 50 to  $700^{\circ}\mathrm{C}$  and isothermal aging in air at  $700^{\circ}\mathrm{C}$  for  $150\mathrm{min}$ . Surface chemistry of CPI samples and PAA resins were investigated by X-ray photoelectron spectroscopy (XPS, VG ESCALab 250Xi, USA) using 200 W monochromatic Al Kα radiation. Surfaces morphologies of the PI films were imaged by scanning electron microscopy (SEM, Hitachi S-4800, Tokyo, Japan) at  $15\mathrm{kV}$  voltage.

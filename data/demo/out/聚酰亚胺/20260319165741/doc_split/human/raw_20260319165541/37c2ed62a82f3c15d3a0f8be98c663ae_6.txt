@@ -1,0 +1,31 @@
+source_file: Formation of Nano-Fibrous Patterns on Aluminum Substrates via Photolithographic Fabrication of Electrospun Pho.md
+doc_id: 37c2ed62a82f3c15d3a0f8be98c663ae
+chunk_index: 6
+block_id: b0007
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [268, 284]
+char_span: [48744, 50609]
+line_count: 15
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0007: 4. Conclusions) ---
+268: # 4. Conclusions
+269: 
+270: A new methodology for forming fine patterns on metal substrates via the standard photolithography procedure using the solvent-free photosensitive PI NFMs as the starting materials was proposed and performed. Clear negative patterns were successfully fabricated on aluminum substrates from the electrospun auto-sensitive PSPI NFMs derived from BTDA, TMMDA, and the TSN monomers. The incorporation of TSN components into the pristine PI-1 (BTDA-TMMDA) increased the  $T_{\mathrm{g}}$  and high-temperature dimensional stability of the copolymers. The electrospun PI NMFs showed good sensitivity to the emitting wavelength of high-pressure mercury lamps. The porous SPI-4 NFM patterns showed a thickness of around  $15~{\mu\mathrm{m}}$  and fine profiles at the line width of around  $100~{\mu\mathrm{m}}$ . Good comprehensive properties of the developed PI NFM patterns might be good candidates for advanced absorption, filtration, wearable display, high-frequency telecommunication, and other high-tech applications.
+271: 
+272: Author Contributions: Conceptualization, J.-g.L.; methodology, Z.-b.H., S.-q.Y. and J.-g.L.; investigation, Y.-s.G. and X.R.; data curation, X.-z.D., Z.-z.W., Z.P., Y.Z. and X.-x.Z.; writing—original draft preparation, Y.-s.G.; writing—review and editing, J.-g.L.; supervision, J.-g.L.; funding acquisition, S.-q.Y. and J.-g.L. All authors have read and agreed to the published version of the manuscript.
+273: 
+274: Funding: This work was supported by the Shenzhen Science and Technology Program (No. JSGG202 10629144539012) and the Shandong Key Research and Development Program (No. 2019JZZY020235).
+275: 
+276: Institutional Review Board Statement: Not applicable.
+277: 
+278: Informed Consent Statement: Not applicable.
+279: 
+280: Data Availability Statement: Data are contained within the article.
+281: 
+282: Conflicts of Interest: The authors declare no conflict of interest.

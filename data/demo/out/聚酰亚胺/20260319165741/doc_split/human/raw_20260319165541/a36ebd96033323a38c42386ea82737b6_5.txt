@@ -1,0 +1,66 @@
+source_file: A Study on the Interfacial Compatibility, Microstructure and Physico-Chemical Properties of PolyimideOrganical.md
+doc_id: a36ebd96033323a38c42386ea82737b6
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [167, 216]
+char_span: [30747, 40378]
+line_count: 50
+effective_body_non_empty_lines: 47
+
+lines:
+--- chunk (b0006: References) ---
+167: # References
+168: 
+169: 1. Moon, K.H.; Chae, B.; Kim, K.S.; Lee, S.W.; Jung, Y.M. Preparation and Characterization of Transparent Polyimide-Silica Composite Films Using Polyimide with Carboxylic Acid Groups. Polymers 2019, 11, 489. [CrossRef]  
+170: 2. Miki, M.; Horiuchi, H.; Yamada, Y. Synthesis and Gas Transport Properties of Hyperbranched Polyimide-Silica Hybrid/Composite Membranes. Polymers 2013, 5, 1362-1379. [CrossRef]  
+171: 3. Ghosh, M.K.; Mittal, K.L. Polyimides: Fundamentals and Applications; Marcel Dekker: New York, NY, USA, 1996.  
+172: 4. Lv, P.; Dong, Z.; Dai, X.; Qiu, X. Flexible Polydimethylsiloxane-Based Porous Polyimide Films with an Ultralow Dielectric Constant and Remarkable Water Resistance. ACS Appl. Polym. Mater. 2019, 1, 2597-2605. [CrossRef]  
+173: 5. Hirt, R. Polyimides: Materials, chemistry and characterization. In Proceedings of the Third International Conference on Polyimides, Ellenville, NY, USA, 2-4 November 1988; Von Feger, H.G., Khojasteh, M.M., Mcgrath, J.E., Eds.; Elsevier: Amsterdam, The Netherlands; New York, NY, USA; Oxford, UK; Tokyo, Japan, 1988.  
+174: 6. Lee, J.-K.; Char, K.; Rhee, H.-W.; Ro, H.W.; Yoo, D.Y.; Yoon, D.Y. Synthetic control of molecular weight and microstructure of processible poly(methylsilsesquioxane)s for low-dielectric thin film applications. Polymer 2001, 42, 9085-9089. [CrossRef]  
+175: 7. Zou, H.; Wu, S.; Shen, J. Polymer/Silica Nanocomposites: Preparation, Characterization, Properties, and Applications. Chem. Rev. 2008, 108, 3893-3957. [CrossRef]  
+176: 8. Pethrick, R.A. Polymer Materials for Electronic Applications; ACS Symposium Series 184; Feit, E.D., Wilkins, C., Jr., Eds.; American Chemical Society: Washington, DC, USA, 1982; p. 246.  
+177: 9. Li, P.; Yu, J.; Jiang, S.; Fang, H.; Liu, K.; Hou, H. Dielectric, mechanical and thermal properties of all-organic PI/PSF composite films by in situ polymerization. e-Polymers 2020, 20, 226-232. [CrossRef]  
+178: 10. Ha, C.-S.; Mathews, A.S.; Woo, H.-G.; Li, H. Polyimides and High Performance Organic Polymers. In Advanced Functional Materials; Springer: Berlin/Heidelberg, Germany, 2011; pp. 1-36. [CrossRef]  
+179: 11. Shin, H.I.; Chang, J.-H. Transparent Polyimide/Organoclay Nanocomposite Films Containing Different Diamine Monomers. Polymers 2020, 12, 135. [CrossRef] [PubMed]  
+180: 12. Kioul, A.; Mascia, L. Compatibility of Polyimide-Silicate Ceramers Induced by Alkoysilane Silane Coupling Agents. J. Non-Crystalline Solids 1994, 175, 169-186. [CrossRef]  
+181: 13. Romero, A.I.; Parentis, M.L.; Habert, A.C.; Gonzo, E.E. Synthesis of polyetherimide/silica hybrid membranes by the sol-gel process: Influence of the reaction conditions on the membrane properties. J. Mater. Sci. 2011, 46, 4701-4709. [CrossRef]  
+182: 14. Boroglu, M.S.; Gurkaynak, M.A. The preparation of novel silica modified polyimide membranes: Synthesis, characterization, and gas separation properties. Polym. Adv. Technol. 2011, 22, 545-553. [CrossRef]  
+183: 15. Suzuki, T.; Yamada, Y.; Sakai, J. Gas Transport Properties of ODPA-TAPOB Hyperbranched Polyimide-Silica Hybrid Membranes. High Perform. Polym. 2006, 18, 655-664. [CrossRef]  
+184: 16. Al-Kandary, S.; Ali, A.A.M.; Ahmad, Z. Morphology and thermo-mechanical properties of compatibilized polyimide-silica nanocomposites. J. Appl. Polym. Sci. 2005, 98, 2521-2531. [CrossRef]  
+185: 17. Yang, Z.; Wang, Q.; Bai, Y.; Wang, T. AO-resistant shape memory polyimide/silica composites with excellent thermal stability and mechanical properties. RSC Adv. 2015, 5, 72971-72980. [CrossRef]  
+186: 18. Dwivedi, S.; Sakamoto, S.; Kato, S.; Mitsumata, T.; Kaneko, T. Effects of biopolyimide molecular design on their silica hybrids thermo-mechanical, optical and electrical properties. RSC Adv. 2018, 8, 14009-14016. [CrossRef]  
+187: 19. Wahab, M.; Kim, I.; Cho, W.-J.; Ha*, C.-S. Polyimide Based Hybrid Nanocomposites. Mol. Cryst. Liq. Cryst. 2004, 417, 127-134. [CrossRef]  
+188: 20. Ragosta, G.; Musto, P. Polyimide/silica hybrids via the sol-gel route: High performance materials for the new technological challenges. Express Polym. Lett. 2009, 3, 413-428. [CrossRef]  
+189: 21. Huang, Y.; Gu, Y. New polyimide-silica organic-inorganic hybrids. J. Appl. Polym. Sci. 2003, 88, 2210-2214. [CrossRef]  
+190: 22. Al-Kandary, S.; Ali, A.A.M.; Ahmad, Z. New polyimide-silica nano-composites from the sol-gel process using organically-modified silica network structure. J. Mater. Sci. 2006, 41, 2907-2914. [CrossRef]  
+191: 23. Miller, A.; Berg, J. Effect of silane coupling agent adsorbate structure on adhesion performance with a polymeric matrix. Compos. Part A Appl. Sci. Manuf. 2003, 34, 327-332. [CrossRef]  
+192: 24. Fiore, V.; Orlando, V.; Sanfilippo, C.; Badagliacco, D.; Valenza, A. Effect of Silane Coupling Treatment on the Adhesion between Polyamide and Epoxy Based Composites Reinforced with Carbon Fibers. *Fibers* 2020, 8, 48. [CrossRef]  
+193: 25. Akhter, T.; Siddiqi, H.M.; Saeed, S.; Park, O.O.; Mun, S.C. Development of novel coatable compatibilized polyimide-modified silica nanocomposites. J. Polym. Res. 2014, 21, 459. [CrossRef]
+194: 
+195: 26. Akhter, T.; Park, O.O.; Siddiqi, H.M.; Saeed, S.; Saoud, K.M. An investigation of physico-chemical properties of a new polyimide-silica composites. RSC Adv. 2014, 4, 46587-46594. [CrossRef]  
+196: 27. Ngo, D.; Liu, H.; Chen, Z.; Kaya, H.; Zimudzi, T.J.; Gin, S.; Mahadevan, T.; Du, J.; Kim, S.H. Hydrogen bonding interactions of  $\mathrm{H}_2\mathrm{O}$  and  $\mathrm{SiOH}$  on a boroaluminosilicate glass corroded in aqueous solution. NPJ Mater. Degrad. 2020, 4, 1. [CrossRef]  
+197: 28. Basso, A.M.; Nicola, B.P.; Bernardo-Gusmao, K.; Pergher, S.B.C. Tunable Effect of the Calcination of the Silanol Groups of KIT-6 and SBA-15 Mesoporous Materials. Appl. Sci. 2020, 10, 970. [CrossRef]  
+198: 29. Joseph, R.; Zhang, S.; Ford, W.T. Structure and Dynamics of a Colloidal Silica-Poly(methyl methacrylate) Composite by $^{13}$ C and  $^{29}$ Si MAS NMR Spectroscopy. Macromolecules 1996, 29, 1305-1312. [CrossRef]  
+199: 30. Lutz, W.; Täschner, D.; Kurzhals, R.; Heidemann, D.; Hubert, C. Characterization of Silica Gels by  $^{29}\mathrm{Si}$  MAS NMR and IR Spectroscopic Measurements. Z. Anorg. Allg. Chem. 2009, 635, 2191-2196. [CrossRef]  
+200: 31. Loy, D.A.; Baughter, B.M.; Baughter, C.R.; Schneider, D.A.; Rahimian, K. Substituent Effects on the Sol-Gel Chemistry of Organotrialkoysilanes. Chem. Mater. 2000, 12, 3624-3632. [CrossRef]  
+201: 32. Loy, D.A.; Shea, K.J. Bridged Polysilsesquioxanes. Highly Porous Hybrid Organic-Inorganic Materials. Chem. Rev. 1995, 95, 1431-1442. [CrossRef]  
+202: 33. Wahab, M.A.; Imae, I.; Kawakami, Y.; Ha, C.-S. Periodic Mesoporous Organosilica Materials Incorporating Various Organic Functional Groups: Synthesis, Structural Characterization, and Morphology. Chem. Mater. 2005, 17, 2165-2174. [CrossRef]  
+203: 34. Wahab, M.; Kim, I.; Ha, C.-S. Microstructure and properties of polyimide/poly(vinylsilsesquioxane) hybrid composite films. Polymer 2003, 44, 4705-4713. [CrossRef]  
+204: 35. Ahmad, Z.; Mark, J. Polyimide-ceramic hybrid composites by the sol-gel route. Chem. Mater. 2001, 13, 3320-3330. [CrossRef]  
+205: 36. Chen, H.; Yin, J. Synthesis and characterization of hyperbranched polyimides with good organosolubility and thermal properties based on a new triamine and conventional dianhydrides. J. Polym. Sci. Part A Polym. Chem. 2002, 40, 3804-3814. [CrossRef]  
+206: 37. Park, H.B.; Kim, J.K.; Nam, S.Y.; Lee, Y.M. Imide-siloxane block copolymer/silica hybrid membranes: Preparation, characterization and gas separation properties. J. Membr. Sci. 2003, 220, 59-73. [CrossRef]  
+207: 38. Wahab, M.A.; Kim, I.; Ha, C.-S. Microstructure and properties of  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride (BPDA)-p-phenylene diamine (PDA) polyimide/poly(vinylsilsesquioxane) hybrid nanocomposite films. J. Polym. Sci. Part A: Polym. Chem. 2004, 42, 5189-5199. [CrossRef]  
+208: 39. Tsai, M.-H.; Whang, W.-T. Low dielectric polyimide/poly(silsesquioxane)-like nanocomposite material. Polymer 2001, 42, 4197-4207. [CrossRef]  
+209: 40. Tsai, M.-H.; Whang, W.-T. Dynamic mechanical properties of polyimide/poly(silsesquioxane)-like hybrid films. J. Appl. Polym. Sci. 2001, 81, 2500-2516. [CrossRef]  
+210: 41. Kim, Y.; Kang, E.; Kwon, Y.; Cho, W.; Cho, C.; Chang, M.; Ree, M.; Chang, T.; Ha, C. Electrical properties of silica-polyimide composite dielectric thin films prepared via sol-gel reaction and thermal imidization. Synth. Met. 1997, 85, 1399-1400. [CrossRef]  
+211: 42. Wahab, M.A.; Mya, K.Y.; He, C. Synthesis, morphology, and properties of hydroxyl terminated-POSS/polyimide low-k nanocomposite films. J. Polym. Sci. Part A Polym. Chem. 2008, 46, 5887-5896. [CrossRef]  
+212: 43. Wang, S.; Ahmad, Z.; Mark, J.E. Polyimide-Silica Hybrid Materials Modified by Incorporation of an Organically Substituted Alkoysilane. Chem. Mater. 1994, 6, 943-946. [CrossRef]  
+213: 44. Im, J.-S.; Lee, J.-H.; An, S.-K.; Song, K.-W.; Jo, N.-J.; Lee, J.-O.; Yoshinaga, K. Preparation and properties of polyimide/silica hybrid composites based on polymer-modified colloidal silica. J. Appl. Polym. Sci. 2006, 100, 2053-2061. [CrossRef]  
+214: 45. Qi, H.; Wang, X.; Zhu, T.; Li, J.; Xiong, L.; Liu, F. Low Dielectric Poly(imide siloxane) Films Enabled by a Well-Defined Disiloxane-Linked Alkyl Diamine. ACS Omega 2019, 4, 22143-22151. [CrossRef] [PubMed]  
+215: 46. Cui, X.; Zhu, G.; Liu, W.; Wang, K.; Ren, F.; Fu, H.; Yan, X. Mechanical and dielectric properties of polyimide/silica nanocomposite films. Plast. Rubber Compos. 2015, 44, 435-439. [CrossRef]  
+216: 47. Huang, J.; Lim, P.C.; Shen, L.; Pallathadka, P.K.; Zeng, K.; He, C. Cubic silsesquioxane-polyimide nanocomposites with improved thermomechanical and dielectric properties. Acta Mater. 2005, 53, 2395-2404. [CrossRef]

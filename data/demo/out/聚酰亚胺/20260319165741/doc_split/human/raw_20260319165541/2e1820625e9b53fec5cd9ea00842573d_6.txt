@@ -1,0 +1,19 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: SYNTHESIS OF MDI-6FDA POLYIMIDE POWDER
+line_span: [56, 60]
+char_span: [11007, 11780]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0007: SYNTHESIS OF MDI-6FDA POLYIMIDE POWDER) ---
+56: # SYNTHESIS OF MDI-6FDA POLYIMIDE POWDER
+57: 
+58: The polymerization process was done in a glovebox under a high-purity nitrogen environment. A mixture of  $10\mathrm{mmol}$  MDI and  $10\mathrm{mmol}$  of 6FDA was reacted in NMP at ambient temperature for  $15\mathrm{min}$ . After  $15\mathrm{min}$  of stirring, the solution mixture was heated at  $100^{\circ}\mathrm{C}$  for  $3.5\mathrm{h}$ . Then, the solution was left to cool and poured into a large amount of distilled water to obtain the precipitated PI powder. The resulting product was filtered, washed with methanol, and dried at  $100^{\circ}\mathrm{C}$  for  $5\mathrm{h}$  in a vacuum oven. The reaction is shown in Scheme 1. The MDI-6FDA PI (yield:  $95.5\%$ ) structure was confirmed using IR and NMR analysis.

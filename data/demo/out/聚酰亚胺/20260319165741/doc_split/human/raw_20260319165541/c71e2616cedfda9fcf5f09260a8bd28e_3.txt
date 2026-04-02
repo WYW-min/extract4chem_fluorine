@@ -1,0 +1,151 @@
+source_file: Carborane-Containing Aromatic Polyimide Films with Ultrahigh Thermo-Oxidative Stability.md
+doc_id: c71e2616cedfda9fcf5f09260a8bd28e
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussions
+line_span: [55, 191]
+char_span: [10948, 33702]
+line_count: 135
+effective_body_non_empty_lines: 71
+
+lines:
+--- chunk (b0004: 3. Results and Discussions) ---
+55: # 3. Results and Discussions
+56: 
+57: # 3.1. Preparation and Characterization of CPI Films
+58: 
+59: The polyimide precursor resin—PAA resin solution was synthesized by polycondensation of equimolar aromatic dianhydride (s-BPDA) with a mixture of three different aromatic diamines, including PDA,  $4,4^{\prime}$ -ODA, and 1,7-bis(aminophenyl)-meta-carborane (BACB) in NMP (Figure 1a). The PAA solution was first coated on glass surface, followed by prebaking at  $120^{\circ}\mathrm{C} / 2\mathrm{h}$  to remove part of the solvent, then thermally imidized in a vacuum at  $200^{\circ}\mathrm{C} / 1\mathrm{h}$ ,  $300^{\circ}\mathrm{C} / 1\mathrm{h}$ , and  $400^{\circ}\mathrm{C} / 0.5\mathrm{h}$ , respectively, to give a self-supporting CPI film with thickness of around  $50~\mu \mathrm{m}$ . A series of CPI- $x$  films with various boron-loadings ( $x$  represents the molar ratio of BACB in diamine monomers and is equal to 0, 5, 10, 20, 30, 40, and 50, respectively) were obtained.
+60: 
+61: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+62: Figure 1.Cont.
+63: 
+64: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+65: Figure 1. (a) Synthesis of the carborane-containing aromatic polyimide (CPI) films; (b)  $^{1}\mathrm{H}$ -NMR spectrum of a representative poly(amic acid) (PAA) resin (CPI-50) and (c) FT-IR spectra of the CPI films.
+66: 
+67: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+68: 
+69: The PAA solution of CPI was trickled into excess ethanol to form a reddish-brown precipitate, which was immersed in ethanol for  $48\mathrm{h}$  and dried under vacuum at  $180^{\circ}\mathrm{C}$  for  $12\mathrm{h}$  to eliminate the NMP. Afterward, the dried PAA resin of CPI was characterized by  ${}^{1}\mathrm{H}$ -NMR, XPS, and elemental analysis. Figure 1b shows  ${}^{1}\mathrm{H}$ -NMR of a representative PAA resin (PAA-50), which was used for the preparation of CPI-50 film. The distinct splitting patterns were in well accordance with the expected PAA-50 chemical structure. Additionally, Table 1 illustrates the XPS and elemental analysis results of the PAA resin (PAA-50); although the XPS and elemental analysis could not detect specific elements, the contents of other elements were in great agreement with the calculated values. Furthermore, the chemical structures were also characterized by FT-IR spectroscopic measurements (Figure 1c). The intensity of the B-H characteristic absorptions around  $2600~\mathrm{cm^{-1}}$  became stronger and stronger with the increasing of boron loadings. The strong absorptions around 1775 and  $1720~\mathrm{cm^{-1}}$  referred to the asymmetric and symmetric stretching vibrations of  $\mathrm{C = O}$  bands of imide rings in the polymer backbone. Other absorption bands collected near  $1366~\mathrm{cm^{-1}}$  and  $3070~\mathrm{cm^{-1}}$  were assigned to C-N and  $\mathrm{C_{atom - H}}$ , respectively. No signals around  $3300\sim 3500~\mathrm{cm^{-1}}$  were detected in the FT-IR spectra, which meant neither  $-\mathrm{NH}_2$  of BACB nor  $-\mathrm{CONH}-$  of PAA existed in CPI films. That is, all the BACB was reacted with dianhydride, and the CPI film was completely imidized.
+70: 
+71: Table 1. Calculated and experimental values of each element in the PAA resin (PAA-50).  
+72: 
+73: <table><tr><td>Elemental Contents</td><td>C (%)</td><td>N (%)</td><td>H (%)</td><td>O (%)</td><td>B (%)</td></tr><tr><td>Calculated values</td><td>61.51</td><td>5.33</td><td>4.14</td><td>18.73</td><td>10.29</td></tr><tr><td>Elemental analysis</td><td>62.01</td><td>5.44</td><td>4.02</td><td>-</td><td>-</td></tr><tr><td>XPS analysis</td><td>60.30</td><td>4.94</td><td>-</td><td>19.55</td><td>11.07</td></tr></table>
+74: 
+75: - The elemental analysis cannot detect the contents of B and O; XPS analysis can not detect the content of H, but the contents of other elements were in great agreement with the calculated values.
+76: 
+77: Furthermore, no phase separation was detected by the polarizing microscopic images in all of the CPI films (Figure 2). The CPI films showed homogeneous and transparent images under polarized light, demonstrating that the carborane cage structures were linked into the polymer backbone instead of simply being dispersed as an inorganic filler. Since BACB is a characteristic reddish-brown powder, the color of the PAA solution deepened with increasing carborane loadings, as shown in Figure S1. Therefore, the color of the resultant CPI film deepened with increasing carborane loadings.
+78: 
+79: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+80: 
+81: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+82: 
+83: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+84: 
+85: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+86: Figure 2. Polarizing microscopic images of the CPI films (the inserted images were the films covered on the logo of the Chinese Academy of Sciences).  
+87: 20μm
+88: 
+89: # 3.2. Thermal and Thermo-Oxidative Stabilities
+90: 
+91: Thermal stability characterized by DMA and TGA were compared in Table S1. The  $T_{g}$  values (tan  $\delta$  in DMA) increased from  $304^{\circ}\mathrm{C}$  (CPI-0) to  $371^{\circ}\mathrm{C}$  (CPI-50) with increasing boron loadings (Figure 3a). Although the bulky carborane cage structure enlarged the distance of polymer chain to chain, it also contrarily restricted the mobility of polymer chains in large-scale due to its big steric hindrance, and the movements induced by larger inter-chain space were too short in size scale to change polymers from a glassy state to rubbery state resulting in increased  $T_{g}$  values.
+92: 
+93: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+94: Figure 3. Thermal and thermo-oxidative stabilities of the CPI films; (a) DMA curves; (b) TGA curves in air; (c) TGA curves in  $\mathrm{N}_2$ .
+95: 
+96: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+97: 
+98: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+99: 
+100: Compared with the boron-free film (CPI-0), incorporating carborane into the polyimide backbone structure greatly enhanced polymer thermal and thermo-oxidative stabilities (Figure 3b,c). Both thermal and thermo-oxidative stability were improved with increasing boron-loadings. The initial thermal decomposition temperature (<1.0 wt.% of the original weight) were detected over  $550^{\circ}\mathrm{C}$  in air,  $50^{\circ}\mathrm{C}$  higher than that of CPI-0. The  $T_{5}$  in  $\mathbf{N}_2$  were measured in the range of  $595 - 601^{\circ}\mathrm{C}, 13 - 19^{\circ}\mathrm{C}$  higher than CPI-0, and apparently did not change with the boron-loadings. However, the  $T_{5}$  in air increased from  $602^{\circ}\mathrm{C}$  (CPI-5) to  $632^{\circ}\mathrm{C}$  (CPI-50) with increasing boron-loadings. At  $50\mathrm{mol}.\%$  of carborane loading (CPI-50), the  $T_{10}$  was measured at  $657^{\circ}\mathrm{C}$  (in  $\mathbf{N}_2$ ) and  $749^{\circ}\mathrm{C}$  (in air), respectively, and the char yield at  $750^{\circ}\mathrm{C}$  was as high as  $87.9\%$  (in  $\mathbf{N}_2$ ) and  $90.0\%$  (in air), indicating obvious improvement in thermo-oxidative stability. Moreover, the TGA analysis manifested that some weight gains were observed for the CPI films beginning at about  $500^{\circ}\mathrm{C}$  in air, which was probably attributed to the oxidation of boron atoms in the carborane cage to produce a boron oxide layer on the film surface, which could retard the further erosion of inner polymers [39].
+101: 
+102: # 3.3. Mechanical Properties
+103: 
+104: During copolymerization with aromatic dianhydride, BACB is less reactive than the other two aromatic diamines (4,4'-ODA and PDA) due to the strong electron-withdrawing ability and the large steric hindrance effect of the carborane cage structure, diminishing the polymerization reactivity of the diamine monomer. Although it was hard for BACB to form high  $M_w$  polymer, the BACB still reacted with dianhydride to form a lower  $M_w$  polymer. As a consequence, the molecular weight of PAA resins was reduced, and the polymer inter-chain interaction was weakened with increasing boron-loadings, leading to a decreased tensile strength and modulus (Figure 4). Thus, the CPI-50 film showed the
+105: 
+106: lowest mechanical performance with a tensile strength  $(T_{S})$  of  $108\mathrm{MPa}$  and tensile modulus  $(T_{M})$  of 3.7 GPa, respectively, compared with CPI-20  $(T_{S}:161\mathrm{MPa}, T_{M}:4.9\mathrm{GPa})$ .
+107: 
+108: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+109: Figure 4. Tensile modulus and tensile strength of the CPI films vs. boron loadings.
+110: 
+111: CPI films with different boron-loadings (CPI-0, CPI-20, and CPI-50) were thermally treated in a muffle furnace under various thermo-oxidative aging conditions (600 °C/30 min, 600 °C/60 min, 700 °C/5 min, 700 °C/15 min, 700 °C/30 min, etc.). The flexibility of the CPI films was estimated by bend testing, and the tensile properties were measured on an Instron 5567 universal testing machine with a drawing rate of 2.0 mm min $^{-1}$ . Table 2 summarized the results of bend testing, after thermo-oxidative aging at 600 °C for 30 to 60 min, the boron-free films (CPI-0) were damaged into ashes or volatiles due to the violent degradation, and could not be tested. However, all the boron-containing films could be bent  $180^{\circ}$  under the same condition, showing great retention of the flexibility (Figure 5a). Additionally, after thermo-oxidative aging at 700 °C/30 min, although the CPI-20 film was broken into two pieces during bend testing, the CPI-50 film still exhibited good flexibility.
+112: 
+113: Table 2. Bending results of the CPI films after thermo-oxidative aging at various conditions.  
+114: 
+115: <table><tr><td>Temperature/Time</td><td>600 °C/30 min</td><td>600 °C/60 min</td><td>700 °C/5 min</td><td>700 °C/15 min</td><td>700 °C/30 min</td></tr><tr><td>CPI-0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>CPI-20</td><td>++</td><td>++</td><td>++</td><td>++</td><td>+</td></tr><tr><td>CPI-50</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td></tr></table>
+116: 
+117: $\mathbf{+ + }$  : bendable;  $^+$  : unbendable but can be conducted on tensile test; -: broken.
+118: 
+119: Regarding the tensile tests, both CPI-20 and CPI-50 films showed measurable tensile strength after thermo-oxidative aging at 600 to  $700^{\circ}\mathrm{C}$  (Figure 5b); the specific data are displayed in Table S2. The unaged CPI-20 and CPI-50 films have a tensile strength of 161 and  $108\mathrm{MPa}$ , respectively. After thermo-oxidative aging at  $600^{\circ}\mathrm{C} / 30\mathrm{min}$ , the tensile strength reduced to  $88\mathrm{MPa}$  for CPI-20 and  $79\mathrm{MPa}$  for CPI-50. When the aging time extended to  $60\mathrm{min}$  at  $600^{\circ}\mathrm{C}$ , the tensile strength was reduced to  $23\mathrm{MPa}$  (CPI-20) and  $42\mathrm{MPa}$  (CPI-50), indicating that the thermo-oxidation at  $600^{\circ}\mathrm{C}$  increased with extending aging time. Moreover, after aging at  $700^{\circ}\mathrm{C}$  for 5, 15, and  $30\mathrm{min}$ , the CPI-50 film still kept a tensile strength of 63, 35, and  $18\mathrm{MPa}$ , successfully, and its strength retention was much higher than that of CPI-20 (Figure 5c). Compared with boron-free films, the incorporation of a carborane cage into the polyimide backbone structure significantly improved the polymer thermo-oxidative stability at  $700^{\circ}\mathrm{C}$ .
+120: 
+121: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+122: 
+123: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+124: Figure 5. (a) The effects of bend testing; (b) tensile strength, and (c) retention of tensile strength of the CPI film samples after thermo-oxidative aging at various conditions.
+125: 
+126: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+127: 
+128: # 3.4. Mechanism of Thermo-Oxidative Resistance
+129: 
+130: The extraordinary thermo-oxidative stabilities of the CPI films might be attributed to the formation of the boron oxide protective layer on the film surface, preventing the direct contact of inner polymer with oxygen molecules and resulting in the reduced decomposition rate of the inner polymer. Hence, the sheltered inner polymer could still provide the film with certain mechanical strength and flexibility even after thermo-oxidative aging at  $700^{\circ}\mathrm{C}$ . The thermal degradation kinetics in air was analyzed via TGA with the Flynn-Wall-Ozawa method [40,41], based on the following Equation (2), which is a derivate from Equation (1):
+131: 
+132: $$
+133: \log \beta = \log \frac {A E _ {a}}{R g (\alpha)} - 2. 3 1 5 - \frac {0 . 4 5 7 E _ {a}}{R T}, \tag {1}
+134: $$
+135: 
+136: $$
+137: \frac {\mathrm {d} \log \beta}{\mathrm {d} (1 / T)} = \frac {0 . 4 5 7 E _ {a}}{R}, \tag {2}
+138: $$
+139: 
+140: where  $\beta$  is the heating rate (K min $^{-1}$ ),  $R$  is the gas constant (8.314 J moL $^{-1}$  K $^{-1}$ ),  $E_{a}$  is the activation energy (kJ moL $^{-1}$ ),  $T$  is the absolute temperature (K), and  $g(\alpha)$  is the function of conversion rate  $\alpha$ .
+141: 
+142: TGA of the CPI films with various boron-loadings (CPI-0, CPI-20, CPI-50) were performed in air at different heating rates. Figure 6 compares the DTG (Derivative Thermogravimetry) curves of CPI films with different carborane loadings. The two intersection points of the two tangents of the decomposition peak and baseline were set as initial degradation temperature  $(T_{i})$  and terminal degradation temperature  $(T_{t})$ . The initial weight residue was regarded as the weight residue at the initial degradation temperature and the same as the terminal weight residue. Then, the section between the initial and terminal weight residue was equally divided into 10 pieces, and each weight residue represented a certain conversion rate  $\alpha$ . According to the conversion rate  $\alpha$  and heating rate  $\beta$ ,  $T_{\alpha}$  (temperature at conversion rate  $\alpha$ ) could be directly determined in the corresponding TGA curves. Subsequently, plots of  $\lg \beta$  against  $1000 / T$  were linearly fitted to a series of straight lines in which the slopes were used to compute the activation energy  $E_{a}$  at the corresponding conversion rate  $\alpha$ , as
+143: 
+144: exhibited in Figure 7a. All of the generated lines were in excellent linear dependence with  $\mathbb{R}^2 >0.98$ , as summarized in Table S3.
+145: 
+146: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+147: Figure 6. DTG curves of (a) CPI-0, (b) CPI-20, and (c) CPI-50 under various heating rates.
+148: 
+149: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+150: 
+151: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+152: 
+153: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+154: Figure 7. (a) Flynn-Wall-Ozawa plots for CPI-20 and (b) activation energy against conversion rate in the CPI films.
+155: 
+156: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+157: 
+158: Obviously, the incorporation of carborane lowered the initial activation energy of the polyimide system (Figure 7b). Since the degradation activation energy  $E_{a}$  was defined as the energy barrier that should be overcome to activate the thermal decomposition, the introduction of a flexible, bulky carborane cage loosened the chain packing, resulting in the lower initial  $E_{a}$ . With an increase in oxidation time, the  $E_{a}$  of CPI-0 diminished drastically while that of CPI-50 ascended gradually, probably due to the formation of a boron oxide protective layer during the decomposition. The formed boron oxide layer covered on the film surface could shelter the inner polymer, thus enhancing the energy barrier. In addition, the increase in the energy barrier, in turn, slowed down the decomposition process of the inner polymer, and the degradation rate decreased little by little as decomposition proceeded. At the conversion rate  $\alpha > 0.5$ , the  $E_{a}$  of CPI-50 exceeded that of CPI-0, and it continued to grow while the  $E_{a}$  of CPI-0 continued to diminish (Figure 7b). Furthermore, the  $E_{a}$  of CPI-20 film declined at first and then rose up later, implying that the boron content was too low to yield a sufficient protective layer to enhance the  $E_{a}$  at the beginning. Compared with CPI-0, the protective layer only retarded the degradation rate of CPI-20, but when the conversion rate  $\alpha > 0.6$ , the layer was dense enough to protect the inner polymer, leading to the growth of  $E_{a}$  in which the value was between CPI-0 and CPI-50.
+159: 
+160: To further investigate the mechanism, three representatives with different carbon-loadings (CPI-0, CPI-20, and CPI-50) were isothermally aged by TGA in air at  $700^{\circ}\mathrm{C}$  for  $150\mathrm{min}$  (Figure 8a). Apparently, the thermo-oxidative stability was greatly improved by increasing the carborane loadings. Since the boron-free CPI film (CPI-0) was completely decomposed into volatiles rapidly, whereas the CPI-20 and CPI-50 film still maintained more than  $29\%$  and  $76\%$  weight residue after  $150\mathrm{min}$  of thermo-oxidative degradation at  $700^{\circ}\mathrm{C}$ , respectively. In addition, the boron-free CPI film (CPI-0) was easier to decompose with a degradation peak more intense than the carborane-containing films (CPI-20 and CPI-50). Combined with DTG curves (Figure 8b), a second sharp weight loss peak immediately followed the first for CPI-0 in air. However, only one decomposition peak was observed for CPI-50 in
+161: 
+162: air. This could be interpreted by the fact that the further degradation of the CPI-50 films was postponed due to the higher  $E_{a}$  of the boron oxide passivation layer generated during the thermal treatment. It was noteworthy that a new broad peak was generated between the sharp decomposition peak and the slow degradation region for CPI-20 in the DTG curves (Figure 8c), manifesting that there was a distinctive degradation from 5 to 60 min in isothermal treatment.
+163: 
+164: Figure 8. (a) TGA and (b) DTG curves of CPI-0, CPI-20, and CPI-50 isothermally treated at  $700^{\circ}\mathrm{C}$  for  $150\mathrm{min}$  in air, and (c) three degradation stages of CPI-20 film.
+165: 
+166: XPS was measured to investigate the chemical changes in the binding energies of boron and oxygen elements of the CPI films thermally treated at different conditions (Figure 9). The test samples of the CPI-20 film were cleaned by deionized water and ethanol for several times to wash out the impurities on the surfaces and then heated to  $700^{\circ}\mathrm{C}$  in a muffle furnace standing for various times (5 min, 15 min, 30 min, 60 min, and 120 min). After thermo-oxidative aging for 5 min, the polyimide located on the out of surface was initially decomposed, evidenced by the disappearance of the carborane cage peaks (189.6 eV) and  $\mathrm{C = O}$  bonds (531.6 eV), respectively, and the absorption intensities of C-O (533.3 eV) in the O 1s spectrum became more conspicuous. Furthermore, the signal that occurred around  $192.2\mathrm{eV}$  was assigned to the partially destroyed carborane cage, owing to the pyrolysis [42]. Meanwhile, the boron atoms linked in the carborane cage were reacted with oxygen to form a boron oxide layer on the surface evidenced by the appearance of B-O bonds in B 1s (193.4 eV) and O 1s (532.2 eV) spectra in the initial 5 min. Then, a dense passivation layer was covered on the surface, because only the B-O peak was observed both in B 1s and O 1s spectra (15 min). Nevertheless, when the aging time extended to  $30\mathrm{min}$ , the partially broken carborane cage (192.3 eV) and C-O (533.3 eV) signals were reappeared in B 1s and O 1s spectra, respectively, which was in well accordance with the fact that the degradation rate of CPI-20 during 5 to  $60\mathrm{min}$  was faster than that of CPI-50 while slower than CPI-0's. It was presumed that, during 5 to  $60\mathrm{min}$ , there was a dynamic equilibrium in the breakage and regeneration of the passivation layer, as a result of the disappearance and reappearance of partially damaged carborane cage and C-O peaks. With the aging time increased, the boron oxide layer became increasingly denser, evidenced by the fact that only the B-O peak was collected.
+167: 
+168: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+169: Figure 9. (a) B 1s and (b) O 1s XPS spectra of CPI-20 isothermally treated at  $700^{\circ}\mathrm{C}$ .
+170: 
+171: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+172: 
+173: Figure 10 compares the surface morphologies of CPI-20 samples after thermo-oxidative aging at  $700^{\circ}\mathrm{C}$  for different times. The thermal degradation could be divided into three stages, as shown in Figure 11. Based on the XPS analysis, the first stage was the decomposition of the external polymer, and the surface was gradually rougher. In this stage, the outmost film was reacted with oxygen, and the volatiles, such as oxynitride, oxycarbide, and hydroxide, were eliminated, accompanied by the formation of a B-O bond. The second stage was the generation of the boron oxide protective layer on the film surface. Initially, part of the surface was covered by that oxidative layer, as shown in Figure 9 (5 min) and Figure 10b. Then, the polymer next to the opened hole on the outmost passivation layer was degraded and formed a new passivation layer in situ, which enabled the hybrid polyimide surface to be "self-healing" [43], as shown in Figure 9. In this stage, breakage and regeneration of the passivation layer were in a dynamic equilibrium, but the regenerated layers gradually repaired the breakage of the previous one, ultimately forming the multilayered protective layer (Figure 10e). This layer covered the film surface and prevented the direct contact of the inner polymer and oxygen, thus significantly reducing the degradation rate. Although a "self-healing", multilayered, dense passivation layer was generated on the film surface during the second stage, the heat could still be transferred into the interior via the protective layer, so the polymer was slowly degraded in the last stage.
+174: 
+175: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+176: 
+177: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+178: 
+179: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+180: 
+181: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+182: Figure 10. SEM images of the surfaces of CPI-20 samples heated at  $700^{\circ}\mathrm{C}$  in air for (a)  $0\mathrm{min}$ ; (b)  $5\mathrm{min}$ ; (c)  $15\mathrm{min}$ ; (d)  $30\mathrm{min}$ ; (e)  $60\mathrm{min}$ , and (f)  $120\mathrm{min}$ .
+183: 
+184: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+185: 
+186: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+187: 
+188: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+189: Figure 11. Mechanism of the three stages during thermal degradation.

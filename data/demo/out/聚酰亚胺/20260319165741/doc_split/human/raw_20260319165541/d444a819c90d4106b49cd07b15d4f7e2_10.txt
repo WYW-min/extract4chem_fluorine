@@ -1,0 +1,58 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 10
+block_id: b0011
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Preparation and characterization of BAOB-modified organoclay
+line_span: [149, 192]
+char_span: [26917, 32552]
+line_count: 42
+effective_body_non_empty_lines: 23
+
+lines:
+--- chunk (b0011: Preparation and characterization of BAOB-modified organoclay) ---
+149: # Preparation and characterization of BAOB-modified organoclay
+150: 
+151: Organophilic clay was prepared by a typical cation exchange reaction between the sodium cations of Na-MMT clay and the ammonium ions of the intercalating agent, BAOB. Scheme 4 presents a schematic drawing of the modification step.
+152: 
+153: Fig. 3 shows FT-IR spectra of BAOB, sodium montmorillonite, and BAOB-modified organoclay. The spectrum of or
+154: 
+155: ganoclay exhibits the characteristic bands of MMT and BAOB: N-H stretching at  $3214~\mathrm{cm}^{-1}$ , C-N stretching vibration of the aromatic ring at  $1635~\mathrm{cm}^{-1}$ , -C=N- stretching vibration of the oxadiazole ring at  $1610~\mathrm{cm}^{-1}$ , and -C-O- stretching vibration of oxadiazole ring at 1442 and  $1499~\mathrm{cm}^{-1}$ .
+156: 
+157: Fig. 4 presents the X-ray diffraction patterns of organoclay and pristine clay. A strong peak is observed at  $2\theta = 8.76^{\circ}$  for sodium montmorillonite, corresponding to the (001) plane, indicating that the interlayer spacing  $(d_{001}$ -spacing) of the clay is about  $1.0~\mathrm{nm}$ . The WXRD peak for BAOB-modified clay is observed at  $2\theta = 6.70^{\circ}$ , which corresponds to an interlayer  $d_{001}$ -spacing of  $1.3~\mathrm{nm}$ . The replacement of sodium ions with the ammonium ions of BAOB seems to increase the basal spacing of layered silicate.
+158: 
+159: The thermal treatment of sodium montmorillonite under nitrogen consists of two main stages. In the first stage, from ambient temperature to  $200^{\circ}\mathrm{C}$ , free water molecules physically adsorbed on the external surfaces of crystals are removed, along with the hydrating water molecules around the exchangeable cation located inside the interlayer space. The second stage is attributed to the dehydroxylation of the structural silanol units of the montmorillonite in the range of  $500 - 1000^{\circ}\mathrm{C}$ . The temperature intervals of dehydration corresponding to these processes as well as the amount of water released depends on the nature of adsorbed cations and the hydration of the surface. On the other hand, organically modified montmorillonite un
+160: 
+161: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+162: Scheme 4 Modification of sodium montmorillonite with BAOB.
+163: 
+164: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+165: Fig. 3 IR spectrum of: a) sodium montmorillonite, b) BAOB-modified sodium montmorillonite, and c) BAOB.
+166: 
+167: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+168: Fig. 4 X-Ray diffraction patterns of Na-MMT and BAOB-MMT.
+169: 
+170: dergoes a four-step decomposition process. The vaporization of free water takes place at temperatures below  $200^{\circ}\mathrm{C}$ , while the surfactant's decomposition occurs in the temperature range of  $200 - 500^{\circ}\mathrm{C}$ . Dehydroxylation of the aluminosilicates occurs between  $500 - 800^{\circ}\mathrm{C}$ . The last step is the decomposition associated with the combustion reaction between organic carbon and inorganic oxygen [50]. Fig. 5 shows the TGA curves of the Na-MMT and the BAOB-modified organoclay.
+171: 
+172: Pristine Na-MMT contains a large quantity of water due to the intercalation of hydrated sodium  $(\mathrm{Na}^{+})$  and hydrated calcium  $(\mathrm{Ca}^{2+})$  cations inside the clay layers (Table 5). The clay undergoes a  $4.16\%$  weight loss in the range from ambient temperature to  $250^{\circ}\mathrm{C}$ . BAOB-treated Na-MMT shows only  $0.68\%$  weight loss within the mentioned temperature range. The presence of the aromatic ammonium ion within the interlayer spacing lowers the surface energy of the inorganic material and transforms the hydrophilic silicate surface to an
+173: 
+174: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+175: Fig. 5 TGA curves  $\mathrm{(N_2}$  atmosphere, scan rate of  $10^{\circ}\mathrm{C / min})$  of Na-MMT and BAOB-MMT.
+176: 
+177: organophilic one. In the BAOB-modified organoclay, the thermal decomposition of the surfactant molecules starts at about  $250^{\circ}\mathrm{C}$ . This temperature is higher than the decomposition temperature of montmorillonite modified with aliphatic long chain surfactants, which occurs below  $200^{\circ}\mathrm{C}$  [33]. This study suggests that the BAOB-modified organoclay can be used in
+178: 
+179: Table 5. Thermal properties of Na-MMT and BAOB-modified organoclay.  
+180: 
+181: <table><tr><td>Clay</td><td>TD(°C)a</td><td>5% weight loss (°C)</td><td>Char Yieldb</td></tr><tr><td>Na-MMT</td><td>—</td><td>303.8</td><td>90.23</td></tr><tr><td>BAOB-MMT</td><td>250</td><td>487.3</td><td>90.10</td></tr></table>
+182: 
+183: ${}^{a}$  Onset decomposition temperature.  
+184: b At  $585^{\circ}\mathrm{C}$
+185: 
+186: the preparation of PI nanocomposites that need to be cured at elevated temperatures.
+187: 
+188: The amount of loaded diamine can be estimated by TGA measurement. The organophilic clay undergoes an  $8.46\%$  weight loss in the temperature range of  $250 - 588^{\circ}\mathrm{C}$  while under the same condition Na-MMT shows only  $5.69\%$  weight loss. The difference between weight losses of NaMMT and BAOB-MMT  $(\Delta \mathrm{m} = 2.77\%)$  can be attributed to the weight of the loaded diamine. Therefore, the amount of loaded diamines  $(27.7~\mathrm{mg / g}$  of clay) can be calculated from Eq. (1).
+189: 
+190: Scanning Electron Microscopy (SEM) demonstrates significant changes on the surface of the BAOB-modified organoclay. The sodium montmorillonite particles seem to be stuck together due to moisture (Fig. 6a-b), but the organically modified clay particles are relatively separated (Fig. 6c,d). The modification reaction seems to reduce the hydrophilicity of the clay. This study is in accordance with TGA results.

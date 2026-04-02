@@ -1,0 +1,29 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Introduction
+line_span: [17, 31]
+char_span: [1976, 6893]
+line_count: 13
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0002: Introduction) ---
+17: # Introduction
+18: 
+19: After their discovery in 1991 by Iijima [1], carbon nanotubes (CNTs) have attracted considerable interest because of their unique as well as superior physical, electrical, magnetic, chemical stability, thermal conductivity and mechanical properties [2]. Due to their exceptionally high aspect ratio and mechanical properties, incorporation of small amounts of CNTs into a polymer matrix is expected to enhance the properties of the resulting nanocomposites more than any existing material. The most critical issue of CNTs/polymer nanocomposites is the adhesion/compatibility between the nanotubes and polymer which ultimately controls the interface between the CNTs and the polymer matrix. Unfortunately pure CNTs are insoluble in any organic solvents and they tend to form agglomerates because of strong Van der Wall forces which results in negative effects on the properties of the resulting nanocomposites. As such achieving a high degree of dispersion of CNTs in any polymer matrix is quite a challenging task. Chemical functionalization is the simplest and widely accepted method to improve the compatibility between CNTs and polymer in which CNTs are treated with strong acids like nitric acid and sulphuric acid or combination of both. The functionalized CNTs contain carboxylic and hydroxyl functional groups and are soluble in most of the organic solvents [3].
+20: 
+21: Polyimide is a high performance specialty class of polymers of aromatic nature with chemical structure  $-\mathrm{R}(\mathrm{CO})\mathrm{N}-$ , which comes under the family of ladder polymers, due to their flexibility, high strength, superior thermal stability and dielectric properties. As a result it is used in applications ranging from adhesives, thermal resistant coatings, high performance composites, fibres, foams, membranes, mouldings and films [4]. It can be used
+22: 
+23: up to  $500^{\circ}\mathrm{C}$  for short duration and prolonged use between 200 and  $350^{\circ}\mathrm{C}$  without much deterioration in mechanical and other properties. Polyimides are produced by the condensation reaction of an aromatic dianhydride and aromatic diamine to form an oligomer of amic acid known as polyamic acid which act as a precursor for polyimide and can be further cyclized (imidization) by thermal means to produce polyimide. Out of the many types of aromatic polyimides produced worldwide, the largest market and most preferred polyimide for various applications is based on the pyromellatic dianhydride (PMDA) and  $4,4^{\prime}$ -oxydianiline (ODA) [4].
+24: 
+25: In recent times considerable effort has been devoted in the field of preparation and study of CNTs/polyimide nanocomposites from various angles ranging from highly conductive to super strong CNTs/polyimide nanocomposites. Addressing the problem of poor dispersion of CNTs in the polyimide matrix, Park et al. [5] used in situ polymerization technique to disperse unmodified single wall carbon nanotubes (SWCNTs) in polyimide. Ouanies et al. [6] studied the electrical properties of SWCNTs doped polyimide nanocomposites. Zhu et al. [7] described a method for achieving enhanced dispersion of multiwalled carbon nanotubes (MWCNTs) in the polyimide matrix by the acid treatment of MWCNTs. However, they reported a slight decrease in the thermal properties of the nanocomposites due to acid modification. Mo et al. [3] employed in situ technique to disperse functionalized MWCNTs in polyimide matrix and reported a maximum achievable strength of  $165.5\mathrm{MPa}$  at  $7\mathrm{wt}\%$  loading of functionalized MWCNTs. Yuen et al. concluded that by using amino functionalized MWCNTs the electrical properties of the MWCNTs/polyimide nanocomposites are enhanced considerably; unfortunately, it resulted in decreased tensile strength (TS) due to a possibility of reaction between the amino functionalized MWCNTs with polyamic acid [8]. Hu et al. also studied amino functionalized MWCNTs/ polyimide nanocomposites using in situ polymerization method to disperse MWCNTs in the polyimide matrix [9].
+26: 
+27: Looking at the above scenario, it seems that it is difficult to achieve significant improvement in both the electrical as well as mechanical properties of the CNT/polyimide
+28: 
+29: composites simultaneously. A new type of amino functional groups was therefore grafted on the MWCNTs by treating them with octadecylamine  $(\mathrm{C}_{18}\mathrm{H}_{39}\mathrm{N})$ . The grafted functional group consists of a secondary amide attached to the MWCNTs along with a long alkyl chain. The long alkyl chain helped in preventing agglomeration and bundling of MWCNTs due to repulsive force between the alkyl chain, producing a stable and homogeneous dispersion of MWCNTs. We report here that these amino functionalized MWCNTs reinforced polyimide nanocomposites not only exhibit improved mechanical properties, but also the electrical properties much superior to the one reported so far.

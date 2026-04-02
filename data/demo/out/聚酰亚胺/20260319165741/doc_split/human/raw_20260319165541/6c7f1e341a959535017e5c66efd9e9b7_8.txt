@@ -1,0 +1,124 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 8
+block_id: b0009
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: $\mathrm{CO}_{2}$  Sorption Before Thermal Treatment
+line_span: [136, 245]
+char_span: [19712, 35278]
+line_count: 108
+effective_body_non_empty_lines: 64
+
+lines:
+--- chunk (b0009: $\mathrm{CO}_{2}$  Sorption Before Thermal Treatment) ---
+136: # $\mathrm{CO}_{2}$  Sorption Before Thermal Treatment
+137: 
+138: Gravimetric method showed that the  $\mathrm{CO}_{2}$  sorption isotherm in each polymer film at  $35^{\circ}\mathrm{C}$  with PMMA varied from 0 atm to 50 atm; the results were compared and are presented in Figure 8. These isotherms fitted a dual-mode sorption model in all polymer films. This model can be expressed by<sup>31</sup>
+139: 
+140: $$
+141: C = C _ {D} + C _ {H} = k _ {D} p + \frac {C _ {H} ^ {\prime} b p}{1 + b p} \tag {1}
+142: $$
+143: 
+144: where  $C_D$  and  $C_H$  are the gas concentrations based on Henry's law sorption and Langmuir sorption, respectively. The parameter  $k_D$  is Henry's low coefficient,  $p$  is the gas pressure, and  $b$  and  $C_H'$  are the Langmuir hole affinity parameter and capacity parameter, respectively. The value of  $C_H'$  is related to the nonequilibrium excess free volume in a glassy polymer and described as follows:31,32
+145: 
+146: $$
+147: C _ {H} ^ {\prime} = \left(\frac {V _ {g} - V _ {l}}{V _ {g}}\right) \rho * \tag {2}
+148: $$
+149: 
+150: where  $V_{g}$  and  $V_{l}$  are the polymer specific volume  $(\mathrm{cm}^{3} / \mathrm{g})$  in the glassy and hypothetical rubbery states, respectively.  $\rho^*$  is the molar density  $(\mathrm{mol} / \mathrm{cm}^{3})$  of the penetrant in the Langmuir sites. The  $\rho^*$  value of carbon dioxide at  $35^{\circ}\mathrm{C}$  is  $0.0182\mathrm{mol} / \mathrm{cm}^{3}$ .
+151: 
+152: The dual-mode parameters obtained from a non-liner least-square regression analysis of the  $\mathrm{CO}_{2}$  sorption data in Figure 8 are summarized in Tables II and III. The order of  $\mathrm{CO}_{2}$  concentration was  $\mathrm{PI} > \mathrm{Block}(73/27) > \mathrm{Block}(28/72) > \mathrm{Block}(10/90) > \mathrm{PMMA}$  under all pressure conditions, and  $\mathrm{CO}_{2}$  concentration decreased with increasing PMMA content. In thermally treated films, the order of  $\mathrm{CO}_{2}$  concentration was  $\mathrm{PI} > -\mathrm{Block}(73/27) = \mathrm{Block}(28/72) = \mathrm{Block}(10/90)$  under all pressure conditions; these values were similar to the  $\mathrm{CO}_{2}$  concentration of  $\mathrm{Block}(\mathrm{PI} / \mathrm{PMMA})$  regardless of the PMMA content. These results suggested that the primary structure was similar to the structure of the decomposed PMMA block. SEM results after thermal treatment demonstrated a large difference in the surface structure of each film; however, the film structure did not influence the  $\mathrm{CO}_{2}$  concentration.
+153: 
+154: Figure 9 presents the differences  $(\alpha)$  in the experimental values of  $\mathrm{CO}_{2}$  concentration and the theoretical values of  $\mathrm{CO}_{2}$  concentration calculated from content ratio in Block(PI/PMMA).  $\alpha$  was expressed by<sup>35</sup>
+155: 
+156: $$
+157: \alpha = \frac {C _ {\text {C o p o l y m e r}} - C _ {\mathrm {P I} + \mathrm {P M M A}}}{C _ {\text {C o p o l y m e r}}} \tag {3}
+158: $$
+159: 
+160: where  $C_{\mathrm{PI + PMMA}}$  is the sum of the  $\mathrm{CO}_{2}$  concentration of PI homopolymer  $\times$  PI content ratio in Block(PI/PMMA) and the  $\mathrm{CO}_{2}$  concentration of PMMA homopolymer  $\times$  PMMA content
+161: 
+162: Table II. Dual-Mode Sorption Parameters for  ${\mathrm{{CO}}}_{2}$  in 6FDA-TeMPD (PI),PMMA,and Block(PI/PMMA) Before Thermal Treatment  
+163: 
+164: <table><tr><td>Polymer</td><td>ρa(g/cm3)</td><td>kD(cm3(STP)/(cm3(polymer)atm))</td><td>C′H(cm3(STP)/cm3(polymer))</td><td>b(1/atm)</td><td>So(cm3(STP)/(cm3(polymer)))</td><td>SH0/S0</td><td>C′H/ρ*</td></tr><tr><td>PI</td><td>1.333 ± 0.001</td><td>1.66 ± 0.06</td><td>75.7 ± 1.4</td><td>0.246 ± 0.005</td><td>20.3 ± 0.8</td><td>0.92 ± 0.01</td><td>0.183 ± 0.021</td></tr><tr><td>Block (73/27)</td><td>1.337 ± 0.001</td><td>1.50 ± 0.09</td><td>62.1 ± 5.0</td><td>0.225 ± 0.037</td><td>15.3 ± 1.2</td><td>0.90 ± 0.01</td><td>0.152 ± 0.017</td></tr><tr><td>Block (28/72)</td><td>1.304 ± 0.001</td><td>1.46 ± 0.03</td><td>46.8 ± 0.5</td><td>0.241 ± 0.022</td><td>12.7 ± 0.9</td><td>0.88 ± 0.01</td><td>0.115 ± 0.002</td></tr><tr><td>Block (10/90)</td><td>1.251 ± 0.001</td><td>1.42 ± 0.08</td><td>30.1 ± 2.3</td><td>0.250 ± 0.039</td><td>8.9 ± 0.7</td><td>0.84 ± 0.01</td><td>0.074 ± 0.008</td></tr><tr><td>PMMA</td><td>1.199 ± 0.003</td><td>0.79 ± 0.15</td><td>35.1 ± 11.4</td><td>0.046 ± 0.007</td><td>2.33 ± 0.1</td><td>0.66 ± 0.08</td><td>0.086 ± 0.039</td></tr></table>
+165: 
+166: aCited from Ref. 29.
+167: 
+168: Table III. Dual-Mode Sorption Parameters for  ${\mathrm{{CO}}}_{2}$  in 6FDA-TeMPD (PI) and Block(PI/PMMA) After Thermal Treatment  
+169: 
+170: <table><tr><td>Polymer</td><td>ρ(g/cm3)</td><td>kD(cm3(STP)/(cm3(polymer)atm))</td><td>CH(cm3(STP)/cm3(polymer))</td><td>b(1/atm)</td><td>SO(cm3(STP)/(cm3(polymer)))</td><td>SH0/S0</td><td>C′H/ρ*</td></tr><tr><td>PI thermally treated</td><td>1.388 ± 0.014</td><td>1.20 ± 0.01</td><td>46.4 ± 0.4</td><td>0.628 ± 0.017</td><td>30.4 ± 1.0</td><td>0.96 ± 0.01</td><td>0.114 ± 0.001</td></tr><tr><td>Block (73/27) thermally treated</td><td>1.400 ± 0.001</td><td>1.11 ± 0.09</td><td>41.2 ± 0.7</td><td>0.476 ± 0.002</td><td>20.7 ± 0.2</td><td>0.95 ± 0.01</td><td>0.101 ± 0.002</td></tr><tr><td>Block (28/72) thermally treated</td><td>1.304 ± 0.001</td><td>0.99 ± 0.07</td><td>42.6 ± 0.5</td><td>0.418 ± 0.009</td><td>18.8 ± 0.6</td><td>0.95 ± 0.01</td><td>0.105 ± 0.001</td></tr><tr><td>Block (10/90) thermally treated</td><td>1.300 ± 0.001</td><td>1.17 ± 0.11</td><td>41.3 ± 1.2</td><td>0.444 ± 0.011</td><td>19.5 ± 0.3</td><td>0.94 ± 0.01</td><td>0.101 ± 0.003</td></tr></table>
+171: 
+172: ratio in Block(PI/PMMA)  $C_{\mathrm{Copolymer}}$  is the  $\mathrm{CO}_{2}$  concentration of Block(PI/PMMA). The experimental values of Block(PI/PMMA) were lower than the theoretical values. For the concen
+173: 
+174: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+175: Figure 9. Ratio of the  $\mathrm{CO}_{2}$  concentration relationship between theoretical and experimental values of Block(PI/PMMA) films. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+176: 
+177: tration of Block(PI/PMMA), the experimental values were approximately  $20\%$  to  $30\%$  lower than the theoretical value in the low-pressure region at 0 atm and about  $0\%$  to  $15\%$  lower than the theoretical value in the high-pressure region at 50 atm. As demonstrated in the fluorescence spectra measurement in previous study, the formation of charge-transfer complex (CTC) of PI block affected the  $\mathrm{CO}_{2}$  concentration of Block(PI/PMMA). Previous study[29] reported that the PMMA segment of Block(PI/PMMA) increased the charge-transfer (CT) effect of PI; triblock copolymer with shorter PMMA block was significantly influenced compared with the polymer with longer PMMA block. Therefore, the CT effect corresponded to that of  $\alpha$ . For the decreased concentration caused by the CT effect, the experimental concentration was lower than the theoretical concentration.
+178: 
+179: Figure 10 presents the differences  $(\beta)$  in  $\mathrm{CO}_{2}$  concentration before and after thermal treatment.  $\beta$  was expressed by
+180: 
+181: $$
+182: \beta = \frac {C _ {\text {A f t e r t h e r m a l t r e a t m e n t}} - C _ {\text {B e f o r e t h e r m a l t r e a t m e n t}}}{C _ {\text {A f t e r t h e r m a l t r e a t m e n t}}} \tag {4}
+183: $$
+184: 
+185: The  $\mathrm{CO}_{2}$  concentrations of PI decreased in all pressure regions. The  $\mathrm{CO}_{2}$  concentration in PI films was decreased by thermal treatment as indicated by the increasing CT effect. $^{8}$  Therefore, the concentration of PI decreased because the formation of CTC was promoted by thermal treatment. The concentration of
+186: 
+187: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+188: Figure 10. Ratio of  $\mathrm{CO}_{2}$  concentration before thermal treatment of Block(PI/PMMA) films to that after thermal treatment. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+189: 
+190: Block(73/27) and Block(28/72) increased by about  $20\%$  in low-pressure region  $(< 2$  atm) and decreased by about  $30\%$  in high-pressure region  $(>49$  atm) compared with non-treated films. The  $\mathrm{CO}_{2}$  concentration of thermally treated films decreased with increasing pressure compared with nontreated films. The concentration of Block(10/90) increased by about  $60\%$  in low-pressure region  $(< 2$  atm) and decreased by less than  $1\%$  in high-pressure region  $(>49$  atm) compared with those of the
+191: 
+192: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+193: Figure 11. Ratio of the  $\mathrm{CO}_{2}$  concentration relationship between PI and copolymers after thermal treatment of Block(PI/PMMA) films. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+194: 
+195: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+196: 
+197: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+198: Figure 12.  $\mathrm{CO}_{2}$  concentration of Block(PI/PMMA) films as a function of its PMMA content in the (a) low-pressure region and (b) high-pressure region. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+199: 
+200: nontreated films. The difference in  $\mathrm{CO}_{2}$  concentration of thermally treated films increased with increasing PMMA block content.
+201: 
+202: Figure 11 demonstrates the differences  $(\gamma)$  in  $\mathrm{CO}_{2}$  concentration before and after thermal treatment.  $\gamma$  was expressed by
+203: 
+204: $$
+205: \gamma = \frac {C _ {\text {C p o l y m e r a f t e r h e r m a l t r e t a m t m e n t}} - C _ {\text {P I a f t e r h e r m a l t r e t a m t m e n t}}}{C _ {\text {C o p o l y m e r a f t e r h e r m a l t r e t a m t m e n t}}} \tag {5}
+206: $$
+207: 
+208: The order of  $\mathrm{CO}_{2}$  concentration was  $\mathrm{Block}(73/27) > \mathrm{Block}(10/90) > \mathrm{Block}(28/72)$  and the  $\mathrm{CO}_{2}$  concentration of  $\mathrm{Block}(\mathrm{PI}/\mathrm{PMMA})$  was lower than that of PI. Therefore, the content ratio of PMMA block in triblock copolymers did not directly influence the concentration during thermal treatment.
+209: 
+210: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+211: 
+212: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+213: 
+214: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+215: Figure 13. Dual-mode sorption parameters of Block(PI/PMMA) films as a function of its PMMA content. (a) Henry's law constant  $(k_{D})$ , (b) Langmuir capacity constant  $(C_H^{\prime})$ , and (c) hole affinity constant  $(b)$ . [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]  
+216: Figure 12 shows the  $\mathrm{CO}_{2}$  concentration of Block(PI/PMMA) films as a function of their PMMA contents in the low- and high-pressure regions. The order of  $\mathrm{CO}_{2}$  concentration was  $\mathrm{Block}(73 / 27) > \mathrm{Block}(10 / 90) > \mathrm{Block}(28 / 72)$  in the low- and high-pressure regions. Thus, the concentration and PMMA content ratio were directly related. The  $\mathrm{CO}_{2}$  concentration of thermally treated films showed a constant value regardless of the PMMA content in the low- and high-pressure regions. Interestingly, the  $\mathrm{CO}_{2}$  concentration of thermally treated films in the low-pressure region was higher than that in the high-pressure
+217: 
+218: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+219: 
+220: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+221: Figure 14. Infinite-dilution  $\mathrm{CO}_{2}$  solubility at  $35^{\circ} \mathrm{C}$  in Block(PI/PMMA) films as a function of its PMMA content. (a) Infinite-dilution solubility and (b) the Langmuir-type contribution solubility at infinite dilution. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+222: 
+223: region. Therefore,  $\mathrm{CO}_{2}$  concentration increased in Langmuir's region but decreased in Henry's region in all thermally treated films compared with that in the untreated films.
+224: 
+225: The parameters  $k_{D}, C_{H}$  and  $b$  of the polymer films at  $35^{\circ}\mathrm{C}$  as a function of the PMMA content in each polymer are shown in Figure 13.  $C_{H}^{\prime}$  of PI was 2.2 times higher than that of PMMA. A linear relationship could not be obtained in triblock copolymers. The order of  $C_{H}^{\prime}$  was  $\mathrm{PI} > \mathrm{Block}(73/27) > \mathrm{Block}(28/72) > \mathrm{PMMA} > \mathrm{Block}(10/90)$ . Thus, the free volume in the films was influenced by the micro-phase separation structure.  $k_{D}$  and  $b$  in all polymers were similar except for PMMA and PMMA, which were  $50\%$  lower than those of the other polymers.  $b$  and  $\mathrm{CO}_{2}$  concentration in Henry's region of Block(PI/PMMA) depended on the PI structure, whereas  $C_{H}^{\prime}$  of Block(PI/PMMA) depended on the microphase separation structure of triblock copolymers. These parameters were similar to those of thermally treated films, regardless of PMMA content; however,  $b$  of thermally treated PI films was  $30\%$  higher than that of thermally treated Block(PI/PMMA).
+226: 
+227: The solubility of a gas molecule in glassy polymers can be expressed by the dual-mode sorption parameter:[31,32,36]
+228: 
+229: $$
+230: S \equiv \frac {C}{p} = S _ {D} + S _ {H} = k _ {D} + \frac {C _ {H} ^ {\prime} b}{1 + b p} \tag {6}
+231: $$
+232: 
+233: where  $S$  is the solubility of the penetrant,  $S_{D}$  and  $S_{H}$  are the solubility values based on Henry's low and Langmuir-type sorption, respectively.
+234: 
+235: The infinite-dilution solubility  $S_0$  is given by:[31,32]
+236: 
+237: $$
+238: S _ {0} = \lim  _ {P \rightarrow 0} \left(\frac {C}{p}\right) \approx S _ {D 0} + S _ {H 0} = k _ {D} + C _ {H} ^ {\prime} b \tag {7}
+239: $$
+240: 
+241: where  $S_{D0}$  and  $S_{H0}$  are the solubility values in the Henry's law and Langmuir sorption regions at infinite-dilution, respectively. The  $S_0$  and  $S_{H0}$  values estimated from eq. (7) using the dual-mode sorption parameters are summarized in Tables II and III.
+242: 
+243: Figure 14 presents the infinite-dilution  $\mathrm{CO}_{2}$  solubility at  $35^{\circ}\mathrm{C}$  in Block(PI/PMMA) films as a function of PMMA content. The order of  $S_{0}$  values was  $\mathrm{PI} > \mathrm{Block}(73 / 27) > \mathrm{Block}(28 / 72) > \mathrm{Block}(10 / 90) > \mathrm{PMMA}$ . As the PMMA content increased, the  $S_{0}$  values decreased. However, the order of  $S_{H0} / S_{0}$  value in non-treated films was  $\mathrm{PI} > \mathrm{Block}(73 / 27) > \mathrm{Block}(28 / 72) > \mathrm{Block}(10 / 90) >> \mathrm{PMMA}$ . Interestingly,  $S_{H0} / S_{0}$  in each polymer varied from 0.84 to 0.92. This result indicated that the total infinite-dilution solubility values of  $\mathrm{CO}_{2}$  were equivalent to those in the Langmuir sites. The order of  $S_{0}$  value in thermally treated films was  $\mathrm{PI} > \mathrm{Block}(73 / 27) \approx \mathrm{Block}(28 / 72) \approx \mathrm{Block}(10 / 90)$ .  $S_{0}$  of thermally treated Block(PI/PMMA) was similar to that of triblock copolymer, regardless of PMMA content. However,  $S_{0}$  of PI was about  $50\%$  higher than that of each thermally treated Block(PI/PMMA) regardless of their similar thermal-treated Block(PI/PMMA) structure. The order of  $S_{H0} / S_{0}$  value in thermally treated films was  $\mathrm{PI} \approx \mathrm{Block}(73 / 27) \approx \mathrm{Block}(28 / 72) \approx \mathrm{Block}(10 / 90)$ .  $S_{H0} / S_{0}$  in each polymer varied from 0.94 to 0.96. This result indicated that the total infinite-dilution solubility values of  $\mathrm{CO}_{2}$  were almost equivalent in the Langmuir sites but higher than those in nontreated films.

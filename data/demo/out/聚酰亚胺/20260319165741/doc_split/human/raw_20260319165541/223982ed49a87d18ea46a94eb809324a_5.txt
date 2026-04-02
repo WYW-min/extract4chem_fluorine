@@ -1,0 +1,70 @@
+source_file: Polyimide-Derived Supramolecular Systems Containing Various Amounts of Azochromophore for Optical Storage Uses.md
+doc_id: 223982ed49a87d18ea46a94eb809324a
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [331, 384]
+char_span: [48808, 59052]
+line_count: 54
+effective_body_non_empty_lines: 50
+
+lines:
+--- chunk (b0006: References) ---
+331: # References
+332: 
+333: 1. Sezer Hicyilmaz, A.; Celik Bedeloglu, A. Applications of polyimide coatings: A review. SN Appl. Sci. 2021, 3, 363. [CrossRef]  
+334: 2. Albu, R.M.; Hulubei, C.; Stoica, I.; Barzic, A.I. Semi-alicyclic polyimides as potential membrane oxygenators: Rheological implications on film processing, morphology and blood compatibility. *Express Polym. Lett.* 2019, 13, 349-364. [CrossRef]  
+335: 3. Ma, P.; Dai, C.; Wang, H.; Li, Z.; Liu, H.; Li, W.; Yang, C. A review on high temperature resistant polyimide films: Heterocyclic structures and nanocomposites. Compos. Commun. 2019, 16, 84-93. [CrossRef]  
+336: 4. Diaham, S. Polyimide in Electronics: Applications and Processability Overview. In Polyimide for Electronic and Electrical Engineering Applications; IntechOpen: London, UK, 2021.  
+337: 5. Barzic, A.I.; Stoica, I.; Popovici, D.; Ursu, C.; Gradinaru, L.M.; Hulubei, C. Physico-chemical insights on tuning the morphology of a photosensitive polyimide by UV laser irradiation. Mater. Plast. 2013, 50, 88-92.  
+338: 6. Stoica, I.; Barzic, A.I.; Hulubei, C. Fabrication of nanochannels on polyimide films using dynamic plowing lithography. Appl. Surf. Sci. 2017, 426, 307-314. [CrossRef]  
+339: 7. Wang, H.-Y.; Liu, T.-J.; Liu, S.-F.; Jeng, J.-L.; Guan, C.-E. Thermal and mechanical properties of stretched recyclable polyimide film. J. Appl. Polym. Sci. 2011, 122, 210-219. [CrossRef]  
+340: 8. McKeen, L.W. Polyimides. In Film Properties of Plastics and Elastomers; Elsevier: Amsterdam, The Netherlands, 2017; pp. 147-185.  
+341: 9. Wang, Y.; Tao, L.; Wang, T.; Wang, Q. Influence of monomer conformation on the mechanical and tribological properties of thermosetting polyimides. RSC Adv. 2015, 5, 101533-101543. [CrossRef]  
+342: 10. Sava, I.; Bruma, M.; Ronova, I.A. The influence of conformational parameters on some physical properties of polyimides containing naphthalene units. High Perform. Polym. 2015, 27, 583-589. [CrossRef]  
+343: 11. Damaceanu, M.-D. Progress on Polymers Containing Imide Rings for Advanced Technologies: A Contribution from ICMPP of the Romanian Academy. Chemistry 2022, 4, 1339-1359. [CrossRef]  
+344: 12. Lin, B.; Xu, X. Preparation and Properties of Cyano-Containing Polyimide Films Based on 2,6-Bis(4-aminophenoxy)-benzonitrile. Polym. Bull. 2007, 59, 243-250. [CrossRef]  
+345: 13. Zhang, P.; Lan, Z.; Wei, J.; Yu, Y. Photodeformable Azobenzene-Containing Polyimide with Flexible Linkers and Molecular Alignment. ACS Macro Lett. 2021, 10, 469–475. [CrossRef] [PubMed]  
+346: 14. Babusca, D.; Morosanu, A.C.; Benchea, A.C.; Dimitriu, D.G.; Dorohoi, D.O. Spectral and quantum mechanical study of some azo-derivatives. J. Mol. Liq. 2018, 269, 940–946. [CrossRef]  
+347: 15. Ionita, I.; Albu, A.-M.; Radulescu, C.; Dulama, I.D.; Gavrila, I. The effects of UV irradiation in azo-derivatives. Proc. SPIE 2012, 8411, 8411J.  
+348: 16. Sava, I.; Burescu, A.; Stoica, I.; Musteata, V.; Cristea, M.; Mihaila, I.; Pohoata, V.; Topala, I. Properties of some azo-copolyimide thin films used in the formation of photoinduced surface relief gratings. RSC Adv. 2015, 5, 10125-10133. [CrossRef]  
+349: 17. Bujak, K.; Kozanecka-Szmigiel, A.; Schab-Balcerzak, E.; Konieczkowska, J. Azobenzene Functionalized "T-Type" Poly(Amide Imide)s vs. Guest-Host Systems—A Comparative Study of Structure-Property Relations. Materials 2020, 13, 1912. [CrossRef]  
+350: 18. Hagen, R.; Bieringer, T. Photoaddressable Polymers for Optical Data Storage. Adv. Mater. 2001, 13, 1805-1810. [CrossRef]  
+351: 19. Kozanecka-Szmigiel, A.; Swtkowski, K.; Schab-Balcerzak, E.; Grabiec, E. Two-photon-induced birefringence in azo-dye bearing polyimide; the birefringence changes versus the writing power. Appl. Phys. B 2011, 105, 851-855. [CrossRef]  
+352: 20. Liu, Y.; Xu, B.; Sun, S.; Wei, J.; Wu, L.; Yu, Y. Humidity- and Photo-Induced Mechanical Actuation of Cross-Linked Liquid Crystal Polymers. Adv. Mater. 2017, 29, 1604792. [CrossRef]  
+353: 21. Wie, J.J.; Chatterjee, S.; Wang, D.H.; Tan, L.-S.; Ravi Shankar, M.; White, T.J. Azobenzene-functionalized polyimides as wireless actuators. Polymer 2014, 55, 5915-5923. [CrossRef]  
+354: 22. Si, J.; Mitsuyu, T.; Ye, P.; Shen, Y.; Hirao, K. Optical poling and its application in optical storage of a polyimide film with high glass transition temperature. Appl. Phys. Lett. 1998, 72, 762-764. [CrossRef]  
+355: 23. Meng, X.; Natansohn, A.; Rochon, P. Azo polymers for reversible optical storage: 13. Photoorientation of rigid side groups containing two azo bonds. Polymer 1997, 38, 2677-2682. [CrossRef]  
+356: 24. Stracke, A.; Wendorff, J.H.; Goldmann, D.; Janietz, D.; Stiller, B. Gain Effects in Optical Storage: Thermal Induction of a Surface Relief Grating in a Smectic Liquid Crystal. Adv. Mater. 2000, 12, 282-285. [CrossRef]  
+357: 25. Georgiev, A.; Karamancheva, I.; Dimov, D.; Spassova, E.; Assa, J.; Danev, G. Polyimide coatings containing azo-chromophores as structural units. J. Phys. Conf. Ser. 2008, 113, 012032. [CrossRef]
+358: 
+359: 26. Konieczkowska, J.; Kozanecka-Szmigiel, A.; Janeczek, H.; Małęcki, J.; Wojtowicz, M.; Schab-Balcerzak, E. No effect of the hydrogen bonds on the physicochemical properties of the guest-host poly(amide imide) azosystems and efficiency of chromophore orientation. Dye. Pigment. 2018, 156, 250-259. [CrossRef]  
+360: 27. Schab-Balcerzak, E.; Konieczkowska, J.; Siwy, M.; Sobolewka, A.; Wojtowicz, M.; Wiacek, M. Comparative studies of polyimides with covalently bonded azo-dyes with their supramolecular analogues: Thermo-optical and photoinduced properties. Opt. Mater. 2014, 36, 892-902. [CrossRef]  
+361: 28. Tan, S.; Sha, Y.; Zhu, T.; Rahman, M.A.; Tang, C. Photoresponsive supramolecular polymers based on quadruple hydrogen-bonding and a photochromic azobenzene motif. Polym. Chem. 2018, 9, 5395-5401. [CrossRef]  
+362: 29. Sava, I.; Stoica, I.; Topala, I.; Mihaila, I.; Barzic, A.I. Photodesign and fabrication of surface relief gratings on films of polyimide-based supramolecular systems obtained using host-guest strategy. Polymer 2022, 249, 124829. [CrossRef]  
+363: 30. Stoica, I.; Epure, E.-L.; Barzic, A.I.; Mihaila, I.; Constantin, C.-P.; Sava, I. The Impact of the Azo-Chromophore Sort on the Features of the Supramolecular Azopolyimide Films Desired to Be Used as Substrates for Flexible Electronics. Int. J. Mol. Sci. 2022, 23, 15223. [CrossRef]  
+364: 31. Bacosca, I.; Hamciuc, E.; Bruma, M.; Ronova, I.A. Study of Aromatic Polyimides Containing Cyano Groups. High Perform. Polym. 2010, 22, 703-714. [CrossRef]  
+365: 32. Bacoşca, I.; Hamciuc, E.; Bruma, M.; Szesztay, M. Modified aromatic polyimides with flexible groups. Rev. Roum. Chim. 2009, 54, 1023-1029.  
+366: 33. Wirth, D.; Heath, J. Aminophenoxy Benzonitriles. U.S. Patent 3763211, 2 October 1973.  
+367: 34. Bruma, M.; Schulz, B.; Mercer, F.W. Polyamide Copolymers Containing Hexafluoroisopropylene Groups. J. Macromol. Sci. Part A 1995, 32, 259-286. [CrossRef]  
+368: 35. Saxena, A.; Prabhakaran, P.; Rao, V.L.; Ninan, K. Synthesis and characterization of polyamides and poly(amide-imide)s derived from 2,6-bis(3-aminophenoxy)benzonitrile or 2,6-bis(4-aminophenoxy)benzonitrile. Polym. Int. 2005, 54, 544-552. [CrossRef]  
+369: 36. Sava, I.; Kopnick, T. Synthesis and characterization of new diamines containing side substituted azobenzene groups. Rev. Roum. Chim. 2014, 59, 585-592.  
+370: 37. Ehm, C.; Vittoria, A.; Goryunov, G.P.; Izmer, V.V.; Kononovich, D.S.; Samsonov, O.V.; Di Girolamo, R.; Budzelaar, P.H.M.; Voskoboynikov, A.Z.; Busico, V.; et al. An Integrated High Throughput Experimentation/Predictive QSAR Modeling Approach to ansa-Zirconocene Catalysts for Isotactic Polypropylene. Polymers 2020, 12, 1005. [CrossRef]  
+371: 38. Ioan, S.; Hulubei, C.; Popovici, D.; Musteata, V.E. Origin of dielectric response and conductivity of some alicyclic polyimides. Polym. Eng. Sci. 2013, 53, 1430-1447. [CrossRef]  
+372: 39. das Neves, U.M.; dos Santos, D.S., Jr.; Giacometti, J.A.; Zilio, S.C.; Misoguti, L.; Balogh, D.T.; de Oliveira, O.N., Jr.; Mendonça, C.R. Optical storage properties in cast films of an azopolymer. Mater. Res. 2003, 6, 409-414. [CrossRef]  
+373: 40. Bicerano, J. Prediction of Polymers, 3rd ed.; Revised and Expanded; CRC Press: Boca Raton, FL, USA, 2002; ISBN 0824708210.  
+374: 41. Oliveira, O.N.; dos Santos, D.S.; Balogh, D.T.; Zucolotto, V.; Mendonça, C.R. Optical storage and surface-relief gratings in azobenzene-containing nanostructured films. Adv. Colloid Interface Sci. 2005, 116, 179-192. [CrossRef]  
+375: 42. Sharma, L.; Matsuoka, T.; Kimura, T.; Matsuda, H. Investigation into the surface relief grating mechanism via XPS in new azobenzene based optical material. Polym. Adv. Technol. 2002, 13, 481-486. [CrossRef]  
+376: 43. Ohta, N.; Robertson, A.R.; Robertson, A. Colorimetry: Fundamentals and Applications, 1st ed.; Wiley: Chichester, UK, 2005; Volume 30, ISBN 3175723993.  
+377: 44. Abdelrazek, E.M.; Abdelghany, A.M.; Mekhael, M.S.; Algamal, A.H. Structural and optical properties of azo dye doped polyether sulfone. Mater. Sci.—An Indian J. 2014, 10, 257-268.  
+378: 45. Cimrova, V.; Neher, D.; Kostromine, S.; Bieringer, T. Optical Anisotropy in Films of Photoaddressable Polymers. Macromolecules 1999, 32, 8496-8503. [CrossRef]  
+379: 46. Borah, D.J.; Mostako, A.T.T. Investigation on dispersion parameters of Molybdenum Oxide thin films via Wemple-DiDomenico (WDD) single oscillator model. Appl. Phys. A 2020, 126, 818. [CrossRef]  
+380: 47. Yakuphanoglu, F.; Cukurovali, A.; Yilmaz, I. Single-oscillator model and determination of optical constants of some optical thin film materials. Phys. B Condens. Matter 2004, 353, 210–216. [CrossRef]  
+381: 48. Tanaka, K. Optical properties and photoinduced changes in amorphous As S films. Thin Solid Films 1980, 66, 271-279. [CrossRef]  
+382: 49. Albu, R.M.; Stoica, I.; Barzic, A.I.; Postolache, M.; Angheluta, M.-D.; Dorohoi, D.O. Effect of mechanical treatments on orientation behavior and spectral properties of azoderivative dyes incorporated in poly(vinyl alcohol) films. Polym. Eng. Sci. 2021, 61, 2453-2465. [CrossRef]
+383: 
+384: Disclaimer/Publisher's Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.

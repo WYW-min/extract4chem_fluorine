@@ -1,0 +1,40 @@
+source_file: Optical anisotropy of uniaxially drawn and silver-dispersed polyimide films.md
+doc_id: 199b10b1ce79fbeda1fc85972d2d4f9a
+chunk_index: 2
+block_id: b0003
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: AIP Advances
+line_span: [40, 65]
+char_span: [936, 1370]
+line_count: 24
+effective_body_non_empty_lines: 12
+
+lines:
+--- chunk (b0003: AIP Advances) ---
+40: # AIP Advances
+41: 
+42: Why Publish With Us?
+43: 
+44: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+45: 21DAYS average time to 1st decision
+46: 
+47: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+48: 
+49: OVER 4 MILLION
+50: 
+51: views in the last year
+52: 
+53: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+54: 
+55: INCLUSIVE
+56: 
+57: scope
+58: 
+59: Learn More
+60: 
+61: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+62: 
+63: AIP Publishing

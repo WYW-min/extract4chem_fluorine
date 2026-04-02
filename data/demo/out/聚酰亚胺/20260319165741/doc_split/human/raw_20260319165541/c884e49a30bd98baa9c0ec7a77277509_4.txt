@@ -1,0 +1,31 @@
+source_file: Enhancing the Toughness of Free-Standing Polyimide Films for Advanced Electronics Applications A Study on the .md
+doc_id: c884e49a30bd98baa9c0ec7a77277509
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [183, 199]
+char_span: [31036, 32763]
+line_count: 15
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+183: # 4. Conclusions
+184: 
+185: In summary, free-standing PI films with high toughness were prepared by a typical two-step polycondensation method. The prepared PI films exhibited great combined mechanical, thickness uniformity, and surface homogeneity, including tensile strength of up to  $194.71\mathrm{MPa}$ , of elongation up to  $130.13\%$ , and  $T_{\mathrm{g}}$  of  $400^{\circ}\mathrm{C}$ . The excellent mechanical properties of the films, including strength and toughness, are mainly attributed to two factors. The ether bonds in the diamine monomer endow the derived polyimide films with excellent toughness. On the other hand, systematic exploration of the film-forming process provides a method for achieving the high toughness of the films.
+186: 
+187: Author Contributions: Conceptualization, X.W. and R.Z.; methodology, H.W. and R.Z.; validation, X.D. and H.W.; formal analysis, R.Z. and H.W.; investigation, H.W. and M.X.; data curation, X.D.; writing—original draft preparation, R.Z.; writing—review and editing, X.W. and Z.W.; supervision, X.W.; project administration, X.W.; funding acquisition, X.W. All authors have read and agreed to the published version of the manuscript.
+188: 
+189: Funding: This research was funded by the National Key Research and Development Program of China (2020YFB2008501). Natural Science Foundation of Shaanxi Province (2022JQ-643).
+190: 
+191: Institutional Review Board Statement: Not applicable.
+192: 
+193: Data Availability Statement: Not applicable.
+194: 
+195: Acknowledgments: The authors are grateful for the support from the National Key Research and Development Program of China (2020YFB2008501) and Natural Science Foundation of Shaanxi Province (2022JQ-643).
+196: 
+197: Conflicts of Interest: The authors declare no conflict of interest.

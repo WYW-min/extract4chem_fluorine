@@ -1,0 +1,71 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 11
+block_id: b0012
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Preparation and characterization of PI/clay nanocomposite materials (PCNs)
+line_span: [192, 248]
+char_span: [32552, 40426]
+line_count: 55
+effective_body_non_empty_lines: 32
+
+lines:
+--- chunk (b0012: Preparation and characterization of PI/clay nanocomposite materials (PCNs)) ---
+192: # Preparation and characterization of PI/clay nanocomposite materials (PCNs)
+193: 
+194: The preparation and characterization of polyimide nanocomposite materials with different contents of BAOB-modified organoclay are also investigated. Scheme 5 shows a procedure for the preparation of PI/clay nanocomposites by thermal imidization according to method II reported by Gu et al. [48].
+195: 
+196: An appropriate amount of BAOB-modified organoclay was introduced into DMAc and stirred magnetically for  $24\mathrm{h}$  at room temperature. A BAOB solution in DMAc was added to this suspension and stirred for an additional  $24\mathrm{h}$  at room temperature under argon. The ODPA solution in DMAc was then added to this mixture and stirred vigorously for another  $24\mathrm{h}$  at room temperature to give a DMAc solution of poly(amic acid)/clay. The resulting solution was then poured onto a glass plate, left
+197: 
+198: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+199: (a) Na-MMT
+200: 
+201: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+202: (b) Na-MMT
+203: 
+204: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+205: (c) BAOP-MMT
+206: 
+207: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+208: (d) BAOP-MMT
+209: 
+210: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+211: Scheme 5 Preparation of PCN materials by thermal imidization.
+212: 
+213: at room temperature overnight, and then heat treated in a high temperature oven from 60 to  $300^{\circ}\mathrm{C}$  (at a heating rate of  $1^{\circ}\mathrm{C / min}$ ).
+214: 
+215: Fig. 7 presents X-ray diffraction patterns of Na-MMT, BAOB-modified organoclay, and PI hybrid films with various organoclay contents. The interlayer  $d_{001}$ -spacing can be calculated from peak positions using Bragg's law:  $n\lambda = 2d$  sin  $\theta$ , where  $\lambda$  is the X-ray wavelength (1.5418 Å). The  $d_{001}$ -spacing of Na-MMT was measured as  $1.0~\mathrm{nm}$  ( $2\theta = 8.76^{\circ}$ ). In general, a larger interlayer spacing should assist the intercalation of the polymer chains. It should also lead to easier dissociation of the clay, which should result in hybrids with better clay dispersion. A strong peak appears at  $2\theta = 6.70^{\circ}$  ( $d = 1.3~\mathrm{nm}$ ) representing the diffraction from the  $d_{001}$  crystal surface of the BAOB-MMT. The X-ray diffraction pattern of PCN  $1\%$  does not show any diffraction peak, indicating that the silicate layers of organoclay have been either intercalated to a distance of more than  $4.4~\mathrm{nm}$  ( $2\theta < 2.0^{\circ}$ ) or completely exfoliated. This observation reveals
+216: 
+217: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+218: Fig. 6 SEM images of Na-MMT at a)  $15000\mathrm{x}$  and b)  $30000\mathrm{x}$ , and of BAOB-MMT at c)  $15000\mathrm{x}$  and d)  $30000\mathrm{x}$  magnifications.  
+219: Fig. 7 Wide-angle powder X-ray diffraction patterns of BAOB-MMT, PI, and PI/clay nanocomposites.
+220: 
+221: that the organophilic clay in this hybrid disperses homogeneously into the polyimide matrix. This homogeneous dispersion may be due to the existence of some physicochemical interactions between the polyimide and the organophilic clays. The absence of any diffraction peak between 2 and  $10^{\circ}$  is also observed for pure polyimide. Polyimide/clay nanocomposites  $3 - 5\%$  show a broad diffraction peak at  $6.75 - 6.77^{\circ}$ $(d = 1.3\mathrm{nm})$ . In a very extensive study, Connell et al. proved that in the polyimide hybrids, the observation of this peak is the consequence of the thermal decomposition of the organic surfactant. This phenomenon leads to collapsing of the clay layers that reduces the  $d_{001}$ -spacing and the formation of collapsed agglomerated structure. The clay agglomerates apparently retained their original structure, and it is doubtful that they were impregnated by monomer prior to polymerization [51]. Therefore, both intercalated/exfoliated and agglomerated structures are present in the nanocomposite with clay content higher than  $1\%$ .
+222: 
+223: A substantial increase in the intensities of the WXRD peak was observed for the PCNs of loading up to  $5\mathrm{wt}\%$  which suggests that the dispersion is better at a lower clay loading than at a higher clay loading. This observation also implies that there is no significant quantity of intercalated/exfoliated organoclay in the nanocomposites with high clay content, and the organoclay is mainly present in the form of collapsed agglomerated form. The WXRD data are summarized in Table 6.
+224: 
+225: Table 7 summarizes the results of thermal analyses by TGA and DSC for PI and PCNs. As seen, the  $\mathrm{T_g}$  value increases
+226: 
+227: Table 6. Diffraction peaks and basal spacing of Na-MMT, BAOB-MMT, the polyimide, and PI/clay nanocomposites.  
+228: 
+229: <table><tr><td>Product</td><td colspan="2">Diffraction peak and basal spacing</td></tr><tr><td></td><td>Typical diffraction peak (°)</td><td>Basal spacing (nm)</td></tr><tr><td>Na-MMT</td><td>8.76</td><td>1.0</td></tr><tr><td>BAOB-MMT</td><td>6.70</td><td>1.3</td></tr><tr><td>Pure Polyimide</td><td>—</td><td>—</td></tr><tr><td>aPCN 1%</td><td>—</td><td>—</td></tr><tr><td>PCN 3%</td><td>6.77</td><td>1.3</td></tr><tr><td>PCN 5%</td><td>6.75</td><td>1.3</td></tr></table>
+230: 
+231: ${}^{a}$  Polymer-clay nanocomposites.
+232: 
+233: Table 7. Thermal properties of the polyimides.  
+234: 
+235: <table><tr><td>Polymer</td><td>Tg(℃)a</td><td>Tm(℃)a</td><td>10% weight loss (℃)</td><td>TD(℃)b</td><td>Char Yieldc</td></tr><tr><td>Pure 
+236: Polyimide (7)</td><td>262.2</td><td>304.7</td><td>504.2</td><td>476.8</td><td>73.1</td></tr><tr><td>PCN 1%</td><td>296.8</td><td>—</td><td>499.9</td><td>472.4</td><td>70.3</td></tr><tr><td>PCN 3%</td><td>300.2</td><td>—</td><td>496.5</td><td>472.8</td><td>72.2</td></tr><tr><td>PCN 5%</td><td>266.7</td><td>297.2</td><td>543.3</td><td>498.1</td><td>73.0</td></tr></table>
+237: 
+238: a Obtained based on DSC measurements.  
+239: b Onset decomposition temperature.  
+240: cAt  $574^{\circ}C$
+241: 
+242: dramatically from  $262.2^{\circ}\mathrm{C}$  for pure polyimide to  $300.2^{\circ}\mathrm{C}$  for PCN  $3\%$  wt%. The melting endotherm did not also observe for PCN 1 and  $3\mathrm{wt}\%$ . This is tentatively attributed to the confinement of the intercalated polymer chains within the clay galleries that prevent the segmental motions of the polymer chains [17]. However, further addition of organoclay up to  $5\mathrm{wt}\%$  leads to a decrease in  $\mathrm{T_g}$ . This decrease might be due to the aggregation of organoclay particles that reduces the interfacial interaction between organoclay and the PI matrix [23]. Furthermore, the melting endotherm of PCN 5 wt% observes at  $297.2^{\circ}\mathrm{C}$  that is very close to the melting temperature of the virgin polymer. This indicates phase separation as a result of organoclay coagulation at high clay loadings.
+243: 
+244: Fig. 8 shows TGA curves of the pure polyimide and nanocomposites with  $1 - 5\mathrm{wt}\%$  clay loadings. As seen, temperature of  $10\%$  weight loss and char yield at  $574^{\circ}\mathrm{C}$  are not significantly influenced by amount of clay loading for PCNs 0-3 wt%. However, thermal properties of PCN 5 wt% are dramatically improved. The improvement of thermal stability can be attributed to the barrier effect of organoclay. BAOB-MMT is a layered structure and small molecules generated during thermal decomposition process cannot permeate, and thus have to bypass, organoclay layers [52].
+245: 
+246: Scanning electron microscopy (SEM) was used to consider the morphology of the polymer and nanocomposite film surfaces. Some significant and interesting changes have been observed in the PCN 1 wt% surface with respect to virgin PI film, Figs. 9a-d. Too many micro-cracks are observed in the background of pure polyimide surface. However, as can be seen in the pictures, homogeneity along with the continuation of the film surface is increased in the PCN 1wt%.

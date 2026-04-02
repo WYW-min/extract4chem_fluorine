@@ -17,6 +17,26 @@ platforms = ["linux-64", "win-64"]
 extract4chem_fluorine = { path = ".", editable = true }
 
 [tool.pixi.tasks]
+doc-split = "python -m src.extract_chem_2.doc_split"
+main-signal-before = "python -m src.extract_chem_2.main_signal_before"
+main-signal-predict = "python -m src.extract_chem_2.main_signal_predict --model-name doubao-seed-2-0-lite-high"
+main-signal-after = "python -m src.extract_chem_2.main_signal_after"
+char-before = "python -m src.extract_chem_2.characterization_before"
+char-predict = "python -m src.extract_chem_2.characterization_predict -m doubao-seed-2-0-lite-high"
+char-after = "python -m src.extract_chem_2.characterization_after"
+prop-before = "python -m src.extract_chem_2.property_before"
+prop-predict = "python -m src.extract_chem_2.property_predict -m doubao-seed-2-0-lite-high"
+prop-after = "python -m src.extract_chem_2.property_after"
+proc-before = "python -m src.extract_chem_2.process_before"
+proc-predict = "python -m src.extract_chem_2.process_predict -m doubao-seed-2-0-lite-high"
+proc-after = "python -m src.extract_chem_2.process_after"
+final-merge = "python -m src.extract_chem_2.final_merge"
+
+doc-split-cur = "pixi run doc-split src.extract_chem_2.doc_split --inpath data/out/聚酰亚胺/raw_20260316.jsonl"
+main-signal-before-cur = "pixi run main-signal-before --inpath data/out/聚酰亚胺/20260316195500/doc_split/raw_20260316.jsonl"
+main-signal-predict-cur = "pixi run main-signal-predict --inpath data/out/聚酰亚胺/20260316195500/main_signal_before/raw_20260316.jsonl"
+main-signal-after-cur = "pixi run main-signal-after --before-jsonl data/out/聚酰亚胺/20260316195500/main_signal_before/raw_20260316.jsonl"
+
 
 [tool.pixi.dependencies]
 langchain = ">=1.0,<2.0"
@@ -26,6 +46,7 @@ langchain-openai = ">=1.0.1,<2"
 orjsonl = ">=1.0.0,<2"
 loguru = ">=0.7.3,<0.8"
 jsonlines = ">=4.0.0,<5"
+ipywidgets = ">=8.1.8,<9"
 
 [tool.pixi.environments]
 default = { solve-group = "default" }

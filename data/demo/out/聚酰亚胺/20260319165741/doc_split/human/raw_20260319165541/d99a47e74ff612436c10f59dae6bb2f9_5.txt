@@ -1,0 +1,67 @@
+source_file: New Strategy for Inducing Surface Anisotropy in Polyimide Films for Nematics Orientation in Display Applicatio.md
+doc_id: d99a47e74ff612436c10f59dae6bb2f9
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [315, 365]
+char_span: [54603, 64590]
+line_count: 51
+effective_body_non_empty_lines: 48
+
+lines:
+--- chunk (b0006: References) ---
+315: # References
+316: 
+317: 1. Liu, J.; Ni, H.; Wang, Z.; Yang, S.; Zhou, W. Colorless and Transparent high-Temperature-Resistant Polymer Optical Films-Current Status and Potential Applications in Optoelectronic Fabrications. In Optoelectronics-Materials and Devices; InTech: London, UK, 2015; ISBN 978-953-51-2174-9.  
+318: 2. Hoogboom, J.; Rasing, T.; Rowan, A.E.; Nolte, R.J.M. LCD alignment layers. Controlling nematic domain properties. J. Mater. Chem. 2006, 16, 1305-1314. [CrossRef]  
+319: 3. Wang, F.; Shao, L.; Bai, Q.; Che, X.; Liu, B.; Wang, Y. Photo-induced vertical alignment of liquid crystals via in situ polymerization initiated by polyimide containing benzophenone. Polymers 2017, 9, 233. [CrossRef] [PubMed]  
+320: 4. Jiao, M.; Ge, Z.; Song, Q.; Wu, S.-T. Alignment layer effects on thin liquid crystal cells. Appl. Phys. Lett. 2008, 92, 061102. [CrossRef]  
+321: 5. Berreman, D.W. Alignment of Liquid Crystals by Grooved Surfaces. Mol. Cryst. Liq. Cryst. 1973, 23, 215-231. [CrossRef]  
+322: 6. Stöhr, J.; Samant, M.G. Liquid crystal alignment by rubbed polymer surfaces: A microscopic bond orientation model. J. Electron Spectros. Relat. Phenomena 1999, 98-99, 189-207. [CrossRef]  
+323: 7. van Aerle, N.A.J.M.; Tol, A.J.W. Molecular Orientation in Rubbed Polyimide Alignment Layers Used for Liquid-Crystal Displays. Macromolecules 2002, 27, 6520-6526. [CrossRef]  
+324: 8. Nechifor, C.D.; Postolache, M.; Albu, R.M.; Barzic, A.I.; Dorohoi, D.O. Induced birefringence of rubbed and stretched polyvinyl alcohol foils as alignment layers for nematic molecules. Polym. Adv. Technol. 2019, 30, 2143-2152. [CrossRef]  
+325: 9. Barzic, A.I.; Stoica, I.; Popovici, D.; Vlad, S.; Cozan, V.; Hulubei, C. An insight on the effect of rubbing textile fiber on morphology of some semi-alicyclic polyimides for liquid crystal orientation. Polym. Bull. 2012, 70, 1553-1574. [CrossRef]  
+326: 10. Yamahara, M.; Nakamura, M.; Koide, N.; Sasaki, T. Influence of rubbing conditions of polyimide alignment layer on optical anisotropy of immobilized liquid crystal film. Liq. Cryst. 2007, 34, 381-387. [CrossRef]  
+327: 11. Stoica, I.; Barzic, A.I.; Hulubei, C. The impact of rubbing fabric type on surface roughness and tribological properties of some semi-alicyclic polyimides evaluated from atomic force measurements. Appl. Surf. Sci. 2013, 268, 442-449. [CrossRef]  
+328: 12. Mathews, A.S.; Kim, I.; Ha, C. Synthesis, characterization, and properties of fully aliphatic polyimides and their derivatives for microelectronics and optoelectronics applications. Macromol. Res. 2007, 15, 114-128. [CrossRef]  
+329: 13. Ghosh, A.; Sen, S.K.; Banerjee, S.; Voit, B. Solubility improvements in aromatic polyimides by macromolecular engineering. RSC Adv. 2012, 2, 5900-5926. [CrossRef]  
+330: 14. Yang, Y.; Jung, Y.; Cho, M.D.; Lee, S.G.; Kwon, S. Transient color changes in oxidative-stable fluorinated polyimide film for flexible display substrates. RSC Adv. 2015, 5, 57339-57345. [CrossRef]  
+331: 15. Mehdipour-Ataei, S.; Akbarian-Feizi, L. Soluble polyimides from a semi-aliphatic diamine containing ester, amide and ether groups. Chin. J. Polym. Sci. 2010, 29, 93–100. [CrossRef]  
+332: 16. He, X.; Wang, S.; Wu, X.; Shu, C.; Fan, X.; Yu, Z.; Huang, W. Soluble and transparent polyimides with high Tgs from a new semi-aliphatic diamine with cyclohexyl and ortho-methyl groups. High Perform. Polym. 2020, 33, 528-537. [CrossRef]  
+333: 17. Barzic, A.I.; Stoica, I.; Fifere, N.; Vlad, C.D.; Hulubei, C. Morphological effects on transparency and absorption edges of some semi-alicyclic polyimides. J. Polym. Res. 2013, 20, 130. [CrossRef]  
+334: 18. Barzic, A.I.; Hulubei, C.; Stoica, I.; Albu, R.M. Insights on Light Dispersion in Semi-Alicyclic Polyimide Alignment Layers to Reduce Optical Losses in Display Devices. Macromol. Mater. Eng. 2018, 303, 1-11. [CrossRef]  
+335: 19. Albu, R.M.; Hulubei, C.; Stoica, I.; Barzic, A.I. Semi-alicyclic polyimides as potential membrane oxygenators: Rheological implications on film processing, morphology and blood compatibility. *Express Polym. Lett.* 2019, 13, 349-364. [CrossRef]  
+336: 20. Hulubei, C.; Albu, R.M.; Lisa, G.; Nicoescu, A.; Hamciuc, E.; Hamciuc, C.; Barzic, A.I. Antagonistic effects in structural design of sulfur-based polyimides as shielding layers for solar cells. Sol. Energy Mater. Sol. Cells 2019, 193, 219-230. [CrossRef]
+337: 
+338: 21. Barzic, A.I.; Hulubei, C.; Asandulesa, M.; Lisa, G.; Popovici, D.; Stoica, I.; Nicolescu, A.; Albu, R.M. Interlayer dielectrics based on copolyimides containing non-coplanar alicyclic-units for multilevel high-speed electronics. Polym. Test. 2020, 90, 106704. [CrossRef]  
+339: 22. Stoica, I.; Barzic, A.I.; Hulubei, C. Fabrication of nanochannels on polyimide films using dynamic plowing lithography. Appl. Surf. Sci. 2017, 426, 307-314. [CrossRef]  
+340: 23. Barzic, A.I.; Albu, R.M.; Stoica, I. Surface alteration implications on potential use of semi-alicyclic polyimide as biomedical materials. Appl. Surf. Sci. 2021, 540, 148377. [CrossRef]  
+341: 24. Cosutchi, A.I.; Hulubei, C.; Stoica, I.; Loan, S. Morphological and structural-rheological relationship in epiclon-based poly-imide/hydroxypropylcellulose blend systems. J. Polym. Res. 2010, 17, 541-550. [CrossRef]  
+342: 25. Cosutchi, A.I.; Hulubei, C.; Stoica, I.; Loan, S. A new approach for patterning epiclon-based polyimide precursor films using a lyotropic liquid crystal template. J. Polym. Res. 2011, 18, 2389-2402. [CrossRef]  
+343: 26. Khan, P.M.; Rasulev, B.; Roy, K. QSPR Modeling of the Refractive Index for Diverse Polymers Using 2D Descriptors. ACS Omega 2018, 3, 13374-13386. [CrossRef] [PubMed]  
+344: 27. Liu, W. Prediction of glass transition temperatures of aromatic heterocyclic polyimides using an ANN model. Polym. Eng. Sci. 2010, 50, 1547-1557. [CrossRef]  
+345: 28. Olariu, M.A.; Hamciuc, C.; Asandulesa, M.; Hamciuc, E.; Epure, E.L.; Tsakiris, V.; Lisa, G. Study on highly thermostable low-k polymer films based on fluorene-containing polyetherimides. Polym. Eng. Sci. 2021, 61, 2639-2652. [CrossRef]  
+346: 29. Wang, S.; Cheng, M.; Zhou, L.; Dai, Y.; Dang, Y.; Ji, X. QSPR modelling for intrinsic viscosity in polymer-solvent combinations based on density functional theory. SAR QSAR Environ. Res. 2021, 32, 379-393. [CrossRef]  
+347: 30. Hulubei, C.; Popovici, D. Novel polyimides containing alicyclic units. Synthesis and characterization. Rev. Roum. Chim. 2011, 56, 209-215.  
+348: 31. Hulubei, C.; Hamciuc, E.; Bruma, M. New polyimides based on epiclon. Rev. Roum. Chim. 2007, 52, 1063-1069.  
+349: 32. Materials Studio 4.0. (DMol3, Synthia, Discover, Forcite and Amorphous Cell Module); Accelerys Software Inc.: San Diego, CA, USA, 2005.  
+350: 33. Bicerano, J. Prediction of Polymers, 3rd ed.; Revised and Expanded; Marcel Dekker Inc.: New York, NY, USA, 2002; ISBN 0824708210.  
+351: 34. Stoica, I.; Epure, E.L.; Constantin, C.P.; Damaceanu, M.D.; Ursu, E.L.; Mihaila, I.; Sava, I. Evaluation of local mechanical and chemical properties via AFM as a tool for understanding the formation mechanism of pulsed UV laser-nanoinduced patterns on azo-naphthalene-based polyimide films. Nanomaterials 2021, 11, 812. [CrossRef]  
+352: 35. Gestoso, P.; Brisson, J. Simulation of orientation of uniaxially stretched poly(vinyl phenol) by molecular dynamics. J. Polym. Sci. Part B Polym. Phys. 2002, 40, 1601-1625. [CrossRef]  
+353: 36. Lin, D.; Jiang, M.; Qi, S.; Wu, D. Macromolecular structural evolution of polyimide chains during large-ratio uniaxial fiber orientation process revealed by molecular dynamics simulation. Chem. Phys. Lett. 2020, 756, 137847. [CrossRef]  
+354: 37. Binger, D.R.; Hanna, S. Computer simulations of interactions between liquid crystal molecules and polymer surfaces II. Alignment of smectic C-forming mesogens. Liq. Cryst. 2000, 27, 89-102. [CrossRef]  
+355: 38. Matsumoto, T.; Mikami, D.; Hashimoto, T.; Kaise, M.; Takahashi, R.; Kawabata, S. Alicyclic polyimides-a colorless and thermally stable polymer for opto-electronic devices. J. Phys. Conf. Ser. 2009, 187, 012005. [CrossRef]  
+356: 39. Zhuang, Y.; Seong, J.G.; Lee, Y.M. Polyimides containing aliphatic/alicyclic segments in the main chains. Prog. Polym. Sci. 2019, 92, 35-88. [CrossRef]  
+357: 40. Tapaswi, P.K.; Choi, M.C.; Jeong, K.M.; Ando, S.; Ha, C.S. Transparent Aromatic Polyimides Derived from Thiophenyl-Substituted Benzidines with High Refractive Index and Small Birefringence. Macromolecules 2015, 48, 3462-3474. [CrossRef]  
+358: 41. Tabor, D. The bulk modulus of rubber. Polymer (Guildf.) 1994, 35, 2759-2763. [CrossRef]  
+359: 42. Pawlak, A. The Entanglements of Macromolecules and Their Influence on the Properties of Polymers. Macromol. Chem. Phys. 2019, 220, 1-25. [CrossRef]  
+360: 43. Stoica, I.; Barzic, A.I.; Hulubei, C.; Timpu, D. Statistical analysis on morphology development of some semialicyclic polyimides using atomic force microscopy. Microsc. Res. Tech. 2013, 76, 503-513. [CrossRef]  
+361: 44. Kelly, S.M.; O'Neill, M. Liquid crystals for electro-optic applications. In Handbook of Advanced Electronic and Photonic Materials and Devices; Elsevier: Amsterdam, The Netherlands, 2001; Volume 7, pp. 1-66. ISBN 0125137575.  
+362: 45. Khoo, I.-C.; Simoni, F. Physics of Liquid Crystalline Materials: Based on Lectures Delivered at the Summer School on the Physics of Liquid Crystals, Bra, Italy, 4-14 October 1988; Gordon and Breach Science Publishers: Philadelphia, PA, USA, 1991, ISBN 9782881244810.  
+363: 46. Berreman, D.W. Solid Surface Shape and the Alignment of an Adjacent Nematic Liquid Crystal. Phys. Rev. Lett. 1972, 28, 1683. [CrossRef]  
+364: 47. Hasegawa, M. Rubbing Technologies: Mechanisms and Applications. In Alignment Technology and Applications of Liquid Crystal Devices; Takatoh, K., Sakamoto, M., Hasegawa, R., Koden, M., Nobuyuki Itoh, M.H., Eds.; CRC Press: Boca Raton, FL, USA, 2005; pp. 7-54, ISBN 9780367392475.  
+365: 48. Pavlov, I.; Candemir, O.; Rybak, A.; Dobrovolskiy, A.; Kadan, V.; Blonskiy, I.; Lytvyn, P.; Korchovyi, A.; Tytarenko, P.; Kazantseva, Z.; et al. Azimuthal and polar anchoring energies of aligning layers structured by nonlinear laser lithography. Liq. Cryst. 2021, 48, 131-149. [CrossRef]

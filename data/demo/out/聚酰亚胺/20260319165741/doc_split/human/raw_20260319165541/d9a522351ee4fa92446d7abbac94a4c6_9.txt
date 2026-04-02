@@ -1,0 +1,46 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 9
+block_id: b0010
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Air filtration properties
+line_span: [128, 159]
+char_span: [14577, 18937]
+line_count: 30
+effective_body_non_empty_lines: 16
+
+lines:
+--- chunk (b0010: Air filtration properties) ---
+128: # Air filtration properties
+129: 
+130: The prepared samples were tested with PM removal efficiency for particles with different sizes (0.25, 0.4, 0.6, 0.85, 1.5, 2.5, and  $4\mu \mathrm{m}$ ). The PM2.5 removal efficiency of commercial PI nonwoven filter was only  $81.4\%$  as shown in Figure 5. As compared, sample C1 did not greatly enhanced filtration efficiency ( $85.2\%$  of PM2.5 filtration efficiency). It is due to the lack of nanofiber web formation on the surface. In contrast, the nanofiber-coated samples (C2, C3, and C4) exhibited significant improvement in PM removal efficiency. The beads appearing in sample C1 had diameters of  $\sim 2 - 3\mu \mathrm{m}$ , which were much larger than the nanofibers ( $\sim 300 - 500\mathrm{nm}$ , Figure 3) observed in other samples. Herein greater available specific surface areas were thought to be obtained in them. In addition, the nanofiber-coated filters had smaller pores and higher portions of small pores as discussed above. These structures played a crucial role in removing particles from gas (Liu et al., 2015). Lower size of pores and higher amounts of small pores led to an increasing enhancement in PM removal efficiency, as shown in Figure 5. Sample C4 showed the highest PM2.5
+131: 
+132: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+133: 
+134: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+135: 
+136: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+137: 
+138: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+139: 
+140: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+141: Figure 4. Pore size distributions of commercial PI filter (a) C0 and PI nanofiber-coated nonwoven fabrics: (b) C1, (c) C2, (d) C3, and (e) C4.
+142: 
+143: removal efficiency  $(97.2\%)$ . Moreover, its filtration efficiencies for 0.25 and  $0.4~{\mu\mathrm{m}}$  of airborne particles were increased to 18.1 and  $41\%$ , respectively. This suggests electropsun PI nanofibers coating is an effective method to improve the filtration efficiency of commercial PI nonwoven filters.
+144: 
+145: Another important desirable parameter of air filtration is low pressure drop of air flow, which is favorable for maintaining a high filtration flux and saving energy. It was reported
+146: 
+147: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+148: Figure 5. Filtration efficiency of PI nanofiber-coated commercial PI nonwoven fabrics.
+149: 
+150: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+151: Figure 6. Filtration pressure drops of PI nanofiber-coated commercial PI nonwoven fabrics at different air flow velocities.
+152: 
+153: that energy consumption was in proportion to the pressure drop through the filters and usually accounted for  $70\%$  of the total life cycle cost of the air filters (Li et al., 2014). However, there is usually a trade-off between high removal efficiency and low pressure drop at high air flow velocity. Filtration pressure drops of PI nonwoven filters coated
+154: 
+155: with different morphologies of PI nanofibers under a variety of air flow rates were compared, as shown in Figure 6. To be mentioned, the configurations of coated samples were not changed after filtration test in different wind velocity, indicating the fastness between the commercial PI fabrics and PI nanofibers.
+156: 
+157: There were no significant differences in pressure drop between the nanofiber-coated samples (sample C2, C3, and C4) and uncoated one. The pressure drop over sample C4 was  $82\mathrm{Pa}$  at a gas velocity of  $7.94~\mathrm{m}^3 /\mathrm{h}$ , only  $6\mathrm{Pa}$  higher than the blank samples. Two factors contribute to this result. On the one hand, thickness of nanofibers coating  $(\sim 1\mu \mathrm{m})$  is negligible compared to the nonwoven fabric underneath. There is a lot of empty space between the nanofibers. On the other hand, the drag force from nanofibers on the air flow is reduced due to the "slip" effect, thus reducing the pressure drop (Zhang et al., 2016). Sample C2 even had a lower pressure drop than the uncoated one. It may be due to the irregularities in the weights per square meter of nonwoven mats, which are hardly controlled during the practical production. It was noted that sample C1 showed highest pressure drop  $(92.5\mathrm{Pa}$  under  $7.94~\mathrm{m}^3 /\mathrm{h})$ . The possible reason is the beads from top layer clogged the pore in nonwoven fabrics.

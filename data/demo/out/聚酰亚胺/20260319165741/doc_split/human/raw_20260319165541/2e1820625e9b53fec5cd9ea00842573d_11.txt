@@ -1,0 +1,19 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 11
+block_id: b0012
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: OPTICAL PROPERTIES
+line_span: [131, 135]
+char_span: [21364, 22758]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0012: OPTICAL PROPERTIES) ---
+131: # OPTICAL PROPERTIES
+132: 
+133: Table 3 shows the cut-off wavelength and optical transmittance at  $500\mathrm{nm}$  obtained from the UV-vis spectra (Figure 4). The transmission cut-off measured at  $500\mathrm{nm}$  of visible wavelength, was corresponds to the maximum intensity of solar radiation (Kambezidis 2012). The large difference in the transparency value of both PI films was strongly influenced by the differences in their polymer structure. Based on Table 3, MDI-6FDA film exhibits good transparency properties with a higher light transmission value than that of Kapton film. This is due to the steric hindrance from the large  $\mathrm{C(CF_3)_2}$  group in MDI-6FDA film has prevented the formation of intermolecular CT interactions, resulting in a film with a less intense colour than Kapton film (Ando, Matsuura & Sasaki 1997; Ghosh, Mistri & Banerjee 2015; Hasegawa & Horie 2001; St Clair, St Clair & Shevket 1984). Meanwhile, the rigid conjugated PMDA structure on Kapton has enhanced the interactions between molecules in the polymer and led to the intense brown film colour (Ando, Matsuura & Sasaki 1997; Deng et al. 2018). This in turn produces a higher light absorption of Kapton film in the violet-blue region (400 nm - 490 nm) compared to MDI-6FDA film (Shen, Feng & Zhang 2020). This finding highlights the potential advantage of MDI-6FDA film for use in optical application.

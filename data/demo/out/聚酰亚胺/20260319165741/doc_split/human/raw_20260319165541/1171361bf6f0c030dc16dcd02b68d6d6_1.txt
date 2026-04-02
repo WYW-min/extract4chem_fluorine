@@ -1,0 +1,27 @@
+source_file: Electrospun Benzimidazole-Based Polyimide Membrane for Supercapacitor Applications.md
+doc_id: 1171361bf6f0c030dc16dcd02b68d6d6
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [53, 65]
+char_span: [3640, 8053]
+line_count: 11
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+53: # 1. Introduction
+54: 
+55: Supercapacitors are a clean-energy storage system with a higher power density and longer cycle life than conventional rechargeable batteries [1-3]. Compared with conventional dielectric capacitors, supercapacitors can store significantly more energy due to their porous electrodes, which offer a greater surface area for ion adsorption and desorption [4,5]. The electrolyte solutions used in supercapacitors may be either aqueous or organic. Of the two types of electrolytes, organic electrolytes have a wider potential window ( $>1.5\mathrm{V}$ ) [6-8], and thus have a better energy storage performance.
+56: 
+57: One of the most important components in supercapacitors and other energy storage systems is the membrane, which physically separates the anode and cathode and prevents internal short circuits between them. The main requirements for a membrane include high ionic conductivity, good chemical and mechanical properties, and high thermal stability [9-12]. The literature contains many studies on the fabrication of functionalized separators capable of meeting these requirements. For example, Berrada et al. [13] fabricated tough copolymer polyimide (PI) membranes with a tensile modulus of  $2.4\mathrm{GPa}$  and a tensile strength of  $95\mathrm{MPa}$ . Liu et al. [14] synthesized membranes with an improved modulus and
+58: 
+59: tensile strength of  $5.7\mathrm{GPa}$  and  $180\mathrm{MPa}$ , respectively, achieved through a closer packing of the polymer chains. Hu et al. [15] prepared polyimides-based separators using an electrospinning method. The separators not only had a high mechanical strength and thermal stability but also a high ionic conductivity in electrochemistry applications due to their high porosity.
+60: 
+61: Polyimides (PIs) have been extensively studied due to their excellent mechanical and electrical properties and superior chemical and thermal stability [13-17]. PIs have been widely used to fabricate many different membranes, fibers, coatings and adhesives [16-19]. However, to meet the requirements of emerging high-performance supercapacitors and other clean-energy storage systems. PIs with even better properties, particularly higher porosity and superior thermal and dimensional stability, are urgently required [20]. The favorable properties of PIs stem mainly from the ring structures of benzoxazole, furan, pyrimidine and pyridine in the polymeric backbone [21,22]. Among these structures, aromatic polybenzimidazoles (PBIs) are particularly attractive on account of their outstanding mechanical and dielectric properties at high temperatures [23,24]. Several studies have attempted to realize high-performance separators for supercapacitor applications by combining the advantages of PIs and PBIs, respectively, via a physical blending process [25,26]. However, the resulting materials have only partial miscibility due to the inherent stiffness of the polymer chains and the competitive nature of the intermolecular interactions between them. Consequently, the feasibility for preparing homogeneous materials with equivalent properties through the copolymerization of monomers has attracted growing interest in recent years. Xu et al. [27] synthesized a symmetric diamine monomer containing benzimidazole rings  $(6,6^{\prime}$ -bis[2-(4-aminophenyl) benzimidazole] (BAPBI)) through a benzimidazolization condensation method and then obtained corresponding PIs via a two-step polymerization process. The PIs were shown to have a high thermal stability and an outstanding mechanical performance as a result of their rigid-rod structures and the inclusion of hydrogen bonds between the macromolecular chains.
+62: 
+63: In the present study, BAPBI is synthesized in a one-step process through the direct benzimidazolization of paminobenzoic acid (PABA) and  $3,3^{\prime}$ -diaminobenzidine (DAB) in polyphosphoric acid. Poly(benzimidazole imide) (BI-PI) is then prepared through a two-step polycondensation process with oxydiphthalic anhydride (OPDA) followed by thermal imidization. The BI-PIs are woven into a membrane structure using an electrospinning technique and the membrane is hot-pressed for  $30\mathrm{min}$  at  $200^{\circ}\mathrm{C}$  under a pressure of  $50\mathrm{kgf/cm}^2$ . Finally, the hot-pressed membrane is assembled into a supercapacitor as a separator, and its electrical performance is compared with that of a conventional cellulose separator.

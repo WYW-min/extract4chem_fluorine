@@ -1,0 +1,21 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 19
+block_id: b0020
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: INTERACTIONS OF SYNTHESIS PARAMETERS AND OPTIMIZATION
+line_span: [245, 251]
+char_span: [43144, 43666]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0020: INTERACTIONS OF SYNTHESIS PARAMETERS AND OPTIMIZATION) ---
+245: # INTERACTIONS OF SYNTHESIS PARAMETERS AND OPTIMIZATION
+246: 
+247: To understand the impact of each variable, three dimensional (3D) plots were made for the estimated
+248: 
+249: responses to investigate the interactive effect among the three factors on the physicochemical properties within the experimental ranges as shown in Figures 7-9. The interactions between the parameters were demonstrated clearly by plotting two numeric variables (A and B) with conversion on a 3D surface and a contour (2D) plot for each categorical variable (C).

@@ -1,0 +1,23 @@
+source_file: Nanoindentation studies of polyimide thin films with various internal linkages in the diamine component.md
+doc_id: f2c1469c1d0d0e95ebc6f56b2b9088f3
+chunk_index: 2
+block_id: b0003
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: EXPERIMENTAL
+line_span: [33, 41]
+char_span: [6208, 8224]
+line_count: 7
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0003: EXPERIMENTAL) ---
+33: # EXPERIMENTAL
+34: 
+35: # Materials and Sample Preparation
+36: 
+37: $3,3^{\prime},4,4^{\prime}$ -Biphenyltetracarboxylic acid dianhydride (BPDA), benzidine (BZ),  $4,4^{\prime}$ -oxydiphenylene diamine (ODA), and  $4,4^{\prime}$ -sulfonyldiphenylene diamine (DDS) were purchased from Aldrich Chemical Co.  $p$ -Phenylene diamine (PDA) was purchased from Acros Co., and  $N$ -methyl-2-pyrrolidone (NMP) was purchased from Lancaster Co. BPDA and PDA were purified by vacuum sublimation, and BZ was used as received. ODA and DDS were purified by recrystallization in ethanol. NMP was dried with phosphorus pentoxide  $(\mathrm{P}_2\mathrm{O}_5)$  and subsequently distilled under reduced pressure before use. Poly(amic acid)s (PAAs) were synthesized in dry NMP by the addition of a stoichiometric amount of the pyromelitic dianhydride in a powder form to a mechanically stirred diameter solution under a nitrogen atmosphere at room temperature, as in previous studies (Fig. 1).
+38: 
+39: All the precursor solutions [poly( $p$ -phenylene biphenyltetracarboxiamic acid), poly(4,4'-biphenylene biphenyltetracarboxiamic acid), poly(4,4'-oxydiphenylene biphenyltetracarboxiamic acid), and poly(4,4'-sulfonyldiphenylene biphenyltetracarboxiamic acid)] were spin-coated onto silicon (100) substrates, and this was followed by soft baking at  $80^{\circ}\mathrm{C}$  for  $60\mathrm{min}$ . The soft-baked precursor films were thermally imidized in an oven by animidization protocol:  $150^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ ,  $230^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ ,  $300^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ , and  $400^{\circ}\mathrm{C}$  for  $60\mathrm{min}$  at a ramping rate of  $2.0^{\circ}\mathrm{C/min}$ . After the thermal imidization, the samples were cooled at a rate of  $2.0^{\circ}\mathrm{C/min}$ . The film thickness was controlled within the range of  $4.50 - 6.45\mu \mathrm{m}$  with a spin coater.[22,23] The thickness of the imidized film was measured with a surface profiler (KLA-Tensor Alpha Step 500).

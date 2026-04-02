@@ -1,0 +1,37 @@
+source_file: Interpenetration Networked Polyimide鈥揈poxy Copolymer under Kinetic and Thermodynamic Control for Anticorrosion.md
+doc_id: f5092218b3ff990cb2fa31ad43d60239
+chunk_index: 2
+block_id: b0003
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [44, 66]
+char_span: [2893, 8297]
+line_count: 21
+effective_body_non_empty_lines: 10
+
+lines:
+--- chunk (b0003: 1. Introduction) ---
+44: # 1. Introduction
+45: 
+46: Metal corrosion, the unavoidable nature of chemistry, has long been a crucial problem to be resolved in many industries and has inflicted substantial economic loss to society's economy. In fact, about one-third of corrosion hazards could be prevented and controlled using anticorrosion technologies, as addressed by the National Association of Corrosion Engineers (NACE) [1].
+47: 
+48: Nowadays, in highly populated areas, for various reasons, many industries are moving to places nearby the sea, where high concentrations of moisture and salt are major challenges. Even worse, operations occur at elevated temperatures, posing more severe corrosion damage to the equipment.
+49: 
+50: For years, organic coatings were used as a barrier that separates the metal and the corrosive environment to overcome the corrosion problems. The organic coatings were designed to selectively block out or at least slow down the diffusion of corrosive chemicals and thus protect the metal surface [2].
+51: 
+52: Epoxy (EP), exhibiting superb adhesive properties with metallic substrates, has long been recognized as an excellent corrosion-resistant coating material [3-5]. The strong adhesivity of EP with metals originates from its ring-opening reaction of the epoxide groups, but the downsides are lack of flexibility and low thermal stability. Various hardeners that participate in the epoxide ring-opening reactions have been comprehensively investigated, such as aliphatic or aromatic polyamines, polyamides, imidazole, dicyandiamide, carboxylic
+53: 
+54: acids, anhydrides, and dianhydrides [6-9]. Among them, anhydride and dianhydride are considered good candidates for EP resin for providing desirable high cross-link density and high thermal durability. The above advantages could further be enhanced if the EP resin is cured with another high heat-resistant polymer with function groups that can also act as hardeners [3,10-14].
+55: 
+56: In the family of highly thermally stable polymer materials, polyimide (PI) is frequently chosen for industrial applications [15,16]. However, its low adhesion property has limited PI's application as a coating material. Since PI was polymerized from aromatic dianhydride and aromatic diamines, the terminal groups could be either amine or anhydride. These two terminal groups of PI could serve as good functional groups in hardening EP resin [17-20].
+57: 
+58: Furthermore, in synthesizing PI, polyamic acid (PAA), the intermediate formed in the early stage, has both amide and carboxylic acid groups, which are the two main types of hardeners of EP. Therefore, the idea of combining the two and allowing simultaneous imidization (PAA to PI) and curing seems to be plausible [21-25]. A similar point of view is that the functional groups of EP and PAA could interact with each other. Therefore, compounding PI-EP to produce a copolymer could provide a solution to the above stated problems. Using PAA with different terminal functional groups could be a feasible way [26]. Xing et al. and others [27,28] used waterborne PI to modify waterborne EP resin by neutralizing the precursor (PAA) with 2-methylimidazol for PAA salt (PAAS) formation, after which the salt is basically waterborne. Accordingly, they found the copolymerized PAAS and EP copolymer with a semi-interpenetrating structure. They reported that the PAAS-EP copolymer has high cross-linking density and heat stability.
+59: 
+60: However, there is a concern that the amide groups on the PAA chain could easily react with EP, and if all or a major portion of them bonded during curing with EP, the obtained matrix would have very high crosslink density, which would result in high rigidity and becoming brittle; as a result, the matrix would not be suitable for coating purposes. Moreover, if the majority of amide groups on the PAA chain are cured with EP at a relatively low temperature, then there are fewer amide groups left for imidization to form PI, and the expected superior thermally stable PI-EP copolymer matrix will not be obtained. Previous studies [17-20,27-30] reported that the PI-EP copolymer matrix could be obtained as expected, and benefits from both PI and EP have been observed. There must be some critical points worth noticing in the process of copolymerization.
+61: 
+62: Microphase separation is yet another concern when making compatible two different polymers (physical blending or chemical linkage) [31,32]. Thus, avoiding or minimizing microphase separation must be emphasized. If a low-molecular-weight PI were used for minimizing microphase separation, the PI's characteristic advantages in the copolymer would be minor or buried in the copolymer matrix. For EP coating, commonly an EP of equivalent weight (EEW) higher than 500 is used. For EP of higher EEW, the compatibility with PI tends to be low, and microphase separation is of concern. Hence, a low EEW of EP and a medium molecular weight of PI were used in this study.
+63: 
+64: Still, several questions remain unanswered and would be interesting to investigate. For example, how is each domain (PI and EP) established during the copolymerization process? Information on how the amide-EP linkage reaction and the competing imidization reaction are regulated, which determines the final structure and physical properties of the copolymer, is still needed. As for microphase separation, we need to know the why and how regarding whether it can be completely avoided or minimized.

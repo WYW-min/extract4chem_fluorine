@@ -1,0 +1,33 @@
+source_file: A Novel Diamine Containing Ester and Diphenylethane Groups for Colorless Polyimide with a Low Dielectric Const.md
+doc_id: e4e23641a5a6262053f602a1e3dace26
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [237, 255]
+char_span: [41266, 44108]
+line_count: 17
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+237: # 4. Conclusions
+238: 
+239: In this study, a novel diamine monomer containing ester and phenyl moieties was synthesized through a three-step reaction and reacted with 6-FDA as a counter dianhydride by the chemical imidization method. For comparison, poly(pyromellitic dianhydride-co-4,4'-oxydianiline) (PMDA-ODA PI) was also synthesized via thermal imidization. The resultant 6FDA-DPEDBA PI film has a high average molecular weight. The 6FDA-DPEDBA PI film showed good solubility in various polar organic solvents, such as DMAc, DMSO,  $\mathrm{CH}_2\mathrm{Cl}_2$ , and  $\mathrm{CHCl}_3$ . Additionally, the resultant PI film showed outstanding transparency ( $T_{\mathrm{vis}} = 87.1\%$  of transmittance of visible light), low water absorption ( $W_{\mathrm{A}} = 1.78\%$ ), and a low dielectric constant (2.17 at  $1\mathrm{MHz}$ ). In summary, the novel PI film showed much better optical transparency, lower moisture absorption, and a lower dielectric constant as well as better solubility than the PMDA-ODA PI film, which is insoluble in any solvent, although its thermal stability is not better than that of PMDA-ODA PI. Overall, the strategy of introducing an ester moiety and bulky phenyl group into the PI backbone can achieve a low dielectric constant and low water absorption while maintaining outstanding optical transparency and solubility. Thus, the developed PI with the novel diamine in this work can be a promising candidate as a suitable material for next-generation communication devices, dielectrics, optical electronic devices, etc.
+240: 
+241: Author Contributions: Conceptualization, S.S.P. and C.-S.H.; methodology, J.S.L. and Y.-Z.Y.; software, J.S.L. and S.S.P.; validation, J.S.L., Y.-Z.Y. and C.-S.H.; formal analysis, J.S.L.; investigation, J.S.L. and Y.-Z.Y.; resources, C.-S.H.; data curation, J.S.L.; writing—original draft preparation, J.S.L.; writing—review and editing, C.-S.H.; visualization, J.S.L.; supervision, S.-k.A. and C.-S.H.; project administration, C.-S.H.; funding acquisition, C.-S.H. All authors have read and agreed to the published version of the manuscript.
+242: 
+243: Funding: The work was supported by the National Research Foundation of Korea (NRF) Grant funded by the Ministry of Science and ICT, Korea (2021R1I1A3060098, NRF-2021R1I1A3059777, and Brain Korea 21 Plus Program (4199990414196)) and by the Korea Institute for Advancement of Technology funded by the Ministry of Trade, Industry and Energy (P0017531).
+244: 
+245: Institutional Review Board Statement: Not applicable.
+246: 
+247: Informed Consent Statement: Not applicable.
+248: 
+249: Data Availability Statement: Not applicable.
+250: 
+251: Acknowledgments: We thank Jadhav Amol Maruti for his help in partial technical supports including synthetic methods and  ${}^{1}\mathrm{H}/{}^{13}\mathrm{C}$  NMR spectral analyses.
+252: 
+253: Conflicts of Interest: The authors declare no conflict of interest.

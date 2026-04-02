@@ -1,0 +1,28 @@
+source_file: Development and Morphological Characterization of Novel PolyimideMetal nano Hybrid Materials.md
+doc_id: afaea7d620f702d555d6b411b11aeb54
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: IULIANA STOICA $^{1*}$ , ION SAVA $^{2}$ , GEORGIANA BULAI $^{3}$ , GEORGE STOIAN $^{4}$ , MITACHI STRAT $^{5}$ , SILVIU GURLUI $^{5}$ , BOGDAN OPRISAN $^{6}$
+line_span: [8, 21]
+char_span: [249, 2643]
+line_count: 12
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0002: IULIANA STOICA $^{1*}$ , ION SAVA $^{2}$ , GEORGIANA BULAI $^{3}$ , GEORGE STOIAN $^{4}$ , MITACHI STRAT $^{5}$ , SILVIU GURLUI $^{5}$ , BOGDAN OPRISAN $^{6}$) ---
+8: # IULIANA STOICA $^{1*}$ , ION SAVA $^{2}$ , GEORGIANA BULAI $^{3}$ , GEORGE STOIAN $^{4}$ , MITACHI STRAT $^{5}$ , SILVIU GURLUI $^{5}$ , BOGDAN OPRISAN $^{6}$
+9: 
+10: $^{1}$ Petru Poni Institute of Macromolecular Chemistry, Department of Polymeric Materials Physics, 41A Grigore Ghica Voda Alley, 700487, Iasi, Romania  
+11: $^{2}$ Petru Poni Institute of Macromolecular Chemistry, Department of Polycondensation and Thermostable Polymers, 41A Grigore Ghica Voda Alley,700487, Iasi, Romania  
+12: <sup>3</sup>Alexandru Loan Cuza University, Integrated Center for Studies in Environmental Science for North-East Region (CERNESIM), 11 Carol I Blvd, 700506, Iasi, Romania  
+13: $^{4}$ National Institute of Research and Development for Technical Physics, 47 Mangeron Blvd., 700050, Iasi, Romania  
+14: <sup>5</sup> Al. I. Cuza University, Faculty of Physics, Laboratory of Atmosphere Optics, Spectroscopy and Lasers, 11 Carol I Blvd, 700506, Iasi, Romania  
+15: <sup>6</sup>Grigore T. Popa University of Medicine and Pharmacy, Faculty of Medicine, Discipline Biophysics and Medical Physics, 16 University Str., 700115, Iasi, Romania
+16: 
+17: Abstract: Two different polyimide structures were synthesized by two-step polycondensation reaction in solution, in the first step using equimolar amounts of one of two aromatic diamine (DDM or MMDA) and one dianhydride (6HDA) in N,N-dimethylacetamide (DMAc) to obtain the poly(amic acids), followed in the second step by thermal imidization. In order to obtain novel polyimide/metal nano hybrid materials, conductive Ni/Cu nanoparticles were embedded on polyimide substrates, using laser ablation technique. The morphology of the resulted thin metal layers was investigated using atomic force microscopy (AFM), scanning electron microscopy (SEM) and energy-dispersive X-ray spectroscopy (EDX). The results highlighted different surface characteristics of the auto-organized metallic/polymer nanoparticles, depending on the chemical structure of the polyimide substrate, the parameters of the laser ablation setup, the deposition time, the type of the metallic target. The obtained features of these polyimide/metal nano hybrid materials can be employed as an indicator of the possibility of using them for potential applications as conductive circuits or substrates for adhesion control.
+18: 
+19: Keywords: polyimide, metal/polymer aggregates, laser ablation, nano hybrid materials, morphology

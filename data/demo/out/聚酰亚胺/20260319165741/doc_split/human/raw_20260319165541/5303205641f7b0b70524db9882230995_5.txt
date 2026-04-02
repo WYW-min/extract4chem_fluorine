@@ -1,0 +1,21 @@
+source_file: Organic鈥揑norganic Double-Gel System Thermally Insulating and Hydrophobic Polyimide Aerogel.md
+doc_id: 5303205641f7b0b70524db9882230995
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Data Availability Statement: Not applicable.
+line_span: [223, 229]
+char_span: [35307, 35805]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0006: Data Availability Statement: Not applicable.) ---
+223: # Data Availability Statement: Not applicable.
+224: 
+225: Acknowledgments: We thank for the Financial support for this research from the University-Industry Cooperation Project of Fujian Province (2019H6012), Quanzhou City Science and Technology Program of China (2021C002R), Fujian Provincial Science and Technology Plan Project (2021H4004), and the Major Special Project of Fujian Province (2021HZ027002 & 2021HZ027021) is appreciated.
+226: 
+227: Conflicts of Interest: The authors declare no conflict of interest.

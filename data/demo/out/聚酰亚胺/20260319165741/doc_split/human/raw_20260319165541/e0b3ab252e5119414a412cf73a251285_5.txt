@@ -1,0 +1,94 @@
+source_file: Alicyclic PolyimideSiO2 Mixed Matrix Membranes for Watern-Butanol Pervaporation.md
+doc_id: e0b3ab252e5119414a412cf73a251285
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [304, 381]
+char_span: [45404, 61331]
+line_count: 78
+effective_body_non_empty_lines: 73
+
+lines:
+--- chunk (b0006: References) ---
+304: # References
+305: 
+306: 1. Silvestre, W.P.; Livinalli, N.F.; Baldasso, C.; Tessaro, I.C. Pervaporation in the separation of essential oil components: A review. Trends Food Sci. Technol. 2019, 93, 42-52. [CrossRef]  
+307: 2. Raza, W.; Wang, J.; Tsuru, T. Progress in pervaporation membranes for dehydration of acetic acid. Sep. Purif. Technol. 2021, 262, 118338. [CrossRef]  
+308: 3. Knozowska, K.; Li, G.; Kujawski, W.; Kujawa, J. Novel heterogeneous membranes for enhanced separation in organic-organic pervaporation. J. Membr. Sci. 2020, 599, 117814. [CrossRef]  
+309: 4. Hassankhan, B.; Raisi, A. Separation of isobutanol/water mixtures by hybrid distillation-pervaporation process: Modeling, simulation and economic comparison. Chem. Eng. Process. 2020, 155, 108071. [CrossRef]  
+310: 5. Vatankhah, F.; Moheb, A.; Arjomand, M.Z. A study on the effects of feed temperature and concentration on design of a multi-stage pervaporation system for isopropanol-water separation using commercial available modules with inter-stage heating. J. Membr. Sci. 2021, 618, 118717. [CrossRef]  
+311: 6. Luis, P.; Der Bruggen, B.V. The driving force as key element to evaluate the pervaporation performance of multicomponent mixtures. Sep. Purif. Technol. 2015, 148, 94-102. [CrossRef]  
+312: 7. Kujawa, J.; Kujawski, W.; Cyganiuk, A.; Dumée, L.F.; Samer, A.G. Upgrading of zirconia membrane performance in removal of hazardous VOCs from water by surface functionalization. Chem. Eng. J. 2019, 374, 155-169. [CrossRef]  
+313: 8. Liu, H.X.; Wang, N.; Zhao, C.; Ji, S.; Li, J.R. Membrane materials in the pervaporation separation of aromatic/aliphatic hydrocarbon mixtures—A review. Chin. J. Chem. Eng. 2018, 26, 1-16. [CrossRef]
+314: 
+315: 9. Lv, E.; Dou, T.; Ding, S.; Lu, J.; Li, Z.; Yi, W.; Li, J.; Ding, J. Membrane dehydration-enhanced esterification for biodiesel production from a potential feedstock of Firmiana platanifolia L.f. seed oil. Chem. Eng. Res. Des. 2020, 153, 1-7. [CrossRef]  
+316: 10. Esmaeili, A.; Kirk, D.W. Water removal in the alkaline electrochemical valorization of glycerol by pervaporation. Sep. Purif. Technol. 2020, 248, 116943. [CrossRef]  
+317: 11. Ong, Y.K.; Shi, G.M.; Le, N.L.; Tang, Y.P.; Zuo, J.; Nunes, S.P.; Chung, T.S. Recent membrane development for pervaporation processes. Prog. Polym. Sci. 2016, 57, 1-31. [CrossRef]  
+318: 12. Castro-Muñoz, R.; Galiano, F.; Fila, V.; Drioli, E.; Figoli, A. Mixed matrix membranes (MMMs) for ethanol purification through pervaporation: Current state of the art. Rev. Chem. Eng. 2018, 57, 15998-16011. [CrossRef]  
+319: 13. Qureshi, N.; Meagher, M.M.; Huang, J.; Hutkins, R.W. Acetone butanol ethanol (ABE) recovery by pervaporation using silicalite-silicone composite membrane from fed-batch reactor of clostridium acetobutylicum. J. Membr. Sci. 2001, 187, 93-102. [CrossRef]  
+320: 14. Qiu, B.; Wang, Y.; Fan, S.; Liu, J.; Jian, S.; Qin, Y.; Xiao, Z.; Tang, X.; Wang, W. Ethanol mass transfer during pervaporation with PDMS membrane based on solution-diffusion model considering concentration polarization. Sep. Purif. Technol. 2019, 220, 276-282. [CrossRef]  
+321: 15. Jyoti, G.; Keshav, A.; Anandkumar, J. Review on pervaporation: Theory, membrane performance, and application to intensification of esterification reaction. J. Eng. 2015, 2, 1-24. [CrossRef]  
+322: 16. Kubaczka, A.; Kamiński, W.; Marszałek, J. Predicting mass fluxes in the pervaporation process using Maxwell-Stefan diffusion coefficients. J. Membr. Sci. 2018, 546, 111-119. [CrossRef]  
+323: 17. Baysak, F.K. A novel approach to Chromium rejection from sewage wastewater by pervaporation. J. Mol. Struct. 2021, 1233, 130082. [CrossRef]  
+324: 18. Baus, C.; Schaber, K.; Irina, G.P.; Braun, A. Separation and oxidative degradation of organic pollutants in aqueous systems by pervaporation and vacuum-ultraviolet-photolysis. Sep. Purif. Technol. 2002, 28, 125–140. [CrossRef]  
+325: 19. Peng, P.; Lan, Y.; Liang, L.; Jia, K. Membranes for bioethanol production by pervaporation. Biotechnol. Biofuels 2021, 14, 1-33. [CrossRef] [PubMed]  
+326: 20. Guo, R.; Hu, C.; Li, B.; Jiang, Z. Pervaporation separation of ethylene glycol/water mixtures through surface crosslinked PVA membranes: Coupling effect and separation performance analysis. J. Membr. Sci. 2007, 289, 191-198. [CrossRef]  
+327: 21. Austria, H.F.M.; Leearos, R.L.G.; Hung, W.-S.; Tayo, L.L.; Hu, C.-C.; Tsai, H.-A.; Lee, K.-R.; Lai, J.-Y. Investigation of salt penetration mechanism in hydrolyzed polyacrylonitrile asymmetric membranes for pervaporation desalination. Desalination 2019, 463, 32-39. [CrossRef]  
+328: 22. Xu, Y.; Chen, C.; Zhang, P.; Sun, B.; Li, J. Pervaporation properties of polyimide membranes for separation of ethanol water mixtures. J. Chem. Eng. Data 2006, 51, 1841-1845. [CrossRef]  
+329: 23. Wang, Y.; Chung, T.S.; Gruender, M. Sulfonate polybenzimidazole membranes for pervaporation dehydration of acetic acid. J. Membr. Sci. 2012, 415-416, 486-495. [CrossRef]  
+330: 24. Bhat, S.D.; Aminabhavi, T.M. Pervaporation separation using sodium alginate and its modified membranes—A review. Sep. Purif. Rev. 2007, 36, 203-229. [CrossRef]  
+331: 25. Won, W.; Won, X.; Lawless, D. Pervaporation with chitosan membranes: Separation of dimethyl carbonate/methanol/water mixtures. J. Membr. Sci. 2002, 209, 493-508. [CrossRef]  
+332: 26. Dmitrenko, M.; Liamin, V.; Kuzminova, A.; Lahderanta, E.; Solovyev, N.; Penkova, A. Modification approaches to enhance dehydration properties of sodium alginate-based pervaporation membranes. Membranes 2021, 11, 255. [CrossRef] [PubMed]  
+333: 27. Lee, J.Y.; Lee, J.S.; Lee, J.H. High performance and thermally stable PDMS pervaporation membranes prepared using a phenyl-containing tri-functional crosslinker for n-butanol recovery. Sep. Purif. Technol. 2020, 235, 116142. [CrossRef]  
+334: 28. Kujawska, A.; Knozowska, K.; Kujawa, J.; Li, G.; Kujawski, W. Fabrication of PDMS based membranes with improved separation efficiency in hydrophobic pervaporation. Sep. Purif. Technol. 2020, 234, 116092. [CrossRef]  
+335: 29. Yang, Y.; Si, Z.; Cai, D.; Teng, X.; Li, G.; Wang, Z.; Li, S.; Qin, P. High-hydrophobic-  $\mathrm{CF_3}$  groups within PTFPMS membrane for enhancing the furfural pervaporation performance. Sep. Purif. Technol. 2020, 235, 116144. [CrossRef]  
+336: 30. Kujawa, J.; Cerneaux, S.; Kujawski, W. Highly hydrophobic ceramic membranes applied to the removal of volatile organic compounds in pervaporation. Chem. Eng. J. 2015, 260, 43-54. [CrossRef]  
+337: 31. Guan, K.; Liu, G.; Matsuyama, H.; Jin, W. Graphene-based membranes for pervaporation processes. Chin. J. Chem. Eng. 2020, 28, 1755-1766. [CrossRef]  
+338: 32. Tao, T.L.; Chang, C.K.; Kang, Y.H.; Chen, J.J.; Kang, D.Y. Enhanced pervaporation performance of zeolite membranes treated by atmospheric-pressure plasma. J. Taiwan Inst. Chem. Eng. 2020, 116, 112-120. [CrossRef]  
+339: 33. Hasegawa, Y.; Abe, C.; Ikeda, A. Pervaporative dehydration of organic solvents using high-silica CHA-type zeolite membrane. Membranes 2021, 11, 229. [CrossRef]  
+340: 34. Amirilargani, M.; Sadatnia, B. Poly (vinyl alcohol)/zeolitic imidazolate frameworks (ZIF-8) mixed matrix membranes for pervaporation dehydration of isopropanol. J. Membr. Sci. 2014, 469, 1-10. [CrossRef]  
+341: 35. Shi, G.M.; Yang, T.; Chung, T.S. Polybenzimidazole (PBI)/zeolitic imidazolate frameworks (ZIF-8) mixed matrix membranes for pervaporation dehydration of alcohols. J. Membr. Sci. 2012, 415-416, 577-586. [CrossRef]  
+342: 36. Okumus, E.; Gurkan, T.; Yilmaz, L. Effect of fabrication and process parameters on the morphology and performance of a PAN-based zeolite-filled pervaporation membrane. J. Membr. Sci. 2003, 223, 23-38. [CrossRef]
+343: 
+344: 37. Adoor, S.G.; Manjeshwar, L.S.; Bhat, S.D. Aluminum-rich zeolite beta incorporated sodium alginate mixed matrix membranes for pervaporation dehydration and esterification of ethanol and acetic acid. J. Membr. Sci. 2008, 318, 233-246. [CrossRef]  
+345: 38. Sun, H.; Lu, L.; Chen, X.; Jiang, Z. Pervaporation dehydration of aqueous ethanol solution using H-ZSM-5 filled chitosan membranes. Sep. Purif. Technol. 2008, 58, 429-436. [CrossRef]  
+346: 39. Prihatiningtyas, I.; Gebreslase, G.A.; Bruggen, B.V. Incorporation of  $\mathrm{Al_2O_3}$  into cellulose triacetate membranes to enhance the performance of pervaporation for desalination of hypersaline solutions. Desalination 2020, 474, 114198. [CrossRef]  
+347: 40. Castro-Munoz, R.; Buera-Gonzalez, J.; de la Iglesia, O.; Galiano, F.; Fila, V.; Malankowska, M.; Rubio, C.; Figoli, A.; Tellez, C.; Coronas, J. Towards the dehydration of ethanol using pervaporation cross-linked poly (vinyl alcohol)/graphene oxide membranes. J. Membr. Sci. 2019, 582, 423-434. [CrossRef]  
+348: 41. Ngoc, L.L.; Yan, W.; Tai, S.C. Synthesis, cross-linking modifications of 6FDA-NDA/DABA polyimide membranes for ethanol dehydration via pervaporation. J. Membr. Sci. 2012, 415-416, 109-121.  
+349: 42. Zhai, L.; Yang, S.; Fan, L. Preparation and characterization of highly transparent and colorless semi-aromatic polyimide films derived from alicyclic dianhydride and aromatic diamines. Polymer 2012, 53, 3529-3539. [CrossRef]  
+350: 43. Kudasheva, A.; Sorribas, S.; Zornoza, B.; Tellez, C.; Coronas, J. Pervaporation of water/ethanol mixtures through polyimide based mixed matrix membranes containing ZIF-8, ordered mesoporous silica and ZIF-8-silica core-shell spheres. J. Chem. Technol. Biotechnol. 2015, 90, 669–677. [CrossRef]  
+351: 44. Zhuang, Y.; Seong, J.G.; Lee, Y.M. Polyimides containing aliphatic/alicyclic segments in the main chains. Prog. Polym. Sci. 2019, 92, 35-88. [CrossRef]  
+352: 45. Kim, S.D.; Lee, S.; Heo, J.; Kim, S.Y.; Chun, I.S. Soluble polyimides with trifluoromethyl pendent groups. Polymer 2013, 54, 5648-5654. [CrossRef]  
+353: 46. Chisca, S.; Musteata, V.E.; Stoica, I.; Sava, I.; Bruma, M. Effect of the chemical structure of aromatic-cycloaliphatic copolyimide films on their surface morphology, relaxation behavior and dielectric properties. J. Polym. Res. 2013, 20, 111. [CrossRef]  
+354: 47. Varganici, C.D.; Rosu, D.; Cristian, B.M.; Rosu, L.; Popovici, D.; Hulubei, C.; Simionescu, B.C. On the thermal stability of some aromatic-aliphatic polyimides. J Anal Appl Pyrolysis. J. Anal. Appl. Pyrolysis 2015, 113, 390-401. [CrossRef]  
+355: 48. Lecaros, R.L.G.; Valbuena, R.E.; Tayo, L.L.; Hung, W.S.; Hu, C.C.; Tsai, H.A.; Huang, S.H.; Lee, K.R.; Lai, J.Y. Tannin-based thin-film composite membranes integrated with nitrogen-doped graphene quantum dots for butanol dehydration through pervaporation. J. Membr. Sci. 2021, 623, 119077. [CrossRef]  
+356: 49. Manshad, S.; Isloor, A.M.; Nawawi, M.G.M.; Inamuddin; Khan, I.; Marwani, H.M. Pervaporation dehydration of bio-fuel (n-butanol) by dry thermal treatment membrane. Mater. Res. Express 2020, 7, 065001. [CrossRef]  
+357: 50. Pulyalina, A.Y.; Larkina, A.A.; Tataurov, M.V.; Vinogradova, L.V.; Polotskaya, G.A. Hybrid macromolecular stars with fullerene(C60) core included in polyphenyleneisophthalamide membranes for n-butanol dehydration. Fuller. Nanotub. Carbon Nanostruct. 2020, 28, 54-60. [CrossRef]  
+358: 51. Wang, H.; Liu, C.; Xu, Q.; Du, X.; Li, C.; Gao, F.; Hao, X.; Peng, C.; Guanc, G. Swelling mechanism of PEBA-2533 membrane for pervaporation separation of high boiling point organic compounds: Experiment and molecular dynamics simulation. Sep. Purif. Technol. 2020, 245, 116851. [CrossRef]  
+359: 52. Tsai, M.H.; Tseng, I.H.; Huang, S.L.; Hsieh, C.W. Enhancement of dimensional stability and optical transparency of colorless organo-soluble polyimide by incorporation of silica and cosolvent. Int. J. Polym. Mater. 2014, 63, 48-56. [CrossRef]  
+360: 53. Tsai, M.H.; Huan, Y.C.; Tseng, I.H.; Yu, H.P.; Lin, Y.K.; Huang, S.L. Thermal and mechanical properties of polyimide/nano-silica hybrid films. Sep. Thin Solid Films 2011, 519, 5238-5242. [CrossRef]  
+361: 54. Fleming, I.; Williams, D. Spectroscopic Methods in Organic Chemistry, 7th ed.; Springer: Cham, Switzerland, 2019; p. 120.  
+362: 55. Chang, C.C.; Lin, J.H.; Cheng, L.P. Preparation of solvent-dispersible nano-silica powder by sol-gel method. J. Appl. Sci. Eng. 2016, 19, 401-408.  
+363: 56. Flynn, E.J.; Keane, D.A.; Tabari, P.M.; Morris, M.A. Pervaporation performance enhancement through the incorporation of mesoporous silica spheres into PVA membranes. Sep. Purif. Technol. 2013, 118, 73-80. [CrossRef]  
+364: 57. Jullok, N.; Van Hooghten, R.; Luis, P.; Volodin, A.; Van Haesendonck, C.; Vermant, J.; Van der Bruggen, B. Effect of silica nanoparticles in mixed matrix membranes for pervaporation dehydration of acetic acid aqueous solution: Plant-inspired dewatering systems. J. Clean. Prod. 2016, 112, 4879-4889. [CrossRef]  
+365: 58. Lin, W.; Zhu, T.; Li, Q.; Yi, S.; Li, Y. Study of pervaporation for dehydration of caprolactam through PVA/nano silica composite membranes. Desalination 2012, 285, 39-45. [CrossRef]  
+366: 59. Lin, Y.F.; Wu, C.Y.; Liu, T.Y.; Lin, K.Y.A.; Tung, K.L.; Chung, T.W. Synthesis of mesoporous  $\mathrm{SiO}_2$  xerogel/chitosan mixed-matrix membranes for butanol dehydration. J. Ind. Eng. Chem. 2018, 57, 297-303. [CrossRef]  
+367: 60. Liu, X.; Wang, R.; Fan, Y.; Wei, M. Effect of  $\mathrm{SiO}_2$  nanoparticles on the hydrophobic properties of waterborne fluorine-containing epoxy coatings. In MATEC Web of Conferences; EDP Sciences: Paris, France, 2017; Volume 130, p. 08005.  
+368: 61. Zhou, H.; Shi, R.; Jin, W. Novel organic-inorganic pervaporation membrane with a superhydrophobic surface for the separation of ethanol from an aqueous solution. Sep. Purif. Technol. 2014, 127, 61-69. [CrossRef]  
+369: 62. Yong, W.F.; Salehian, P.; Zhang, L.; Chung, T.S. Effects of hydrolyzed PIM-1 in polyimide-based membranes on C2-C4 alcohols dehydration via pervaporation. J. Membr. Sci. 2017, 523, 430-438. [CrossRef]  
+370: 63. Wang, Y.C.; Tsai, Y.S.; Lee, K.R.; Lai, J.Y. Preparation and pervaporation performance of 3,3-bis[4-(4-aminophenoxy)phenyl] phthalide based polyimide membranes. J. Appl. Polym. Sci. 2005, 96, 2046-2052. [CrossRef]
+371: 
+372: 64. Hansen, C.M. Hansen Solubility Parameters: A User's Handbook, 2nd ed.; CRC: Boca Raton, FL, USA, 2007; pp. 4-6.  
+373: 65. Cavus, S.; Cakal, E.; Sevgili, L.M. Solvent dependent swelling behaviour of poly(N-vinylcaprolactam) and poly(N-vinylcaprolactam-itaconic acid) gels and determination of solubility parameters. Chem. Pap. 2015, 69, 1367-1377. [CrossRef]  
+374: 66. Zhou, H.; Su, Y.; Chen, X.; Wan, Y. Separation of acetone, butanol and ethanol (ABE) from dilute aqueous solutions by silicalite-1/PDMS hybrid pervaporation membranes. Sep. Purif. Technol. 2011, 79, 375-384. [CrossRef]  
+375: 67. Lafaurie, A.; Azema, N.; Ferry, L.; Lopez-Cuesta, J. Stability parameters for mineral suspensions: Improving the dispersion of fillers in thermoplastics. Powder Technol. 2009, 192, 92-98. [CrossRef]  
+376: 68. Kim, D.; Le, N.L.; Nunes, S.P. The effects of a co-solvent on fabrication of cellulose acetate membranes from solutions in 1-ethyl-3-methylimidazolium acetate. J. Membr. Sci. 2016, 520, 540-549. [CrossRef]  
+377: 69. Horn, N.R. A critical review of free volume and occupied volume calculation methods. J. Membr. Sci. 2016, 518, 289-294. [CrossRef]  
+378: 70. LV, H.L.; Wang, B.G.; Kong, Y. Prediction of solvent diffusivities in amorphous polymers by free-volume theory: Group contribution and PALS methods. Polym. J. 2009, 41, 1049-1054. [CrossRef]  
+379: 71. Magalad, V.T.; Gokavi, G.S.; Ranganathaiah, C.; Burshe, M.H.; Han, C.; Dionysiou, D.D.; Nadagouda, M.N.; Aminabhavi, T.M. Polymeric blend nanocomposite membranes for ethanol dehydration—Effect of morphology and membrane-solvent interactions. J. Membr. Sci. 2013, 430, 321–329. [CrossRef]  
+380: 72. Tang, Y.; Widjojo, N.; Shi, G.M.; Chung, T.S.; Weber, M.; Maletzko, C. Development of flat-sheet membranes for C1-C4 alcohols dehydration via pervaporation from sulfonated polyphenylsulfone(sPPSU). J. Membr. Sci. 2012, 415-416, 686-695. [CrossRef]  
+381: 73. Wang, Y.; Widjojo, N.; Sukitpaneenit, P.; Chung, T.S. Membrane pervaporation. In Separation and Purification Technologies in Biorefineries, 1st ed.; Ramaswamy, S., Huang, H.J., Ramarao, B.V., Eds.; John Wiley & Sons: Chichester, UK, 2013; Chapter 10.

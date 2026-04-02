@@ -1,0 +1,29 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 11
+block_id: b0012
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: EXPERIMENTAL DESIGN
+line_span: [94, 108]
+char_span: [17799, 22168]
+line_count: 13
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0012: EXPERIMENTAL DESIGN) ---
+94: # EXPERIMENTAL DESIGN
+95: 
+96: In order to obtain the highest fuel cell membrane performance in terms of physicochemical properties, the synthesis parameters of the composite membrane were optimized using Central Composite Design (CCD), which was one of the methods in response surface methodology (RSM). For this work, three factors or independent variables such as loading of filler (A), annealing temperature (B) and type of filler (C) had been selected as the physicochemical properties of a membrane were highly dependent on the membrane synthesis parameters. At the beginning of the optimization, their effects towards the outputs of the optimization, which were the water uptake, proton conductivity and ion exchange capacity, and their interactions had been investigated based on RSM. The design of the experiment and responses were tabulated in Table 1. Each factor was varied at 5 levels as showed in Table 2.
+97: 
+98: TABLE 1. Design schedule and responses of the experiment  
+99: 
+100: <table><tr><td>Run</td><td>A: Filler loading (wt.%)</td><td>B: Annealing temperature (°C)</td><td>C: Filler type</td><td>Water uptake (%)</td><td>Proton conductivity (S cm-1)</td><td>IEC (mmol g-1)</td></tr><tr><td>1</td><td>10</td><td>170</td><td>sRHA</td><td>101.99</td><td>0.2027</td><td>0.2564</td></tr><tr><td>2</td><td>10</td><td>170</td><td>RHA</td><td>85.54</td><td>0.1678</td><td>0.2156</td></tr><tr><td>3</td><td>20</td><td>160</td><td>sRHA</td><td>89.48</td><td>0.1678</td><td>0.2300</td></tr><tr><td>4</td><td>20</td><td>180</td><td>RHA</td><td>83.33</td><td>0.1592</td><td>0.2179</td></tr><tr><td>5</td><td>10</td><td>170</td><td>RHA</td><td>85.10</td><td>0.1640</td><td>0.2209</td></tr><tr><td>6</td><td>20</td><td>180</td><td>sRHA</td><td>91.50</td><td>0.1678</td><td>0.2171</td></tr><tr><td>7</td><td>4</td><td>170</td><td>sRHA</td><td>80.13</td><td>0.1656</td><td>0.2785</td></tr><tr><td>8</td><td>0</td><td>180</td><td>RHA</td><td>74.87</td><td>0.1406</td><td>0.2657</td></tr><tr><td>9</td><td>0</td><td>160</td><td>sRHA</td><td>56.71</td><td>0.1062</td><td>0.2508</td></tr><tr><td>10</td><td>0</td><td>180</td><td>sRHA</td><td>74.87</td><td>0.1406</td><td>0.2657</td></tr><tr><td>11</td><td>10</td><td>170</td><td>RHA</td><td>90.26</td><td>0.1790</td><td>0.2350</td></tr><tr><td>12</td><td>10</td><td>156</td><td>RHA</td><td>77.22</td><td>0.1347</td><td>0.2286</td></tr><tr><td>13</td><td>24</td><td>170</td><td>RHA</td><td>84.12</td><td>0.1227</td><td>0.1958</td></tr></table>
+101: 
+102: TABLE 2. The levels of independent variables in the experiments based on central composite design (CCD)  
+103: 
+104: <table><tr><td>14</td><td>10</td><td>170</td><td>sRHA</td><td>96.78</td><td>0.1897</td><td>0.2564</td></tr><tr><td>15</td><td>10</td><td>184</td><td>sRHA</td><td>90.24</td><td>0.1897</td><td>0.2667</td></tr><tr><td>16</td><td>10</td><td>156</td><td>sRHA</td><td>77.22</td><td>0.1636</td><td>0.2662</td></tr><tr><td>17</td><td>20</td><td>160</td><td>RHA</td><td>77.22</td><td>0.1522</td><td>0.2252</td></tr><tr><td>18</td><td>0</td><td>160</td><td>RHA</td><td>56.71</td><td>0.1062</td><td>0.2508</td></tr><tr><td>19</td><td>10</td><td>170</td><td>sRHA</td><td>97.00</td><td>0.1866</td><td>0.2564</td></tr><tr><td>20</td><td>10</td><td>170</td><td>RHA</td><td>87.35</td><td>0.1816</td><td>0.2512</td></tr><tr><td>21</td><td>10</td><td>170</td><td>RHA</td><td>84.97</td><td>0.1665</td><td>0.2554</td></tr><tr><td>22</td><td>10</td><td>170</td><td>sRHA</td><td>92.45</td><td>0.1937</td><td>0.2564</td></tr><tr><td>23</td><td>10</td><td>184</td><td>RHA</td><td>83.55</td><td>0.1665</td><td>0.2552</td></tr><tr><td>24</td><td>10</td><td>170</td><td>sRHA</td><td>95.31</td><td>0.1837</td><td>0.2564</td></tr><tr><td>25</td><td>4</td><td>170</td><td>RHA</td><td>74.87</td><td>0.1558</td><td>0.2414</td></tr><tr><td>26</td><td>24</td><td>170</td><td>sRHA</td><td>91.05</td><td>0.1671</td><td>0.2533</td></tr></table>
+105: 
+106: <table><tr><td rowspan="2">Independent variables</td><td colspan="5">Symbol coded level</td></tr><tr><td>α=-1.41421</td><td>-1</td><td>0</td><td>1</td><td>α=1.41421</td></tr><tr><td>Filler loading (A)</td><td>-4.14214</td><td>0</td><td>10</td><td>20</td><td>24.142</td></tr><tr><td>Annealing temperature (B)</td><td>155.858</td><td>160</td><td>170</td><td>180</td><td>184.14</td></tr><tr><td>Filler type (C)</td><td>-</td><td>-</td><td>RHA</td><td>sRHA</td><td>-</td></tr></table>

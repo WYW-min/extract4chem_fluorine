@@ -1,0 +1,59 @@
+source_file: Molecular Design, Preparation, and Characterization of Fluoro-Containing Polyimide Ultrafine Fibrous Membranes.md
+doc_id: ae11befcafa2cd480ac2097408e1b9ff
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [182, 224]
+char_span: [41097, 49816]
+line_count: 43
+effective_body_non_empty_lines: 39
+
+lines:
+--- chunk (b0006: References) ---
+182: # References
+183: 
+184: 1. Liao, Y.; Loh, C.; Tian, M.; Wang, R.; Fane, A.G. Progress in electrospun polymeric nanofibrous membranes for water treatment: Fabrication, modification and applications. Prog. Polym. Sci. 2018, 77, 69-94. [CrossRef]  
+185: 2. Ding, J.; Zhang, J.; Li, J.; Xiao, C.; Xiao, H.; Yang, H.; Zhuang, X.; Chen, X. Electrospun polymer biomaterials. Prog. Polym. Sci. 2019, 90, 1-34. [CrossRef]  
+186: 3. Ahmed, F.E.; Lalia, B.S.; Hashaikeh, R. A review on electrospinning for membrane fabrication: Challenges and applications. Desalination 2015, 356, 15-30. [CrossRef]  
+187: 4. Lu, T.; Cui, J.; Qu, Q.; Wang, Y.; Zhang, J.; Xiong, R.; Ma, W.; Huang, C. Multistructured electrospun nanofibers for air filtration: A review. ACS Appl. Mater. Interf. 2021, 13, 23293-23313. [CrossRef] [PubMed]  
+188: 5. Liu, L.; Xu, W.; Ding, Y.; Agarwal, S.; Greiner, A.; Duan, G. A review of smart electrospun fibers toward textiles. Compos. Commun. 2020, 22, 100506. [CrossRef]  
+189: 6. Guo, H.; Chen, Y.; Li, Y.; Zhou, W.; Xu, W.; Pang, L.; Fan, X.; Jiang, S. Electrospun fibrous materials and their applications for electromagnetic interference shielding: A review. Compos. Part A 2021, 143, 106309. [CrossRef]  
+190: 7. Yu, B.; Huang, Z.; Fang, D.; Yu, S.; Fu, T.; Tang, Y.; Li, Z. Biomimetic porous fluoropolymer films with brilliant whiteness by using polymerization-induced phase separation. Adv. Mater. Interf. 2022, 9, 2101485. [CrossRef]  
+191: 8. Tang, Y.; Liang, G.; Chen, J.; Yu, S.; Li, Z.; Rao, L.; Yu, B. Highly reflective nanofiber films based on electrospinning and their application on color uniformity and luminous efficacy improvement of white light-emitting diodes. Opt. Exp. 2017, 25, 20598-20611. [CrossRef]  
+192: 9. Li, X.; Zhou, J.; Quan, Z.; Wang, L.; Li, F.; Qin, X.; Yu, J. Light scattering tunability of nanofiber membrane for enhancing color yield. Dye. Pigment. 2021, 193, 109462. [CrossRef]  
+193: 10. Pedicini, A.; Farris, R.J. Thermally induced color change in electrospun fiber mats. J. Polym. Sci. Part B: Polym. Phys. 2004, 42, 752-757. [CrossRef]  
+194: 11. Yip, J.; Ng, S.P.; Wong, K.H. Brilliant whiteness surfaces from electrospun nanofiber webs. Text. Res. J. 2009, 79, 771-779. [CrossRef]
+195: 
+196: 12. Costoya, A.; Concheiro, A.; Alvarez-Lorenzo, C. Electrospun fibers of cyclodextrins and poly(cyclodextrins). Molecules 2017, 22, 230. [CrossRef]  
+197: 13. Xu, S.C.; Qin, C.C.; Yu, M.; Dong, R.H.; Yan, X.; Zhao, H.; Han, W.P.; Zhang, H.D.; Long, Y.Z. A battery-operated portable handheld electrospinning apparatus. Nanoscale 2015, 7, 12351-12355. [CrossRef]  
+198: 14. Wong, W.S.Y.; Li, M.; Nisbet, D.R.; Craig, V.S.J.; Wang, Z.; Tricoli, A. Mimosa origami: A nanostructure-enabled directional self-organization regime of materials. Sci. Adv. 2016, 2, e1600417. [CrossRef]  
+199: 15. Ge, J.C.; Choi, N.J. Fabrication of functional polyurethane/rare earth nanocomposite membranes by electrospinning and its VOCs absorption capacity from air. Nanomaterials 2017, 7, 60. [CrossRef]  
+200: 16. Ding, Y.; Hou, H.; Zhao, Y.; Zhu, Z.; Fong, H. Electrospun polyimide nanofibers and their applications. *Prog. Polym. Sci.* 2016, 61, 67-103. [CrossRef]  
+201: 17. Guo, C.Y.; Yin, L.M.; Liu, J.G.; Wang, X.K.; Zhang, N.; Qi, L.; Zhang, Y.; Wu, X.; Zhang, X.M. Electrospun polyphenylquinoxaline ultrafine non-woven fibrous membranes with excellent thermal and alkaline resistance: Preparation and characterization. *Fibers Polym.* 2019, 20, 2485-2492. [CrossRef]  
+202: 18. Yin, L.M.; Guo, C.Y.; Qi, L.; Wang, X.K.; Zhang, N.; Wu, L.; Liu, J.G. Electrospun polyphenylquinoxaline fibrous membrane: A versatile filtering medium for separation of highly alkaline aqueous red mud pollutant. J. Polym. Res. 2020, 27, 321. [CrossRef]  
+203: 19. Yin, L.M.; Yang, M.W.; Liu, Q.; Li, X.; Zhang, Y.; Zhi, X.X.; Qi, H.R.; Liu, J.G.; Lv, F.Z. Electrospun polyimide ultrafine nonwoven fibrous membranes containing phenyl-substituted quinoxaline units with improved hydrolysis resistance for potential applications in high-temperature water environments. *Fibers Polym.* **2022**, 23, 37–47. [CrossRef]  
+204: 20. Guo, C.Y.; Wang, Q.W.; Liu, J.G.; Qi, L.; Huangfu, M.G.; Wu, X.; Zhang, Y.; Zhang, X.M. Electrospun polyimide ultrafine non-woven fabrics with high whiteness and good thermal stability from organo-soluble semi-alicyclic polyimides: Preparation and properties. Express Polym. Lett. 2019, 13, 724-738. [CrossRef]  
+205: 21. Guo, C.Y.; Liu, J.G.; Yin, L.M.; Huangfu, M.G.; Zhang, Y.; Wu, X.; Zhang, X.M. Preparation and characterization of electrospun polyimide microfibrous mats with high whiteness and high thermal stability from organo-soluble polyimides containing rigid-rod moieties. *Fibers Polym.* 2018, 19, 1706–1714. [CrossRef]  
+206: 22. Li, X.; Wang, X.; Wang, Q.; Wei, Q. Effects of amidization temperature on the structure and properties of electrospun polyimide nanofibers. J. Eng. Fibers Fabr. 2014, 9, 33-38. [CrossRef]  
+207: 23. Goponenko, A.V.; Hou, H.Q.; Dzenis, Y.A. Avoiding fusion of electrospun  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride-4,4'-oxydianiline copolymer nanofibers during conversion to polyimide. Polymer 2011, 52, 3776-3782. [CrossRef]  
+208: 24. Guo, C.Y.; Wu, X.; Liu, J.G.; Zhang, Y.; Zhang, X.M. Preparation and properties of high-whiteness polyimide ultrafine fabrics by electrospinning from organo-soluble semi-alicyclic polyimide resins. J. Photopolym. Sci. Technol. 2018, 31, 27-36. [CrossRef]  
+209: 25. Qi, H.R.; Zhang, Y.; Zhi, X.X.; Qi, L.; Wu, H.; Wei, X.Y.; Liu, J.G. Preparation and properties of electrospun polyimide ultrafine fibrous mats with excellent heat-fusibility via hot-press procedure from organo-soluble polyimides containing phenolphthalein units. *Fibers Polym.* **2022**, 23, 68–76. [CrossRef]  
+210: 26. Yi, B.; Zhao, Y.; Tian, E.; Li, J.; Ren, Y. High-performance polyimide nanofiber membranes prepared by electrospinning. High Perform. Polym. 2019, 31, 438-448. [CrossRef]  
+211: 27. Dhara, M.G.; Banerjee, S. Fluorinated high-performance polymers: Poly(arylene ether)s and aromatic polyimides containing trifluoromethyl groups. Prog. Polym. Sci. 2010, 35, 1022-1077. [CrossRef]  
+212: 28. Wang, R.; Cao, C.; Chung, T.S. A critical review on diffusivity and the characterization of diffusivity of 6FDA-6FpDA polyimide membranes for gas separation. J. Membr. Sci. 2002, 198, 259–271. [CrossRef]  
+213: 29. Ni, H.J.; Liu, J.G.; Wang, Z.H.; Yang, S.Y. A review on colorless and optically transparent polyimide films: Chemosity, process and engineering applications. J. Ind. Eng. Chem. 2015, 28, 16-27. [CrossRef]  
+214: 30. Zhi, X.X.; Wang, H.S.; Wei, X.Y.; Zhang, Y.; An, Y.C.; Qi, H.R.; Liu, J.G. Electrospun semi-alicyclic polyimide nanofibrous membrane: High-reflectance and high-whiteness with superior thermal and ultraviolet radiation stability for potential applications in high-power UV-LEDs. Nanomaterials 2021, 11, 1977. [CrossRef]  
+215: 31. Gong, G.; Wu, J.; Zhao, Y.; Liu, J.; Jin, X.; Jiang, L. A novel fluorinated polyimide surface with petal effect produced by electrospinning. Soft Matter 2014, 10, 549-552.  
+216: 32. You, N.H.; Chueh, C.C.; Liu, C.L.; Ueda, M.; Chen, W.C. Synthesis and memory device characteristics of new sulfur donor containing polyimides. Macromolecules 2009, 42, 4456-4463. [CrossRef]  
+217: 33. Wang, K.L.; Liu, Y.L.; Shih, I.H.; Neoh, K.G.; Kang, E.T. Synthesis of polyimide containing triphenylamine-substituted triazole moieties for polymer memory applications. J. Polym. Sci. Part A Polym. Chem. 2010, 48, 5790-5800. [CrossRef]  
+218: 34. Lasprilla-Botero, J.; Alcarez-Lainez, M.; Lagaron, J.M. The influence of electrospinning parameters and solvent selection on the morphology and diameter of polyimide nanofibers. Mater. Today Commun. 2018, 14, 1-9. [CrossRef]  
+219: 35. Estedlali, Z.; Aroujalian, A.; Salimi, P. Investigating performance of fabricated electrospun polyethersulfone/Zeolite Y composite nanofibers in concentrate lemon juice by the osmotic membrane distillation process. J. Food Proc. Eng. 2021, 44, e13829. [CrossRef]  
+220: 36. Tian, Y.; Zhu, S.; Di, Y.; Liu, H.; Yao, H.; Zhang, Y.; Guan, S. HOMO-controlled donor-acceptor contained polyimide for nonvolatile resistive memory device. Dye. Pigment. 2021, 186, 109020. [CrossRef]  
+221: 37. Cheng, S.X.; Chung, T.S.; Wang, R.; Vora, R.H. Gas-sorption properties of 6FDA-durene/1,4-phenylenediamine (pPDA) and 6FDA-durene/1,3-phenylenediamine (mPDA) copolyimides. J. Appl. Polym. Sci. 2003, 90, 2187-2193. [CrossRef]
+222: 
+223: 38. Tsuda, Y.; Kojima, M.; Oh, J.M. Soluble polyimides based on diaminobenzoic acid alkylester. Polym. J. 2006, 38, 1043-1054. [CrossRef]  
+224: 39. Li, P.; Liu, L.; Ding, L.; Lv, F.; Zhang, Y. Thermal and dielectric properties of electrospun fiber membranes from polyimides with different structural units. J. Appl. Polym. Sci. 2016, 133, 43081. [CrossRef]

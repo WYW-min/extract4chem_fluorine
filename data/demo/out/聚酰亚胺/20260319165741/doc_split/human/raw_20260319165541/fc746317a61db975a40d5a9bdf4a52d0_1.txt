@@ -1,0 +1,33 @@
+source_file: Influence of Heating Rate on the Structure and Mechanical Properties of Aromatic BPDA鈥揚DA Polyimide Fiber.md
+doc_id: fc746317a61db975a40d5a9bdf4a52d0
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [29, 47]
+char_span: [2802, 8274]
+line_count: 17
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+29: # 1. Introduction
+30: 
+31: Aromatic polyimide (PI) fiber is a high-performance material with numerous outstanding properties. This fiber type can be applied in many fields, given its role in ensuring good thermal stability and its notable mechanical properties. Commercialized PI fibers such as  $\mathrm{P84^R}$ , Yilun $^{\text{R}}$ , Suplon $^{\text{R}}$  and Shilon $^{\text{R}}$  are widely used in high-temperature filtration and thermal protection, and have a potential market in high-tech applications, such as the use of military armors, radomes and spacecraft. The production of PI fibers was previously a direct result of spinning PI solutions. However, poisonous solvents such as m-cresols are frequently used in the construction of spinning dopes, thus seriously confining the production of PI fibers. Nowadays, nearly all kinds of commercialized PI fibers are produced via a two-step method. Polyamic acid (PAA), the precursor of polyimide, is first fabricated into fibers. Then, PI fibers are obtained through the imidization of PAA fibers via a thermal
+32: 
+33: treatment. By means of this two-step process, PI fibers can be fabricated with the common solvents of  $N,N^{\prime}$ -dimethylacetamide (DMAc),  $N,N^{\prime}$ -dimethylformamide or  $N$ -methyl pyrrolidone.
+34: 
+35: From the viewpoint of PI fibers, producing stronger fibers is always the initial and final objective, as mechanical properties are the most important parameters for this kind of material. In general, the mechanical properties of PI fibers can be affected by various aspects, including spinning parameters, chemical structures and imidization conditions.
+36: 
+37: As the precursor of PI fibers, PAA fibers are always fabricated via a wet-spinning or a dry-jet wet-spinning method. The conditions of the spinning process greatly influence the cross-section shape, surface and inside structures of the fiber, and can even determine whether the fiber can be successfully molded. As such, the optimization and adjustment of the spinning parameters based on the requirements of actual production are effective ways to promote the material's mechanical properties. Several investigations have been conducted on the spinning parameters, including the spinning dope, coagulation bath, spinning speed and draw ratio.
+38: 
+39: Altering the chemical structure of PI fibers is another effective way of influencing the mechanical properties mentioned above. Compared with aliphatic monomers, the use of aromatic monomers to construct PI fibers always achieves outstanding mechanical properties. Moreover, as some heterocyclic diamine monomers are copolymerized into PI chains, additional intra/intermolecular interactions or improved ordered chain stacking in the fibers can significantly promote the mechanical properties of PI fibers. Heterocyclic diamine monomers such as 5-anino-2-(2-hydroxy-4-aminobenzene)-benzoxazole [1], 2-(4-aminophenyl)-5-aminobenzimidazole [2-4], 2-(4-aminophenyl)-6-amino-4(3H)-quinazolinone [5,6] and 5-amino-2-(4-aminobenzene)benzoxazole [1,3] are reportedly extremely effective in improving mechanical properties.
+40: 
+41: The imidization process greatly influences the mechanical properties of PI fibers, but the related studies remain far from adequate. During the imidization process, the sub-processes of solvent evaporation [7-9], chemical conversion [10-12], chain orientation [13,14] and crystallization [15] occur concurrently, and affect the final properties of PI materials. Cakmak [8] studied the relaxation and orientation of polymer chains in PI films by means of a real-time instrument, and found that the competition of the two events was affected independently at each stage of the imidization process. Hasegawa [16-18] investigated spontaneous molecular orientation in thermal imidization and discussed the role of driving force under different conditions. Liu et al. [19] studied PI fibers containing benzimidazole units, and found that H-bonding interactions are weakened and a sudden crystallization behavior occurs when the annealing temperature reaches  $400^{\circ}\mathrm{C}$ . This phenomenon is meaningful in promoting the mechanical properties of PI fibers.
+42: 
+43: In our previous study, we investigated the imidization conversion of typical PI fibers with  $3,3^{\prime},4,4^{\prime}$ -biphenyltetra-carboxylic dianhydride (BPDA) and p-phenylenediamine (PDA) under different thermal treatment conditions. We found that crystallization lags behind the imidization reaction, and is affected significantly by heating procedures. PI fibers obtained via sudden thermal treatment exhibit higher crystallinity and greater tensile modulus compared with samples obtained via slow ramp heating at  $5^{\circ}\mathrm{C / min}$ ; this difference originates from the difference of heating rate. Our previous finding further indicates that the heating rate is a crucial factor in the thermal imidization process of PI fibers.
+44: 
+45: In this study, we systematically investigate the influence of the heating rate on the thermal imidization process. The same batches of PAA fibers are treated under different heating rates, ranging from  $1^{\circ}\mathrm{C / min}$  to  $80^{\circ}\mathrm{C / min}$ . Imidization conversion and crystallization are traced and characterized by thermogravimetric analysis (TGA), dynamic mechanical analysis (DMA) and X-ray diffraction (XRD), and the relationships among the heating rate, structure evolution and mechanical properties of the final PI fibers are determined.

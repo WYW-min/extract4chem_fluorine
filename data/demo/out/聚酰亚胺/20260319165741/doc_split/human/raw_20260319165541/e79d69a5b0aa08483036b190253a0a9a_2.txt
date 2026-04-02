@@ -1,0 +1,21 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 2
+block_id: b0003
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: ABSTRAK
+line_span: [18, 24]
+char_span: [2745, 4895]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0003: ABSTRAK) ---
+18: # ABSTRAK
+19: 
+20: Bahan api sel metanol langsung (DMFC) adalah tenaga yang boleh diperbaharui dan lestari yang berpotensi tinggi untuk peranti tidak telah kerana mempunyai ketumpatan tenaga yang sarat tinggi dan lebih mesra Alam. Penambahan pengisike dalam matriks membran telah dilaporkan mampu mencakatan prestasi DMFC. Walau bagaimanapun, penambahan pengisi akan Memberabekan penurunan kepada si tini membran, yang seterusnya akan mengurangkan prestasi bahan api sel. Oleh itu, kajian ini mencaki pengubahsauan abu sekam padi melalui proses sulfonasi dan kesan parameter sintesis membran komposit polimida sulfonasi/abu sekam padi sulfonasi (SPI/sRHA) terhadap prestasi bahan api sel dengan pengisi sRHA telah disintesis melalui pencampuran tindak balas antara abu sekam padi (RHA) dengan kloroform dan asid klorosulfonik. Komosi Pengisi dalam membran dioptimumkan dengan parameter sintesis yang berbezaseperti pelbagaijniis pengisi yang digunakan, pemuatant pengisi dalam membran dan suhu penyepuhlndapan membran. Kajiankesan ketiga-tiga parameter tersebut pada sifat fizikokimia membran komposit yang dihasilkan dilukanan menggunakan pendekatan kaedah respon permukaan (RSM) untuk mengoptimumkan parameter sintesis membran komposit. Pengisi dan membran komposit dicirikan dengan spektroskopi inframerah jelmaan Fourier, analisis pembelauan sinar-X, analysis Brunauer-Emmett-Teller (BET) dan mikroskop transmisie elektron. Parameter sintesis yang berbeza telah menuunjukkan pengaruh yang berbeza pada sifat fizikokimia membran komposit dan akibatnya, juga memberikan prestasi bahan api sel DMFC pasif yang berbeza. Membran yang dioptimumkan (S-12-sR) mencjukkan peningkatan prestasi fizikokimia serta prestasi sel tunggal pasif berbanding dengan membran SPI dan Nafion 117 tulen. Kadar penyerapan air, kekonduksian proton dan IEC yang berjaya dicapai dengan pengoptimuman membran adalah  $90.97\%$ $0.1891~S~cm^{-1}$  dan  $0.2608~mmol~g^{-1}$ . Ketumpatan kuasa maksimum DMFC pasif ditingkatkan dari  $8.1~mW~cm^{-2}$  ), dans keadaan ambien.
+21: 
+22: Kata kunci: Abu sekam beras tersulfonan; bio-pengisi; fisikokimia; membran komposit; poliimida tersulfonan

@@ -1,0 +1,25 @@
+source_file: A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles As a Chemiresistor Sensor for Hyd.md
+doc_id: 529c7ae8c913032b7aa9cc247dac1581
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [179, 189]
+char_span: [26972, 28715]
+line_count: 9
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+179: # 4. Conclusions
+180: 
+181: An electroactive polyimide/gold nanoparticles-based chemiresistor sensor that operates at ordinary room temperature was developed. The change in the electrical property, particularly the resistance of the sensing material, was used as a means to monitor the change in  $\mathrm{H}_2\mathrm{S}$  gas concentration. Spectral studies confirmed successful synthesis of its sensing material. Morphological studies, on the other hand, confirmed the increase in surface area of electroactive polyimide after decorating it with gold nanoparticles. Compared with the conventional conducting PANI, likewise doped with AuNPs to ensure similar matrix, the electroactive PI/AuNPs exhibited an improved sensing performance. The proposed sensor offers an alternative means of monitoring hydrogen sulfide gas in a simple and inexpensive way.
+182: 
+183: Author Contributions: J.-M.Y. and K.S.S. conceptualized the project and overall design of the experiment. L.M.G.P. performed the experimental part under the supervision of K.S.S., and both wrote the manuscript. J.-M.Y. and K.S.S. edited and finalized the paper.
+184: 
+185: Funding: The authors extend their gratitude for the financial assistance provided by the Department of Science and Technology-Philippine Council for Industry, Energy, and Emerging Technology Research and Development (DOST-PCIEERD, through the Manila Economic and Cultural Office-MECO), and University of Santo Tomas-Research Center for the Natural and Applied Sciences; and the Ministry of Science and Technology, Taiwan, R.OSC (MOST 104-2113-M-033-001-MY3 and MOST 104-2923-M-033-001-MY2) as well as the Department of Chemistry at Chung Yuan Christian University.
+186: 
+187: Conflicts of Interest: The authors declare no conflict of interest.

@@ -1,0 +1,19 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 13
+block_id: b0014
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Acknowledgement
+line_span: [272, 276]
+char_span: [42949, 43092]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0014: Acknowledgement) ---
+272: # Acknowledgement
+273: 
+274: The Graduate Council of the University of Mohagheh Ardabili (Iran) is gratefully acknowledged for their financial support.

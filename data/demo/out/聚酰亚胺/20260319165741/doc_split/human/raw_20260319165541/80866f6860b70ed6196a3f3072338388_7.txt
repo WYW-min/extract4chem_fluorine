@@ -1,0 +1,19 @@
+source_file: Multicore-shell nanofiber architecture of polyimidepolyvinylidene fluoride blend for thermal and long-term sta.md
+doc_id: 80866f6860b70ed6196a3f3072338388
+chunk_index: 7
+block_id: b0008
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Author Contributions
+line_span: [145, 149]
+char_span: [39420, 39852]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0008: Author Contributions) ---
+145: # Author Contributions
+146: 
+147: S.P. and C.W.S. conducted the experiment designed by S.M.J. and H.-I.J. Analysis on the data was conducted by C.W.S. and S.P. under supervision of S.M.J. and H.-I.J. Simulation on formation mechanism was performed by S.P. S.P., C.W.S., and H.-I.J. prepared the manuscript. All authors reviewed the manuscript and commented for revision. S.P. and C.W.S. contributed equally to this work as co-first authors.

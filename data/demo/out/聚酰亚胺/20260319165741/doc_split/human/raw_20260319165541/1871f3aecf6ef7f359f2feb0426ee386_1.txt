@@ -1,0 +1,61 @@
+source_file: Fiber Reinforced Polyimide Aerogel Composites with High Mechanical Strength for High Temperature Insulation.md
+doc_id: 1871f3aecf6ef7f359f2feb0426ee386
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [14, 60]
+char_span: [1836, 6390]
+line_count: 45
+effective_body_non_empty_lines: 22
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+14: # 1. Introduction
+15: 
+16: Polyimide aerogels (PI aerogels) are ultra-low density,[1] thermally stable materials[2] that exhibit low dielectric constants[3,4] and good insulating properties,[5] which make them excellent candidates for aerospace applications in extreme environments.[6-9] The National Aeronautics and Space Administration (NASA) has shown that
+17: 
+18: Dr. Z. Zhu, H. Yao, J. Dong, K. Wu, J. Cao, Prof. D. Long
+19: 
+20: State Key Laboratory of Chemical Engineering
+21: 
+22: East China University of Science and Technology
+23: 
+24: Shanghai 200237, China
+25: 
+26: E-mail: longdh@mail.ecust.edu.cn
+27: 
+28: Prof. D. Long
+29: 
+30: Shanghai Key Laboratory of Multiphase Materials Chemical Engineering
+31: 
+32: East China University of Science and Technology
+33: 
+34: Shanghai 200237, China
+35: 
+36: F. Wang
+37: 
+38: China Academy of Space Technology
+39: 
+40: Beijing 100074, China
+41: 
+42: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+43: 
+44: The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/mame.201800676.
+45: 
+46: DOI: 10.1002/mame.201800676
+47: 
+48: polyimide aerogels are suitable as materials for preparing extravehicular activity (EVA) suits for planetary surface missions, flexible thermal protection systems (TPS) for entry-deceleration-landing (EDL) operations,[10] and a range of other space related applications. PI aerogel networks are comprised of poly-(amic acid) (PAA) polymers that are synthesized from reaction of dianhydrides with diamines, followed by a thermal imidization process.[11-13] The resultant aerogels are linear structures formed from physical interactions between polymer chains that can result in poor mechanical properties that are unsuitable for aerospace applications.[14-16]
+49: 
+50: Several pioneering studies have attempted to address the brittle nature of these aerogel materials, with multifunctional compounds and nanoparticles being incorporated as cross-linkers into the aerogels to afford 3D network structures that can better withstand applied stresses.[17-20] For example, Meador et al. have reported a series of PI aerogels that
+51: 
+52: were cross-linked with polyamines and polyisocyanates, including 1,3,5-triaminophenoxy benzene (TAB),[21] octa-(aminophenyl) silsesquioxane (OAPS),[22] and 1,3,5-benzenetricarbonyl trichloride (BTC).[23] Pei et al.[24] utilized trimethoxysilane grafted onto PI side chains to obtain cross-linked aerogels with small pore diameters, high surface areas, and excellent mechanical properties. Zuo et al.[25] have successfully prepared cross-linked PI aerogels containing chemically modified graphene oxide. These cross-linking agents can improve the mechanical properties of PI aerogels and limit shrinkage, resulting in aerogels with improved stability profiles that are well-suited to aerospace applications. However, many of the chemical cross-linkers used in these processes are economically unviable for the mass production of aerogels, while the complex synthetic protocols used for their preparation can severely limit their large-scale preparation. Therefore, the development of more efficient and commercially viable ways of improving the mechanical properties of aerogels is necessary to broaden the scope of their applications.
+53: 
+54: Several research teams have investigated the effect of modifying the composition of the aerogel by incorporating a fiber matrix to overcome mechanical fragility.[26-30] The fiber matrix plays a key role in generating voids within the aerogel matric, which serves to decrease the overall size of the aerogel
+55: 
+56: component of the composite. Glass fiber is a versatile ceramic material with a low thermal expansion coefficient that is widely used as a matrix for preparing aerogel composites, that exhibit excellent thermal insulation properties and high mechanical stability.[31-33] Importantly, fibers of these composites can be processed into porous structures with tailored densities and architectures that are particularly beneficial for impregnation of the precursor solution.
+57: 
+58: In this work, we have explored the potential of employing lightweight porous glass fibers as a reinforcement for ceramic fiber reinforced polyimide (PI) aerogel composites. The structures and properties of the polyimide aerogels were optimized by combining a flexible diamine,  $4,4^{\prime}$ -oxydianiline (ODA), in combination with a rigid diamine, p-phenylene diamine (PPDA). The backbone structures of the resultant aerogels displayed improved mechanical and thermal properties that are well-suited for the production of lightweight, heat resistant, high strength materials for aerospace applications.

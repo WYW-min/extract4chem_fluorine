@@ -1,0 +1,29 @@
+source_file: Optical anisotropy of uniaxially drawn and silver-dispersed polyimide films.md
+doc_id: 199b10b1ce79fbeda1fc85972d2d4f9a
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Articles You May Be Interested In
+line_span: [26, 40]
+char_span: [553, 936]
+line_count: 13
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0002: Articles You May Be Interested In) ---
+26: # Articles You May Be Interested In
+27: 
+28: Large anisotropy in optical properties of thin polyimide films of poly(  $p$  -phenylene biphenyltetracarboximide)
+29: 
+30: Appl.Phys.Lett.(August 1991)
+31: 
+32: Enhanced carbon nanotube fibers by polyimide
+33: 
+34: Appl. Phys. Lett. (November 2010)
+35: 
+36: Anisotropy in thermo-optic coefficients of polyimide films formed on Si substrates
+37: 
+38: Appl. Phys. Lett. (December 2003)

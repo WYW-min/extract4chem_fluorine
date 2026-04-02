@@ -1,0 +1,27 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. II. PolyimidePoly(ethylene terephthal.md
+doc_id: 2b9b7fd94648141b6fbac35d7ed21dcc
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. II. Polyimide/Poly(ethylene terephthalate) Blend
+line_span: [1, 13]
+char_span: [0, 689]
+line_count: 11
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0001: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. II. Polyimide/Poly(ethylene terephthalate) Blend) ---
+1: [MINERU_DISCARDED_META]
+2: Eurasian ChemTech Journal 6 (2004) 11-15
+3: © 2004 al-Farabi Kazakh National University
+4: [/MINERU_DISCARDED_META]
+5: 
+6: # Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. II. Polyimide/Poly(ethylene terephthalate) Blend
+7: 
+8: Saule Kudaikulova $^{1}$ , Zulfiya Musapirova $^{1}$ , Rakhima Sarieva $^{1}$ , Mariya Abilova $^{1}$ , Rinat Iskakov $^{1*}$ , Bulat Zhubanov $^{1}$  and Marc J.M. Abadie $^{2}$
+9: 
+10: $^{1}$ Institute of Chemical Sciences, 106 Walikanov Street, 480100 Almaty, Kazakhstan  
+11:  $^{2}$ Laboratory of Polymer Science & Advance Organic Materials, Montpellier University 2, S.T.L., Place Eugène Bataillon, 34095 Montpellier Cedex 5, France

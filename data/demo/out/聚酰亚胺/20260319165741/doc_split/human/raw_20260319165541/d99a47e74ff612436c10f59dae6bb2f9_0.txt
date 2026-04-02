@@ -1,0 +1,56 @@
+source_file: New Strategy for Inducing Surface Anisotropy in Polyimide Films for Nematics Orientation in Display Applicatio.md
+doc_id: d99a47e74ff612436c10f59dae6bb2f9
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: New Strategy for Inducing Surface Anisotropy in Polyimide Films for Nematics Orientation in Display Applications
+line_span: [1, 42]
+char_span: [0, 3076]
+line_count: 40
+effective_body_non_empty_lines: 23
+
+lines:
+--- chunk (b0001: New Strategy for Inducing Surface Anisotropy in Polyimide Films for Nematics Orientation in Display Applications) ---
+1: [MINERU_DISCARDED_META]
+2: nanomaterials
+3: MDPI
+4: Nanomaterials 2021, 11, 3107. https://doi.org/10.3390/nano11113107
+5: https://www.mdpi.com/journal/nanomaterials
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # New Strategy for Inducing Surface Anisotropy in Polyimide Films for Nematics Orientation in Display Applications
+11: 
+12: Elena-Luiza Epure  $^{1}$ , Iuliana Stoica  $^{2, *}$ , Raluca Marinica Albu  $^{2}$ , Camelia Hulubei  $^{2}$  and Andreea Irina Barzic  $^{2, *}$
+13: 
+14: $^{1}$  Faculty of Chemical Engineering & Environmental Protection, Gheorghe Asachi Technical University, 700050 Iasi, Romania; lepure@tuiasi.ro  
+15: 2 Petru Poni Institute of Macromolecular Chemistry, 41A Aleea Grigore Ghica Voda, 700487 Iasi, Romania; albu.raluca@icmpp.ro (R.M.A.); hulubei@icmpp.ro (C.H.)  
+16: * Correspondence: stoica_iuliana@icmpp.ro (I.S.); irina_cosutchi@yahoo.com (A.I.B.); Tel.: +40-332-880-220 (I.S. & A.I.B.)
+17: 
+18: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+19: 
+20: check for updates
+21: 
+22: Citation: Epure, E.-L.; Stoica, I.; Albu, R.M.; Hulubei, C.; Barzic, A.I. New Strategy for Inducing Surface Anisotropy in Polyimide Films for Nematics Orientation in Display Applications. Nanomaterials 2021, 11, 3107. https://doi.org/10.3390/nano11113107
+23: 
+24: Academic Editor: Shin-Tson Wu
+25: 
+26: Received: 15 October 2021
+27: 
+28: Accepted: 15 November 2021
+29: 
+30: Published: 18 November 2021
+31: 
+32: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+33: 
+34: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+35: 
+36: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+37: 
+38: Abstract: The operability of liquid crystal displays is strongly impacted by the orientation aspects of nematics, which in turn are affected by the alignment layer surface features. In this work, two polyimide (PI) structures are obtained based on a cycloaliphatic dianhydride and aromatic or aliphatic diamines with distinct flexibility. The attained PI films have high transmittance (T) for visible radiations, i.e., at  $550\mathrm{nm}\mathrm{T} > 80\%$ . Here, a novel strategy for creating surface anisotropy in the samples that combines rubbing with a cloth and stretching via pressing is reported. Birefringence and atomic force microscopy (AFM) scans reveal that the generated orientation of the chains is affected by the chemical structure of the polymer and order of the steps involved in the surface treatment. Molecular modeling computations and wettability tests show that the PI structure and produced surface topography are competitive factors, which are impacting the intensity of the interactions with the nematic liquid crystals. The achieved results are of great relevance for designing of reliable display devices with improved uniform orientation of liquid crystals.
+39: 
+40: Keywords: polyimide; molecular modeling; optical properties; rubbing; morphology; liquid crystals

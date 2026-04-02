@@ -1,0 +1,32 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 8
+block_id: b0009
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Result and Discussion
+line_span: [76, 93]
+char_span: [12431, 14907]
+line_count: 16
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0009: Result and Discussion) ---
+76: # Result and Discussion
+77: 
+78: # FTIR Studies
+79: 
+80: Figure 3 shows the FTIR spectra of acid and amino functionalized MWCNTs. In the acid functionalized MWCNTs, the peaks at 1634 and  $1295~\mathrm{cm}^{-1}$  correspond to  $\mathrm{C = O}$  and C-O stretching, respectively. The two weak peaks at 2917 and  $2847~\mathrm{cm}^{-1}$  correspond to the -CH stretching mode. A broad peak corresponding to strong absorption at 3433 and  $3150~\mathrm{cm}^{-1}$  can be ascribed to -OH stretching vibration in -COOH group. In the amino functionalized MWCNTs, a strong and broad peak at  $1631~\mathrm{cm}^{-1}$  with a shoulder at  $1707~\mathrm{cm}^{-1}$  are ascribed to  $\mathrm{C = O}$  stretching vibration due to the formation of amide linkage. The two strong peaks at 2918 and  $2847~\mathrm{cm}^{-1}$  with a third band appearing at
+81: 
+82: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+83: Fig. 2 Preparation scheme of polyimide/MWCNTs nanocomposites by the solvent casting method
+84: 
+85: $2954~\mathrm{cm}^{-1}$  are ascribed to  $-\mathrm{CH}$  stretching of the long alkyl chain of octadecylamine. Another peak at  $1184~\mathrm{cm}^{-1}$  corresponds to C-N stretching of amide group. Broad and strong peak with a shoulder at 3440,  $3124~\mathrm{cm}^{-1}$  should correspond to  $-\mathrm{NH}$  stretching of the amine group.
+86: 
+87: For comparison, the FTIR spectra of the neat polyimide film is shown in Fig. 4a. A strong and broad peak at  $1395~\mathrm{cm}^{-1}$  and another at  $3556~\mathrm{cm}^{-1}$  are ascribed to the C-N stretching of imide ring. Characteristic strong peak due to  $\mathrm{C = O}$  stretching appears at  $1720~\mathrm{cm}^{-1}$ , while asymmetric stretching of  $\mathrm{C = O}$  as a weak peak at  $1777~\mathrm{cm}^{-1}$ . The peak at  $725~\mathrm{cm}^{-1}$  corresponds to bending vibration of  $\mathrm{C = O}$  group. C-C stretching of the aromatic ring appears at  $1515~\mathrm{cm}^{-1}$ . The studies confirm the formation of polyimide and match well with the earlier reported data [14].
+88: 
+89: Figure 4b shows the FTIR spectrum of amide-MWCNTs reinforced polyimide composites. The spectrum matches closely with that of neat polyimide as shown in Fig. 4a. This is further confirmed by the absence of broad peak around the  $3200~\mathrm{cm}^{-1}$  due to -COOH functional
+90: 
+91: groups which gets converted into polyimide. The IR spectra of both neat polyimide as well as MWCNT/poly-imide composites also compare well with earlier reported data [14].

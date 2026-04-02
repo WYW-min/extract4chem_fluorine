@@ -1,0 +1,39 @@
+source_file: Interpenetration Networked Polyimide鈥揈poxy Copolymer under Kinetic and Thermodynamic Control for Anticorrosion.md
+doc_id: f5092218b3ff990cb2fa31ad43d60239
+chunk_index: 5
+block_id: b0006
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [305, 329]
+char_span: [47482, 50168]
+line_count: 23
+effective_body_non_empty_lines: 11
+
+lines:
+--- chunk (b0006: 4. Conclusions) ---
+305: # 4. Conclusions
+306: 
+307: In this study, the two polymers complemented each other in the PI-EP copolymer, namely with increased thermal durability, good ductility, and enhanced mechanical property (due to PI) and high adhesion strength (due to EP). In the early stage of the heating process (lower temperature at about  $150^{\circ}\mathrm{C}$ ), EP curing was the dominant reaction (kinetic
+308: 
+309: control), and at high imidization temperature (at about  $200 - 250^{\circ}\mathrm{C}$ ), the dominant reaction was imidization (thermodynamic control). In between, the EP curing reaction was likely to be reversible, where some EP-amide linkages were broken and released amide function groups, which were then available for the competing imidization reaction to form PI. This is the key feature in the formation of IPN structure. The copolymerization reaction in this study follows the principles of kinetic vs. thermodynamic control of organic chemistry.
+310: 
+311: The linear PI chain and the PI-EP linkages formed an interpenetrating copolymer. Microphase separation was minimal at a PI content of  $10\%$ . Incorporating PI improved the mechanical properties of the PI-EP copolymer. At PI contents of 10 and  $30\%$ , the PI-EP's adhesion strength was nearly the same as that of EP. Salt spray tests found that PI-EP provided the best protection at a PI content of  $10\%$ . In all perspectives investigated in this research, PI-P-EP is a better choice than PI-O-EP. In this study, PI is demonstrated to play an important role in polymeric hardener and forming an IPN structure with EP. The copolymer has high potential application in the field of anticorrosion.
+312: 
+313: This study merely covers limited information about the PI-EP copolymer. Process variables such as PI-EP ratio, molecular size, reaction time, and temperature control can be finetuned to meet requirements for specific applications.
+314: 
+315: Author Contributions: D.-S.C.: conceptualization, data curation, methodology, validation, writing—reviewing and editing. C.-H.C.: resources, supervision, writing—reviewing and editing. W.-T.W.: conceptualization, funding acquisition, supervision. C.-W.S.: resources, supervision. All authors have read and agreed to the published version of the manuscript.
+316: 
+317: Funding: This research received no external funding.
+318: 
+319: Institutional Review Board Statement: Not applicable.
+320: 
+321: Informed Consent Statement: Not applicable.
+322: 
+323: Data Availability Statement: Not applicable.
+324: 
+325: Acknowledgments: The authors gratefully acknowledge the support from the Industrial Technology Research Institute (ITRI), Taiwan and National Yang Ming Chiao Tung University, Taiwan.
+326: 
+327: Conflicts of Interest: The authors declare no conflict of interest.

@@ -1,0 +1,19 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: General procedure for the preparation of polyimide films (5-9)
+line_span: [61, 65]
+char_span: [14180, 14792]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0007: General procedure for the preparation of polyimide films (5-9)) ---
+61: # General procedure for the preparation of polyimide films (5-9)
+62: 
+63: To a solution of BAOB  $(0.495\mathrm{g},1.25\mathrm{mmol})$  in  $5\mathrm{ml}$  of DMAc, was added gradually bis-anhydride  $(1.25\mathrm{mmol})$ . The mixture was stirred at room temperature for  $2\mathrm{h}$  under argon. The obtained DMAc solution of poly(amic acid) was poured onto a glass plate, allowed to stand at room temperature overnight, and then heated from 60 to  $270^{\circ}\mathrm{C}$  (at a heating rate of  $1^{\circ}\mathrm{C / min}$ ) in a furnace. The film was then peeled off from the glass plate to obtain the PI film.

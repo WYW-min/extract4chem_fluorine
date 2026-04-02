@@ -1,0 +1,23 @@
+source_file: Development and Morphological Characterization of Novel PolyimideMetal nano Hybrid Materials.md
+doc_id: afaea7d620f702d555d6b411b11aeb54
+chunk_index: 5
+block_id: b0006
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [144, 152]
+char_span: [23772, 25595]
+line_count: 7
+effective_body_non_empty_lines: 3
+
+lines:
+--- chunk (b0006: 4. Conclusions) ---
+144: # 4. Conclusions
+145: 
+146: Two different polyimides were used as substrates for embedding conductive Ni/Cu nanoparticles through a laser ablation process, for the purpose of obtaining polyimide/metal nano hybrid materials. The pristine polyimide samples showed morphologies generally characteristic to the polyimide films, with relatively low root mean square roughness and developed interfacial area ratio. The auto-organized metal/polyimide nano-aggregates formed on the surface differ in size and appearance, depending on the aromatic diamine (DDM or MMDA) that was used in the synthesis of the polyimide employed as substrate, the type of the embedded nanoparticles (Cu or Ni) and the deposition time (60 or 400 s). The results show that the deposited metallic layers seem to follow the initial topography of the polymeric substrate, indicating uniform distributions of the Cu or Ni nanoparticles. The EDX analysis confirmed that all the samples consist of only Cu or Ni (depending on the deposed metal), C and O. The purity of all nanoparticles was high without any trace of other impurities. In addition, the chemical structure of
+147: 
+148: the polyimide essentially influences the mechanism through which the metallic nanoparticles bind to the support. Using the same experimental parameters, the complexity of the nano-aggregates was higher in the case of PI-II containing
+149: 
+150: 3,3'-dimethyl-4,4'-diaminodiphenylmethane, comparative with PI-I containing 4,4'-diaminodiphenylmethane. Analyzing all data, for the targeted potential applications of these polyimide/ metal nano hybrid materials as conductive circuits or substrates for adhesion control, the best results from the nano-aggregates distribution point of view were obtained when Cu layer was deposed for  $600\mathrm{~s}$  on both DDM-based and MMDA-based polyimide substrate.

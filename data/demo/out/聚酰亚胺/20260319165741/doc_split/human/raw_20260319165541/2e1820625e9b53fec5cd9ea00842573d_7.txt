@@ -1,0 +1,32 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 7
+block_id: b0008
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: PREPARATION OF MDI-6FDA POLYIMIDE FILMS
+line_span: [60, 77]
+char_span: [11780, 13650]
+line_count: 16
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0008: PREPARATION OF MDI-6FDA POLYIMIDE FILMS) ---
+60: # PREPARATION OF MDI-6FDA POLYIMIDE FILMS
+61: 
+62: A solvent casting technique was used to develop MDI-6FDA PI film with different drying parameters. MDI-6FDA PI solution at  $15\%$  solid concentration in DMAc was prepared and filtered through a  $0.45\mu \mathrm{m}$  filter syringe in an ambient atmosphere. The filtered solution was dropcast onto a glass slide (dimensions:  $23~\mathrm{mm}$  wide  $\times 38$  mm long) and dried using different drying methods, as summarised in Table 1. It should be noted that a direct drying procedure was used. The number of solution drops was also evaluated in order to get a uniform colour and film thickness. The total number of drops examined was 26, 33, 35, and 46. The quantity of drops is governed by the surface tension of the solution. A commercialised PI film, Kapton (Figure 1), of  $24\mu \mathrm{m}$  thick, was employed as a standard reference and characterised accordingly.
+63: 
+64: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+65: SCHEME 1. Synthesis of MDI-6FDA polyimide
+66: 
+67: TABLE 1. Drying test parameters for MDI-6FDA polyimide films  
+68: 
+69: <table><tr><td>Drying method</td><td>Temperature (℃)</td><td>Drying time (h)</td></tr><tr><td>Fume hood</td><td>Ambient</td><td>24</td></tr><tr><td>Glovebox</td><td>Ambient</td><td>24</td></tr><tr><td></td><td>60</td><td></td></tr><tr><td></td><td>80</td><td></td></tr><tr><td>Drying oven</td><td>90</td><td>2</td></tr><tr><td></td><td>100</td><td></td></tr><tr><td></td><td>80</td><td></td></tr><tr><td>Vacuum oven</td><td>100</td><td>2</td></tr><tr><td></td><td>160</td><td></td></tr></table>
+70: 
+71: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+72: 
+73: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+74: Kapton  
+75: FIGURE 1. The films and structure of Kapton made up of pyromellitic dianhydride (PMDA) and  $4,4^{\prime}$ -oxydianiline (ODA)

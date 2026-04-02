@@ -1,0 +1,67 @@
+source_file: Carborane-Containing Aromatic Polyimide Films with Ultrahigh Thermo-Oxidative Stability.md
+doc_id: c71e2616cedfda9fcf5f09260a8bd28e
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [203, 253]
+char_span: [35678, 45428]
+line_count: 51
+effective_body_non_empty_lines: 45
+
+lines:
+--- chunk (b0006: References) ---
+203: # References
+204: 
+205: 1. Kreuz, J.A.; Edman, J.R. Polyimide Films. Adv. Mater. 1998, 10, 1229-1232. [CrossRef]  
+206: 2. Liaw, D.-J.; Wang, K.-L.; Huang, Y.-C.; Lee, K.-R.; Lai, J.-Y.; Ha, C.-S. Advanced polyimide materials: Syntheses, physical properties and applications. Prog. Polym. Sci. 2012, 37, 907-974. [CrossRef]  
+207: 3. Tomczyk, M.; Bretos, I.; Jiménez, R.; Mahajan, A.; Ramana, E.V.; Calzada, M.L.; Vilarinho, P.M. Direct fabrication of  $\mathrm{BiFeO_3}$  thin films on polyimide substrates for flexible electronics. J. Mater. Chem. C 2017, 5, 12529-12537. [CrossRef]  
+208: 4. Ma, H.; Jen, A.K.-Y.; Dalton, L.R. Polymer-Based Optical Waveguides: Materials, Processing, and Devices. Adv. Mater. 2002, 14, 1339-1365. [CrossRef]  
+209: 5. Govindaraj, B.; Sarojadevi, M. Microwave-assisted synthesis of nanocomposites from polyimides chemically cross-linked with functionalized carbon nanotubes for aerospace applications. Polym. Adv. Technol. 2018, 29, 1718-1726. [CrossRef]  
+210: 6. Zhu, Z.; Yao, H.; Dong, J.; Qian, Z.; Dong, W.; Long, D. High-mechanical-strength polyimide aerogels crosslinked with 4,4'-oxydianiline-functionalized carbon nanotubes. Carbon 2019, 144, 24-31. [CrossRef]  
+211: 7. Choi, M.-C.; Kim, Y.; Ha, C.-S. Polymers for flexible displays: From material selection to device applications. Prog. Polym. Sci. 2008, 33, 581-630. [CrossRef]  
+212: 8. Xiao, Y.; Low, B.T.; Hosseini, S.S.; Chung, T.S.; Paul, D.R. The strategies of molecular architecture and modification of polyimide-based membranes for  $\mathrm{CO}_{2}$  removal from natural gas—A review. *Prog. Polym. Sci.* 2009, 34, 561-580. [CrossRef]
+213: 
+214: 9. Rodenas, T.; van Dalen, M.; García-Pérez, E.; Serra-Crespo, P.; Zornoza, B.; Kapteijn, F.; Gascon, J. Visualizing MOF Mixed Matrix Membranes at the Nanoscale: Towards Structure-Performance Relationships in  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  Separation Over  $\mathrm{NH}_{2}$ -MIL-53(Al)@PI. Adv. Funct. Mater. 2014, 24, 249–256. [CrossRef]  
+215: 10. Wang, Z.; Wang, D.; Zhang, S.; Hu, L.; Jin, J. Interfacial Design of Mixed Matrix Membranes for Improved Gas Separation Performance. Adv. Mater. 2016, 28, 3399-3405. [CrossRef]  
+216: 11. Rogan, Y.; Malpass-Evans, R.; Carta, M.; Lee, M.; Jansen, J.C.; Bernardo, P.; Clarizia, G.; Tocci, E.; Friess, K.; Lanč, M.; et al. A highly permeable polyimide with enhanced selectivity for membrane gas separations. J. Mater. Chem. A 2014, 2, 4874-4877. [CrossRef]  
+217: 12. Wang, H.; Wang, T.; Yang, S.; Fan, L. Preparation of thermal stable porous polyimide membranes by phase inversion process for lithium-ion battery. Polymer 2013, 54, 6339-6348. [CrossRef]  
+218: 13. Liang, X.; Yang, Y.; Jin, X.; Huang, Z.; Kang, F. The high performances of  $\mathrm{SiO}_2 / \mathrm{Al}_2\mathrm{O}_3$  -coated electrospun polyimide fibrous separator for lithium-ion battery. J. Membr. Sci. 2015, 493, 1-7. [CrossRef]  
+219: 14. Miao, Y.-E.; Zhu, G.-N.; Hou, H.; Xia, Y.-Y.; Liu, T. Electrospun polyimide nanofiber-based nonwoven separators for lithium-ion batteries. J. Power Sources 2013, 226, 82-86. [CrossRef]  
+220: 15. Shi, J.; Hu, H.; Xia, Y.; Liu, Y.; Liu, Z. Polyimide matrix-enhanced cross-linked gel separator with three-dimensional heat-resistance skeleton for high-safety and high-power lithium ion batteries. J. Mater. Chem. A 2014, 2, 9134-9141. [CrossRef]  
+221: 16. Tsai, M.H.; Tseng, I.H.; Chiang, J.C.; Li, J.J. Flexible polyimide films hybrid with functionalized boron nitride and graphene oxide simultaneously to improve thermal conduction and dimensional stability. ACS Appl. Mater. Interfaces 2014, 6, 8639-8645. [CrossRef]  
+222: 17. Sato, K.; Horibe, H.; Shirai, T.; Hotta, Y.; Nakano, H.; Nagai, H.; Mitsuishi, K.; Watari, K. Thermally conductive composite films of hexagonal boron nitride and polyimide with affinity-enhanced interfaces. J. Mater. Chem. 2010, 20, 2749-2752. [CrossRef]  
+223: 18. Li, T.-L.; Hsu, S.L.-C. Preparation and properties of thermally conductive photosensitive polyimide/boron nitride nanocomposites. J. Appl. Polym. Sci. 2011, 121, 916-922. [CrossRef]  
+224: 19. Spechler, J.A.; Koh, T.-W.; Herb, J.T.; Rand, B.P.; Arnold, C.B. A Transparent, Smooth, Thermally Robust, Conductive Polyimide for Flexible Electronics. Adv. Funct. Mater. 2015, 25, 7428-7434. [CrossRef]  
+225: 20. Kim, Y.; Ryu, T.I.; Ok, K.-H.; Kwak, M.-G.; Park, S.; Park, N.-G.; Han, C.J.; Kim, B.S.; Ko, M.J.; Son, H.J.; et al. Inverted Layer-By-Layer Fabrication of an Ultraflexible and Transparent Ag Nanowire/Conductive Polymer Composite Electrode for Use in High-Performance Organic Solar Cells. Adv. Funct. Mater. 2015, 25, 4580-4589. [CrossRef]  
+226: 21. Lu, H.-Y.; Chou, C.-Y.; Wu, J.-H.; Lin, J.-J.; Liou, G.-S. Highly transparent and flexible polyimide-AgNW hybrid electrodes with excellent thermal stability for electrochromic applications and defogging devices. J. Mater. Chem. C 2015, 3, 3629-3635. [CrossRef]  
+227: 22. Chen, D.; Liang, J.; Liu, C.; Saldanha, G.; Zhao, F.; Tong, K.; Liu, J.; Pei, Q. Thermally Stable Silver Nanowire-Polyimide Transparent Electrode Based on Atomic Layer Deposition of Zinc Oxide on Silver Nanowires. Adv. Funct. Mater. 2015, 25, 7512-7520. [CrossRef]  
+228: 23. Quefé, A.; Cardoso, J.; Le Bras, M.; Delobel, R.; Goudmand, P.; Dessaux, O.; Jama, C. Thermal stability and flammability studies of coated polymer powders using a plasma fluidized bed process. J. Mater. Sci. 2002, 37, 1395-1399. [CrossRef]  
+229: 24. Saccani, A.; Toselli, M.; Pilati, F. Improvement of the thermo-oxidative stability of low-density polyethylene films by organic-inorganic hybrid coatings. Polym. Degrad. Stab. 2011, 96, 212-219. [CrossRef]  
+230: 25. Kim, S.; Jang, M.; Park, M.; Park, N.-H.; Ju, S.-Y. A self-assembled flavin protective coating enhances the oxidative thermal stability of multi-walled carbon nanotubes. Carbon 2017, 117, 220-227. [CrossRef]  
+231: 26. Williams, J.M.; Kelly, R.G. An analysis of corrosive species ingress into IM7/PETI-5 Ti honeycomb composites. Compos. Sci. Technol. 2004, 64, 1875-1883. [CrossRef]  
+232: 27. Lincoln, J.E.; Hout, S.; Flaherty, K.; Curliss, D.B.; Morgan, R.J. High temperature organic/inorganic addition cure polyimide composites, part 1: Matrix thermal properties. J. Appl. Polym. Sci. 2008, 107, 3557-3567. [CrossRef]  
+233: 28. Shi, C.; Dai, J.; Shen, X.; Peng, L.; Li, C.; Wang, X.; Zhang, P.; Zhao, J. A high-temperature stable ceramic-coated separator prepared with polyimide binder/Al $_2$ O $_3$  particles for lithium-ion batteries. J. Membr. Sci. 2016, 517, 91-99. [CrossRef]
+234: 
+235: 29. Lincoln, J.E.; Morgan, R.J.; Curliss, D.B. Effect of matrix chemical structure on the thermo-oxidative stability of addition cure poly(imide siloxane) composites. Polym. Compos. 2008, 29, 585-596. [CrossRef]  
+236: 30. Chang, T.C.; Wu, K.H.; Liao, C.L.; Lin, S.T.; Wang, G.P. Thermo-oxidative degradation of siloxane-containing polyimide and unmodified polyimide. Polym. Degrad. Stab. 1998, 62, 299-305. [CrossRef]  
+237: 31. Packirisamy, S. Decaborane(14)-based polymers. Prog. Polym. Sci. 1996, 21, 707-773. [CrossRef]  
+238: 32. Heying, T.L.; Jr, J.W.A.; Clark, S.L.; Mangold, D.J.; Goldstein, H.L.; Hillman, M.; Polak, R.J.; Szymanski, J.W. A New Series of Organoboranes. I. Carboranes from the Reaction of Decaborane with Acetylenic Compounds. Inorg. Chem. 1963, 2, 1089-1092. [CrossRef]  
+239: 33. Jemmis, E.D. Overlap control and stability of polyhedral molecules. closeo-Carboranes. J. Am. Chem. Soc. 1982, 104, 7017-7020. [CrossRef]  
+240: 34. Dash, B.P.; Satapathy, R.; Maguire, J.A.; Hosmane, N.S. Polyhedral boron clusters in materials science. New J. Chem. 2011, 35, 1955-1972. [CrossRef]  
+241: 35. Li, N.; Zeng, F.; Qu, D.; Zhang, J.; Shao, L.; Bai, Y. Synthesis and characterization of carborane-containing polyester with excellent thermal and ultrahigh char yield. J. Appl. Polym. Sci. 2016, 133. [CrossRef]  
+242: 36. Zhang, X.; Kong, L.; Dai, L.; Zhang, X.; Wang, Q.; Tan, Y.; Zhang, Z. Synthesis, characterization, and thermal properties of poly(siloxane-carborane)s. Polymer 2011, 52, 4777-4784. [CrossRef]  
+243: 37. Huang, X.; Zhang, Q.; Meng, Z.; Gu, J.; Jia, X.; Xi, K. Greatly enhanced thermo-oxidative stability of polybenzoxazine thermoset by incorporation ofm-carborane. J. Polym. Sci. Part A Polym. Chem. 2015, 53, 973-980. [CrossRef]  
+244: 38. Hasegawa, M.; Koseki, K. Poly(ester imide)s Possessing Low Coefficient of Thermal Expansion and Low Water Absorption. High Perform. Polym. 2016, 18, 697-717. [CrossRef]  
+245: 39. Xing, T.; Zhang, K. Syntheses of novel soluble carborane polyimides with ultrahigh thermal stability. Polym. Int. 2015, 64, 1715-1721. [CrossRef]  
+246: 40. Nayak, L.; Rahaman, M.; Khastgir, D.; Chaki, T.K. Thermal degradation kinetics of polyimide nanocomposites from different carbon nanofillers: Applicability of different theoretical models. J. Appl. Polym. Sci. 2018, 135, 45862. [CrossRef]  
+247: 41. Yang, K.-K.; Wang, X.-L.; Wang, Y.-Z.; Wu, B.; Jin, Y.-D.; Yang, B. Kinetics of thermal degradation and thermal oxidative degradation of poly(p-dioxanone). Eur. Polym. J. 2003, 39, 1567-1574. [CrossRef]  
+248: 42. Lou, P.; Zhang, X.; Liu, B.; Gao, X.; Zhang, Z.; Xie, Z. Synthesis and thermal degradation mechanism of polyorganocarboranesiloxanes containing m -carboranyl methyl unit. Polym. Degrad. Stab. 2017, 144, 304-314. [CrossRef]  
+249: 43. Lei, X.F.; Chen, Y.; Zhang, H.P.; Li, X.J.; Yao, P.; Zhang, Q.Y. Space survivable polyimides with excellent optical transparency and self-healing properties derived from hyperbranched polysiloxane. ACS Appl. Mater. Interfaces 2013, 5, 10207-10220. [CrossRef] [PubMed]
+250: 
+251: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+252: 
+253: © 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

@@ -1,0 +1,31 @@
+source_file: Comparison of Properties of Colorless and Transparent Polyimide Nanocomposites Containing Chemically Modified .md
+doc_id: e5f03432a19ee35991e4eea399ad5d8a
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [46, 62]
+char_span: [3018, 8332]
+line_count: 15
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+46: # 1. Introduction
+47: 
+48: Recently, many studies have been conducted to develop highly functional polyimide (PI) materials with superior thermo-mechanical properties, excellent processability, and high optical transparency compared with conventional PI [1-3]. Among the newly developed PIs, colorless and transparent PIs (CPIs) have attracted significant attention in the field of electronic materials for diverse applications, such as flexible display substrates, semiconductors, and electro-optical devices [4-6]. Most CPIs exhibit favorable properties because the structure of the main chain is bent or comprises bulky  $-\mathrm{CF}_3$  or  $-\mathrm{SO}_2$  electron-withdrawing groups that prevent the formation of charge-transfer complexes (CTCs) between the chains [7,8]. Moreover, it is possible to obtain CPIs with various physical properties, depending on the design of the monomer used. In addition, these CPIs have been shown to have superior solubility, thermal stability, and high optical transparency compared with PIs that have been commercialized for several decades [9,10].
+49: 
+50: CPI can be widely applied to electronic materials and devices for display as a replacement for glass. In addition, it can be easily synthesized and mass-produced, so it can be used in solar panels, liquid crystal displays (LCD), and plasma display panels (PDP). Recently, flexible and transparent indium tin oxide (ITO) in the form of conductive oxide has been widely used in display substrates and microelectronics fields. However, since indium is rare and expensive, there are many limitations to the use of ITO glass as a display material [11]. Therefore, CPI is not only a suitable alternative to overcome the limitations of glass, but also can be used as a wearable electronic device or a transparent electrode.
+51: 
+52: Novel nanocomposite materials that contain a certain amount of nanofiller well-dispersed in an organic polymer matrix significantly improve the performance of existing materials and offer routes to material properties that cannot be achieved through traditional procedures [12,13]. Nanocomposite materials with low nanofiller loadings ( $< 10 \mathrm{wt}\%$ ) exhibit considerably improved thermo-mechanical properties as well as unique optical properties and morphologies owing to their excellent dispersibility. The aromatic precursor poly(amic acid) (PAA) has significant potential to emerge as a high-performance nanocomposite CPI via thermal imidization reactions with nanofillers [14,15].
+53: 
+54: Graphene and clay are well-established nanofillers. Owing to a surface area, thermal conductivity, and electrical conductivity of  $2630~\mathrm{m^2 / g}$ ,  $5000~\mathrm{W~m / K}$ , and  $6000~\mathrm{S / cm}$ , respectively, single-layer graphene harbors the excellent potential for applications, such as materials for gas barriers, transparent electrodes, and solar cells as a filler in polymeric nanocomposites [16-18]. However, because graphene is a two-dimensional aggregate of carbon, it is necessary to increase the compatibility thereof with the polymer matrix through chemical or physical modification for viable incorporation into a nanocomposite material and to prevent micro-phase separation. One of the efficient ways to achieve homogeneous graphene dispersion in a polymer matrix is to use functionalized-graphene sheets (F-GSs) that are obtained by separating the agglomerated carbonaceous structure through an organic reaction [19-21].
+55: 
+56: When clay montmorillonite (MMT) with a large surface area  $(700 - 800\mathrm{m}^2 /\mathrm{g})$  is used as a nanofiller in a polymer composite, the thermomechanical properties and solvent resistance of the resulting nanocomposite are significantly increased owing to the mutual attraction between the composite materials. However, because MMT is hydrophilic and therefore incompatible with lipophilic polymers, it is necessary to chemically combine MMT with a suitable organic agent. These organoclays are dispersed in the polymer as nanoparticles to effectively enhance the properties of the composite material [22-24].
+57: 
+58: In this study, we used  $4,4^{\prime}$ -(4,4'-isopropylidenediphenoxy)diphthalic anhydride (BPADA) as a dianhydride and bis [4-(3-aminophenoxy)phenyl] sulfone ( $m$ -BAPS) as a diamine to synthesize a CPI precursor, and thermal imidization was performed with dispersed nanofillers to synthesize CPI hybrid films. BPADA is commonly used to synthesize CPI and is known to improve solubility and colorless transparency. To prevent CTC formation and increase the optical transparency, BPADA and  $m$ -BAPS were used to fabricate an overall curved CPI structure. The F-GS (C16-GS) and organoclay (C16-MMT) nanofillers were synthesized by reacting hexadecylamine (C16) with GS and MMT, respectively. The same organic agent was used to enable contrasting effects of GS and MMT on the CPI hybrid films. Fuller loadings of 0.25 to  $1.00 \mathrm{wt}\%$  with respect to the polymer matrix were investigated.
+59: 
+60: The purpose of this study is to evaluate the dispersion effect according to the two nanofillers used in the CPI hybrid and the various contents. A method to manufacture a CPI hybrid film through solution intercalation is described, and thermal properties, optical transparency, and morphologies of the CPI hybrid films are explored.

@@ -1,0 +1,86 @@
+source_file: One-Pot Synthesis of Amide-Functional Main-Chain Polybenzoxazine Precursors.md
+doc_id: a844b67c83cd6c3ff13c52c6161206a4
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [122, 191]
+char_span: [23999, 36673]
+line_count: 70
+effective_body_non_empty_lines: 63
+
+lines:
+--- chunk (b0006: References) ---
+122: # References
+123: 
+124: 1. Demir, K.; Kiskan, B.; Aydogan, B.; Yagci, Y. Thermally curable main-chain benzoxazine prepolymers via polycondensation route. React. Funct. Polym. 2013, 73, 346-359. [CrossRef]  
+125: 2. Ghosh, N.; Kiskan, B.; Yagci, Y. Polybenzoxazines—New high performance thermosetting resins: Synthesis and properties. Prog. Polym. Sci. 2007, 32, 1344–1391. [CrossRef]  
+126: 3. Nair, C.P.R. Advances in addition-cure phenolic resins. Prog. Polym. Sci. 2004, 29, 401-498.  
+127: 4. Akkus, B.; Kiskan, B.; Yagci, Y. Counterion effect of amine salts on ring-opening polymerization of 1,3-benzoxazines. Macromol. Chem. Phys. 2019, 220, 1800268. [CrossRef]  
+128: 5. Kaya, G.; Kiskan, B.; Yagci, Y. Phenolic naphthoxazines as curing promoters for benzoxazines. Macromolecules 2018, 51, 1688-1695. [CrossRef]  
+129: 6. Arslan, M.; Kiskan, B.; Yagci, Y. Ring-opening polymerization of 1, 3-benzoxazines via borane catalyst. Polymers 2018, 10, 239. [CrossRef] [PubMed]  
+130: 7. Ishida, H.; Rodriguez, Y. Curing kinetics of a new benzoxazine-based phenolic resin by differential scanning calorimetry. Polymer 1995, 36, 3151-3158. [CrossRef]  
+131: 8. Özaltın, T.; Catak, S.; Kiskan, B.; Yagci, Y.; Aviyente, V. Rationalizing the regioselectivity of cationic ring-opening polymerization of benzoxazines. Eur. Polym. J. 2018, 105, 61-67. [CrossRef]  
+132: 9. Liu, C.; Shen, D.; Sebastián, R.M.A.; Marquet, J.; Schonfeld, R. Mechanistic studies on ring-opening polymerization of benzoxazines: A mechanistically based catalyst design. Macromolecules 2011, 44, 4616-4622. [CrossRef]  
+133: 10. Hamerton, I.; McNamara, L.T.; Howlin, B.J.; Smith, P.A.; Cross, P.; Ward, S. Examining the initiation of the polymerization mechanism and network development in aromatic polybenzoxazines. Macromolecules 2013, 46, 5117-5132. [CrossRef] [PubMed]  
+134: 11. Wang, Y.X.; Ishida, H. Cationic ring-opening polymerization of benzoxazines. Polymer 1999, 40, 4563. [CrossRef]
+135: 
+136: 12. Han, L.; Salum, M.L.; Zhang, K.; Froimowicz, P.; Ishida, H. Intrinsic self-initiating thermal ring-opening polymerization of 1,3-benzoxazines without the influence of impurities using very high purity crystals. J. Polym. Sci. Part Polym. Chem. 2017, 55, 3434-3445. [CrossRef]  
+137: 13. Hu, W.H.; Huang, K.W.; Chiou, C.W.; Kuo, S.W. Complementary multiple hydrogen bonding interactions induce the self-assembly of supramolecular structures from heteronucleobase-functionalized benzoxazine and polyhedral oligomeric silsesquioxane nanoparticles. Macromolecules 2012, 45, 9020-9028. [CrossRef]  
+138: 14. Hu, W.-H.; Huang, K.-W.; Kuo, S.-W. Heteronucleobase-functionalized benzoxazine: Synthesis, thermal properties, and self-assembled structure formed through multiple hydrogen bonding interactions. Polym. Chem. 2012, 3, 1546-1554. [CrossRef]  
+139: 15. Li, W.; Wei, T.; Gao, Y.; Xi, K.; Jia, X. Preparation of novel benzoxazine monomers containing ferrocene moiety and properties of polybenzoxazines. Polymer 2012, 53, 1236-1244. [CrossRef]  
+140: 16. Comi, M.; Lligadas, G.; Ronda, J.C.; Galia, M.; Cadiz, V. Renewable benzoxazine monomers from "lignin-like" naturally occurring phenolic derivatives. J. Polym. Sci. Part Polym. Chem. 2013, 51, 4894-4903. [CrossRef]  
+141: 17. Zhang, K.; Zhuang, Q.; Liu, X.; Cai, R.; Yang, G.; Han, Z. Synthesis and copolymerization of benzoxazines with low-dielectric constants and high thermal stability. RSC Adv. 2013, 3, 5261-5270. [CrossRef]  
+142: 18. Lin, L.-C.; Yen, H.-J.; Kung, Y.-R.; Leu, C.-M.; Lee, T.-M.; Liou, G.-S. Novel near-infrared and multi-colored electrochromic polybenzoxazines with electroactive triarylamine moieties. J. Mater. Chem. C 2014, 2, 7796-7803. [CrossRef]  
+143: 19. Imran, M.; Kiskan, B.; Yagci, Y. Concise synthesis and characterization of unsymmetric 1, 3-benzoxazines by tandem reactions. Tetrahedron Lett. 2013, 54, 4966-4969. [CrossRef]  
+144: 20. Kiskan, B.; Koz, B.; Yagci, Y. Synthesis and characterization of fluid 1, 3-benzoxazine monomers and their thermally activated curing. J. Polym. Sci. Part Polym. Chem. 2009, 47, 6955-6961. [CrossRef]  
+145: 21. Kiskan, B.; Demirel, A.; Kamer, O.; Yagci, Y. Synthesis and characterization of nanomagnetite thermosets based on benzoxazines. J. Polym. Sci. Part Polym. Chem. 2008, 46, 6780-6788. [CrossRef]  
+146: 22. Kiskan, B.; Yagci, Y. Thermally curable benzoxazine monomer with a photodimerizable coumarin group. J. Polym. Sci. Part Polym. Chem. 2007, 45, 1670-1676. [CrossRef]  
+147: 23. Taskin, O.; Kiskan, B.; Aksu, A.; Balkis, N.; Weber, J.; Yagci, Y. Polybenzoxazine: A powerful tool for removal of mercury salts from water. Chem. Eur. J. 2014, 20, 10953-10958. [CrossRef]  
+148: 24. Andreu, R.; Reina, J.A.; Ronda, J.C. Carboxylic acid-containing benzoxazines as efficient catalysts in the thermal polymerization of benzoxazines. J. Polym. Sci. Part Polym. Chem. 2008, 46, 6091-6101. [CrossRef]  
+149: 25. Andreu, R.; Reina, J.A.; Ronda, J.C. Studies on the thermal polymerization of substituted benzoxazine monomers: Electronic effects. J. Polym. Sci. Part Polym. Chem. 2008, 46, 3353-3366. [CrossRef]  
+150: 26. Zúñiga, C.; Larrechi, M.S.; Lligadas, G.; Ronda, J.C.; Galià, M.; Cádiz, V. Polybenzoxazines from renewable diphenolic acid. J. Polym. Sci. Part Polym. Chem. 2011, 49, 1219-1227. [CrossRef]  
+151: 27. Agag, T.; Takeichi, T. Novel benzoxazine monomers containing p-phenyl propargyl ether: Polymerization of monomers and properties of polybenzoxazines. Macromolecules 2001, 34, 7257-7263. [CrossRef]  
+152: 28. Agag, T.; Takeichi, T. Synthesis and characterization of novel benzoxazine monomers containing allyl groups and their high performance thermosets. Macromolecules 2003, 36, 6010-6017. [CrossRef]  
+153: 29. Kudoh, R.; Sudo, A.; Endo, T. A highly reactive benzoxazine monomer, 1-(2-hydroxyethyl)-1,3-benzoxazine: Activation of benzoxazine by neighboring group participation of hydroxyl group. Macromolecules 2010, 43, 1185-1187. [CrossRef]  
+154: 30. Sudo, A.; Du, L.-C.; Hirayama, S.; Endo, T. Substituent effects of n-alkyl groups on thermally induced polymerization behavior of 1,3-benzoxazines. J. Polym. Sci. Part Polym. Chem. 2010, 48, 2777-2782. [CrossRef]  
+155: 31. Kawaguchi, A.W.; Sudo, A.; Endo, T. Synthesis of highly polymerizable 1,3-benzoxazine assisted by phenyl thio ether and hydroxyl moieties. J. Polym. Sci. Part Polym. Chem. 2012, 50, 1457-1461. [CrossRef]  
+156: 32. Lin, C.H.; Feng, Y.R.; Dai, K.H.; Chang, H.C.; Juang, T.Y. Synthesis of a benzoxazine with precisely two phenolic OH linkages and the properties of its high-performance copolymers. J. Polym. Sci. Part Polym. Chem. 2013, 51, 2686-2694.  
+157: 33. Kiskan, B.; Yagci, Y. Self-healing of poly (propylene oxide)-polybenzoxazine thermosets by photoinduced coumarine dimerization. J. Polym. Sci. Part Polym. Chem. 2014, 52, 2911-2918. [CrossRef]  
+158: 34. Khan, M.; Halder, K.; Shishatskiy, S.; Filiz, V. Synthesis and crosslinking of polyether-based main chain benzoxazine polymers and their gas separation performance. Polymers 2018, 10, 221. [CrossRef] [PubMed]
+159: 
+160: 35. Demir, K.; Kiskan, B.; Latthe, S.; Demirel, A.; Yagci, Y. Thermally curable fluorinated main chain benzoxazine polyethers via ullmann coupling. Polym. Chem. 2013, 4, 2106-2114. [CrossRef]  
+161: 36. Kukut, M.; Kiskan, B.; Yagci, Y. Self-curable benzoxazine functional polybutadienes synthesized by click chemistry. Des. Monomers Polym. 2009, 12, 167-176. [CrossRef]  
+162: 37. Takeichi, T.; Kano, T.; Agag, T. Synthesis and thermal cure of high molecular weight polybenzoxazine precursors and the properties of the thermosets. Polymer 2005, 46, 12172-12180. [CrossRef]  
+163: 38. Kiskan, B. Adapting benzoxazine chemistry for unconventional applications. React. Funct. Polym. 2018, 129, 76-88. [CrossRef]  
+164: 39. Atsushi, N.; Yasutaka, K.; Xiao-Shui, W.; Masaki, O.; Atsushi, S.; Haruo, N.; Eiichi, K.; Takeshi, E. Synthesis and crosslinking behavior of a novel linear polymer bearing 1,2,3-triazol and benzoxazine groups in the main chain by a step-growth click-coupling reaction. J. Polym. Sci. Part Polym. Chem. 2008, 46, 2316-2325.  
+165: 40. Tuzun, A.; Kiskan, B.; Alemdar, N.; Erciyes, A.; Yagci, Y. Benzoxazine containing polyester thermosets with improved adhesion and flexibility. J. Polym. Sci. Part Polym. Chem. 2010, 48, 4279-4284. [CrossRef]  
+166: 41. Arslan, M.; Kiskan, B.; Yagci, Y. Benzoxazine-based thermoset with autonomous self-healing and shape recovery. Macromolecules 2018, 51, 10095-10103. [CrossRef]  
+167: 42. Deliballi, Z.; Kiskan, B.; Yagci, Y. Main-chain benzoxazine precursor block copolymers. Polym. Chem. 2018, 9, 178-183. [CrossRef]  
+168: 43. Agag, T.; Takeichi, T. High-molecular-weight ab-type benzoxazines as new precursors for high-performance thermosets. J. Polym. Sci. Part Polym. Chem. 2007, 45, 1878-1888. [CrossRef]  
+169: 44. Hanbeyoglu, B.; Kiskan, B.; Yagci, Y. Hydroxyl functional polybenzoxazine precursor as a versatile platform for post-polymer modifications. Macromolecules 2013, 46, 8434-8440. [CrossRef]  
+170: 45. Lin, C.H.; Chang, S.L.; Shen, T.Y.; Shih, Y.S.; Lin, H.T.; Wang, C.F. Flexible polybenzoxazine thermosets with high glass transition temperatures and low surface free energies. Polym. Chem. 2012, 3, 935-945. [CrossRef]  
+171: 46. Froimowicz, P.; Zhang, K.; Ishida, H. Intramolecular hydrogen bonding in benzoxazines: When structural design becomes functional. Chem. Eur. J. 2016, 22, 2691-2707. [CrossRef]  
+172: 47. Kim, H.-D.; Ishida, H. A study on hydrogen-bonded network structure of polybenzoxazines. J. Phys. Chem. A 2002, 106, 3271-3280. [CrossRef]  
+173: 48. Yang, P.; Wang, X.; Fan, H.; Gu, Y. Effect of hydrogen bonds on the modulus of bulk polybenzoxazines in the glassy state. Phys. Chem. Chem. Phys. 2013, 15, 15333-15338. [CrossRef]  
+174: 49. Shen, X.; Cao, L.; Liu, Y.; Dai, J.; Liu, X.; Zhu, J.; Du, S. How does the hydrogen bonding interaction influence the properties of polybenzoxazine? An experimental study combined with computer simulation. Macromolecules 2018, 51, 4782-4799. [CrossRef]  
+175: 50. Agag, T.; Arza, C.R.; Maurer, F.H.J.; Ishida, H. Primary amine-functional benzoxazine monomers and their use for amide-containing monomeric benzoxazines. Macromolecules 2010, 43, 2748-2758. [CrossRef]  
+176: 51. Agag, T.; Arza, C.R.; Maurer, F.H.J.; Ishida, H. Crosslinked polyamide based on main-chain type polybenzoxazines derived from a primary amine-functionalized benzoxazine monomer. J. Polym. Sci. Part Polym. Chem. 2011, 49, 4335-4342. [CrossRef]  
+177: 52. Zhang, K.; Ishida, H. Smart synthesis of high-performance thermosets based on ortho-amide-imide functional benzoxazines. Front. Mater. 2015, 2. [CrossRef]  
+178: 53. Kaya, G.; Kiskan, B.; Yagci, Y. Coumarines as masked phenols for amide functional benzoxazines. Polym. Chem. 2019, 10, 1268-1275. [CrossRef]  
+179: 54. Gungor, F.; Kiskan, B. Tailoring polyvinyl alcohol with triazinanes and formaldehyde. React. Funct. Polym. 2018, 124, 115-120. [CrossRef]  
+180: 55. Guo, W.; Gómez, J.E.; Martínez-Rodríguez, L.; Bandeira, N.A.G.; Bo, C.; Kleijj, A.W. Metal-free synthesis of n-aryl amides using organocatalytic ring-opening aminolysis of lactones. *ChemSusChem* 2017, 10, 1969–1975. [CrossRef]  
+181: 56. Carme Pampin, M.; Estevez, J.C.; Estevez, R.J.; Maestro, M.; Castedo, L. Heck-mediated synthesis and photochemically induced cyclization of [2-(2-styrylphenyl)ethyl]carbamic acid ethyl esters and 2-styryl-benzoic acid methyl esters: Total synthesis of naphtho[2,1f]isoquinolines (2-azachrysenes). Tetrahedron 2003, 59, 7231-7243. [CrossRef]  
+182: 57. Jablonski, J.J.; Basu, D.; Engel, D.A.; Geysen, H.M. Design, synthesis, and evaluation of novel small molecule inhibitors of the influenza virus protein ns1. Bioorg. Med. Chem. 2012, 20, 487-497. [CrossRef]
+183: 
+184: 58. Zhang, W.; Froimowicz, P.; Arza, C.R.; Ohashi, S.; Xin, Z.; Ishida, H. Latent catalyst-containing naphthoxazine: Synthesis and effects on ring-opening polymerization. Macromolecules 2016, 49, 7129-7140. [CrossRef]  
+185: 59. Fam, S.B.; Uyar, T.; Ishida, H.; Hacaloglu, J. Investigation of polymerization of benzoxazines and thermal degradation characteristics of polybenzoxazines via direct pyrolysis mass spectrometry. Polym. Int. 2012, 61, 1532-1541. [CrossRef]  
+186: 60. Li, C.; Ran, Q.; Zhu, R.; Gu, Y. Study on thermal degradation mechanism of a cured aldehyde-functional benzoxazine. RSC Adv. 2015, 5, 22593-22600. [CrossRef]  
+187: 61. Hemvichian, K.; Laobuthee, A.; Chirachanchai, S.; Ishida, H. Thermal decomposition processes in polybenzoxazine model dimers investigated by tga-ftir and gc-ms. Polym. Degrad. Stabil. 2002, 76, 1-15. [CrossRef]
+188: 
+189: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+190: 
+191: © 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

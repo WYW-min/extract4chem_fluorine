@@ -1,0 +1,28 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 12
+block_id: b0013
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: RESULTS AND DISCUSSION
+line_span: [108, 121]
+char_span: [22168, 23718]
+line_count: 12
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0013: RESULTS AND DISCUSSION) ---
+108: # RESULTS AND DISCUSSION
+109: 
+110: # STRUCTURE OF SYNTHESIZED SULFONATED RHA FILLER FTIR ANALYSIS
+111: 
+112: Figure 1 displayed the FTIR spectra for the two types of filler, which were the RHA and sRHA, respectively. There were two obvious most intense adsorption peaks that
+113: 
+114: were located at 797 and  $1043~\mathrm{cm^{-1}}$  for RHA whereas for sRHA, they were located at 800 and  $1083~\mathrm{cm^{-1}}$ , respectively. For RHA, the absorption at  $797~\mathrm{cm^{-1}}$  showed that it was the ring-structured tetrahedral SiO4, which it also represented the Si-O-Si symmetric stretching. The band at 1043  $\mathrm{cm^{-1}}$  for RHA was the characteristic of the asymmetric stretching mode of the Si-O-Si bonds. The absorption
+115: 
+116: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+117: FIGURE 1. FTIR spectra of RHA and sRHA
+118: 
+119: peaks at 1631 and  $3383~\mathrm{cm^{-1}}$  were associated with the water molecules stretching and bending modes. The infrared spectrum of sRHA displayed remarkable differences. For instance, the peak at  $800~\mathrm{cm}^{-1}$  represented the symmetric SiO4 stretching vibration and the strong peak at 1083  $\mathrm{cm^{-1}}$  corresponded to the asymmetric vibration of Si-O-Si. The intermolecular hydrogen bonds that showed at the range of 2100 to  $2900~\mathrm{cm^{-1}}$  and broader  $\mathrm{H}_2\mathrm{O}$  bonds at  $3400~\mathrm{cm^{-1}}$  indicated the  $-\mathrm{SiOH}$  and  $-\mathrm{O - SO_3H}$  groups of  $\mathrm{SiO_2 - SO_3H}$  with additional hydrogen bonds from water molecules (Barbosa et al. 2018).

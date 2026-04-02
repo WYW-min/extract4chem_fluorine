@@ -1,0 +1,32 @@
+source_file: Molecular Weight and Gas Separation Performance of Polyimide Membrane Insight into Role of Imidization Route.md
+doc_id: fb1dd6074f79c59df9404d02d6e02586
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Molecular Weight and Gas Separation Performance of Polyimide Membrane: Insight into Role of Imidization Route
+line_span: [1, 18]
+char_span: [0, 1019]
+line_count: 16
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0001: Molecular Weight and Gas Separation Performance of Polyimide Membrane: Insight into Role of Imidization Route) ---
+1: [MINERU_DISCARDED_META]
+2: J. Applied Membrane Science & Technology, Vol. 24, No. 3, December 2020, 83-97 © Universiti Teknologi Malaysia
+3: * Corresponding to: P. C. Tan (email: pengchee.tan@xmu.edu.my) DOI: https://doi.org/10.11113/amst.v24n3.199
+4: [/MINERU_DISCARDED_META]
+5: 
+6: # Molecular Weight and Gas Separation Performance of Polyimide Membrane: Insight into Role of Imidization Route
+7: 
+8: P. C.  $\mathrm{Tan^{a*}}$ , D. Y. Yiauwb, G. H. Teohb, S. C. Lowb*, Z. A. Jawadc
+9: 
+10: $^{a}$ School of Energy and Chemical Engineering, Xiamen University Malaysia, Jalan Sunsuria, Bandar Sunsuria, 43900 Sepang, Selangor Darul Ehsan, Malaysia
+11: 
+12: $^{b}$ School of Chemical Engineering, Engineering Campus, Universiti Sains Malaysia, Seri Ampangan, 14300 Nibong Tebal, Pulau Pinang, Malaysia
+13: 
+14: $^{c}$ Department of Chemical Engineering, Faculty of Engineering and Science, Curtin University Malaysia, CDT 250, 98009, Miri, Sarawak, Malaysia
+15: 
+16: Submitted: 01/10/2020. Revised edition: 14/11/2020. Accepted: 15/11/2020. Available online: 19/11/2020

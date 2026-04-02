@@ -1,0 +1,25 @@
+source_file: High Thermally Stable and Melt Processable Polyimide Resins Based on Phenylethynyl-Terminated Oligoimides Cont.md
+doc_id: c1141ce61700cb27965246d094be203b
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [189, 199]
+char_span: [45539, 47914]
+line_count: 9
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+189: # 4. Conclusions
+190: 
+191: In this research, a series of PEPA-terminated oligoimides were designed and prepared by co-oligomerizing isomeric dianhydrides of a-BPDA, a-BTDA or a-ODPA with diamines mixture of APDS and TFDB, respectively. The correlation of siloxane content and dianhydride structure with the melt fluidity of the oligoimides, as well as thermal stability and mechanical properties of the cured polyimide resins were investigated. The oligoimides exhibited relatively lower melt viscosity and broader processing window accompanied with the increasing siloxane content and gave the minimum complex melt viscosity dropped in the order of PIS-T10 > PIS-A10 > PIS-O10. The PIS-O10 oligoimide derived from a-ODPA revealed excellent melt processability and melt stability with the lowest minimum dynamic melt viscosity of 0.09 Pa·s at  $333^{\circ}\mathrm{C}$  and the melt viscosity variation in the range of 0.69–1.63 Pa·s as isothermal treatment at 260 °C for 2 h. The cured polyimide resins displayed moderate mechanical properties except the PIS-A30 with relatively lower molecular weight. It was also found that the thermal stability of these polyimide resins was significantly affected by siloxane structure. The introduction of flexible siloxane sacrificed the thermal stability of the cured polyimide resins in some extent. However, the  $T_{\mathrm{g}}$ s of these polyimide resins could be significantly improved by postcuring at 400–450 °C because of the oxidative crosslinking of siloxane at elevated temperature. The PIS-O10 resin derived from a-ODPA and consisting of 10 mol% of APDS in diamines exhibited a good balance of melt processability, mechanical properties and thermal stability. The oligoimides containing siloxane structure have good potential in the fabrication of high-performance resin matrix composites by RTM.
+192: 
+193: Author Contributions: Investigation, methodology, software and writing—original draft and preparation, validation, visualization, X.X.; writing—review and editing, formal analysis, X.X., Y.L., B.L., S.M., L.Z. and M.H.; Conceptualization, supervision, resources, data curation, project administration and funding acquisition, L.F.; All authors have read and agreed to the published version of the manuscript.
+194: 
+195: Funding: This research received no external funding.
+196: 
+197: Conflicts of Interest: The authors declare no conflict of interest.

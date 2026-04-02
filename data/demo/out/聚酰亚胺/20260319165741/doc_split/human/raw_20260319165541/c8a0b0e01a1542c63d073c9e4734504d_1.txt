@@ -1,0 +1,27 @@
+source_file: Photo-Induced Vertical Alignment of Liquid Crystals via In Situ Polymerization Initiated by Polyimide Containi.md
+doc_id: c8a0b0e01a1542c63d073c9e4734504d
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [25, 37]
+char_span: [2416, 6436]
+line_count: 11
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+25: # 1. Introduction
+26: 
+27: A liquid crystal (LC) alignment layer is a crucial component of liquid crystal displays (LCDs), which has a great influence on the LCDs' optical and electrical performance in terms of view angles, response time, and voltage holding ratio, among others. Pretilt angle and anchoring energy governed by the chemical and topological structures of alignment layers are two critical factors in adjusting the characters of LCDs. The vertical alignment mode (VA mode), which needs a pretilt angle above  $88^{\circ}$  has many advantages, including a high on-axis contrast ratio, a wide viewing angle, satisfactory cost, and simultaneous applicability of reflective and transmissive mode over other alignment modes such as twist nematic mode and in-plane switching mode [1,2]. Therefore, VA mode has received much research attention and has been adopted into many types of LCDs, ranging from minor-sized cell phones to large-sized televisions and other devices [3].
+28: 
+29: In order to achieve perfect vertical alignment, many methods have been taken to control the pretilt angle, such as rubbing vertical alignment [4-9], polymer-sustained vertical alignment (PSVA) [10-12], and photo-induced vertical alignment [13-17]. Among these alignment methods mentioned above,
+30: 
+31: the PSVA technology showing strength through its fast response, high transmittance, and simple manufacturing process [18] has been widely investigated. Generally, this technology is conducted as follows: the LC cell containing LC and UV-curable monomers is UV-irradiated under a voltage larger than the Freedericksz transition voltage, and the pretilt angle is fixed by the polymer networks formed during UV irradiation. Improved electro-optical properties and image quality, with a higher light transmittance, a lower rising time, and a lower operating voltage, were reported in PSVA LCDs. Many kinds of UV-curable monomers were used to realize PSVA, including reactive mesogen [1,19-21], long alky monoene, and polyene [22,23]. In the meantime, photoinitiators were added to obtain a fast reaction rate. However, the photoinitiators became impurity ions resulting in image sticking when they remained after photopolymerization [24]. The UV-curable monomers polymerized without additional initiators, such as  $4,A^{\prime}$ -diacyloyloxybiphenyl [12] and phenanthrene-carrying monomers [25], were used, aimed at solving the above problem as reported previously. Furthermore, Kang et al. [26] discovered that the pretilt angle of homogeneous alignment polyimide (PI) film was controlled using photocurable monomer (NOA65) without photoinitiator. Inspired by these results, we proposed using photosensitive PI as a photoinitiator to initiate long alkyl monoene to obtain a uniform and stable vertical alignment.
+32: 
+33: Benzophenone (BP) is an efficient photoinitiator and has been adopted for surface grafting modification through hydrogen abstracting [27-29]. Further, Yu et al. [30] found that the PI containing BP groups could induce homogeneous alignment of LC after polarized UV irradiation via intermolecular crosslinking initiated by BP. Therefore, the PI containing BP group could be targeted as polymer initiator. In addition, in order to obtain a higher reaction rate, the diamine  $3,3^{\prime}$ -dimethyl $4,4^{\prime}$ -diaminodiphenyl methane (DMMDA) was used as a hydrogen donor for photoinitiating.
+34: 
+35: In this work, the PI (BTDA-DMMDA PI) synthesized through the polycondensation of  $3,3^{\prime},4,4^{\prime}$ -benzophenonetetracarboxylic dianhydride (BTDA) and DMMDA served as a polymer photoinitiator, and dodecyl acrylate (DA) was grafted onto the PI film to generate a uniform vertical alignment. Furthermore, the chemical structure and morphology of the PI films peeled from LC cells with and without DA monomers, as well as the alignment behavior and its thermal stability, were characterized and analyzed. This will provide the vertical alignment method with a simple procedure and free of additional micromolecular initiators.

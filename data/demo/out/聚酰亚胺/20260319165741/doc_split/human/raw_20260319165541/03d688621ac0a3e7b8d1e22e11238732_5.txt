@@ -1,0 +1,19 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Thermoxidative Stability
+line_span: [64, 68]
+char_span: [11026, 11368]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0006: Thermoxidative Stability) ---
+64: # Thermoxidative Stability
+65: 
+66: Thermal stability of the nanocomposites was examined by using a Thermo gravimetric analyser (Mettler Toledo TGA/SDTA  $851^{\mathrm{e}^{*}}$ ). The test was performed between 50 and  $900^{\circ}\mathrm{C}$  at a heating rate of  $10^{\circ}\mathrm{C / min}$  in air with a flow rate of  $50~\mathrm{cc / min}$ .

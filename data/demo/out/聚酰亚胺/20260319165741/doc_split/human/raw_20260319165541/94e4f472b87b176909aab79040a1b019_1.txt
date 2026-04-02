@@ -1,0 +1,29 @@
+source_file: High performance polyimide films containing benzimidazole moieties for thin film solar cells.md
+doc_id: 94e4f472b87b176909aab79040a1b019
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1 Introduction
+line_span: [18, 32]
+char_span: [1768, 6037]
+line_count: 13
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0002: 1 Introduction) ---
+18: # 1 Introduction
+19: 
+20: Aromatic PIs exhibit outstanding thermal stability, excellent mechanical properties and dimensional stability,
+21: 
+22: low dielectric constant, and electric insulation performance in a wide temperature range. Aromatic PIs are generally obtained from aromatic dianhydride compounds and aromatic diamine compounds, synthesized and processed by different routes (1-10). Aromatic PI films have been widely used in high-technology fields, such as electronics industry, aerospace industry and automobile manufacture (11,12). Benefited from its excellent comprehensive properties, PI films have been widely used as heat-resistant insulating materials, flexible printed circuits, dielectric and flexible connecting materials for multichip model systems, tape automated bonding, substrates for flexible solar cells or flexible displays, and lithium-ion battery separators (8-11). However, with the development of wireless communications, polyimide films with higher modulus, lower linear thermal expansion coefficient (CTE), lower dielectric constant, higher hygroscopicity are requested to meet the requirement for high-frequency low loss circuit (13-15). In the portable energy product field, the use of the PI film as substrates can effectively improve the flexibility and reduce the weight of the solar cells normally using CIGS or CZTS photovoltaic materials. To meet this requirement, the initial decomposition temperature of the PI film should be high enough. However, conventional commercial PI films cannot to be compatible with the high temperature deposition process of the CIGS solar cell. For example, the  $\mathrm{T_d}$  of two commercial PI films Kapton and Upilex-S are 500 and  $520^{\circ}\mathrm{C}$ , respectively, which cannot sustain the high temperature fabrication process of CIGS and CZTS solar cells which is usually above  $530^{\circ}\mathrm{C}$  (16,17). In addition to the excellent thermal stability, PIs for flexible solar cells are also requested to be with low CTE and high hygroscopicity.
+23: 
+24: Great efforts have been made to modify the PI materials to improve their properties, such as making it composited with inorganic materials or other polymers (18-20), copolymerized with other dianhydrides or diamines building blocks (21-23), uniaxially or biaxially stretching the partially chemically imidized PAA film with post-heating treatment (24-26), and electrospinning method from a PAA solution orpolyimide solution with
+25: 
+26: post-heating (27). However, most of those modification methods can only improve certain properties of the polyimide film. It is still a big challenge to have a balanced comprehensive performance of the film.
+27: 
+28: One efficient way to modify the PI structure is to introduce poly(imide-benzimidazole)s containing benzimidazole rings and poly(imide-benzoxazole) containing benzoxazole rings. Due to the oxygen or nitrogen-heterocyclic polymer structure, these molecules have outstanding heat resistance, high strength, and high moduli characteristics (28,29). However, the flexibility of these films is poor because of the high rigidity of the rodlike chains. Furthermore, the water absorption behavior of these films as flexible substrates is too high to be applied in solar cells and electronic field (30).
+29: 
+30: In this paper, a series of PIs were synthesized to be with high  $\mathrm{T_d}$  which is suitable for flexible CIGS solar cell deposition at high temperature, together with a lower CTE and lower water absorption. We find that the introduction of rigid structures without hydrophilic groups into polymer chains is an effective way to adjust and optimize their properties of PIs, especially for minishing the water absorption (17-19). We modified the polyimide chain structure by introducing a third component, a rigid diamine, benzimidazole  $6,4^{\prime}$ -diamino- $2^{\prime}$ -trifluoromethyl-2-phenylbenzimidazole (DATFPBI), into the Upilex-S-style PI to improve the overall performance of the PI film. A series of polyimide films with different proportions of benzimidazole groups were prepared by copolymerization. The influence of the content of DATFPBI on thermal stability, mechanical property, moisture absorption, dimensional stability and electrical property were characterized and discussed.

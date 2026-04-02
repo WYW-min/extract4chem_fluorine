@@ -1,0 +1,19 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 10
+block_id: b0011
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: ACKNOWLEDGMENTS
+line_span: [249, 253]
+char_span: [36324, 36670]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0011: ACKNOWLEDGMENTS) ---
+249: # ACKNOWLEDGMENTS
+250: 
+251: This research was partially supported by a Grant-in-aid for Scientific Research C (24560862) from the Ministry of Education, Culture, Sports, Science and Technology, Japan, the Japanese Society of the Promotion of Science and Research Project Grant B (3) from the Institute of Science and Technology, Meiji University, Japan.

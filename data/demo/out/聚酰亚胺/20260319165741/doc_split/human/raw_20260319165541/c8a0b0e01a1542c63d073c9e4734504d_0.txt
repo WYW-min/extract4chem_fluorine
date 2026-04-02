@@ -1,0 +1,39 @@
+source_file: Photo-Induced Vertical Alignment of Liquid Crystals via In Situ Polymerization Initiated by Polyimide Containi.md
+doc_id: c8a0b0e01a1542c63d073c9e4734504d
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Photo-Induced Vertical Alignment of Liquid Crystals via In Situ Polymerization Initiated by Polyimide Containing Benzophenone
+line_span: [1, 25]
+char_span: [0, 2416]
+line_count: 23
+effective_body_non_empty_lines: 15
+
+lines:
+--- chunk (b0001: Photo-Induced Vertical Alignment of Liquid Crystals via In Situ Polymerization Initiated by Polyimide Containing Benzophenone) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2017, 9, 233; doi:10.3390/polym9060233
+5: www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Photo-Induced Vertical Alignment of Liquid Crystals via In Situ Polymerization Initiated by Polyimide Containing Benzophenone
+11: 
+12: Fei Wang  $^{1}$ , Leishan Shao  $^{2}$ , Qiyao Bai  $^{1}$ , Xinyuan Che  $^{1}$ , Bin Liu  $^{1}$  and Yinghan Wang  $^{1, *}$
+13: 
+14: $^{1}$  State Key Laboratory of Polymer Materials Engineering of China; College of Polymer Science and Engineering, Sichuan University, Chengdu 610065, China; 2015323090041@stu.scu.edu.cn (F.W.); Daisy9596@163.com (Q.B.); cxy2110@163.com (X.C.); 13208180271@163.com (B.L.)  
+15: $^{2}$  Research Institute of Maoming Petrochemical Company, SINOPEC, Maoming 525021, China; shaoleishan@163.com  
+16: * Correspondence: wang_yh@scu.edu.cn; Tel.: +86-28-8546-0823
+17: 
+18: Academic Editors: John T. Sheridan and Yanlei Yu  
+19: Received: 25 May 2017; Accepted: 16 June 2017; Published: 18 June 2017
+20: 
+21: Abstract: Vertical alignment of liquid crystal (LC) was achieved in an easy and effective way: in situ photopolymerization of dodecyl acrylate (DA) monomers initiated by polyimide based on  $3,3^{\prime},4,4^{\prime}$ -benzophenonetetracarboxylic dianhydride and  $3,3^{\prime}$ -dimethyl-4,4'-diaminodiphenyl methane (BTDA-DMMDA PI). The alignment behavior and alignment stabilities were characterized by a polarizing optical microscope (POM), which showed a stable vertical alignment after  $12\mathrm{h}$  of thermal treatment. The chemical structures, morphology, and water contact angles of alignment films peeled from LC cells with and without DA monomers were analyzed by means of a Fourier transform infrared spectrometer (FTIR), a scanning electron microscope (SEM), and a contact angle tester, separately. The results confirmed that the DA monomers underwent self-polymerization and grafting polymerization initiated by the BTDA-DMMDA PI under ultraviolet irradiation, which aggregated on the surfaces of PI films. The water contact angles of the alignment films were about  $15^{\circ}$  higher, indicating a relative lower surface energy. In conclusion, the vertical alignment of LC was introduced by the low surface free energy of PI films grafted with DA polymer and intermolecular interactions between LC and DA polymers.
+22: 
+23: Keywords: vertical alignment; photopolymerization; alignment stability; surface free energy

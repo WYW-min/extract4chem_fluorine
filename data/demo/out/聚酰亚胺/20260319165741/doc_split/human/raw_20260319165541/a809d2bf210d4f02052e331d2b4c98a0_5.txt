@@ -1,0 +1,35 @@
+source_file: Mass-Synthesized Solution-Processable Polyimide Gate Dielectrics for Electrically Stable Operating OFETs and I.md
+doc_id: a809d2bf210d4f02052e331d2b4c98a0
+chunk_index: 5
+block_id: b0006
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [166, 186]
+char_span: [25762, 29033]
+line_count: 19
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0006: 4. Conclusions) ---
+166: # 4. Conclusions
+167: 
+168: In this work, we synthesized a conventional PAA precursor with an industrialized reactor for mass production using a previously reported conventional PI synthesis method, and a synthesized PAA solution was successfully applied to coat a PI thin film via thermal imidization. The fabricated PI thin films showed suitable characteristics for the dielectrics of OFETs, such as a smooth surface, low leakage current density, constant k values regardless of frequency, and compatibility with organic semiconductors. Considering these characteristics, we were able to fabricate well-operated OFETs using these PI layers, which exhibited  $V_{\mathrm{th}}$  shifts lower than  $1\mathrm{~V}$  in a bias stress environment and a  $\mu_{\mathrm{FET}}$  of  $4.29\mathrm{~cm}^2\mathrm{~V}^{-1}\mathrm{~s}^{-1}$ . In addition, these well-operated OFETs were successfully utilized for fabricating integrated logic gates, and they exhibited suitable operating properties. Therefore, we conclude that our mass-produced PAA/PI materials have potential for the practical industrialization of organic electronics in the near future. Additionally, we believe that our work suggests the possibility that many types of PIs reported so far, even if they are industrially produced, can be used in device fabrication, and suggest a future direction.
+169: 
+170: Supplementary Materials: The following are available online at https://www.mdpi.com/article/10.3390/polym13213715/s1, Figure S1: Industrialized reactor photograph and prepared PAA solution. Figure S2: GPC graph of prepared PAA solution. Table S1: Molecular weight of PAA solution.
+171: 
+172: Author Contributions: R.W., J.L., and J.H. contributed equally. Methodology, R.W., J.L., J.H., H.-j.K., H.Y., J.P., C.E.P., J.H.K., H.H.C., G.U., and S.H.K.; writing—original draft preparation, R.W., J.L., J.H., H.-j.K., H.Y., J.P., C.E.P., J.H.K., H.H.C., G.U., and S.H.K.; writing—review and editing, R.W., J.L., J.H., H.-j.K., H.Y., J.P., C.E.P., J.H.K., H.H.C., G.U., and S.H.K.; supervision, H.H.C., G.U., and S.H.K. All authors have read and agreed to the published version of the manuscript.
+173: 
+174: Funding: This work was supported by the Materials & Components Technology Development Program (20006537, Development of High-Performance Insulation Materials for Flexible OLED Display TFT) funded by the Ministry of Trade, Industry & Energy (MOTIE, Korea) (for Kyuyoung Eom) and Yeungnam University Research Grants in 2020 (for Se Hyun Kim). This research was also supported by the National Research Foundation of Korea (NRF), through a grant funded by the Korean government (MSIT) (2020R1A6A1A03038697 and 2020R1C1C1012690) (for Hyun Ho Choi).
+175: 
+176: Institutional Review Board Statement: Not applicable.
+177: 
+178: Informed Consent Statement: Not applicable.
+179: 
+180: Data Availability Statement: Not applicable.
+181: 
+182: Acknowledgments: This work was supported by the Materials & Components Technology Development Program (20006537, Development of High-Performance Insulation Materials for Flexible OLED Display TFT) funded by the Ministry of Trade, Industry & Energy (MOTIE, Korea) (for Kyuyoung Eom). This research was also supported by Yeungnam University Research Grants in 2020 (for Se Hyun Kim).
+183: 
+184: Conflicts of Interest: The authors declare no conflict of interest.

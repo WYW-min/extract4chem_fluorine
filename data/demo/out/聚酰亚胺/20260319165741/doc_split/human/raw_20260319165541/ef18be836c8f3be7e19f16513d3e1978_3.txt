@@ -1,0 +1,153 @@
+source_file: Polyimide-Coated Glass Microfiber as Polysulfide Perm-Selective Separator for High-Performance Lithium-Sulphur.md
+doc_id: ef18be836c8f3be7e19f16513d3e1978
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [65, 203]
+char_span: [14996, 39790]
+line_count: 137
+effective_body_non_empty_lines: 76
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+65: # 3. Results and Discussion
+66: 
+67: The GF membrane essentially consisted of borosilicate microfibers with a thickness in the range between 120 and  $1900\mathrm{nm}$  (Figure 1a,b). Their random arrangement stacking with a thickness of 260  $\mu$ m generated an open porous structure with a pore size of around  $1.2\mu \mathrm{m}$  which was about 28 times bigger than that  $(0.043\mu \mathrm{m})$  of the typical battery separator based on polypropylene (PP), i.e., Celgard 2400. In addition to the thermal stability as high as  $550^{\circ}\mathrm{C}$  (vs.  $\sim 90^{\circ}\mathrm{C}$  for Celgard 2400), much higher than the thermal imidization temperature of PI, GF featured much higher electrolyte permeability than the Celgard membrane, which made it an ideal model separator (or substrate) to investigate the effect of the surface functional group, i.e., PI, on polysulfide shuttling without disturbance of physical trapping in the internal pore structure [26,28].
+68: 
+69: PI was in marked contrast to PP in that it had high thermal stability  $(>500^{\circ}\mathrm{C})$  and wettability to electrolyte solvent. PI was introduced into GF by simple dipping into aqueous PAA solution and thermal curing as shown in Figure 1c. The PAA loaded on GF was fully converted into PI by heating at  $350^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ , after which the resulting PI-GF with a pale yellow color indicative of PI formation could be obtained (Figure 1g inset). The amount and depth of color of PI on GF could gradually be modified by dipping GF into aqueous PAA solution of different concentrations (0.3, 0.5, and 1.0 wt.%). According to the concentration, these separators were referred to as PI-GF- $x$  ( $x = 0.3, 0.5$ , and 1.0).
+70: 
+71: To enable the formation of the homogenous PI thin film on the hydrophilic surface of GF, we used water as a solvent for PAA instead of organic solvent to improve wettability and coating properties via hydrogen bonding [29,30]. In general, PAA has only limited solubility in water, while it dissolves well in polar aprotic organic solvents such as NMP, DMF, and DMAc [31]. Dissolution in water can be facilitated by reacting with the so-called water dissolution agents which are tertiary amines or alcohol amines such as dimethylethanolamine (DMEA) and trimethylamine. These amine compounds yield a salt complex with PAA via acid-amine reaction, substantially increasing solubility in water [27]. We found that the surface of GF indeed got wet faster with aqueous PAA solution than with organic PAA solution in NMP. As such, the PI coating resulting from aqueous solution was homogeneous and smooth, while that from the NMP solution was quite self-aggregated as shown in SEM images (Figure 1f). The surface morphology of GF remained almost intact before and after PI formation (PI-GF-0.5), meaning that the ultra-thin PI coating layer was homogeneously formed on the surface of GF thanks to the strong surface affinity of PAA to GF without affecting the chemical structure of silica. This holds true for PAA solution of  $\sim 3$  wt.% (Figure 1d,e).
+72: 
+73: FT-IR confirms the formation of PI on GF: the weak absorption bands of the imide ring, consisting of carbonyl carbons bound to nitrogen, newly appeared at 725 (deformation), 1363 (C-N), and 1722  $(\mathrm{C} = \mathrm{O}$  sym.)  $\mathrm{cm^{-1}}$  in the FT-IR spectrum of PI-GF-0.5 [32,33] (Figure 1g). The conversion of PAA into PI was successful as was revealed by the disappearance of the characteristic broad bands in the range from 3000 to  $4000~\mathrm{cm}^{-1}$  assigned to the N-H and O-H bonds of PAA. The other strong bands at 450, 787, and  $1013~\mathrm{cm}^{-1}$  were attributed to the bending vibration, symmetric stretching vibration, and asymmetric stretching vibration of Si-O-Si, respectively, of silica retained in borosilicate microfibers [34,35]. The content of PI in PI-GF- $x$  was evaluated by heating PI-GF- $x$  samples in a muffle furnace at  $550^{\circ}\mathrm{C}$  for  $4\mathrm{h}$  under air. As expected, mass loss increased with increasing  $x$  from 0.3 to 1.0; PI-GF-0.3-1.0 samples showed mass losses of 2.0, 4.6, and 6.7 wt.% respectively, which corresponded to the PI content in PI-GF- $x$  (Figure 1h inset). This supported our assumption that the PI loading on GF could simply be fine-tuned with the initial concentration of aqueous PAA solution in the range between 0.3 and 1 wt.% Note that the actual content of PI was probably lower by around 1 wt.% than the values obtained after the thermal decomposition in a muffle furnace; the borosilicate fibers also contributed to a mass loss of  $\sim 1$  wt.% as a result of the removal of surface hydroxy groups (Figure 1h). Also, it was found that PI-GF guaranteed thermal stability up to  $300^{\circ}\mathrm{C}$  with a mass loss below 1 wt.% above which PI-GF-0.5 showed an abrupt mass loss around  $400^{\circ}\mathrm{C}$  and continuous mass loss up to  $700^{\circ}\mathrm{C}$ , partly as a result of thermal decomposition of PI (Figure 1h).
+74: 
+75: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+76: 
+77: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+78: 
+79: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+80: 
+81: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+82: 
+83: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+84: 
+85: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+86: 
+87: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+88: Figure 1. SEM images of (a) glass microfiber (GF); (b) polypropylene (PP); (c) the schematic diagram of the fabrication process for polyimide functionalized glass microfibers (PI-GF) separator and molecular structures of polyamic acid (PAA) salt and polyimide (PI); SEM images of (d,e) PI-GF-0.5 and (f) PI-GF-3 coated with organic (NMP) solutions; (g) Fourier transform infrared (FT-IR) spectra and (h) TGA curves of GF and PI-GF-0.5; (g, inset) photo images of GF and PI-GF; and (h, inset) mass loss and PI content in PI-GF- $x$ .
+89: 
+90: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+91: 
+92: Before the electrochemical characterization of PI-GF- $x$  samples in LSB cells, we first assessed the adsorption capability of polysulfides by PI powders to see whether PI-GF- $x$  provided sufficient heterogeneous adsorption sites (or PI content) for polysulfides. PI powders (50, 100, and  $150\mathrm{mg}$ ) prepared under the same conditions except using GF were mixed with  $25\mathrm{mM}$ $\mathrm{Li}_2\mathrm{S}_6$  solution  $(1.6\mathrm{mL})$  for  $12\mathrm{h}$  under vigorous stirring in an Ar-filled glovebox until it reached equilibrium. Photo-images of the resulting supernatant showed that the catholyte solution of dark brown gradually become colorless with increasing the amount of PI powder and finally turned into a clear solution at  $150\mathrm{mg}$ . Similarly, the absorption at both  $350$  and  $450\mathrm{nm}$  assigned to  $\mathrm{S}_6^{2-}$  dissolved in DOL:DME  $(1:1,\mathrm{v/v})$  was substantially decreased with increasing PI powder in UV-Vis spectra of the supernatant [36-38]. With these results, it was roughly estimated that the adsorption capacity of PI powder for  $\mathrm{Li}_2\mathrm{S}_6$  was around  $0.4\mu\mathrm{mol}$ $\mathrm{Li}_2\mathrm{S}_6/\mathrm{mg}$  PI. Assuming a sulphur utilization efficiency of  $70\%$  and complete dissolution of the remaining  $30\%$  into the electrolyte at an areal sulphur loading of  $2\mathrm{mgS/cm}^2$ , we needed at least  $12\mathrm{mg}$  PI, which was an order of magnitude more than the PI content in PI-GF-1. Although this meant that all PI-GF- $x$  samples were obviously short of the surface adsorbents, it was very likely for the thin PI coating on GF to expose more carbonyl groups featuring high affinity to polysulfides as heterogeneous adsorption sites due to the nanostructure [39]. Indeed, it could be seen that the self-discharge of LSB cells at open-circuit voltage (OCV) was much reduced with PI-GF- $x$  samples as compared to that with the Celgard 2400 (Figure 2d,e). We noted from the stable OCV values with only GF that the surface silanol groups of borosilicate microfibers were also valid for polysulfides adsorption and thereby self-discharge protection, which was in good agreement with previous reports proving the efficient trapping of polysulfides in porous silica [40,41]. However, it was exceptional that the PI-GF-1.0 sample showed rather poor self-discharge protection ability than other samples, including the bare GF. As will be discussed later, the PI content in PI-GF of more than  $1\mathrm{mg}$  precluded ionic transfer especially in the presence of polysulfides. We thus limit our discussion to PI-GF- $x$  samples at  $x \leq 1$ .
+93: 
+94: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+95: (a)
+96: 
+97: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+98: (b)
+99: 
+100: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+101: Figure 2. Adsorption test of polyimide powder in  $25~\mathrm{mM}$ $\mathrm{Li}_2\mathrm{S}_6$  solution: Photo-images of the supernatant of solutions after (a) initial mixed and (b)  $12\mathrm{h}$ ; (c) UV-vis spectra of the supernatant solutions; (d) self-discharge of lithium-sulphur batteries (LSBs) at open-circuit voltage (OCV); and (e) the corresponding decreasing rate.
+102: 
+103: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+104: 
+105: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+106: 
+107: Recently, we demonstrated that microporous carbon cloth (CC) with a small pore size of  $1.2\mathrm{nm}$ , a high surface area of  $1630\mathrm{m}^2/\mathrm{g}$ , and a high pore volume of  $0.87\mathrm{cm}^3/\mathrm{g}$  was a decent sulphur-supporting material for high-performance, flexible LSBs [25]. Without using additional conductive additives, polymer binders, and porous supporting materials, the resulting LSB cells exhibited a specific capacity of 1100 and  $548\mathrm{mAh/g}$  corresponding to a sulphur utilization efficiency of  $66\%$  and  $33\%$  at an areal sulphur loading of 2 and  $6\mathrm{mg/cm}^2$ , respectively, and 0.3C. In particular, a capacity loss of 0.137 and
+108: 
+109: $0.129\%$  per cycle was only marginal over 100 cycles due to the efficient physical trapping of polysulfides in micropores of  $\sim 1.2 \mathrm{~nm}$ . In the permanent presence of polysulfides of  $\sim 34\%$  in electrolyte, this was, however, enabled partly by sacrificial  $\mathrm{LiNO}_3$  additive capable of passivating the surface of the Li metal anode. The problem here was that such a protective SEI layer based on  $\mathrm{LiSO}_x$  was temporary and would continuously degrade over cycles, eventually leading to cell failure [20,42]. It should be noted that most of the recent researches still rely on  $\mathrm{LiNO}_3$  additives irrespective of their strategies. Additional trapping options for polysulfides are indispensable to avoid the same fate of LSB cells where it is important to minimize the detrimental effect of polysulfides shuttling on the Li metal anode if there is.
+110: 
+111: In order to investigate the effect of PI-GF- $x$  on the electrochemical performance of CC, galvanostatic cycling with potential limitation (GCPL) and electrochemical impedance spectroscopy (EIS) measurements were conducted at an areal sulphur loading of  $2\mathrm{mgS/cm^2}$  and an areal current density of  $1.0\mathrm{mA/cm^2}$ , corresponding to 0.3C, in the potential range between 1.8 and  $2.6\mathrm{V}$  vs.  $\mathrm{Li/Li^{+}}$ . The E/S ratio was set to be  $\sim 60$  by using  $1\mathrm{M}\mathrm{Li_2S_6}$  catholyte solution as a sulphur source, under which condition the electrolyte was considered a dilute solution. The low concentration gradient made it difficult for PI-GF- $x$  to drive surface adsorption of polysulfides toward equilibrium. We also used the tough condition to exaggerate the polysulfide shuttling in LSB cells as the dilute electrolyte drove more dissolution of polysulfides from the cathode. These cells were rested at OCV for  $12\mathrm{h}$  before the GCPL test to drive self-discharge reaction if there was any, and then first charged to the upper potential limit in order to electrochemically infiltrate sulphur into CC. The first charge curve was removed from the GCPL profiles in order to avoid confusion unless otherwise noted.
+112: 
+113: Figure 3a shows a capacity vs. cycle number graph of PI-GF- $x$  samples. It is clear that PI-GF-0.5 outperformed other samples including GF in terms of capacity generation and cycle stability; PI-GF-0.5 generated a maximum capacity of  $1328\mathrm{mAh / g}$  corresponding to a sulphur utilization efficiency of  $79.5\%$  with a high Coulombic efficiency of  $99.12\%$  and a marginal capacity loss of  $0.099\%/$ cycle over 120 cycles, while other samples showed a lower capacity generation by  $10\%$  and suffered from a sudden cell failure in 60-70 cycles. The CC cathode combined with PI-GF-0.5, as expected, still performed in the same manner as with the Celgard 2400 or GF (Figure 3b). The GCPL profiles of PI-GF-0.5 showed two typical plateaus at 2.3 and  $2.0\mathrm{V}$  vs.  $\mathrm{Li} / \mathrm{Li}^{+}$  during discharge corresponding to reduction reactions of sulphur to high  $(\mathrm{Li}_2\mathrm{S}_x, 4 \leq x \leq 8)$  and low  $(\mathrm{Li}_2\mathrm{S}_x, 1 \leq x < 4)$  polysulfides/lithium sulfide, respectively, followed by a gradually sloping charge profile toward the upper potential limit attributed to the subsequent oxidation reactions of lithium sulfide, and polysulfides to elemental sulphur [25]. For PI-GF-0.5, the capacity ratio of low  $(700 - 800\mathrm{mAh / g})$  to high  $(550\mathrm{mAh / g})$  polysulfides remained at  $\sim 1.45$ , which was much lower than the theoretical value (3). We attributed this to the microporous CC which is efficient at reactions of soluble high polysulfides responsible for shuttling, but poor at those of insoluble low polysulfides causing pore-blockage [25,43]. The PI-GF-0.5 contributed mainly to the improvement in the former by retarding polysulfides shuttling and thereby keeping the high polysulfides in close proximity to the reaction sites on CC, which was probably why PI-GF-0.5 showed no sign of shuttling during charge, i.e., charge profile drooping or fluctuation without reaching the upper potential limit. We do not exclude the fact that PI is an electrochemically active material for lithium ions in the potential range between 1.9 and  $2.3\mathrm{V}$  vs.  $\mathrm{Li} / \mathrm{Li}^{+}$  well-enveloped in the lower and upper potential limit of GCPL measurement either [39]. It is, however, not only almost impossible to precisely determine the mass of PI taking part in the electrochemical reaction, but also highly unlikely that such a reaction consistently happens at a remote mode without establishing intimate contact with the current collector.
+114: 
+115: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+116: (a)  
+117: (c)
+118: 
+119: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+120: (b)  
+121: (d)
+122: 
+123: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+124: (e)
+125: 
+126: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+127: (f)
+128: 
+129: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+130: Figure 3. (a) Comparison of electrochemical performance depending on separators at  $2\mathrm{mgS/cm^2}$  and 0.3C. (b-f) Charge/discharge profiles of different separators: (b) PP, (c) GF, (d) PI-GF-0.3, (e) PI-GF-0.5, and (f) PI-GF-1.0.
+131: 
+132: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+133: 
+134: The role of PI-GF-0.5 in improving the electrochemical performance of LSB cells was investigated in more detail. It is well-known that polar polymers containing oxygen or nitrogen atoms in polymeric separators such as polyacrylonitrile, poly(methyl methacrylate) facilitate the lithium-ion transfer and distribution and thereby improves the performance of lithium metal anode in carbonate-based electrolyte due to their high affinity [44]. We assumed that the same is true for PI in ether-based electrolytes. Pyridinic nitrogen atoms in PI, which act as lithiophilic sites, has been reported to regulate the cation pathway and their nucleation [45]. Also, it is expected to reduce the overpotential required for lithium plating/stripping. Superior cycle stability and rate capability of PI-GF-0.5 to GF in lithium plating/stripping reactions using 1M LiTFSI solution dissolved in DOL:DME (1:1, v/v) were confirmed. During the cycle stability test of  $1700\mathrm{h}$  (500 cycles) at a constant current density of  $0.35\mathrm{mA/cm^2}$ , the overpotential remained as low as  $5\mathrm{mV}$  except for the initial fluctuation in PI-GF-0.5 during conditioning (Figure 4a). In the following rate capability test, the overpotential only slightly increased by  $0.3\mathrm{mV}$  with increasing current density from 0.35 to  $2.8\mathrm{mA/cm^2}$  and again remained stable even at  $2.8\mathrm{mA/cm^2}$  (Figure 4b).
+135: 
+136: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+137: 
+138: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+139: 
+140: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+141: Figure 4. (a) Lithium stripping/plating performance in Li/Li symmetric cells with GF and PI-GF-0.5 separators: (a) cycle stability of  $1700\mathrm{h}$  (500 cycles) at a constant current density of  $0.35\mathrm{mA/cm^2}$  and (b) rate capability in the current density from 0.35 to  $2.8\mathrm{mA/cm^2}$ . (c) Rate capability performance of LSBs using the GF and PI-GF-0.5 separators at  $2\mathrm{mgS/cm^2}$ , (d) the corresponding charge/discharge profile of PI-GF-0.5.
+142: 
+143: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+144: 
+145: Despite the superior performance of the lithium metal anode, PI-GF-0.5-based LSB cells showed a slightly lower rate capability than those of GF-based ones. This means that the polysulfides adsorption affected the lithium-ion transfer through PI-GF-0.5 [46] (Figure 4c,d). In order to clarify the effect of polysulfide adsorption on the ionic conductivity of PI-GF-0.5, EIS measurement was conducted using Al/separator-electrolyte/Al symmetric cells. The ionic conductivity  $(\sigma)$  was calculated as follows:
+146: 
+147: $$
+148: \sigma = \frac {d}{R _ {b} A}, \tag {1}
+149: $$
+150: 
+151: where  $d$  is the thickness of the separator,  $R_{b}$  is the intersection of the Nyquist plot with the Z-axis at the highest frequency, indicating the bulk electrolyte resistance, and  $A$  is the contact area between electrode and separator [47,48]. In the absence of the polysulfides, the ionic conductivity of PI-GF- $x$  samples gradually increased with increasing the PI content, even 1.36 times higher than that of GF, matching well with the results of lithium plating/stripping reactions (Figure 5a,b). On the contrary, the ionic conductivity decreased with the PI content in the presence of polysulfides. The effect was especially pronounced at  $x = 1$ , where the high content of polysulfide-philic PI allowed adsorption of polysulfides to a large extent, substantially reducing the ionic conductivity and thus leading to sudden LSB cell failure of PI-GF-1. The same interpretation applies to the initial bulk cell resistance
+152: 
+153: of PI-GF- $x$ -based LSBs at an areal sulphur loading of  $2\mathrm{mgS/cm}^2$  (Figure 5c). For example, the bulk resistance and charge transfer resistance noticeably increased for PI-GF-1 due to the high loading of polysulfides on its surface.
+154: 
+155: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+156: Figure 5. (a) Electrochemical impedance spectroscopy (EIS) Nyquist plot for Al/separator-electrolyte/Al symmetric cells and (b) corresponding ionic conductivity without and with  $1\mathrm{M}\mathrm{Li}_2\mathrm{S}_6$  solution, (c-e) EIS Nyquist plot for LSBs under the GF, PI-0.5, and PI-1 separators before and after cycling, and (f) corresponding fitted capacitance and resistance values.
+157: 
+158: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+159: 
+160: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+161: 
+162: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+163: 
+164: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+165: 
+166: <table><tr><td colspan="7">(f)</td></tr><tr><td></td><td>Rb[Ω·cm2]</td><td>Rint[Ω·cm2]</td><td>Rct[Ω·cm2]</td><td>Warburg [Ω0.5]</td><td>Capacitance_1 [F]</td><td>Capacitance_2 [F]</td></tr><tr><td>GF_Before</td><td>1.78</td><td>12.76</td><td>0</td><td>1.40</td><td>0</td><td>0.23</td></tr><tr><td>GF_After 40 cycle</td><td>2.82</td><td>15.17</td><td>3.59</td><td>14.10</td><td>29.87e-6</td><td>1.05e-3</td></tr><tr><td>PI-GF-0.5_Before</td><td>3.20</td><td>9.46</td><td>1.10</td><td>3.04</td><td>16.64e-6</td><td>0.11</td></tr><tr><td>PI-GF-0.5_After 40 cycle</td><td>2.97</td><td>3.65</td><td>6.01</td><td>4.23</td><td>0.11e-3</td><td>0.11</td></tr></table>
+167: 
+168: Photo and SEM images of the cycled electrodes and separators help us roughly qualify/quantify and visualize the mode of surface adsorption of polysulfides. The LSB cells using GF, PI-GF-0.5, and PI-GF-1 were disassembled after charge/discharge cycles at an areal sulphur loading of  $2\mathrm{mgS/cm^2}$  and their changes in surface morphology, texture, and color were observed. Judging from the color change of the cycled separator samples, the polysulfide shuttling clearly happened in LSBs cells even at such low areal sulphur loading (Figure 6a-c). We assume from the utilization efficiency in GCPL experiments that around  $20 - 30\%$  of total sulphur added was dissolved into the electrolyte solution. GF and PI-GF- $x$  turned yellow and green with polysulfides, respectively, where the latter agreed well with what has been seen in previous reports [49]. It was found in photo images of PI-GF- $x$  that the higher the PI content, the darker the green. Similarly, we found from SEM images that the formation of particles and thin coating layers in PI-GF- $x$  got more significant with increasing PI content. The particles filled the voids between the fibers of GF. In addition, the thin coating layers of polysulfides were created at the corner and completely covered the space by cohesive forces [50]. This is probably why the ionic conductivity of PI-GF-1-based LSB cells significantly reduced.
+169: 
+170: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+171: 
+172: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+173: 
+174: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+175: 
+176: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+177: 
+178: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+179: 
+180: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+181: 
+182: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+183: 
+184: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+185: 
+186: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+187: 
+188: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+189: Figure 6. (a-c) Photo images and (d-f) SEM images: (a,d) GF, (b,e) PI-0.5, and (c,f) PI-1 separators after cycling, (a-c, inset) separators before cycling. (g) TGA curves of PI-GF-0.5 before and after cycling, (h-n) EDS mapping and analysis: (h,k) GF, (i,l) PI-GF-0.5, (j,m) PI-GF-1.0, and (n) EDS element analysis of separators.
+190: 
+191: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+192: 
+193: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+194: 
+195: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+196: 
+197: (n)  
+198: 
+199: <table><tr><td>Element</td><td>GF</td><td>PI-GF-0.5</td><td>PI-GF-1.0</td></tr><tr><td>C [wt. %]</td><td>-</td><td>12.46</td><td>8.89</td></tr><tr><td>N [wt. %]</td><td>4.46</td><td>9.44</td><td>8.92</td></tr><tr><td>O [wt. %]</td><td>53.27</td><td>47.15</td><td>49.21</td></tr><tr><td>Si [wt. %]</td><td>27.48</td><td>24.99</td><td>23.64</td></tr><tr><td>S [wt. %]</td><td>14.79</td><td>5.96</td><td>5.22</td></tr></table>
+200: 
+201: TGA results of the cycled PI-GF-0.5 show that the weight loss of about  $7\%$  and  $12\%$  was centered at around  $100^{\circ}\mathrm{C}$  and  $450^{\circ}\mathrm{C}$ , respectively. The latter is mainly attributed to the adsorbed polysulfide in PI-GF-0.5. Given that sublimation of elemental sulphur occurs mainly at  $< 300^{\circ}\mathrm{C}$ , high evaporation temperature suggests that polysulfides bind strongly to PI-GF-0.5 [51]. EDS mapping and quantification results reveal that sulphur species were indeed well-distributed in the separator samples after DME washing. The PI-GF-0.5 contained about  $10\%$  less sulphur content compared to GF, probably indicating that the thin polysulfide layers created between fibers prevented the dissolved polysulfide from penetrating deep into the PI-GF-0.5.

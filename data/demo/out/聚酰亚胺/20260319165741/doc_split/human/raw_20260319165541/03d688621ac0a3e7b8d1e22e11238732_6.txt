@@ -1,0 +1,19 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Mechanical Properties
+line_span: [68, 72]
+char_span: [11368, 11974]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0007: Mechanical Properties) ---
+68: # Mechanical Properties
+69: 
+70: The tensile strength (TS) and Young's modulus (YM) of the nanocomposites were measured on an Instron machine, Model 4411, at room temperature using ASTM-D882 test method. The test samples were cut into the strips of size  $100\mathrm{mm} \times 25\mathrm{mm} \times 0.1\mathrm{mm}$ . The gauge length was kept as  $50\mathrm{mm}$ , while the cross-head speed was maintained at  $2\mathrm{mm/min}$ . The mechanical properties were evaluated using the built-in software in the machine. A minimum of five tests were performed for each composite sample and their average is reported.

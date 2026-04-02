@@ -1,0 +1,63 @@
+source_file: Influence of Mixed Imide Composition and Thermal Annealing on Ionic Liquid Uptake and Conductivity of Polyimid.md
+doc_id: 259a3763fadb7eeed7f1a64453962fa4
+chunk_index: 5
+block_id: b0006
+section_number: 5
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 5. Materials and Methods
+line_span: [249, 297]
+char_span: [46814, 52422]
+line_count: 47
+effective_body_non_empty_lines: 15
+
+lines:
+--- chunk (b0006: 5. Materials and Methods) ---
+249: # 5. Materials and Methods
+250: 
+251: # 5.1. Materials
+252: 
+253: $4,4^{\prime}$ -oxydiphthalic anhydride (ODPA, an aromatic dianhydride),  $4,4^{\prime}$ -(hexafluoroisopropylidene) diphthalic anhydride (6FDA, an aromatic dianhydride),  $4,4^{\prime}$ -(1,3-phenylenedioxy) dianiline (PDODA, an aromatic diamine), and poly(ethylene glycol) bis(3-aminopropyl) terminated PEG1500 functionalized with amine groups on both ends (numbers indicating the molecular weights of the PEG diamines) were used to build the membrane copolymer matrix. 6FDA, ODPA, PDODA, and PEG1500 were purchased from Sigma-Aldrich (St. Louis, MO, USA). The ionic liquid ethylammonium nitrate (EAN,  $>97\%$ ), and propylammonium nitrate (PAN,  $>97\%$ ) were purchased from Iolitec (Heilbronn, Germany). Solvent reagent,  $N,N$ -dimethylacetamide (DMAc) was purchased from Sigma Aldrich. All the materials were used as received.
+254: 
+255: # 5.2. Synthesis
+256: 
+257: A two-step condensation polymerization synthesis methodology was conducted to form the polyimide-PEG random copolymers. Initially, PEG1500 and PDODA were placed in a three-necked flask. Then, approximately  $40~\mathrm{mL}$  of DMAc was poured in, and the mixture was stirred and gently heated to around  $45^{\circ}\mathrm{C}$  in a nitrogen environment until all solids were dissolved. After cooling to room temperature, either one of the aromatic dianhydrides or both together were placed in a three-neck flask in solid form for approximately an hour. The solution was stirred in a nitrogen environment for  $24\mathrm{h}$  to evaluate the poly(amic acids) (PAA) (see Figure 7). After evaluating the PAA solutions, the content was poured into a Teflon-lined Petri dish for thermal imidization. The heating
+258: 
+259: protocol for this step is given in Figure 7, and the summary of the synthesis process is summarized in Figure 8, which shows the key chemical structures of each main step.
+260: 
+261: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+262: Figure 7. Heating protocol used for the synthesis of the membranes.
+263: 
+264: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+265: Figure 8. Schematic representation of two-step condensation polymerization and chemical structures of the synthesized polyimides.
+266: 
+267: # 5.3. Characterization
+268: 
+269: # 5.3.1. FTIR
+270: 
+271: FTIR measurements were taken using a Nicolet iS50 FT/IR Spectrometer at room temperature in attenuated total reflection (ATR) mode. For FTIR analysis, a small amount of every synthesized PAA sample solution and their corresponding imidized SBC membranes
+272: 
+273: were cast on a glass slide. The FTIR results were used to confirm the success of the synthesis and imidization process.
+274: 
+275: # 5.3.2. TG
+276: 
+277: Using a TA Instrument Q500, membrane samples weighing between 8 and  $12\mathrm{mg}$  were loaded into alumina pans for testing. The samples were warmed from 25 to  $600^{\circ}\mathrm{C}$  at  $10^{\circ}\mathrm{C / min}$  and the results were then analyzed.
+278: 
+279: # 5.3.3. DSC
+280: 
+281: For DSC analysis, samples weighing between 8 and  $12\mathrm{mg}$  were loaded into aluminum pans. The samples were treated according to the thermal protocol previously reported by Coletta et al. [13]: equilibrate at  $20^{\circ}\mathrm{C}$ , ramp at  $5^{\circ}\mathrm{C / min}$  up to  $120^{\circ}\mathrm{C}$ , hold at  $120^{\circ}\mathrm{C}$  for  $2\mathrm{min}$ , ramp at  $5^{\circ}\mathrm{C / min}$  to  $20^{\circ}\mathrm{C}$ , hold at  $20^{\circ}\mathrm{C}$  for  $2\mathrm{min}$ , and then repeat the cycle two more times.
+282: 
+283: # 5.4. Ionic Liquid and Water Uptake
+284: 
+285: In these experiments, free-standing films were cut into approximately  $5 \pm 2\mathrm{cm} \times 2 \pm 0.4\mathrm{cm}$  size and weighed before placing into either water or EAN at room temperature for  $24\mathrm{h}$ . Subsequently, the films were removed and reweighed after drying the excess liquids on the surface of the membranes with kim wipes.
+286: 
+287: # 5.5. Conductivity
+288: 
+289: To see the effect of temperature on the conductivity and performance of the synthesized SBC membranes, a BT 552 Bekktech conductivity analyzer and a Gamry Instruments Reference 600 Potentiostat-Galvanostat-ZRA were used. A frequency range of 200,000 to  $0.1\mathrm{Hz}$  with an amplitude of  $10\mathrm{mV}$  was chosen to perform the AC impedance measurement, for 6 points per decade. Analysis was carried out with a nitrogen atmosphere at  $70\%$  RH at 60 and  $70^{\circ}\mathrm{C}$ . Three different films were prepared for each set of experiments, so the values represent the averaged conductivity. The individual film measurement values were based on an average of five measurements per single temperature on the same film.
+290: 
+291: To see the effect of changing the ionic liquid and thermal annealing process on the conductivity of membranes, measurements are taken using Autolab PGSTAT204 potentiostat/galvanostat. The AC impedance was measured under an ambient atmosphere at  $25^{\circ}\mathrm{C}$  over a frequency range of 200,000 to  $0.1\mathrm{Hz}$ , with an amplitude of  $10\mathrm{mV}$ , for 10 points per decade. Three different films were prepared for each set of experiments. Then, values were acquired for all prepared films, taking three measurements per single temperature on the same film, so the values represent the average conductivities for six different conditions tested.
+292: 
+293: # 5.6.Tensile
+294: 
+295: Mechanical strengths of the SBC membranes, thermally not annealed and thermally annealed, were tested using an Instron 5500 series system with a constant strain rate of  $5\mathrm{mm / s}$ . Rectangular-shaped membrane strips of around  $2\pm 0.5\mathrm{cm}$  by  $10\pm 5\mathrm{cm}$  were used in these tensile tests.

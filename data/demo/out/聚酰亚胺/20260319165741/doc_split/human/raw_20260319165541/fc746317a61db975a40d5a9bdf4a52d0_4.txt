@@ -1,0 +1,27 @@
+source_file: Influence of Heating Rate on the Structure and Mechanical Properties of Aromatic BPDA鈥揚DA Polyimide Fiber.md
+doc_id: fc746317a61db975a40d5a9bdf4a52d0
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [171, 183]
+char_span: [34385, 37540]
+line_count: 11
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+171: # 4. Conclusions
+172: 
+173: In this study, PAA fibers deriving from BPDA and PDA were successfully prepared via a conventional dry-jet wet-spinning process. The PAA fibers are treated from room temperature under different heating rates (1 to  $80^{\circ}\mathrm{C / min}$ ) to different end temperatures (300, 350 and  $400^{\circ}\mathrm{C}$ ) to obtain PI fibers. The imidization and crystallization processes during the treatment are characterized by TGA, DMA, XRD and density measurement. Under a low heating rate, the crystallization process lags behind the imidization process. As the heating rate increases, the imidization and crystallization processes tend to occur simultaneously. The polymer chains in fiber exhibit higher mobility at a higher heating rate. The crystallinity of PI fiber can be improved by increasing the heating rate or the end temperatures. The tensile modulus of PI fiber increases monotonically with the rise in the heating rate. As the heating rate increases from 1 to  $80^{\circ}\mathrm{C / min}$ , the tensile modulus increases from approximately 45 to  $60\mathrm{GPa}$  regardless of the end temperatures. According to this fact, it is very interesting to find that the tensile modulus is not determined by crystallinity. We assume that it is the size of crystal region in fiber, not the crystallinity, that determines the tensile modulus. The tensile strength of PI fibers shows a reduction when increasing the heating rate. As the heating rate increases from 1 to  $80^{\circ}\mathrm{C / min}$ , the tensile strength of the PI fibers obtained at 300, 350 and  $400^{\circ}\mathrm{C}$  decreases from 0.67, 0.94 and 1.12 GPa to 0.57, 0.70 and 0.96 GPa, respectively. Obviously, it is the residual stress in the fiber, which is notably enhanced under a high heating rate, that makes it more easy to break. An annealing process under a high temperature proves effective to reduce residual stress in a fiber. When a PI fiber treated under
+174: 
+175: $80^{\circ}\mathrm{C / min}$  from room temperature to  $400^{\circ}\mathrm{C}$  is annealed at  $400^{\circ}\mathrm{C}$ , the fracture strength exhibits a notable improvement from 0.96 to  $1.24\mathrm{GPa}$  in just  $25\mathrm{s}$ . This demonstrates that high temperature annealing is necessary and effective to improve the tensile strength in PI fiber fabrication.
+176: 
+177: Author Contributions: Conceptualization, X.J. and W.Y.; methodology, X.Q.; validation, H.C., X.D. and X.Q.; investigation, W.Y.; resources, F.L. and X.D.; data curation, W.L.; writing—original draft preparation, W.Y.; visualization, W.Y.; supervision, X.J.; project administration, X.J. and X.Q.; funding acquisition, X.J. All authors have read and agreed to the published version of the manuscript.
+178: 
+179: Funding: This research was funded by the National Basic Research Program of China (2014CB643603) and the National Natural Science Foundation of China (51173178).
+180: 
+181: Conflicts of Interest: The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript; or in the decision to publish the results.

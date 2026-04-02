@@ -1,0 +1,88 @@
+source_file: A Universal Study on the Effect Thermal Imidization Has on the Physico-Chemical, Mechanical, Thermal and Elect.md
+doc_id: 0f43da0f5e40ed55d6d84519f0353d25
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [241, 312]
+char_span: [51405, 63924]
+line_count: 72
+effective_body_non_empty_lines: 67
+
+lines:
+--- chunk (b0007: References) ---
+241: # References
+242: 
+243: 1. Diaham, S. (Ed.) Polyimide in Electronics: Applications and Processability Overview. In Polyimide for Electronic and Electrical Engineering Applications; IntechOpen: London, UK, 2021. [CrossRef]  
+244: 2. Endrey, A.L. Process for Preparing Polyamides by Treating Polyamides-Acids with Lower Fatty Monocarboxylic Acid Anhydrides. U.S. Patent No. 3179630, 20 April 1965.
+245: 
+246: 3. Endrey, A.L. Ammonium Salts of Aromatic Polyamides-Acids and Process for Preparing Polyimides Therefrom. U.S. Patent No. 3242136, 22 March 1966.  
+247: 4. Ishii, J.; Shimizu, N.; Ishihara, N.; Ikeda, Y.; Sensui, N.; Matano, T.; Hasegawa, M. Spontaneous molecular orientation of polyimides induced by thermal imidization (4): Casting- and melt-induced in-plane orientation. Eur. Polym. J. 2010, 46, 69–80. [CrossRef]  
+248: 5. Kotov, B.; Gordina, T.; Voishchev, V.; Kolninov, O.; Pravednikov, A. Aromatic polyimides as charge transfer complexes. Polym. Sci. USSR 1977, 19, 711-716. [CrossRef]  
+249: 6. Fowkes, F.M.; Mostafa, M.A. Acid-Base Interactions in Polymer Adsorption. Ind. Eng. Chem. Prod. Res. Dev. 1978, 17, 3-7. [CrossRef]  
+250: 7. Bell, V.L.; Stump, B.L.; Gager, H. Polyimide structure-property relationships. II. Polymers from isomeric diamines. J. Polym. Sci. Polym. Chem. Ed. 1976, 14, 2275-2291. [CrossRef]  
+251: 8. Takahashi, N.; Yoon, D.Y.; Parrish, W. Molecular order in condensed states of semiflexible poly(amic acid) and polyimide. Macromolecules 1984, 17, 2583-2588. [CrossRef]  
+252: 9. Lamb, R.N.; Baxter, J.; Grunze, M.; Kong, C.W.; Unertl, W.N. An XPS study of the composition of thin polyimide films formed by vapor deposition. Langmuir 1988, 4, 249-256. [CrossRef]  
+253: 10. Ito, Y.; Hikita, M.; Kimura, T.; Mizutani, T. Effect of Degree of Imidization in Polyimide Thin Films Prepared by Vapor Deposition Polymerization on the Electrical Conduction. Jpn. J. Appl. Phys. 1990, 29, 1128-1131. [CrossRef]  
+254: 11. Hsu, T.-C.J.; Liu, Z.-L. Solvent effect on the curing of polyimide resins. J. Appl. Polym. Sci. 1992, 46, 1821-1833. [CrossRef]  
+255: 12. Kan, L.; Kao, K.C. Ultraviolet absorption and photoconduction spectra of polyimide films fabricated at various curing temperatures. J. Chem. Phys. 1993, 98, 3445-3451. [CrossRef]  
+256: 13. Iida, K.; Imamura, Y.; Liao, C.; Nakamura, S.; Saw, A.G. Evaluation of Molecular Orientation in Aromatic Polyimide Films by FT-IR Reflection Absorption Spectroscopy. Polym. J. 1996, 28, 352–356. [CrossRef]  
+257: 14. Karamancheva, I.; Stefov, V.; Šoptrajanov, B.; Danev, G.; Spasova, E.; Assa, J. FTIR spectroscopy and FTIR microscopy of vacuum-evaporated polyimide thin films. Vib. Spectrosc. 1999, 19, 369-374. [CrossRef]  
+258: 15. Li, W.S.; Shen, Z.X.; Zheng, J.Z.; Tang, S.H. FT-IR Study of the Imidization Process of Photosensitive Polyimide PMDA/ODA. Appl. Spectrosc. 1998, 52, 985–989. [CrossRef]  
+259: 16. Jou, J.H.; Huang, P.T. Effect of thermal curing on the structures and properties of aromatic polyimide films. ACS Macro 1991, 24, 3796-3803. [CrossRef]  
+260: 17. Kook, H.J.; Kim, D. In situ measurements and analysis of imidization extent, thickness, and stress during the curing of polyimide films. J. Mater. Sci. 2000, 35, 2949-2954. [CrossRef]  
+261: 18. Tsai, F.-Y.; Alfonso, E.L.; Harding, D.R.; Chen, S.H. Processing vapour-deposited polyimide. J. Phys. D Appl. Phys. 2001, 34, 3011. [CrossRef]  
+262: 19. Lee, B.-J.; Kim, H.-G.; Lee, D.-C. Electrical properties of polyimide thin films formed by the vapor deposition polymerization method. Surf. Coat. Technol. 2002, 150, 182-187. [CrossRef]  
+263: 20. Spassova, E. Vacuum deposited polyimide thin films. Vacuum 2003, 70, 551-561. [CrossRef]  
+264: 21. Anthamatten, M.; Letts, S.A.; Day, K.; Cook, R.C.; Gies, A.P.; Hamilton, T.P.; Nonidez, W.K. Solid-state amidization and imidization reactions in vapor-deposited poly(amic acid). J. Polym. Sci. Part A Polym. Chem. 2004, 42, 5999-6010. [CrossRef]  
+265: 22. Shin, T.; Ree, M. Thermal Imidization and Structural Evolution of Thin Films of Poly(4,4'-oxydiphenylene p-pyromellitamic diethyl ester). J. Polym. Sci. 2007, 111, 13894-13900. [CrossRef]  
+266: 23. Chen, W.; Chen, W.; Zhang, B.; Yang, S.; Liu, C.-Y. Thermal imidization process of polyimide film: Interplay between solvent evaporation and imidization. Polymer 2017, 109, 205-215. [CrossRef]  
+267: 24. Chang, J.-H.; Park, K.M. Thermal cyclization of the poly(amic acid): Thermal, mechanical, and morphological properties. Eur. Polym. J. 2000, 36, 2185-2191. [CrossRef]  
+268: 25. Saeed, M.; Zhan, M.-S. Effects of monomer structure and imidization degree on mechanical properties and viscoelastic behavior of thermoplastic polyimide films. Eur. Polym. J. 2006, 42, 1844-1854. [CrossRef]  
+269: 26. Hasegawa, M.; Sensui, N.; Shindo, A.Y.; Yokota, R. Structure and Properties of Novel Asymmetric Biphenyl Type Polyimides. Homo- and Copolymers and Blends. Macromolecules 1999, 32, 387-396. [CrossRef]  
+270: 27. Chen, K.-M.; Wang, T.-H.; King, J.-S.; Hung, A. Effect of imidization temperature on properties of polymide films. J. Appl. Polym. Sci. 1993, 48, 291-297. [CrossRef]  
+271: 28. Pryde, C.A. FTIR studies of polyimides. II. Factors affecting quantitative measurement. J. Polym. Sci. Part A: Polym. Chem. 1993, 31, 1045-1052. [CrossRef]  
+272: 29. Bjellheim, P.; Helcee, B. Aromatic Polyimides: Synthesis, Characterization, and Evaluation of Electric strength. J. Appl. Polym. Sci. 1993, 48, 1587-1596. [CrossRef]  
+273: 30. Pramoda, K.; Liu, S.; Chung, T.-S. Thermal Imidization of the Precursor of a Liquid Crystalline Polyimide. Macromol. Mater. Eng. 2002, 287, 931-937. [CrossRef]  
+274: 31. Diaham, S.; Locatelli, M.; Lebey, T.; Malec, D. Thermal imidization optimization of polyimide thin films using Fourier transform infrared spectroscopy and electrical measurements. Thin Solid Films 2011, 519, 1851-1856. [CrossRef]  
+275: 32. Al-Amaj, I.A.; Kareem, A.A. Synthesis and characterization of polyimide thin films obtained by thermal evaporation and solid state reaction. Mater. Sci. 2016, 34, 132-136. [CrossRef]
+276: 
+277: 33. Krasovskii, A.; Antonov, N.; Koton, M.; Kalnin'Sh, K.; Kudryavtsev, V. Methods of investigation determining the degree of imidization of polyamidoacids. Polym. Sci. USSR 1979, 21, 1038-1043. [CrossRef]  
+278: 34. Hasegawa, M.; Horie, K. Photophysics, photochemistry, and optical properties of polyimides. Prog. Polym. Sci. 2001, 26, 259-335. [CrossRef]  
+279: 35. Bos, A.; Punt, I.G.M.; Wessling, M.; Strathmann, H. Plasticization-resistant glassy polyimide membranes for  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  separations. Sep. Purif. Technol. 1998, 14, 27-39. [CrossRef]  
+280: 36. Wilson, D.; Stenzenberger, H.D.; Hergenrother, P.M. Polyimides, Blackie, Glasgow. Polym. Int. 1991, 25, 199. [CrossRef]  
+281: 37. Lan, Z.; Li, C.; Yu, Y.; Wei, J. Colorless Semi-Alicyclic Copolyimides with High Thermal Stability and Solubility. Polymers 2019, 11, 1319. [CrossRef] [PubMed]  
+282: 38. Ando, S.; Matsuura, T.; Sasaki, S. Coloration of Aromatic Polyimides and Electronic Properties of Their Source Materials. Polym. J. 1997, 29, 69-76. [CrossRef]  
+283: 39. Hasegawa, M. Development of Solution-Processable, Optically Transparent Polyimides with Ultra-Low Linear Coefficients of Thermal Expansion. Polymers 2017, 9, 520. [CrossRef] [PubMed]  
+284: 40. Ozawa, H.; Ishiguro, E.; Kyoya, Y.; Kikuchi, Y.; Matsumoto, T. Colorless Polyimides Derived from an Alicyclic Tetracarboxylic Dianhydride, CpODA. Polymers 2021, 13, 2824. [CrossRef] [PubMed]  
+285: 41. Mathews, A.S.; Kim, I.; Ha, C.-S. Synthesis, characterization, and properties of fully aliphatic polyimides and their derivatives for microelectronics and optoelectronics applications. Macromol. Res. 2007, 15, 114-128. [CrossRef]  
+286: 42. Abe, A.; Nakano, T.; Yamashita, W.; Fukukawa, K.; Okazaki, M.; Tamai, S. Theoretical and Experimental Studies on the Mechanism of Coloration of Polyimides. ChemPhysChem 2011, 12, 1367-1377. [CrossRef]  
+287: 43. Yang, Y.; Jung, Y.; Cho, M.D.; Lee, S.G.; Kwon, S. Transient color changes in oxidative-stable fluorinated polyimide film for flexible display substrates. RSC Adv. 2015, 5, 57339-57345. [CrossRef]  
+288: 44. Lin, D.; Liu, Y.; Jia, Z.; Qi, S.; Wu, D. Structural Evolution of Macromolecular Chain During Pre-imidization Process and Its Effects on Polyimide Film Properties. J. Phys. Chem. B 2020, 124, 7969-7978. [CrossRef] [PubMed]  
+289: 45. Kawakami, H.; Mikawa, M.; Nagaoka, S. Gas transport properties in thermally cured aromatic polyimide membranes. J. Membr. Sci. 1996, 118, 223-230. [CrossRef]  
+290: 46. Tang, H.; Feng, H.; Luo, H.; Dong, L.; Feng, Z. The aggregation state of polyimide. Eur. Polym. J. 1997, 33, 519-523. [CrossRef]  
+291: 47. Mikawa, M.; Nagaoka, S.; Kawakami, H. Gas transport properties and molecular motions of 6FDA copolyimides. J. Membr. Sci. 1999, 163, 167-176. [CrossRef]  
+292: 48. Luo, L.; Yao, J.; Wang, X.; Li, K.; Huang, J.; Li, B.; Wang, H.; Feng, Y.; Liu, X. The evolution of macromolecular packing and sudden crystallization in rigid-rod polyimide via effect of multiple H-bonding on charge transfer (CT) interactions. Polymers 2014, 55, 4258-4269. [CrossRef]  
+293: 49. Sabrina, M.P.; Geoffrey, D.S. Light Absorption by Charge Transfer Complexes in Brown Carbon Aerosols. Environ. Sci. Technol. Lett. 2014, 1, 382-386.  
+294: 50. García, M.G.; Marchese, J.; Ochoa, N.A. Aliphatic-aromatic polyimide blends for  $\mathrm{H}_{2}$  separation. Int. J. Hydrogen Energy 2010, 35, 8983-8992. [CrossRef]  
+295: 51. Zhuang, Y.; Gu, Y. Probing structural evolution of the poly(amic acid) containing benzoxazole moieties in backbone during thermal imidization. J. Polym. Res. 2012, 19, 14. [CrossRef]  
+296: 52. Liaw, D.-J.; Wang, K.-L.; Chang, F.-C. Novel Organosoluble Poly(pyridine-imide) with Pendent Pyrene Group: Synthesis, Thermal, Optical, Electrochemical, Electrochromic, and Protonation Characterization. Macromolecules 2007, 40, 3568-3574. [CrossRef]  
+297: 53. Unsal, E.; Cakmak, M. Real-Time Characterization of Physical Changes in Polyimide Film Formation: From Casting to Imidization. Macromolecules 2013, 46, 8616-8627. [CrossRef]  
+298: 54. Hasegawa, M.; Arai, H.; Mita, I.; Yokota, R. Isothermal Imidization of an Aromatic Polyimide Precursor Studied by Fluorescence Spectroscopy. Polym. J. 1990, 22, 875-882. [CrossRef]  
+299: 55. Hasegawa, M.; Kochi, M.; Mita, I.; Yokota, R. Molecular aggregation and fluorescence spectra of aromatic polyimides. Eur. Polym. J. 1989, 25, 349-354. [CrossRef]  
+300: 56. Wachsman, E.D.; Frank, C.W. Effect of cure history on the morphology of polyimide: Fluorescence spectroscopy as a method for determining the degree of cure. Polymer 1988, 29, 1191-1197. [CrossRef]  
+301: 57. Cho, D.; Yang, G.; Drzal, L.T. Effect of thermal imidization and curing on fluorescence behavior of a phenylethynyl-terminated poly(amic acid). Macromol. Res. 2003, 11, 297–302. [CrossRef]  
+302: 58. Jadhav, N.-R.; Gaikwad, V.-L.; Nair, K.-J.; Kadam, H.-M. Glass transition temperature: Basics and application in pharmaceutical sector. Asian J. Pharm. 2009, 3. [CrossRef]  
+303: 59. Billmeyer, F.W. Textbook of Polymer Science, 3rd ed.; AWiley-Interscience Publication: Singapore, 1994; pp. 320-326, 337-340.  
+304: 60. Huang, C.; Li, J.; Sun, D.; Xuan, R.; Sui, Y.; Li, T.; Shang, L.; Zhang, G.; Sun, R.; Wong, C.P. Comprehensive properties study of low-temperature imidized polyimide with curing accelerators. J. Mater. Chem. C 2020, 8, 14886-14894. [CrossRef]  
+305: 61. Sava, I.; Stefan, C.; Bruma, M.; Lisa, G. Effect of thermal curing on the properties of thin films based on benzophenonetetra-carboxylic dianhydride and  $4,4^{\prime}$ -diamino-3,3'-dimethyldiphenylmethane. J. Therm. Anal. 2011, 104, 1135-1143. [CrossRef]  
+306: 62. Chiu, H.-T.; Cheng, J.-O. Thermal imidization behavior of aromatic polyimides by rigid-body pendulum rheometer. J. Appl. Polym. Sci. 2008, 108, 3973-3981. [CrossRef]
+307: 
+308: 63. Wallach, M.L. Structure-property relations of polyimide films. J. Polym. Sci. Part A 1968, 6, 953-960. [CrossRef]  
+309: 64. Khazaka, R.; Locatelli, M.L.; Diaham, S.; Bidan, P.; Dupuy, L.; Grosset, G. Broadband dielectric spectroscopy of BPDA/ODA polyimide films. J. Phys. D Appl. Phys. 2013, 46, 065501. [CrossRef]  
+310: 65. Zhang, D.; Dong, J.; Gan, F.; Li, Z.; Zhang, Q. Structural evolution from poly(amic acid) to polyimide fibers during thermal imidization process. High Perform. Polym. 2019, 31, 600-610. [CrossRef]  
+311: 66. Diaham, S.; Bechara, M.; Locatelli, M.-L.; Tenailleau, C. Electrical Conductivity of Parylene F at High Temperature. J. Electron. Mater. 2010, 40, 295-300. [CrossRef]  
+312: 67. Diaham, S.; Bechara, M.; Locatelli, M.-L.; Khazaka, R.; Tenailleau, C.; Kumar, R. Dielectric strength of parylene HT. J. Appl. Phys. 2014, 115, 054102. [CrossRef]

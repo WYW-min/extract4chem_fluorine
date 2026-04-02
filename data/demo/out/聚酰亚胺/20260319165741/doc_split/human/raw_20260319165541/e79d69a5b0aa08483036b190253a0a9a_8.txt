@@ -1,0 +1,33 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 8
+block_id: b0009
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: WATER UPTAKE AND ION EXCHANGE CAPACITY (IEC)
+line_span: [60, 78]
+char_span: [13649, 15512]
+line_count: 17
+effective_body_non_empty_lines: 10
+
+lines:
+--- chunk (b0009: WATER UPTAKE AND ION EXCHANGE CAPACITY (IEC)) ---
+60: # WATER UPTAKE AND ION EXCHANGE CAPACITY (IEC)
+61: 
+62: Water uptake of the pure SPI, SPI/RHA and SPI/sRHA composite membranes were taken by immersing the membranes into deionized water for  $24\mathrm{h}$ . Then, the membranes were dried in a conventional oven. The weight of each membrane was recorded for every 30 min interval and the dry weight of the membrane was determined when the difference between the previous and last reading was less than  $5\%$ . The water uptake of each membrane was calculated using (1):
+63: 
+64: $$
+65: Water Uptake (WU) = \frac {W _ {w e t} - W _ {d r y}}{W _ {d r y}} \times 100 \% \tag{1}
+66: $$
+67: 
+68: where  $W_{\text{wet}}$  was the wet membrane weight; and  $W_{\text{dry}}$  was the dried membrane weight.
+69: 
+70: Ion exchange capacity (mmol of sulfonic acid per g of sample) of the pure SPI, SPI/RHA and SPI/sRHA composite membranes was determined by using the method of back titration. The membranes were first immersed in  $1\mathrm{MNaCl}$  solution for  $48\mathrm{h}$ . This was to allow the exchange and convert of acid forms  $\mathrm{(H^{+}}$  ions in the membrane) to sodium forms  $\mathrm{(Na^{+}}$  ions in NaCl solution). The  $\mathrm{H^{+}}$  ions, which had been exchanged within the solution, were titrated using  $0.005\mathrm{MNaOH}$  solution. Acid-base indicator, phenolphthalein was added to the solution and titration was stopped when the clear solution changed into light pink colour. The volume of NaOH used to neutralize the solution was recorded for each membrane. The ion exchange capacities of the membranes were calculated using the following equation:
+71: 
+72: $$
+73: I E C = \frac {V _ {\text {N a O H}} \times C _ {\text {N a O H}}}{W _ {\text {d r y}}} \tag {2}
+74: $$
+75: 
+76: where  $W_{dry}$  was the dry sample weight in the  $\mathrm{H^{+}}$ form;  $V_{NaOH}$  was the titrated NaOH volume; and  $C_{NaOH}$  was the NaOH concentration used.

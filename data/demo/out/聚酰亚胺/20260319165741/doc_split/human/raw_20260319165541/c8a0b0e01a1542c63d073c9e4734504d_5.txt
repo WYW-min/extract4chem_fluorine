@@ -1,0 +1,57 @@
+source_file: Photo-Induced Vertical Alignment of Liquid Crystals via In Situ Polymerization Initiated by Polyimide Containi.md
+doc_id: c8a0b0e01a1542c63d073c9e4734504d
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [149, 189]
+char_span: [26505, 34212]
+line_count: 41
+effective_body_non_empty_lines: 36
+
+lines:
+--- chunk (b0006: References) ---
+149: # References
+150: 
+151: 1. Kim, S.G.; Kim, S.M.; Kim, Y.S.; Lee, H.K.; Lee, S.H.; Lee, G.D.; Lyu, J.J.; Kim, K.H. Stabilization of the liquid crystal director in the patterned vertical alignment mode through formation of pretilt angle by reactive mesogen. Appl. Phys. Lett. 2007, 90, 261910. [CrossRef]  
+152: 2. Yoshida, H. Vertically aligned nematic (VAN) LCD technology. Handb. Vis. Disp. Technol. 2014, 1-4, 1485-1505.  
+153: 3. Yao, J.; Brenizer, J.; Hui, R.; Yin, S. Photonic fiber and crystal devices: Advances in materials and innovations in device applications VI. In Proceeding of the SPIE, San Diego, CA, USA, 12-13 August 2012.  
+154: 4. Lee, S.W.; Kim, S.I.; Park, Y.H.; Ree, M.; Rim, Y.N.; Yoon, H.J.; Kim, H.C.; Kim, Y.B. Liquid-crystal alignment on the rubbed film surface of semi-flexible copolyimides containing n-alkyl side groups. Mol. Cryst. Liq. Cryst. 2000, 349, 279–282. [CrossRef]  
+155: 5. Seo, D.S.; Muroi, K.I.; Kobayashi, S. Generation of pretilt angles in nematic liquid-crystal, 5CB, media aligned on polyimide films prepared by spin-coating and LB techniques: Effect of rubbing. Mol. Cryst. Liq. Cryst. 1992, 213, 223-228. [CrossRef]  
+156: 6. Lee, Y.J.; Choi, J.G.; Song, I.K.; Oh, J.M.; Yi, M.H. Effect of side chain structure of polyimides on a pretilt angle of liquid crystal cells. Polymer 2006, 47, 1555-1562. [CrossRef]  
+157: 7. Liu, Z.J.; Yu, F.F.; Zhang, Q.; Zeng, Y.; Wang, Y.G. Preparation and characterization of a novel polyimide liquid crystal vertical alignment layer. Eur. Polym. J. 2008, 44, 2718-2727. [CrossRef]  
+158: 8. Wang, J.; Wang, L.; Zeng, Y.; Fang, Y.Q.; Zhang, Q.; Wang, Y.H. A study of the transition of liquid-crystal alignment from homeotropic to planar on a polyimide layer. *Liq. Cryst.* **2010**, 37, 271-278. [CrossRef]  
+159: 9. Liu, M.; Zheng, X.G.; Gong, S.M.; Liu, L.L.; Sun, Z.; Shao, L.S.; Wang, Y.H. Effect of the functional diamine structure on the properties of a polyimide liquid crystal alignment film. RSC Adv. 2015, 5, 25348-25356. [CrossRef]  
+160: 10. Lee, Y.J.; Kim, Y.K.; In, S.; Yoon, A.R.; Yu, C.J.; Kim, J.H. Liquid Crystal Alignment Control Using Reactive Mesogen Mixed with Alignment Layers; IDW: San Diego, CA, USA, 2009.  
+161: 11. Hsu, C.J.; Chen, B.L.; Huang, C.Y. Controlling liquid crystal pretilt angle with photocurable prepolymer and vertically aligned substrate. Opt. Express 2016, 24, 1463-1471. [CrossRef] [PubMed]  
+162: 12. Mizusaki, M.; Nakamura, K. Morphology analysis for effect of the polymer cluster produced from adamantyl-bearing trifunctional monomer on the stability of liquid crystal alignment. Chem. Lett. 2014, 43, 119-121. [CrossRef]  
+163: 13. Iimura, Y.; Akiyama, H.; Li, X.T.; Kobayashi, S. Photoalignment control of LC and its applications to LCD fabrication. In Proceedings of the SPIE, San Jose, CA, USA, 1 April 1998.  
+164: 14. Usami, K.; Sakamoto, K.; Yokota, J.; Uehara, Y.; Ushioda, S. Polyimide photo-alignment layers for inclined homeotropic alignment of liquid crystal molecules. Thin Solid Films 2008, 516, 2652-2655. [CrossRef]  
+165: 15. Zhao, D.Y.; Huang, W.; Cao, H.; Zheng, Y.D.; Wang, G.J.; Yang, Z.; Yang, H. Homeotropic alignment of nematic liquid crystals by a photocross-linkable organic monomer containing dual photofunctional groups. J. Phys. Chem. B 2009, 113, 2961-2965. [CrossRef] [PubMed]  
+166: 16. Kundu, S.; Lee, M.H.; Lee, S.H.; Kang, S.W. In situ homeotropic alignment of nematic liquid crystals based on photoisomerization of azo-dye, physical adsorption of aggregates, and consequent topographical modification. Adv. Mater. 2013, 25, 3365-3370. [CrossRef] [PubMed]  
+167: 17. Xue, C.M.; Xiang, J.; Nemati, H.; Bisoyi, H.K.; Gutierrez-Cuevas, K.; Wang, L.; Gao, M.; Zhou, S.; Yang, D.K.; Lavrentovich, O.D.; et al. Light-driven reversible alignment switching of liquid crystals enabled by azo thiol grafted gold nanoparticles. *Chemphyschem* 2015, 16, 1852-1856. [CrossRef] [PubMed]  
+168: 18. Lee, J.H.; Oh, K.; Kim, H.S.; Wu, S.T. Novel surface-stabilized vertical alignment mode for fast-response liquid crystal display. J. Disp. Technol. 2012, 8, 296-298. [CrossRef]  
+169: 19. Lu, L.; Sergan, V.; Bos, P.J. Mechanism of electric-field-induced segregation of additives in a liquid-crystal host. Phys. Rev. E 2012, 86, 051706. [CrossRef] [PubMed]  
+170: 20. Goetz, A.; Taugerbeck, A.; Bernatz, G.; Tarumi, K. 48.1: Advanced liquid-crystal materials for the polymer-sustained vertically aligned (PS-VA) mode. SID Symp. Dig. Tech. Pap. 2010, 41, 718-720. [CrossRef]  
+171: 21. Lyu, J.J.; Kikuchi, H.; Kim, D.H.; Lee, J.H.; Kim, K.H.; Higuchi, H.; Lee, S.H. Phase separation of monomer in liquid crystal mixtures and surface morphology in polymer-stabilized vertical alignment liquid crystal displays. J. Phys. D 2011, 44, 325104. [CrossRef]
+172: 
+173: 22. Liu, B.Y.; Chen, L.J. Role of surface hydrophobicity in pretilt angle control of polymer-stabilized liquid crystal alignment systems. J. Phys. Chem. C 2013, 117, 13474-13478. [CrossRef]  
+174: 23. Mizusaki, M.; Nakanishi, Y. Improvement of image sticking on liquid crystal displays with polymer layers produced from mixed monomers. Liq. Cryst. 2016, 43, 704-710. [CrossRef]  
+175: 24. Nakanishi, Y.; Okamoto, K. Relationship between concentration of initiator and image-sticking phenomenon of polymer-sustained-alignment liquid crystal displays. Jpn. J. Appl. Phys. 2012, 51, 041701. [CrossRef]  
+176: 25. Mizusaki, M.; Nakanishi, Y.; Enomoto, S.; Hara, Y. Evaluation of image sticking property on liquid crystal displays with polymer layers produced from phenanthrene-carrying monomers. *Liq. Cryst.* 2016, 43, 1208-1214. [CrossRef]  
+177: 26. Kang, H.; Lee, J.H.; Kim, D.G.; Kang, D. Control of pretilt angle in liquid crystal and photocurable monomer system. Mol. Cryst. Liq. Cryst. 2015, 607, 94-103. [CrossRef]  
+178: 27. Wang, H.Y.; Wei, J.; Jiang, X.S.; Yin, J. Highly efficient sulfur-containing polymeric photoinitiators bearing side-chain benzophenone and coinitiator amine for photopolymerization. J. Photochem. Photobiol. A 2007, 186, 106-114. [CrossRef]  
+179: 28. Ma, H.M.; Davis, R.H.; Bowman, C.N. A novel sequential photoinduced living graft polymerization. Macromolecules 2000, 33, 331-335. [CrossRef]  
+180: 29. Stachowiak, T.B.; Svec, F.; Frechet, J.M.J. Patternable protein resistant surfaces for multifunctional microfluidic devices via surface hydrophilization of porous polymer monoliths using photografting. Chem. Mater. 2006, 18, 5950-5957. [CrossRef]  
+181: 30. Tao, Y.U.; Peng, Z.H.; Rina, W.U.; Ping, R.S.; Zhang, L.; Xuan, L. Photo-alignment of nematic liquid crystal on photo-sensitive polyimide (btda-tmmda). Chin. J. Liq. Cryst. Disp. 2003, 18, 93-96.  
+182: 31. Pryde, C.A. IR studies of polyimides. I. Effects of chemical and physical changes during cure. J. Polym. Sci. Polym. Chem. 1989, 27, 711-724. [CrossRef]  
+183: 32. Yuan, H.J.; Zhang, S.C.; Lu, C.X.; He, S.Q.; An, F. Improved interfacial adhesion in carbon fiber/polyether sulfone composites through an organic solvent-free polyamic acid sizing. Appl. Surf. Sci. 2013, 279, 279-284. [CrossRef]  
+184: 33. Murakami, K.; Ando, S. Effects of UV crosslinking under high temperature on the refractive indices and aggregation structures of benzophenone-containing polyimides. J. Photopolym. Sci. Technol. 2011, 24, 277-282. [CrossRef]  
+185: 34. Kang, H.; Lee, J.M.; Kim, J.H.; Lee, J.H.; Park, J.S.; Seo, J.G.; Kang, D. Homeotropic alignment properties of liquid crystal and photocurable monomer system via UV irradiation. Mol. Cryst. Liq. Cryst. 2015, 606, 101-110. [CrossRef]
+186: 
+187: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+188: 
+189: © 2017 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

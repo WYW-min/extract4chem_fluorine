@@ -1,0 +1,106 @@
+source_file: Enhancing the Toughness of Free-Standing Polyimide Films for Advanced Electronics Applications A Study on the .md
+doc_id: c884e49a30bd98baa9c0ec7a77277509
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [92, 183]
+char_span: [11656, 31036]
+line_count: 90
+effective_body_non_empty_lines: 41
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+92: # 3. Results and Discussion
+93: 
+94: # 3.1. Controllable Fabrication of PI Films
+95: 
+96: # 3.1.1. Chemical Structure and Stability of PAA
+97: 
+98: The molecular structures of PAA were confirmed by FT-IR. As shown in Figure 2a, a weak and broad peak at  $3500~\mathrm{cm}^{-1}$  was assigned to the hydrogen-bonded O-H. The peak at  $3300~\mathrm{cm}^{-1}$  was due to the N-H stretching vibration. Three characteristic absorption bands of PI at  $1665~\mathrm{cm}^{-1}$ ,  $1548~\mathrm{cm}^{-1}$ , and  $1255~\mathrm{cm}^{-1}$  were found, which were attributed to the C=O asymmetrical stretching of imide groups, N-H vibration, and C-N stretching of the imide ring respectively. The results indicated that pure PAA was synthesized.
+99: 
+100: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+101: Figure 2. Changes of PAA solution with increasing storage time. (a) FT-IR spectra, (b) viscosity, (c) images of virgin and degraded PAA solution.
+102: 
+103: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+104: 
+105: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+106: 
+107: PAA serves as a crucial precursor in the production of PI films, and the quality of the PAA solution has a direct impact on the final performance of the PI films [27]. Unfortunately, PAA solutions are prone to instability upon storage and may undergo undesirable changes in viscosity [28]. The degradation of PAA can be attributed to two factors: firstly, the hydrolytic degradation of PAA due to the presence of trace water in the solvent, and secondly, the reversible formation of polymeric acid that causes chain length equilibrium in PAA [29,30]. For investigation of the stability of prepared PAA solutions, viscosity, and structure tests were carried out with a PAA solution stored with increasing time. It can be seen from the FT-IR spectra (Figure 2a) that the characteristic absorption band of the amide group gradually weakened, while the  $\mathrm{C = O}$  absorption peak at  $1714~\mathrm{cm}^{-1}$  enhances during 30 days of storage. However, when the storage time exceeded 50 days, the characteristic peaks of the amide group changed significantly. It can be concluded that the PAA solution was still available within 30 days of storage, but may deteriorate after 50 days. Figure 2b shows the changes in the viscosity of the PAA solution with increasing storage time. The viscosity of the PAA solution gradually decreased with storage, which also predicted that the polyimide solution was gradually deteriorating. Based on the experimental results, it is important to store newly prepared PAA solutions at a low temperature  $(0 - 10^{\circ}\mathrm{C})$  and in a sealed container, as the effective storage period of PAA solutions is about 30 days. As shown in Figure 2c, the virgin PAA solution is presented as a clear yellowish liquid. With increased storage time, the water vapor in the air will inevitably penetrate the storage
+108: 
+109: container, resulting in the hydrolysis and fracture of the amide bond of the PAA and the reduction of the degree of polymerization. Macroscopically, a darker discoloration, and thinning behavior was observed.
+110: 
+111: # 3.1.2. Thickness and Uniformity Regulation of PI Films
+112: 
+113: The thickness of the synthesized PI film was tested by DHG-050 digital height gauge. Nine random sites on the film were selected for thickness testing, and the average value was taken as the thickness of the film. Film uniformity was evaluated as the variance of thickness values measured at nine randomly selected sites. As shown in Figure 3a, when PAA with a viscosity of  $62,300~\mathrm{cPs}$  was used for spin coating, the thickness of PI films gradually decreased with the increase in rotating speed. Uniform PI films with thicknesses ranging from 2.82 to  $34.32\mu \mathrm{m}$  can be obtained by adjusting the rotating speed during spin coating. The film thickness changed obviously in the speed range of  $500 - 3000\mathrm{rpm}$ . The prepared PI film exhibited excellent thickness uniformity, with an optimal uniformity of  $0.77\%$ . In comparison, commercially available films were also characterized for thickness and uniformity, as shown in Figure 3b. Compared to the commercially available films, the films prepared by this method with similar thickness showed significantly better uniformity. In addition, several fabrications were conducted with the same process parameters at  $500 - 5000\mathrm{rpm}$  to verify the repeatability of the film-forming process. The representative results are shown in Figure 3c. Compared to the results of the control group, the repeated experiments showed only slight variations, indicating that the process has excellent controllability.
+114: 
+115: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+116: 
+117: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+118: 
+119: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+120: Figure 3. Results of thickness and uniformity of PI films. (a) PI films prepared by spin coating under different rotation speeds, (b) commercial films and similar thickness films prepared, (c) two different batches under the same process parameters, (d) AFM images of PI films.
+121: 
+122: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+123: 
+124: The surface morphology of the film obtained by AFM was shown in Figure 3d. When glass was used as the film substrate, the surface of the PI films was smooth, and the Ra (roughness average) of the surface was only  $0.34\mathrm{nm}$ . The thickness uniformity and surface homogeneity of free-standing films were crucial for toughness.
+125: 
+126: # 3.1.3. Residual Stress Elimination of PI Films
+127: 
+128: As a common phenomenon in the film fabricating process, residual stress will lead to the curling and cracking of films, and even result in the falling off of the films from the substrate, thus affecting the microstructure, mechanical, optical, and other physical properties of the film [31]. When PI films were used as flexible substrates, on the one hand, the curl caused by the residual stress will complicate the device preparation process; On the other hand, stress concentration caused by residual stress will lead to poor mechanical properties of devices. Annealing was an effective way to reduce the residual stress of thin films introduced in the preparation process. The PI molecular segment will relax when the imidization temperature reaches the glass transition temperature  $(T_{\mathrm{g}})$  [32]. Irregular crystal domains melted during the annealing process, then larger crystal structures formed [33,34]. The process increased the crystallinity of polymers and reduced the free volume between polymer chains.
+129: 
+130: Figure 4a shows the dynamic mechanical analysis (DMA) curves of PI film. It can be observed that the storage modulus of the PI film drops sharply in the glass transition area until a stable platform (red curve). At the same time, the mechanical loss of the film reaches a maximum (blue curve) in the glass transition region. It can be determined that the  $T_{\mathrm{g}}$  of the prepared film is about  $400^{\circ}\mathrm{C}$ . As shown in Figure 4b, the newly prepared PI film was cut into four splines and treated by different designed annealing processes. The crimped film was compaction with the load and placed in a muffle furnace, heated to  $360^{\circ}\mathrm{C}$ ,  $410^{\circ}\mathrm{C}$  and  $450^{\circ}\mathrm{C}$  with the heating rate of  $3^{\circ}\mathrm{C}\mathrm{min}^{-1}$ , kept for  $20\mathrm{min}$ , and then naturally cooled. Figure 4d shows the image of the PI spline before treatment, which was severely crimped. As shown in Figure 4f, the crimp magnitude of PI film was slightly improved when the annealing temperature  $(\mathrm{T}_{1} = 360^{\circ}\mathrm{C})$  is lower than  $T_{\mathrm{g}}$ . When the annealing temperature  $(\mathrm{T}_{3} = 450^{\circ}\mathrm{C})$  is excessively high, although the film became flat, it deteriorated (Figure 4h). Only when the annealing temperature  $(\mathrm{T}_{2} = 410^{\circ}\mathrm{C})$  is about equal to  $T_{\mathrm{g}}$ , the film no longer curled (Figure 4g), which means that the residual stress was eliminated. In contrast, the film was still severely crimped if compaction with the load without annealing (Figure 4e). In conclusion, annealing the prepared crimped PI film with  $T_{\mathrm{g}}$  as the annealing temperature is an effective way to reduce its residual stress and increase its flatness. The reduction of residual stress can increase the crystallinity of the PI film, thereby ensuring its high strength. As shown in c, significant XRD differences appeared in PI film through annealing. The annealed PI film presented sharper diffraction peaks compared with virgin PI film, suggesting its higher crystallinity.
+131: 
+132: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+133: Figure 4. (a) DMA curves of PI film, (b) annealing procedure, (c) XRD patterns of PI film before and after annealing, (d) PI film before annealing, (e) PI film compacted with the load only, (f) PI film annealing at  $360^{\circ}\mathrm{C}$ , (g) PI film annealing at  $410^{\circ}\mathrm{C}$ , and (h) PI film annealing at  $450^{\circ}\mathrm{C}$ .
+134: 
+135: # 3.2. Performance Regulation of PI Films
+136: 
+137: # 3.2.1. Mechanical Properties
+138: 
+139: The mechanical properties of the prepared PI films were characterized by a tensile testing machine. Figure 5a-c shows the tensile stress-strain curves of PI films under the influence of different factors. It can be observed that the prepared PI films exhibit excellent toughness. The excellent toughness of the prepared PI films can be partially attributed to the presence of a relatively large number of ether bonds in the molecular chain, which increases the number of allowed conformations and the flexibility of individual chains. As shown in Figure 5a, the tensile strength and elongation at break of the PI film increase with increasing film thickness. When the film thickness was  $26.8\mu \mathrm{m}$ , the tensile strength and elongation at break reached  $194.71\mathrm{MPa}$  and  $130.13\%$ , respectively. Additionally, the free-standing PI film that we prepared, with a thickness of only  $2.8\mu \mathrm{m}$ , also exhibited excellent mechanical properties, with a tensile strength of  $120.96\mathrm{MPa}$  and an elongation at break of  $28.66\%$ . The viscosity of the PAA precursor affected the thickness of the PI film, and therefore we hypothesize that it also has some influence on the mechanical properties of the film. As shown in Figure 5b, the mechanical properties of films prepared by spin-coating solutions with high viscosity  $(62,300~\mathrm{cP})$  and low viscosity  $(26,000~\mathrm{cP})$  were compared. It can be concluded that the difference in solution viscosity within a certain range has a negligible influence on the tensile strength and elongation at break of the film, indicating the potential to achieve thinner and lighter PI films with excellent mechanical properties. The mechanical properties of the films were greatly influenced by the substrate used for film formation. As depicted in Figure 5c, the films deposited on  $\mathrm{Si} / \mathrm{SiO}_2$  substrates exhibited superior toughness compared to those on glass substrates, possibly due to the lower surface roughness of  $\mathrm{Si} / \mathrm{SiO}_2$ . Figure 5d shows the mechanical properties of PI films prepared in different studies [14,16,35-44]. Table 1 shows the structure, thickness, and corresponding mechanical properties of the PI films. It can be seen that the elongation at break of the PI film we prepared  $(26.8\mu \mathrm{m})$  is much higher than other films, and the tensile strength is also comparable. Meanwhile, the free-standing PI film we prepared with a thickness of only  $2.8\mu \mathrm{m}$  exhibited equally impressive in both strength and toughness. In addition, a comparison was made with other PI films of the same molecular structure in other studies [24,45,46], and the mechanical properties of the PI film we prepared exhibited significant superiority. Meanwhile, PI films with only the same diamine structure were also investigated [47-49], and the results also showed that the mechanical properties of the PI films we prepared were much better than others.
+140: 
+141: To investigate the effects of solvent volatilization rate, imidization temperature, and imidization holding time on the mechanical properties of PI films during the heating process, we studied the tensile stress-strain curves of PI films treated by different temperature-programmed processes. As shown in Figure 6a, different heating methods were designed to construct different solvent evaporation processes to explore the influence of solvent evaporation rate on the mechanical property of PI film. The result shows that the aggregation structure of the PI film depends on the heating rate. Different heating rates will affect the solvent residue in the wet film and the degree of imidization of PAA. An extremely fast heating rate led to a fast solvent volatilization rate, which may cause bubbles and voids on the surface of the film, reducing its tensile strength (Figure 6d). In addition to the influence of solvent volatilization rate, the thermal imidization process was also essential to the mechanical properties of the films. The curing of PAA to produce the corresponding PI involves several thermal processes. As the temperature increases, both the solvent residue ratio and the degree of imidization are affected by the curing procedures. Therefore, different thermal imidization processes were designed to explore the influence of imidization temperature and holding time on the obtained PI films. Figure 6e shows the curing procedures (curing procedures 1, 3, and 4) for different imidization times at a certain temperature. It can be observed that the longer the thermal imidization time of the PI films, the higher the degree of imidization, and the easier it is for the molecular chains to form a compact and orderly stacking, leading to the formation of PI films with higher tensile
+142: 
+143: strength and elongation at break (Figure 6b). Figure 6f shows two curing procedures with different imidization temperatures. It can be seen that when the imidization temperature was increased from  $250^{\circ}\mathrm{C}$  to  $300^{\circ}\mathrm{C}$ , the retained solvent was reduced, and simultaneously, the molecular chain activity was strong at high temperatures, leading to a high degree of imidization and the formation of PI films with stronger intermolecular interaction and higher tensile strength and elongation at break (Figure 6c).
+144: 
+145: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+146: 
+147: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+148: 
+149: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+150: Figure 5. Stress-strain curves of PI films with different factors. (a) thickness, (b) viscosity, (c) substrate, (d) Comparison of the fracture elongation, tensile strength, and thickness of the prepared PI films with those reported in other studies [14,16,35-44].
+151: 
+152: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+153: 
+154: Table 1. Composition and properties of PI films.  
+155: 
+156: <table><tr><td>Dianhydride</td><td>Diamine</td><td>Filler</td><td>Thickness (μm)</td><td>Tensile Strength (MPa)</td><td>Elongation (%)</td><td>References</td></tr><tr><td>PMDA</td><td>ODA1</td><td>OMMT13</td><td>30</td><td>192</td><td>28</td><td>[35]</td></tr><tr><td>IMDA2</td><td>ODA</td><td>/</td><td>45</td><td>153</td><td>14</td><td>[36]</td></tr><tr><td>BPDA3</td><td>BOA4</td><td>/</td><td>10</td><td>323.4</td><td>45.3</td><td>[37]</td></tr><tr><td>BTDA5</td><td>ODA/DAPBI6</td><td>/</td><td>30</td><td>157.8</td><td>21.5</td><td>[38]</td></tr><tr><td>BPDA</td><td>PABZ7</td><td>/</td><td>25</td><td>210</td><td>17.9</td><td>[39]</td></tr><tr><td>ODPA8</td><td>ODA</td><td>BP14</td><td>25</td><td>119.6</td><td>11.5</td><td>[16]</td></tr><tr><td>Not provide</td><td>Not provide</td><td>Gh-BN15</td><td>40</td><td>114</td><td>12</td><td>[40]</td></tr><tr><td>PMDA</td><td>ODA</td><td>GNR16</td><td>35</td><td>165</td><td>12</td><td>[41]</td></tr><tr><td>BPDA</td><td>BIA9/BPA10</td><td>DPhP17</td><td>16</td><td>350</td><td>50</td><td>[42]</td></tr><tr><td>BTDA</td><td>ODA</td><td>TapCzN18</td><td>50</td><td>117</td><td>8.5</td><td>[43]</td></tr><tr><td>BPDA</td><td>PABZ</td><td>Cu2+</td><td>23</td><td>275</td><td>11</td><td>[44]</td></tr><tr><td>6FDA11/BPDA</td><td>TFDB12</td><td>/</td><td>50</td><td>326.7</td><td>43.2</td><td>[14]</td></tr><tr><td>PMDA</td><td>TPE-Q</td><td>/</td><td>26.8</td><td>194.71</td><td>130.13</td><td>This work</td></tr><tr><td>PMDA</td><td>TPE-Q</td><td>/</td><td>2.8</td><td>120.96</td><td>26.88</td><td>This work</td></tr></table>
+157: 
+158: $^{1}4,4^{\prime}$ -Diaminodiphenyl ether.  ${ }^{2}2,5$ -Bis(3,4-dicarboxyphenoxy)-1,4:3,6-dianhydromannitol dianhydride.  ${ }^{3}3,3^{\prime},4,4^{\prime}$ -Biphenyltetracarboxylic dianhydride.  ${ }^{4}$  p-Phenylenediamine.  ${ }^{5}3,3^{\prime},4,4^{\prime}$ -Benzophenonetetracarboxylic dianhydride.  ${ }^{6}5,4^{\prime}$ -Diamino-2-phenyl benzimidazole.  ${ }^{7}5(6)$ -Amino-2-(4-aminobenzene)benzimidazole.  ${ }^{8}4,4^{\prime}$ -Oxydiphthalic anhydride.  ${ }^{9}2-(4$ -Aminophenyl)-5-aminobenzimidazole.  ${ }^{10}4,4^{\prime}$ -diaminobiphenyl.  ${ }^{11}4,4^{\prime}$ -Hexafluoroisopropylidene) diphthalic anhydride.  ${ }^{12}2,2^{\prime}$ -Bis(trifluoro-methyl)benzidine.  ${ }^{13}$  Organically modified-montmorillonite.  ${ }^{14}$  Black phosphorus nanoflakes.  ${ }^{15}$  Modified hexagonal boron nitride.  ${ }^{16}$  Graphene nanoribbon.  ${ }^{17}$  Diphenyl phosphate.  ${ }^{18}$  Tetraamino phthalocyanine zinc.
+159: 
+160: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+161: 
+162: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+163: 
+164: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+165: 
+166: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+167: Figure 6. The effects of curing procedure on the mechanical properties of PI films. (a) Curing procedures with different solvent volatilization rates, (b) different imidization holding times, and (c) different imidization temperatures. (d) The strain-stress curves of PI films treated with different solvent volatilization rates, (e) different imidization holding times, and (f) different imidization temperatures.
+168: 
+169: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+170: 
+171: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+172: 
+173: # 3.2.2. Optical Transparency
+174: 
+175: High optical transmittance is a crucial requirement for substrates and display devices [50]. The optical properties of the prepared PI films were analyzed by UV-vis spectrometry over a range of  $300 - 800\mathrm{nm}$  (Figure 7a). The transparency of the films increased as the film thickness decreased. In addition, the films with different thicknesses have high transmittance in the visible light region, indicating the high transparency of the films. Figure 7b showed the images of PI films with different thicknesses, confirming the transparency changes with film thickness.
+176: 
+177: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+178: 0
+179: 
+180: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+181: Figure 7. (a) The UV-vis spectra and (b) images of PI films with different thicknesses.

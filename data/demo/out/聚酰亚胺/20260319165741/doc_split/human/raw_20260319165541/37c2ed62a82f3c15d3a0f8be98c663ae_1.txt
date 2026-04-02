@@ -1,0 +1,26 @@
+source_file: Formation of Nano-Fibrous Patterns on Aluminum Substrates via Photolithographic Fabrication of Electrospun Pho.md
+doc_id: 37c2ed62a82f3c15d3a0f8be98c663ae
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Formation of Nano-Fibrous Patterns on Aluminum Substrates via Photolithographic Fabrication of Electrospun Photosensitive Polyimide Fibrous Membranes
+line_span: [10, 21]
+char_span: [190, 1068]
+line_count: 10
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0002: Formation of Nano-Fibrous Patterns on Aluminum Substrates via Photolithographic Fabrication of Electrospun Photosensitive Polyimide Fibrous Membranes) ---
+10: # Formation of Nano-Fibrous Patterns on Aluminum Substrates via Photolithographic Fabrication of Electrospun Photosensitive Polyimide Fibrous Membranes
+11: 
+12: Yan-shuang Gao  $^{1,\dagger}$ , Xi Ren  $^{1,\dagger}$ , Xuan-zhe Du  $^{1}$ , Zhen-zhong Wang  $^{2}$ , Zhi-bin He  $^{2}$ , Shun-qi Yuan  $^{2}$ , Zhen Pan  $^{1}$ , Yan Zhang  $^{1}$ , Xin-xin Zhi  $^{1}$  and Jin-gang Liu  $^{1,*}$
+13: 
+14: $^{1}$  Beijing Key Laboratory of Materials Utilization of Nonmetallic Minerals and Solid Wastes, National Laboratory of Mineral Materials, School of Materials Science and Technology, China University of Geosciences, Beijing 100083, China  
+15: 2 RAYITEK Hi-Tech Film Company, Co., Ltd., Shenzhen 518105, China  
+16: * Correspondence: liujg@cugb.edu.cn; Tel.: +86-10-82322972  
+17: These authors contributed equally to this work.
+18: 
+19: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)

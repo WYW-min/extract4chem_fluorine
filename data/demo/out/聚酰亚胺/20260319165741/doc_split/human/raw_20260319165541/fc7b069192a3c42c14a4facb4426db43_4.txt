@@ -1,0 +1,31 @@
+source_file: Electrospun Semi-Alicyclic Polyimide Nanofibrous Membrane High-Reflectance and High-Whiteness with Superior Th.md
+doc_id: fc7b069192a3c42c14a4facb4426db43
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [219, 235]
+char_span: [40714, 42445]
+line_count: 15
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+219: # 4. Conclusions
+220: 
+221: Semi-alicyclic and fluoro-containing PI NFM was designed and prepared in order to meet the requirements of high-power UV-LEDs. The synergistic effects of the alicyclic and fluoro-containing groups endowed the derived PI-3 (HTDA-BDAF) NFM with high whiteness  $(WI = 91.22$  at room temperature;  $WI = 90.88$  after thermal treatment at  $200^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  in air), high UV reflectance  $(R_{457} = 90.2\%)$  at room temperature;  $R_{457} = 89.0\%$  after thermal treatment at  $200^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  in air), good thermal stability  $(T_{\mathrm{g}} = 239.6^{\circ}\mathrm{C})$ , and good UV exposure stability. Comparatively, the standard high-whiteness PS NFM analogs lost the fiber structure only after thermal treatment at  $150^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ . The good comprehensive properties of the currently developed PI NFMs are quite beneficial for their applications as reflectors or other optical components for high-power UV-LED devices.
+222: 
+223: Author Contributions: Conceptualization, J.L.; methodology, H.W. and J.L.; investigation, X.Z., X.W. and Y.A.; data curation, Y.Z., H.Q. and Y.A.; writing—original draft preparation, X.Z.; writing—review and editing, J.L.; supervision, J.L. and H.W.; funding acquisition, J.L. All authors have read and agreed to the published version of the manuscript.
+224: 
+225: Funding: This work was supported by the Shandong Key Research and Development Program (No. 2019JZZY020235).
+226: 
+227: Institutional Review Board Statement: Not applicable.
+228: 
+229: Informed Consent Statement: Not applicable.
+230: 
+231: Data Availability Statement: Data are contained within the article.
+232: 
+233: Conflicts of Interest: The authors declare no conflict of interest.

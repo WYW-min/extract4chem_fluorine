@@ -1,0 +1,35 @@
+source_file: A Universal Study on the Effect Thermal Imidization Has on the Physico-Chemical, Mechanical, Thermal and Elect.md
+doc_id: 0f43da0f5e40ed55d6d84519f0353d25
+chunk_index: 5
+block_id: b0006
+section_number: 5
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 5. Conclusions
+line_span: [221, 241]
+char_span: [47221, 51405]
+line_count: 19
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0006: 5. Conclusions) ---
+221: # 5. Conclusions
+222: 
+223: This paper reports the widest ranging investigation published to date on the effect that thermal imidization has on the properties of polyimide (specifically PMDA-ODA). A complete cross-analysis of the main physical and chemical properties was performed as a function of the curing temperature via in-depth physico-chemical, thermal, mechanical and electrical characterisation. The analysis revealed that the degree of imidization increased from  $200^{\circ}\mathrm{C}$  up to  $320^{\circ}\mathrm{C}$ , reaching a plateau beyond that. UV-Vis and photoluminescence spectroscopy revealed that the extent of charge transfer complex formation increased over the entire curing temperature range (i.e.,  $200^{\circ}\mathrm{C}$  up to  $380^{\circ}\mathrm{C}$ ). Electrical characterization revealed that the dielectric properties are enhanced with increasing cure temperature, while the field-dependent electrical properties are optimal in the intermediate temperature range. This is due to a compromise in performance related to maximizing the degree of imidization (i.e., mitigation of ionizable impurities) and the optimization of the degree of charge-transfer complex formation (i.e., mitigation of the chain packing). This balance enables the maximum performance of the PI film to be obtained with respect to the optimal electrical, thermal and mechanical properties by controlling the cure temperature.
+224: 
+225: Supplementary Materials: The following supporting information can be downloaded at: https://www.mdpi.com/article/10.3390/polym14091713/s1, Figure S1: TGA curves of PI film cured at  $200^{\circ}\mathrm{C}$ ; Figure S2: Effect of curing temperature on the FTIR spectra; Figure S3: DOI on each side of the PI films; Figure S4: FTIR spectra of uncured Polyimide; Figure S5: High resolution XPS scans of N; Figure S6: Histogram of intensity; Figure S7: Charge transfer complex sketch describing the packing of the PI chains; Figure S8: DSC curves of PI cured at (a)  $200^{\circ}\mathrm{Cm}$  (b)  $220^{\circ}\mathrm{C}$ , (C)  $240^{\circ}\mathrm{C}$ , (d)  $260^{\circ}\mathrm{C}$ , (e)  $280^{\circ}\mathrm{C}$ , (f)  $300^{\circ}\mathrm{C}$ , (g)  $320^{\circ}\mathrm{C}$ , (h)  $340^{\circ}\mathrm{C}$ , (i)  $360^{\circ}\mathrm{C}$  and (j)  $380^{\circ}\mathrm{C}$ ; Figure S9: XRD patterns of PIs films with different cure temperature.
+226: 
+227: Author Contributions: Conceptualization, I.B., S.D. and T.K.; Data curation, S.D. and T.K.; Formal analysis, I.B.; Funding acquisition, S.D. and T.K.; Investigation, I.B.; Methodology, I.B., S.D. and T.K.; Project administration, S.D. and T.K.; Resources, S.D., G.B., N.L. and T.K.; Supervision, S.D. and T.K.; Validation, S.D. and T.K.; Writing—original draft, I.B.; Writing—review & editing, S.D., F.L., N.L. and T.K. All authors have read and agreed to the published version of the manuscript.
+228: 
+229: Funding: This research was co-funded by Enterprise Ireland (Grant number IP 2020 0910) and by the European Union through the Marie Skłodowska-Curie Action (MSCA-IF, H2020 program) in the frame of the PRISME project (Grant 846455). T.K. would also like to acknowledge the funding agencies that provide support to his laboratory. T.K. acknowledges support from the Sustainable Energy Authority of Ireland through the Research Development and Demonstration Funding Programme (grant no. 19/RDD/548. T.K. further acknowledges support from the SFI Research Centre MaREI (award reference no. 12/RC/2302_P2).
+230: 
+231: Institutional Review Board Statement: Not applicable.
+232: 
+233: Informed Consent Statement: Not applicable.
+234: 
+235: Data Availability Statement: Not applicable.
+236: 
+237: Acknowledgments: We gratefully acknowledge Aidan Cloonan for carrying out the DMTA training (Bernal Institute, University of Limerick), and Michal Osiak for Image J analysis. We also acknowledge M. Balasubramaniam (Bernal Institute, University of Limerick) for his role in organizing the photoluminescence analysis.
+238: 
+239: Conflicts of Interest: The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.

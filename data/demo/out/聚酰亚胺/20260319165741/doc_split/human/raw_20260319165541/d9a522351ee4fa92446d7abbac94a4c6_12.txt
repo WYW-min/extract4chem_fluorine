@@ -1,0 +1,19 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 12
+block_id: b0013
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Funding
+line_span: [167, 171]
+char_span: [20116, 20465]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0013: Funding) ---
+167: # Funding
+168: 
+169: The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: National Natural Science Foundation of China (Grant No. 51573133) and Tianjin Natural Science Foundation (14JCYBJC17600) as well as Program for New Century Excellent Talents in University (NCET-12-1063).

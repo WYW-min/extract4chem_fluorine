@@ -1,0 +1,2 @@
+"""Main signal before package."""
+

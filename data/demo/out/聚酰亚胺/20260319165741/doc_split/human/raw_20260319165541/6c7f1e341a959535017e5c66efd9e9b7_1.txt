@@ -1,0 +1,21 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: INTRODUCTION
+line_span: [24, 30]
+char_span: [1949, 4370]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0002: INTRODUCTION) ---
+24: # INTRODUCTION
+25: 
+26: Aromatic polyimides are widely used as structural, electronic, and optical materials because of their good thermal stability, mechanical strength, and optical properties. In particular, fluorine-containing polyimides, such as 4,4-hexafluoroisopropylidene diphthalic anhydride (6FDA)-based polyimides, exhibit higher gas permeability and  $\mathrm{CO}_{2}$  selectivity than other polyimides because they contain trifluoromethyl group. 6FDA-based polyimides containing 2,3,5,6-tetramethyl-1,4-phenylene diamine (TeMPD) have been applied for optical materials, electronic materials, molecularly oriented liquid-crystal films, and gas/vapor separation materials. Recently, thermal treatment has gained attention for improving highly functional polyimides because it can control primary and film structures. For example, thermal rearrangement induces polymers to form a suitable structure through cleavage and recombination of chemical bonds. During carbonization, the organic components of polymers are converted into inorganic components through thermal treatment and restructuring of primary structure. Moreover, polymer chains are rearranged through heating at temperature higher than  $T_{g}$  and under slow cooling during annealing. Porous formation is a process in which the pores in films are introduced through thermal decomposition of the
+27: 
+28: polymer chains.[22] Several reported show that block copolymers chemically coupled with aromatic polyimides and thermally labile polymers, such as poly(methyl methacrylate) (PMMA), poly(propylene oxide), and poly(ethylene glycol). Thermal labile blocks can be selectively decomposed to obtain high functionalization because of their easy molecular design and properties of thermal labile block, including dielectric property, light weight, and gas permeability.[7,23-27] We have reported the synthesis of ABA-type triblock copolymers by using fluorine-containing polyimides and PMMA with different composition ratios; these polymers can increase the dielectric constant through thermal treatment and control water vapor concentration,[7,27-29] while there are no studies on the  $\mathrm{CO}_{2}$  sorption property of thermal-treated block copolymer derived from Polyimide and PMMA. This study reported the effects of PMMA content and thermal treatment on  $\mathrm{CO}_{2}$  sorption of ABA-type triblock copolymers derived from 6FDA-TeMPD (PI) and PMMA.

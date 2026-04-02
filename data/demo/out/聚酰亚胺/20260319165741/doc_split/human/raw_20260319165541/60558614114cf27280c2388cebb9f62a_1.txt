@@ -1,0 +1,25 @@
+source_file: Direct Ink Writing of Phenylethynyl End-Capped OligoimideSiO2 to Additively Manufacture High-Performance Therm.md
+doc_id: 60558614114cf27280c2388cebb9f62a
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [42, 52]
+char_span: [3528, 8053]
+line_count: 9
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+42: # 1. Introduction
+43: 
+44: Polyimides (PIs) as a class of high-performance engineering materials have drawn considerable attention in tribology, aerospace, separating membranes, and micro-electronic applications owing to their diversity of synthetic routes and impressive properties, such as excellent mechanical strength, high long-term operating temperature, low dielectric constant, and chemical and radiation resistance [1-4]. Among the various polyimides, the thermosetting polyimide (TSPI) has attracted increasing attention due to its high glass transition temperature (Tg) and thermal stability, as it can be used above  $300^{\circ}\mathrm{C}$  for a long time. To date, plenty of thermosetting polyimides with diverse curing groups, including maleimide, norbornenimide, benzocyclobutene, cyano, and alkynyl groups, have been developed [5-9], all of which exhibit excellent thermo-oxidative stability, aging resistance, and outstanding toughness, and, therefore, extensive potential. However, the melting temperature of thermosetting polyimides cannot be observed, and their poor solubility makes the fabrication process difficult, which impedes their applications, especially when architectures with high complexity are necessary. In general, traditional compression molding and sintering with the assistance of high pressure or high temperature are used to manufacture architectures, but they need both expensive molds and complicated processes
+45: 
+46: that are time- and cost-consuming [10]. In addition, the mass fabrication of molds and machining will inevitably bring about a waste of resources.
+47: 
+48: Fortunately, the emergence of additive manufacturing (AM) provides the option of addressing the above challenges. AM, usually referred to as three-dimensional (3D) printing, has shown great promise in translating digital manufacturing into high-performance components, with the merits of fabricating complex geometric structures and minimizing the waste of materials, and it has been widely employed in the fields of engineering, soft robots, sensors, energy, and so on [11-15]. To date, several 3D printing techniques have been developed, including digital light processing (DLP), direct ink writing (DIW), fused deposition modeling (FDM), selective laser sintering (SLS), and stereolithography apparatus (SLA) [16-20], and these have been employed to achieve the AM of a variety of materials, such as polyetheretherketone [21], polydimethylsiloxane (PDMS) [22], epoxy resin (ER) [23], cyanate ester (CE) [24], and ceramic [25,26]. As one of the most important materials in modern life, the AM of PI is very promising. For instance, Hegde et al. [27] employed mask projection stereolithography (MPSL) to fabricate all-aromatic 3D printed polyimide structures with outstanding thermal properties and a complicated geometric shape. Rau et al. [28] used UV-assisted DIW to manufacture all-aromatic polyimide parts with excellent thermal performance. Guo et al. [29] and Li et al. [30] adopted the approach of grafting photoactivity groups to prepare polyimide parts and even shape memory polyimide objects using DLP technology. Despite the 3D architectures of the above techniques displaying excellent performance and complex geometry, large dimensional shrinkage occurred, and only a few of the architectures could retain high strength and good thermal properties simultaneously. Therefore, the 3D printing of polyimides with excellent performance and complicated geometric shapes remains a challenge.
+49: 
+50: Direct ink writing (DIW) possesses a mild temperature during the printing process and employs self-supporting viscoelastic materials as feedstock. Thus, after the self-supporting inks are deposited onto substrates, they maintain their geometry as designed. In this work, based on the purpose of utilizing the DIW 3D printing technique to obtain robust 3D printed composite objects via the optimization of formulation and post curing, the ink consisted of an oligomer with a structure of phenylethynyl-terminated polyamic acid and the silica nanoparticles that served as both reinforcement fillers and rheology modifiers. The strength of the printed filaments and the adhesive force among the layers were evaluated. As a result, the printed routes of specimens were divided into transverse (X) and axial (Y) orientations. The microstructure, the shrinkage value before and after thermal treatment, the thermal performance, and the mechanical properties' dependence on printing routes for printed parts were also investigated.

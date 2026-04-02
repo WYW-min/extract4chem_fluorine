@@ -1,0 +1,23 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 3
+block_id: b0004
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Introduction
+line_span: [53, 61]
+char_span: [2399, 5406]
+line_count: 7
+effective_body_non_empty_lines: 3
+
+lines:
+--- chunk (b0004: Introduction) ---
+53: # Introduction
+54: 
+55: Air pollution caused by a great amount of pollutants has been becoming a major environmental issue. One of the sources is attributed to particulate matter (PM) that is a complex mixture of small particles and liquid droplets containing different chemical components. Particularly, PM2.5 has played a crucial role in the occurrence of haze which is seriously threatening human health (Diapouli et al., 2007) and causing severe economic loss (Xiao et al., 2013).
+56: 
+57: PM2.5 are mainly emitted from industries, such as power plants, metal refining, and coal gasification, to name a few (Fang et al., 2009). These human activities generate exhaust gas with high temperature  $(>260^{\circ}\mathrm{C})$  (Heidenreich, 2013). At present, the main hot gas filters are made from nonwoven fabrics based on polytetrafluoroethylene (PTFE), polyphenylene sulfide, glass fibers, etc. (Purchas and Sutherland, 2002). Nevertheless, the nonwoven filters usually have large pore sizes and are not able to capture small particles such as PM2.5 (Bucher et al., 2013; Hosseini and Tafreshi, 2011). In order to improve the filtration performance of nonwoven filters, coating has been utilized to decrease the pore size of filters and then remove fine particles in industry, for instance, PTFE emulsion coating. However, it greatly increases air pressure drop over the filters and thus lowers efficiency. Electrospun nanofiber mats usually have large specific surface areas, small pore sizes, and high air permeability (Li et al., 2015), enabling great improvement on filtration efficiency. Many polymers have been made into gas filter materials via electrospinning, such as nylon 6 (Zhang et al., 2009), polyurethane (Sambaer et al., 2012), polyacrylonitrile (Zhang et al., 2011), and so on. However, these filters did not show a sufficient thermal stability at temperatures of  $260^{\circ}\mathrm{C}$ , greatly decreasing their usage life in hot gas filtration.
+58: 
+59: Aromatic polyimide (PI) is a type of high-performance polymer and has excellent mechanical properties as well as super heat resistance (Cecopieri-Gomez et al., 2007; Chen et al., 2011). Electrospun PI nanofibrous mats could be an ideal candidate hot gas filter that was capable to remove PM2.5 above  $260^{\circ}\mathrm{C}$  (Zhang et al., 2016). Wang et al. (2016) prepared a sandwiched PI nanofiber membrane/carbon woven fabric hot gas filters. However, the processing of carbon woven fabric is relatively complicate and expensive. To our best knowledge, few works have been reported on using facile-made nonwoven fabrics as base materials for electrospun PI nanofibrous mats to purify the PMs in the hot gas. In this study, PI nanofiber-coated commercial PI nonwoven fabric filters were prepared by electrospinning a precursor polyamic acid (PAA) solution on a PI nonwoven fabric followed by a thermal imidization process. The pore structures, morphologies of electrospun nanofibers, as well as filtering properties of filters were investigated.

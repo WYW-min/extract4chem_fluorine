@@ -1,0 +1,33 @@
+source_file: Polyimide-Derived Supramolecular Systems Containing Various Amounts of Azochromophore for Optical Storage Uses.md
+doc_id: 223982ed49a87d18ea46a94eb809324a
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [313, 331]
+char_span: [44920, 48808]
+line_count: 17
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+313: # 4. Conclusions
+314: 
+315: In this work, the potential use of polyimide-based films as a recording medium for optical storage devices was analyzed. For the structural design of the samples, the host-guest approach was employed for a paired PI precursor and azo dye (with the following ratios: 1:0.25, 1:0.5, 1:0.75 and 1:1), which, after thermal treatment, led to supramolecular systems. The molecular modeling and infrared spectroscopy emphasized that the PI and azochromophore interact via hydrogen bonding, as supported by the broad band at  $3350~\mathrm{cm}^{-1}$ . The thermal analysis showed a reduction in the vitrification temperature from  $190.84^{\circ}\mathrm{C}$  for the sample without azo dye to  $163.91^{\circ}\mathrm{C}$  for the SPIN100 film. This is shown to be beneficial for inducing birefringence by means of laser irradiation. Optical microscopy illustrated that the laser-exposed films are able to develop a regular pattern, which along with photo-induced birefringence, is useful for achieving recording layers with a higher ability to store information. The colorimetry tests revealed changes in the sample aspect produced by both the addition of AzoCN and laser irradiation; namely, the correlated color temperature decreases, while the dominant wavelength shifts towards higher values upon dyeing the films and UV light treatment. The incorporation of polar azochromophore into the system increases the refractive index from 1.657 (SPIN25) to 1.663 (SPIN100) at  $589~\mathrm{nm}$ , while the optical band gap decreases from 3.92 (SPIN25) to  $3.56\mathrm{eV}$  (SPIN100) for the unexposed samples. After laser treatment, n is further increased (1.664-1.671 at  $589~\mathrm{nm}$ ), and Eg is additionally diminished (3.33-3.12 eV). The values of the non-linear optical parameters are slightly reduced upon sample doping with AzoCN and laser treatment. At the same time, the birefringence is enhanced from 0.0012 (SPIN25) to 0.0028 (SPIN100) upon AzoCN insertion, and this is further augmented by laser irradiation as follows: 0.014 (SPIN25-L), 0.0208 (SPIN50-L), 0.0301 (SPIN75-L) and 0.0365 (SPIN100-L). These results recommend the use of the studied materials as recording media in optical storage applications.
+316: 
+317: Supplementary Materials: The following supporting information can be downloaded at: https://www.mdpi.com/article/10.3390/polym15041056/s1, Figures S1-S5: DSC curve of SPIN0, SPIN25, SPIN50, SPIN75 and SPIN100 samples.
+318: 
+319: Author Contributions: Conceptualization, A.I.B. and I.S. (Iuliana Stoica); methodology, A.I.B. and I.S. (Iuliana Stoica); software, R.M.A.; validation, I.S. (Ion Sava) and I.S. (Iuliana Stoica); formal analysis, A.I.B.; investigation, A.I.B., I.S. (Ion Sava), R.M.A., C.U., G.L. and I.S. (Iuliana Stoica); resources, A.I.B., I.S. (Ion Sava), R.M.A., C.U., G.L. and I.S. (Iuliana Stoica); data curation, A.I.B. and I.S. (Iuliana Stoica); writing—original draft preparation, A.I.B., I.S. (Ion Sava), C.U. and I.S. (Iuliana Stoica); writing—review and editing, A.I.B., I.S. (Ion Sava) and I.S. (Iuliana Stoica); visualization, I.S. (Iuliana Stoica); supervision, A.I.B. and I.S. (Iuliana Stoica); project administration, I.S. (Iuliana Stoica); funding acquisition, I.S. (Iuliana Stoica). All authors have read and agreed to the published version of the manuscript.
+320: 
+321: Funding: This work was supported by a grant from the Ministry of Research, Innovation and Digitization, CNCS-UEFISCDI, project number PN-III-P1-1.1-TE-2021-1044, within PNCDI III.
+322: 
+323: Institutional Review Board Statement: Not applicable.
+324: 
+325: Data Availability Statement: Not applicable.
+326: 
+327: Acknowledgments: This work is dedicated to the 75th anniversary of Academician Bogdan C. Simionescu, whose remarkable scientific and didactic activity is reflected in the quality of education and research in Romania.
+328: 
+329: Conflicts of Interest: The authors declare no conflict of interest.

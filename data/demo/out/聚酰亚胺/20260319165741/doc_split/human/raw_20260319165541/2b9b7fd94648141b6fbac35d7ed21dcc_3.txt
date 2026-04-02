@@ -1,0 +1,41 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. II. PolyimidePoly(ethylene terephthal.md
+doc_id: 2b9b7fd94648141b6fbac35d7ed21dcc
+chunk_index: 3
+block_id: b0004
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Experimental
+line_span: [27, 53]
+char_span: [3121, 5713]
+line_count: 25
+effective_body_non_empty_lines: 12
+
+lines:
+--- chunk (b0004: Experimental) ---
+27: # Experimental
+28: 
+29: Synthesis of composite polymer-polymer blends based on arylalicyclic polyimide (PI) and poly(ethylene terephthalate) (PETP or P2) was carried out by the following methods:
+30: 
+31: a) mechanical mixing in  $m$ -cresol in different proportions of polyimide and poly(ethylene terephthalate) (PI:PETP) from 99:1 to 70:30, respectively. High thermal two-staged synthesis of polyimide was prepared based on tricyclodecentetracarbon acid. The homogenous blend such obtained was allowed to mix for a period of two hours. This was followed by casting of the films onto the glass plates from the solution. Then the films were dried at  $170^{\circ}\mathrm{C}$  under vacuum.
+32: 
+33: b) Reaction mixing, the monomers (tricyclodecen
+34: 
+35: tetracarbon acid and oxydianiline) for the polyimide synthesis were added to the solution P2 and then mixed at the constant rising temperature up to  $170^{\circ}\mathrm{C}$  during five hours. At the end of the reaction, the mixture in  $m$ -cresol was diluted up to concentration of
+36: 
+37: 6-7% with the same filming procedures.
+38: 
+39: The main reaction of polyimide is carried out by two-step procedure and based on equilibrium polycondensation of tricyclodecentetracarbon acid with oxydianiline as following:
+40: 
+41: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+42: 
+43: The initial product of the reaction is polyamate, which undergoes dehydration at  $170^{\circ}\mathrm{C}$  to form an alicycled polyimide.
+44: 
+45: IR-spectra of the films were recorded by using a microattenuated total reflectance attachment MATR-81 (Jasco IR-810, Japan) at the room temperature within region of  $400 - 4000\mathrm{cm}^{-1}$ . In addition, PI solution in m-cresol, where it is mentioned, was coated directly onto a KRS optical crystal, with a thin film of polymer being formed on the KRS plate after rapid evaporation of the solvent under vacuum at  $50^{\circ}\mathrm{C}$ . Afterwards, the KRS-coated films were held in a vacuum oven at the same temperature for a week to remove all traces of the solvent. In the total reflection method, the  $10\times 30\mathrm{-mm}$  polymer sample was held between a KRS-5 prism and a silicon rubber plate.
+46: 
+47: Further investigations of the new composites on the basis of PI-PETP there were carried out with small angle X-ray diffraction analysis on the diffractometer DRON-3.
+48: 
+49: Thermal decomposition of PI, PETP and their blends at different ratios were measured with a TGA/SDTA  $851^{\mathrm{e}}$  (Metler Toledo) at heating rate  $4^{\circ}\mathrm{C}$  per min within the temperature range of  $50 - 800^{\circ}\mathrm{C}$  under
+50: 
+51: air and nitrogen.

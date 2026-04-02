@@ -1,0 +1,29 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 15
+block_id: b0016
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: OPTIMIZATION BY RSM ANALYSIS
+line_span: [154, 168]
+char_span: [28968, 30494]
+line_count: 13
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0016: OPTIMIZATION BY RSM ANALYSIS) ---
+154: # OPTIMIZATION BY RSM ANALYSIS
+155: 
+156: A total of 26 different combinations of membrane synthesis parameters such as loading of filler (A), annealing temperature (B) and type of filler (C) were randomly derived. 13 runs in which 5 runs at the central point were conducted for two numerical factors (A and B) and another 13 runs for another categorical factor (C). The data were then fitted into the below second order polynomial equation.
+157: 
+158: $$
+159: \eta = \beta_ {0} + \sum_ {j = 1} ^ {k} \beta_ {j} x _ {j} + \sum_ {j = 1} ^ {k} \beta_ {j j} x _ {j} ^ {2} + \sum i \sum_ {<   j = 2} \beta_ {i j} x _ {i} x _ {j} + \varepsilon \tag {4}
+160: $$
+161: 
+162: where  $\eta$  was the predicted response;  $\beta_{0}$  was the constant coefficients;  $\beta_{j},\beta_{jj}$  and  $\beta_{ij}$  symbols were the coefficients for linear, quadratic and second order interaction effects, respectively. and were the coded independent parameter variable and were the standard error between the observed and calculated value.
+163: 
+164: Analysis of variance (ANOVA) was used to justify the adequacy of the response surface quadratic model for the composite membranes. Table 4(a)-4(c) summarized the conversion quadric model of the ANOVA. The obtained results were fitted using the least square regression. The regression model showed a successful correlation among the three factors as it provided an accurate description of the experimental data. The parameter F-value, p-value,
+165: 
+166: lack of fit and R2 were used to investigate how well the given model fit the experimental data.

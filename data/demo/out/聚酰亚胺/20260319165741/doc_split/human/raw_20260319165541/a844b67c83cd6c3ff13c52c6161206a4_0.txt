@@ -1,0 +1,42 @@
+source_file: One-Pot Synthesis of Amide-Functional Main-Chain Polybenzoxazine Precursors.md
+doc_id: a844b67c83cd6c3ff13c52c6161206a4
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: One-Pot Synthesis of Amide-Functional Main-Chain Polybenzoxazine Precursors
+line_span: [1, 28]
+char_span: [0, 1544]
+line_count: 26
+effective_body_non_empty_lines: 15
+
+lines:
+--- chunk (b0001: One-Pot Synthesis of Amide-Functional Main-Chain Polybenzoxazine Precursors) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2019, 11, 679; doi:10.3390/polym11040679
+5: www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # One-Pot Synthesis of Amide-Functional Main-Chain Polybenzoxazine Precursors
+11: 
+12: Canan Durukan, Baris Kiskan * and Yusuf Yagci *
+13: 
+14: Department of Chemistry, Istanbul Technical University, Maslak, Istanbul 34469, Turkey; cnndurukan@gmail.com
+15: 
+16: * Correspondence: kiskanb@itu.edu.tr (B.K.); yusuf@itu.edu.tr (Y.Y.)
+17: 
+18: Received: 23 March 2019; Accepted: 10 April 2019; Published: 14 April 2019
+19: 
+20: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+21: 
+22: check for updates
+23: 
+24: Abstract: Main-chain polybenzoxazines containing amide linkages were successfully prepared in one pot. Three different polymers were synthesized by reacting 3,4-dihydrocoumarine (DHC) and paraformaldehyde with 1,3-diaminopropane or 1,6-diaminohexane or Jeffamine ED-900. The one-pot reaction proceeded through the combination of the ring-opening of DHC with amines, and subsequent Mannich and ring-closure reactions occurring in a cascading manner. The obtained polymer from Jeffamine exhibited good film-forming properties, and free-standing flexible films were easily solvent-casted on Teflon plates. All polymeric precursors were characterized by spectroscopic analysis, and their curing behavior and thermal stability were investigated by differential scanning calorimetry (DSC) and thermogravimetric analysis (TGA).
+25: 
+26: Keywords: polybenzoxazine; benzoxazine; polyamide; ring-opening polymerization; dihydrocoumarine

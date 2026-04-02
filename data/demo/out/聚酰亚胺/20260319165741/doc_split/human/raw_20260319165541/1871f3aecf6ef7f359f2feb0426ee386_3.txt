@@ -1,0 +1,135 @@
+source_file: Fiber Reinforced Polyimide Aerogel Composites with High Mechanical Strength for High Temperature Insulation.md
+doc_id: 1871f3aecf6ef7f359f2feb0426ee386
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussions
+line_span: [78, 198]
+char_span: [10617, 30265]
+line_count: 119
+effective_body_non_empty_lines: 60
+
+lines:
+--- chunk (b0004: 3. Results and Discussions) ---
+78: # 3. Results and Discussions
+79: 
+80: # 3.1. Synthesis of the Composites
+81: 
+82: Figure 1 shows the procedure used to synthesize the glass fiber reinforced polyimide aerogel composites (GF/PI). Typically, a PAA oligomer was synthesized in NMP using a 15:16 molar ratio of dianhydride to total diamine content, which gave oligomers with an average of 15 repeat units terminated by an amine unit. A sol-gel polycondensation process was then proceeded to convert PI sols into wet PI gels, with supercritical drying then employed to remove solvent and residual chemicals to give GF/ PI composites with relative low densities and high porosities.
+83: 
+84: # 3.2. Textural Properties of the Pure PI Aerogels
+85: 
+86: Figure S1, Supporting Information, shows a picture of typical aerogels prepared using different molar ratios of ODA and PPDA in cylindrical molds of the same size. These PI aerogels differ in color depending on their formulation, with sample colors changing from light yellow to orange yellow to dark yellow as the amount of PPDA present increases to  $100\%$ . The change in color reflects the different colors and densities of the parent diamines, with PPDA having an intense brown color and a high density, while ODA is a white crystalline solid with a relatively low density. Heating these aerogels to  $500^{\circ}\mathrm{C}$  results in all the aerogels darkening and shrinking to much smaller volumes, as shown in Figure S1, Supporting Information, thus demonstrating the
+87: 
+88: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+89: Figure 1. Schematic illustration of the synthesizing process.
+90: 
+91: In view of the severe shrinkage, the physical properties of these carbonized aerogels are not analyzed further. The density and volume shrinkage of the aerogel samples are shown in Table 1. Supercritical drying effectively prevented contraction of the aerogels during the initial drying phases, however, some shrinkage did occur during the gelation and solvent exchange phases. Introduction of PPDA into the polymer backbone is expected to result in the aerogels exhibiting reduced shrinkage, as the PPDA would be expected to make the polymer backbone more rigid. However, this proved not to be the case, with a PI aerogel prepared with ODA shrunk by  $16.5\%$  during processing, while an aerogel containing  $100\%$  PPDA shrunk by as much as  $57.9\%$ . It is possible that noncoplanarity may induce less shrinkage during gelation of pure ODA oligomers because fewer interactions occur between polymer chains. This contrasts with the structures of oligomers obtained from PPDA which exhibit a greater degree of planarity, which leads to more contraction during processing.
+92: 
+93: Fourier transform infrared (FT-IR) spectra were acquired to identify the chemical structures of the aerogels (see Figure 2) whose spectra reveal the presence of characteristic bands for polyimides at  $1370~\mathrm{cm}^{-1}$  ( $\upsilon$  imide C-N),  $1715~\mathrm{cm}^{-1}$  (symmetric  $\upsilon$  imide C=O) and  $1775~\mathrm{cm}^{-1}$  (asymmetric  $\upsilon$  imide C=O). A peak at  $1499~\mathrm{cm}^{-1}$  was assigned to the stretching vibration of the amide  $(-CONH-)$  with no band found to be present at  $1860~\mathrm{cm}^{-1}$  that would be expected if any unreacted anhydride is present.
+94: 
+95: The pore structure of PI aerogels containing different molar ratios of diamines were investigated by examining their SEM images, nitrogen sorption isotherms, and BJH pore size distributions (see Figure 3). The SEM images (see Figure 3a-d) of the microstructure of the aerogels prepared using different
+96: 
+97: Table 1. Textural characteristics of as-prepared pure aerogels.  
+98: 
+99: <table><tr><td>Samples</td><td>Density [g cm-3]</td><td>Shrinkage [%]</td><td>SBETa) [m2g-1]</td><td>VTotalb) [cm3g-1]</td><td>Da c) [nm]</td></tr><tr><td>PI-0% PPDA</td><td>0.099</td><td>16.5</td><td>396</td><td>1.26</td><td>40.1</td></tr><tr><td>PI-25% PPDA</td><td>0.108</td><td>27.2</td><td>286</td><td>0.82</td><td>29.5</td></tr><tr><td>PI-75% PPDA</td><td>0.138</td><td>40.6</td><td>180</td><td>0.49</td><td>18.1</td></tr><tr><td>PI-100% PPDA</td><td>0.195</td><td>57.9</td><td>85</td><td>0.33</td><td>16.2</td></tr></table>
+100: 
+101: a)BET specific surface area; b)Total pore volume at  $P / P_0 = 0.995$  ; c)Average pore diameter.
+102: 
+103: diamine formulations are quite different. Pure ODA aerogels consist of a 3D porous network of tangled polymer nanofibers, with fiber diameters ranging from 20 to  $60~\mathrm{nm}$  (Figure 3a). Combination of PPDA and ODA (Figure 3b,c) results in aerogels with a denser cluster structure, while aerogels derived from  $100\%$  PPDA are comprised of clusters of interconnected particles, similar to structures observed previously for silica aerogels.[34] These structural differences may be due to polyimide oligomers containing more PPDA having greater chain rigidity, higher planarity, and shorter chain length between cross-links, thus making it easier for their oligomers to agglomerate into larger particles. Typically, all the pure aerogels displayed typical IV isotherm curves as defined by IUPAC nomenclature (Figure 3e).[35] Pore size distribution plots reveal a range of pore sizes ranging from mesoporous through to macroporous dimensions (Figure 3f), whose morphologies are consistent with their type IV isotherms. Pore size distribution is within the  $2 - 50\mathrm{nm}$  range, with pore size becoming gradually smaller as the PPDA content increases. Typical porosity parameters for these aerogels are shown in Table 1, with increasing PPDA content resulting in a reduction in surface area, pore volume, and well-defined pore size, which is in accordance with the morphologies observed for their SEM images. These results may be attributed to close packing of the PI molecular chains that are rich in PPDA that can more easily accommodate shrinkage.
+104: 
+105: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+106: 
+107: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+108: 
+109: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+110: 
+111: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+112: Figure 2. FT-IR spectra of PI aerogels prepared with a)  $0\%$  PPDA, b)  $25\%$  PPDA, c)  $75\%$  PPDA, and d)  $100\%$  PPDA.
+113: 
+114: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+115: 
+116: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+117: 
+118: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+119: Figure 3. SEM images of pure PI aerogels: a) PI-0% PPDA, b) PI-25% PPDA, c) PI-75% PPDA, d) PI-100% PPDA, and e) nitrogen sorption isotherm as well as the f) BJH pore size distribution of the samples.
+120: 
+121: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+122: 
+123: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+124: 
+125: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+126: 
+127: TGA of the aerogels was performed in nitrogen and in air over a temperature ranging from room temperature to  $800^{\circ}\mathrm{C}$ , using a heating rate of  $10^{\circ}\mathrm{C}\mathrm{min}^{-1}$  (see Figure 4). Little weight loss is observed until the onset of decomposition in both nitrogen and air, indicating that the original imidization process has proceeded to completion and that all solvent has been removed in the supercritical drying process. The decomposition onset temperature under a nitrogen atmosphere varies depending on the diamine used, with  $100\%$  ODA having the lowest decomposition temperature at  $515^{\circ}\mathrm{C}$ , while  $100\%$  PPDA gives the highest decomposition temperature of  $580^{\circ}\mathrm{C}$ . This phenomenon may be ascribed to the lower thermal decomposition temperature of the ether groups of ODA, which also leads to its char yield being increased from  $59.7\%$  to  $68.2\%$ . The temperature for  $5\%$  weight loss increases from 525 to  $575^{\circ}\mathrm{C}$  in air. These increases in  $T_{\mathrm{onset}}$  and char yield demonstrate the improved thermal stability of aerogels containing an excess of rigid diamine, which means that these polymers are well-suited to high temperature applications.
+128: 
+129: # 3.3. Textural Properties of Aerogel Composites
+130: 
+131: Figure S2, Supporting Information, shows the digital and morphology photo of the glass fiber. The fiber has a white block structure and there are a number of pores in it which facilitates the impregnation of the sol. It can be seen from Figure S2b, Supporting Information, that there are solid particle precipitates and convex defects on the surface of the glass fiber. Figure S3, Supporting Information, shows the morphology of the aerogel composites. Increasing the PPDA content of the impregnated GF-PI composites results in their color changing from light yellow to yellow. Heating at higher temperatures results in all samples turning black, however, they all retain their gross structures. Therefore, the presence of fiber reinforcement in the GF/PI and CGF/PI composites results in
+132: 
+133: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+134: 
+135: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+136: Figure 4. TGA profiles of samples in a) nitrogen and b) air, with PI-0% PPDA (black line), PI-25% PPDA (red line), PI-75% PPDA (blue line), and PI-100% PPDA (olive line).
+137: 
+138: Table 2. Textural characteristics of aerogel composites.  
+139: 
+140: <table><tr><td>Samples</td><td>Density [g cm-3]</td><td>Shrinkage [%]</td><td>SBETa) [m2g-1]</td><td>VTotalb) [cm3g-1]</td><td>Da) [nm]</td></tr><tr><td>GF/PI-0</td><td>0.143</td><td>7.8</td><td>91.8</td><td>0.31</td><td>18.3</td></tr><tr><td>GF/PI-25</td><td>0.151</td><td>8.2</td><td>83.6</td><td>0.28</td><td>15.7</td></tr><tr><td>GF/PI-75</td><td>0.164</td><td>8.9</td><td>67.4</td><td>0.27</td><td>12.7</td></tr><tr><td>GF/PI-100</td><td>0.177</td><td>9.7</td><td>65.9</td><td>0.25</td><td>11.6</td></tr></table>
+141: 
+142: a)BET specific surface area; b)Total pore volume at  $P / P_0 = 0.995$  ; c)Average pore diameter.
+143: 
+144: less shrinkage, with the densities of these aerogel composites ranging from 0.143 to  $0.177\mathrm{gcm}^{-3}$ , as shown in Table 2. The density of the GF/PI-100 composite is significantly lower than that of pure PI aerogel, despite the incorporation of glass fiber. The proposed molecular structure of the composites is shown in Figure S4, Supporting Information, which is similar to the structure of pure aerogels, thus indicating that the fiber has little effect on the gross chemical structure of these PI aerogels.
+145: 
+146: Figure 5a-d shows the microstructure of GF/PI, which reveals that all of the porous glass fiber networks are effectively filled with PI aerogels, thus indicating that PI aerogels are easily impregnated into fibrous porous glass fiber to form fiber/aerogel composites. The fiber felt acts as a skeletal support to shape and reduce shrinkage of the aerogel during the preparation process, which results in improved mechanical strength. These evenly distributed aerogels effectively reduce the pore size of the fiber mats, thereby improving the thermal insulation properties of the composites. The pure aerogels formed in the composites exhibit randomly interconnected 3D porous networks composed of nanometer-sized strands, or spheroidal particles as pure aerogels (see Figure 3). TGA curves for the composites under nitrogen and air atmospheres are shown in Figure S5, Supporting Information, with the excellent
+147: 
+148: thermal stability of the composites due to the heat-resistance of the glass fibers and the PI aerogels. Figure 5d,e shows the adsorption-desorption curves and pore size distributions of the composites. It could be seen that the composites exhibit lower specific surface areas and smaller pore volumes. This is because the glass fibers exhibit lower contact angles (Figure S6, Supporting Information) and larger surface energy (Table S1, Supporting Information) as well as rough surface facilitates the preferential growth of the aerogel, with pores between the fibers limiting the continued aggregation of aerogels, leading to formation of discontinuous particles.
+149: 
+150: Figure 6a-d shows the pyrolyzed morphologies of the aerogel composites after treatment at  $500^{\circ}\mathrm{C}$ . As shown in Figure S5, Supporting Information, little weight loss for aerogel composites occurs at  $500^{\circ}\mathrm{C}$  in a nitrogen atmosphere, suggesting that short-term use at this temperature is possible. However, when heated, pyrolysis of the aerogel results in significant shrinkage which creates voids within a less dense aerogel matrix. The glass fiber helps maintain the 3D network of the composite by binding the residual aerogels together, which explains the lower shrinkage levels when these impregnated composites are heated at high temperatures. The inset shown in Figure 6a-d shows the magnified SEM images of a PI aerogel treated at high temperature, which reveal the presence of grape-like aggregates of primary PI nanoparticles which are progressively converted into thread-like structures. The structures of these composites treated at high temperature are dominated by the presence of macrospores between fibers that are formed during the pyrolysis process, which results from pyrolysis and contraction of the PI aerogels.
+151: 
+152: The mechanical behavior of the GF/PI composites was examined by carrying out compression tests along the  $z$ -direction, with the effect of fiber enhancement on compression curves for pure PI aerogels and CGF/PI as shown in Figure 7a,c. Young's modulus of these samples were measured from the initial slopes of the stress-strain curves, which are plotted in
+153: 
+154: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+155: 
+156: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+157: 
+158: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+159: 
+160: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+161: Figure 5. SEM images of PI aerogel composites: a) GF/PI-0, b) GF/PI-25, c) GF/PI-75, d) GF/PI-100 PPDA, and e) nitrogen sorption isotherm as well as the f) BJH pore size distribution of the samples.
+162: 
+163: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+164: 
+165: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+166: 
+167: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+168: 
+169: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+170: 
+171: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+172: Figure 6. SEM images of PI aerogel composites after heating in nitrogen at  $500^{\circ}\mathrm{C}$ : a) CGF/ PI-0, b) CGF/PI-25, c) CGF/PI-75, d) CGF/PI-100.
+173: 
+174: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+175: 
+176: Figure 7d. The mechanical properties of these PI aerogels are dependent on the amount of PPDA present. Generally, PI aerogels with a low PPDA content showing greater flexibility as external stress levels increased, while PI aerogels containing greater amounts of PPDA are more susceptible to rapid brittle failure when their maximum stress levels are exceeded (see Figure 7a).
+177: 
+178: Composites with different formulations revealed a significant degree of toughness (Figure 7b). Stress increases linearly to maximum elastic strain levels of around  $5\%$ , with further increases in strain from  $5 - 40\%$  during the yield stage resulting in limited augmentation of compression stress that leads to strain levels exceeding  $50\%$ . This behavior is characteristic of an initial elastic stage being formed through elastic compression of an aerogel networks, followed by an irreversible yield stage that is followed by a final densification stage that results in permanent collapse of the aerogels and separation of fibers from the aerogel matrix. Figure 7c reveals that the CGF/PI composites exhibit good ability to resist external stress erosion, indicating that the GF/PI can maintain composite morphology at high temperatures and tolerate significant mechanical compression. Comparing stress levels for identical strain levels with the Young's modulus values
+179: 
+180: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+181: 
+182: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+183: 
+184: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+185: Figure 7. a-c) Compressive strain-stress curves and statistics of d) Young's modulus of samples.
+186: 
+187: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+188: 
+189: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+190: Figure 8. Thermal conductivity  $(\lambda)$  values of as-prepared composites at different temperatures from room temperature to  $500^{\circ}\mathrm{C}$ .
+191: 
+192: shown in Figure 7d, reveals that the compression performance of these composites is improved dramatically in the presence of glass fiber and increasing amounts of PPDA. For example, compared with PI aerogels derived from  $100\%$  ODA that gives a Young's modulus of  $3.6\mathrm{MPa}$ , PI aerogels containing  $100\%$  PPDA show an order of magnitude growth of  $42.7\mathrm{MPa}$ . Furthermore, when impregnated with glass fiber, the Young's modulus of GF/PI-100 increased significantly to  $113.5\mathrm{MPa}$ . The Young's modulus of GF/PI-100 is the highest value reported for PI aerogels to date, when compared on a same-density basis (Table S2, Supporting Information), with this increase in mechanical strength assigned to the synergistic effect of the aerogels and fibers. Aerogels with high surface area fill in the pores of the GF resulting in more effective dispersion of external stress forces, with fibers acting as a support framework to dissipate fracture energy during the fibers/aerogel stripping process.
+193: 
+194: The thermal conductivities  $(\lambda)$  of composite samples at different temperatures (from 100 to  $500^{\circ}\mathrm{C}$ ) were determined using a periodic heat flux method (see Figure 8). Heat transport through a porous solid can occur through a series of radiative, gaseous, and solid conduction processes.[36] Radiative thermal conductivities are likely to be negligible at room temperature. Heat conductivity in solids is determined by the density and conducting properties of the material, while gaseous conductivity depends on the porosity and pore size of the material. Different formulations in polyimide aerogels have an obvious influence on the thermal conductivities of the PI composites. Thermal conductivity for impregnated GF/PI composites at room temperature increases from 0.023 to  $0.029\mathrm{Wm}^{-1}\mathrm{K}^{-1}$  as their PPDA content increases. Conversely, Figure S7, Supporting Information, shows that the introduction of fiber does not significantly improve the thermal conductivity of aerogels. Conversely, when the content of PPDA in aerogels is high (e.g., PI-PPDA-75 and PI-PPDA-100), the as-prepared composites have a lower thermal conductivity than the corresponding pure aerogel. This is because the pore sizes of the composites are smaller than the mean free paths of oxygen and nitrogen  $(\approx 70~\mathrm{nm})$  in air, which can significantly decrease the effective thermal conductivity in the gaseous phase. Alternatively, the
+195: 
+196: presence of aerogels can considerably enhance grain boundary scattering, resulting in a decrease in the solid thermal conductivity of the composite. Increasing temperature results in the PI aerogels turning black, with their thermal conductivity at  $500^{\circ}\mathrm{C}$ $(0.082\mathrm{Wm}^{-1}\mathrm{K}^{-1})$  significantly greater than that of at room temperature  $(0.057\mathrm{Wm}^{-1}\mathrm{K}^{-1})$ . However, both these thermal conductivity values are relatively low, indicating that these as-prepared composites exhibit good insulating properties.

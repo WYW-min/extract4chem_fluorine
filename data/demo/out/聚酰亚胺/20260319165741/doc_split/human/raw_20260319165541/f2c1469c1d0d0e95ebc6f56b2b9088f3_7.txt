@@ -1,0 +1,23 @@
+source_file: Nanoindentation studies of polyimide thin films with various internal linkages in the diamine component.md
+doc_id: f2c1469c1d0d0e95ebc6f56b2b9088f3
+chunk_index: 7
+block_id: b0008
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: CONCLUSIONS
+line_span: [150, 158]
+char_span: [29625, 31231]
+line_count: 7
+effective_body_non_empty_lines: 3
+
+lines:
+--- chunk (b0008: CONCLUSIONS) ---
+150: # CONCLUSIONS
+151: 
+152: For fully cured BPDA-based polyimide thin films, the nanoindentation behavior was investigated. Their morphological structures, such as the crystallinity, chains, and packing order, were characterized with a prism coupler and WAXD. The hardness of the thin films was calculated from curves of the nanoindentation load versus the displacement. There were variations in the behavior of the indentation and hardness for the BPDA-based polyimide thin films, and they were strongly dependent on the chemical and morphological structures. The hardness varied from 0.344 to 0.749 GPa and was in the following increasing order: BPDA-DDS < BPDA-ODA
+153: 
+154: $< \mathrm{BPDA - BZ} < \mathrm{BPDA - PDA}$ . For all the polyimide thin films, except that of BPDA-BZ, the hardness decreased with an increase in the load. Their bi-refringence varied from 0.0124 to 0.2464 and was in the following increasing order: BPDA-DDS  $< \mathrm{BPDA - ODA} < \mathrm{BPDA - PDA} < \mathrm{BPDA - BZ}$ . The characteristic X-ray diffraction peaks revealed an increase in the crystallinity in the BPDA-based polyimides in the following order: BPDA-DDS  $< \mathrm{BPDA - ODA} < \mathrm{BPDA - BZ} < \mathrm{BPDA - PDA}$ . The indentation response with an applied load and the hardness by nanoindentation for the BPDA-based polyimides were closely related to the morphological structure. In particular, their mechanical properties could be attributed to crystallinity due to the chain order along the chain axis and the molecular packing order.
+155: 
+156: This work was supported by the Korea Research Foundation (KRF-2001-005-E0031).

@@ -1,0 +1,45 @@
+source_file: Enhanced thermal conductivity of flexible h-BNpolyimide composites films with ethyl cellulose.md
+doc_id: a63ce17dffdd7d62fb7f2e89fa97f053
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2 Materials and methods
+line_span: [33, 63]
+char_span: [4304, 8318]
+line_count: 29
+effective_body_non_empty_lines: 10
+
+lines:
+--- chunk (b0003: 2 Materials and methods) ---
+33: # 2 Materials and methods
+34: 
+35: # 2.1 Materials
+36: 
+37: The h-BN powder (99%) was purchased from CWNANO Co., Ltd, China. The 4,4'-diaminodiphenyl ether (ODA, 98.5%), pyromellitic dianhydride (PMDA, 99%), 2,2'-Bis(trifluoromethyl) benzidine (TFMB, 98.0%), N-Methyl pyrrolidone (NMP, ≥99.9%) and N,N-Dimethylformamide (DMF, 99%) was provided by SINOREAGENT Co., Ltd, China. Graphene oxide powder (>99%) was obtained from XFNANO Co., Ltd, China. Ethyl cellulose (EC, CP, 1.14 g/mL at 25°C) was from MACKLIN Co., Ltd, China.
+38: 
+39: # 2.2 Methods
+40: 
+41: # 2.2.1 Preparation of TFMB-GO
+42: 
+43: Firstly,  $0.1\mathrm{g}$  graphene oxide powder (GO) was added to  $100~\mathrm{mL}$  NMP solvent. To fully disperse GO into solvent NMP, the solution was ultrasonicated for  $10\mathrm{h}$  using an ultrasonic cleaner. Next,  $100~\mathrm{mL}$  GO suspension  $(1.0~\mathrm{mg/mL})$  was poured into a three-necked flask, then  $0.3\mathrm{g}$  TFMB was added. Under nitrogen atmosphere, the flask was magnetically stirred for  $24\mathrm{h}$  at a temperature of  $80^{\circ}\mathrm{C}$ . After  $24\mathrm{h}$ , it was washed several times with solvent (NMP) and dried to obtain TFMB-GO. The reaction process is shown in Figure 1.
+44: 
+45: # 2.2.2 Preparation of PI composite film
+46: 
+47: At the first step, ODA (0.2002 g, 1 mmol) and DMF (6 mL) were added to a 250 mL round flask equipped with a mechanical stirrer at ambient temperature. The solution was stirred until ODA was totally dissolved. After the ODA was completely dissolved, certain amount of h-BN was added into the container with ultrasonic for 30 min. When the h-BN was fully dispersed in the solvent, the ethyl cellulose was added (the weight ratio of ethyl cellulose/BN was 0.1) and ultra sonicated for 1 h. Then the 1 wt% TFMB-GO was added with ultrasonic for 30 min to fully disperse the TFMB-GO in the solvent. After that, PMDA (0.2225 g, 1.02 mmol) was added into the solution. A viscous poly(amic acid) solution was obtained after magnetic stirring for 24 h subsequently. Then, the solution was placed in  $80^{\circ}\mathrm{C}$  vacuum oven for 2 h to obtain the h-BN_EC+TFMB-GO/ PAA composite film. In the next step, the film was placed in a muffle furnace. Switch on the muffle furnace and let the internal temperature raise from room temperature to  $100^{\circ}\mathrm{C}$  in 3 min. After 5 min of heat preservation, the internal temperature was increased to  $300^{\circ}\mathrm{C}$  in 10 min at the rate of  $20^{\circ}\mathrm{C} / \mathrm{min}$ . Keep  $300^{\circ}\mathrm{C}$  for 15 min, then the h-BN_EC+TFMB-GO/PI composite film was finally obtained after being naturally cooled down to room temperature. The preparation process was shown in Figure 2.
+48: 
+49: In addition, some control samples without ethyl cellulose or TFMB-GO were prepared with the similar methods mentioned above.
+50: 
+51: # 2.2.3 Characterization
+52: 
+53: Fourier transform infrared (FTIR) spectra were taken by using a Bruker (Germany) EQUINOXSS Fourier transform infrared spectrometer with a wavenumber range of  $4000~\mathrm{cm^{-1}}$  and  $600~\mathrm{cm^{-1}}$ . The morphology and microstructure of TFMB-GO and PI composites films were
+54: 
+55: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+56: Figure 1: Synthesis process of TFMB-GO.
+57: 
+58: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+59: Figure 2: Procedure of preparation of PI composite film.
+60: 
+61: observed by transmission electron microscopy (TEM, JEOL JEM-2100, Japan) and scanning electron microscopy (SEM, Quanta FEG250, USA), respectively. X-ray diffraction (XRD) patterns of the composites and the raw materials were obtained using Rigaku X-ray machine operating at  $40\mathrm{kV}$  and  $150\mathrm{mA}$ . Thermal conductivities of the composites were characterized with laser flash apparatus (LFA, NETZSCH 447, Germany) at room temperature. The DXLL-5000 universal testing machine (Shanghai Dengjie Machinery Co., Ltd.) was used to test the films strip of  $1\mathrm{cm} \times 3\mathrm{cm}$  at a tensile speed of  $10\mathrm{mm/min}$ .

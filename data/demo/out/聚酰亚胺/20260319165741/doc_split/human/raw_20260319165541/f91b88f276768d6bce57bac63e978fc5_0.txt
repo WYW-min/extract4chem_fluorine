@@ -1,0 +1,26 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. I. PolyimidePolycarbonate &amp; Polyi.md
+doc_id: f91b88f276768d6bce57bac63e978fc5
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. I. Polyimide/Polycarbonate & Polyimide/Polysulphone Blends.
+line_span: [1, 12]
+char_span: [0, 688]
+line_count: 10
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0001: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. I. Polyimide/Polycarbonate & Polyimide/Polysulphone Blends.) ---
+1: [MINERU_DISCARDED_META]
+2: Eurasian ChemTech Journal 6 (2004) 7-10
+3: [/MINERU_DISCARDED_META]
+4: 
+5: # Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. I. Polyimide/Polycarbonate & Polyimide/Polysulphone Blends.
+6: 
+7: Saule Kudaikulova<sup>1</sup>, Zulfiya Musapirova<sup>1</sup>, Natalya Sobarina<sup>1</sup>, Maira Umerzakova<sup>1</sup>, Rinat Iskakov<sup>1*</sup>, Bulat Zhubanov<sup>1</sup> and Marc J.M. Abadie<sup>2</sup>
+8: 
+9: $^{1}$ Institute of Chemical Sciences, 106 Walikanov Street, 480100 Almaty, Kazakhstan  
+10:  $^{2}$ Laboratory of Polymer Science & Advance Organic Materials, Montpellier University 2, S.T.L., Place Eugène Bataillon, 34095 Montpellier Cedex 05, France

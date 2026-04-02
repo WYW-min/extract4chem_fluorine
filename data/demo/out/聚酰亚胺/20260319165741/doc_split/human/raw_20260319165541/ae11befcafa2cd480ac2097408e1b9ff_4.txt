@@ -1,0 +1,35 @@
+source_file: Molecular Design, Preparation, and Characterization of Fluoro-Containing Polyimide Ultrafine Fibrous Membranes.md
+doc_id: ae11befcafa2cd480ac2097408e1b9ff
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [162, 182]
+char_span: [38767, 41097]
+line_count: 19
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+162: # 4. Conclusions
+163: 
+164: Fluoro-containing electrospun PI UFMs with desired features for advanced optoelectronic applications were designed and prepared in the current work. For example, in one of research interests, flexible or foldable UFMs with heat-induced fluorescent features at elevated temperatures for industrial labelling or accurate identification are required. In such applications, the properties of high whiteness, good thermal stability, and low moisture sensitivity are required for the UFMs. The currently developed electrospun FPI UFMs possessed the basic requirements for functional UFMs, including WI values higher than  $87.00$ ,  $\mathrm{T_g}$  over  $255^{\circ}\mathrm{C}$ , and WCA values higher than  $105^{\circ}$ . Thus, FPI UFMs might be good candidates in the applications mentioned above, and the detailed fabrication of the devices with the FPI UFMs was performed in our laboratory.
+165: 
+166: Supplementary Materials: The following supporting information can be downloaded at: https:// www.mdpi.com/article/10.3390/molecules27175447/s1, Figure S1: Optimized structures and the calculated HOMO energy levels (εHOMO) for the diamines; Figure S2: XRD patterns of FPI resins; Figure S3: SEM images of the FPI UFMs together with the average fiber diameters  $(d_{\mathrm{av}})$ . (a) FPI-1, (b) FPI-2, (c) FPI-3, (d) FPI-4, (e) FPI-5; Figure S4: Water contact angles of FPI UFMs. (a) FPI-1, (b) FPI-2, (c) FPI-3, (d) FPI-4, (e) FPI-5.
+167: 
+168: Author Contributions: Conceptualization, J.-g.L.; Methodology, H.-l.W. and J.-g.L.; Investigation, Z.P. and H.-r.Q.; Data curation, Y.-s.G.; X.-l.W.; Y.Z.; X.R.; and X.-x.Z.; Writing—original draft preparation, Z.P.; Writing—review and editing, J.-g.L.; Supervision, J.-g.L.; Funding acquisition, J.-g.L. All authors have read and agreed to the published version of the manuscript.
+169: 
+170: Funding: This work was supported by Shenzhen Science and Technology Program (No. JSGG-20210629144539012) and the Shandong Key Research and Development Program (No. 2019JZZY020235).
+171: 
+172: Institutional Review Board Statement: Not applicable.
+173: 
+174: Informed Consent Statement: Not applicable.
+175: 
+176: Data Availability Statement: Data are contained within the article.
+177: 
+178: Conflicts of Interest: The authors declare no conflict of interest.
+179: 
+180: Sample Availability: Samples of the compounds are available from the authors.

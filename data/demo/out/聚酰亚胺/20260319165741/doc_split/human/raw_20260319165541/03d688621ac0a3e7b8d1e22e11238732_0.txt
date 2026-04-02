@@ -1,0 +1,31 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocomposites
+line_span: [1, 17]
+char_span: [0, 1976]
+line_count: 15
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0001: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocomposites) ---
+1: [MINERU_DISCARDED_META]
+2: Nanoscale Res Lett (2008) 3:444-453 DOI 10.1007/s11671-008-9179-4
+3: NANO EXPRESS
+4: [/MINERU_DISCARDED_META]
+5: 
+6: # Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocomposites
+7: 
+8: B. P. Singh  $\cdot$  Deepankar Singh  $\cdot$  R. B. Mathur  $\cdot$  T. L. Dhami
+9: 
+10: Received: 30 June 2008 / Accepted: 16 September 2008 / Published online: 15 October 2008  
+11: © to the authors 2008
+12: 
+13: Abstract Polyamic acid, the precursor of polyimide, was used for the preparation of polyimide/multiwalled carbon nanotubes (MWCNTs) nanocomposite films by solvent casting technique. In order to enhance the chemical compatibility between polyimide matrix and MWCNTs, the latter was surface modified by incorporating acidic and amide groups by chemical treatment with nitric acid and octadecylamine  $(\mathrm{C_{18}H_{39}N})$ , respectively. While the amide-MWCNT/polyimide composite shows higher mechanical properties at low loadings  $(< 3\mathrm{wt}\%)$ , the acid-MWCNT/ polyimide composites perform better at higher loadings  $(5\mathrm{wt}\%)$ . The tensile strength (TS) and the Young's modulus (YM) values of the acid-MWCNT/polyimide composites at  $5\mathrm{wt}\%$  MWCNT loadings was 151 and  $3360\mathrm{MPa}$ , respectively, an improvement of  $54\%$  in TS and  $35\%$  in YM over the neat polyimide film  $(\mathrm{TS} = 98\mathrm{MPa};\mathrm{YM} = 2492\mathrm{MPa})$ . These MWCNT-reinforced composites show remarkable improvement in terms of thermal stability as compared to that for pure polyimide film. The electrical conductivity of  $5\mathrm{wt}\%$  acid modified MWCNTs/polyimide nanocomposites improved to  $0.94~\mathrm{S~cm^{-1}}$ $(6.67\times 10^{-18}\mathrm{S~cm^{-1}}$  for pure polyimide) the maximum achieved so far for MWCNT-polyimide composites.
+14: 
+15: Keywords Multiwalled carbon nanotubes  $\cdot$  Polyimide  $\cdot$  Nanocomposites  $\cdot$  Electrical properties  $\cdot$  Mechanical properties

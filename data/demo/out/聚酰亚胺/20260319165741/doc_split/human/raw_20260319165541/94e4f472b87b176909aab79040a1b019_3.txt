@@ -1,0 +1,91 @@
+source_file: High performance polyimide films containing benzimidazole moieties for thin film solar cells.md
+doc_id: 94e4f472b87b176909aab79040a1b019
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3 Results and discussion
+line_span: [55, 131]
+char_span: [10646, 26624]
+line_count: 75
+effective_body_non_empty_lines: 32
+
+lines:
+--- chunk (b0004: 3 Results and discussion) ---
+55: # 3 Results and discussion
+56: 
+57: # 3.1 Preparation of PI films
+58: 
+59: Table 2 showed the effects of the heating rate and imidization procedure on the properties of the BPDA/PPD-DATFPBI film, respectively. The experimental results showed that the CTE, the modulus and elongation at break increased gradually with the increase of heating rate, as well as the CTE with more heating steps, while the CTE slightly decreased with the increase of heating step process, which suggested that thermal imidization parameters were crucial for not only the completeness of the reaction, but also the mechanical properties and the CTE of the film.
+60: 
+61: Compared with thermoplastic polyimides, non-thermoplastic polyimides such as BPDA/PPD and BPDA/PPD-DATFPBI, the backbone of which is rigid and the molecular chain is not sufficiently moved during thermal imidization, are found that their physical properties strongly depend on the thermal imidization conditions (32). That is, the more rigid polyimide structure is, the more strongly physical properties are dependent on the preparation conditions, such as one-step or multi-step heat treatment, heating rate and final heat treatment temperature, etc. (32,33). In particular, we have studied the influence of multi-step heat treatment and heating rate on the thermal expansion coefficient of the films. Generally, for a PI film with rod-like BPPD/PPD or BPPD/PPD-DATFPBI, the more thermal imidization steps give the higher molecular orientation, and the lower CTE and higher modulus (32,34-36). Whereas the higher modulus and CTE were obtained with the heating rate increased. The former was attributed to the higher molecular chain orientation in the rapid heating process, while the latter depends not only on the molecular chain orientation, but also on relaxation. In the rapid heating process, the molecular chain can be rapidly oriented, but the relaxation is insufficient. The combined action of the two factors gave the higher CTE. Additionally, the final heat treatment temperature should be higher than the glass transition temperature  $\mathrm{T_g}$  of the film (37). According to the experimental results on the characteristics of BPDA/PPD-DATFPBI type polyimide film, the heat treatment process of preparing BPDA/PPD-DATFPBI polyimide followed the above four-step have been optimized.
+62: 
+63: Table 2: Effect of heating rate on the properties of  ${\mathrm{{PIPBI}}}_{\mathrm{d}}$  film.  
+64: 
+65: <table><tr><td>Heating rate*</td><td>Tensile modulus (GPa)</td><td>CTE (ppm/°C)</td><td>Elongation (%)</td></tr><tr><td>A</td><td>5.7 ± 0.15</td><td>17.7 ± 0.1</td><td>7.4 ± 0.1</td></tr><tr><td>B</td><td>6.0 ± 0.17</td><td>17.9 ± 0.12</td><td>7.8 ± 0.15</td></tr><tr><td>C</td><td>6.8 ± 0.2</td><td>18.3 ± 0.18</td><td>8.4 ± 0.2</td></tr><tr><td>D</td><td>5.7 ± 0.15</td><td>17.7 ± 0.1</td><td>7.4 ± 0.1</td></tr><tr><td>E</td><td>6.1 ± 0.16</td><td>17.4 ± 0.1</td><td>7.7 ± 0.12</td></tr><tr><td>F</td><td>7.0 ± 0.2</td><td>16.8 ± 0.07</td><td>8.1 ± 0.15</td></tr></table>
+66: 
+67: *Heating rate A: heated to  $395^{\circ} \mathrm{C}$  at  $2.5^{\circ} \mathrm{C} / \mathrm{min}$  from  $65^{\circ} \mathrm{C}$ , and held at  $395^{\circ} \mathrm{C}$  for 48 min. Heating rate B: heated to  $395^{\circ} \mathrm{C}$  at  $5^{\circ} \mathrm{C} / \mathrm{min}$  from  $65^{\circ} \mathrm{C}$ , and held at  $395^{\circ} \mathrm{C}$  for 84 min. Heating rate C: heated to  $395^{\circ} \mathrm{C}$  at  $10^{\circ} \mathrm{C} / \mathrm{min}$  from  $65^{\circ} \mathrm{C}$ , and held at  $395^{\circ} \mathrm{C}$  for 117 min. After imidization, all films were naturally cooled down to room temperature. Heating rate D: imidized by an one-step procedure – heated to  $395^{\circ} \mathrm{C}$  at  $2.5^{\circ} \mathrm{C} / \mathrm{min}$  from  $65^{\circ} \mathrm{C}$ , and held at  $395^{\circ} \mathrm{C}$  for 48 min. Heating rate E: imidized by a two-steps process – heated to  $200^{\circ} \mathrm{C}$  at  $2.5^{\circ} \mathrm{C} / \mathrm{min}$  from  $65^{\circ} \mathrm{C}$  and held at  $200^{\circ} \mathrm{C}$  for 36 min, then heated to  $395^{\circ} \mathrm{C}$  at  $2.5^{\circ} \mathrm{C} / \mathrm{min}$  and held at  $395^{\circ} \mathrm{C}$  for 12 min. Heating rate F: imidized by a four-steps process – heated to  $150^{\circ} \mathrm{C}$  at  $2.5^{\circ} \mathrm{C} / \mathrm{min}$  from  $65^{\circ} \mathrm{C}$  and held at  $150^{\circ} \mathrm{C}$  for 15 min, heated to  $250^{\circ} \mathrm{C}$  at  $2.5^{\circ} \mathrm{C} / \mathrm{min}$  and held at  $250^{\circ} \mathrm{C}$  for 20 min, heated to  $300^{\circ} \mathrm{C}$  at  $2.5^{\circ} \mathrm{C} / \mathrm{min}$  and held at  $300^{\circ} \mathrm{C}$  for 5 min, heated to  $395^{\circ} \mathrm{C}$  at  $2.5^{\circ} \mathrm{C} / \mathrm{min}$  and held at  $395^{\circ} \mathrm{C}$  for 8 min. After imidization, all films were naturally cooled down to room temperature.
+68: 
+69: # 3.2 FTIR spectra
+70: 
+71: The above  $\mathrm{PIPBI_a}$  and  $\mathrm{PIPBI_b}$  films were characterized by FTIR. As shown in Figure 1, the N-H stretching bands of the imidazole ring are observed at  $3200 - 3400~\mathrm{cm}^{-1}$ . The asymmetric C=O, symmetric C=O and the C=C/C=N stretching bands appear at 1780, 1718 and  $1625~\mathrm{cm}^{-1}$  for all the polyimides. The asymmetric C-F and symmetric C-F stretching bands appear at 1173 and  $1133~\mathrm{cm}^{-1}$  respectively. The absorption peak at  $1375~\mathrm{cm}^{-1}$  is usually considered as the characteristic of imide and evaluates as the criterion of imidization degree. From all the above, the complete imide cyclization is accomplished as described.
+72: 
+73: # 3.3 Thermal stability
+74: 
+75: The thermal stability of the hybrid films was evaluated from TGA curves (Figure 2 and Table 3). The  $\mathrm{PIPBI_a}$  film without DATFPBI gave the initial decomposition temperature  $(\mathrm{T_d})$  of  $501^{\circ}\mathrm{C}$  under a dynamic nitrogen environment. It was found that with the DATFPBI composition increasing, the thermal stability of the films increased obviously, with  $\mathrm{T_d}$  at  $509^{\circ}\mathrm{C}$ ,  $516^{\circ}\mathrm{C}$ ,  $524^{\circ}\mathrm{C}$  for DATFPBI content of  $5\%$ ,  $10\%$ ,  $15\%$ , respectively. Further increase of the DATFPBI content
+76: 
+77: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+78: Figure 1: FTIR spectra of  $\mathsf{PIPBI}_a$  and  $\mathsf{PIPBI}_d$  films.
+79: 
+80: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+81: Figure 2: TGA curves of  $\mathsf{PIPBI}_{\mathrm{a}}\sim \mathsf{PIPBI}_{\mathrm{e}}$  films.
+82: 
+83: Table 3: Thermal and mechanical properties of PIPBI films.  
+84: 
+85: <table><tr><td>Entry</td><td>Tg(°C)</td><td>Td(°C)</td><td>Tensile strength (MPa)</td><td>Tensile modulus (GPa)</td><td>Elongation at break (%)</td></tr><tr><td>PIPBIa</td><td>345</td><td>501</td><td>224 ± 2</td><td>4.7 ± 0.05</td><td>4.5 ± 0.05</td></tr><tr><td>PIPBIb</td><td>367</td><td>509</td><td>230 ± 2.2</td><td>5.2 ± 0.07</td><td>4.9 ± 0.1</td></tr><tr><td>PIPBIc</td><td>376</td><td>516</td><td>257 ± 2.5</td><td>5.4 ± 0.07</td><td>7.5 ± 0.15</td></tr><tr><td>PIPBId</td><td>386</td><td>524</td><td>266 ± 2.8</td><td>6.8 ± 0.15</td><td>7.7 ± 0.2</td></tr><tr><td>PIPBIe</td><td>392</td><td>518</td><td>231 ± 2.4</td><td>6.0 ± 0.1</td><td>7.1 ± 0.13</td></tr></table>
+86: 
+87: to  $20\%$ , a slight decrease of the  $\mathrm{T_d}$  at  $518^{\circ}C$  was observed, indicating that  $\mathrm{T_d}$  of the PI film did not show a single trend. The decrease of  $\mathrm{T_d}$  when the  $\mathrm{PIPBI_e}$  film with the ratio of DATFPBI content higher than  $15\%$  indicated that other factors rather than the composition of the polymer
+88: 
+89: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+90: Figure 3: DMA curves of  $\mathsf{PIPBI}_{\mathrm{a}}\sim \mathsf{PIPBI}_{\mathrm{e}}$  films.
+91: 
+92: affected the thermal stability of copolymer. The decreased  $\mathrm{T_d}$  of the may be caused by the copolymerization reaction that destroyed the regularity of the molecular chain.
+93: 
+94: # 3.4 Dynamic mechanical behavior
+95: 
+96: The DMA curves of the films are shown in Figure 3. The right vertical axis of Figure 3 indicates the tan  $\delta$ -temperature correlation curve of the film. The peak position indicates the glass transition temperature  $(T_{\mathrm{g}})$  of the film.  $T_{\mathrm{g}}$  of the PIPBI with different DATFPBI contents of  $0\%$ ,  $5\%$ ,  $10\%$ ,  $15\%$ ,  $20\%$  was measured to be  $345^{\circ}\mathrm{C}$ ,  $367^{\circ}\mathrm{C}$ ,  $376^{\circ}\mathrm{C}$ ,  $386^{\circ}\mathrm{C}$ ,  $392^{\circ}\mathrm{C}$ , respectively. A clear trend of  $T_{\mathrm{g}}$  increase with the addition of more DATFPBI content when the DATFPBI content was below  $20\%$ . This could be attributed to the limited molecular chain movement of the polyimide with additional rigid DATFPBI, resulted in an increase  $T_{\mathrm{g}}$  of about  $22 - 50^{\circ}\mathrm{C}$ .
+97: 
+98: It was also found the storage modulus  $(\mathrm{E}^{\prime})$  of the  $\mathrm{PIPBI_a}\sim \mathrm{PIPBI_d}$  films increased while the DATFPBI content increased in the range of  $100 - 450^{\circ}\mathrm{C}$  (Figure 3). The  $\mathrm{E}^{\prime}$  values of BPPD/PPD-DATFPBI films decreased slightly in the temperature range of  $100 - 280^{\circ}\mathrm{C}$  and drops dramatically at temperatures higher than  $280^{\circ}\mathrm{C}$ . Especially, the  $\mathrm{E}^{\prime}$  value of the  $\mathrm{PIPBI_d}$  film increased remarkably, which was much higher than those of the  $\mathrm{PIPBI_a}\sim \mathrm{PIPBI_c}$  films that may be benefitted from the introduction of the rigid DATFPBI group into the polymer molecular chains. However, the  $\mathrm{E}^{\prime}$  value of the  $\mathrm{PIPBI_e}$  film was lower than that of the  $\mathrm{PIPBI_a}$ , the main reason was possibly related to the irregularity of DATFPBI molecular chain and the poor reactive activity of the DATFPBI gave the low molecular weight of the PI precursor. The PIPBI film was found to be brittle when the DATFPBI content is too high. It should be mentioned that the  $\mathrm{PIPBI_d}$  film with  $15\%$  of DATFPBI still possessed
+99: 
+100: high storage modulus of 1.48 GPa at about  $450^{\circ}\mathrm{C}$ , the good dynamic mechanical property is important for its applications in a high-temperature range.
+101: 
+102: # 3.5 Mechanical property
+103: 
+104: As shown in Table 3, the tensile modulus and tensile strength of the polymer film were observed to be strongly related to the proportion of the incorporated DATFPBI. For example, the modulus and strength of  $\mathrm{PIPBI_a}$  (without DATFPBI) were  $4.7\mathrm{GPa}$  and  $224\mathrm{MPa}$ , respectively. When the content of DATFPBI was  $5\%$ , the modulus and strength of the copolymer film were slowly increased to  $5.2\mathrm{GPa}$  and  $230\mathrm{MPa}$ , respectively. When the content of DATFPBI was further increased to  $10\%$ , the strength of the copolymer film dramatically increased to  $257\mathrm{MPa}$ , which was  $14.7\%$  higher than that of  $\mathrm{PIPBI_a}$ . When the content of DATFPBI was up to  $15\%$ , the strength of the copolymerization film reached  $266\mathrm{MPa}$ . The modulus of the copolymer film  $\mathrm{PIPBI_d}$  was increased to  $6.8\mathrm{GPa}$ , which was  $44.7\%$  higher than that of  $\mathrm{PIPBI_a}$ . The increased tensile modulus and strength reflected the reinforcing effect of the rigid structures in the copolymer, which was widely studied in polymer modification. In our experiment, when the content ratio of DATFPBI was further increased, the modulus and strength of the copolymer film were dropped to  $6.0\mathrm{GPa}$  and  $231\mathrm{MPa}$ , respectively it was because the reactivity of DATFPBI is lower than that of p-PPD. After the content of the DATFPBI exceeded  $15\%$ , the molecular weight of the polymer began to reduce, and the film formation ability decreased, resulted in a decreased mechanical properties of the film (38,39). The stress-strain curves of  $\mathrm{PIPBIa} \sim \mathrm{PIPBIe}$  films shown in Figure 4, indicate that these PIs are amorphous polymers. The stress-strain curves indicate these three polymers are hard and flexible materials. The tensile results show that the rigid structural DATFPBI could improve the rigidity and regularity of the polymer chains. In brief, the PIPBI films exhibit outstanding mechanical properties due to the rigid structure and stronger molecular interchain interaction.
+105: 
+106: # 3.6 Moisture absorption
+107: 
+108: The PIPBI moisture absorption rates were almost constant from  $1.4\%$  to  $1.43\%$  even the DATFPBI content increases from  $0\%$  to  $20\%$ , which was closely related to the structure of DATFPBI. It is known that the water uptake of poly(imide-benzimidazole) is up to  $2.1\%$  because the molecular chain of the polymer contains a hydrophilic
+109: 
+110: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+111: Figure 4: Stress-strain curves of  $\mathsf{PIPBI}_a\sim \mathsf{PIPBI}_e$  films.
+112: 
+113: amino group (40). Theoretically, the copolymers contain DATFPBI with a hydrophilic amino group should have a higher moisture absorption ratio than that  $(1.4\%)$  of homopolymer PAPBI. However, the emoisture absorption rate of the obtained PIPBI film almost maintained at about  $1.4\%$ , which can be explained by the fact that the hydrophobic trifluromethyl group in DATFPBI reduced the water uptake. Consequently, the interactions between the hydrophilic group and hydrophobic group made the hygroscopicity of the PI films almost constant.
+114: 
+115: # 3.7 Dimensional stability
+116: 
+117: Excellent dimensional stability over a wide temperature range is critical for thin film materials application in the microelectronics and aerospace industry. In general, the addition of an appropriate amount of a rigid third component for copolymerization can improve the dimensional stability of the material. As can be seen from Figure 5, the CTE of the polyimide film PIPBI gradually decreased from  $20.2 \times 10^{-6} \mathrm{~m} / {}^{\circ} \mathrm{C}$  to  $15.3 \times 10^{-6} \mathrm{~m} / {}^{\circ} \mathrm{C}$  with the DATFPBI content increasing. It can be explained by several reasons. Both the increased rigidity and the linear structure can be helpful in lowering the CTE. Furthermore, with the increase of the content of DATFPBI in the copolymer structure, the single phenylene group brought by  $p$ -PPD is reduced gradually, also resulting in a more rigid structure and lower CTE. The reduced CTE may be also related to the molecular chain orientation during the thermal imidization process. For higher proportion of the rod-like DATFPBI groups, the degree of orientation is believed to be higher in the copolymer, which also helps to lower the CTE.
+118: 
+119: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+120: Figure 5: Relationship between CTE of PIPBI films and DATFPBI content.
+121: 
+122: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+123: Figure 6: Effect of DATFPBI content on permittivity of the PIPBI films.
+124: 
+125: # 3.8 Electrical property
+126: 
+127: It can be seen from Figure 6 that the dielectric constant of the film decreased rapidly as the DATFPBI content increased. At a frequency of  $10^{3}\mathrm{Hz}$  initially, the film with  $10\%$  DATFPBI had a dielectric constant of 3.32, which was  $5.4\%$  lower than that of the DATFPBI-free polyimide film (3.51). When the DATFPBI content increased to  $15\%$  and  $20\%$ , the dielectric constants of the films were 3.24 and 3.21, respectively. It also could be noted that when the DATFPBI content was less than  $15\%$ , the dielectric constant of the film decreased rapidly with the frequency rose up. While the DATFPBI content was higher than  $15\%$ , the downward trend was not as sharp as the ratio below  $15\%$ . This may be attributed to the introduction of the rigid DATFPBI ring with a trifluoromethyl group. The
+128: 
+129: interactions between the rigid benzimidazole and fluoride substituted group made the polyimide film material more difficult to be polarized.

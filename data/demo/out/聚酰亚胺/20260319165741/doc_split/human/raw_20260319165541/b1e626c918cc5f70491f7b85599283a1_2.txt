@@ -1,0 +1,85 @@
+source_file: Physical and Gas Transport Properties of Asymmetric Hyperbranched Polyimide-Silica Hybrid Membranes.md
+doc_id: b1e626c918cc5f70491f7b85599283a1
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. EXPERIMENTAL
+line_span: [33, 103]
+char_span: [6556, 13210]
+line_count: 69
+effective_body_non_empty_lines: 35
+
+lines:
+--- chunk (b0003: 2. EXPERIMENTAL) ---
+33: # 2. EXPERIMENTAL
+34: 
+35: # 2.1.Materials
+36: 
+37: TAPOB was synthesized by the reduction of 1,3,5-tris(4-nitrophenoxy)benzene with palladium carbon and hydrazine in methanol[27]. Triamine monomer, TADE, and dianhydride monomer, 6FDA, were kindly supplied from Wakayama Seika Kogyo Co. (Wakayama, Japan) and Daikin Industries (Osaka, Japan), respectively. TMOS was purchased from AZmax, Co., Ltd (Tokyo, Japan). 3-Aminopropyltrimethoxysilane (APTrMOS) and 3-(triethoxysilyl)propyl succinic anhydride (TEOSPSA) were purchased from Sigma-Aldrich Co. LLC. (St. Louis, MO, USA) and Gelest Inc. (Morrisville, PA, USA), respectively. N, N-Dimethylacetamide (DMAc) used as a solvent was purchased from Nacalai Tesque (Kyoto, Japan). The chemical structures of the monomers, silane coupling agents and silicon alkoxide are shown in Figure 1.
+38: 
+39: # 2.2. Polymerization
+40: 
+41: # 2.2.1. Dianhydride-Terminated Hyperbranched Polyamic Acids (DA-HBPAA)
+42: 
+43: Three mmol of 6FDA was dissolved in  $30 - 40\mathrm{ml}$  of DMAc in a  $100\mathrm{-ml}$  three-neck flask under  $\mathsf{N}_2$  flow at room temperature. 1.6 mmol of triamine (TADE or TAPOB) in  $20\mathrm{ml}$  of DMAc was then added dropwise through a syringe with stirring. The monomer content was controlled to ca.  $3.5\mathrm{wt}\%$  . After stirring for  $3\mathrm{h}$  0.4 mmol of APTrMOS as a coupling agent was added into the reaction mixture with further stirring for  $1\textrm{h}$  to afford
+44: 
+45: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+46: 
+47: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+48: 6FDA
+49: 
+50: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+51: APTrMOS
+52: 
+53: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+54: TADE
+55: 
+56: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+57: Figure 1: Chemical structures of monomers, silane coupling agents, and silicon alkoxide.  
+58: TMOS
+59: 
+60: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+61: TEOSPSA
+62: 
+63: asymmetric and symmetric DA-HBPAA. The degree of terminal modification was 1/3.
+64: 
+65: # 2.2.2. Amine-Terminated Hyperbranched Polyamic Acids (AM-HBPAA)
+66: 
+67: Three mmol of triamine (TADE or TAPOB) was dissolved in 30-34 ml of DMAc in a 100-ml three-neck flask under  $\mathsf{N}_2$  flow at room temperature. 3.0 mmol of 6FDA in 28-40 ml of DMAc was then added dropwise through a syringe with stirring. The monomer content was controlled to ca. 3.5 wt%. After stirring for 3 h, 1.0 mmol of TEOSPSA as a coupling agent was added into the reaction mixture with further stirring for 1 h to afford asymmetric and symmetric AM-HBPAA. The degree of terminal modification was 1/3.
+68: 
+69: # 2.3. Membrane Formation
+70: 
+71: The asymmetric and symmetric HBPI-silica hybrid membranes were prepared by the reaction of asymmetric or symmetric HBPAAs with silicon alkoxide, TMOS, via sol-gel reaction, and then followed by thermal imidization. Appropriate amounts of TMOS and deionized water (TMOS: deionized water = 1 : 6 as a molar ratio) were added into the DMAc solution of the asymmetric or symmetric HBPAAs. The mixed solutions were stirred for  $24\mathrm{h}$  and then cast on PET films and dried at  $85^{\circ}\mathrm{C}$  for  $3\mathrm{h}$ . These prepared membranes were peeled off and subsequently imidized and hybridized at  $100^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ ,  $200^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ , and  $300^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  in a heating oven under  $\mathsf{N}_2$  flow. The average thickness of the asymmetric or symmetric HBPI-silica hybrid membranes was about  $30~\mu \mathrm{m}$ .
+72: 
+73: # 2.4. Measurements
+74: 
+75: The inherent viscosity  $(\eta_{\mathrm{inh}})$  of HBPAAs was measured in a DMAc solution with a  $0.5~\mathrm{g / dL}$  concentration at  $25^{\circ}C$  with an Ubbelohde viscometer. Attenuated total reflection Fourier transform infrared (ATR FT-IR) spectra were recorded on a JASCO FT/IR-4100 (Tokyo, Japan) at a wavenumber range of  $550 - 4000~\mathrm{cm^{-1}}$  and a resolution of  $1~\mathrm{cm^{-1}}$ . Optical transmittances (ultraviolet-visible spectroscopy) were measured with a JASCO V-530 UV/vis spectrometer at wavelengths of  $200 - 800~\mathrm{nm}$ . Thermal mechanical analysis (TMA) measurements were carried out using a Seiko Instruments TMA/SS6100 (Chiba, Japan) at a heating rate of  $5^{\circ}C / \min$  under  $\mathsf{N}_2$  flow. Dynamic mechanical analysis (DMA) measurements were performed with a Seiko Instruments DMA6100 at a heating rate of  $5^{\circ}C / \min$  under  $\mathsf{N}_2$  flow; the load frequency was  $1\mathrm{Hz}$ . Thermogravimetric-differential
+76: 
+77: thermal analysis (TG-DTA) experiments were performed with a Seiko Instruments TG/DTA5200 at a heating rate of  $10^{\circ}\mathrm{C / min}$  under air flow. The densities (ps) of the HBPIs were measured by a floating method with bromoform and 2-propanol at  $25^{\circ}\mathrm{C}$ . According to the group contribution method, the FFV of HBPIs can be estimated by the following equation [28]:
+78: 
+79: $$
+80: \mathrm {F F V} = \frac {\mathrm {V} _ {\mathrm {s p}} - 1 . 3 \mathrm {V} _ {\mathrm {w}}}{\mathrm {V} _ {\mathrm {s p}}} \tag {1}
+81: $$
+82: 
+83: where  $V_{\mathrm{sp}}$  ( $\mathrm{cm}^3/\mathrm{mol}$ ) is the specific molar volume and  $V_{\mathrm{w}}$  ( $\mathrm{cm}^3/\mathrm{mol}$ ) is the van der Waals volume of the repeating unit.  $\mathrm{CO}_2$ ,  $\mathrm{O}_2$ ,  $\mathrm{N}_2$ , and  $\mathrm{CH}_4$  permeation measurements were taken with a constant volume/variable pressure apparatus under 76 cmHg at 25°C. The permeability coefficient, P [cm $^3$ (STP)cm/cm $^2$  s cmHg], was determined by the equation [29]:
+84: 
+85: $$
+86: P = \frac {2 2 4 1 4}{A} \frac {L}{p} \frac {V}{R T} \frac {\mathrm {d p}}{\mathrm {d t}} \tag {2}
+87: $$
+88: 
+89: where  $A$  is the membrane area ( $\text{cm}^2$ ),  $L$  is the membrane thickness ( $\text{cm}$ ),  $p$  is the upstream pressure ( $\text{cmHg}$ ),  $V$  is the downstream volume ( $\text{cm}^3$ ),  $R$  is the universal gas constant ( $6236.56 \text{ cm}^3 \text{ cmHg/mol} \, \text{K}$ ),  $T$  is the absolute temperature ( $K$ ), and  $dp/dt$  is the permeation rate ( $\text{cmHg/s}$ ). The gas permeability coefficient can be explained on the basis of the solution-diffusion mechanism, which is represented by the equation [30,31]:
+90: 
+91: $$
+92: P = D \times S \tag {3}
+93: $$
+94: 
+95: where  $D(\mathrm{cm}^2/\mathrm{s})$  is the diffusion coefficient and  $S[\mathrm{cm}^3(\mathrm{STP})/\mathrm{cm}^3_{\text{polym}} \mathrm{cmHg}]$  is the solubility coefficient. The diffusion coefficient was calculated by the time-lag method represented by the equation [32]:
+96: 
+97: $$
+98: D = \frac {L ^ {2}}{6 \theta} \tag {4}
+99: $$
+100: 
+101: where  $\theta$  (s) is the time-lag.

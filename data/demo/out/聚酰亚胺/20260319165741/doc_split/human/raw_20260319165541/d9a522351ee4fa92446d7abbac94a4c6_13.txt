@@ -1,0 +1,19 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 13
+block_id: b0014
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: ORCID iD
+line_span: [171, 175]
+char_span: [20465, 20537]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0014: ORCID iD) ---
+171: # ORCID iD
+172: 
+173: Liang Wang  $\oplus$  http://orcid.org/0000-0002-1650-2668

@@ -1,0 +1,28 @@
+source_file: Fiber Reinforced Polyimide Aerogel Composites with High Mechanical Strength for High Temperature Insulation.md
+doc_id: 1871f3aecf6ef7f359f2feb0426ee386
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Fiber Reinforced Polyimide Aerogel Composites with High Mechanical Strength for High Temperature Insulation
+line_span: [1, 14]
+char_span: [0, 1836]
+line_count: 12
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0001: Fiber Reinforced Polyimide Aerogel Composites with High Mechanical Strength for High Temperature Insulation) ---
+1: [MINERU_DISCARDED_META]
+2: FULL PAPER
+3: Macromolecular Materials and Engineering www.mme-journal.de
+4: Nanostructure
+5: Macromol. Mater. Eng. 2019, 304, 1800676
+6: [/MINERU_DISCARDED_META]
+7: 
+8: # Fiber Reinforced Polyimide Aerogel Composites with High Mechanical Strength for High Temperature Insulation
+9: 
+10: Zhaoxian Zhu, Hongjun Yao, Fei Wang, Jinxin Dong, Kede Wu, Junxiang Cao, and Donghui Long*
+11: 
+12: Glass fiber/polyimide aerogel composites are prepared by adding glass fiber mat to a polyimide sol derived from diamine,  $4,4^{\prime}$ -oxydianiline, p-phenylene diamine, and dianhydride,  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride. The fiber felt acts as a skeleton for support and shaping, reduces aerogel shrinkage during the preparation process, and improves the mechanical strength and thermal stability of the composite materials. These composites possess a mesoporous structure with densities as low as  $0.143 - 0.177\mathrm{gcm}^{-3}$ , with the glass fiber functioning to improve the overall mechanical properties of the polyimide aerogel, which results in its Young's modulus increasing from 42.7 to  $113.5\mathrm{MPa}$ . These composites are found to retain their structure after heating at  $500^{\circ}\mathrm{C}$ , in contrast to pure aerogels which decompose into shrunken ball-like structures. These composites maintain their thermal stability in air and  $\mathbf{N}_2$  atmospheres, exhibiting a low thermal conductivity range of 0.023 to  $0.029\mathrm{Wm}^{-1}\mathrm{K}^{-1}$  at room temperature and 0.057 to 0.082  $\mathrm{Wm}^{-1}\mathrm{K}^{-1}$  at  $500^{\circ}\mathrm{C}$ . The high mechanical strengths, excellent thermal stabilities, and low thermal conductivities of these aerogel composites should ensure that they are potentially useful materials for insulation applications at high temperature.

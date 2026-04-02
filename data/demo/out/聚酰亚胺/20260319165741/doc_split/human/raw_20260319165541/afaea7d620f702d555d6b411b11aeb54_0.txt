@@ -1,0 +1,22 @@
+source_file: Development and Morphological Characterization of Novel PolyimideMetal nano Hybrid Materials.md
+doc_id: afaea7d620f702d555d6b411b11aeb54
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Development and Morphological Characterization of Novel Polyimide/Metal nano Hybrid Materials
+line_span: [1, 8]
+char_span: [0, 249]
+line_count: 6
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0001: Development and Morphological Characterization of Novel Polyimide/Metal nano Hybrid Materials) ---
+1: [MINERU_DISCARDED_META]
+2: MATERIALALE PLASTICE https://revmaterialialeplastice.ro https://doi.org/10.37358/Mat.Plast.1964
+3: CC BY
+4: [/MINERU_DISCARDED_META]
+5: 
+6: # Development and Morphological Characterization of Novel Polyimide/Metal nano Hybrid Materials

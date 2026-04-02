@@ -1,0 +1,88 @@
+source_file: A Rigid and Planar Aza-Based Ternary Anhydride for the Preparation of Cross-Linked Polyimide Membrane Displayi.md
+doc_id: fc1d46c21270bb01aab3338147d76c95
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [119, 192]
+char_span: [17296, 33272]
+line_count: 72
+effective_body_non_empty_lines: 36
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+119: # 3. Results and Discussion
+120: 
+121: # 3.1. Characterization of Monomer and Intermediate
+122: 
+123: The chemical structure of intermediates was confirmed using  ${}^{1}\mathrm{H}$  NMR and FTIR. Because there was no hydrogen in the HAT-T structure, time-of-flight mass spectrometry was used to confirm the structure.
+124: 
+125: Figure 1 shows the FTIR spectra of intermediates. As seen in Figure 1, different from HAT-CN, HAAHAT exhibited the stretching vibrations of  $\mathrm{C = O}$  and N-H at  $1720~\mathrm{cm^{-1}}$  and  $3500 - 3100~\mathrm{cm}^{-1}$ , respectively, and the peak of  $\mathrm{C\equiv N}$  at  $2240~\mathrm{cm}^{-1}$  disappeared, indicating the successfully obtained amide structure. HCBHAT exhibited the stretching vibration of O-H at  $3300 - 2500~\mathrm{cm}^{-1}$ ; the peak of N-H at  $3500 - 3100~\mathrm{cm}^{-1}$  disappeared, indicating that the amide structure reacted. The stretching vibration of O-H at  $3300 - 2500~\mathrm{cm}^{-1}$  was obviously weakened, indicating the successfully obtained HAT-T.
+126: 
+127: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+128: Figure 1. FTIR spectra of HAT-CN, HAAHAT, HACBHAT and HAT-T.
+129: 
+130: As seen in Figure 2, peaks (at 8.47 ppm and 8.04 ppm) are assigned to  $\mathrm{NH}_2$  of 2, which is produced by HAT-CN reacting to form 2. Figure 3 shows a peak (at 14.72 ppm) assigned to the hydroxyl structure formed.
+131: 
+132: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+133: Figure 2.  ${}^{1}\mathrm{H}$  NMR spectra of HAAHAT.
+134: 
+135: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+136: Figure 3.  ${}^{1}\mathrm{H}$  NMR spectra of HCBHAT.
+137: 
+138: The molecular weights of HAT-T were measured using MS. The theoretical calculated value of HAT-T is 444.27, and the experimental test value is 442.1 (Figure 4), which proves that HAT-T is successfully obtained.
+139: 
+140: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+141: Figure 4. MS of HAT-T.
+142: 
+143: # 3.2. Characterization of Hexazatriphenylene-Containing Polyimide Films
+144: 
+145: Figure 5 shows the typical FTIR curves of the PIs. The characteristic bands of PIs were found at  $725~\mathrm{cm}^{-1}$  ( $O = C - N - C = O$  imide ring band deformation),  $1720~\mathrm{cm}^{-1}$  (asymmetric  $C = O$  stretching vibration) and  $1780~\mathrm{cm}^{-1}$  (symmetric  $C = O$  stretching vibration) in all spectra. In addition, the stretching vibration of  $\mathrm{N - H}$  at  $3220 - 3450~\mathrm{cm}^{-1}$ , the stretching vibration of  $\mathrm{CO - NH}$  at  $1660~\mathrm{cm}^{-1}$  and the stretching vibration of  $\mathrm{C - NH}$  at  $1550~\mathrm{cm}^{-1}$  disappeared in the PIs' infrared spectra, indicating that the precursor polyamide acid has been successfully transformed into the expected PI.
+146: 
+147: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+148: Figure 5. FTIR spectra of the PIs.
+149: 
+150: Regardless of the addition of HAT-T or not, the PI prepared by chemical imidation in this study is soluble in DMF, so the molecular weight can be determined using GPC. The number-average mass  $(M_{\mathrm{n}})$ , weight-average mass  $(M_{\mathrm{w}})$  and polymer dispersity index (PDI) of PIs were tested using GPC with polystyrene as standard material. As seen in Table 1, the PIs obtained in this study have high molecular weight. The PDI ranges between 1.17 and 1.54. Compared with PIs and Plc, Plb has a higher molecular weight. When HAT was added to the preparation of PI, the molecular weight of the obtained polymers remained large. The  $M_{\mathrm{w}}$  of Plb-t was the highest of the PIs at  $16.60 \times 10^{6}$ .
+151: 
+152: Table 1. Molecular weight, molecular weight distribution and the surface atomic concentration of PIA-c-t.  
+153: 
+154: <table><tr><td rowspan="2">PIs</td><td rowspan="2">Mn×106</td><td rowspan="2">Mw×106</td><td rowspan="2">PDI</td><td colspan="3">Atomic Concentration (%)</td><td>C/F</td><td>N/F</td><td>O/F</td><td>S/F</td></tr><tr><td>C</td><td>N</td><td>O</td><td></td><td></td><td></td><td></td></tr><tr><td>PIa(6FDA/SDA)</td><td>0.79</td><td>1.21</td><td>1.53</td><td>70.27</td><td>4.68</td><td>11.15</td><td>6.32</td><td>0.42</td><td>1.00</td><td>0.22</td></tr><tr><td>PIa-t(6FDA/SDA/HAT-T)</td><td>0.87</td><td>1.03</td><td>1.18</td><td>71.14</td><td>4.81</td><td>11.83</td><td>6.48</td><td>0.44</td><td>1.08</td><td>0.24</td></tr><tr><td>PIb(6FDA/TFDB)</td><td>4.52</td><td>6.97</td><td>1.54</td><td>64.55</td><td>4.65</td><td>13.13</td><td>3.81</td><td>0.27</td><td>0.77</td><td>-</td></tr><tr><td>PIb-t(6FDA/TFDB/HAT-T)</td><td>11.79</td><td>16.60</td><td>1.41</td><td>66.91</td><td>4.71</td><td>12.79</td><td>4.28</td><td>0.30</td><td>0.82</td><td>-</td></tr><tr><td>PIc(6FDA/PABZ)</td><td>1.84</td><td>2.16</td><td>1.17</td><td>65.38</td><td>7.79</td><td>12.45</td><td>6.30</td><td>0.75</td><td>1.20</td><td>-</td></tr><tr><td>PIc-t(6FDA/PABZ/HAT-T)</td><td>0.93</td><td>1.18</td><td>1.27</td><td>65.73</td><td>8.07</td><td>12.92</td><td>6.38</td><td>0.78</td><td>1.25</td><td>-</td></tr></table>
+155: 
+156: As the number of C-F per repeating polymer chain remains the same, i.e., the number of fluorine atoms remains the same, the atomic concentrations of other elements are normalized by that of fluorine. Table 1 shows the results of XPS surface analysis of PIA-c-t
+157: 
+158: films. As the HAT-T is introduced into the PIA-c films, the normalized concentrations of C, N and O increase because PIA-c-t films have higher C, N and O contents than PIA-c films.
+159: 
+160: Figure 6 shows the XRD results for different PI films. The most obvious XRD peak in the spectrum of amorphous polymer is usually used to estimate the average spacing distance ( $d$ -spacing) in polymer chains. Their corresponding  $d$ -spacing and  $2\theta$  values are listed in Table 2. It can be observed that all membranes exhibit two peaks (A and B), which are located at  $2\theta = 16^{\circ} \pm 1^{\circ}$  and  $22.6^{\circ} \pm 0.2^{\circ}$ . The  $d$ -spacing relative to peak B ( $d$ -B) of all PIs is very similar. The changes in the  $d$ -B value are within  $\pm 0.1 \AA$  from  $3.90 \AA$ . Typical interchain distances of aromatic PIs range from 5.33 to  $5.99 \AA$  [32]. Peak A corresponds to the average interchain packing, and wide peaks indicate ordered stacking of PI molecular chains. Peak B can be assigned to the  $\pi-\pi$  stacking of the imide and phenyl aromatic heterocyclic rings in the polymer backbones, and the spikes indicate that some plane-rigid aromatic heterocycles in the PI skeleton are arranged in parallel [33-35]. Regardless of whether the hexaazatriphenylene structure was added to the PI, the chemical structures of imides and phenyl rings do not change. Therefore, the  $d$ -B value relative to the  $\pi-\pi$  stacking between them stays more or less the same. When hexaazatriphenylene was introduced into PI, the  $d$ -A value decreased compared with that without hexaazatriphenylene. In the PI films prepared in this study, the minimum  $d$ -A value of Plc-t is  $5.43 \AA$ . After the introduction of hexaazatriphenylene into the PI, the polymer chains are connected by a planar azabased group, which significantly decreases the chain freedom. This trend is in qualitative agreement with the gas permeation properties of the polymers, as discussed below.
+161: 
+162: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+163: Figure 6. XRD patterns of PI membranes.
+164: 
+165: Table 2. The XRD packing parameters of polyimides with different structures prepared in this study.  
+166: 
+167: <table><tr><td rowspan="2">PI Films</td><td colspan="2">2θ (°)</td><td colspan="2">d (Å)</td></tr><tr><td>A</td><td>B</td><td>A</td><td>B</td></tr><tr><td>PIa(6FDA/SDA)</td><td>15.856</td><td>22.532</td><td>5.63</td><td>3.91</td></tr><tr><td>PIa-t(6FDA/SDA/HAT-T)</td><td>16.019</td><td>22.547</td><td>5.55</td><td>3.94</td></tr><tr><td>PIb(6FDA/TFDB)</td><td>16.181</td><td>22.586</td><td>5.62</td><td>3.92</td></tr><tr><td>PIb-t(6FDA/TFDB/HAT-T)</td><td>16.398</td><td>22.640</td><td>5.45</td><td>3.93</td></tr><tr><td>PIc(6FDA/PABZ)</td><td>16.453</td><td>22.695</td><td>5.49</td><td>3.90</td></tr><tr><td>PIc-t(6FDA/PABZ/HAT-T)</td><td>16.516</td><td>22.749</td><td>5.43</td><td>3.99</td></tr></table>
+168: 
+169: After adding HAT-T to the monomer, PIA and Plb showed a significant loss in both tensile strength and elongation at break (Table 3). This is because HAT-T is a planar rigid structure. When HAT-T monomer is added, the movement of PIA-t and Plb-t polymer molecular chain segments is restricted and the film becomes brittle, so the mechanical properties are decreased compared with PIA and Plb. Surprisingly, the tensile strength and elongation at break of the PI with the benzimidazole group increased from 472.4 to  $510.4\mathrm{MPa}$  and 3.8 to  $9.7\%$ , respectively, when HAT-T is added to the monomer. This is mainly because there are three  $\mathrm{C = O}$  bonds in the hexazatriphenylene structure, and it is easier to form hydrogen bonds with the N-H structure contained in the benzimidazole structure of the Plc. In this way, the interaction between macromolecular chains is strengthened and the mechanical properties of PI films are enhanced.
+170: 
+171: Table 3. Mechanical properties of polyimide films before and after the introduction of hexazatriphenylene structure.  
+172: 
+173: <table><tr><td>Membrane</td><td>Thickness/μm</td><td>Tensile Strength/MPa</td><td>Elongation at Break/%</td></tr><tr><td>PIa(6FDA/SDA)</td><td>26.6 ± 0.96</td><td>468.84 ± 0.16</td><td>5.10 ± 1.32</td></tr><tr><td>PIa-t(6FDA/SDA/HAT-T)</td><td>55.6 ± 0.35</td><td>195.63 ± 1.24</td><td>4.00 ± 0.02</td></tr><tr><td>PIb(6FDA/TFDB)</td><td>35.0 ± 0.60</td><td>948.57 ± 1.58</td><td>11.30 ± 0.52</td></tr><tr><td>PIb-t(6FDA/TFDB/HAT-T)</td><td>47.0 ± 1.64</td><td>556.80 ± 1.21</td><td>5.80 ± 0.07</td></tr><tr><td>PIc(6FDA/PABZ)</td><td>29.1 ± 1.21</td><td>472.41 ± 1.06</td><td>3.80 ± 0.06</td></tr><tr><td>PIc-t(6FDA/PABZ/HAT-T)</td><td>60.0 ± 0.69</td><td>510.37 ± 1.84</td><td>9.70 ± 0.26</td></tr></table>
+174: 
+175: # 3.3. Pure Gas Permeation
+176: 
+177: As reported in Table 4, the gas separation performance of the six PI membranes (PIa, PIa-t, P1b, P1b-t, P1c and P1c-t) was evaluated using the pure gases of  $\mathrm{CO}_{2}$  and  $\mathrm{CH}_4$  at  $35^{\circ}\mathrm{C}$  and 50 atm. For all PI membranes prepared, the order of gas permeability is  $P(\mathrm{CO}_{2})$  greater than  $P(\mathrm{CH}_4)$ . Obviously, this behavior matches the variation in their aerodynamic diameters  $(\mathrm{CO}_{2}, 3.3\mathring{\mathrm{A}}; \mathrm{CH}_{4}, 3.8\mathring{\mathrm{A}})$  [36]. For  $\mathrm{CO}_{2}$  or  $\mathrm{CH}_4$ , the gas permeability of P1b is the highest because the presence of the  $-\mathrm{CF}_3$  group in the polymer prevents closer filling of the molecular chain, thus improving the free volume of the polymer and increasing the gas permeability. Furthermore, the gas permeabilities of P1a-t and P1b-t are lower than that of the PI film without adding hexaazatriphenylene structure in the chain structure. This is because when adding hexaazatriphenylene structure in the chain structure, the formation of a denser crosslinking structure between the molecular chains reduces the chain spacing. However, for the PI films containing benzimidazole, the gas permeability does not change significantly whether the chain structure contains the hexaazatriphenylene structure or not. This is because imidazole groups, as dissolved groups of  $\mathrm{CO}_{2}$ , can maintain such a high permeability for  $\mathrm{CO}_{2}$  even though the hexaazatriphenylene structure is introduced as to reduce the interchain distance of the polymer [37]. According to Freeman's theoretical analysis, the higher the stiffness of the polymer chain, the better the gas selectivity. Therefore, it can be seen from the data in Table 4 that when the hexaazatriphenylene structure is introduced into the polymer, its gas selectivity is increased. In the six types of PI films prepared in this study, the P1c-t had the best gas selectivity, reaching 188.43, surpassing the "2008 Robeson Upper Bound" (Figure 7), and those of other PIs (PIa, P1a-t, P1b, P1b-t and P1c) are positioned near the "1991 Robeson Upper Bound." This is mainly because of the use of 6FDA as the dianhydride monomer in the preparation of PI; the bulky-  $(\mathrm{CF}_3)_2$ -linkage can better restrict the torsional motion of the two connected phenyl rings. For P1c-t, the polymer chain structure contains both imidazole and hexaazatriphenylene structures. Although the introduction of hexaazatriphenylene into the PI polymer chain causes distance to decrease, the imidazole group has good solubility of  $\mathrm{CO}_{2}$ , and the hexaazatriphenylene structure has excellent absorption of  $\mathrm{CO}_{2}$ . P1c-t thus maintains a high permeability for  $\mathrm{CO}_{2}$  while increasing selectivity, surpassing the "2008 Robeson Upper Bound." Robeson upper limit is a commonly used index to evaluate the comprehensive performance of gas
+178: 
+179: separation membranes. Robeson published the Robeson upper bound theory by comparing data on the actual performance of gas separation materials of different structures. Due to the continuous growth of separation membrane technology, more and more gas separation membranes exceeded the Robeson upper bound by 1991. So, Robeson updated the "Upper Bound" in 2008 [38].
+180: 
+181: Table 4. The pure gas permeabilities and selectivities of polyimides with different structures prepared in this study.  
+182: 
+183: <table><tr><td rowspan="2">Polymer Code</td><td colspan="2">Permeability (10-10cm3(STP) cm cm-2s-1cmHg-1)</td><td>Ideal Selectivity (α)</td><td rowspan="2"></td></tr><tr><td>CH4</td><td>CO2</td><td>CO2/CH4</td></tr><tr><td>PIa(6FDA/SDA)</td><td>0.17</td><td>10.97</td><td>66.39</td><td>This work</td></tr><tr><td>PIa-t(6FDA/SDA/HAT-T)</td><td>0.14</td><td>10.04</td><td>72.28</td><td>This work</td></tr><tr><td>PIb(6FDA/TFDB)</td><td>0.69</td><td>32.57</td><td>47.16</td><td>This work</td></tr><tr><td>PIb-t(6FDA/TFDB/HAT-T)</td><td>0.48</td><td>25.53</td><td>52.84</td><td>This work</td></tr><tr><td>PIc(6FDA/PABZ)</td><td>0.15</td><td>8.56</td><td>58.84</td><td>This work</td></tr><tr><td>PIc-t(6FDA/PABZ/HAT-T)</td><td>0.05</td><td>8.55</td><td>188.43</td><td>This work</td></tr><tr><td>6FDA-CADA1-425</td><td>32.6</td><td>917</td><td>28.1</td><td>[39]</td></tr><tr><td>6FDA-Durene-X75%</td><td>212.6</td><td>3177.3</td><td>14.9</td><td>[40]</td></tr><tr><td>6FDA-MMBDA</td><td>11</td><td>326</td><td>28.7</td><td>[41]</td></tr><tr><td>6FDA-DAT1-OH</td><td>1.4</td><td>70</td><td>50</td><td>[42]</td></tr><tr><td>6FDA-DAM-NBS 60%</td><td>15.3</td><td>395</td><td>25.8</td><td>[43]</td></tr></table>
+184: 
+185: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+186: Figure 7. Comparison of gas separation performance between PIA-c-t membranes and reported polyimide membranes.
+187: 
+188: Figure 7 also shows a comparison of the gas separation performance of the six PI films synthesized in this study and the PI films prepared using 6FDA in other literature reports. It can be seen from the figure that the structure of the prepared PI monomer plays a crucial role in permeability and separation. Except for 6FDA-MMBDA and 6FDA-DAT1-OH, the other three PIs in Figure 7 all undergo thermal rearrangement at a certain temperature, and the permeability increases based on maintaining a certain selectivity. The selectivity of 6FDA-MMBDA and 6FDA-DAT1-OH polymers is still far from that of PIs-t prepared in this study, although the structures of 6FDA-MMBDA and 6FDA-DAT1-OH polymers have large volume resulting in increased permeability. In this study, considering the preparation of PI membrane, HAT-T was added to the monomer at low content, but it still significantly improved the gas separation performance of the polymer, which also indicated that the
+189: 
+190: plane-rigid structure of hexaaazatriphenylene was very effective in improving the gas selectivity. Further studies will be conducted to maximize permeability while maintaining gas selectivity by effective means.

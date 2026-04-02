@@ -1,0 +1,19 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Abstract
+line_span: [43, 47]
+char_span: [1327, 2247]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0002: Abstract) ---
+43: # Abstract
+44: 
+45: In the present work, heat-endurable polyimide nanofibrous membrane-coated commercial polyimide nonwoven fabrics were prepared by electrospinning synthesized polyamic acid solution on polyimide mats followed by a thermal imidization process. Polyimide synthesized was confirmed by Fourier-transform infrared spectroscopy and thermogravimetric analysis tests. A higher viscosity of precursor solution resulted in a nanofibrous network coated on the nonwoven fabrics. The coated filter showed lower dimension of pores and greater portion of small pores. The proportion of pores less than  $10\mu \mathrm{m}$  reached as high as  $71.2\%$ . PM2.5 removal efficiency was increased from 81.4 to  $97.2\%$ . However, the pressure drop of air flow over the filters did not show significant changes. It suggested a facile method to improve the filtration performance of commercial polyimide nonwoven fabric filters.

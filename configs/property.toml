@@ -1,0 +1,129 @@
+[section_titles]
+method = [
+  "METHOD",
+  "METHODS",
+  "EXPERIMENTAL",
+  "MATERIALS AND METHODS",
+  "CHARACTERIZATION",
+  "MEASUREMENTS",
+  "TEST METHODS",
+  "PROPERTY TESTING",
+]
+result = [
+  "RESULT",
+  "RESULTS",
+  "DISCUSSION",
+  "RESULTS AND DISCUSSION",
+]
+ignore = [
+  "REFERENCE",
+  "REFERENCES",
+  "ACKNOWLEDGEMENT",
+  "ACKNOWLEDGMENTS",
+  "SUPPORTING INFORMATION",
+  "SUPPLEMENTARY",
+]
+
+[keywords]
+ThermalProperties = [
+  "thermal\\s+conductiv",
+  "thermal\\s+insulat",
+  "heat\\s+transfer",
+  "thermal\\s+diffus",
+  "infrared\\s+thermal",
+  "degradation\\s+temperature",
+  "decomposition\\s+temperature",
+  "glass\\s+transition",
+  "\\bTg\\b",
+  "\\bTd\\d*\\b",
+  "char\\s+yield",
+  "heat\\s+resistan",
+]
+MechanicalProperties = [
+  "tensile",
+  "compressive",
+  "young'?s\\s+modulus",
+  "\\bmodulus\\b",
+  "elongation",
+  "strain\\s+at\\s+break",
+  "strength",
+  "toughness",
+  "hardness",
+]
+RheologicalProperties = [
+  "rheolog",
+  "viscos",
+  "yield\\s+stress",
+  "shear\\s+thinning",
+  "steady-state\\s+shear",
+  "oscillatory",
+  "storage\\s+modulus",
+  "loss\\s+modulus",
+]
+ElectricalDielectricProperties = [
+  "dielectric",
+  "permittiv",
+  "dielectric\\s+loss",
+  "\\bconductiv",
+  "\\bresistiv",
+  "breakdown\\s+strength",
+  "current\\s+density",
+]
+PhysicalProperties = [
+  "bulk\\s+density",
+  "\\bdensity\\b",
+  "porosity",
+  "water\\s+absorption",
+  "moisture\\s+absorption",
+]
+ProcessingProperties = [
+  "shrinkage",
+  "dimensional\\s+shrinkage",
+  "volumetric\\s+shrinkage",
+  "printability",
+  "shape\\s+fidelity",
+  "shape\\s+retention",
+  "dimensional\\s+stability",
+  "weight\\s+loss",
+]
+SensingProperties = [
+  "sensitivity",
+  "limit\\s+of\\s+detection",
+  "\\bLOD\\b",
+  "response\\s+time",
+  "recovery\\s+time",
+  "repeatability",
+  "reversibility",
+  "selectivity",
+  "sensor\\s+response",
+  "chemiresist",
+]
+OpticalProperties = [
+  "transmittance",
+  "transparency",
+  "haze",
+  "cutoff\\s+wavelength",
+  "yellow\\s+index",
+  "colorless",
+  "optical",
+]
+
+[exclude_keywords]
+process_only = [
+  "synthesis\\s+of",
+  "preparation\\s+of",
+  "fabrication\\s+of",
+  "imidization\\s+of",
+  "polymerization",
+  "dissolved\\s+in",
+  "added\\s+to",
+  "stirred\\s+for",
+  "heated\\s+to",
+  "cooled\\s+to",
+  "washed\\s+with",
+]
+
+[form_group_property_preferences]
+PrecursorFluid = ["RheologicalProperties"]
+ThinLayer = ["SensingProperties", "ElectricalDielectricProperties", "OpticalProperties"]
+PorousBody = ["ThermalProperties", "MechanicalProperties", "PhysicalProperties", "ProcessingProperties"]

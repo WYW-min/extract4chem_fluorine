@@ -1,0 +1,44 @@
+source_file: New Strategy for Inducing Surface Anisotropy in Polyimide Films for Nematics Orientation in Display Applicatio.md
+doc_id: d99a47e74ff612436c10f59dae6bb2f9
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [54, 83]
+char_span: [9252, 16289]
+line_count: 28
+effective_body_non_empty_lines: 12
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+54: # 2. Materials and Methods
+55: 
+56: # 2.1. Materials and Polyimide Synthesis
+57: 
+58: The raw materials used for the semi-aliphatic PI preparation: 5-(2,5-dioxotetrahydrol-3-methyl-3-cyclohexene-1,2-dicarboxylic) (N B-4400—denoted here EPI),  $4,4^{\prime}$ -diaminodiphenyl ether (ODA), and hexamethylenediamine (HMDA) were taken from TCI Chemicals (Paris, France). The solvent 1-methyl-2-pyrrolidinone (anhydrous,  $99.5\%$ , NMP) and the nematics N-(4-Methoxybenzylidene)-4-butylaniline ( $98\%$ , MBBA) and  $4^{\prime}$ -pentyl-4cyanobiphenyl ( $98\%$ , 5CB), were purchased from Sigma Aldrich (Taufkirchen, Germany).
+59: 
+60: The PIs were synthesized using the conventional method of solution polycondensation of the EPI cycloaliphatic dianhydride and HMDA or ODA diamines. Generally, the reaction is undertaken in two steps: the first involves addition of equimolar amounts of monomers in NMP at room temperature and inert atmosphere to form the poly (amic acid) precursor, while the second step requires heating of the system up to  $\sim 190^{\circ}\mathrm{C}$  to accomplish the cyclodehydration of the precursor and convert it into the corresponding PI structure. Figure 1 illustrates the schematic preparation procedure of the studied PI-HMDA and PI-ODA polymers.
+61: 
+62: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+63: Figure 1. The schematic procedure of synthesis of the EPI-derived polyimides.
+64: 
+65: This synthesis procedure is similar to that reported in previous works [30,31]. The studied PI films were attained by pouring the precursor solution on glass substrates and keeping them for  $10\mathrm{h}$  at  $80^{\circ}\mathrm{C}$  for a slow solvent removal. Then, semi-dried samples were subjected to thermal imidization by heating at 100, 150, 200, and  $250^{\circ}\mathrm{C}$  (1 h at each stage). In the end, a final treatment was performed for  $2\mathrm{h}$  at  $280^{\circ}\mathrm{C}$ . The PI films were isolated from the substrate by embedding in hot water, and subsequently, they were dried at  $105^{\circ}\mathrm{C}$  in vacuum conditions for several hours. The thickness of the films was found to be  $60~\mu \mathrm{m}$  for PI-HMDA and  $64~\mu \mathrm{m}$  for PI-ODA.
+66: 
+67: # 2.2. Methods
+68: 
+69: A new method of PI surface modification is proposed, relying on rubbing, followed by stretching and in reverse order from that stated. The rubbing of the samples was achieved with a lab-made device having a rotating cylinder (diameter = 1.2 cm), which moves at 180 rot/min. The material used for surface modification was velvet, which was found on the surface of the cylinder. The rubbing procedure was undertaken for 30 s for each PI film. The film stretching was carried out by subjecting the PI surface to mechanical deformation by pressing with a corrugated metallic surface. During this procedure, the PI films were fixed on a glass substrate (as in LC cell).
+70: 
+71: All theoretical simulations were performed using commercial Materials Studio 4.0 software [32]. The Synthia module was used for the prediction of the thermophysical and mechanical properties, using the quantitative structure-property relationships (QSPR) method [33]. First, the structural units were shaped and minimized (DMol $^3$ , PWC functional,  $2 \times 10^{-5}$  Ha energy convergence). Afterwards, the polymer chains with 5 repeating units for each structure were minimized as well (Forcite, pcff force field,  $2 \times 10^{-5}$  kcal/mol energy convergence). For data reproducibility checking, three amorphous cells for both kinds of polymers were generated, each with a different number of seeds. Every cell has 6 polymeric chains, PI-HMDA, and respectively, PI-ODA. The amorphous cells were built at  $298\mathrm{K}$ , starting from a  $0.2\mathrm{g/cm^3}$ , reaching a  $1.4\mathrm{g/cm^3}$  density. The minimized cells ( $10^{-4}$  kcal/mol energy convergence) were subjected to NPT dynamics (conserved amount of substance (N), pressure (P) and temperature (T)) at  $p = 1$  atm,  $T = 298\mathrm{K}$ , using a Berend-sen thermostat and barostat, for 1 ns. The stable values for the temperature and density indicated the reach to the equilibrium [34]. Another NVT dynamic (conserved amount of substance (N), volume (V), and temperature (T)) for 1 ns provides the elimination of every possible unfavorable interaction from the system.
+72: 
+73: In a repetitive manner, using the Discover module, NPT dynamics of 100 ps were applied to simulate the stretching of the polymeric film, by Berendsen thermostat and Parrinello barostat [35,36]. Along the X axis of the periodic simulation cell, an external constant stress of 2 GPa was applied. To overcome significant alterations of the cell density, alongside of the Y- and Z-axes a negative stress had to be imposed. Because the main purpose was not to obtain a polymer in a fully stretched state, only 5 iterations were executed. Polymeric surfaces were acquired by sectioning the periodic cells along the xOz plane. Afterwards, the liquid crystal molecules were added. In order to explore the conformational space for searching the lowest energy structures, a quench dynamic was conducted at  $550\mathrm{K}$  or  $700\mathrm{K}$ , NVE ensemble (conserved amount of substance (N), volume (V), and energy (E)). The polymer molecules at the surface were maintained at fixed positions to obtain minimal computational resources [37].
+74: 
+75: UV-VIS measurements of the solid PI films were performed on a SPECORD 210 PLUS instrument Goebel Instrumentelle Analytik GmbH, Hallertau, Germany).
+76: 
+77: Birefringence of the modified PI films was determined on a refractometer (DRM4 model).
+78: 
+79: Atomic force microscopy measurements were conducted on a NTEGRA Scanning Force Microscope device (NT-MDT Spectrum Instruments, Zelenograd, Russia), with an NSG10 cantilever (with the resonance frequency of  $298\mathrm{kHz}$ ), in atmospheric conditions, at  $23^{\circ}\mathrm{C}$  room temperature, using a semicontact technique in semicontact error SPM mode. The PiezoTube was used as the scanning device with the XY closed-loop on. The set point was around  $10\mathrm{V}$ , the feedback gain 0.4, and the scanning frequency  $0.4\mathrm{Hz}$ . The chosen imaged scan size was  $30\times 30\mu \mathrm{m}^2$ . Using Nova v1.1.1.19891 (NT-MDT Spectrum Instruments, Zelenograd, Russia) and Image Analysis 3.5.0.19892 software (NT-MDT Spectrum Instruments, Zelenograd, Russia), the AFM data were acquired and analyzed. The height histograms, bearing curves, and autocorrelation function images obtained from the original topography images, and the 3D texture parameters (Sq—root mean square roughness of the surface, Sdr—surface area ratio, Stdi—surface texture direction index, Sbi—surface bearing index) were calculated from the above-mentioned representations.
+80: 
+81: Surface wettability of the PI layers in regard to MBBA and 5CB was evaluated by contact angle experiments. Three drops of LC were placed on the film surface to acquire statistical results regarding the interfacial adhesion, with the error being around  $\pm 1^{\circ}$ .

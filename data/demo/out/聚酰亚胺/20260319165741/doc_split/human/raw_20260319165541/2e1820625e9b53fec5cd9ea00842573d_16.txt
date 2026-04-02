@@ -1,0 +1,19 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 16
+block_id: b0017
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: ACKNOWLEDGEMENTS
+line_span: [194, 198]
+char_span: [30411, 30934]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0017: ACKNOWLEDGEMENTS) ---
+194: # ACKNOWLEDGEMENTS
+195: 
+196: This research is financially supported by the Fundamental Research Grant Scheme, (FRGS/1/2018/ STG01/UKM/02/16). The authors would like to thank the Faculty of Science and Technology (FST) of Universiti Kebangsaan Malaysia (UKM), specifically, the Department of Chemical Sciences (JSK) and Polymer Research Centre (PORCE) for technical support and facilities given. The authors acknowledge the Centre for Research and Instrument Management (CRIM), UKM for the support in sample characterization (XRD).

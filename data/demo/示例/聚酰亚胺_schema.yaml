@@ -1,0 +1,759 @@
+schema_id: polyimide_extraction_schema_draft
+schema_version: 0.1.2
+maintainer: extract4chem_fluorine
+last_updated: "2026-03-18"
+language: zh-CN
+description: >
+  聚酰亚胺文献信息抽取输出草案。目标是兼顾人类可读性与程序可转换性。
+  结构按业务约定分为：文献信息、聚合物（聚合物主信息/表征/性质/工艺流程）。
+
+# -----------------------------
+# Core schema (JSON Schema style in YAML)
+# -----------------------------
+type: object
+additionalProperties: false
+required:
+  - 文献信息
+  - 聚合物
+properties:
+  文献信息:
+    $ref: "#/$defs/文献信息"
+  聚合物:
+    type: array
+    minItems: 0
+    items:
+      $ref: "#/$defs/聚合物对象"
+    description: 同一文献内多个独立对象（可包含前驱体、油墨、中间体、最终样品）
+    x-py-type: list[PolymerRecord]
+
+$defs:
+  文献信息:
+    type: object
+    additionalProperties: false
+    required:
+      - 唯一文献标识
+      - 论文标题
+      - 作者列表
+      - 期刊名称
+      - 年份
+      - 卷号
+      - 页码
+      - 文档类型
+      - 语言
+      - 关键词
+    properties:
+      唯一文献标识:
+        type: string
+        minLength: 1
+        description: DOI/专利号等，推荐标准格式 "doi:10.xxxx/xxxxx"
+        examples:
+          - "doi:10.3390/polym13213614"
+        x-py-name: unique_doc_id
+      论文标题:
+        type: string
+        minLength: 1
+        description: 文献完整标题
+        examples:
+          - "3D Printing of Thermal Insulating Polyimide/Cellulose Nanocrystal Composite Aerogels with Low Dimensional Shrinkage"
+        x-py-name: title
+      作者列表:
+        type: array
+        minItems: 1
+        items:
+          type: string
+          minLength: 1
+        description: 作者名数组，保持原文顺序
+        examples:
+          - ["Chiao Feng", "Sheng-Sheng Yu"]
+        x-py-name: authors
+      期刊名称:
+        type: string
+        description: 期刊/会议/专利来源
+        examples:
+          - "Polymers"
+        x-py-name: journal
+      年份:
+        anyOf:
+          - type: integer
+            minimum: 1500
+            maximum: 2100
+          - type: string
+            pattern: "^[0-9]{4}$"
+        description: 发表年份（建议统一为 integer）
+        examples:
+          - 2021
+        x-py-name: year
+      卷号:
+        anyOf:
+          - type: integer
+          - type: string
+        description: 卷号（建议统一 string 以兼容补编/增刊）
+        examples:
+          - 13
+        x-py-name: volume
+      页码:
+        anyOf:
+          - type: string
+          - type: integer
+        description: 页码/文章号
+        examples:
+          - "3614"
+        x-py-name: pages
+      文档类型:
+        type: string
+        description: 文献类型
+        examples:
+          - "Article"
+          - "Journal Article"
+          - "研究论文"
+        x-py-name: doc_type
+      语言:
+        type: string
+        description: 原文语言
+        examples:
+          - "English"
+          - "中文"
+        x-py-name: language
+      关键词:
+        anyOf:
+          - type: string
+          - type: array
+            items:
+              type: string
+              minLength: 1
+        description: 关键词，当前样例存在 string 与 array 两种表示
+        examples:
+          - ["polyimide", "aerogels", "3D printing"]
+        x-py-name: keywords
+    x-py-type: DocumentInfo
+
+  数值对象:
+    type: object
+    additionalProperties: false
+    properties:
+      单值:
+        anyOf:
+          - type: number
+          - type: string
+          - type: "null"
+        description: 单值
+      最小:
+        anyOf:
+          - type: number
+          - type: string
+          - type: "null"
+        description: 最小值
+      最大:
+        anyOf:
+          - type: number
+          - type: string
+          - type: "null"
+        description: 最大值
+      单位:
+        anyOf:
+          - type: string
+          - type: "null"
+        description: 单位文本
+      误差:
+        anyOf:
+          - type: string
+          - type: number
+          - type: "null"
+        description: 误差，如 "± 1.03"
+      说明:
+        anyOf:
+          - type: string
+          - type: "null"
+        description: 定性描述
+    description: >
+      数值类字段通用结构。业务上至少应出现 单值/最小/最大/说明 之一（此约束待代码侧补充）。
+    x-py-type: ScalarValue
+
+  表征对象:
+    type: object
+    additionalProperties: true
+    description: >
+      表征字段集合，方法类型动态扩展（如 红外_FTIR/紫外_UVVis/分子量_GPC_SEC/核磁_13C NMR/形貌）。
+      建议保留方法名为原始 key，方法内部字段按文献原文最小保留。
+    examples:
+      - 红外_FTIR:
+          仪器: "Nicolet 6700"
+          峰位_cm-1:
+            - "1776 (C=O)"
+            - "1721 (C=O)"
+        形貌:
+          仪器: "SEM"
+          显微: "Lamellar pores"
+    x-py-type: dict[str, object]
+
+  性质条目:
+    type: object
+    additionalProperties: false
+    required:
+      - 类别
+      - 名称
+      - 值
+      - 测试条件
+    properties:
+      类别:
+        type: string
+        description: 性质类别，建议后续引入受控词表
+        examples:
+          - "Thermal Properties"
+          - "热学性质"
+        x-py-name: category
+      名称:
+        type: string
+        description: 指标名
+        examples:
+          - "Thermal conductivity"
+          - "玻璃化转变温度"
+        x-py-name: name
+      缩写:
+        anyOf:
+          - type: string
+          - type: "null"
+        description: 指标缩写（可空）
+        examples:
+          - "Tg"
+          - "λ"
+        x-py-name: abbreviation
+      值:
+        $ref: "#/$defs/数值对象"
+        x-py-name: value
+      测试条件:
+        $ref: "#/$defs/测试条件对象"
+        x-py-name: test_conditions
+    x-py-type: PropertyEntry
+
+  测试条件对象:
+    type: object
+    additionalProperties:
+      anyOf:
+        - type: string
+        - type: number
+        - type: integer
+        - type: boolean
+        - type: "null"
+        - type: array
+          items:
+            anyOf:
+              - type: string
+              - type: number
+              - type: integer
+              - type: boolean
+              - type: "null"
+        - type: object
+    description: >
+      测试条件键值高度异构，先允许自由键。对不好标准化的复杂步骤、温度变化、程序设定等，
+      尽量全量保留原文，建议写入“方法”等自由文本键中。后续可在关键指标上收紧为子 schema。
+    examples:
+      - 样品: "6.5 wt% CNCs"
+        方法: "TGA"
+        仪器: "TGA 4000"
+        升温速率:
+          单值: 10
+          单位: "°C/min"
+    x-py-type: dict[str, object]
+
+  原料条目:
+    type: object
+    additionalProperties: false
+    required:
+      - 原料名称
+      - 原料类别
+      - 单体类型
+      - IUPAC名称
+      - 缩写
+      - 分子式
+      - SMILES
+      - CAS号
+      - InChI
+      - 投料方式
+      - 型号
+      - 来源
+      - 质量
+      - 体积
+      - 摩尔量
+      - 当量比
+      - 纯度
+      - 表征
+    properties:
+      原料名称:
+        type: string
+        x-py-name: material_name
+        examples: ["Pyromellitic dianhydride"]
+      原料类别:
+        type: string
+        x-py-name: material_category
+        examples: ["Monomer", "Catalyst", "Nanofiller", "Precursor"]
+      单体类型:
+        type: string
+        x-py-name: monomer_type
+        examples: ["Diamine", "Dianhydride", ""]
+      IUPAC名称:
+        type: string
+        x-py-name: iupac_name
+      缩写:
+        type: string
+        x-py-name: abbreviation
+      分子式:
+        type: string
+        x-py-name: formula
+      SMILES:
+        type: string
+        x-py-name: smiles
+      CAS号:
+        type: string
+        x-py-name: cas_no
+      InChI:
+        type: string
+        x-py-name: inchi
+      投料方式:
+        type: string
+        x-py-name: feeding_mode
+      型号:
+        type: string
+        x-py-name: model
+      来源:
+        type: string
+        x-py-name: source
+      质量:
+        $ref: "#/$defs/数值对象"
+        x-py-name: mass
+      体积:
+        $ref: "#/$defs/数值对象"
+        x-py-name: volume
+      摩尔量:
+        $ref: "#/$defs/数值对象"
+        x-py-name: amount
+      当量比:
+        $ref: "#/$defs/数值对象"
+        x-py-name: equivalent_ratio
+      纯度:
+        $ref: "#/$defs/数值对象"
+        x-py-name: purity
+      表征:
+        anyOf:
+          - type: string
+          - type: object
+          - type: array
+          - type: "null"
+        description: 原料级表征补充信息
+        x-py-name: characterization
+    x-py-type: FeedstockEntry
+
+  反应条件条目:
+    type: object
+    additionalProperties: false
+    required:
+      - 反应装置
+      - 反应气氛
+      - 反应温度
+      - 溶剂
+      - 溶剂量
+      - 反应时间
+      - 制备过程
+      - 反应条件
+    properties:
+      反应装置:
+        type: string
+        x-py-name: reactor_setup
+      反应气氛:
+        type: string
+        x-py-name: atmosphere
+      反应温度:
+        $ref: "#/$defs/数值对象"
+        x-py-name: reaction_temperature
+      溶剂:
+        type: string
+        x-py-name: solvent
+      溶剂量:
+        $ref: "#/$defs/数值对象"
+        x-py-name: solvent_amount
+      反应时间:
+        $ref: "#/$defs/数值对象"
+        x-py-name: reaction_time
+      制备过程:
+        type: string
+        x-py-name: procedure
+      反应条件:
+        type: string
+        x-py-name: conditions_note
+    x-py-type: ReactionConditionEntry
+
+  位置索引对象:
+    type: object
+    additionalProperties: false
+    required:
+      - block_id
+      - md_range
+      - 原文
+    properties:
+      block_id:
+        type: string
+        description: 章节/段落标识（待业务确认格式）
+        x-py-name: block_id
+      md_range:
+        type: string
+        description: markdown 原文行号范围（待业务确认格式）
+        x-py-name: md_range
+      原文:
+        type: string
+        description: 支撑证据原文片段
+        x-py-name: evidence_text
+    x-py-type: PositionIndex
+
+  工艺流程条目:
+    type: object
+    additionalProperties: false
+    required:
+      - 产物名称
+      - 产物质量
+      - 产物单位
+      - 产物收率百分比
+      - 原料
+      - 反应条件
+      - 后处理步骤
+      - 位置索引
+    properties:
+      产物名称:
+        type: string
+        x-py-name: product_name
+      产物质量:
+        anyOf:
+          - type: string
+          - type: number
+        x-py-name: product_mass
+      产物单位:
+        type: string
+        x-py-name: product_mass_unit
+      产物收率百分比:
+        type: string
+        x-py-name: product_yield_percent
+      原料:
+        type: array
+        items:
+          $ref: "#/$defs/原料条目"
+        x-py-name: feedstocks
+      反应条件:
+        type: array
+        items:
+          $ref: "#/$defs/反应条件条目"
+        x-py-name: reaction_conditions
+      后处理步骤:
+        anyOf:
+          - type: string
+          - type: array
+            items:
+              type: string
+        description: 当前模板既有 string 也有 array 表达
+        x-py-name: post_treatment
+      位置索引:
+        $ref: "#/$defs/位置索引对象"
+        x-py-name: position_index
+    x-py-type: ProcessStep
+
+  聚合物对象:
+    type: object
+    additionalProperties: false
+    required:
+      - 聚合物分类名称
+      - 聚合物分类编码
+      - 名称
+      - 身份标识
+      - 样本形态
+      - 结构特征_L1
+      - 结构特征_L2
+      - 表征
+      - 性质
+      - 工艺流程
+    properties:
+      聚合物分类名称:
+        type: string
+        description: >
+          一级分类名。常见可参考：polyimide / epoxy_resin / polyurethane /
+          polyamide_nylon_aramid / polyolefin / polyester；若不适配，可自行总结。
+        examples: ["Polyimide/Cellulose Nanocrystal Composite Aerogel", "polyimide"]
+        x-py-name: polymer_class_name
+      聚合物分类编码:
+        type: string
+        description: 分类编码。当前无强制受控词表，可使用原文稳定简称或自行总结。
+        examples: ["PI", "PI/CNC", "PAA", "PAAS", "CNC"]
+        x-py-name: polymer_class_code
+      名称:
+        type: string
+        description: 对象名称（样品名/中间体名/油墨名）
+        examples:
+          - "PI/CNC Composite Aerogel (6.5 wt% CNCs)"
+          - "PMDA-ODA Polyamic Acid"
+        x-py-name: name
+      身份标识:
+        type: string
+        description: >
+          唯一ID。由整合层根据三段信息拼接：唯一文献标识 + 聚合物名称 + 自增编号。
+          建议格式：<doc_id>__<slug(聚合物名称)>__<index:03d>
+        x-py-name: identity_id
+      样本形态:
+        type: string
+        x-py-name: sample_form
+      结构特征_L1:
+        type: string
+        description: >
+          结构特征一级标签。常见值包括 unmodified_linear / heterocyclic /
+          partially_heterocyclic，但不是封闭集合，可自行总结。
+        examples: ["unmodified_linear", "heterocyclic", "partially_heterocyclic"]
+        x-py-name: structure_feature_l1
+      结构特征_L2:
+        type: string
+        description: >
+          结构特征二级标签。常见值包括 aliphatic / aromatic / heterocyclic，
+          但不是封闭集合，可自行总结。
+        examples: ["aromatic, aliphatic", "aromatic", "heterocyclic"]
+        x-py-name: structure_feature_l2
+      表征:
+        $ref: "#/$defs/表征对象"
+        x-py-name: characterization
+      性质:
+        type: array
+        items:
+          $ref: "#/$defs/性质条目"
+        x-py-name: properties
+      工艺流程:
+        type: array
+        items:
+          $ref: "#/$defs/工艺流程条目"
+        x-py-name: process_flow
+    x-py-type: PolymerRecord
+
+# -----------------------------
+# Confirmed business rules
+# -----------------------------
+x-confirmed_rules:
+  - id: C001
+    topic: 聚合物对象边界
+    rule: >
+      前驱体（PAA/PAAS）、油墨（PAAS/CNC ink）、最终气凝胶等可作为同级聚合物对象输出。
+      判断关键是“是否为合成得到的对象”，而不是“是否为最终产品”。原料本身不作为聚合物对象。
+  - id: C002
+    topic: 系列样本拆分
+    rule: >
+      同一体系不同配比（如 5.6/6.5/7.4 wt%）必须拆成独立对象。
+      若正文只给组级结论，可复制到同系列对象，但不应跨产品节点复制。
+  - id: C003
+    topic: 聚合物分类编码
+    rule: 当前无强制受控词表，可使用原文稳定简称或自行总结。
+  - id: C004
+    topic: 结构特征_L1/L2
+    rule: >
+      常见参考值存在，但不全面；允许在常见值基础上自行总结，不是封闭枚举。
+      常见值：L1 包括 unmodified_linear / heterocyclic / partially_heterocyclic；
+      L2 包括 aliphatic / aromatic / heterocyclic。
+  - id: C005
+    topic: 性质类别与名称
+    rule: 当前无标准字典；中英文允许混用。
+  - id: C006
+    topic: 测试条件
+    rule: >
+      不好标准化的复杂步骤、温度变化、程序设定等，尽量全量保留原文，
+      建议写入“方法”等自由文本键中。
+  - id: C007
+    topic: 工艺流程切分
+    rule: 按“产物节点”切分；后处理步骤既可为字符串，也可为字符串数组。
+  - id: C008
+    topic: 验收优先级
+    rule: >
+      高精度宁缺毋滥优先。聚合物对象应尽量分清；各聚合物详细信息允许少量漏写，
+      但应避免串对象、串任务。
+  - id: C009
+    topic: 热分析归属
+    rule: TGA / DSC / DMA / TMA 及其派生热学指标归入“性质”，不归入“表征”。
+  - id: C010
+    topic: 电化学与气敏结果归属
+    rule: CV / 电化学测试 / 气敏响应时间-恢复时间归入“性质/应用”，不归入“表征”。
+
+# -----------------------------
+# Pydantic conversion hints
+# -----------------------------
+x-pydantic:
+  root_model_name: PolyimideExtractionResult
+  model_order:
+    - ScalarValue
+    - DocumentInfo
+    - PropertyEntry
+    - FeedstockEntry
+    - ReactionConditionEntry
+    - PositionIndex
+    - ProcessStep
+    - PolymerRecord
+    - PolyimideExtractionResult
+  style_guidelines:
+    - 使用 `Field(..., alias="<中文字段名>")` 保持中文键与 Python 字段名分离
+    - 对 `年份/卷号/页码/关键词/后处理步骤` 设置兼容 Union 类型
+    - 对 `测试条件对象` 使用 `dict[str, Any]` 起步，后续按指标逐步收紧
+    - 对 `数值对象` 增加 `model_validator` 检查至少一个值字段存在
+
+# -----------------------------
+# ID conventions (runtime keys)
+# -----------------------------
+x-id_conventions:
+  run_id:
+    type: string
+    rule: "一次完整流水线执行ID，使用到秒时间戳：%Y%m%d%H%M%S"
+    example: "20260316153045"
+  doc_id:
+    type: string
+    rule: "文档文件内容MD5（32位小写十六进制）"
+    example: "9f86d081884c7d659a2feaa0c55ad015"
+  sample_id:
+    type: string
+    logical_key: ["doc_id", "聚合物名称", "自增编号"]
+    rule: "同一 doc_id + 同名聚合物内自增；建议字符串化为 <doc_id>__<slug(name)>__<index:03d>"
+    example: "9f86d081884c7d659a2feaa0c55ad015__pi-cnc-composite-aerogel-6-5-wt-cncs__001"
+  task_id:
+    type: string
+    logical_key: ["run_id", "sample_id", "task_kind", "chunk_idx"]
+    rule: "任务最小粒度ID，建议：<run_id>__<sample_id>__<task_kind>__<chunk_idx:03d>"
+    example: "20260316153045__9f86d081884c7d659a2feaa0c55ad015__pi-cnc-composite-aerogel-6-5-wt-cncs__001__prop__003"
+  task_kind_enum: ["char", "prop", "proc"]
+  chunk_idx:
+    type: integer
+    minimum: 0
+    description: "同一 task_kind 下被切分子任务的序号"
+
+# -----------------------------
+# Main signal extraction contract
+# -----------------------------
+x-main_signal_contract:
+  goal: "主信号阶段输出可稳定构建身份标识的三段字段"
+  required_fields:
+    - 唯一文献标识
+    - 聚合物名称
+    - 自增编号
+  identity_build_rule: "身份标识由整合层统一构建，不在主信号阶段直接拼接最终字符串"
+  self_increment_scope: "按 (doc_id, 聚合物名称) 分组自增"
+  index_format_recommendation: "3位左侧补零，如 001/002/003"
+
+# -----------------------------
+# Business open questions (to confirm with domain experts)
+# -----------------------------
+x-open_questions:
+  - id: Q001
+    priority: P0
+    question: 是否存在“权威且可机读”的最终 Schema 文件（JSON Schema 或稳定 YAML）？
+    related_paths: ["#/properties", "#/$defs"]
+    current_assumption: 以本文件为暂行草案
+    impact: 直接决定后续模型冻结与验收口径
+  - id: Q002
+    priority: P0
+    question: 字段名是否必须与模板逐字一致（中文符号、大小写、下划线）？
+    related_paths: ["全局"]
+    current_assumption: 字段名严格一致
+    impact: 决定兼容层是否允许别名输出
+  - id: Q003
+    priority: P0
+    question: 空值标准化规则是什么（null/空字符串/缺省字段）？
+    related_paths: ["全局"]
+    current_assumption: 允许混用，但建议最终统一为 null
+    impact: 影响校验、聚合、统计一致性
+  - id: Q004
+    priority: P0
+    question: 数值类型是否统一为 number，还是允许字符串数值？
+    related_paths: ["#/$defs/数值对象"]
+    current_assumption: 先兼容 string|number
+    impact: 影响下游建模与数值分析
+  - id: Q005
+    priority: P0
+    question: 聚合物对象边界是否包含前驱体/油墨/中间体，还是仅最终材料？
+    related_paths: ["#/properties/聚合物"]
+    current_assumption: 已确认，包含前驱体、油墨与最终材料；判断依据是是否为合成得到的对象
+    impact: 影响对象识别策略与召回率
+  - id: Q006
+    priority: P0
+    question: 不同配比样品（如 5.6/6.5/7.4 wt%）是否必须拆成独立对象？
+    related_paths: ["#/properties/聚合物"]
+    current_assumption: 已确认，必须拆分；组级结论可复制到同系列对象
+    impact: 影响主键设计与属性归属
+  - id: Q007
+    priority: P1
+    question: 聚合物分类编码是否有受控词表？
+    related_paths: ["#/$defs/聚合物对象/properties/聚合物分类编码"]
+    current_assumption: 已确认，无强制受控词表
+    impact: 影响一致性与统计可比性
+  - id: Q008
+    priority: P1
+    question: 结构特征_L1/L2 是否有固定枚举及定义文档？
+    related_paths:
+      - "#/$defs/聚合物对象/properties/结构特征_L1"
+      - "#/$defs/聚合物对象/properties/结构特征_L2"
+    current_assumption: 已确认，有常见参考值但不全面，保持开放字符串
+    impact: 影响结构标签可重复利用性
+  - id: Q009
+    priority: P1
+    question: 性质类别与名称是否需要标准词典（中英文映射）？
+    related_paths: ["#/$defs/性质条目"]
+    current_assumption: 已确认，无标准字典，允许中英文混用
+    impact: 影响跨文献统计与归一化
+  - id: Q010
+    priority: P1
+    question: 值对象的标准键集合是否固定为 单值/最小/最大/单位/误差/说明？
+    related_paths: ["#/$defs/数值对象"]
+    current_assumption: 是，允许子集
+    impact: 影响自动校验与前端显示逻辑
+  - id: Q011
+    priority: P1
+    question: 测试条件是否要求严格标准化字段，或允许自由扩展键？
+    related_paths: ["#/$defs/测试条件对象"]
+    current_assumption: 已确认，允许自由扩展；不好标准化的内容尽量保留原文
+    impact: 影响 schema 严格度与抽取难度
+  - id: Q012
+    priority: P1
+    question: 图中曲线是否允许估读数值，还是仅抽显式文字/表格数值？
+    related_paths: ["#/$defs/性质条目"]
+    current_assumption: 仅抽显式数据，不估读
+    impact: 影响精度/召回折中
+  - id: Q013
+    priority: P1
+    question: 工艺流程步骤切分依据是什么（按产物节点/按段落动作）？
+    related_paths: ["#/$defs/工艺流程条目"]
+    current_assumption: 已确认，按“产物节点”切分
+    impact: 影响流程数组长度和可比性
+  - id: Q014
+    priority: P1
+    question: 位置索引字段格式是否有硬性规范（block_id/md_range 的编码方式）？
+    related_paths: ["#/$defs/位置索引对象"]
+    current_assumption: 暂用字符串占位
+    impact: 影响可追溯能力与审计流程
+  - id: Q015
+    priority: P0
+    question: 验收优先级是“高精度宁缺毋滥”还是“高召回覆盖优先”？
+    related_paths: ["全局"]
+    current_assumption: 已确认，高精度优先
+    impact: 决定提示词策略和规则松紧
+
+# -----------------------------
+# Minimal output example
+# -----------------------------
+x-example_minimal:
+  文献信息:
+    唯一文献标识: "doi:10.3390/polym13213614"
+    论文标题: "3D Printing of Thermal Insulating Polyimide/Cellulose Nanocrystal Composite Aerogels with Low Dimensional Shrinkage"
+    作者列表: ["Chiao Feng", "Sheng-Sheng Yu"]
+    期刊名称: "Polymers"
+    年份: 2021
+    卷号: 13
+    页码: "3614"
+    文档类型: "Article"
+    语言: "English"
+    关键词: ["polyimide", "aerogels", "3D printing"]
+  聚合物:
+    - 聚合物分类名称: "Polyimide/Cellulose Nanocrystal Composite Aerogel"
+      聚合物分类编码: "PI/CNC"
+      名称: "PI/CNC Composite Aerogel (6.5 wt% CNCs)"
+      身份标识: "doi:10.3390/polym13213614_PI/CNC Composite Aerogel (6.5 wt% CNCs)_01"
+      样本形态: "Porous aerogel"
+      结构特征_L1: "partially_heterocyclic"
+      结构特征_L2: "aromatic, aliphatic"
+      表征: {}
+      性质: []
+      工艺流程: []

@@ -1,0 +1,32 @@
+source_file: 3D Printing of Thermal Insulating PolyimideCellulose Nanocrystal Composite Aerogels with Low Dimensional Shrin.md
+doc_id: 068b284269d46091b613bf3f6fd8f7a0
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [57, 74]
+char_span: [3393, 9244]
+line_count: 16
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+57: # 1. Introduction
+58: 
+59: Polyimide (PI) aerogels have received wide attention because of their low density, stable mechanical properties, and low thermal conductivity [1]. Aerogels are highly porous materials for various applications, but they are often limited by their poor mechanical strength and thermal stability [2]. The capability of aerogels may be expanded by using engineering plastics such as PI with high mechanical strength and thermal stability [3]. For example, poly(4,4'-oxydiphenylene pyromellitimide), also known by its trade name Kapton, is a fully aromatic PI that retains its performance over a wide range of temperatures for application in aerospace engineering, defense, and electronics [4]. Recently, there has been a growing interest in using porous PI as high-performance aerogels [5]. Typical PI aerogels are made by the chemical imidization of crosslinked polyamic acids, followed by supercritical  $\mathrm{CO}_{2}$  drying to remove organic solvents within the gels. The lightweight PI aerogels are especially attractive for thermal insulation [6,7], electromagnetic interference shielding [8], and aerospace engineering [9]. Nanocomposite PI aerogels can also be used
+60: 
+61: as sensors [10] and nanogenerators [11]. However, the fabrication of PI aerogels is still limited to the traditional molding process. In addition, the large volumetric shrinkage of PI aerogels during preparation makes it difficult to control the shape of the final product precisely. It is desirable to achieve complex and customizable designs of PI aerogels to accurately assemble each component for advanced applications in thermal regulation and electronics.
+62: 
+63: Additive manufacturing (AM), also known as 3D printing, is an emerging tool for polymer processing. Through the layer-by-layer deposition of materials, geometrically complex objects from computer-aided design (CAD) can be achieved [12]. Light-based printing such as stereolithography (SLA) and digital light processing (DLP) utilized the photopolymerization of resins. On the other hand, fused deposition modeling (FDM) and direct ink writing (DIW) are extrusion-based printing. In particular, DIW is a low-cost and versatile technique compatible with a wide range of materials [13]. The DIW process prints the desired objects by extruding materials through fine nozzles. A successful layer-by-layer deposition is achieved by the proper viscoelastic response of the inks. The ink should display shear-thinning behavior for facile material extrusion under a high printing rate and high yield stress for good self-supporting ability [14,15].
+64: 
+65: Several strategies have been developed to 3D print PI-based materials. For example, photosensitive polyamic acids can be prepared by the reaction with common vinyl monomers [16-18]. Such inks can be used for SLA, DLP, and UV-assisted DIW. It is also possible to use the ionic interaction between polyamic acids and amine-containing vinyl monomers to prepare 3D printable inks for UV-assisted DIW and DLP [19,20]. The above approaches require the chemical modification of polyamic acids and a large quantity of organic solvents. The thermal imidization also induces a significant shrinkage of the printed object. Wang et al. demonstrated that DIW with a rapid drying apparatus enabled 3D printing of PI from poly(amic acid) ammonium salt (PAAS) hydrogels [21]. Water-soluble PAAS inks can be prepared by mixing polyamic acids and triethylamine (TEA). A careful selection of polyamic acids and the amines enables the formation of PAAS-based hydrogels through the potential hydrogen bonding and  $\pi-\pi$  stacking as physical networks [22]. In contrast to PI, the printing of PI aerogels has only been sporadically studied. It may be achieved by the freeze-drying of PAAS hydrogels [23] or using polymer microspheres as pore-forming agents and rheological modifiers for DIW [24].
+66: 
+67: Aside from the above methods, 3D printable ink may also be achieved by using nanoparticles as rheological modifiers. Recently, cellulose nanocrystals (CNCs) have been intensively studied because of their high elastic modulus and low density [25]. CNCs are rod-like particles (10 to  $30\mathrm{nm}$  in diameter and few nanometers in length) with high crystallinity [26]. Indeed, CNCs have been included in chemically imidized PI aerogels [27] or PI thin films [28] as reinforcement. In addition, the dispersion of CNCs in water forms hydrogels with percolated networks. The CNC hydrogels exhibit strong shear-thinning behavior ideal for DIW [29,30]. Interestingly, it has also been demonstrated that the strong physical network of CNCs could significantly reduce the volumetric shrinkage of aerogels during the drying process [31].
+68: 
+69: Although several approaches have 3D printed PI-based materials successfully, the 3D printing of porous PI aerogels has only been sporadically studied. Furthermore, it is intriguing to utilize renewable nanomaterials such as CNCs to enhance the performance of PI aerogels further. In this work, we designed 3D printable inks to fabricate PI/CNC composite aerogels (Figure 1). The ink was mainly composed of water-soluble PAAS by the complexation of polyamic acids and TEA. CNCs were included in the aqueous solutions of PAAS to form physically crosslinked hydrogels for DIW. After printing, freeze-drying was employed as a simple and inexpensive method to make porous structures. Further thermal imidization of the freeze-dried PAAS/CNC aerogels leads to PI/CNC composite aerogels with improved mechanical strength and potential for thermal insulation. The physical network of CNCs effectively reduced the shrinkage of aerogels during preparation and enhanced the mechanical properties of the aerogels.
+70: 
+71: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+72: Figure 1. Synthesis and 3D printing of PI/CNC composite aerogels.

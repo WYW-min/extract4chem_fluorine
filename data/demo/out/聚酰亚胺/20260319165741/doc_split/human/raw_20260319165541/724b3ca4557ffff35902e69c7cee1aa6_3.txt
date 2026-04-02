@@ -1,0 +1,206 @@
+source_file: Melt-Processable Semicrystalline Polyimides Based on 1,4-Bis(3,4-dicarboxyphenoxy)benzene Dianhydride (HQDPA) .md
+doc_id: 724b3ca4557ffff35902e69c7cee1aa6
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [58, 249]
+char_span: [13191, 42723]
+line_count: 190
+effective_body_non_empty_lines: 90
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+58: # 3. Results and Discussion
+59: 
+60: # 3.1. Polymer Synthesis
+61: 
+62: Polyimides were synthesized from HQDPA with four different diamines (TPER, TPEQ,  $4,4^{\prime}$ -ODA, and BAPB) and coded as PI-1, PI-2, PI-3, and PI-4, respectively (Scheme 1) [49]. Stoichiometric imbalances were used to control the molecular weight of polyimides, and the PA was used as an end capper for terminating polymer chains. The theoretical calculated molecular weights of PI-(1-4) are about  $M_{\mathrm{n}} = 15,000$  Da, which is suitable for melt processing and high enough to demonstrate excellent thermal resistance and mechanical properties. The monomer composition and inherent viscosity  $(\eta_{\mathrm{inh}})$  of polyimides are summarized in Table 1. The  $\eta_{\mathrm{inh}}$  of the polyimides are in the range of  $0.43 - 0.58~\mathrm{dL / g}$ . The Fourier transform infrared spectra confirmed that all the polyimides were fully imidized as shown in Figure S1. The peaks at around 1720 and  $1380~\mathrm{cm}^{-1}$  correspond to the C=O symmetric stretch and C-N stretch of imide, respectively.
+63: 
+64: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+65: Scheme 1. Synthesis of polyimides derived from 1,4-bis(3,4-dicarboxyphenoxy)benzene dianhydride (HQDPA).
+66: 
+67: Table 1. Inherent viscosities, thermal properties, and crystallization properties of polyimides.  
+68: 
+69: <table><tr><td rowspan="2">Sample</td><td rowspan="2">Diamine</td><td rowspan="2">ηinh a (dL/g)</td><td colspan="2">T5% (°C)b</td><td rowspan="2">R800c (%)</td><td rowspan="2">Tgd (°C)</td><td rowspan="2">Tme (°C)</td><td rowspan="2">Tm*f (°C)</td></tr><tr><td>N2</td><td>Air</td></tr><tr><td>PI-1</td><td>TPER</td><td>0.43</td><td>540</td><td>536</td><td>52.6</td><td>190</td><td>333,351</td><td>331,350</td></tr><tr><td>PI-2</td><td>TPEQ</td><td>0.58</td><td>548</td><td>545</td><td>51.5</td><td>214</td><td>393</td><td>388</td></tr><tr><td>PI-3</td><td>4,4&#x27;-ODA</td><td>0.46</td><td>553</td><td>547</td><td>56.3</td><td>223</td><td>349</td><td>-</td></tr><tr><td>PI-4</td><td>BAPB</td><td>0.56</td><td>525</td><td>522</td><td>54.1</td><td>223</td><td>354</td><td>-</td></tr></table>
+70: 
+71: a The inherent viscosities measured at a concentration of  $0.5\mathrm{g / dL}$  in m-cresol at  $30^{\circ}\mathrm{C};$  b Temperature of  $5 \%$  weight loss were recorded by thermogravimetric analysis (TGA) at a heating rate of  $10^{\circ}\mathrm{C}\cdot \mathrm{min}^{-1}$  in nitrogen or air; c Residual weight retention at  $800^{\circ}\mathrm{C}$  in nitrogen; d Measured in the second differential scanning calorimetry (DSC) scans at a heating rate of  $10^{\circ}\mathrm{C}\cdot \mathrm{min}^{-1}$  in nitrogen; e Melting point measured by first DSC heating scan at a heating rate of  $10^{\circ}\mathrm{C}\cdot \mathrm{min}^{-1};$  f Melting point measured by second DSC heating scan at a heating rate of  $10^{\circ}\mathrm{C}\cdot \mathrm{min}^{-1}$  after melting for 3 min.
+72: 
+73: # 3.2. Thermal Stability
+74: 
+75: TGA was utilized to evaluate the thermal stability of polyimides and TGA curves of polyimides in different atmospheres are shown in Figure 1. The temperatures of  $5\%$  weight loss for all the polyimides
+76: 
+77: under nitrogen and air are summarized in Table 1. All the polyimides exhibited excellent thermal stability in air and nitrogen. The temperatures of  $5\%$  weight loss of polyimides range from  $525 - 553^{\circ}\mathrm{C}$  in nitrogen and  $522 - 547^{\circ}\mathrm{C}$  in air, respectively. The residual weight retention at  $800^{\circ}\mathrm{C}$  in nitrogen for all the samples are more than  $50\%$ .
+78: 
+79: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+80: Figure 1. TGA curves of polyimides: (a) in Air; (b) in  $\mathbf{N}_2$
+81: 
+82: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+83: 
+84: # 3.3. Wide-Angle X-ray Diffraction
+85: 
+86: The crystal structures of the polyimides were studied by wide-angle X-ray diffraction (WAXD). Figure 2 shows WAXD patterns for as-made polyimide powder specimens. Obvious diffraction peaks above the broad amorphous halo suggested that all the polyimides had a semicrystalline character. However, the diffraction peak positions changed gradually with the variation of diamines.
+87: 
+88: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+89: Figure 2. Wide-angle X-ray diffraction (WAXD) patterns of polyimide powders.
+90: 
+91: # 3.4. Melting Behavior
+92: 
+93: DSC experiments were conducted to study the melting behaviors and recrystallization ability of polyimides.
+94: 
+95: # 3.4.1. Initial Melting Behavior
+96: 
+97: The first DSC heating scans for the as-made polyimide powders are shown in Figure 3a. All the samples exhibited prominent melting endotherms with peak temperatures ranging from  $349^{\circ}\mathrm{C}$  to  $393^{\circ}\mathrm{C}$ , which suggested that all of the polyimide powders were crystalline, while the specific heat
+98: 
+99: transitions corresponding to  $T_{\mathrm{g}}$  were not observed. The crystallization properties of polyimides are summarized in Table 1.
+100: 
+101: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+102: Figure 3. DSC curves for HQDPA polyimides: (a) first heating; (b) second heating.
+103: 
+104: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+105: 
+106: # 3.4.2. Second Melting Behavior
+107: 
+108: Since the thermal history has influence on the first DSC heating scan, samples were first heated to  $30^{\circ}\mathrm{C}$  above the melting temperature and held for  $3\mathrm{min}$  to eliminate the thermal history. And then the samples were quenched to ambient temperature at a rate of  $200^{\circ}\mathrm{C}\cdot \mathrm{min}^{-1}$  and reheated at a rate of  $10^{\circ}\mathrm{C}\cdot \mathrm{min}^{-1}$ . The second heating scans for the quenched polyimides are shown in Figure 3b. It is worth emphasizing that neither PI-1 nor PI-2 could be quenched into a pure amorphous state, implying that both of them exhibit excellent crystallization ability from melt, while the melting endotherms of PI-3 and PI-4 cannot be observed any longer. The heat fusion of PI-1 and PI-2 was estimated to be  $52\mathrm{J / g}$  and  $35\mathrm{J / g}$ , respectively. From the Figure 3b, it can also be seen that PI-1 exhibited a prominent  $T_{\mathrm{g}}$  at  $190^{\circ}\mathrm{C}$ , followed by a cold crystallization exotherm ( $T_{\mathrm{c}}$ ) at  $285^{\circ}\mathrm{C}$ , and double melting endotherms ( $T_{\mathrm{m}}$ ) at  $331^{\circ}\mathrm{C}$  and  $350^{\circ}\mathrm{C}$ , while the melting temperature of the polyimide base on BPDA/TPER is  $395^{\circ}\mathrm{C}$  [41]. The lower melting temperature of PI-1 can be attributed to the flexible dianhydride (HQDPA) containing double ether linkages, which could significantly improve the mobility of the molecular chain. PI-2 displayed a  $T_{\mathrm{m}}$  of  $388^{\circ}\mathrm{C}$ , which was close to that of New-TPI ( $T_{\mathrm{m}} = 385^{\circ}\mathrm{C}$ ) [31]. It can be seen that  $T_{\mathrm{m}}$  of PI-2 from para-linked diamine (TPEQ) are higher than that of PI-1 from meta-linked diamine (TPER). Comparing with PI-2, the melting temperature of PI-1 is lower than  $360^{\circ}\mathrm{C}$ , which makes it more convenient for melt processing. It was very easy to quench the polyimide based on  $4,4'$ -oxydiphthalic anhydride (ODPA)/TPEQ into a purely amorphous state [45], however, the quenched PI-1 and PI-2 still could exhibit sharp melting endotherms, implying the excellent crystallization ability. The recrystallization ability of PI-3 and PI-4 are not very good, they can only exhibit crystallizability during the first heating scan.
+109: 
+110: In summary, it was found that PI-3 and PI-4 could not recrystallize once taken to the melt, while PI-1 and PI-2 exhibited recrystallization ability from melt, which made them attractive candidates for high-performance melt-processable engineering plastics. Therefore, more detailed characterization like the repeated melting behavior, non-isothermal crystallization behavior, isothermal crystallization kinetics, and dynamic thermomechanical analysis of PI-1 and PI-2 were carried out.
+111: 
+112: # 3.4.3. Repeated Melting Behavior
+113: 
+114: The recrystallization ability of PI-1 and PI-2 were then carefully studied by repeatedly DSC heating scans after being melted for  $3\mathrm{min}$  several times. As shown in Figure 4a, the as-made PI-1 is crystalline and displays prominent double melting endotherms without a clear  $T_{\mathrm{g}}$ . However, the  $T_{\mathrm{g}}$  of PI-1 around  $180 - 200^{\circ}\mathrm{C}$  was observed during the subsequent four rescans. A very weak recrystallization exotherm with peak temperatures of  $250^{\circ}\mathrm{C}$  and double melting endotherms with peak temperatures
+115: 
+116: of  $330^{\circ}\mathrm{C}$  and  $350^{\circ}\mathrm{C}$  were also observed. The similar phenomenon was also observed for PI-2 in Figure 4b. The as-made PI-2 has been proven to be crystalline, however, a  $T_{\mathrm{g}}$  in the range from  $210^{\circ}\mathrm{C}$  to  $220^{\circ}\mathrm{C}$  and recrystallization exotherms with peak temperatures of  $300^{\circ}\mathrm{C}$  to  $310^{\circ}\mathrm{C}$  were observed at the subsequent four rescans, and the melting endotherm was found to be  $390^{\circ}\mathrm{C}$ . The recrystallization exotherms of PI-2 were more obvious than that of PI-1, which implied the crystallization rate of PI-2 was much slower than PI-1. Both of PI-1 and PI-2 haven't exhibited any obvious changes in DSC curves after repeatedly melt, indicating they exhibited excellent recrystallization ability from melt.
+117: 
+118: According to the melting behavior study above, we can see that PI-1 exhibited lower melting temperatures and excellent recrystallization ability from the melt, it can become a potential melt-processable semicrystalline polyimides.
+119: 
+120: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+121: Figure 4. Repeatedly multiple DSC heating scans of (a) PI-1; (b) PI-2.
+122: 
+123: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+124: 
+125: # 3.5. Nonisothermal Crystallization Behavior
+126: 
+127: The effect of different cooling rates on the subsequent melting behavior was also investigated. Figure 5a,b show DSC heating scans of PI-1 and PI-2 at  $10^{\circ}\mathrm{C} \cdot \mathrm{min}^{-1}$  following various cooling rates from the melt, respectively. PI-1 and PI-2 could crystallize during cooling at a cooling rate  $5^{\circ}\mathrm{C} \cdot \mathrm{min}^{-1}$ , as is evident from the lack of a clear glass transition and absence of a crystallization exotherm in the heating scans. With the increasing of cooling rates, the glass transition and the crystallization exotherm become more obvious. The crystallization rate of PI-1 is also found to be faster than PI-2, as is evident by the crystallization exotherm of PI-1 is less obvious than PI-2 after the same cooling treatment.
+128: 
+129: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+130: Figure 5. DSC scans for samples subjected to various cooling rates from the melt: (a) PI-1; (b) PI-2.
+131: 
+132: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+133: 
+134: # 3.6. Isothermal Crystallization Behavior
+135: 
+136: Isothermal experiments were conducted to obtain more detailed information about the crystallization kinetics and the crystallization mechanism. The polyimides were firstly heated at  $20^{\circ}\mathrm{C} \cdot \mathrm{min}^{-1}$  to the melting temperature and held for  $3\mathrm{~min}$ , then were cooled at  $200^{\circ}\mathrm{C} \cdot \mathrm{min}^{-1}$  to various crystallization temperatures and held for  $30\mathrm{~min}$ , and were then cooled to ambient temperature at a rate of  $200^{\circ}\mathrm{C} \cdot \mathrm{min}^{-1}$ . The samples were then reheated at a rate of  $10^{\circ}\mathrm{C} \cdot \mathrm{min}^{-1}$ . Figure 6a shows the DSC scans of PI-1 after crystallizing at temperatures ranging from  $260^{\circ}\mathrm{C}$  to  $300^{\circ}\mathrm{C}$ . As can be seen, the melting behavior of PI-1 includes triple melting endotherms. The first endotherm (assigned as Peak I) appears at about  $15^{\circ}\mathrm{C}$  higher than the previous  $T_{\mathrm{c}}$ . The second endotherm (Peak II) and third endotherm (Peak III) present at about 330 and  $350^{\circ}\mathrm{C}$ , respectively. With the increasing of  $T_{\mathrm{c}}$ , the peak II shifts to higher temperatures, while the peak III gradually became indistinct.
+137: 
+138: Figure 6b shows the heating scans of PI-2 after being crystallized at temperatures ranging from  $280^{\circ}\mathrm{C}$  to  $320^{\circ}\mathrm{C}$ , and the PI-2 presents double melting endotherms. The first endotherm (Peak I) also appeared at about  $15^{\circ}\mathrm{C}$  higher than the previous  $T_{\mathrm{c}}$ . The second endotherm (Peak II) showed at about  $390^{\circ}\mathrm{C}$ , which is independent of the previous crystallization temperatures.
+139: 
+140: The Peak I of PI-1 and PI-2 could be attributed to the "annealing peak", which results from much poorer crystals growing between the larger crystals [50]. In order to explore the reason for multiple melting behavior of PI-1, WAXD, and DSC experiments were conducted according to the literature [27]. PI-1 was subjected to isotherm treatment at  $340^{\circ}\mathrm{C}$  between its two melting peaks (the temperature of Peak II was about  $330^{\circ}\mathrm{C}$  and the temperature of Peak III was about  $350^{\circ}\mathrm{C}$ ). The DSC curves of PI-1 after different isothermal treatment is shown in Figure S2. After the isothermal treatment, the endothermic peaks at high temperature gradually became stronger, while the endothermic peak at low temperature gradually decreased. The reason for that may be due to the high temperature heat treatment, the crystal lamellae with lower melting temperature and less perfect crystal melted during the isothermal heat treatment, and the molecular chain rearrangement to form more perfect crystal, so the enthalpy of endothermic peaks at high temperature increases.
+141: 
+142: WAXD was also conducted after PI-1 was isothermally treated by DSC. The WAXD patterns of PI-1 after isothermal treatment are shown in Figure S3. The XRD patterns of PI-1 after isothermally treatment at  $340^{\circ}\mathrm{C}$  are similar to that isothermally treatment at  $260^{\circ}\mathrm{C}$ . The positions of diffraction peaks had no significant changes. There were no new diffraction peaks, indicating that no new crystal structures were formed. According to the above study, the reason for the multiple melting behavior may be the difference in crystal size.
+143: 
+144: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+145: Figure 6. DSC scans for samples isothermally crystallized at various temperatures: (a) PI-1; (b) PI-2.
+146: 
+147: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+148: 
+149: # 3.6.1. Equilibrium Melting Temperatures
+150: 
+151: It was necessary to determine the equilibrium melting temperatures  $(T_{\mathrm{m}}^{\circ})$  of PI-1 and PI-2. The  $T_{\mathrm{m}}^{\circ}$  is defined as the melting temperature of infinitely thick crystals, and it can be obtained by the Hoffman-Weeks equation [40]. Using the equation,  $T_{\mathrm{m}}^{\circ}$  can be determined by extrapolating the plot of  $T_{\mathrm{m}}$  as a function  $T_{\mathrm{c}}$  to the  $T_{\mathrm{m}} = T_{\mathrm{c}}$  line. As is shown in Figure S4,  $T_{\mathrm{m}}^{\circ}$  was determined to be  $356^{\circ}\mathrm{C}$  and  $390^{\circ}\mathrm{C}$  for PI-1 and PI-2, respectively. Based on this result, samples for measuring isothermal crystallization kinetics were heated above  $T_{\mathrm{m}}^{\circ}$  to ensure complete melting.
+152: 
+153: # 3.6.2. Isothermal Crystallization Kinetics
+154: 
+155: Avrami analysis is the most widely used means for describing the overall bulk isothermal crystallization of polymers. It can provide important information about the crystallization mechanism and kinetics parameters. The Avrami equation [51] is generally written as:
+156: 
+157: $$
+158: X _ {C} (t) = 1 - \exp (- K t ^ {n}) \tag {1}
+159: $$
+160: 
+161: where  $X_{\mathrm{c}}(t)$  is the relative degree of crystallinity at time  $t$ ; the parameter  $K$  is a composite rate constant involving both nucleation and growth rate parameters; and  $n$  is the Avrami exponent, which indicates the nucleation mechanism and growth dimensions. The Equation (1) could also express in the form of Equation (2).
+162: 
+163: $$
+164: \log \left[ - \ln \left(1 - X _ {\mathrm {c}} (t)\right) \right] = \log K + n \log t \tag {2}
+165: $$
+166: 
+167: The values of  $n$  and  $K$  can be determined by the slope and intercept of the initial portion. Although, the value of  $K$  can be used to estimate the bulk crystallization rate, the units of  $K$  depend on the value of  $n$ . So the values of  $K^{1 / n}$  are always used to evaluate the crystallization rate. Another important parameter is the crystallization half-time,  $t_{1 / 2}$ , which is defined as the time at which  $50\%$  crystallization is completed and is determined from the measured kinetic parameters.
+168: 
+169: $$
+170: t _ {1 / 2} = (\ln 2 / k) ^ {1 / n} \tag {3}
+171: $$
+172: 
+173: Usually, the rate of crystallization,  $\tau_{1/2}$ , is described as the reciprocal of  $t_{1/2}$ .
+174: 
+175: $$
+176: \tau_ {1 / 2} = 1 / t _ {1 / 2} \tag {4}
+177: $$
+178: 
+179: The heat flow versus time and the relative crystallinity  $X_{\mathrm{c}}(t)$  as a function of time for isothermal crystallization at various temperatures for PI-1 and PI-2 are shown in Figure 7 and Figure S5, respectively. The plot of log  $[- \ln (1 - X_{\mathrm{c}}(t))]$  versus log  $t$  is shown in Figure S6. The value of  $K, n, t_{1/2}$ , and other kinetic parameters for PI-1 and PI-2 are listed in Table 2. For PI-1, the values of  $n$  vary from 2.3 to 2.6 with the  $T_{\mathrm{c}}$  increasing from  $260^{\circ}\mathrm{C}$  to  $300^{\circ}\mathrm{C}$ . For the PI-2, the values of  $n$  vary from 2.3 to 2.9 with the  $T_{\mathrm{c}}$  increasing from  $280^{\circ}\mathrm{C}$  to  $320^{\circ}\mathrm{C}$ . The results suggested that the primary crystallization processes should correspond to a three-dimensional spherulitic growth or a two-dimensional circular diffusion-controlled growth.
+180: 
+181: As evident in Figure 7, the overall bulk crystallization of PI-1 is very temperature sensitive in the narrow  $40^{\circ}\mathrm{C}$  range from  $260 - 300^{\circ}\mathrm{C}$ . The value of  $K^{1 / n}$  increases first with the increasing of  $T_{\mathrm{c}}$  and then decreases. The  $\tau_{1 / 2}$  also showed to have the same tendency of changes with the increasing of  $T_{\mathrm{c}}$ . PI-2 had the similar tendency of changes as PI-1 with the increasing of  $T_{\mathrm{c}}$ . The crystallization rate reached a maximum ( $T_{\mathrm{max}}$ ) at  $280^{\circ}\mathrm{C}$  and  $300^{\circ}\mathrm{C}$  for PI-1 and PI-2, respectively. Figure 8 demonstrates the relationship between  $t_{1 / 2}$  and crystallization temperatures of PI-1 and PI-2. There is a minimum of  $t_{1 / 2}$  for each polymer, corresponding to the fastest crystallization rate. The fastest crystallization rate of PI-1 can be observed at  $T_{\mathrm{c}} = 280^{\circ}\mathrm{C}$ , and for PI-2 it is at  $T_{\mathrm{c}} = 300^{\circ}\mathrm{C}$ .
+182: 
+183: The reasons for the change of crystallization rate could be because the crystallization rate is determined by the nucleation forming rate at temperature above  $T_{\mathrm{max}}$ , which decreases with the increasing of  $T_{\mathrm{c}}$ ; while the crystallization rate is determined by the nucleation growth rate at temperature blow  $T_{\mathrm{max}}$ , which increases with the increasing of  $T_{\mathrm{c}}$  [52].
+184: 
+185: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+186: Figure 7. Heat flow versus time for the isothermal crystallization of polyimides at various crystallization temperatures. (a) PI-1; (b) PI-2.
+187: 
+188: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+189: 
+190: Table 2. Kinetic parameters for PI-1 and PI-2 obtained from isothermal crystallization.  
+191: 
+192: <table><tr><td>Sample</td><td>Tca(°C)</td><td>n</td><td>K(min-n)</td><td>K1/n</td><td>t1/2(min)</td><td>τ1/2(min-1)</td></tr><tr><td rowspan="5">PI-1</td><td>260</td><td>2.5</td><td>0.0149</td><td>0.19</td><td>4.56</td><td>0.22</td></tr><tr><td>270</td><td>2.4</td><td>0.0464</td><td>0.27</td><td>3.12</td><td>0.32</td></tr><tr><td>280</td><td>2.3</td><td>0.1649</td><td>0.45</td><td>1.88</td><td>0.53</td></tr><tr><td>290</td><td>2.5</td><td>0.0694</td><td>0.34</td><td>2.52</td><td>0.40</td></tr><tr><td>300</td><td>2.6</td><td>0.0123</td><td>0.19</td><td>4.66</td><td>0.21</td></tr><tr><td rowspan="5">PI-2</td><td>280</td><td>2.5</td><td>0.0115</td><td>0.17</td><td>5.21</td><td>0.19</td></tr><tr><td>290</td><td>2.7</td><td>0.0163</td><td>0.21</td><td>4.11</td><td>0.24</td></tr><tr><td>300</td><td>2.3</td><td>0.0658</td><td>0.31</td><td>2.76</td><td>0.36</td></tr><tr><td>310</td><td>2.8</td><td>0.0147</td><td>0.22</td><td>3.92</td><td>0.26</td></tr><tr><td>320</td><td>2.9</td><td>0.0039</td><td>0.15</td><td>6.06</td><td>0.17</td></tr></table>
+193: 
+194: ${}^{a}$  Crystallization temperature.
+195: 
+196: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+197: Figure 8. The crystallization half-time  $(t_{1 / 2})$  vs. crystallization temperature plot.
+198: 
+199: # 3.6.3. Comparison with Other Semicrystalline Polymers
+200: 
+201: In order to compare the crystallization kinetic parameters with other semicrystalline polymers, the results from other reports and this work are summarized in Table 3. The values of  $K^{1 / n}$  of PI-1 and PI-2 are higher than that of PEEK and New-TPI, indicating that both of them possess relatively higher crystallization rate than these polymers.
+202: 
+203: Table 3. Bulk crystallization rates for some semicrystalline polymers.  
+204: 
+205: <table><tr><td>Polymer</td><td>Melt Temperature (°C)</td><td>Undercooling, ΔT (°C)</td><td>K1/n</td><td>Ref.</td></tr><tr><td>PEEK</td><td>410</td><td>80</td><td>0.06</td><td>[53]</td></tr><tr><td>New-TPI</td><td>410</td><td>121</td><td>0.04</td><td>[31]</td></tr><tr><td>BPDA/TPER</td><td>430</td><td>55</td><td>0.61</td><td>[43]</td></tr><tr><td>PI-1</td><td>370</td><td>76</td><td>0.45</td><td>This work</td></tr><tr><td>PI-2</td><td>420</td><td>90</td><td>0.31</td><td>This work</td></tr></table>
+206: 
+207: # 3.7. Crystalline Morphology
+208: 
+209: Polarized optical microscopic (POM) observations of PI-1 and PI-2 have been conducted to investigate the crystal morphology and the results are shown in Figure 9. The Maltese cross could be observed for both of PI-1 and PI-2, which proved the growth of spherulite. The result was consistent with the Avrami analysis, which suggested that the primary crystallization processes should correspond to a three-dimensional spherulitic growth or a two-dimensional circular diffusion-controlled growth. The spherulite size of PI-1, after crystallized at  $280^{\circ}\mathrm{C}$  for  $5\mathrm{min}$ , was larger than that of PI-2 crystallized at  $300^{\circ}\mathrm{C}$  for  $5\mathrm{min}$ , which proved that the crystallization growth rate of PI-1 was higher than PI-2.
+210: 
+211: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+212: Figure 9. Polarized optical microscopic (POM) observations of the crystal morphologies: (a) PI-1 crystallized at  $280^{\circ}\mathrm{C}$  for  $5\mathrm{min}$ ; (b) PI-2 crystallized at  $300^{\circ}\mathrm{C}$  for  $5\mathrm{min}$ .
+213: 
+214: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+215: 
+216: # 3.8. Melt Processability
+217: 
+218: In order to evaluate the melt processability of polyimides, rheological measurements of polyimides were conducted from  $300^{\circ}\mathrm{C}$  to  $450^{\circ}\mathrm{C}$ . The melt viscosities as a function of temperature are plotted in Figure 10. With the increase of the temperature, the complex viscosity of polyimides first decreased and then increased. All the polyimides maintain high initial complex viscosity around  $8 \times 10^{4} \mathrm{~Pa} \cdot \mathrm{s}$  to  $1 \times 10^{5} \mathrm{~Pa} \cdot \mathrm{s}$  until the temperature approaches their melting temperatures, and then the viscosity decreased dramatically. PI-2 and PI-4 showed higher complex viscosity around  $1200 \mathrm{~Pa} \cdot \mathrm{s}$  around  $400^{\circ}\mathrm{C}$  because of the more rigid structure. While the complex viscosity of PI-1 and PI-3 were less than  $300 \mathrm{~Pa} \cdot \mathrm{s}$  around  $370^{\circ}\mathrm{C}$ , indicating that they were more suitable for melt processing. When temperature reached above  $400^{\circ}\mathrm{C}$ , the melt viscosities of PI-1 and PI-3 increased continuously, this may be due to chain extension or crosslinking reactions in the melt [14,42]. All of the polyimides are soluble in the
+219: 
+220: $m$ -cresol with solid content of  $0.5 \, \text{wt}\%$  before the rheological test. However, it was found that PI-1 and PI-3 became insoluble in  $m$ -cresol after the rheological test. It could be inferred that the molecular chain had cross-linked in some degree.
+221: 
+222: Since air atmosphere was used during the rheological test, the color of polymers changed from white to dark brown at the end of the rheological test. The sample may undergo cross-linking processes by oxidation in the air atmosphere, leading to a graphite like charred residue as the temperature increases. The cross-linked fraction becomes insoluble. Thermal cleavage of the ether units to yield oligomers with 3-hydroxyphthalimide end groups and oligomers with phenyl end groups may be hypothesized to occur in the thermal oxidation [54].
+223: 
+224: Isothermal melt viscosity studies were also carried out on powder samples. Figure 11a,b show the isothermal complex viscosity of PI-1 and PI-2 at different temperatures, respectively. It was observed that their initial viscosity was very sensitive to melt temperature. The initial complex viscosity of PI-1 was about  $400\mathrm{Pa}\cdot \mathrm{s}$  at  $360^{\circ}\mathrm{C}$ , and it decreased to  $240\mathrm{Pa}\cdot \mathrm{s}$  at  $380^{\circ}\mathrm{C}$ . The complex viscosity did not show any obvious increase for times up to  $30\mathrm{min}$  at  $360^{\circ}\mathrm{C}$ . While the melt viscosity after  $30\mathrm{min}$  at  $380^{\circ}\mathrm{C}$  was almost 2.5 times higher than that after  $5\mathrm{min}$ . The viscosity of the PI-2 was too high and it increased very fast when temperatures were higher than  $410^{\circ}\mathrm{C}$ . It was found that the melt viscosity of the semicrystalline polyimide BPDA/TPER was significantly increased during isothermal rheological test. The main reason for that is due to crosslinking/chain branching [43]. It was also found that PI-1 and PI-2 became insoluble in  $m$ -cresol after the rheological test. It may due to the crosslinking reactions in the melt.
+225: 
+226: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+227: Figure 10. The melt viscosities as a function of temperature for polyimides.
+228: 
+229: The results by rheological studies indicate that PI-1 has appropriate melt viscosity and excellent melt stability, and it is more suitable for melt processing. The minimum melt complex viscosity of PI-1 was lower than the R-BAPB type of polyimide, indicating that PI-1 could be a potential candidate for high performance thermoplastic resin matrix for composites [35].
+230: 
+231: # 3.9. Mechanical Properties
+232: 
+233: Table 4 summarizes the mechanical properties of the polyimide films. All the films exhibit excellent mechanical properties with tensile modulus of  $2.0 - 3.3\mathrm{GPa}$ , tensile strength of  $85 - 105\mathrm{MPa}$  and elongation at break of  $5 - 18\%$ . In order to test the mechanical properties of PI-1 and PI-2 at high temperatures, their viscoelastic behaviors were analyzed by dynamic mechanical thermal analysis (DMA) measurements. The curves of storage modulus and tan  $\delta$  versus temperature are shown in Figure 12. The peak temperatures of tan  $\delta$  were used to represent  $T_{\mathrm{gs}}$ s of polyimide films, and the  $T_{\mathrm{gs}}$ s of
+234: 
+235: PI-1 and PI-2 films are  $205^{\circ}\mathrm{C}$  and  $245^{\circ}\mathrm{C}$ , respectively. The  $T_{\mathrm{g}}$  values obtained by DMA are higher than that measured by DSC. This could be attributed to the different responses of the samples to the two characterization methods. PI-1 and PI-2 maintain an initial storage modulus around  $2.0\mathrm{GPa}$  and the storage modulus drops gradually when temperature reached their  $T_{\mathrm{g}}\mathrm{s}$  and maintain a relatively stable plateau around  $150\mathrm{MPa}$  until melting temperature. This is different from amorphous polymers, whose storage modulus decreased sharply above  $T_{\mathrm{g}}$ . The storage modulus curves indicated that the PI-1 and PI-2 possess outstanding mechanical performance under high temperature and could maintain their structural stiffness up to 300 and  $360^{\circ}\mathrm{C}$ , respectively. This indicated that both of them can be used as high-temperature semicrystalline polymers.
+236: 
+237: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+238: Figure 11. The melt viscosities as a function of time for polyimides: (a) PI-1; (b) PI-2.
+239: 
+240: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+241: 
+242: Table 4. Mechanical properties of polyimides.  
+243: 
+244: <table><tr><td>Sample</td><td>Tensile Strength (MPa)</td><td>Tensile Modulus (GPa)</td><td>Elongation at Break (%)</td></tr><tr><td>PI-1</td><td>97</td><td>3.1</td><td>5</td></tr><tr><td>PI-2</td><td>105</td><td>3.3</td><td>5</td></tr><tr><td>PI-3</td><td>103</td><td>2.5</td><td>18</td></tr><tr><td>PI-4</td><td>85</td><td>2.0</td><td>10</td></tr></table>
+245: 
+246: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+247: Figure 12. Dynamic mechanical thermal analysis (DMA) curves for polyimides.

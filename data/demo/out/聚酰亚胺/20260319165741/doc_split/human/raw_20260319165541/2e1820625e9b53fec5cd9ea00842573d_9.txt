@@ -1,0 +1,48 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 9
+block_id: b0010
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: FILMS DEVELOPMENT
+line_span: [85, 118]
+char_span: [15404, 19814]
+line_count: 32
+effective_body_non_empty_lines: 16
+
+lines:
+--- chunk (b0010: FILMS DEVELOPMENT) ---
+85: # FILMS DEVELOPMENT
+86: 
+87: Figure 2 depicts the physical state of MDI-6FDA PI film formation under various drying conditions. The drying method and temperature were designed in stages, from ambient to heating in vacuum atmosphere up to  $160^{\circ}\mathrm{C}$ , which is close to the solvent evaporation temperature (DMAc:  $165^{\circ}\mathrm{C}$ ; NMP:  $202^{\circ}\mathrm{C}$ ). Based on the observation, the MDI-6FDA films in Figure 2(a) to 2(h) are brittle and break before being removed from the glass slide, except for MDI-6FDA film (i).
+88: 
+89: Figure 2(a) shows that evaporating the solvent in an ambient environment is not a viable method for producing a film. It can be seen that it retains the characteristics and texture of the powder due to the reaction of moisture in the fume hood environment with the solvent, and thus reproduces the MDI-6FDA powder. Furthermore, despite the introduction of an inert environment for the drying of the solution in the glove box (method (b)), the room temperature used was insufficient for solvent evaporation to form a film. This causes only the moisture in the solvent to evaporate, leaving a fine yellowish powdery texture on the MDI-6FDA film, as shown in Figure 2(b).
+90: 
+91: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+92: 
+93: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+94: 
+95: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+96: 
+97: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+98: 
+99: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+100: 
+101: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+102: FIGURE 2. MDI-6FDA PI films after drying in various parameter. (a) Fume hood  $(24\mathrm{h})$  ; (b) Glovebox  $(24\mathrm{h})$  ; (c) Drying oven  $(60^{\circ}\mathrm{C},2\mathrm{h})$  ; (d) Drying oven  $(80^{\circ}\mathrm{C},2\mathrm{h})$  ; (e) Drying oven  $(90^{\circ}\mathrm{C},2\mathrm{h})$  ; (f) Drying oven  $(100^{\circ}\mathrm{C},2\mathrm{h})$  ; (g) Vacuum oven  $(80^{\circ}\mathrm{C},2\mathrm{h})$  ; (h) Vacuum oven  $(100^{\circ}\mathrm{C},2\mathrm{h})$  ; (i) Vacuum oven  $(160^{\circ}\mathrm{C},2\mathrm{h})$
+103: 
+104: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+105: 
+106: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+107: 
+108: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+109: 
+110: Meanwhile, a better MDI-6FDA film texture was achieved through an oven-based film drying process (Figure 2(c) - 2(i)). However, heating the film in a drying oven (Figure 2(c) - 2(f)) has resulted in a film that is significantly more brittle than film dried in a vacuum oven. When removed from the glass slides, films produced in a vacuum oven are less likely to shatter than films from the conventional ovens. This could be due to a lack of moisture, that had been removed under vacuum (Reis 2014), which helps to increase the drying rate and results in a firmer film texture (Jiang, Zhang & Adhikari 2013; Punathil & Basak 2016). Furthermore, vacuum drying causes more evaporation of solvent in less drying time than conventional drying ovens (Ngamwonglumlert & Devahastin 2018).
+111: 
+112: Generally, a flexible and non-brittle MDI-6FDA film (i) is successfully obtained by drying under vacuum at  $160^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ . The high temperature required to eliminate excess solvent for flexible film formation may be due to the presence of NMP solvent traces in the polymer (Alvino & Edelman 1978), as supported by the NMR analysis.
+113: 
+114: In addition, Table 2 further shows that the thickness and colour homogeneity of the MDI-6FDA film were affected by the volume of solution droplets. According to the table, 46 drops  $(1\mathrm{mL})$  of solution could produce a film with a uniform colour and average thickness across the surface, which also indicates sufficient surface tension for the size of the film sample tested in this study. On the other hand, a thinner surface results in a film with
+115: 
+116: a brighter and more transparent colour in the center of the films with 26, 33, and 35 total drops of solution. The average thickness of the film surface indirectly influences the colour homogeneity of the MDI-6FDA film. Nonetheless, film with uniform colour and surface thickness (46 drops) is essential for practical use. The properties of the MDI-6FDA film were examined by employing a commercial Kapton (Figure 1) as a standard reference film

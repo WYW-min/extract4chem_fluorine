@@ -1,0 +1,19 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 12
+block_id: b0013
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: MECHANICAL PROPERTIES
+line_span: [135, 139]
+char_span: [22758, 23797]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0013: MECHANICAL PROPERTIES) ---
+135: # MECHANICAL PROPERTIES
+136: 
+137: The mechanical properties of the two PI films determined from the stress-strain curves (Figure 5) are listed in Table 4. The presence of bridging dianhydride and flexible  $\mathrm{CF}_3$  in MDI-6FDA film reduces the rigidity of the polymer chain, resulting in lower tensile strength and modulus when compared to Kapton with stiff and non-bridging dianhydride (Liaw et al. 2012; Liu et al. 2012). Besides, the large  $\mathrm{C(CF_3)_2}$  bridging in MDI-6FDA film has also increased the steric hindrance between the chains, thus inhibiting interactions between molecules in the polymer (Liu et al. 2012). This also supports the higher transparency of MDI-6FDA film over Kapton film. However, both PI films show good film flexibility, with up to  $5\%$  elongation at break. The mechanical properties of both PI films are comparable to PET and PEN polymer films, which are commonly used as flexible substrates with a tensile strength of  $52\mathrm{MPa}$  and  $82\mathrm{MPa}$ , respectively (Lim et al. 2012).

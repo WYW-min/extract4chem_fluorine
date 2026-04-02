@@ -1,0 +1,19 @@
+source_file: Multicore-shell nanofiber architecture of polyimidepolyvinylidene fluoride blend for thermal and long-term sta.md
+doc_id: 80866f6860b70ed6196a3f3072338388
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Acknowledgements
+line_span: [141, 145]
+char_span: [39288, 39420]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0007: Acknowledgements) ---
+141: # Acknowledgements
+142: 
+143: The authors acknowledge the financial support of this work from the Korea Institute of Science and Technology.

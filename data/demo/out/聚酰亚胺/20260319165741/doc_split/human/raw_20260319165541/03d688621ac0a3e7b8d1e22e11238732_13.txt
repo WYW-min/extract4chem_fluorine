@@ -1,0 +1,21 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 13
+block_id: b0014
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Conclusion
+line_span: [167, 173]
+char_span: [25627, 26903]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0014: Conclusion) ---
+167: # Conclusion
+168: 
+169: Multiwalled carbon nanotubes were successfully functionalized with acid and amino groups. The functionalization resulted in uniform dispersion of the tube during imidization process which resulted in strong bonding and thick coating of the matrix. The fracture behaviour of amine functionalized MWCNT nanocomposites show a strong bonding of the tubes with the matrix which resulted in  $\sim 50\%$  improvement in the TS and  $35\%$  improvement in the YM over the neat polyimide films. The electrical conductivity of the MWCNT reinforced polyimide composites was  $0.938~\mathrm{S~cm}^{-1}$  (5 wt% acid-MWCNTs) and  $1.032~\mathrm{S~cm}^{-1}$  (5 wt% amide-MWCNTs) is the highest achieved so far for polyimide composites. High electrical conductivity together with high strength and improved thermal stability makes these nanocomposites a promising candidate for high-temperature EMI shielding materials.
+170: 
+171: Acknowledgements The authors are grateful to Prof. Vikram Kumar, Director, NPL, and Dr. A.K. Gupta, Head Engineering Materials Division, for permission to publish the research work. The authors would like to thank Mr. R.K. Seth for carrying out the TGA studies, Mr. Jay Tawale for SEM observation and Ms. Chetna Dhand for carrying out the FTIR studies.

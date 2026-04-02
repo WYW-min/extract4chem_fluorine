@@ -1,0 +1,75 @@
+source_file: Alicyclic PolyimideSiO2 Mixed Matrix Membranes for Watern-Butanol Pervaporation.md
+doc_id: e0b3ab252e5119414a412cf73a251285
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [71, 131]
+char_span: [9829, 16265]
+line_count: 59
+effective_body_non_empty_lines: 30
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+71: # 2. Materials and Methods
+72: 
+73: # 2.1. Materials
+74: 
+75: Bicyclo[2.2.2]oct-7-ene-2,3,5,6-tetracarboxylic dianhydride (BCDA),  $3,4^{\prime}$ -oxydianiline  $(3,4^{\prime}$  ODA), and 1,3-bis(3-aminophenoxy)benzene (1,3,3-APB) were purchased from Sigma-Aldrich (St. Louis, MO, USA) and used without further purification.  $\gamma$ -Butyrolactone (GBL) and N,N-dimethylacetamide (DMAc) from Sigma-Aldrich were selected as solvents and dried overnight with molecular sieves prior to use. Colloidal silica solution, which contains ca.  $20~\mathrm{wt\%}$  of  $20~\mathrm{nm}~\mathrm{SiO}_2$  nanoparticles in DMAc, was provided from Nissan Chemical (Tokyo Japan).
+76: 
+77: # 2.2. Preparation of PIs
+78: 
+79: The PI synthesis process is depicted in Figure 1. The molar ratio of BCDA-3,4'-ODA or BCDA-1,3,3-APB was 1. The monomers and 4-fold weight of co-solvent (DMAc/GBL = 60/40  $(w / w)$ ) were added to a three-necked flask equipped with a mechanical stirrer, a thermometer, and two connected condensers. The flask was purged with nitrogen, and the mixture was stirred at room temperature for  $2\mathrm{h}$  to react and create a homogeneous poly(amic acid) (PAA) solution. The catalyst isoquinoline  $(2\mathrm{wt}\%)$  was then added into the three-necked flask, and the temperature was increased to  $170^{\circ}\mathrm{C}$ . The solution was refluxed at  $170^{\circ}\mathrm{C}$  for  $16\mathrm{h}$  until the imidization of PAA was completed. The product solution was slowly cooled down, and excess ethanol was poured into the solution for PI precipitation in order to separate it from the unreacted monomers or low-molecular-weight PI. Finally, the PI precipitate was dried in a vacuum oven at  $150^{\circ}\mathrm{C}$  for  $8\mathrm{h}$ .
+80: 
+81: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+82: Figure 1. Synthetic routes of alicyclic PIs, BCDA-3,4'-ODA, and BCDA-1,3,3-APB.
+83: 
+84: # 2.3. Preparation and Characterization of  $\mathsf{PI} / \mathsf{SiO}_2$  Mixed Matrix Membranes
+85: 
+86: 20 wt% PI was dissolved in DMAc at room temperature for 2 h. The PI solution was mixed with the colloidal silica solution at a certain ratio for 5 min to make the casting solution. The casting solution was then spread over a clean PET substrate using a  $250~\mu \mathrm{m}$  blade to form a liquid film. The liquid film with the PET substrate was placed in an oven at
+87: 
+88: $80^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  to fabricate a dense membrane. The membrane was peeled off from PET and further treated via multi-stage curing. The curing temperature was  $100^{\circ}\mathrm{C}, 140^{\circ}\mathrm{C}, 150^{\circ}\mathrm{C},$  and  $160^{\circ}\mathrm{C}$ , and the curing time was  $1\mathrm{h}$  for each stage. In the final stage, the temperature was raised to  $170^{\circ}\mathrm{C}$  and the membrane was cured for  $5\mathrm{h}$ . The preparation procedures for pristine PI membranes were similar to the above for  $\mathrm{PI} / \mathrm{SiO}_2$  MMM, without the blending of  $\mathrm{SiO}_2$  nanoparticles.
+89: 
+90: The prepared membranes were characterized using a thickness gauge (293-140-30, Mitutoyo, Kanagawa, Japan), FTIR (Cary 630, Agilent, Tokyo, Japan), TGA (Q500, TA Instruments, New Castle, DE, USA), FE-SEM (JSM-6700F, Jeol, Tokyo, Japan), and contact angle (SEO: Phoenix-I portable contact angle analyzer).
+91: 
+92: # 2.4. Swelling Experiment
+93: 
+94: The prepared membrane was cut into a size of  $3\mathrm{cm} \times 3\mathrm{cm}$  and dried in an oven for  $24\mathrm{h}$ . The membrane weight was recorded as dry weight  $W_{\mathrm{d}}$  (g). Next, the membrane was soaked into pure alcohol (n-butanol or ethanol) or pure deionized water at  $40^{\circ}\mathrm{C}$ . After  $6\mathrm{h}$ , the membrane was taken out and the remaining liquid on the membrane surface was wiped. The membrane weight was recorded as wet weight  $W_{\mathrm{s}}$  (g). The degree of swelling (DS) of the membrane was then calculated with the following equation [51]:
+95: 
+96: $$
+97: \mathrm{DS}(\%) = \frac {W _ {\mathrm{s}} - W _ {\mathrm{d}}}{W _ {\mathrm{d}}} \times 100 \% . \tag{1}
+98: $$
+99: 
+100: # 2.5. Pervaporation Experiment
+101: 
+102: In the pervaporation process,  $1\mathrm{L}$  of  $85~\mathrm{wt\%}$  n-butanol aqueous solution at  $40^{\circ}\mathrm{C}$  was poured into the feed container and pumped into the module with a piece of membrane disc (effective surface area:  $19.63~\mathrm{cm}^2$ ). The feed solution passed in the upstream at a flow rate of  $9\mathrm{L / h}$ , and circulated back to the feed container. The permeate was vacuumed and collected in a cold trap. The experimental set-up is illustrated in Figure 2. The duration of pervaporation process was  $6\mathrm{h}$ . The compositions of the solution remained in the feed container and the permeate were analyzed by HPLC. The HPLC system consisted of a pump (600 Controller, Waters), a refractive index detector (RI-101, Shodex), a C8 column (Luna  $5\mu \mathrm{m}$  C8(2)  $100\AA$ , Phenomenex), and a computer with integration software installed. The mobile phase was pure water, and flow rate was  $0.5\mathrm{mL / min}$ . For each injection, the sample amount was  $20~\mu \mathrm{L}$ .
+103: 
+104: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+105: Figure 2. Experimental set-up for pervaporation process.
+106: 
+107: The total flux permeating through the membrane was calculated as follows:
+108: 
+109: $$
+110: J = \frac {W}{A t}, \tag {2}
+111: $$
+112: 
+113: where  $W$  is the total mass of the permeate (g),  $A$  is the effective membrane area  $(\mathrm{m}^2)$ , and  $t$  is the duration time of the experiment (h). Considering that the permeation flux is usually affected by membrane thickness, a normalized permeation flux  $(J_N)$  may be expressed in terms of a certain membrane thickness  $(L_N$ , the average membrane thickness of  $30~\mu \mathrm{m}$  was adopted in this study) for normalization, as given in the following:
+114: 
+115: $$
+116: J _ {N} = \frac {J L}{L _ {N}}, \tag {3}
+117: $$
+118: 
+119: where L is the thickness of the membrane adopted in pervaporation process. The separation factor was determined as:
+120: 
+121: $$
+122: \alpha = \frac {\mathrm {y} / (1 - \mathrm {y})}{\mathrm {x} / (1 - \mathrm {x})}, \tag {4}
+123: $$
+124: 
+125: where  $y$  and  $x$  represent the weight fractions of water in the permeate and feed, respectively. In addition, the overall performance of the membrane, combining permeation flux and separation factor together, could be evaluated by pervaporation separation index (PSI) as:
+126: 
+127: $$
+128: \mathrm {P S I} = \mathrm {J} _ {\mathrm {N}} (\alpha - 1). \tag {5}
+129: $$

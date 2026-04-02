@@ -1,0 +1,60 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 14
+block_id: b0015
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: CHEMICAL RESISTIVITY OF FILMS
+line_span: [145, 190]
+char_span: [25304, 29326]
+line_count: 44
+effective_body_non_empty_lines: 24
+
+lines:
+--- chunk (b0015: CHEMICAL RESISTIVITY OF FILMS) ---
+145: # CHEMICAL RESISTIVITY OF FILMS
+146: 
+147: The chemical resistivity of both PI films was tested in several solvents. Aromatic PIs typically have good
+148: 
+149: chemical resistivity but poor solubility in organic solvents (Vivod et al. 2020) due to their strong, rigid conjugated structure and intermolecular forces (Hu et al. 2021). As shown in Table 6, no discernible changes can be seen on the reference film Kapton in all tested solvents due to its stiff conjugated PMDA structure (Yi et al. 2020). However, MDI-6FDA film exhibits relatively lower chemical stability to solvents tested, such as acetone,  $\mathrm{CH}_3\mathrm{CN}$ , DCM and  $\mathrm{CH}_3\mathrm{Cl}$ , than Kapton film. This could be attributed to the bulky and flexible  $\mathrm{C}(\mathrm{CF}_3)_2$  bridging groups at the aromatic MDI-6FDA backbone, which disrupted the tight stacking of the polymer chains and weakened the intermolecular interactions (Hu et al. 2021; Huang et al. 2019), making it less rigid than the Kapton film. The less rigid polymer structure of MDI-6FDA film has reduced its durability and chemical stability (Vivod et al. 2020). In general, for practical use, the chemical environment or solvent involved in the intended application must be considered to ensure the stability of the obtained MDI-6FDA film. For example, when used as a substrate in dye-sensitized solar cells, an alternative electrolyte solvent such as ethanol should be considered rather than  $\mathrm{CH}_3\mathrm{CN}$  solvent (An et al. 2006; Xue et al. 2004).
+150: 
+151: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+152: FIGURE 4. Transmittance of the films
+153: 
+154: TABLE 3. Optical properties of PI films  
+155: 
+156: <table><tr><td>Film sample</td><td>λ0a(nm)</td><td>Kehantaran b(%)</td></tr><tr><td>MDI-6FDA</td><td>371</td><td>69</td></tr><tr><td>Kapton</td><td>453</td><td>18</td></tr></table>
+157: 
+158: ${}^{a}$  Cut-off wavelength (absorption edge,  ${\lambda }_{0}$  ),  ${}^{b}$  Transmittance at  ${500}\mathrm{\;{nm}}\left( \% \right)$
+159: 
+160: TABLE 4. Mechanical properties of the PI films  
+161: 
+162: <table><tr><td>Film sample</td><td>Tensile strength (MPa)</td><td>Modulus (GPa)</td><td>Elongation at break (%)</td></tr><tr><td>MDI-6FDA</td><td>57 ± 4.2*</td><td>1.6 ± 0.21*</td><td>5 ± 0.49*</td></tr><tr><td>Kapton</td><td>84 ± 2.8*</td><td>3.5 ± 0.14*</td><td>5 ± 0.28*</td></tr></table>
+163: 
+164: *Standard deviation
+165: 
+166: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+167: FIGURE 5. Stress-strain curves
+168: 
+169: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+170: FIGURE 6. Thermal stability of polyimide (a) TGA thermogram (b) DTG curves of PI films
+171: 
+172: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+173: 
+174: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+175: FIGURE 7. DSC curves of PI films
+176: 
+177: TABLE 5. Thermal properties of PI films  
+178: 
+179: <table><tr><td>Film sample</td><td>Tg(℃)a</td><td>T5(℃)b</td><td>T10(℃)c</td><td>Tmax(℃)d</td></tr><tr><td>MDI-6FDA</td><td>238</td><td>574</td><td>623</td><td>674</td></tr><tr><td>Kapton</td><td>378</td><td>647</td><td>680</td><td>713</td></tr></table>
+180: 
+181: ${}^{a}$  Glass transition temperature from DSC measurement;  ${}^{\mathrm{b}}$  Temperature at 5% weight loss recorded by TGA analysis;  ${}^{\mathrm{c}}$  Temperature at 10% weight loss recorded by TGA analysis;  ${}^{\mathrm{d}}$  Maximum degradation temperature from DTG thermogram
+182: 
+183: TABLE 6. Chemical resistivity of PI films  
+184: 
+185: <table><tr><td rowspan="2">Film samplea</td><td colspan="8">Organic solvents</td></tr><tr><td>Acetone</td><td>Methanol</td><td>Ethanol</td><td>Isopropanol</td><td>THF</td><td>CH3CN</td><td>DCM</td><td>CH3Cl</td></tr><tr><td>MDI-6FDA</td><td>+</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+</td><td>++</td><td>-*</td></tr><tr><td>Kapton</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>
+186: 
+187: (-): No physical change, (+): Film breaking, (++): Film dissolve completely,  $(-^{*})$ : Film degrade, but not breaking  
+188: <sup>a</sup> Film dimension of  $(5 \times 5)$  mm

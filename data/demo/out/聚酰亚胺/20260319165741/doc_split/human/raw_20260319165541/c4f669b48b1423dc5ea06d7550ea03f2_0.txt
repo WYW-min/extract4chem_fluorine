@@ -1,0 +1,56 @@
+source_file: Physical Properties of Thermally Crosslinked Fluorinated Polyimide and Its Application to a Liquid Crystal Ali.md
+doc_id: c4f669b48b1423dc5ea06d7550ea03f2
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Physical Properties of Thermally Crosslinked Fluorinated Polyimide and Its Application to a Liquid Crystal Alignment Layer
+line_span: [1, 42]
+char_span: [0, 3590]
+line_count: 40
+effective_body_non_empty_lines: 23
+
+lines:
+--- chunk (b0001: Physical Properties of Thermally Crosslinked Fluorinated Polyimide and Its Application to a Liquid Crystal Alignment Layer) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2021, 13, 3903. https://doi.org/10.3390/polym13223903
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Physical Properties of Thermally Crosslinked Fluorinated Polyimide and Its Application to a Liquid Crystal Alignment Layer
+11: 
+12: Jong-Soo Ahn  $^{1}$ , Su Hong Park  $^{1}$ , Na Yeon Kwon  $^{1}$ , Min Ju Cho  $^{1, *}$ , Sang-Hyon Paek  $^{2, *}$  and Dong Hoon Choi  $^{1, *}$
+13: 
+14: $^{1}$  Department of Chemistry, Research Institute for Natural Science, Korea University, 145 Anam-ro, Seongbuk-gu, Seoul 02841, Korea; jsahnLCD@hyrubbing.com (J.-S.A.); parkshsd@korea.ac.kr (S.H.P.); 2018010906@korea.ac.kr (N.Y.K.)  
+15: $^{2}$  Department of Chemical Engineering, Kyung Hee University, 1732, Deogyeong-daero, Giheung-gu, Yongin-si 17104, Korea  
+16: * Correspondence: chominju@korea.ac.kr (M.J.C.); shpaek@ku.ac.kr (S.-H.P.); dhchoi8803@korea.ac.kr (D.H.C.)
+17: 
+18: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+19: 
+20: check for updates
+21: 
+22: Citation: Ahn, J.-S.; Park, S.H.; Kwon, N.Y.; Cho, M.J.; Paek, S.-H.; Choi, D.H. Physical Properties of Thermally Crosslinked Fluorinated Polyimide and Its Application to a Liquid Crystal Alignment Layer. Polymers 2021, 13, 3903. https://doi.org/10.3390/polym13223903
+23: 
+24: Academic Editor: Dalius Jucius
+25: 
+26: Received: 5 October 2021
+27: 
+28: Accepted: 9 November 2021
+29: 
+30: Published: 11 November 2021
+31: 
+32: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+33: 
+34: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+35: 
+36: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+37: 
+38: Abstract: This study demonstrated the use of a thermally crosslinked polyimide (PI) for the liquid crystal (LC) alignment layer of an LC display (LCD) cell. Polyamic acid was prepared using  $4,4^{\prime}$ -oxydianiline (ODA) and  $4,4^{\prime}$ -(hexafluoroisopropylidene) diphthalic anhydride (6FDA). The 6FDA-ODA-based polyimide (PI) prepared by the thermal cyclic dehydration of the polyamic acid (PAA) was soluble in various polar solvents. After forming a thin film by mixing trifunctional epoxide [4-(oxiran-2-ylmethoxy)-N,N-bis(oxiran-2-ylmethyl)aniline] with the 6FDA-ODA-based PAA, it was confirmed that thermal curing at  $-110^{\circ}\mathrm{C}$  caused an epoxy ring opening reaction, which could result in the formation of a networked polyimide not soluble in tetrahydrofuran. The crosslinked PI film showed a higher rigidity than the neat PI films, as measured by the elastic modulus. Furthermore, based on a dynamic mechanical analysis of the neat PI and crosslinked PI films, the glass transition temperatures  $(\mathrm{T_gS})$  were 217 and  $339^{\circ}\mathrm{C}$ , respectively, which provided further evidence of the formation of crosslinking by the addition of the epoxy reagent. After mechanical rubbing using these two PI films, an LC cell was fabricated using an anisotropic PI film as an LC alignment film. LC cells with crosslinked PI layers showed a high voltage holding ratio and low residual direct current voltage. This suggests that the crosslinked PI has good potential for use as an LC alignment layer material in advanced LCD technologies that require high performance and reliability.
+39: 
+40: Keywords: polyimide; crosslinking; elastic modulus; liquid crystal cell; voltage holding ratio; residual direct current voltage

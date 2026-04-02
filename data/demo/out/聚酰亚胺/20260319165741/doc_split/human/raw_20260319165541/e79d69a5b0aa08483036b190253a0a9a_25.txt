@@ -1,0 +1,19 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 25
+block_id: b0026
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: ACKNOWLEDGEMENTS
+line_span: [342, 346]
+char_span: [58102, 58253]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0026: ACKNOWLEDGEMENTS) ---
+342: # ACKNOWLEDGEMENTS
+343: 
+344: The authors appreciatively acknowledge the financial support given by Universiti Kebangsaan Malaysia (UKM) under PP-SELFUEL-2020.

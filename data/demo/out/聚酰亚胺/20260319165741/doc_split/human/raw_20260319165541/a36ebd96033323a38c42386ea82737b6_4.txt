@@ -1,0 +1,34 @@
+source_file: A Study on the Interfacial Compatibility, Microstructure and Physico-Chemical Properties of PolyimideOrganical.md
+doc_id: a36ebd96033323a38c42386ea82737b6
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [148, 167]
+char_span: [28121, 30747]
+line_count: 18
+effective_body_non_empty_lines: 10
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+148: # 4. Conclusions
+149: 
+150: In this paper, we have demonstrated the PI-silica and GPMS-modified silica composites. Based on the results, the following factors are crucial for developing compatibilized composites:
+151: 
+152: (i) The substitution of TEOS with GPMS can reduce the formation of large silica particles by using a large number of hydroxyl groups and can also form H-bonds with anhydride, carbonyl, carboxyl, and terminal amine groups in the polyimides/polyamic acids.  
+153: (ii) The organic segment of GPMS can contribute significantly to bringing compatibilization between the two phases.  
+154: (iii) Epoxy group of GPMS will contribute to the formation of H-bonds or networks with carboxyl acid groups or terminal amine groups of the PAA for the compatibilized composites (homopolymerization and their impacts on the PI-silica composite cannot be ruled out for this kind of system).  
+155: (iv) SEM images suggested that the size of the silica particles in the PI/TSi composites was remarkably decreased by the addition of GPMS. Overall, it could be suggested that the incorporation of GPMS can produce compatibilized PI-silica composites with improved optical transmittance and controlled dielectric constants and all of the reported composites have shown  $T_{\mathrm{d5}}$  more than  $460^{\circ}\mathrm{C}$ . The above investigations will help increase the feasibility of using PI-silica composites in many useful structural applications such as in high-temperature manufacturing plants, electronic packaging, aerospace, and automotive industries.
+156: 
+157: Author Contributions: Conceptualization and experimentation, M.A.W.; data analysis, discussion and writing, S.A., M.A.W., B.S., and A.A.I.S.; resources, M.A.W., S.A., and A.A.I.S.; writing—original draft preparation, M.A.W.; writing—review, editing, and revision, M.R.K., M.O.A., B.S., A.A.I.S., and S.A.; project carried out, M.A.W. All authors have discussed the results and contributed to developing this manuscript. All authors have read and agreed to the published version of the manuscript.
+158: 
+159: Funding: This research paper was supported by IMRE-A\*STAR Singapore (M.A.W.).
+160: 
+161: Data Availability Statement: The data presented in this study are available in this study. Additional information could be available on request from the corresponding author.
+162: 
+163: Acknowledgments: M.A.W. gratefully acknowledges supports from Chengdu University, China, and IMRE-A\*STAR Singapore, and A.A.I.S thanks to NHMRC investigator grant APP1175047. M.R.K gratefully acknowledges support from DSR, KSU via research group number RGP-1438-025.
+164: 
+165: Conflicts of Interest: The authors declare no conflict of interest.

@@ -1,0 +1,69 @@
+source_file: Organic鈥揑norganic Double-Gel System Thermally Insulating and Hydrophobic Polyimide Aerogel.md
+doc_id: 5303205641f7b0b70524db9882230995
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Organic-Inorganic Double-Gel System Thermally Insulating and Hydrophobic Polyimide Aerogel
+line_span: [1, 55]
+char_span: [0, 2969]
+line_count: 53
+effective_body_non_empty_lines: 29
+
+lines:
+--- chunk (b0001: Organic-Inorganic Double-Gel System Thermally Insulating and Hydrophobic Polyimide Aerogel) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2022, 14, 2818. https://doi.org/10.3390/polym14142818
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Organic-Inorganic Double-Gel System Thermally Insulating and Hydrophobic Polyimide Aerogel
+11: 
+12: Liyao Xiong †, Weijie Zheng †, Shenglong Cao and Yuying Zheng *
+13: 
+14: College of Materials Science and Engineering, Fuzhou University, Fuzhou 350116, China; o5cookie@163.com (L.X.); 13290987197@163.com (W.Z.); csl239230@163.com (S.C.)
+15: 
+16: * Correspondence: yyzheng@fzu.edu.cn  
+17: † These authors contributed equally to this work.
+18: 
+19: Abstract: Aerogel materials are used in various fields, but there is a shortage of aerogel materials with an excellent combination of mechanical properties, thermal stability, and easy preparation. In this study, polyimide aerogel materials with superior mechanical properties, thermal stability, and low thermal conductivity were prepared by forming a double-gel system in the liquid phase. The amino-modified gel, prepared by coating  $\mathrm{SiO}_2$  nano-microspheres with GO through a modified sol-gel method  $(\mathrm{SiO}_2@GO-NH_2)$ , was subsequently homogeneously dispersed with PAA wet gel in water to form a double-gel system. The construction of a double-gel system enabled the PI aerogel to shape a unique honeycomb porous structure and a multi-layered interface of  $\mathrm{PI/SiO}_2/GO$ . The final obtained PI aerogel possessed effective thermal conductivity (0.0309 W/m·K) and a high specific modulus (46.19 m²/s²). In addition, the high thermal stability (543.80 °C in Ar atmosphere) and the ability to retain properties under heat treatment proved its durability in high thermal environments. The hydrophobicity (131.55°) proves its resistance to water from the environment. The excellent performance of this PI aerogel and its durability in thermal working environments make it possible to be applied in varied industrial and research fields, such as construction and energy, where heat and thermal insulation are required.
+20: 
+21: Keywords: thermal insulation; hydrophobic; thermal stability; aerogel; polyimide
+22: 
+23: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+24: 
+25: check for updates
+26: 
+27: Citation: Xiong, L.; Zheng, W.; Cao,
+28: 
+29: S.; Zheng, Y. Organic-Inorganic
+30: 
+31: Double-Gel System Thermally
+32: 
+33: Insulating and Hydrophobic
+34: 
+35: Polyimide Aerogel. Polymers 2022, 14,
+36: 
+37: 2818. https://doi.org/10.3390/
+38: 
+39: polym14142818
+40: 
+41: Academic Editor: Maria Bercea
+42: 
+43: Received: 10 June 2022
+44: 
+45: Accepted: 6 July 2022
+46: 
+47: Published: 11 July 2022
+48: 
+49: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+50: 
+51: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+52: 
+53: Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).

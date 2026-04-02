@@ -1,0 +1,31 @@
+source_file: Physical Properties of Thermally Crosslinked Fluorinated Polyimide and Its Application to a Liquid Crystal Ali.md
+doc_id: c4f669b48b1423dc5ea06d7550ea03f2
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [42, 58]
+char_span: [3590, 8862]
+line_count: 15
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+42: # 1. Introduction
+43: 
+44: The liquid crystal (LC) alignment layer (AL) is an essential component of an LC display (LCD). This causes an alignment of anisotropic LC molecules to respond continuously and uniformly according to an applied voltage. To ensure a uniform LC alignment, LC AL materials must satisfy several important characteristics as follows. (1) The ion-free AL material must be quite pure. (2) It must have the ability to form a robust film with excellent dimensional stability, excellent chemical/thermal stability, good compatibility with LC molecules, excellent optical transparency, and a high surface hardness to withstand the mechanical rubbing process [1-3].
+45: 
+46: Among the various polymer candidates, polyimide (PI) is known as an excellent candidate that can satisfy the various requirements mentioned previously [4-8]. Thus, it is used as an AL material in various LCD modes. Among the unique characteristics of various LC cells, the high voltage holding ratio (VHR) and residual direct current voltage (RDC) are known as crucial factors in achieving a high-quality, full-color LCD. In general, the VHR
+47: 
+48: and RDC values of LC cells are closely related to brightness, contrast, and image sticking issues, which depend on the material properties of the PI AL [9-11]. To achieve high VHR and low RDC values in LC cells, LC AL materials with high purity, high chemical resistance, and high electrical resistance values are required. Therefore, the structural design of the PI AL material should be considered to satisfy these requirements.
+49: 
+50: PI is quite a stiff material in terms of its mechanical properties and is known as a polymer that can be used to manufacture free-standing films or coat various substrates, either as PI itself or using polyamic acid (PAA). In addition, after the imidization reaction in PAA, PI often becomes remarkably resistant to organic solvents. PIs that are soluble in organic solvents have also been reported, depending on the structures of the dianhydrides and diamines used for the synthesis [12-16]. Among the PIs with various structures, soluble 6FDA-ODA is readily obtained from the thermal or chemical imidization of PAA synthesized with  $4,4^{\prime}$ -oxydianiline (ODA) and  $4,4^{\prime}$ -(hexafluoroisopropylidene) diphthalicanhydride (6FDA) [17]. Unlike the conventional insoluble PI, 6FDA-ODA has two  $\mathrm{CF}_3$  groups in the 6FDA unit, providing bulky space in the polymer chains. It has a relatively low mechanical modulus and a low glass transition temperature ( $T_{\mathrm{g}}$ ) because the bulky space moieties disturb the dense packing between PI chains, providing a relatively large free volume.
+51: 
+52: However, although 6FDA-ODA-based PI has advantages in terms of processability, as mentioned previously, controlling the mechanical properties and solubility in organic solvents while maintaining the structural properties of 6FDA-ODA-based PI is often necessary. If a crosslinking reaction between the PAA chains is induced prior to imidization, the packing between the two chains would be expected to be maintained, and the solubility of the final 6FDA-ODA could be controlled. Therefore, if a method for converting soluble PI to insoluble PI was developed, it could be very useful for limited special applications of PI [18]. An epoxy compound could be selected as an effective agent for the crosslinking between PAA chains, along with the reaction between diamines or diols, which is well known. It is advantageous to induce a temperature much lower than the ring-closed imidization reaction temperature [19,20].
+53: 
+54: Meanwhile, when preparing an LC AL for manufacturing an LC cell, a high surface hardness for the AL material against mechanical friction is required. In addition to an improvement in the anisotropic stability of the PI chains after mechanical rubbing and uniformity of the LC alignment in the microgrooves of the rubbed surface, a harder alignment material is generally preferred [21,22]. Therefore, in general, when 6FDA-ODA-based PI is applied as an LC AL, it is expected that a neat PI layer and crosslinked PI layer will show the above differences in their properties.
+55: 
+56: In this study, 6FDA-ODA-based PI films and crosslinked PI films were easily prepared via the thermal imidization of 6FDA-ODA PAA films with and without [4-(oxiran-2-ylmethoxy)-N,N-bis(oxiran-2-ylmethyl) aniline] (EP) as a crosslinkable epoxy reagent. The 6FDA-ODA PI film was well soluble in THF, whereas the crosslinked 6FDA-ODA PI film was insoluble in THF. A tensile test and dynamic mechanical analysis (DMA) of each of the above two PI films showed that the crosslinked PI film had a relatively high elastic modulus and glass transition temperature  $(\mathrm{T_g})$ , as expected. To prepare the LC AL, 6FDA-ODA-based neat and crosslinked PI films were coated onto indium tin oxide (ITO) glass substrates, and surface mechanical rubbing was performed. When these two types of PI films were used as LC ALs, the VHR and RDC of the crosslinked PI-based LC cell were relatively good due to their unique physical properties. Therefore, the strategy of introducing crosslinking to soluble PI suggests the possibility of its application to advanced LC AL materials, which require high performance and reliable LCDs.

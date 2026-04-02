@@ -1,0 +1,220 @@
+source_file: Mixed Rigid and Flexible Component Design for High-Performance Polyimide Films.md
+doc_id: fccc26fc991bc38c4a2573b2131f2453
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results
+line_span: [106, 311]
+char_span: [17358, 39447]
+line_count: 204
+effective_body_non_empty_lines: 120
+
+lines:
+--- chunk (b0004: 3. Results) ---
+106: # 3. Results
+107: 
+108: # 3.1. Synthesis of PAAs and Fabrication of PI Films
+109: 
+110: The PI films containing benzimidazole moieties were obtained by the polymerization of the PAA precursor, blade coating, baking, and thermal imidization processes. The synthesis of the PIs, the molecular modeling of a homo-PI dimer simulated by ChemDraw (Cambridge Soft, Waltham, MA, USA), and a schematic diagram of the procedure for preparing the PI films and PI/copper laminates are shown in Scheme 1. PIs containing different ratios of the flexible ODA-BTDA segment and the rigid DAPBI-BTDA segment were prepared by adjusting the ratio of two diamines employed in the synthesis. Molecular models of the homo-PI ODA-BTDA and DAPBI-BTDA dimer structures were generated using ChemDraw software, and those with the lowest energy conformation are shown in Scheme 1b. The simulated results show that the ODA-BTDA dimer adopts a bent conformation and the DAPBI-BTDA dimer exhibits a planar construction. Hence the flexible ODA-BTDA segment governs polymer flexibility, and the DAPBI-BTDA segment endows the polymer chains with rigidity and regularity. Furthermore, the intermolecular hydrogen bonding formed between the N-H groups in DAPBI and the carbonyl groups of the imide ring can increase the intermolecular interaction strength. Thus, the DAPBI-BTDA segment was selected to improve the mechanical properties, dimensional stability, and thermal stability of the PIs [22]. According to the literature, benzimidazole moieties can react with copper oxide to form copper imidazolate inner complexes that provide active sites for coordinating interfacial bonding. Furthermore, the PIs containing the ODA diamine can exhibit improved copper adhesion owing to their flexible structures [44,45].
+111: 
+112: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+113: (a)  
+114: Scheme 1. Cont.
+115: 
+116: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+117: (b)
+118: 
+119: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+120: 
+121: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+122: Scheme 1. (a) Synthesis of PAAs and thermal imidization of PIs. (b) Chemical structure of the homo-PI dimers ODA/BTDA and DAPBI/BTDA. (c) Fabrication of PI films and PI/copper laminates.
+123: 
+124: # 3.2. Viscosities of PAAs and FTIR Analysis of the PI Films
+125: 
+126: As the polymerization degree of the PAAs and imidization degree of the PIs affect the thermal properties and mechanical properties of the PI films, both polymerization and imidization were evaluated. First, the inherent viscosities of the PAAs were measured at  $25^{\circ}\mathrm{C}$  to assess their degree of polymerization, and the results are listed in Table 1. The high viscosities  $(1.8 - 2.3\mathrm{dL / g})$  indicate that the PAAs obtained have moderately high molecular weights. The FTIR spectra of the PI films were recorded to assess the degree of imidization and they are shown in Figure 1. The characteristic absorption peaks of the symmetrical contraction vibration and the antisymmetric stretching vibration of the carbonyl group in the imide ring are observed at 1778 and  $1716~\mathrm{cm}^{-1}$ , respectively. Furthermore, the PI films present no absorption peaks characteristic of carboxyl and amide linkages, i.e., at  $3500~\mathrm{cm}^{-1}$  (COOH and NH),  $1660~\mathrm{cm}^{-1}$  (CONH), and  $1550~\mathrm{cm}^{-1}$  (C-NH), indicating that the PI films have undergone complete imidization. Upon increasing the molar percentage of benzimidazole stepwise from  $0\%$  to  $100\%$ , the carbonyl absorption peaks gradually shift from 1778.4 and  $1716.6~\mathrm{cm}^{-1}$  to 1774.5 and  $1706.9~\mathrm{cm}^{-1}$ , respectively. This indicated that hydrogen bonds form between the carbonyl group
+127: 
+128: of the imide ring and the NH group of DAPBI. Thus, more hydrogen bonds may be formed with an increased imidazole ring content, and these intermolecular forces cause the carbonyl absorption peaks to move to a lower wavenumber [46,47]. A diagram showing this intermolecular hydrogen bonding is shown in Figure 2. All obtained films exhibited excellent chemical resistance and were insoluble in organic solvents, for example, NMP (N-Methyl-2-Pyrrolidone), m-cresol, DMAc, chloroform, etc. The water absorption results of these films are listed in Table 1. Owing to the existent intermolecular hydrogen bonding, the water absorption is a little higher than common polyimides.
+129: 
+130: Table 1. Inherent viscosities and thermal properties of the PI films.  
+131: 
+132: <table><tr><td rowspan="2">Samples</td><td rowspan="2">\( η_{\text{inh}}^{\text{1}} \) (dL/g)</td><td colspan="2">\( T_g^{\text{2}} \)(°C)</td><td rowspan="2">\( T_{d5\%} \)\( ^3 \)(°C)</td><td rowspan="2">\( R_{800} \)\( ^4 \)(%)</td><td rowspan="2">Water absorption (%)</td></tr><tr><td>DSC</td><td>DMA</td></tr><tr><td>PI-0</td><td>1.85</td><td>278</td><td>296</td><td>523</td><td>54.2</td><td>2.0</td></tr><tr><td>PI-20</td><td>2.06</td><td>307</td><td>328</td><td>527</td><td>59.7</td><td>2.3</td></tr><tr><td>PI-40</td><td>2.20</td><td>314</td><td>334</td><td>522</td><td>61.7</td><td>2.5</td></tr><tr><td>PI-60</td><td>2.25</td><td>343</td><td>340</td><td>521</td><td>56.1</td><td>2.9</td></tr><tr><td>PI-80</td><td>2.30</td><td>\( NF^5 \)</td><td>371</td><td>523</td><td>62.7</td><td>2.5</td></tr><tr><td>PI-100</td><td>2.15</td><td>NF</td><td>397</td><td>529</td><td>65.6</td><td>3.0</td></tr></table>
+133: 
+134: ${}^{1}$  Inherent viscosity determined with a concentration of  ${0.5}\mathrm{\;g}/\mathrm{{dL}}$  in DMAc at  ${25} \pm  {0.1}{}^{ \circ  }\mathrm{C}$  .  ${}^{2}$  Glass transition temperature  $\left( {T}_{\mathrm{g}}\right)$  measured by DSC and DMA at a heating rate of 10 and  ${5}^{ \circ  }\mathrm{C}/\mathrm{{min}}$  ,respectively.  ${}^{3}$  Temperatures at 5% weight loss were recorded by TGA at a heating rate of  ${5}^{ \circ  }\mathrm{C}/\mathrm{{min}}$  under nitrogen atmosphere.  ${}^{4}$  Residual weight retention at  ${800}^{ \circ  }\mathrm{C}$  under nitrogen.  ${}^{5}$  Not found.
+135: 
+136: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+137: Figure 1. FTIR spectra of PI films.
+138: 
+139: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+140: 
+141: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+142: Figure 2. Interchain hydrogen bonding.
+143: 
+144: # 3.3. Morphology and Structures
+145: 
+146: The wide-angle X-ray diffraction (WAXD) patterns of the PI films are shown in Figure 3. Each presents a broad diffraction peak without obvious splitting peaks, indicating that the PIs are essentially amorphous. With an increase in the DAPBI-BTDA content, narrower and stronger intensity diffraction peaks with slight splitting are observed, indicating that the regularity of the molecular chains and the order degree of molecular chains are improved. According to Bragg's law (see Equation (2)), the distance between the molecular chains decreased from 4.8 to  $4.3\AA$ . This demonstrates that the intermolecular interactions increase when the benzimidaole content increases.
+147: 
+148: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+149: Figure 3. WAXD patterns of the PI films.
+150: 
+151: Figure 4 shows representative small-angle X-ray diffraction (SAXD) patterns for the PI-0, PI-40, and PI-80 films. The PI-0 sample presents no SAXD peaks because the polymer comprises a completely flexible and disordered molecular chain. Upon the introduction of DAPBI into the molecular chains, an SAXD diffraction peak appears at close to  $1.2^{\circ}$ , and the angle increases with increasing DAPBI content. According to Bragg's law (see Equation (2)), the long period of PI-40 and PI-80 is 75.4 and  $65.4\AA$  respectively. The SAXD results indicate that local structure ordering occurs in the PIs containing benzimidazole moieties, and the period diminishes with increasing benzimidazole content. This shows that the molecular chains containing benzimidazole rings possess a certain degree of planarity and rigidity, and thus, local structural ordering appears and the regularity of the molecular chain is improved as the DAPBI molar ratio increases.
+152: 
+153: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+154: Figure 4. SAXD patterns of the PI films.
+155: 
+156: The cross-sectional morphologies of the PI films were observed by SEM, as shown in Figure 5. The morphologies of films PI-0 and PI-20 are smooth. However, when the DAPBI molar percentage is higher than  $40\%$ , densely packed layered ribbon-like morphological features appear. This indicates that the molecular chains of the polymers have poor regularity when the benzimidazole content is low. Conversely, the molecular chains of the polymer are arrayed more regularly, and the degree of orientation and local ordering improves with the influence of the benzimidazole component [41].
+157: 
+158: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+159: 
+160: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+161: 
+162: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+163: 
+164: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+165: 
+166: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+167: Figure 5. Cross-sectional SEM images of the PI films. (a) PI-0; (b) PI-20; (c) PI-40; (d) PI-60; (e) PI-80; (f) PI-100.
+168: 
+169: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+170: 
+171: # 3.4. Thermal Properties
+172: 
+173: The  $T_{\mathrm{g}}$ ,  $T_{\mathrm{d}}$ , and CTE data are given in Table 1. The DSC curves of films are shown in Figure 6. No endothermic peaks assigned to the melting peak are observed in the DSC curves, indicating that all the PIs are amorphous polymers. Owing to the poor molecular mobility introduced by the rigid structures, no well-defined  $T_{\mathrm{g}}$  is detected for PI-80 and PI-100. The tan  $\delta$  curves and storage modulus curves of films as obtained by DMA are shown in Figures 7 and 8. The  $T_{\mathrm{g}}$  data (Table 1) obtained from
+174: 
+175: DSC and DMA are in the range of  $278 - 400^{\circ}\mathrm{C}$ , indicating that these PIs exhibit high heat resistance. With increasing DAPBI content, the rigidity of the polymer chains is enhanced, so the  $T_{\mathrm{g}}$  of the PIs increases. The storage modulus curves show that all the films have large storage moduli (3-6 GPa) at  $100^{\circ}\mathrm{C}$  and still retain moduli of  $10 - 100\mathrm{MPa}$  at temperatures above  $300^{\circ}\mathrm{C}$ . This demonstrates that the PIs with a higher content of DAPBI are very hard materials.
+176: 
+177: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+178: Figure 6. DSC curves of PI films.
+179: 
+180: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+181: Figure 7. Tan  $\delta$  vs. temperature for the PI films.
+182: 
+183: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+184: Figure 8. Storage modulus as a function of temperature for PI films.
+185: 
+186: The thermogravimetric analyses (TGA) of the PI films are shown in Figure 9 and show that the films present no weight loss below  $480^{\circ}\mathrm{C}$ . The excellent thermal stability indicates that these PI films are completely imidized. The films exhibit  $5\%$  weight loss in the temperature range of  $521 - 529^{\circ}\mathrm{C}$  in  $\mathrm{N}_2$ , and the char yield at  $800^{\circ}\mathrm{C}$  reaches  $65\%$ .
+187: 
+188: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+189: Figure 9. TGA curves of the PI films.
+190: 
+191: The temperature-strain curves of the films, commercial polyimides, and pure copper are shown in Figure 10. The average CTEs as calculated in the ranges 50-250, 50-300, and  $100 - 200^{\circ}\mathrm{C}$  are listed in Table 2. The curves in Figure 10 show that the strain of the films increases with an increasing temperature and the PI-0 and PI-20 increase more rapidly. This is mainly because the molecular chains of these two polymers are flexible, and the films deform far more rapidly at a high temperature. Films with a benzimidazole content over  $40\%$  exhibit increasingly excellent thermal dimensional stabilities than commercial polyimides, and the CTEs are less than  $40~\mathrm{ppm / K}$ . The temperature-strain curve of PI-80 is identical to the pure copper's temperature-strain curve. With the rigid structural DAPBI content increased, the regularity of molecular chains is enhanced. Thus, the CTE data of films decrease, namely, the dimensional stability is improved.
+192: 
+193: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+194: Figure 10. CTE curves of the PI films.
+195: 
+196: Table 2. CTE data for PI films in different temperature ranges.  
+197: 
+198: <table><tr><td>Samples</td><td>CTE (50–250 °C) ppm/K</td><td>CTE (50–300 °C) ppm/K</td><td>CTE (100–200 °C) ppm/K</td></tr><tr><td>PI-0</td><td>67.9</td><td>82.0</td><td>76.2</td></tr><tr><td>PI-20</td><td>53.3</td><td>55.8</td><td>54.5</td></tr><tr><td>PI-40</td><td>37.8</td><td>38.6</td><td>38.9</td></tr><tr><td>PI-60</td><td>24.4</td><td>25.6</td><td>24.4</td></tr><tr><td>PI-80</td><td>19.0</td><td>19.6</td><td>18.8</td></tr><tr><td>PI-100</td><td>15.2</td><td>15.9</td><td>15.4</td></tr><tr><td>Cu</td><td>19.0</td><td>19.4</td><td>18.6</td></tr><tr><td>Kapton</td><td>33.5</td><td>34.2</td><td>33.0</td></tr><tr><td>Upilex</td><td>44.9</td><td>55.3</td><td>43.4</td></tr></table>
+199: 
+200: # 3.5. Adhesion Properties of PI-80/Copper Laminate
+201: 
+202: As shown in Figure 10 and Table 2, the PI-80 film has a comparable CTE to that of pure copper for a wide temperature range. The equivalent CTE of copper and the PI film can avoid the internal stresses of the aggregation generated during the processing. Consequently, the PAA precursor of PI-80 was coated onto  $13 - \mu \mathrm{m}$ -thick pure copper (purchased from LingBao JinYuan ZhaoHui Copper Co., Ltd, Lingbao, China, and without any pretreatment) and then thermally imidized under  $\mathbf{N}_2$  atmosphere. The top-view and side-view photos of PI-80/copper laminates with PI layer thicknesses of  $20\mu \mathrm{m}$  are shown in Figure 11. After being cured at  $360^{\circ}\mathrm{C}$ , the PI-80/copper laminates are flat and not warped. The adhesion strength between the PI layer and the copper substrate was tested by the T-peel strength test method with the PI-80/copper laminates. The load-displacement curve is shown in Figure 12. The peel strength is stabilization and the data is about  $6.4~\mathrm{N / cm}$  ( $3.2~\mathrm{N} / 0.5~\mathrm{cm}$ ), which indicated that a high enough adhesion laminate was obtained. The surface morphologies of the PI layer and copper substrate after peeling are shown in Figure 13. The surface of the pure PI-80 film without any treatment is smooth. The surface morphology of the PI-80 layer (b) after peeling becomes rough and displays a sheet structure. Also, the surface morphology of the copper substrate is different from the pure copper foil. It seems that there is one layer of polymers formed on the copper substrate. Further analysis of the interfacial interaction between the PI and copper substrate was conducted by Energy Dispersive X-ray Spectrometric microanalysis (EDX) with SEM. The element mapping and EDX spectrums of the peeled surface of PI-80 layer, copper substrate, and initial Cu foil are shown in Figures 14 and 15. As shown in Figure 14, there is a Cu element on the PI layer beyond the C, N, and O elements. Additionally, there are C, N, and O elements on the copper substrate except for the Cu element (Figure 15a-f). But there are no C, N, or other elements on the initial Cu foil (Figure 15g-i). All the SEM and EDX results declare that there is a strong interfacial interaction between the PI and copper. The N-H in the imidazole group of DAPBI can react with copper oxide at the interface and also the flexible structural ODA improves the adhesion force. Therefore, the PI-80/copper laminates show excellent peel strength. The element mappings and EDX spectrums of the peeled surface of the PI-60/copper laminate scanned for an approximately equal time with PI-80/copper are shown in Figure 16. The results show that there is an interfacial interaction between the PI-60 and Cu foil. However, the smaller peeled sheets of the PI-60 layer and lower C element on the copper substrate indicate that the interfacial interaction between the PI-60 and copper is smaller.
+203: 
+204: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+205: Figure 11. PI/copper laminates with PI layer thicknesses of  $20~\mu \mathrm{m}$ .
+206: 
+207: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+208: Figure 12. The load-displacement curve of the PI/Cu laminate.
+209: 
+210: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+211: 
+212: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+213: Figure 13. Surface SEM images of the PI-80 and copper substrate. (a) PI-80 film without any treatment; (b) PI film of PI-80/Cu laminate after peeling; (c) copper without any treatment; (d) copper substrate of the PI-80/Cu laminate after peeling.
+214: 
+215: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+216: (a)
+217: 
+218: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+219: (b)
+220: 
+221: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+222: (c)
+223: 
+224: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+225: (d)
+226: 
+227: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+228: (e)
+229: 
+230: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+231: (f)
+232: 
+233: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+234: Figure 14. The element mappings of the peeled surface of PI-80 layer. (a) electronic image of PI layer; (b) C element in PI layer; (c) N element in PI layer; (d) O element in PI layer; (e) Cu element in PI layer; (f) EDX spectrum of peeled PI layer.
+235: 
+236: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+237: 
+238: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+239: 
+240: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+241: 
+242: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+243: (a)  
+244: (e)
+245: 
+246: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+247: (b)  
+248: (f)
+249: 
+250: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+251: (c)  
+252: (g)
+253: 
+254: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+255: (h)
+256: 
+257: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+258: (d)  
+259: (i)
+260: 
+261: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+262: Figure 15. The element mappings of the peeled surface of copper substrate and initial Cu foil. (a) electronic image of Cu substrate; (b) Cu element in Cu substrate; (c) C element in Cu substrate; (d) N element in Cu substrate; (e) O element in Cu substrate; (f) EDX spectrum of peeled copper substrate; (g) electronic image of initial Cu foil; (h) Cu element on initial Cu foil; (i) EDX spectrum of pure Cu foil.  
+263: (a)
+264: 
+265: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+266: 
+267: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+268: 
+269: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+270: (d)
+271: 
+272: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+273: (b)  
+274: (e)  
+275: Figure 16. Cont.
+276: 
+277: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+278: (c)  
+279: (f)
+280: 
+281: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+282: (g)
+283: 
+284: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+285: (h)
+286: 
+287: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+288: (i)
+289: 
+290: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+291: (j)
+292: 
+293: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+294: (k)
+295: 
+296: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+297: Figure 16. The element mappings of the peeled surface of PI-60/copper laminate. (a) electronic image of PI-60 layer; (b) C element in PI layer; (c) N element in PI layer; (d) O element in PI layer; (e) Cu element in PI layer; (f) EDX spectrum of peeled PI layer; (g) electronic image of Cu substrate; (h) Cu element in Cu substrate; (i) C element in Cu substrate; (j) N element in Cu substrate; (k) O element in Cu substrate; (l) EDX spectrum of Cu substrate.  
+298: (1)
+299: 
+300: # 3.6. Mechanical Properties
+301: 
+302: The mechanical properties of the PI films are listed in Table 3. All the films exhibit remarkable tensile strengths and moduli, which are in the ranges  $146.0 - 220.8\mathrm{MPa}$  and  $3.4 - 6.2\mathrm{GPa}$ , respectively. With increasing DAPBI content, the tensile strengths and moduli of the films increase, and their elongations decrease. The tensile strength of the PI-100 film is 1.5 times that of PI-0. The stress-strain curves of PI films are shown in Figure 17, showing that these PIs are amorphous polymers. The stress-strain curves of PI-0, PI-20, and PI-40 indicated these three polymers are hard and flexible materials. The stress-strain curves of PI-60, PI-80, and PI-100 declare that these three polymers are hard and tough materials. The results of tensile curves agree well with the DMA properties. The tensile results show that the rigid structural DAPBI could improve the rigidity and regularity of the polymer chains. According to the literature, the tensile strengths of the commercial films Kapton (PMDA-ODA) and Upilex-s (BPDA-ODA) without stretching are 130 and  $140\mathrm{MPa}$ , respectively [25]. These PI films exhibit more outstanding mechanical properties, because of the rigid structure and stronger molecular interchain interaction.
+303: 
+304: Table 3. Mechanical properties of PI films.  
+305: 
+306: <table><tr><td>Samples</td><td>Elastic (GPa)</td><td>Max stress (MPa)</td><td>Break strain (%)</td></tr><tr><td>PI-0</td><td>3.4 ± 0.05</td><td>146.0 ± 1.9</td><td>16.6 ± 4.9</td></tr><tr><td>PI-20</td><td>3.8 ± 0.14</td><td>157.8 ± 3.4</td><td>21.5 ± 8.7</td></tr><tr><td>PI-40</td><td>4.9 ± 0.16</td><td>173.3 ± 4.8</td><td>9.4 ± 3.8</td></tr><tr><td>PI-60</td><td>5.8 ± 0.07</td><td>205.6 ± 8.8</td><td>7.3 ± 1.0</td></tr><tr><td>PI-80</td><td>5.7 ± 0.48</td><td>209.0 ± 5.9</td><td>6.2 ± 0.4</td></tr><tr><td>PI-100</td><td>6.2 ± 0.37</td><td>220.8 ± 10.0</td><td>6.8 ± 1.2</td></tr></table>
+307: 
+308: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+309: Figure 17. The stress-strain curves of PI films.

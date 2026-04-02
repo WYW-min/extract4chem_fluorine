@@ -1,0 +1,37 @@
+source_file: Interpenetration Networked Polyimide鈥揈poxy Copolymer under Kinetic and Thermodynamic Control for Anticorrosion.md
+doc_id: f5092218b3ff990cb2fa31ad43d60239
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: check for updates
+line_span: [22, 44]
+char_span: [2050, 2893]
+line_count: 21
+effective_body_non_empty_lines: 10
+
+lines:
+--- chunk (b0002: check for updates) ---
+22: # check for updates
+23: 
+24: Citation: Chen, D.-S.; Chen, C.-H.; Whang, W.-T.; Su, C.-W.
+25: 
+26: Interpenetration Networked Polyimide-Epoxy Copolymer under Kinetic and Thermodynamic Control for Anticorrosion Coating. Polymers 2023, 15, 243. https://doi.org/10.3390/polym15010243
+27: 
+28: Academic Editor: Jingang Liu
+29: 
+30: Received: 3 December 2022
+31: 
+32: Revised: 21 December 2022
+33: 
+34: Accepted: 30 December 2022
+35: 
+36: Published: 3 January 2023
+37: 
+38: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+39: 
+40: Copyright: © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+41: 
+42: Keywords: polyimide; epoxy; anticorrosion; interpenetration; microphase separation; kinetic vs. thermodynamic control

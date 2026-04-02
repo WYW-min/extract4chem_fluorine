@@ -1,0 +1,57 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration
+line_span: [1, 43]
+char_span: [0, 1327]
+line_count: 41
+effective_body_non_empty_lines: 27
+
+lines:
+--- chunk (b0001: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration) ---
+1: [MINERU_DISCARDED_META]
+2: Check for updates
+3: Research Article
+4: Adsorption Science & Technology
+5: Corresponding authors:
+6: Liang Wang, School of Textiles, Tianjin Polytechnic University, No. 399, Binshui West Road, Xiqing District, Tianjin 300387, China.
+7: Email: liangwang@tjpu.edu.cn
+8: Yong Liu, Tianjin Polytechnic University, No. 399, Binshui West Road, Xiqing District, Tianjin 300387, China.
+9: Email: liuyong@tjpu.edu.cn
+10: CC BY
+11: Creative Commons CC BY: This article is distributed under the terms of the Creative Commons Attribution
+12: 4.0 License (http://www.creativecommons.org/licenses/by/4.0/) which permits any use, reproduction and
+13: distribution of the work without further permission provided the original work is attributed as specified on the SAGE and
+14: Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+15: [/MINERU_DISCARDED_META]
+16: 
+17: # Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration
+18: 
+19: Adsorption Science & Technology
+20: 
+21: 2018, Vol. 36(9-10) 1734-1743
+22: 
+23: © The Author(s) 2018
+24: 
+25: DOI: 10.1177/0263617418807111
+26: 
+27: journals.sagepub.com/home/adt
+28: 
+29: SAGE
+30: 
+31: Liang Wang and Lingyan Cui
+32: 
+33: Tianjin Polytechnic University, China
+34: 
+35: Yongsheng Liu
+36: 
+37: Tianjin Polytechnic University, China; Lantian Huanbao Co. Ltd, China
+38: 
+39: Johanna Riedel, Xiaoming Qian and Yong Liu
+40: 
+41: Tianjin Polytechnic University, China

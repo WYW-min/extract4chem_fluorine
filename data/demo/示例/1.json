@@ -1,0 +1,61 @@
+{
+    "file_name": "1-s2.0-S0021951725003975-main.md",
+    "doi": "10.1016/j.jcat.2025.116331",
+    "material_id": "Ni/YD-20",
+    "aliases": [],
+    "synthesis": {
+        "zeolite_type": null,
+        "gel_composition": "8Na2O:0.7Al2O3:10SiO2:160H2O",
+        "template": "CTAB",
+        "silica_source": "colloidal silica (30 wt% SiO2, pH = 9.8) (for Y seeds); tetraethyl orthosilicate (TEOS) (for YD support)",
+        "aluminium_source": "sodium aluminate (NaAlO2)",
+        "crystallization": {
+            "temp_c": 120.0,
+            "time_d": 0.0833,
+            "agitation_rpm": null
+        },
+        "post_treatment_steps": [
+            "filtered",
+            "washed_deionized-water",
+            "dried_unknownc",
+            "incipient-wetness-impregnation_Ni_15 wt% ([Ni(en)3](NO3)2 precursor)",
+            "dried_60c",
+            "calcination_480c_4h_unknown"
+        ]
+    },
+    "characterization": {
+        "morphology": "Uniform spherical particles (~200 nm) with wrinkled surface; dendritic center-radial pore structure (morphology maintained after Ni loading)",
+        "crystal_size": {
+            "a_axis_nm": null,
+            "b_axis_nm": null,
+            "c_axis_nm": null,
+            "average_nm": null
+        },
+        "si_al_ratio_actual": 18.3,
+        "porosity": {
+            "bet_m2_g": null,
+            "v_total_cm3_g": null,
+            "v_micro_cm3_g": null,
+            "v_meso_cm3_g": null
+        },
+        "acidity": {
+            "bronsted_acid_amount_mmol_g": 0.024,
+            "lewis_acid_amount_mmol_g": 0.041,
+            "l_b_ratio": 1.7083333333
+        }
+    },
+    "application": {
+        "scenario": "catalysis",
+        "target_species": "naphthalene",
+        "capacity": {
+            "value": 93.4,
+            "unit": "%_HCK_conversion"
+        },
+        "selectivity": {
+            "value": 68.1,
+            "unit": "%_BTX_yield"
+        },
+        "breakthrough": null,
+        "regeneration": null
+    }
+}

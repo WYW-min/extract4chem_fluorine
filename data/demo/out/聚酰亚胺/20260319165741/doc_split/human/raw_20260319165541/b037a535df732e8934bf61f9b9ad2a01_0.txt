@@ -1,0 +1,50 @@
+source_file: Atomic Oxygen-Resistant Polyimide Composite Films Containing Nanocaged Polyhedral Oligomeric Silsesquioxane Co.md
+doc_id: b037a535df732e8934bf61f9b9ad2a01
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Atomic Oxygen-Resistant Polyimide Composite Films Containing Nanocaged Polyhedral Oligomeric Silsesquioxane Components in Matrix and Fillers
+line_span: [1, 36]
+char_span: [0, 4318]
+line_count: 34
+effective_body_non_empty_lines: 21
+
+lines:
+--- chunk (b0001: Atomic Oxygen-Resistant Polyimide Composite Films Containing Nanocaged Polyhedral Oligomeric Silsesquioxane Components in Matrix and Fillers) ---
+1: [MINERU_DISCARDED_META]
+2: nanomaterials
+3: MDPI
+4: Nanomaterials 2021, 11, 141. https://doi.org/10.3390/nano11010141
+5: https://www.mdpi.com/journal/nanomaterials
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Atomic Oxygen-Resistant Polyimide Composite Films Containing Nanocaged Polyhedral Oligomeric Silsesquioxane Components in Matrix and Fillers
+11: 
+12: Yan Zhang $^{1}$ , Hao Wu $^{1}$ , Yi-dan Guo $^{1}$ , Yan-bin Yang $^{2}$ , Qiang Yu $^{2}$ , Jin-gang Liu $^{1,*}$ , Bo-han Wu $^{2,*}$  and Feng-zhu Lv $^{1,*}$
+13: 
+14: $^{1}$  Beijing Key Laboratory of Materials Utilization of Nonmetallic Minerals and Solid Wastes, National Laboratory of Mineral Materials, School of Materials Science and Technology, China University of Geosciences, Beijing 100083, China; 3003200016@cugb.edu.cn (Y.Z.); 2003200021@cugb.edu.cn (H.W.); guoyidan163@163.com (Y.-d.G.)  
+15: 2 Space Materials and Structure Protection Division, Beijing Institute of Spacecraft Environment Engineering, Beijing 100094, China; yanbinyang_cast@163.com (Y.-b.Y.); 13426373533@139.com (Q.Y.)  
+16: * Correspondence: liujg@cugb.edu.cn (J.-g.L.); bohanwoo@163.com (B.-h.W.); lfz619@cugb.edu.cn (F.-z.L.); Tel.: +86-10-82322972 (J.-g.L.)
+17: 
+18: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+19: 
+20: Citation: Zhang, Y.; Wu, H.; Guo, Y.-d.; Yang, Y.-b.; Yu, Q.; Liu, J.-g.; Wu, B.-h.; Lv, F.-z. Atomic Oxygen-Resistant Polyimide Composite Films Containing Nanocaged Polyhedral Oligomeric Silsesquioxane Components in Matrix and Fillers. Nanomaterials 2021, 11, 141. https://doi.org/10.3390/nano11010141
+21: 
+22: Received: 2 December 2020  
+23: Accepted: 5 January 2021  
+24: Published: 8 January 2021
+25: 
+26: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+27: 
+28: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+29: 
+30: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+31: 
+32: Abstract: For the development of spacecraft with long-servicing life in low earth orbit (LEO), high-temperature resistant polymer films with long-term atomic oxygen (AO) resistant features are highly desired. The relatively poor AO resistance of standard polyimide (PI) films greatly limited their applications in LEO spacecraft. In this work, we successfully prepared a series of novel AO resistant PI composite films containing nanocaged polyhedral oligomeric silsesquioxane (POSS) components in both the PI matrix and the fillers. The POSS-containing PI matrix film was prepared from a POSS-substituted aromatic diamine,  $N$ -(heptaisobutyl-POSS)propyl]-3,5-diaminobenzamide (DABA-POSS) and a common aromatic diamine,  $4,4'$ -oxydianline (ODA) and the aromatic dianhydride, pyromellitic dianhydride (PMDA) by a two-step thermal imidization procedure. The POSS-containing filler, trisilanolphenyl POSS (TSP-POSS) was added with the fixed proportion of 20 wt% in the final films. Incorporation of TSP-POSS additive apparently improved the thermal stability, but decreased the high-temperature dimensional stable nature of the PI composite films. The 5% weight loss temperature  $(T_{5\%})$  of POSS-PI-20 with 20 wt% of DABA-POSS is  $564^{\circ}\mathrm{C}$ , and its coefficient of linear thermal expansion (CTE) is  $81.0 \times 10^{-6} / \mathrm{K}$ . The former is  $16^{\circ}\mathrm{C}$  lower and the latter was  $20.0 \times 10^{-6} / \mathrm{K}$  higher than those of the POSS-PI-10 film ( $T_{5\%} = 580^{\circ}\mathrm{C}$ , CTE = 61.0 × 10 $^{-6} / \mathrm{K}$ ), respectively. POSS components endowed the PI composite films excellent AO resistance and self-healing characteristics in AO environments. POSS-PI-30 exhibits the lowest AO erosion yield ( $E_{\mathrm{s}}$ ) of  $1.64 \times 10^{-26} \mathrm{~cm}^{3} / \mathrm{atom}$  under AO exposure with a flux of  $2.51 \times 10^{21} \mathrm{atoms} / \mathrm{cm}^{2}$ , which is more than two orders of magnitude lower than the referenced PI (PMDA-ODA) film. Inert silica or silicate passivation layers were detected on the surface of the PI composite films exposed to AO.
+33: 
+34: Keywords: polyimide film; polyhedral oligomeric silsesquioxane; atomic oxygen; thermal properties; self-healing

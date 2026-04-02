@@ -1,0 +1,19 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. II. PolyimidePoly(ethylene terephthal.md
+doc_id: 2b9b7fd94648141b6fbac35d7ed21dcc
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Acknowledgment
+line_span: [105, 109]
+char_span: [13313, 13408]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0007: Acknowledgment) ---
+105: # Acknowledgment
+106: 
+107: This work is supported in part by NATO in the framework of SfP978013 grant.

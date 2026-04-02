@@ -1,0 +1,45 @@
+source_file: Comparative Studies of CPEs Modified with Distinctive Metal Nanoparticle-Decorated Electroactive Polyimide for.md
+doc_id: fe2f2e6e3b8ac66d0f7b7c32853d06a1
+chunk_index: 3
+block_id: b0004
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [78, 108]
+char_span: [9762, 16052]
+line_count: 29
+effective_body_non_empty_lines: 10
+
+lines:
+--- chunk (b0004: 2. Materials and Methods) ---
+78: # 2. Materials and Methods
+79: 
+80: All the chemicals purchased from Sigma-Aldrich (St. Louis, MO, USA), TCI (Tokyo, Japan) and Seechem (Seoul, Korea). All the solvents were purchased from J.T. Baker (Randor, PA, USA), Riedel-de-haen (Seelz, Germany) and Macron (Belmont, CA, USA), with  $99.99\%$  purity.  $\mathrm{HAuCl_4\bullet 3H_2O)}$ ,  $\mathrm{H}_2\mathrm{PtCl}_6\bullet 6\mathrm{H}_2\mathrm{O}$ , hydrazine, and  $\mathrm{AgNO_3}$  were all from Alfa Aesar.  ${}^{1}\mathrm{H}$ -NMR and LCMS were performed on a Bruker AVANCE300 spectrometer and Bruker Daltonics IT mass spectrometer model Esquire 2000 (Leipzig, Germany), respectively. An FTIR spectrometer (JASCO FT/IR-4100, Easton, PA, USA) and VoltaLab 50 (PST050) were used to perform FTIR and electrochemical experiments. The molecular weight was determined on a Waters GPC-150CV (Milford, CT, USA), and a JEOL-200FX TEM (Tokyo, Japan) was used for TEM study.
+81: 
+82: # 2.1. Synthesis of Amino-Capped Aniline Tetramer (ACAT)
+83: 
+84: As shown in Scheme I, aniline tetramer (ACAT) was prepared using a simple procedure [62]. First, diphenylamine  $(0.01\mathrm{mol})$  and  $4,4^{\prime}$ -diaminodiphenyl-amine sulphate  $(0.01\mathrm{mol})$  were dissolved in a tri-solvent system of DMF  $(100\mathrm{mL})$ ,  $\mathrm{H}_2\mathrm{O}$ $(20\mathrm{mL})$  and  $1\mathrm{N}$  HCl  $(25\mathrm{mL})$ . After that, ammonium persulphate solution  $(2.28\mathrm{g}$  in  $25\mathrm{mL}$  of  $1\mathrm{N}$  HCl) was added slowly to the above-mentioned solution at  $0^{\circ}\mathrm{C}$  via a dropping funnel. Subsequently, after one hour of stirring at  $0^{\circ}\mathrm{C}$  the reaction was precipitated out in distilled water  $(700\mathrm{mL})$ . Finally, the vacuum filtration was used to obtain the precipitate followed by a washing with  $400\mathrm{mL}$  of HCl  $(1\mathrm{N})$ ,  $100\mathrm{mL}$  of  $\mathrm{NH_4OH}$ $(1.2\mathrm{N})$ , and distilled water. Lastly, the crude product of ACAT was dried in a vacuum at  $50^{\circ}\mathrm{C}$  and obtained as blue powder.
+85: 
+86: # 2.2. Synthesis of EPI
+87: 
+88: The EPI preparation was a two-step process. First,  $0.52\mathrm{g}$  of  $4,4^{\prime} - (4.4^{\prime}$ -isopropylidenediphenoxy) bis (phthalic anhydride) and  $0.379\mathrm{g}$  of ACAT were added to  $16\mathrm{g}$  of DMAc in a two-neck-round bottom flask. The reaction mixture was stirred for  $24\mathrm{h}$  at room temperature to produce electroactive polyamic acid (EPAA). Afterwards, the mixture of acetic anhydride and pyridine  $(0.102 / 0.079,v / v)$  was added to the previous solution under stirring for  $1\mathrm{h}$ . Subsequently, the reaction mixture was heated at  $150^{\circ}\mathrm{C}$  for  $3\mathrm{h}$  to obtain the EPI solution. Finally, the precipitation was carried out in methanol and the precipitate washed with hot methanol. Lastly, the EPI was dried at  $60^{\circ}\mathrm{C}$  in a vacuum and collected in a good yield  $(80\%)$  [62].
+89: 
+90: # 2.3. Preparation of EPIS, EPIP, and EPIG
+91: 
+92: The standard procedure for the preparation of EPIS, EPIP, and EPIG was as follows: Firstly, an EPI (leucoemeraldine base) was prepared by dispersing  $0.1\mathrm{g}$  of as-prepared EPI in  $10~\mathrm{mL}$  of  $1.0\mathrm{M}$ $\mathrm{NH_4OH}$  containing  $1\mathrm{mL}$  of hydrazine solution. The reaction mixture was stirred for  $24\mathrm{h}$ , filtered, and washed with water until the  $\mathsf{pH}$  became neutralized. At this time, a freeze-drying technique was used at  $-42^{\circ}\mathrm{C}$  for  $24\mathrm{h}$ , and EPI (leucoemeraldine base) was collected in form of blue powder. Similarly, EPIS, EPIP, and EPIG were prepared by immersing  $0.1\mathrm{g}$  EPI (leucoemeraldine base) in  $19\mathrm{mL}$  of  $0.1\mathrm{mMAgNO}_3$ ,  $\mathrm{H}_2\mathrm{PtCl}_6\cdot 6\mathrm{H}_2\mathrm{O}$  and  $\mathrm{HAuCl}_4\cdot 3\mathrm{H}_2\mathrm{O}$  for  $6\mathrm{h}$ , respectively. Later, the EPIS, EPIP, and EPIG powders were collected by centrifugal filtration, washed with an excess amount of distilled  $\mathrm{H}_2\mathrm{O}$  and dried at  $50^{\circ}\mathrm{C}$  for  $24\mathrm{h}$ . Finally, the as-prepared EPI decorated with distinctive metallic particles was collected as a fine blue powder. The synthetic route for EPI decorated with  $\mathrm{Ag / Pt / Au}$  particles is shown in Scheme 1.
+93: 
+94: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+95: Scheme 1. Possible mechanism for the formation of metal nanoparticles on EPI.
+96: 
+97: # 2.4. Electrochemical Cyclic Voltammetry of EPI, EPIS, EPIP, and EPIG
+98: 
+99: The redox behavior of the as-prepared EPI, EPIS, EPIP, and EPIG was determined by spin-coating these electroactive materials onto an indium titanium oxide (ITO) followed by performing a series of CV studies. Firstly, different solutions were prepared by dissolving  $0.05\mathrm{g}$  of respective sample in  $5\mathrm{mL}$  of DMAc under magnetic stirring for  $6\mathrm{h}$ . After this, these solutions were spin-coated on an ITO and dried by heating at  $120^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ . Cyclic voltammetry (CV) of as-prepared ITOs was performed on a AutoLab PGSTAT 204 (Houten, The Netherlands).
+100: 
+101: # 2.5. Electrochemical Sensing of UA
+102: 
+103: Figure 1 shows the fabrication of a sensor for electrochemical detection of UA by using a carbon paste electrode (CPE) modified with EPIs. At first, four different samples were prepared by a thorough mixing of  $0.04\mathrm{g}$  of each respective polymer (EPI, EPIS, EPIP, EPIG) with graphite powder  $(0.05\mathrm{g})$  and paraffin oil (0.01) to form a homogeneous carbon paste. A portion of all these samples was packed firmly into a Teflon tube cavity, and the opposite end was inserted with a copper rod to make an electrical contact. Voltammetric studies were performed on an AutoLab PGSTAT 204 electrochemical work station in a  $0.1\mathrm{M}$  phosphate buffer solution (PBS)  $(20~\mathrm{mL})$ . Platinum foil was used as a counter electrode and  $\mathrm{Ag / AgCl}$ $(3.0\mathrm{MNaCl}$  solution) served as a reference electrode, while CPE electrodes modified with EPI, EPIS, EPIP or EPIG were employed as working electrodes.
+104: 
+105: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+106: Figure 1. The flowchart for preparing CPE modified with different samples (i.e., EPI-S, EPI-P, and EPI-G).

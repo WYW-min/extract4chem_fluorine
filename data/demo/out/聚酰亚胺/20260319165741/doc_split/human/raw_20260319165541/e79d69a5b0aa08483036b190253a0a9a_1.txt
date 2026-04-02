@@ -1,0 +1,21 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: ABSTRACT
+line_span: [12, 18]
+char_span: [477, 2745]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0002: ABSTRACT) ---
+12: # ABSTRACT
+13: 
+14: Direct methanol fuel cell (DMFC) is a very high potential renewable and sustainable energy for portable devices as it has very high energy density and more environmentally friendly. Adding filler into the membrane matrix had reported in improved performance of the DMFC. However, addition of filler will lead to the decrease of the ion exchange capacity of the membrane, which will in turn reduce the fuel cell performance. Hence, this work studies the modification of rice husk ash via sulfonation process and the effect of the synthesis parameter of novel sulfonated polyimides/sulfonated rice husk ash (SPI/sRHA) composite membrane towards fuel cell performance where filler sRHA had been synthesized via the mixing reaction between rice husk ash (RHA) with chloroform and chlorosulfonic acid. The composition of filler in membranes was optimized with different synthesis parameters such as different types of filler used, loading of filler in membrane and membrane annealing temperature. Investigation of the effects for these three parameters on the physicochemical properties of the composite membranes produced was carried out using response surface methodology (RSM) approach to optimize the synthesis parameters of the composite membrane. The fillers and composite membranes were characterized by Fourier transform infrared spectroscopy, X-ray diffraction, Brunauer-Emmett-Teller (BET) analysis and transmission electron microscopy. Different synthesis parameters had shown different influences on the physicochemical properties of the composite membranes and consequently, gave different passive fuel cell performances of DMFCs too. The optimized membrane (S-12-sR) showed enhanced physicochemical performance as well as the passive single cell performance as compared to pure SPI and Nafion 117 membranes. The water uptake, proton conductivity and IEC that had been achieved by the optimized membrane were  $90.97\%$ $0.1891~S~cm^{-1}$  and  $0.2608~\mathrm{mmol~g}^{-1}$  respectively. The maximum power density of the passive DMFC was improved from  $8.1~\mathrm{mW~cm}^{-2}$  to  $16.4~\mathrm{mW~cm}^{-2}$  under ambient conditions.
+15: 
+16: Keywords: Bio-filler; composite membrane; physicochemical; sulfonated polyimide; sulfonated rice husk ash

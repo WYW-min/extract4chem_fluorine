@@ -1,0 +1,43 @@
+source_file: A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles As a Chemiresistor Sensor for Hyd.md
+doc_id: 529c7ae8c913032b7aa9cc247dac1581
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles: As a Chemiresistor Sensor for Hydrogen Sulfide Gas
+line_span: [1, 29]
+char_span: [0, 2938]
+line_count: 27
+effective_body_non_empty_lines: 17
+
+lines:
+--- chunk (b0001: A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles: As a Chemiresistor Sensor for Hydrogen Sulfide Gas) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2019, 11, 1918; doi:10.3390/polym11121918
+5: www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles: As a Chemiresistor Sensor for Hydrogen Sulfide Gas
+11: 
+12: Lee Marvin G. Padua  $^{1}$ , Jui-Ming Yeh  $^{2, *}$  and Karen S. Santiago  $^{3, *}$
+13: 
+14: $^{1}$  Department of Math and Physics, College of Science, University of Santo Tomas, Manila 1008, Philippines; marb8402@gmail.com  
+15: $^{2}$  Department of Chemistry, Research and Development Center for membrane Technology, Center for Nanotechnology, Chung Yuan Christian University, Zhongli, Taoyuan 32023, Taiwan  
+16: $^{3}$  Department of Chemistry, College of Science; Research Center for Natural and Applied Sciences, University of Santo Tomas, Manila 1008, Philippines  
+17: * Correspondence: juiming@cycu.edu.tw (J.-M.Y.); kssantiago@ust.edu.ph (K.S.S.)
+18: 
+19: Received: 4 November 2019; Accepted: 20 November 2019; Published: 21 November 2019
+20: 
+21: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+22: 
+23: check for updates
+24: 
+25: Abstract: This research paper presents a new application of electroactive polyimide doped with gold nanoparticles (PI/AuNPs) as a chemiresistor sensor for detecting hydrogen sulfide gas. The synthesis of PI/AuNPs was done in a simple 3-step process of polymerization using the as prepared amine-capped aniline trimer (ACAT), followed by imidization, and doping. Spectral analyses via FTIR, LC-MS and  ${}^{1}\mathrm{H}$ -NMR confirmed the formation of amine-capped aniline trimer with a MW of  $288\mathrm{g mol^{-1}}$ . Comparison of ACAT, BSAA, and PI FTIR spectra showed successful polymerization of the last, while XRD validated the incorporation of metal nanoparticles onto the polymer matrix, showing characteristic diffraction peaks corresponding to gold. Furthermore, TEM, and FE-SEM revealed the presence of well-dispersed Au nanoparticles with an average diameter of about  $60\mathrm{nm}$ . The electroactive PI/AuNPs-based sensor showed a sensitivity of  $0.29\%$  ppm $^{-1}$  H $_2$ S at a linear concentration range of 50 to 300 ppm H $_2$ S (r = 0.9777). The theoretical limit of detection was found at 0.142 ppm or 142 ppb H $_2$ S gas. The sensor provided a stable response reading at an average response time of  $43\pm 5\mathrm{s}$ , which was easily recovered after an average time of  $99\pm 5\mathrm{s}$ . The sensor response was highly repeatable and reversible, with RSD values of  $8.88\%$ , and  $8.60\%$ , respectively. Compared with the performance of the conventional conducting polyaniline also doped with gold nanoparticles (PANI/AuNPs), the fabricated electroactive PI/AuNPs exhibited improved sensing performance making it a potential candidate in monitoring H $_2$ S in the environment and for work-related safety.
+26: 
+27: Keywords: conducting polymers; metal nanoparticles; gas sensor; hydrogen sulfide gas

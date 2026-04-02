@@ -1,0 +1,139 @@
+source_file: Comparative Studies of CPEs Modified with Distinctive Metal Nanoparticle-Decorated Electroactive Polyimide for.md
+doc_id: fe2f2e6e3b8ac66d0f7b7c32853d06a1
+chunk_index: 4
+block_id: b0005
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results
+line_span: [108, 232]
+char_span: [16052, 32950]
+line_count: 123
+effective_body_non_empty_lines: 63
+
+lines:
+--- chunk (b0005: 3. Results) ---
+108: # 3. Results
+109: 
+110: # 3.1. Characterization of ACAT
+111: 
+112: Figure 2 shows the complete characterization of ACAT. As presented in Figure 2a, the  ${}^{1}\mathrm{H}$  NMR spectrum of ACAT reveals the signal at  $5.50~\mathrm{ppm}$  indicating the  $\mathrm{NH_2}$  protons. Moreover, the signals around  $7.3 - 6.8~\mathrm{ppm}$  show the splitting of the aromatic protons. The FTIR spectrum of ACAT in Figure 2b shows the absorption band at 3300 and  $3200~\mathrm{cm}^{-1}$  corresponding to the  $\mathrm{NH_2}$  groups, while the vibrational bands for quinoid and benzenoid ring appears at 1600 and  $1500~\mathrm{cm}^{-1}$ , respectively. The peak at  $830~\mathrm{cm}^{-1}$  may be correlated to the substitution pattern of a 1,4-disubstituted benzene ring. Moreover, Figure 2c shows the molecular weight of ACAT with a molecular ion peak appeared at  $380(m / z)$  [63,64].
+113: 
+114: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+115: (a)
+116: 
+117: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+118: (b)
+119: 
+120: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+121: (c)  
+122: Figure 2. Characterization of ACAT as determined by (a)  $^{1}\mathrm{H}$ -NMR, (b) FTIR, and (c) mass spectroscopy.
+123: 
+124: # 3.2. Characterization of EPAA and EPI
+125: 
+126: As shown in Figure 3, FTIR was used to characterize the structure of EPAA and EPI. The FTIR spectra of EPAA 3a showed a characteristic carboxylic and amide absorption band at 3250–3500 (N–H and O–H spectra), 1677 (acid C=O spectra), and 1641 (amide C=O spectra)  $\mathrm{cm}^{-1}$ . In addition, the peaks observed at 1596 and  $1503\mathrm{~cm}^{-1}$  indicated the presence of quinoid and benzenoid rings. On the other hand, EPI showed typical asymmetric and symmetric carbonyl group absorption bands at 1715 and  $1675\mathrm{~cm}^{-1}$ . Moreover, the absorption band of the carboxylic acid group completely disappeared, which indicated the complete conversion of EPAA to EPI.
+127: 
+128: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+129: Figure 3. The representative FTIR spectra for (a) EPAA, (b) EPI.
+130: 
+131: # 3.3. Structural and Morphological Characterization of EPIS, EPIP, and EPIG
+132: 
+133: Various characterization tools were used for the determination of structure and morphology of the as-prepared materials.
+134: 
+135: # 3.3.1. X-ray Diffraction (XRD)
+136: 
+137: The XRD patterns clearly indicate that EPIS, EPIP, and EPIG had a crystalline nature as shown in Figure 4a. It can be seen that as compared to EPI and EPIS, EPIG exhibited four additional peaks at  $2\theta$  of  $38.01^{\circ}$ ,  $43.96^{\circ}$ ,  $64.50^{\circ}$ , and  $77.42^{\circ}$ . All these peaks were attributed to the standard Bragg reflection from (111), (200), (220), and (311) of the crystallographic planes of the face-centered cubic lattice. The intense peak at 38.1 indicated that the growth of gold was fixed in (111) direction. Likewise, the EPIP curve showed the crystal-plane peaks of (111), (200), and (220) of platinum metal at  $2\theta$  of  $39.5^{\circ}$ ,  $44.6^{\circ}$ , and  $64.9^{\circ}$ . Thus, we may infer that the composition of the respective material was as expected, and no impurities were found in the XRD pattern [57,65,66].
+138: 
+139: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+140: 
+141: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+142: 
+143: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+144: (a)  
+145: (c)
+146: 
+147: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+148: (b)  
+149: (d)
+150: 
+151: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+152: Figure 4. Characterization of EPIS, EPIP, EPIG as determined by XRD (a), XPS (b), TEM images EPIS (c), EPIP (d), and EPIG (e).  
+153: (e)
+154: 
+155: # 3.3.2. X-ray Photoelectron Spectroscopy (XPS)
+156: 
+157: The XPS analysis was employed to determine the composition of all the given samples as shown in Figure 4b. The XPS spectra of EPIS, EPIP, and EPIG clearly showed peaks for C, N, and O atoms, while the absence of any other peak indicated the purity of the given materials. The binding energy peak at  $287.82\mathrm{eV}$  arose from C 1 s, while the peak at  $399.8\mathrm{eV}$  corresponded to N 1 s. This peak was developed due to interactions with the N atom and respective nanoparticles. In addition, for EPIS the binding energy of  $\mathrm{Ag3d_{5 / 2}Ag3d_{3 / 2}}$  was found to be  $371.5\mathrm{eV}$  and  $365.6\mathrm{eV}$ , respectively, which were comparable to the values reported in the literature for bulk Ag crystals (368 eV, 374 eV) [67]. Similarly, in case of EPIP, peaks appeared at  $71.3\mathrm{eV}$  and  $74.6\mathrm{eV}$  for Pt  $4\mathrm{f}_{7 / 2}$  and  $4\mathrm{f}_{5 / 2}$ , respectively, corresponding to
+158: 
+159: the zero-oxidation state [68]. Moreover, the EPIG XPS signal for  $\mathrm{Au}4\mathrm{f}_{7 / 2}$  and  $\mathrm{Au}4\mathrm{f}_{5 / 2}$  was observed as doublets at 81.5 and  $85.3\mathrm{eV}$ , respectively, which clearly indicates the reduction of  $\mathrm{Au}^{3 + }$  into  $\mathrm{Au}^0$ , as the binding energy of  $\mathrm{Au}4\mathrm{f}_{7 / 2}$  for  $\mathrm{Au}^{+3}$  is  $86.5\mathrm{eV}$  [54].
+160: 
+161: # 3.3.3. Transmission Electron Microscopy (TEM)
+162: 
+163: Figure 4c-e presents the TEM images of EPIS, EPIP, and EPIG, respectively, under high magnification  $(200\mathrm{K})$ . The reduced metal NPs developed on the EPI surface were observed as black spots as shown in the Figure The average particle size of EPIS, EPIP, and EPIG was found to be  $\approx 22\mathrm{nm}$ ,  $\approx 68\mathrm{nm}$ , and  $\approx 20 \pm 2\mathrm{nm}$  in diameter, respectively, as seen in Figure 4c-e.
+164: 
+165: # 3.4. Redox Capability of Materials Measured by Electrochemical CV Studies
+166: 
+167: The cyclic voltammograms (CV) of all EPIs are shown in Figure 5. As no redox peak was observed for bare ITO electrodes, it was used as a control for 5a. The CV curve for EPI 5b showed a relatively small peak of a redox current at  $100\mathrm{Acm}^{-2}$ . However, the doping of EPI with respective metal nanoparticles resulted in an increase in current density. For example, the current density for EPIS 5c was  $225\mathrm{Acm}^{-2}$ , which was 2.3 times higher than that for EPI, while the response for EPIP 5d increased by four times with a current density of  $400\mathrm{Acm}^{-2}$ . Subsequently, the highest response was observed for EPIG with a current density of about  $600\mathrm{Acm}^{-2}$ , as shown in Figure 5e. Thus, the redox capability of the as-prepared ITO electrode coated with electroactive materials was decreased in the following order:  $\mathrm{EPIG > EPIP > EPIS > EPI}$ .
+168: 
+169: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+170: Figure 5. Electrochemical cyclic voltammetry for (a) ITO, (b) EPI, (c) EPIS (d), EPIP, and (e) EPIG, as measured in  $1.0\mathrm{M}$ $\mathrm{H}_2\mathrm{SO}_4$  aqueous solution with a scan rate of  $50\mathrm{mV}s^{-1}$ .
+171: 
+172: # 3.5. Kinetic Parameters Study of CPE Modified with EPIG
+173: 
+174: To study the nature and kinetics of the electrochemical reaction, the effect of the scan rate on CV was determined on a CPE modified with EPIG was used in  $0.1\mathrm{M}$  PBS  $(\mathrm{pH} = 7)$  towards the oxidation of  $50~\mu \mathrm{M}$  UA as evident in Figure 6a. It can be seen that with an increasing scan rate, the current density increased from  $3\mu \mathrm{Acm}^{-2}$  to  $8.6\mu \mathrm{Acm}^{-2}$ . Furthermore, the peak potential shifted towards the positive side with the increasing scan rate. Figure 6b showed a linear relationship between the peak current  $\left(\mathrm{I_p}\right)$  and square root of the scan rates  $(\nu_{1 / 2})$ , and the regression equation was  $\mathrm{I_p}(\mu \mathrm{A}) = 11.147_{\nu 1 / 2}(\mathrm{V}_{S - 1})_{1 / 2} + 0.562$  with a correlation coefficient of  $\mathbb{R}^2 = 0.9958$ . Thus, it indicated that the UA oxidation process proceeds via a diffusion-controlled electron transfer reaction, which is generally observed in systems when the kinetics are fast. Additionally, to investigate the mechanism of UA
+175: 
+176: electrocatalysis on an EPIG, a graph was plotted between the peak potential  $(\mathrm{E_p})$  and logv as shown in Figure 6c. From the curve, it can be seen that  $\mathrm{E_p}$  was proportional to logv by the following linear equation  $\mathrm{E_p} = 0.1112\log (\nu) + 0.5346,\mathrm{R}^2 = 0.97548$  , which indicates that the reaction is irreversible. Hence, an anodic peak potential can be evidenced by [69]
+177: 
+178: $$
+179: \mathrm {E p} = \frac {2 . 3 0 3 \mathrm {R T}}{2 (1 - \alpha) \mathrm {n a F}} \cdot \log \vartheta + k \tag {1}
+180: $$
+181: 
+182: where  $R$  and  $F$  are the universal gas constant and Faraday constant, respectively;  $\alpha$  is the electron transfer coefficient;  $n_a$  is the number of electrons transferred; and  $T$  is the room temperature. The Tafel slope value calculated from Figure 6c was 0.222 V/decade, which shows that one electron transferred in a rate-determining step by assuming  $\alpha = 0.61$ .
+183: 
+184: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+185: 
+186: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+187: 
+188: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+189: (a)  
+190: Figure 6. Cyclic voltammograms obtained from (a) EPIG in PBS  $(\mathrm{pH} = 7)$  at different scan rates (curves a to g; 40, 100, 150, 200, 400,  $500\mathrm{mVs^{-1}}$  ) in the presence of  $50~\mu \mathrm{M}$  UA. (b) The plot between  $\mathbf{I}_{\mathfrak{p}}$  vs. square roots of scan rates  $(v_{1 / 2})$  (c) The plot of  $\mathbf{E}_{\mathbb{P}}$  vs. log (v).  
+191: (c)
+192: 
+193: # 3.6. Electrochemical Sensing of UA
+194: 
+195: CV and amperometric studies were used to determine the electrocatalytic activity of the respective material for the detection of UA. Figure 7a showed the CV response corresponding to a bare CPE and a CPE modified with EPI, EPIS, EPIP, and EPIP in  $0.1\mathrm{M}$  PBS  $(\mathrm{pH} = 7)$  at  $350\mathrm{M}$  UA concentration with scan rate of  $50\mathrm{mVs^{-1}}$ . As observed, the bare CPE 7a showed the smallest response with a current density of  $12.73\mathrm{uAcm^{-2}}$  at a more positive potential of  $459\mathrm{mV}$ , while, the current density for the CPE modified with EPI, EPIS, EPIP, and EPIG was found to be 28.10, 29.67, 32.68, and  $37.39\mathrm{uAcm^{-2}}$ , respectively. It may be conclude that UA sensitivity decreases in the following order  $\mathrm{EPIG > EPIP >}$ $\mathrm{EPIS > EPI}$ .
+196: 
+197: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+198: (a)
+199: 
+200: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+201: (b)
+202: 
+203: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+204: (c)  
+205: Figure 7. (a) Cyclic voltammograms of CPE (a), EPI (b), EPIS (c), EPIP (d), and EPIG (e) modified electrodes in PBS  $(\mathrm{pH}\sim 7)$  with  $350~\mu \mathrm{M}$  UA concentrations with scan rate of  $50\mathrm{mV}\cdot \mathrm{s}^{-1}$ . (b) Typical Amperometric response obtained with CPE (a), EPI (b), EPIS (c), EPIP (d), and EPIG (e) modified electrode at  $310\mathrm{mV}$  with successive additions of AA into  $30\mathrm{mL}$  of PBS. (c) The corresponding calibration plot for current density vs. [UA] of CPE (a), EPI (b), EPIS (c), EPIP (d), and EPIG (e) modified electrodes.
+206: 
+207: The quantitative detection of UA with bare CPE and the EPI, EPIS, EPIP, and EPIG modified CPE was investigated by chronoamperometric measurements as shown in Figure 7b. The response was obtained by plotting a current-time (i-t) curve for  $350\mathrm{M}$  UA
+208: 
+209: at  $340\mathrm{mV}$  in  $30~\mathrm{mL}$  of PBS solution  $(\mathrm{pH} = 7)$  under constant stirring. It is noteworthy that the current density increases after each addition of UA. Further, a rapid and sensitive response was observed in the case of a CPE modified with EPIG, the sensitivity of which was calculated to be  $0.153\mathrm{AM}^{-1}$ , which is 1.84-fold, 3.56-fold, 4.5-fold, and 6.12-fold higher than those of a CPE modified with EPIP, EPIS, EPI, and a bare CPE, respectively, under the same analytical conditions as shown in Table 1.
+210: 
+211: At a constant potential of  $340\mathrm{mV}$  and a lower concentration  $(0 - 50~\mu \mathrm{M})$  , all the electrochemical sensors showed a linear relationship between current response and UA, as shown in Figure 7c. However, the response curve for EPIG was steep among all electrodes with a high sensitivity  $(0.153\mathrm{AM}^{-1})$  and having a good correlation coefficient  $(\mathbb{R}^2 = 0.9951)$  . On the other hand, at a higher concentration of UA, the relationship between current density, and UA concentration was determined by the following equation [70]:
+212: 
+213: $$
+214: j = j _ {\max } [ 1 - \exp (- c / b) ] \tag {2}
+215: $$
+216: 
+217: Table 1. Comparison of our electrochemical sensor with other modified electrodes using various methods reported in the literature.  
+218: 
+219: <table><tr><td>Materials/Electrode Type</td><td>Analyte</td><td>Sensitivity (μA·μM-1)</td><td>Limit of Detection (LOD)(μM)</td><td>Linear Dynamic Range (LDR)(μM)</td><td>Reference</td></tr><tr><td>RGO/ZnO/GCE [66]</td><td>UA</td><td></td><td>0.31</td><td>1-800</td><td>[71]</td></tr><tr><td>G-30 [67]</td><td>UA</td><td></td><td>17.8</td><td>5-1000</td><td>[72]</td></tr><tr><td>ZnO NPs/CPE [68]</td><td>GA</td><td></td><td>0.124</td><td>1-1000</td><td>[73]</td></tr><tr><td>CoO NPs/CPE</td><td>GA</td><td></td><td>1.52</td><td>100-10,000</td><td>[74]</td></tr><tr><td>CCE/MWCNT</td><td>UA</td><td>1.5</td><td>1.4</td><td>0.5-10.0</td><td>[75]</td></tr><tr><td>CPE/MWCNT/α-CD</td><td>UA</td><td>0.325</td><td>5</td><td>5.0-40</td><td>[76]</td></tr><tr><td>LaPO4/CPE</td><td>UA</td><td></td><td>0.9</td><td>2.7-24</td><td>[77]</td></tr><tr><td>PANI/GO fibers</td><td>UA</td><td></td><td>0.2</td><td>2-18</td><td>[78]</td></tr><tr><td>Fe-Meso-PANI</td><td>UA</td><td>0.2621</td><td>5.3</td><td>100-300</td><td>[79]</td></tr><tr><td>EPI/CPE</td><td>UA</td><td>0.34</td><td>3.81</td><td>5-15</td><td>This work</td></tr><tr><td>EPIS/CPE</td><td>UA</td><td>0.47</td><td>4.33</td><td>5-20</td><td>This work</td></tr><tr><td>EPIP/CPE</td><td>UA</td><td>0.83</td><td>2.60</td><td>5-20</td><td>This work</td></tr><tr><td>EPIG/CPE</td><td>UA</td><td>1.53</td><td>0.78</td><td>5-50</td><td>This work</td></tr></table>
+220: 
+221: (c = concentration of UA, j = oxidation current, b = empirical coefficient related to the steepness of the j, c transient curve and  $j_{\mathrm{max}} =$  current maxima at higher UA concentration). Based on the data, the previous equation yielded  $j_{\mathrm{max}} = 15.33 \, \mathrm{A} \, \mathrm{cm}^{-2}$ ,  $b = 92.59 \, \mathrm{M}$ , and a correlation coefficient of  $R^2 = 0.9968$ . However, it is not easy to apply the above equation for a current vs concentration plot. Thus, we generated a linear relationship by taking the log of the abscissa of the calibration curve. So, the sensitivity values calculated for a CPE modified with an EPIG, EPIP, EPIS, EPI, and a bare CPE was 0.153,  $8.3 \times 10^{-2}$ ,  $4.7 \times 10^{-2}$ ,  $3.4 \times 10^{-2}$ , and  $2.5 \times 10^{-2} \, \mathrm{A} \, \mathrm{M}^{-1}$ , respectively. In addition, the current density increased with the successive addition of UA, while the steady state was achieved after 2 s. These results indicated that, an EPIG is a highly sensitive sensor with a rapid response, wide linear dynamic range (LDR) and low limit of detection (LOD) (Table 1).
+222: 
+223: # 3.7. Differential Pulse Voltammetric Responses for Tertiary Mixtures of AA, UA, and DA
+224: 
+225: Differential pulse voltammograms (DPVs) were used [80] to determine the selectivity of designed electrochemical sensors. The experiment was carried out using a tertiary mixture of  $10\mathrm{M}$  of DA,  $10\mathrm{M}$  of AA, and  $10\mathrm{M}$  of UA for a bare CPE, a CPE modified with an EPI, EPIS, EPIP, and EPIG in  $0.1\mathrm{M}$  PBS  $(\mathrm{pH} = 7)$  in the range of  $-0.3$  to  $0.8\mathrm{V}$ , as shown in Figure 8. It can be seen that the bare CPE 8a showed poor selectivity for a tertiary mixture of AA/DA/UA. However, an improved and clearly distinguished signal can be seen for a CPE modified with EPI 8b, EPIS 8c, EPIP 8d, and EPIG 8e. The overall current value of a CPE modified with metal NPs increased as compared to a EPI due to electrocatalysis. The separation potential was also significantly improved. It showed good separation with three
+226: 
+227: oxidation peaks around  $10 - 50\mathrm{mV}$ ,  $160 - 180\mathrm{mV}$ , and  $300 - 340\mathrm{mV}$ , which corresponded to the anodic potentials of AA, DA, and UA respectively. Due to the excellent electrocatalysis of EPIG as caused by Au NPs, the overall sensing current value was increased, depicting excellent selectivity, good resolution and prominent voltammetric peaks.
+228: 
+229: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+230: Figure 8. Differential pulse voltammograms obtained with (a) CPE, (b) EPI, (c) EPIS, (d), EPIP, and (e) EPIG modified electrodes for a tertiary mixture of  $10\mathrm{uM}$  AA/DA/UA in  $0.1\mathrm{M}$  PBS.

@@ -1,0 +1,21 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 2
+block_id: b0003
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Experimental
+line_span: [43, 49]
+char_span: [10646, 11990]
+line_count: 5
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0003: Experimental) ---
+43: # Experimental
+44: 
+45: # Instruments
+46: 
+47: NMR spectra were obtained on a Bruker 300 MHz spectrophotometer. The FT-IR (KBr) spectra were recorded on a PerkinElmer RXI spectrophotometer  $(2\mathrm{w} / \mathrm{w}\%)$  in KBr, resolution  $4\mathrm{cm}^{-1}$ , scan no. 6). Thermal analysis (TGA-DTA) and differential scanning calorimetry (DSC) were carried out on a Linseis STA PT 1000 and a DSC PL instruments (nitrogen atmosphere, scan rate  $10^{\circ}\mathrm{C / min}$ ), respectively. DSC measurements were performed after heating the polymer samples to  $150^{\circ}\mathrm{C}$  and then cooling to room temperature; this removed any adsorbed water on the polymer. Elemental analyses of the samples were performed on an Elemental Vario TEL instrument. Inherent viscosities were measured by an Ostwald viscometer at  $25^{\circ}\mathrm{C}$  in DMF. The mass spectrum (electron impact,  $70\mathrm{eV}$ ) was obtained on an Agilent Technologies 5973Network MSD mass spectrometer. Wide-angle X-ray diffraction (WXRD) measurements were performed at room temperature on a Simence D500 X-ray diffractometer (Germany) using Ni-filtered  $\mathrm{Cu - K}_{\alpha}$  radiation. The scanning rate was  $1^{\circ} / \mathrm{min}$  over a range of  $2\theta = 2 - 10^{\circ}$ . Scanning Electron Microphotographs (SEM) were obtained on a LEO 1430VP instrument.

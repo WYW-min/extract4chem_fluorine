@@ -1,0 +1,10 @@
+{
+  "stage": "main_signal_before",
+  "run_id": "20260319165741",
+  "created_at": "2026-03-19T17:47:26+08:00",
+  "input_path": "data/out/聚酰亚胺/20260319165741/doc_split/raw_20260319165541.jsonl",
+  "output_path": "data/out/聚酰亚胺/20260319165741/main_signal_before/raw_20260319165541.jsonl",
+  "doc_count": 50,
+  "task_count": 50,
+  "empty_experiment_count": 2
+}

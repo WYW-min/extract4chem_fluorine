@@ -1,0 +1,27 @@
+source_file: Organic鈥揑norganic Double-Gel System Thermally Insulating and Hydrophobic Polyimide Aerogel.md
+doc_id: 5303205641f7b0b70524db9882230995
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [55, 67]
+char_span: [2969, 7142]
+line_count: 11
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+55: # 1. Introduction
+56: 
+57: The overconsumption of energy is becoming a critical issue, based on engineering, environmental, and economic challenges in modern industries [1-3]. Pursuing a novel material with high performance and energy efficiency is a forefront research topic in terms of industrial applications [4-7]. Aerogel, as an impressive commercial energy material, plays a crucial role in the thermal insulation field due to its high strength and low density, which can be subdivided into inorganic and organic aerogels. Inorganic aerogels, especially silica-derived aerogels, have emerged as representatives of the heat insulation field because of their highlighted inherent textural properties, and, more importantly, unprecedented thermal stability and multifunctional use [8-13]. Despite the promising performance of inorganic aerogels, the obvious intrinsic drawbacks, such as hygroscopicity, brittleness, and lack of compressive modulus, inhibit their applications [14]. Compared with inorganic aerogels, organic aerogels, which have tunable structural properties, are not stable in thermal conditions [15-19]. Therefore, developing organic-inorganic aerogels is imperative to achieve the desired performance. Additionally, designing an effective combination strategy represents a critical first step in the establishment of a bridge between inorganic and organic aerogels [14,20,21].
+58: 
+59: Many strategies have been achieved in the development of high-strength bonding of organic-inorganic aerogels so far. The functional modification of aerogels by introducing nano-fillers has gained significant research attention [22-25]. In early studies,
+60: 
+61: Wang et al. [26] built blocks of cellulose nanofibers and  $\mathrm{ZrP / RGO}$  nanosheets, which provided an aerogel with ultralow thermal conductivity (0.018 W/m·K) and high Young's modulus (194 kPa). Moreover, Zhu et al. [27] created a modified hydroxyapatite/chitosan composite aerogel with good mechanical properties and thermal insulation. Additionally, recent works have exhibited an appealing tendency to form a mutually cross-linked network structure by using a principal skeleton, e.g., silica [20], polyacrylonitrile [28], aramid nanofiber [29], and sodium alginate skeleton [30], etc. However, despite the great success of the strategies mentioned above, the industrial application practicability is still restricted due to the complexity of the process.
+62: 
+63: In recent years, many attempts have been made to achieve dehydration of wet gel, including regular drying, supercritical  $\mathrm{CO}_{2}$ , and freeze-drying, etc. Among them, supercritical  $\mathrm{CO}_{2}$  is considered to be a better candidate in the conversion from wet gel to aerogel, which could deliver an excellent microscopic pore structure. In early studies, Zhang et al. [31] prepared impressive low-density ( $\sim 0.2\mathrm{g/cm}^3$ ) aerogels using supercritical drying. In parallel, Ana Iglesias-Mejuto and her co-workers [32] verified the compatibility of 3D printing and supercritical  $\mathrm{CO}_{2}$  drying in the field of aerogels. Despite their promising performance, poor mechanical properties, lack of thermal stability, and complex processes remain their fatal flaws [5]. Accordingly, there is an urgent demand for a modified method to address the aforementioned issues by producing better performance.
+64: 
+65: Herein, we introduce a "double-gel" method in which  $\mathrm{SiO}_2@\mathrm{GO-NH}_2$  gels were conveniently and effectively constructed using the sol-gel method, and dispersed in an aqueous system to form a double-gel system with poly amic acid (PAA) organic wet gels. The aqueous system allowed the two phases to be uniformly dispersed and mixed, while the amino modification improved the compatibility between both gels. After freeze-drying and heat treatment, the wet gels turn into aerogels during PAA and transform into one of the most thermally stable polymeric materials known, polyimide (PI). The multilayered interfacial structure and the compatible dispersion of the two phases bring superior mechanical properties, thermal insulation, thermal stability, thermal durability, and hydrophobicity to aerogels.

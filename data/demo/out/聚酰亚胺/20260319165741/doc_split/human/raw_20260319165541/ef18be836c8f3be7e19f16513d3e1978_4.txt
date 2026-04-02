@@ -1,0 +1,29 @@
+source_file: Polyimide-Coated Glass Microfiber as Polysulfide Perm-Selective Separator for High-Performance Lithium-Sulphur.md
+doc_id: ef18be836c8f3be7e19f16513d3e1978
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [203, 217]
+char_span: [39790, 41617]
+line_count: 13
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+203: # 4. Conclusions
+204: 
+205: To conclude, we demonstrated a synergistic combination of porous carbon cloth (CC) with a polyimide coated glass microfiber (PI-GF) for high-performance LSBs. CC and PI-GF function as a sulphur-supporting material and a polysulfide perm-selective separator, respectively, in which PI-GF helps polysulfides kept in close proximity to the CC by forming polysulfide films supported by microfibers via cohesive force. The degree of film formation is determined by the content of PI around  $0.5\mathrm{wt}\%$ , which requires delicate control. This was enabled by the aqueous PAA-solution-based synthesis of homogeneous thin PI coating on GF with the potential to scale and fine-tune. As a result, CC combined with PI-GF exhibited a sulphur utilization efficiency of  $79.5\%$  with a marginal capacity loss of  $0.099\%/$ cycle over 120 cycles.
+206: 
+207: Author Contributions: Conceptualization, Y.-S.J. and Y.H.K.; investigation, M.-J.K., H.J.H., H.-J.K., and K.Y.; writing—original draft preparation, M.-J.K. and K.Y.; writing—review and editing, Y.-S.J., Y.H.K., and J.C.W.
+208: 
+209: Funding: This research received no external funding.
+210: 
+211: Acknowledgments: This work was financially supported by the R&D Convergence Program of NST (National Research Council of Science & Technology) of Republic of Korea (CAP-15-02-KBSI), the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)(No. 2019R1C1C1007745), the National
+212: 
+213: Research Foundation of Korea (NRF) grant funded by the Korea government (Ministry of Science, ICT & Future Planning) (No. 2019R1A4A2001527), the Center for Advanced Soft-Electronics funded by the Ministry of Science, ICT as Global Frontier Project (CASE-2015M3A6A5065315) and KRICT core project (SI1921-20).
+214: 
+215: Conflicts of Interest: The authors declare no conflict of interest.

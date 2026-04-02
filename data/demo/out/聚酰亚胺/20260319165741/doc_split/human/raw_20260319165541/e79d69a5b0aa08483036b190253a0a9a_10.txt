@@ -1,0 +1,21 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 10
+block_id: b0011
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: DMFC PASSIVE SINGLE CELL PERFORMANCE
+line_span: [88, 94]
+char_span: [16644, 17799]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0011: DMFC PASSIVE SINGLE CELL PERFORMANCE) ---
+88: # DMFC PASSIVE SINGLE CELL PERFORMANCE
+89: 
+90: The membrane electrode assembly (MEA) for DMFC passive single cell performance was produced by hotpressing the composite membrane together with anode and cathode electrodes. A layer of Vulcan carbon was manually casted on the surface of carbon cloth as to act as a gas diffusion layer (GDL). Then, catalysts for the anode  $(\mathrm{PtRu}$  with  $8\mathrm{mgcm}^{-2}$  loading) and for the cathode
+91: 
+92: (Pt with  $8\mathrm{mgcm}^{-2}$  loading) were manually casted on the surface of GDL as anode and cathode catalyst layers, respectively. DMFC passive single cell performance was tested in an air-breathing single cell where the active area for this cell was  $2\mathrm{cm}\times 2\mathrm{cm}$ . It had a built-in container that contained  $10.5~\mathrm{mL}$  methanol solution. A potentiostat (WonATech, USA) was used to obtain the polarization data. The voltage reaction where the load current was used for the fuel cell under room temperature and atmospheric pressure was measured.  $2\mathrm{M}$  methanol was used as fuel in an anodic container and surrounding air was diffused into the opened cathode surface.

@@ -1,0 +1,28 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 10
+block_id: b0011
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: X-RAY DIFFRACTION (XRD) ANALYSIS
+line_span: [118, 131]
+char_span: [19814, 21364]
+line_count: 12
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0011: X-RAY DIFFRACTION (XRD) ANALYSIS) ---
+118: # X-RAY DIFFRACTION (XRD) ANALYSIS
+119: 
+120: Figure 3 illustrates the X-ray diffractograms of the obtained MDI-6FDA film and standard Kapton. A distinct pattern of peak reflection was observed at  $2\theta = 10^{\circ} - 37^{\circ}$  attributed to the different polymer structure of these two PI films. Kapton film has a slightly higher degree of crystallinity than MDI-6FDA film due to its rigid PMDA structure (Hsiao & Chen 2002; Hsiao & Lin 2005). Nevertheless, both PI films exhibit broad diffraction peaks, indicating less crystalline polymer characteristics. The flexible ether and  $\mathrm{CF}_3$  groups in Kapton and MDI-6FDA, respectively, have increased the free chain rotation and disrupted the structural regularity of the polymer film (Ando, Matsuura & Sasaki 1997; Cao et al. 2016; Huo et al. 2012). This observation was also evidenced by the DSC study, where no obvious melting point peak was found in the spectra of either MDI-6FDA or Kapton film.
+121: 
+122: TABLE 2. Drop test for MDI-6FDA PI film (i)  
+123: 
+124: <table><tr><td>Total drops</td><td>26</td><td>33</td><td>35</td><td>46</td></tr><tr><td>Film samples (23 mm × 38 mm)</td><td></td><td></td><td></td><td></td></tr><tr><td>aThickness (μm)</td><td>92</td><td>94</td><td>94</td><td>93</td></tr><tr><td>bThickness (μm)</td><td>69</td><td>67</td><td>70</td><td>-</td></tr></table>
+125: 
+126: ${}^{a}$  Average thickness of the film sides;  ${}^{b}$  Average thickness of the centre area of the film
+127: 
+128: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+129: FIGURE 3. X-ray diffractogram of PI films

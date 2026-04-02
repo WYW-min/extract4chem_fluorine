@@ -1,0 +1,38 @@
+source_file: High performance polyimide films containing benzimidazole moieties for thin film solar cells.md
+doc_id: 94e4f472b87b176909aab79040a1b019
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2 Experimental
+line_span: [32, 55]
+char_span: [6037, 10646]
+line_count: 22
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0003: 2 Experimental) ---
+32: # 2 Experimental
+33: 
+34: # 2.1 Materials
+35: 
+36: 6,4'-diamino-2'-trifluoromethyl-2-phenylbenzimidazole (DATFPBI) was prepared according to the synthetic method as reported by Hyungsam Choi and his coworkers (31). 4,4'-biphenyltetracarboxylic dianhydride (s-BPDA) was purchased from Shenzhen Nike Biotechnology Co. Ltd., P-phenylenediamine (p-PPD) was obtained from Shanghai Yihe Biotechnology Co. Ltd., Phthalic anhydride (PA, chemical pure) was purchased from Beijing Chemical Plant., s-BPDA, p-PPD, and PA were all purified by sublimation under reduced pressure. N, N'-dimethyl Acetylamine (DMAc) was purchased from Tianjin Chemical Reagent Co., Ltd (analytical pure).
+37: 
+38: # 2.2 Preparation of PI films
+39: 
+40: The polymerization was done in DMAc under a nitrogen atmosphere at room temperature for  $12\mathrm{h}$ , and a series of PAA solutions were obtained first (Table 1 and Scheme 1). The resulted PAAs with a solid content of  $10\mathrm{wt}\%$  gave a dynamic viscosity of 40 to  $45\mathrm{Pa}\cdot \mathrm{s}$  at  $25^{\circ}\mathrm{C}$ . After a filtration of the PAA solution with a G2 funnel, the PAA filtrate was casted onto a glass substrate and followed by air-drying on a horizontal platform for  $3 - 6\mathrm{h}$  at  $65^{\circ}\mathrm{C}$ . The obtained gel film was cured via a four step heat treatment procedure: heating at a rate of  $2.5^{\circ}\mathrm{C / min}$  from  $65^{\circ}\mathrm{C}$  to  $150^{\circ}\mathrm{C}$  and held at  $150^{\circ}\mathrm{C}$  for  $15\mathrm{min}$ , then rising from  $150^{\circ}\mathrm{C}$  to  $250^{\circ}\mathrm{C}$  at  $2.5^{\circ}\mathrm{C / min}$  and held at  $250^{\circ}\mathrm{C}$  for  $20\mathrm{min}$ , followed by heating from  $250^{\circ}\mathrm{C}$  to  $300^{\circ}\mathrm{C}$  at  $2.5^{\circ}\mathrm{C / min}$  and held at  $300^{\circ}\mathrm{C}$  for  $5\mathrm{min}$ , and finally, from  $300^{\circ}\mathrm{C}$  to  $395^{\circ}\mathrm{C}$  at  $2.5^{\circ}\mathrm{C / min}$  and held at  $395^{\circ}\mathrm{C}$  for  $8\mathrm{min}$ . After naturally cooling down to room temperature, the film was peeled off from the glass substrate after immersed into warm water. Then, a series of PIPBI polyimide films with the DATFPBI content of 0, 5, 10, 15, 20 wt%, respectively, were prepared follow the similar procedure and the thickness of the films was  $\sim 25\pm 1\mu \mathrm{m}$ .
+41: 
+42: # 2.3 Characterization
+43: 
+44: The dynamic viscosity of the PAAs was measured by NFJ-1 rotary viscometer. The Fourier-transform infrared spectroscopy (FTIR) spectrum of the film was performed by a Bruker VERTEX 70 spectrometer with reflection mode. The thermal properties of the film were analyzed on a TGA Q50 (TA Instruments). The samples were heated from  $60^{\circ}\mathrm{C}$  to  $800^{\circ}\mathrm{C}$  with a heating rate of  $10^{\circ}\mathrm{C / min}$  and a nitrogen flow rate of  $60~\mathrm{mL / min}$ . The static mechanical properties of the PI films were measured using a universal testing machine (Instron Model 1122), the sample size was  $30~\mathrm{mm} \times 5~\mathrm{mm}$ , the tensile rate was  $5~\mathrm{mm / min}$ . The dynamic mechanical thermal analysis (DMA) of the film was recorded with a type dynamic mechanical thermal analyzer (Rheometric Scientific DMTA-V), the sample
+45: 
+46: Table 1: Composition of BPDA/PPD-DATFPBI films (molar ratios).  
+47: 
+48: <table><tr><td>Entry</td><td>S-BPDA</td><td>p-PPD</td><td>DATFPBI</td></tr><tr><td>PIPBIa</td><td>100</td><td>100</td><td>0</td></tr><tr><td>PIPBIb</td><td>100</td><td>95</td><td>5</td></tr><tr><td>PIPBIc</td><td>100</td><td>90</td><td>10</td></tr><tr><td>PIPBId</td><td>100</td><td>85</td><td>15</td></tr><tr><td>PIPBIe</td><td>100</td><td>80</td><td>20</td></tr></table>
+49: 
+50: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+51: Scheme 1: Synthesis process of BPDA/PPD-DATPBI films (PIPBI $_a$ ~PIPBI $_e$ ).
+52: 
+53: size was  $5\mathrm{mm} \times 30\mathrm{mm}$ , the heating rate was  $3^{\circ}\mathrm{C / min}$ ,  $1\mathrm{Hz}$ . The linear thermal expansion coefficient (CTE) of the film was measured by a thermomechanical analyzer (TMA, Q400) with a sample size of  $5\mathrm{mm} \times 15\mathrm{mm}$  at a heating rate of  $10^{\circ}\mathrm{C / min}$ . The mechanical properties and CTE were characterized by testing at least 5 samples. The dielectric constant was measured using an AC impedance spectrometer (SI 1260) manufactured by Solartron. The diameter of the round copper electrode was  $10\mathrm{mm}$ , working voltage was  $1000\mathrm{mV}$ , the frequency was  $1\mathrm{kHz}$ . Moisture absorption rate of the film was measured according to standard ASTM D5229.

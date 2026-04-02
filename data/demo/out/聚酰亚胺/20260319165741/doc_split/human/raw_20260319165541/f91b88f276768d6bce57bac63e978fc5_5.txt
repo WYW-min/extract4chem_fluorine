@@ -1,0 +1,21 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. I. PolyimidePolycarbonate &amp; Polyi.md
+doc_id: f91b88f276768d6bce57bac63e978fc5
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Conclusion
+line_span: [82, 88]
+char_span: [9406, 9862]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0006: Conclusion) ---
+82: # Conclusion
+83: 
+84: By the introduction of certain amount of P2 we could drastically change the final mechanical properties of the resulting PI blend films. With addition of P2 there is strong tendency leading to formation of more elastic films with reduced strength and enhanced elongation.
+85: 
+86: The developed methods of polyimide mixing allowed avoiding a low solubility of PI in blends as well as carried out the synthesis by means of one step polycondensation.

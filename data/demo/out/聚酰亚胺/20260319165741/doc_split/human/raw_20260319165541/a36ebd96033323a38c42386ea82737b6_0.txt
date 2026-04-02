@@ -1,0 +1,61 @@
+source_file: A Study on the Interfacial Compatibility, Microstructure and Physico-Chemical Properties of PolyimideOrganical.md
+doc_id: a36ebd96033323a38c42386ea82737b6
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: A Study on the Interfacial Compatibility, Microstructure and Physico-Chemical Properties of Polyimide/Organically Modified Silica Nanocomposite Membrane
+line_span: [1, 47]
+char_span: [0, 4356]
+line_count: 45
+effective_body_non_empty_lines: 28
+
+lines:
+--- chunk (b0001: A Study on the Interfacial Compatibility, Microstructure and Physico-Chemical Properties of Polyimide/Organically Modified Silica Nanocomposite Membrane) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2021, 13, 1328. https://doi.org/10.3390/polym13081328
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # A Study on the Interfacial Compatibility, Microstructure and Physico-Chemical Properties of Polyimide/Organically Modified Silica Nanocomposite Membrane
+11: 
+12: Md A. Wahab  $^{1,2,*}$ , Mohammad R. Karim  $^{3,4}$ , Muhammad O. Aijaz  $^{3}$ , Bidita Salahuddin  $^{5}$ , Shazed Aziz  $^{6,*}$ , and Abu A. I. Sina  $^{7,*}$
+13: 
+14: $^{1}$  Institute for Advanced Study, Chengdu University, Chengdu 610106, China  
+15: $^{2}$  Institute of Materials Research and Engineering (IMRE) of The Agency for Science, Technology, and Research (A*STAR), 3 Research Link, Singapore 117602, Singapore  
+16: 3 Center of Excellence for Research in Engineering Materials (CEREM), Deanship of Scientific Research (DSR), King Saud University, Riyadh 11421, Saudi Arabia; mkarim@ksu.edu.sa (M.R.K.); maijaz@ksu.edu.sa (M.O.A.)  
+17: 4 K. A. CARE Energy Research and Innovation Center, Riyadh 11451, Saudi Arabia  
+18: 5 ARC Centre of Excellence for Electromaterials Science and Intelligent Polymer Research Institute, Innovation Campus, University of Wollongong, Squires Way, North Wollongong, NSW 2522, Australia; bbs622@uowmail.edu.au  
+19: $^{6}$  School of Chemical Engineering, The University of Queensland, QLD 4072, Australia  
+20: 7 Centre for Personalized Nanomedicine, Australian Institute for Bioengineering and Nanotechnology (AIBN), The University of Queensland, QLD 4072, Australia  
+21: * Correspondence: mabdul.wahab@outlook.com or mawahab@cdu.edu.cn (M.A.W.); shazed.aziz@uq.edu.au (S.A.); a.sina@uq.edu.au (A.A.I.S.)
+22: 
+23: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+24: 
+25: check for updates
+26: 
+27: Citation: Wahab, M.A.; Karim, M.R.; Aijaz, M.O.; Salahuddin, B.; Aziz, S.; Sina, A.A.I. A Study on the Interfacial Compatibility, Microstructure and Physico-Chemical Properties of Polyimide/Organically Modified Silica Nanocomposite Membrane. Polymers 2021, 13, 1328. https://doi.org/10.3390/polym13081328
+28: 
+29: Academic Editor: Agnieszka Tercjak
+30: 
+31: Received: 14 March 2021
+32: 
+33: Accepted: 11 April 2021
+34: 
+35: Published: 18 April 2021
+36: 
+37: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+38: 
+39: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+40: 
+41: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+42: 
+43: Abstract: Polyimide-silica (PI-Silica) composites are of tremendous research interest as high-performance materials because of their excellent thermal and mechanical properties and chemical resistance to organic solvents. Particularly, the sol-gel method of fabricating such composites is popular for manipulating their properties. In this work, PI-silica composite films are synthesized by the sol-gel method and thermal imidization from the solution mixtures of hydrolyzed tetraethoxysilane (TEOS) (or glycidoxypropyltrimethoxysilane (GPMS)) modified silica and an aromatic polyamic acid (PAA) based on  $3,3^{\prime},4,4^{\prime}$ -biphenyl tetracarboxylic dianhydride (BPDA)-p-phenylenediamine (PDA). The phase morphology of composites is found to be controlled by the substitution of TEOS with GPMS. Solid-state NMR spectroscopy is used to confirm the structural components of silica and GPMS-modified silica, whereas FT-IR results confirm the complete imidization of polyimide and composite film and suggest successful incorporation of Si-O-Si bonds into polyimide. The thermal, optical transmittance, and dielectric constant characterizations of pure polyimide and composite films are also carried out. Thermal stability of pure polyimide is found to be increased significantly by the addition of silica, whereas the partial substitution of TEOS with GPMS decreases the thermal stability of the composite, due to the presence of the alkyl organic segment of GPMS. The optical transmittance and dielectric constant of the composite films are controlled by manipulating the GPMS content.
+44: 
+45: Keywords: composites; polyimide; silica; sol-gel method; 3-glycidoxypropyltrimethoxysilane;  $^{29}\mathrm{Si}$  NMR; interfacial interactions; compatibility

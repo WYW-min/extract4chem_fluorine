@@ -1,0 +1,95 @@
+source_file: Photo-Induced Vertical Alignment of Liquid Crystals via In Situ Polymerization Initiated by Polyimide Containi.md
+doc_id: c8a0b0e01a1542c63d073c9e4734504d
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [59, 139]
+char_span: [12396, 25065]
+line_count: 79
+effective_body_non_empty_lines: 38
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+59: # 3. Results and Discussion
+60: 
+61: # 3.1. Analysis of Chemical Structures of Polyimide
+62: 
+63: FTIR is useful for comparing the chemical structures of alignment layers before and after UV photo radiation. As shown in Figure 1A, spectrum a showed the characteristic absorption peaks of initial BTDA-DMMDA PI (DA-0) without photo radiation at 1779, 1727, and  $1376~\mathrm{cm}^{-1}$ , ascribed to the symmetric stretching vibration of  $\mathrm{C = O}$ , the asymmetric stretching vibration of  $\mathrm{C = O}$ , and the stretching vibration C-N in imide groups, separately [31]. The peak of  $\mathrm{C = O}$  in BP providing photoinitiating sites was located at  $1670~\mathrm{cm}^{-1}$ . The breathing vibration of aromatic rings near  $1505~\mathrm{cm}^{-1}$  [32] remained the same before and after UV irradiation, which was a proper internal standard for measuring the reaction degree of  $\mathrm{C = O}$  in BP.
+64: 
+65: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+66: Figure 1. (A) FTIR spectra of polyimide based on  $3,3^{\prime},4,4^{\prime}$ -benzophenonetetraacarboxylic dianhydride and  $3,3^{\prime}$ -dimethyl-  $4,4^{\prime}$ -diaminodiphenyl methane (BTDA-DMMDA PI) films peeled from liquid crystal (LC) cells with different weight ratios of dodecyl acrylate (DA) monomers: a: DA-0, b: DA-2, c: DA-1, and d: DA-0.5; (B) FTIR spectrum a (black line) and its peek fitted with Lorentzian functions curves (red dash line and bold black lines).
+67: 
+68: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+69: 
+70: It is well known that the BP initiates free radical polymerization through hydrogen abstracting as mentioned above. Hydrogen abstracting will break the  $C = O$  in BP and generate  $-\mathrm{OH}$  [30]. Therefore, as shown in Figure 1A,  $-\mathrm{OH}$  stretches (weak) appeared at  $3342~\mathrm{cm^{-1}}$ , and the peak intensity of  $C = O$  in BP at  $1670~\mathrm{cm^{-1}}$  decreased after photoirradiation, which provided support for photoinitiating  $C = O$  in BP. The peak intensity of  $C = O$  at  $1721~\mathrm{cm^{-1}}$  was increased after UV irradiation, due to the grafting of DA. Previous work [33] reported that the peak could be fitted with Lorentzian functions to estimate the reaction degree of  $C = O$  in BP. Similarly, the peaks of FTIR spectra were fitted with Lorentzian functions prior to comparing the amounts of grafting of DA between cells containing different weight ratios of DA monomer as shown in Figure 1B. The values of  $S_{1720} / S_{1505}$  and  $S_{1670} / S_{1505}$  were displayed in Table 1. The PI in four LC cells added with different weight ratios of DA showed different intensity increase ratios of the peak centered at  $1721~\mathrm{cm^{-1}}$  and intensity decrease ratios of  $C = O$  in BP. Generally, the peak at  $1721~\mathrm{cm^{-1}}$  increased and the peak at  $1670~\mathrm{cm^{-1}}$  decreased with the increase in DA monomer weight ratios. This may have resulted from the increased reaction probabilities of DA monomers grafted onto PI films in LC cells with more weight ratios of DA.
+71: 
+72: Table 1. Intensities variation of carbonyl groups before and after photoirradiation and contrast ratios of LC cells.  
+73: 
+74: <table><tr><td>Samples</td><td>DA-0</td><td>DA-0.5</td><td>DA-1</td><td>DA-2</td></tr><tr><td>PI</td><td colspan="4">BTDA-DMMDA PI</td></tr><tr><td>Weight ratios of DA (wt %)</td><td>0.0</td><td>0.5</td><td>1.0</td><td>2.0</td></tr><tr><td>S1720/S1505a</td><td>1.48</td><td>2.83</td><td>2.88</td><td>3.17</td></tr><tr><td>S1670/S1505</td><td>2.69</td><td>1.99</td><td>1.68</td><td>1.13</td></tr><tr><td>Contrast ratios</td><td>NDb</td><td>412:1</td><td>423:1</td><td>380:1</td></tr></table>
+75: 
+76: ${}^{a}S$  was denoted as the peak areas;  ${}^{\mathrm{b}}$  the datum was not detectable.
+77: 
+78: # 3.2. Alignment Behavior of Liquid Crystals
+79: 
+80: The orthoscopic and conoscopic (inset) POM graphs of LC cells with different weight ratios of DA were shown in Figure 2. The LC cells with  $2\%$ ,  $1\%$ , and  $0.5\%$  of DA showed dark state under orthogonal polarization after photoirradiation. Moreover, a dark cross brush in the conoscopic POM graphs indicated that the LC aligned vertically. The pretilt angles were  $89.7^{\circ}$  of cells with DA monomers, which also demonstrated vertical alignment. However, the cell with  $2\%$  DA showed some light spots, which may be due to the incomplete phase separation of DA homopolymers in LC [34]. Compared with the cell with  $2\%$  DA, the cells with  $1\%$  DA and  $0.5\%$  both revealed a much better dark state. This is likely owing to the less self-polymerized DA polymers in cells with a lower monomer concentration.
+81: 
+82: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+83: Figure 2. Polarizing optical microscope (POM) microphotographs of LC cells with 2 wt % DA monomers (A), 1 wt % DA monomers (B), and 0.5 wt % DA monomers (C) after UV irradiation.
+84: 
+85: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+86: 
+87: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+88: 
+89: Figure 3A showed that, after thermal annealing at  $120^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ , the cell with  $2\%$  DA exhibited a better dark state, proving that the light spots were caused by incomplete phase separation. In addition, the dark states of cells with  $1\%$  DA and  $0.5\%$  were also better off. Moreover, the contrast ratios of LC cells were determined. The results showed that the contrast ratios (Table 1) of the LC cells with  $1\%$  and  $0.5\%$  DA were above 400:1 and similar to the regular PSVA mode cell (408:1). The LC cell with  $2\%$  DA had a relative lower contrast ratio, which may be due to the scattering of DA polymer protrusions. This was consistent with the POM results.
+90: 
+91: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+92: Figure 3. POM microphotographs of LC cells with 2 wt % DA monomers (A), 1 wt % DA monomers (B), and 0.5 wt % DA monomers (C) after UV irradiation and thermal annealing at  $120^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ .
+93: 
+94: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+95: 
+96: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+97: 
+98: In order to reassure that the BTDA-DMMDA PI could initiate the photopolymerization of DA, two contrast experiments by varying the structure of diamine and dianhydride have been carried out. The DA monomers in cells with BTDA-ODA PI films and ODPA-ODA PI films scarcely polymerized, as the POM graphs showed no signs of vertical alignment after the same period of photoirradiation, as shown in Figure 4. This was probably due to the UV absorption by PI films and the lack of initiator. These results further prove that the monomers were initiated by BTDA-DMMDA PI, and the initiating process was consistent with previous reports [28,29], as shown in Figure 5. The reactions in and on BTDA-DMMDA PI were the intermolecular crosslinking and grafting of DA. Taking the above facts, the POM photographs, and FTIR spectroscopy results into account, the conclusion that the DA monomers were mainly photoinitiated by BTDA-DMMDA PI and grafted onto it was drawn, which was in concurrence with self-polymerization in minor portions.
+99: 
+100: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+101: Figure 4. POM microphotographs of LC cells comprising BTDA-DMMDA PI film (A), polyimide based on  $3,3^{\prime},4,4^{\prime}$ -benzophenonetetracarboxylic dianhydride and 4,4-diaminodiphenyl ether (BTDA-ODA PI) film (B), and polyimide based on  $4,4^{\prime}$ -Oxydiphthalic anhydride and 4,4-diaminodiphenyl ether (ODPA-ODA PI) film (C) with 1 wt % DA monomers after UV irradiation.
+102: 
+103: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+104: Figure 5. Scheme of the photoreaction of BTDA-DMMDA PI and DA monomers.
+105: 
+106: # 3.3. Thermal Stability of Alignment
+107: 
+108: Because the running of LCDs was an exothermic process, the thermal stability of alignment films should be studied. The LC cells were heated on the plate heater at  $120^{\circ}\mathrm{C}$  for  $12\mathrm{h}$  to check the thermal stability of the vertical alignment, and the POM graphs of the heated cells were recorded and are shown in Figure 6. The POM graphs of all LC cells with different DA weight ratios exhibited a satisfactory dark state without disorders of LC after  $12\mathrm{h}$  of thermal heating, which indicated satisfactory thermal stabilities. However, the cell with 2 wt % DA monomers (Figure 6A) showed small protrusions, which probably resulted from the complete phase separation and aggregation of copolymerized DA monomers. In comparison to cells with 2 wt % DA monomers, the cells with 1 wt % and 0.5 wt % DA
+109: 
+110: monomers exhibited a smooth surface. This fact provided further evidence for the speculation that the incomplete phase separation was reasonably responsible for the light spots in cells containing  $2\%$  DA before thermal annealing (Figure 2A).
+111: 
+112: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+113: Figure 6. POM microphotographs of LC cells with 2 wt % DA monomers (A), 1 wt % DA monomers (B), and 0.5 wt % DA monomers (C) after UV irradiation and thermal annealing at  $120^{\circ}\mathrm{C}$  for  $12\mathrm{h}$ .
+114: 
+115: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+116: 
+117: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+118: 
+119: # 3.4. Surface Morphology of Alignment Layers
+120: 
+121: SEM is an effective method for investigating the morphology of alignment films. The alignment films (bottom one) from disassembled LC cells, and the LC and DA homopolymers were removed before the test. The SEM graphs of different cells were depicted in Figure 7. In order to obtain a clear overview of DA polymers grafted onto the BTDA-DMDMA PI films, 1200 magnification was used to DA-1 (Figure 7C) and DA-05 (Figure 7D). The alignment films in the cells without DA monomers showed smooth surfaces; comparatively, films in cells with DA showed surfaces that were quite rough and with many grains [22]. Moreover, the films from cells with different weight ratios of DA monomers showed different polymer particles densities. The polymer particles on alignment layers DA-2 and DA-1 were aggregated and larger. By contrast, particles on alignment DA-0.5 were dispersive and smaller. Overall, the polymer particles became larger and more intensive with the increase in the weight ratios of the DA monomers in cells. Consequently, the particles were probably DA-grafted polymers, which were inclined to aggregate on the PI films.
+122: 
+123: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+124: 
+125: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+126: 
+127: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+128: Figure 7. SEM photographs of PI films from LC cells with  $0\mathrm{wt}\%$  DA monomers (A),  $2\mathrm{wt}\%$  DA monomers (B),  $1\mathrm{wt}\%$  DA monomers (C), and  $0.5\mathrm{wt}\%$  DA monomers (D) after UV irradiation and thermal annealing at  $120^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ .
+129: 
+130: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+131: 
+132: # 3.5. Contact Angles of Polyimide Alignment Layers
+133: 
+134: The surface wettability, shown in Figure 8, was determined by a contact angle tester to give a preliminary explanation for the mechanism of the vertical alignment. The contact angle of the film without photoirradiation was  $79.6^{\circ}$ , which showed homogeneous alignment after rubbing. In contrast, the BDTA-DMMDA PI films from cells with DA monomers exhibited relatively high contact angles and the specific values of DA-2, DA-1, and DA-0.5 were  $96.4^{\circ}$ ,  $97.5^{\circ}$ , and  $94.8^{\circ}$ , separately. The high contact angles were induced by the DA polymers grafted onto the PI film, which made the surface quite rough and hydrophobic. Furthermore, the total surface free energies calculated with method-EOS exhibited that the intact PI film took on the highest total surface free energy of  $35.73\mathrm{mN / m}$ . This result revealed that the DA monomers grafted onto the PI film caused an elevation of contact angles and the reduction of total surface free energy, contributing to the vertical alignment of LC [26,33]. In addition, the LC molecules with a rod-like shape bear alkyl groups at one end and benzene rings at the other end. Therefore, the DA polymers with long alkyl groups were able to interact with the alkyl groups of the LC molecules, which was another important factor leading to vertical alignment.
+135: 
+136: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+137: Figure 8. Water contact angles and total surface free energy as functions of DA monomer contents.

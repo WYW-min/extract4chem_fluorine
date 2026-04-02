@@ -1,0 +1,60 @@
+source_file: High Thermally Stable and Melt Processable Polyimide Resins Based on Phenylethynyl-Terminated Oligoimides Cont.md
+doc_id: c1141ce61700cb27965246d094be203b
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [199, 242]
+char_span: [47914, 56054]
+line_count: 44
+effective_body_non_empty_lines: 39
+
+lines:
+--- chunk (b0006: References) ---
+199: # References
+200: 
+201: 1. Harvey, B.G.; Yandek, G.R.; Lamb, J.T. Synthesis and characterization of a high temperature thermosetting polyimide oligomer derived from a non-toxic, sustainable bisaniline. RSC Adv. 2017, 7, 23149-23156. [CrossRef]  
+202: 2. Flores-Bonano, S.; Vargas-Martinez, J.; Suárez, O.M.; Silva-Araya, W. Tortuosity index based on dynamic mechanical properties of polyimide foam for aerospace applications. Materials 2019, 12, 1851. [CrossRef] [PubMed]  
+203: 3. Ruggles-Wrenn, M.B.; Noomen, M. Fatigue of unitized polymer/ceramic matrix composites with 2D and 3D fiber architecture at elevated temperature. Polym. Test. 2018, 72, 244-256. [CrossRef]  
+204: 4. Wu, Y.; Chen, G.; Zhan, M. High heat resistant carbon fiber/polyimide composites with neutron shielding performance. Prog. Org. Coat. 2019, 132, 184-190. [CrossRef]  
+205: 5. Donghwan, C.; Lawrence, T.D. Characterization, properties, and processing of LaRCTM PETI-5 as a high-temperature sizing material. I. FTIR studies on imidization and phenylethynyl end-group reaction behavior. J. Appl. Polym. Sci. 2000, 76, 190-200.  
+206: 6. Wang, W.; Chen, G.; Fang, X. Phenylethynyl-terminated oligoimides with ultra-low melt viscosity derived from 1, 4-bis (3, 4-dicarboxy phenoxy) benzene dianhydride. High. Perform. Polym. 2019, 31, 580-589. [CrossRef]  
+207: 7. Smith, J.G., Jr.; Connell, J.W.; Hergenrother, P.M. Resin transfer moldable phenylethynyl containing imide oligomers. J. Compos. Mater. 2002, 36, 2255-2265. [CrossRef]  
+208: 8. Hergenrother, P.M.; Smith, J.G., Jr. Chemistry and properties of imide oligomers end-capped with phenylethynylphthalic anhydrides. Polymer 1994, 35, 4857-4864. [CrossRef]  
+209: 9. Fang, X.; Rogers, D.F.; Scola, D.A. A study of the thermal cure of a phenylethynyl-terminated imide model compound and a phenylethynyl-terminated imide oligomer (PETI-5). J. Polym. Sci. Pol. Chem. 1998, 36, 461-470. [CrossRef]  
+210: 10. Fang, X.; Xie, X.Q.; Simone, C.D. A solid-state  $^{13}\mathrm{C}$  NMR study of the cure of  $^{13}\mathrm{C}$ -labeled phenylethynyl end-capped polyimides. Macromolecules 2000, 33, 1671-1681. [CrossRef]  
+211: 11. Wang, W.; Zhou, H.; Jin, Z. Preparation of new phenylethynyl terminated imide oligomers from pyromellitic dianhydride. High Perform. Polym. 2012, 24, 180-187. [CrossRef]  
+212: 12. Zuo, H.J.; Chen, J.S.; Yang, H.X.; Hu, A.J.; Fan, L.; Yang, S.Y. Synthesis and characterization of melt-processable polyimides derived from 1,4-bis(4-amino-2-trifluoromethylphenoxy)benzene. J. Appl. Polym. Sci. 2008, 107, 755-765. [CrossRef]  
+213: 13. Smith, J.G., Jr.; Connell, J.W.; Hergenrother, P.M. Resin transfer molding imide resins based on 2,3,3',4'-biphenyltetracarboxylic dianhydride. Macromol. Symp. 2003, 199, 401-418. [CrossRef]  
+214: 14. Su, C.N.; Ji, M.; Fan, L.; Yang, S.Y. Phenylethynyl-endcapped oligomides with low melt viscosities and high  $\mathrm{T_gS}$ : Effects of the molecular weights. High Perform. Polym. 2011, 23, 352-361. [CrossRef]  
+215: 15. Yu, P.; Wang, Y.; Yu, J.; Zhu, J.; Hu, Z.M. Synthesis and characterization of phenylethynyl-terminated polyimide oligomers derived from  $2,3,3^{\prime},4^{\prime}$ -diphenyl ether tetracarboxylic acid dianhydride and  $3,4^{\prime}$ -oxydianiline. Chin. J. Polym. Sci. 2016, 34, 122-134. [CrossRef]  
+216: 16. Chuang, K.C.; Criss, J.M.; Mintz, E.A. Polyimides Based on Asymmetric Dianhydrides (II) (a-BPDA vs. a-BTDA) for Resin Transfer Molding (RTM); Technical Report; National Aeronautics and Space Administration: Cleveland, OH, USA, 2010.  
+217: 17. Fernberg, P.; Gong, G.; Mannberg, P. Development of novel high  $\mathrm{T_g}$  polyimide-based composites. Part I: RTM processing properties. J. Compos. Mater. 2018, 52, 253-260. [CrossRef]  
+218: 18. Tsampas, S.; Fernberg, P.; Joffe, R. Development of novel high  $\mathrm{T_g}$  polyimide-based composites. Part II: Mechanical characterisation. J. Compos. Mater. 2018, 52, 261-274. [CrossRef]
+219: 
+220: 19. Liu, Y.; Mo, S.; He, M.H.; Fan, L. Phenylethynyl-terminated oligoimides based on bis (p-aminophenoxy) dimethyl silane: Effect of siloxane structure on processability and thermal stability. High Perform. Polym. 2018, 36, 651–661. [CrossRef]  
+221: 20. Yang, Y.; Fan, L.; Qu, X.M.; Jia, M.; Yang, S. Fluorinated phenylethynylterminated imide oligomers with reduced melt viscosity and enhanced melt stability. Polymer 2011, 52, 138-148. [CrossRef]  
+222: 21. Chen, W.; Ji, M.; Yang, S. High thermal stable polyimide resins derived from phenylethynyl-endcapped fluorenyl oligoimides with low melt viscosities. Chin. J. Polym. Sci. 2016, 34, 933-948. [CrossRef]  
+223: 22. Zhai, L.; Yang, S.Y.; Fan, L. Preparation and characterization of highly transparent and colorless semi-aromatic polyimide films derived from alicyclic dianhydride and aromatic diamines. Polymer 2012, 53, 3529-3539. [CrossRef]  
+224: 23. Babanzadeh, S.; Mahjoub, A.R.; Mehdipour-Ataei, S. Novel soluble thermally stable silane-containing aromatic polyimides with reduced dielectric constant. Polym. Degrad. Stabil. 2010, 95, 2492-2498. [CrossRef]  
+225: 24. Pei, X.L.; Chen, G.F.; Fang, X.Z. Synthesis and properties of poly(imide siloxane) block copolymers with different block lengths. J. Appl. Polym. Sci. 2013, 129, 3718-3727. [CrossRef]  
+226: 25. Song, N.; Yao, D.; Wang, Z.Y. A unique crystallization and double melting behavior of a polyimide derived from  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride and 1,4-bis (3-aminopropyl) piperazine. Polymer 2005, 46, 3831-3837. [CrossRef]  
+227: 26. Li, Y.T.; Murphy, L.A.; Lincoln, J.E.; Morgan, R.J. Phenylethynyl end-capped fluorinated imide oligomer AFR-PEPA-N: Morphology and processibility characteristics. Macromol Mater. Eng. 2007, 292, 78-84. [CrossRef]  
+228: 27. Yang, Y.; Fan, L.; Ji, M.; Yang, S.Y. Phenylethynylnaphthalic endcapped imide oligomers with reduced cure temperatures. Eur. Polym. J. 2010, 46, 2145-2155. [CrossRef]  
+229: 28. Meng, X.; Zheng, Y.; Yan, J.; Li, Y.; Wang, Z.; Li, G. 2,3',3,4'-Oxydiphthalic dianhydride-based phenylethynyl-terminated imide oligomers for low-temperature resin transfer molding applications. High Perform. Polym. 2016, 28, 962-970. [CrossRef]  
+230: 29. Sun, L.; Wang, W.; Xu, L. Phenylethynyl-terminated imide oligomers derived from thioetherdiphthalic anhydride isomers with decreased melt viscosities. High Perform. Polym. 2016, 28, 927-935. [CrossRef]  
+231: 30. Brostow, W.; Lobland, H.E.; Narkis, M. Sliding wear, viscoelasticity and brittleness of polymers. J. Mater. Res. 2006, 21, 2422-2428. [CrossRef]  
+232: 31. Brostow, W.; Lobland, H.E.; Hong, H.J.; Lohse, S.; Osmanson, A.T. Flexibility of polymers defined and related to dynamic friction. J. Mater. Sci. Res. 2019, 8, 31-35. [CrossRef]  
+233: 32. Coburn, J.C.; Soper, P.D.; Auman, B.C. Relaxation behavior of polyimides based on  $2,2^{\prime}$ -disubstituted benzidines. Macromolecules 1995, 28, 3253-3260. [CrossRef]  
+234: 33. Chuang, K.C.; Criss, J.M.; Mintz, E.A. Polyimide Composites Based on Asymmetric Dianhydrides (a-ODPA vs. a-BPDA). In Proceedings of the 54th International SAMPE Symposium, Baltimore, MD, USA, 18–21 May 2009.  
+235: 34. Tiptipakorn, S.; Damrongsakkul, S.; Ando, S.; Hemvichian, K.; Rimdusit, S. Thermal degradation behaviors of polybenzoxazine and silicon-containing polyimide blends. Polym. Degrad. Stabil. 2007, 92, 1265-1278. [CrossRef]  
+236: 35. Li, X.C.; Miyauchi, M.; Gonzalez, C.; Nutt, S. Thermal oxidation of PEPA-terminated polyimide. High Perform. Polym. 2019, 31, 707-718. [CrossRef]  
+237: 36. Lias, S.G.; Bartmess, J.E.; Lieman, J.F.; Holmes, J.L.; Levin, R.D.; Mallard, W.G. Gas-phase ion and neutral thermochemistry. J. Phys. Chem. Ref. Data. 1988, 17, 1-861.  
+238: 37. Liu, Y.; Fan, L.; Xu, X.Z.; Mo, S.; Peng, D.; Mu, Q.T.; Zhu, C.Z.; Li, C.H.; Xu, J. Melt fluidity and thermal property of thermosetting siloxane-containing polyimide resins and their organic/inorganic hybrid characteristics. Mater. Today Commun. 2020, 25, 101443. [CrossRef]
+239: 
+240: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+241: 
+242: © 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

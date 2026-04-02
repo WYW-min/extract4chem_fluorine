@@ -1,0 +1,33 @@
+source_file: Comparison of Properties of Colorless and Transparent Polyimide Nanocomposites Containing Chemically Modified .md
+doc_id: e5f03432a19ee35991e4eea399ad5d8a
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [273, 291]
+char_span: [35849, 38233]
+line_count: 17
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+273: # 4. Conclusions
+274: 
+275: In this study, we aimed to examine the effect of different types of nanofillers on the photophysical properties of the CPI matrix. F-GS and organoclay nanofillers were obtained by chemically substituting C16 alkyl groups onto GO and  $\mathrm{Na^{+}}$ -MMT, respectively. CPI hybrid films were prepared by dispersing F-GS and organoclay as nanofillers in the CPI matrix at loadings of 0.25 to  $1.00\mathrm{wt}\%$ . C16-MMT has a smaller plate size and better dispersion than C16-GS in CPI. The thermal properties of both types of hybrid films were optimal at  $0.50\mathrm{wt}\%$  loadings. Although slightly poorer than that of the pure CPI film, the optical transparency of the C16-MMT hybrid film was significantly better than that of the C16-GS hybrid films.
+276: 
+277: CPI has been widely used in applications requiring high-performance plastics because of its excellent thermo-mechanical properties and optical transparency. These excellent physical properties and applicability can be extended by appropriately controlling the structure of the monomers constituting CPI composites. The high interfacial adhesion resulting from the uniform dispersion of nanofillers in the CPI matrix confers nanocomposites with excellent physical properties that cannot be obtained through conventional manufacturing processes. These enhanced nanocomposites can be used as film materials in electronic and optical applications, which are currently being extensively investigated.
+278: 
+279: Author Contributions: J.-H.C. designed the project and wrote the manuscript. L.K.K. and H.G.K. reviewed and data analyzed. S.J.L. and M.Y.C. prepared the samples and participated in the data analysis. All authors have read and agreed to the published version of the manuscript.
+280: 
+281: Funding: This research was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (2016R1A6A1A03012069). This work also was supported by the National Research Foundation of Korea (NRF) grant funded by the Korean government (MSIT) (2022R1A2C1009863).
+282: 
+283: Institutional Review Board Statement: Not applicable.
+284: 
+285: Informed Consent Statement: Not applicable.
+286: 
+287: Data Availability Statement: The data presented in this study are available on request from the corresponding authors.
+288: 
+289: Conflicts of Interest: The authors declare no conflict of interest.

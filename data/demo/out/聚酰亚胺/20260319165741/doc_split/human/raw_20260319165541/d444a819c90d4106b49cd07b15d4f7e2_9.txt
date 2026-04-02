@@ -1,0 +1,89 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 9
+block_id: b0010
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Results and Discussions
+line_span: [75, 149]
+char_span: [17306, 26917]
+line_count: 73
+effective_body_non_empty_lines: 42
+
+lines:
+--- chunk (b0010: Results and Discussions) ---
+75: # Results and Discussions
+76: 
+77: # Monomer and polymer synthesis
+78: 
+79: The diamine BAOB (4) was obtained in two steps according to the literature reported method [46] starting from dimethylterephthalate (1). Terephthalic dihydrazide (2) was obtained upon treatment of dimethylterephthalate with hydrazinehydrate in refluxing MeOH. The subsequent cyclocondensation reaction of dihydrazide derivative (2) with two folds of  $p$ -aminobenzoic acid (3) in trifluoroacetic acid gave BAOB (4) in overall  $42.8\%$  yield, (Scheme 2).
+80: 
+81: The chemical structures of BAOB were confirmed by FT-IR,  ${}^{1}\mathrm{H}$  NMR,  $^{13}\mathrm{C}$  NMR and mass spectroscopy techniques.
+82: 
+83: Poly(amic acid)s are requisite intermediate polymers for preparing polyimides and polyimide nanocomposites [2]. In this work, BAOB (4) was reacted with aromatic dianhydrides in DMAc at room temperature to give the corresponding poly(amic acid)s. Polyimide films (5-9) were obtained via thermal imidization of poly(amic acid) solutions, (Scheme 3).
+84: 
+85: The IR spectrum of the poly(amic acid) sample (Fig. 1a) shows absorption bands at  $1852~\mathrm{cm}^{-1}$ , and  $1610~\mathrm{cm}^{-1}$  which relate to  $\mathrm{C = O}$  and  $-\mathrm{C = N}$ -stretching vibration of the oxadiazole ring, respectively. The IR absorptions occurring at approxi
+86: 
+87: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+88: Scheme 2 Synthesis of 1,4-bis[(4-aminophenyl)-1,3,4-oxadiazolyl] benzene (BAOB).
+89: 
+90: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+91: Scheme 3 Synthesis of polyimides using BAOB.
+92: 
+93: mately 1778, 1728, 1358, 1077, and  $710~\mathrm{cm}^{-1}$  determined the presence of imide functional groups in the PI film (Fig. 1b).
+94: 
+95: The conversion from poly(amic acid) to polyimide was confirmed by the presence of these strong imide absorption bands and the absence of a broad absorption band due to the amino (N-H) and hydroxyl (OH) groups [49]. Infrared spectroscopy data, inherent viscosities, and reaction yields are listed in Table 1.
+96: 
+97: Solubility test results (Table 2) showed that the obtained polyimides are soluble in concentrated sulfuric acid and polar, aprotic solvents such as DMSO, DMAc, DMF, and NMP at both ambient and elevated temperatures. They are insoluble in polar, protic and less polar solvents. For this experiment, about  $0.01\mathrm{g}$  of the polymer sample was examined in  $1\mathrm{mL}$  of the solvent at room temperature and at boiling temperature.
+98: 
+99: The inherent viscosities of the polyimide solutions were in the range of  $0.20 - 0.32\mathrm{dL / g}$  (measured in DMF with a concentration of  $0.125\mathrm{dL / g}$  at  $25\pm 0.5^{\circ}\mathrm{C}$ ). The highest viscosity was noted with polyimide (8), obtained from the reaction of BAOB (4) with pyromellitic dianhydride.
+100: 
+101: The elemental analysis (CHN) data are presented in Table 3. The calculated and found values for the CHN analyses agreed.
+102: 
+103: Thermal analysis results of the polymers are summarized in Table 4. TGA, DSC, and DTA were used to study the thermal behaviors of the obtained polyimides. Clear melting endotherms observed without any thermal decomposition for the polyimides (5) and (7). Based on DTA measurement, the glass transition temperature was occurred at  $295^{\circ}\mathrm{C}$  for polyimide (5), which was obtained from BAOB and BTDA. For this poly
+104: 
+105: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+106: Fig. 1 FTIR spectra of a) poly(amic acid) (KBr) and b) polyimide (Film).
+107: 
+108: Table 1. Infrared spectroscopy, inherent viscosity results, and yields of the polyimides.  
+109: 
+110: <table><tr><td rowspan="2">Polymer</td><td rowspan="2">IR data (cm-1)</td><td>Inherent Viscosity</td><td rowspan="2">Yields (%)</td></tr><tr><td>ηInh(dL/g)a</td></tr><tr><td>5</td><td>3110 (w)b, 3074 (w), 1779 (s)c, 1720 (brd, s), 1609 (s), 1499 (s), 1346 (s), 1082 (s), 851 (s)</td><td>0.20</td><td>66.4</td></tr><tr><td>6</td><td>3116 (w), 3080 (w), 1785 (m)e, 1728 (s), 1612 (m), 1499 (s), 1370 (s), 842 (m)</td><td>0.22</td><td>71.3</td></tr><tr><td>7</td><td>3105 (w), 3069 (w), 1779 (s), 1725 (br; s), 1610 (s), 1493 (s), 1356 (br; s), 844 (s)</td><td>0.25</td><td>54.4</td></tr><tr><td>8</td><td>3105 (w), 3045 (w), 1776 (m), 1725 (br, s), 1606 (s), 1499 (s), 1367 (s), 825 (m)</td><td>0.32</td><td>55.3</td></tr><tr><td>9</td><td>3093 (w), 3069 (w), 1782 (m), 1746 (s), 1612 (m), 1496 (m), 1367 (s), 844 (m)</td><td>0.25</td><td>57.8</td></tr></table>
+111: 
+112: <sup>a</sup> Measured in DMF with a concentration of 0.125 g/dL at 25 ± 0.5 °C.  
+113: b Peak with weak intensity.  
+114: c Peak with strong intensity.  
+115: $^{\mathrm{d}}$  Broad peak.
+116: 
+117: Table 2. Solubility of the prepared polyimides in common organic solvents.  
+118: 
+119: <table><tr><td>Polymer</td><td>5</td><td></td><td>6</td><td></td><td>7</td><td></td><td>8</td><td></td><td>9</td><td></td></tr><tr><td>Solvent</td><td>Δ</td><td>R.T.</td><td>Δ</td><td>R.T.</td><td>Δ</td><td>R.T.</td><td>Δ</td><td>R.T.</td><td>Δ</td><td>R.T.</td></tr><tr><td>DMSO</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td></tr><tr><td>DMF</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td></tr><tr><td>DMAc</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td></tr><tr><td>NMP</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td></tr><tr><td>MeOH</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>CHCl3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Acetone</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>H2SO4</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td></tr></table>
+120: 
+121: e Peak with medium intensity.  
+122: ++ Soluble.  
+123: $\dashv$  Low solubility.  
+124: — Insoluble.
+125: 
+126: Table 3. Elemental analysis of the polyimides.  
+127: 
+128: <table><tr><td rowspan="2">Polymer</td><td rowspan="2">Compd. St.</td><td colspan="3">Calcd.</td><td colspan="3">Found</td></tr><tr><td>%C</td><td>%H</td><td>%N</td><td>%C</td><td>%H</td><td>%N</td></tr><tr><td>5</td><td>(C39H18N6O7)n</td><td>68.62</td><td>2.66</td><td>12.31</td><td>69.52</td><td>2.56</td><td>11.34</td></tr><tr><td>6</td><td>(C41H18F6N6O6)n</td><td>61.20</td><td>2.25</td><td>10.44</td><td>61.96</td><td>2.11</td><td>9.27</td></tr><tr><td>7</td><td>(C38H18N6O7)n</td><td>68.06</td><td>2.71</td><td>12.53</td><td>68.22</td><td>2.57</td><td>12.03</td></tr><tr><td>8</td><td>(C32H14N6O6)n</td><td>66.44</td><td>2.44</td><td>14.53</td><td>66.64</td><td>2.37</td><td>13.81</td></tr><tr><td>9</td><td>(C38H18N6O6)n</td><td>69.72</td><td>2.77</td><td>12.84</td><td>69.13</td><td>2.87</td><td>11.45</td></tr></table>
+129: 
+130: mer, the  $\mathrm{T_g}$  value was not observed by DSC measurement. This may be due to overlapping of  $\mathrm{T_g}$  and melting endotherms ( $\mathrm{T_m} = 299.7$ , measured by DSC). Polyimide (7), which was obtained from BAOB and ODPA, showed the glass temperature at  $262.2^{\circ}\mathrm{C}$  and  $249^{\circ}\mathrm{C}$ , measured by DSC and DTA methods, respectively. The relatively low  $\mathrm{T_g}$  of polyimide (7) can be attributed to the presence of flexible ether linkages in the polymer main chain.
+131: 
+132: The TGA curves of prepared polyimides are shown in Fig. 2 and the results are summarized in Table 4. As seen, the temperature for  $10\%$  weight loss  $(\mathrm{T}_{10\%})$  and the initial decomposition
+133: 
+134: temperature  $(\mathrm{T_D})$  of polyimides (5)  $(\mathrm{T_{10}} = 511.1^{\circ}\mathrm{C},\mathrm{T_D} = 475.1^{\circ}\mathrm{C})$  and (7)  $(\mathrm{T_{10\%}} = 504.2^{\circ}\mathrm{C},\mathrm{T_D} = 476.8^{\circ}\mathrm{C})$  are close to each other and higher than those for other polyimides. Char yields at  $574^{\circ}\mathrm{C}$  are also high for the polyimides (5) and (7) in compared with other prepared polyimides. Based on the obtained results from DSC, DTA, and TGA measurements and observing  $\mathrm{T_g}$  for the polyimide (7), it can be conclude that among the prepared polymers, polyimide (7) has the most improved thermal properties. Therefore this polymer was chosen for the preparation of PCN materials.
+135: 
+136: Table 4. Thermal properties of the polyimide films.  
+137: 
+138: <table><tr><td>Polymer</td><td>Tg(℃)a</td><td>Tm(℃)a</td><td>10% weight loss (℃)</td><td>TD(℃)b</td><td>Char Yieldc</td></tr><tr><td>5</td><td>N.O.d(295)</td><td>299.7 (N.O.)</td><td>511.1</td><td>475.1</td><td>77.0</td></tr><tr><td>6</td><td>N.A.e(274)</td><td>N.A. (295.5)</td><td>436.3</td><td>391.4</td><td>63.5</td></tr><tr><td>7</td><td>262.2 (249)</td><td>304.7 (N.O.)</td><td>504.2</td><td>476.8</td><td>73.1</td></tr><tr><td>8</td><td>N.A. (278)</td><td>N.A. (N.O.)</td><td>405.1</td><td>367.7</td><td>56.9</td></tr><tr><td>9</td><td>N.A. (292)</td><td>N.A. (348.8)</td><td>385.6</td><td>356.0</td><td>57.7</td></tr></table>
+139: 
+140: ${}^{a}$  Obtained based on DSC measurements. The values in the parentheses obtained based on DTA measurements.  
+141: ${}^{\mathrm{b}}$  Onset decomposition temperature.  
+142: cAt  $574^{\circ}\mathrm{C}$  
+143: $^{\mathrm{d}}$  Not observed. Glass transition temperature tentatively overlapped with melting enotherm.  
+144: e Not analyzed.
+145: 
+146: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+147: Fig. 2 TGA curves (nitrogen atmosphere, scan rate  $10^{\circ}\mathrm{C / min}$ ) of the polyimides.

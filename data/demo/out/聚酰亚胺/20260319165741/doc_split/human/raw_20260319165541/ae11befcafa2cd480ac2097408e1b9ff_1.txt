@@ -1,0 +1,30 @@
+source_file: Molecular Design, Preparation, and Characterization of Fluoro-Containing Polyimide Ultrafine Fibrous Membranes.md
+doc_id: ae11befcafa2cd480ac2097408e1b9ff
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [41, 56]
+char_span: [3679, 9137]
+line_count: 14
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+41: # 1. Introduction
+42: 
+43: High-performance polymeric ultrafine fibers and the derived fabrics have been paid a wide range of attention in recent years as air or fluid filtration mediums in healthcare or environmental protection, gas or liquid separation membranes, functional membranes for energy devices, wound-dressing compounds in tissue engineering and therapy fields, and other functional components in high-tech areas [1-6]. Among various functional polymeric ultrafine fabrics, the species with high thermal resistance and high whiteness are brought into increasing focus in advanced optoelectronic applications [7-10]. Conventional polymeric ultrafine fibrous membranes (UFMs), including the electrospun poly(methyl methacrylate) (PMMA) [11], poly(ethylene terephthalate) (PET) [11], polyvinyl alcohol (PVA) [12], polylactic acid (PLA) [13], polycaprolactone (PCL) [14], polyvinyl chloride (PVC) [14], and polyurethane (PU) [15] membranes usually suffer from poor thermal stability, although they usually exhibit extremely high whiteness. Contrarily, standard high-temperature resistant polymeric UFMs, such as the electrospun poly(pyromellitic
+44: 
+45: dianhydride-co-4,4'-oxydianiline)  $\left(\mathrm{PI}_{\mathrm{PMDA - ODA}}\right)$  [16], polyphenylquinoxaline [17,18], and other heteroaromatic membranes, usually exhibit poor whiteness, although they usually possess excellent thermal stability at elevated temperatures. It is well established that the main factors affecting the whiteness of polymeric UFMs usually come from the physical and chemical features of the membranes. The former usually involves the fiber diameters, specific surface areas, fiber alignment, and other physical characteristics of the electrospun membranes. For example, electrospun UFMs usually exhibit much higher whiteness indices than those of polymeric films with the same chemical compositions, due to the diffuse reflection of the incident lights by the relatively randomly aligned fine fibers in UFMs [11]. The chemical factors usually originate from the intrinsic absorptions of the visible lights in polymers due to the intra- and inter-molecular charge transfer (CT) interaction in polymer chains [19,20]. The CT interactions are prominently featured in heteroaromatic polymers, such as the wholly aromatic polyimide (PI), in which strong CT interactions occur from the electron-donating diamine units to the electron-accepting dianhydride units [21]. The occurrence of CT interactions induces the light absorption, resulting in the high coloration and low whiteness of the PIs. On the other hand, for wholly aromatic PI UFMs, another important chemical factor is the effects of high-temperature cyclization from the poly(amic acid) (PAA) precursors to the final PIs [22]. An amidization temperature as high as  $300^{\circ}\mathrm{C}$  often deteriorates the optical properties of the derived PI UFMs [23]. Meanwhile, the dehydration reactions from PAA UFMs to PI UFMs often cause the adherence between the adjacent fibers, thus decreasing the scattered reflection of PI UFMs.
+46: 
+47: In view of the origination of the poor whiteness of conventional electrospun PI UFMs, various modification works have been performed in the literature. Up until now, most of the works have focused on two pathways. The first is to prohibit the high-temperature oxidation or yellowing of the PI UFMs via developing preimidized PI resins as the starting materials for the fabrication of PI UFMs, as illustrated in Figure 1. Soluble PI (SPI) solutions are used as the electrospinning medium instead of the PAA precursors. Thus, the PI UFMs can be obtained by a one-step electrospinning procedure (Figure 1b). The post-treatment at temperatures below  $200^{\circ}\mathrm{C}$  is only to remove the residual solvent in the PI UFMs. By this alternative procedure, PI UFMs with improved high whiteness can often be obtained [24-26]. Secondly, in order to develop the PI UFMs with further enhanced whiteness, functional SPI resins were researched and developed. The intrinsic CT interactions in the PIs could be obviously reduced by the incorporation of structural units with high electronegativity  $(-\mathrm{CF}_3$ , etc.), low conjugation (alicyclic units, etc.), high molar volume (bulky substituents), or asymmetrical groups. Electrospun PI UFMs with excellent whiteness might be obtained by these types of functional PIs. In practical applications, the modification procedures mentioned above are often used together. Thus, high-whiteness PI NFMs with excellent combined properties could be obtained.
+48: 
+49: In the current work, as one of continuous efforts in developing high-performance electrospun PI UFMs for optoelectronic applications, a series of electrospun PI UFMs with high whiteness, good hydrophobic features, and good thermal stability were developed. For this target, fluoro-containing PI resins were first prepared from a fluoro-containing di-anhydride, 6FDA and various diamines containing pendant trifluoromethyl  $(-\mathrm{CF}_3)$  groups, or alicyclic units in the side chains. Effects of the trifluoromethyl or alicyclic substituents on the solubility, thermal, and optical properties of the derived FPI UFMs were investigated in detail.
+50: 
+51: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+52: 
+53: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+54: Figure 1. Effects of electrospun medium on the whiteness of PI UFMs. (a) PAA medium; (b) SPI medium.

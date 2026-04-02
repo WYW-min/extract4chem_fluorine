@@ -1,0 +1,23 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 3
+block_id: b0004
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Thermal Analysis
+line_span: [43, 51]
+char_span: [5496, 6742]
+line_count: 7
+effective_body_non_empty_lines: 3
+
+lines:
+--- chunk (b0004: Thermal Analysis) ---
+43: # Thermal Analysis
+44: 
+45: The films were analyzed using a Pyris 1 thermogravimetric analyzer (TGA, PerkinElmer Inc., Shelton). About  $1.0\mathrm{mg}$  of the polymer sample was heated from 50 to  $300^{\circ}\mathrm{C}$  in a platinum pan at a heating rate of  $30^{\circ}\mathrm{C / min}$  and flow rate of  $60~\mathrm{mL / min}$  in air atmosphere. The polymer sample was then heated at a constant temperature of  $300^{\circ}\mathrm{C}$  for  $12\mathrm{h}$ . Complete decomposition was observed in PMMA block of the block copolymer.
+46: 
+47: Glass-transition temperature  $(T_{g})$  was determined using a diamond differential scanning calorimeter (PerkinElmer Inc.). DSC measurements were performed at  $50^{\circ}\mathrm{C}$  to  $200^{\circ}\mathrm{C}$  with a heating rate of  $10^{\circ}\mathrm{C / min}$  in nitrogen atmosphere before pyrolysis. A natural cooling condition was adopted. About  $10\mathrm{mg}$  of the polymer sample was placed in aluminum sample pan kit.  $T_{g}$
+48: 
+49: was determined from the first and second heating scan and set as the middle point of the endothermic transition. All measured data were obtained in the film state. A minimum of three samples were analyzed to confirm the reproducibility of the experimental results.

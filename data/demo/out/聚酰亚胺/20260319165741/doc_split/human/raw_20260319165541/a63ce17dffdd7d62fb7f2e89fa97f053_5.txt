@@ -1,0 +1,65 @@
+source_file: Enhanced thermal conductivity of flexible h-BNpolyimide composites films with ethyl cellulose.md
+doc_id: a63ce17dffdd7d62fb7f2e89fa97f053
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [150, 198]
+char_span: [19512, 27690]
+line_count: 49
+effective_body_non_empty_lines: 44
+
+lines:
+--- chunk (b0006: References) ---
+150: # References
+151: 
+152: 1. Garimella S.V., Fleischer A.S., Murthy J.Y., et al., Thermal challenges in next-generation electronic systems. IEEE Trans Compon Packag Technol, 2008, 31, 801-815.
+153: 
+154: 2. Prasher R., Thermal Interface Materials: Historical Perspective, Status, and Future Directions. IEEE Trans Compon Packag Technol, 2006, 94, 1571-1586.  
+155: 3. Yao Z., Jun H., Xin C., et al., Thermoplastic polypropylene/ aluminum nitride nano-composites with enhanced thermal conductivity and low dielectric loss. IEEE Trans Dielectr Electr Insul, 2016, 23, 2768-2776.  
+156: 4. Chunyan W., Yanfei L., Wenting Y., et al., Preparation of aminofunctionalized graphene oxide/polyimide composite films with improved mechanical, thermal and hydrophobic properties. Appl Surf Sci, 2016, 362, 11-19.  
+157: 5. Hyungu I., Jooheon K., Effect of homogeneous  $\mathrm{Al(OH)}_3$  covered MWCNT addition on the thermal conductivity of  $\mathrm{Al}_2\mathrm{O}_3/$  epoxy-terminated poly(dimethylsiloxane) composites. J Mater Sci, 2012, 47, 6025-6033.  
+158: 6. Aiping Y., Palanisamy R., Mikhail E., et al., Graphite Nanoplatelet-Epoxy Composite Thermal Interface Materials. J Phys Chem C, 2007, 111 (21), 7565-7569.  
+159: 7. Jian Z., Shaohua J., Haoqing H., et al., Low Density, Thermally Stable, and Intrinsic Flame Retardant Poly(bis(benzimidazo) Benzophenanthroline-dione) Sponge. Macromol Mater Eng, 2018, 303, 4.  
+160: 8. Yanbin W., Guangming L., Wenjie W., et al., Molecular design and synthesis of thermotropic liquid crystalline poly(amide imide)s with high thermal stability and solubility. 2017, 17, 2.  
+161: 9. Wei L., Kyoung Sik M., A Combined Process of In Situ Functionalization and Microwave Treatment to Achieve Ultrasmall Thermal Expansion of Aligned Carbon Nanotube-Polymer Nanocomposites: Toward Applications as Thermal Interface Materials. Adv Mater, 2009, 21, 2421-2424.  
+162: 10. Mamunya Y., Boundenne A., Lebovka N., et al., Electrical and thermophysical behaviour of PVC-MWCNT nanocomposites. Compos Sci Technol, 2008, 68, 1981-1988.  
+163: 11. Sim L.C., Ramanan S., Ismail H., et al., Thermal characterization of  $\mathrm{Al}_{2}\mathrm{O}_{3}$  and ZnO reinforced silicone rubber as thermal pads for heat dissipation purposes. Thermochim Acta, 2005, 430, 155-165.  
+164: 12. Kimiyasu S., Hitomi H., Takashi S., et al., Thermally conductive composite films of hexagonal boron nitride and polyimide with affinity-enhanced interfaces. J Mater Chem, 2010, 20, 2749-2752.  
+165: 13. Takuya M., Mitsumasa M., Yoshihide K., et al., A novel morphological model for carbon nanotube/polymer composites having high thermal conductivity and electrical insulation. J Mater Chem, 2011, 21, 5610-5614.  
+166: 14. Masaki A., Yoshitaka T., Study of high thermal conductive epoxy resins containing controlled high-order structures. J Appl Polym Sci, 2003, 89, 2464-2467.  
+167: 15. Xuebin W., Amir P., Jun Z., et al., Large-surface-area BN nanosheets and their utilization in polymeric composites with improved thermal and dielectric properties. Nanoscale Res Lett, 2012, 7, 662.  
+168: 16. Peichao Z., Keming L., Jinmei W., et al., Surface modification of polyimide (PI) film using water cathode atmospheric pressure glow discharge plasma. Appl Surf Sci, 2012, 259, 494-500.  
+169: 17. Liliana R., Sava I., Rosu D., Modification of the surface properties of a polyimide film during irradiation with polychromic light. Appl Surf Sci, 2011, 257, 6996-7002.  
+170: 18. Zuo M., Takeichi T., Matsumoto A., et al., Surface characterization of polyimide films. Colloid Polym Sci, 1998, 276, 555-564.
+171: 
+172: 19. Park W.J., Yoon S.G., Jung W.S., et al., Effect of dielectric barrier discharge on surface modification characteristics of polyimide film. Surf Coat Technol, 2007, 201, 5017-5020.  
+173: 20. Akanksha S., Prabhakaran P.V., Lakshmana R., et al., Synthesis and characterization of polyamides and poly(amide-mide)s derived from 2,6-bis(3-aminophenoxy) benzo-nitrile or 2,6-bis(4-aminophenoxy)benzonitrile. Polym Int, 2005, 54, 544-552.  
+174: 21. Shaoju J., Shuwu L., Linlin C., et al., Nano-boria reinforced polyimide composites with greatly enhanced thermal and mechanical properties via in-situ thermal conversion of boric acid. Composites Communications, 2017, 3, 14-17.  
+175: 22. Tung Lin L., Steve L., Chung H., Enhanced Thermal Conductivity of Polyimide Films via a Hybrid of Micro- and Nano-Sized Boron Nitride. J Phys Chem, 2010, 114, 6825-6829.  
+176: 23. Shaohua J., Bianca U., Seema A., et al., Ultralight, Thermally Insulating, Compressible Polyimide Fiber Assisted Sponges. ACS Appl Mater Interfaces, 2017, 9(37), 32308-32315.  
+177: 24. Balandin A.A., Thermal properties of graphene and nanostructured carbon materials. Nat Mater, 2011, 10, 569-581.  
+178: 25. Sung Ho S., Kwang Hyun P., Bo Hyun K., et al., Enhanced Thermal Conductivity of Epoxy-Graphene Composites by Using Non-Oxidized Graphene Flakes with Non-Covalent Functionalization. Adv Mater, 2013, 25, 732-737.  
+179: 26. Hu K., Kulkarni D., Choi I., et al., Graphene-polymer nanocomposites for structural and functional applications. Prog Polym Sci, 2014, 39, 1934-1972.  
+180: 27. Leese H.S, Govada L., Saridakis E., et al., Reductively PEGylated carbon nanomaterials and their use to nucleate 3D protein crystals: A comparison of dimensionality. Chem Sci, 2016, 7, 2916-2923.  
+181: 28. Yongcun Z., Yagang Y., Chia-Yun C., et al., The use of polyimidemodified aluminum nitride fillers in AlN@PI/epoxy composites with enhanced thermal conductivity for electronic encapsulation. Sci Rep, 2014, 4, 4779.  
+182: 29. Zhang Z., Guo D., Wang B., et al., A novel approach of high speed scratching on silicon wafers at nanoscale depths of cut. Sci Rep, 2015, 5, 16395.  
+183: 30. Zhenyu Z., Bo W., Ping Z., et al., A novel approach of chemical mechanical polishing using environment-friendly slurry for mercury cadmium telluride semiconductors. Sci Rep, 2016, 6, 22466.  
+184: 31. Ying Qing Z., Yang R., Xinyi W., et al., Dielectric thermally conductive and stable poly(arylene ether nitrile) composites
+185: 
+186: filled with silver nanoparticles decorated hexagonal boron nitride. Ceram Int, 2018, 44, 2021-2029.  
+187: 32. Ge S., Sherif A., Christopher T., et al., Gibson Graphene Platelets and Their Polymer Composites: Fabrication, Structure, Properties, and Applications. Adv Funct Mater, 2018, 28, 1706705.  
+188: 33. Li F., Ting W., Jinhong Y., et al., An ultrathin high-performance heat spreader fabricated with hydroxylated boron nitride nanosheets. 2D Mater, 2017, 4, 2.  
+189: 34. Nitin M., Liwen M., Tuo J., et al., Thermal transport in polymeric materials and across composite interfaces. Appl Mater Today, 2018, 12, 92-130.  
+190: 35. Daisuke Y., Shinji A., Enhanced thermal conductivity over percolation threshold in poly-imide blend films containing ZnO nano-pyramidal particles: advantage of vertical double percolation structure. J Mater Chem, 2011, 21, 4402-4407.  
+191: 36. Tianle Z., Xin W., Ming G., et al., Study of the thermal conduction mechanism of nano-SiC/DGEBA/EMI-2,4 composites. Polym, 2008, 49, 4666-4672.  
+192: 37. Gojny F.H., Wichmann M.H.G., Fiedler B., et al., Evaluation and identification of electrical and thermal conduction mechanisms in carbon nanotube/epoxy composites. Polym, 2006, 47, 2036-2045.  
+193: 38. Shoji N., Takuma J., Yoshihiro K., et al., Cellulose/boron nitride core-shell microbeads providing high thermal conductivity for thermally conductive composite sheets. RSC Adv, 2016, 6, 33036-33042.  
+194: 39. Sarat K., Satyabrata D., Chandini B., et al., Cellulose nanobiocomposites with reinforcement of boron nitride: Study of thermal, oxygen barrier and chemical resistant properties. Carbohydr Polym, 2013, 95, 728-732.  
+195: 40. Marcano D.C., Kosynkin D.V., Berlin J.M., et al., Improved Synthesis of Graphene Oxide. ACS Nano, 2010, 4, 4806-4814.  
+196: 41. Titelman G., Gelman V., Bron S., et al., Characteristics and microstructure of aqueous colloidal dispersions of graphite oxide. Carbon, 2005, 43, 641-649.  
+197: 42. Liu P., J. Yao Z., Li L., et al., In situ synthesis and mechanical, thermal properties of polyimide nanocomposite film by addition of functionalized graphene oxide. Polym Compos, 2016, 37, 907-914.  
+198: 43. Kim B., Sang H., Park Y., et al., Preparation and characterization of polyimide/carbon-nanotube composites. Macromol Res, 2007, 15, 357-362.

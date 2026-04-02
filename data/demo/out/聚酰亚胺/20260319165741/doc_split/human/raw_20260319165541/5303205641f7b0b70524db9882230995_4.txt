@@ -1,0 +1,27 @@
+source_file: Organic鈥揑norganic Double-Gel System Thermally Insulating and Hydrophobic Polyimide Aerogel.md
+doc_id: 5303205641f7b0b70524db9882230995
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [211, 223]
+char_span: [32916, 35307]
+line_count: 11
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+211: # 4. Conclusions
+212: 
+213: In summary, a double-gel system polyimide aerogel material was discussed in this study. A  $\mathrm{SiO}_2@GO-NH_2$  amino-modified wet gel was first fabricated via a novel sol-gel method, to obtain a  $\mathrm{SiO}_2$  uniformly coated GO material. Then, the PAA gel and  $\mathrm{SiO}_2@GO-NH_2$  gel were homogeneously dispersed under the liquid phase, to provide the double-gel system. After a series of subsequent treatments, the prepared PI aerogel had a microscopic porous honeycomb structure and multiple-layer interface, which provided good thermal resistance. The strong compatibility and binding of  $\mathrm{SiO}_2@GO-NH_2$  with PI also improved the low density  $(0.0442\mathrm{g/cm}^3)$ , high specific modulus  $(46.19\mathrm{m}^2/\mathrm{s}^2)$ , effective thermal insulation properties  $(0.0309\mathrm{W/m}\cdot\mathrm{K})$ , high thermal stability  $(543.80^{\circ}\mathrm{C}$  in Ar atmosphere), high hydrophobicity  $(131.55^{\circ})$ , and ability to maintain performance after prolonged exposure to thermal environments. The performance improvement was due to the scientific introduction of  $\mathrm{SiO}_2@GO-NH_2$  and the construction of the double-gel system. The easy preparation process and superior performance make it suitable for wide applications within various industrial and research fields requiring thermal insulation.
+214: 
+215: Author Contributions: Conceptualization, L.X. and W.Z.; methodology, L.X. and W.Z.; software, L.X.; validation, L.X., W.Z. and S.C.; formal analysis, L.X. and W.Z.; investigation, L.X. and W.Z.; resources, L.X., W.Z. and S.C.; data curation, L.X., W.Z. and S.C.; writing—original draft preparation, L.X., W.Z., S.C. and Y.Z.; writing—review and editing, L.X., W.Z. and Y.Z.; visualization, L.X. and W.Z.; supervision, Y.Z.; project administration, Y.Z.; funding acquisition, Y.Z. All authors have read and agreed to the published version of the manuscript.
+216: 
+217: Funding: Financial support for this research from the University-Industry Cooperation Project of Fujian Province (2019H6012), Quanzhou City Science and Technology Program of China (2021C002R), Fujian Provincial Science and Technology Plan Project (2021H4004), and the Major Special Project of Fujian Province (2021HZ027002 & 2021HZ027021) is appreciated.
+218: 
+219: Institutional Review Board Statement: Not applicable.
+220: 
+221: Informed Consent Statement: Not applicable.

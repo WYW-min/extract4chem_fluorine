@@ -1,0 +1,33 @@
+source_file: Electrospun Benzimidazole-Based Polyimide Membrane for Supercapacitor Applications.md
+doc_id: 1171361bf6f0c030dc16dcd02b68d6d6
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [188, 206]
+char_span: [30587, 33910]
+line_count: 17
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+188: # 4. Conclusions
+189: 
+190: This study has employed a simple two-step synthesis route to prepare the BI-PI from symmetrical rigid-rod benzimidazole-containing diamine monomers (BAPBI). An electrospinning technique has then been used to fabricate BI-PI membranes. The thermal, mechanical and electrical properties of the BI-PI membranes have been investigated in both a raw condition and a hot-pressed condition (30 min,  $200^{\circ}\mathrm{C}$ , 50 kgf/cm²). The characterization results have shown that the BI-PI membrane has good thermal stability with a 5 wt.% weight-loss temperature of  $527^{\circ}\mathrm{C}$ . The good thermal performance of the membrane has been attributed to the rigid-rod structure of the BI-PI and the presence of high-temperature-resistant imide units, respectively. The SEM observations have shown that the hot-press process reduces the number of large pores in the membrane and improves the uniformity of the pore-size distribution. Moreover, the hot-press process results in a significant densification of the membrane structure, and hence improves the tensile modulus and tensile strength from 203 and 9.9 MPa, respectively, in the raw condition to 783 and 34.8 MPa in the hot-pressed condition. In supercapacitor applications, the hot-pressed membrane has shown a specific capacitance of 121 F/g, which compares favorably with that of 107 F/g obtained for a supercapacitor with a commercial cellulose separator. Furthermore, the BI-PI supercapacitor has shown a capacitance retention rate around 1.57 times higher than that of the commercial cellulose supercapacitor (i.e., 77 vs. 49%, respectively) and has both a lower equivalent series resistance  $(\mathbb{R}_{\mathrm{s}})$  and a lower interfacial resistance  $(\mathbb{R}_{\mathrm{ct}})$ . Overall, the results have shown that the hot-pressed BI-PI membrane has good thermal stability, superior mechanical properties and an outstanding electrochemical performance. It thus provides an ideal separator for supercapacitors and other clean-energy storage systems.
+191: 
+192: Supplementary Materials: The following supporting information can be downloaded at: https://www.mdpi.com/article/10.3390/membranes12100961/s1, Figure S1. 13C NMR spectra of BAPBI in DMSO-d6; Figure S2. XRD diagram of BI-PI polymer; Figure S3. SEM images of commercial cellulose separator (TF-4030); Figure S4. Thermal dimensional stability test results for BI-PI separator and Celgard H1612 separator.; Figure S5. Contact angle test results for hot-pressed BI-PI separator.
+193: 
+194: Author Contributions: Conceptualization, Y.-Z.W. and H.-P.L.; methodology, Y.-Z.W. and H.-P.L.; experimentation, Y.-H.L., M.-Y.T. and C.-H.H.; writing, C.-H.H.; supervision, Y.-Z.W., H.-P.L. and C.-H.H. All authors have read and agreed to the published version of the manuscript.
+195: 
+196: Funding: The authors would like to thank the Ministry of Science and Technology, Taiwan, for their generous financial support of this research (MOST 108-2113-M-006-011). The authors gratefully acknowledge the use of the EM equipment belonging to the Core Facility Center of National Cheng Kung University.
+197: 
+198: Institutional Review Board Statement: Not applicable.
+199: 
+200: Informed Consent Statement: Not applicable.
+201: 
+202: Data Availability Statement: Not applicable.
+203: 
+204: Conflicts of Interest: The authors declare no conflict of interest.

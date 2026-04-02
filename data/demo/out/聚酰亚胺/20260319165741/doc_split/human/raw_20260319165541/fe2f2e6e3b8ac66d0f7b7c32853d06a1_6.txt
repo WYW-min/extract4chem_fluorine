@@ -1,0 +1,101 @@
+source_file: Comparative Studies of CPEs Modified with Distinctive Metal Nanoparticle-Decorated Electroactive Polyimide for.md
+doc_id: fe2f2e6e3b8ac66d0f7b7c32853d06a1
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [248, 332]
+char_span: [34879, 54207]
+line_count: 85
+effective_body_non_empty_lines: 80
+
+lines:
+--- chunk (b0007: References) ---
+248: # References
+249: 
+250: 1. Hu, L.; Deng, L.; Alsaiari, S.; Zhang, D.; Khashab, N.M. Light-on Sensing of Antioxidants Using Gold Nanoclusters. *Anal. Chem.* 2014, 86, 4989-4994. [CrossRef]  
+251: 2. Bi, H.; Fernandes, A.C.; Cardoso, S.; Freitas, P. Interference-blind microfluidic sensor for ascorbic acid determination by UV/vis spectroscopy. Sens. Actuators B Chem. 2016, 224, 668-675. [CrossRef]  
+252: 3. Keeley, G.P.; McEvoy, N.; Nolan, H.; Holzinger, M.; Cosnier, S.; Duesberg, G.S. Electroanalytical Sensing Properties of Pristine and Functionalized Multilayer Graphene. Chem. Mater. 2014, 26, 1807-1812. [CrossRef]  
+253: 4. Lou, C.; Liu, W.; Liu, X. Quantitative analysis of arsenic speciation in guano and ornithogenic sediments using microwave-assisted extraction followed by high-performance liquid chromatography coupled to hydride generation atomic fluorescence spectrometry. J. Chromatogr. B 2014, 969, 29-34. [CrossRef]  
+254: 5. Xia, N.; Liu, L.; Wu, R.; Liu, H.; Li, S.J.; Hao, Y. Ascorbic acid-triggered electrochemical-chemical-chemical redox cycling for design of enzyme-amplified electrochemical biosensors on self-assembled monolayer-covered gold electrodes. J. Electroanal. Chem. 2014, 731, 78-83. [CrossRef]  
+255: 6. Manohara Reddy, Y.V.; Sravani, B.; Agarwal, S.; Gupta, V.K.; Madhavi, G. Electrochemical sensor for detection of uric acid in the presence of ascorbic acid and dopamine using the poly(DPA)/ $\mathrm{SiO}_2@\mathrm{Fe}_3\mathrm{O}_4$  modified carbon paste electrode. J. Electroanal. Chem. 2018, 820, 168-175. [CrossRef]  
+256: 7. Hsine, Z.; Bizid, S.; Mlika, R.; Sauriat-Dorizon, H.; Said, A.H.; Youssoufi, H.K. Nanocomposite Based on Poly (para-phenylene)/ Chemical Reduced Graphene Oxide as a Platform for Simultaneous Detection of Ascorbic Acid, Dopamine and Uric Acid. Sensors 2020, 20, 1256. [CrossRef]  
+257: 8. Micic, D.; Šljukić, B.; Zujovic, Z.; Travas-Sejdic, J.; Cirić-Marjanović, G. Electrocatalytic Activity of Carbonized Nanostructured Polyanilines for Oxidation Reactions: Sensing of Nitrite Ions and Ascorbic Acid. Electrochim. Acta 2014, 120, 147-158.  
+258: 9. Pakapongpan, S.; Mensing, J.P.; Phokharatkul, D.; Lomas, T.; Tuantranont, A. Highly selective electrochemical sensor for ascorbic acid based on a novel hybrid graphene-copper phthalocyanine-polyaniline nanocomposites. Electrochim. Acta 2014, 133, 294-301. [CrossRef]  
+259: 10. Sk, M.M.; Yue, C.Y. Synthesis of polyaniline nanotubes using the self-assembly behavior of vitamin C: A mechanistic study and application in electrochemical supercapacitors. J. Mater. Chem. A 2014, 2, 2830–2838. [CrossRef]  
+260: 11. Xue, C.; Wang, X.; Zhu, W.; Han, Q.; Zhu, C.; Hong, J.; Zhou, X.; Jiang, H. Electrochemical serotonin sensing interface based on double-layered membrane of reduced graphene oxide/polyaniline nanocomposites and molecularly imprinted polymers embedded with gold nanoparticles. Sens. Actuators B Chem. 2014, 196, 57-63. [CrossRef]  
+261: 12. Rana, U.; Paul, N.D.; Mondal, S.; Chakraborty, C.; Malik, S. Water soluble polyaniline coated electrode: A simple and nimble electrochemical approach for ascorbic acid detection. Synth. Met. 2014, 192, 43-49. [CrossRef]  
+262: 13. Iyyappan, E.; Samuel Justin, S.J.; Wilson, P.; Palanippan, A. Nanoscale Hydroxyapatite for Electrochemical Sensing of Uric Acid: Roles of Mesopore Volume and Surface Acidity. ACS Appl. Nano Mater. 2020, 3, 7761-7773. [CrossRef]  
+263: 14. Zhou, C.; Shi, Y.; Luo, J.; Zhang, L.; Xiao, D. Diameter-controlled synthesis of polyaniline microtubes and their electrocatalytic oxidation of ascorbic acid. J. Mater. Chem. 2014, 2, 4122-4129. [CrossRef]  
+264: 15. Wu, T.; Wang, L.Y.; Du, S.; Guo, W.J.; Pei, M.S. Micro/nanostructures of PANI obtained in the presence of water soluble polymers and their electrochemical sensing properties. RSC Adv. 2015, 5, 69067-69074. [CrossRef]  
+265: 16. Lakshmi, D.; Whitcombe, M.J.; Davis, F.; Sharma, P.S.; Prasad, B.B. Electrochemical Detection of Uric Acid in Mixed and Clinical Samples: A Review. Electroanalysis 2011, 23, 305-320. [CrossRef]  
+266: 17. Li, X.; Tian, A.; Wang, Q.; Huang, D.; Fan, S.; Wu, H.; Zhang, H. An Electrochemical Sensor Based on Platinum Nanoparticles and Mesoporous Carbon Composites for Selective Analysis of Dopamine. Int. J. Electrochem. Sci. 2019, 14, 1082-1091. [CrossRef]  
+267: 18. Ramanavicius, S.; Ramanavicius, A. Conducting Polymers in the Design of Biosensors and Biofuel Cells. Polymers 2021, 13, 49. [CrossRef]  
+268: 19. Plausinaitis, D.; Sinkevicius, L.; Samukaite-Bubniene, U.; Ratautaite, V.; Ramanavicius, A. Evaluation of electrochemical quartz crystal microbalance based sensor modified by uric acid-imprinted polypyrrole. Talanta 2020, 220, 121414. [CrossRef]  
+269: 20. Minta, M.; González, Z.; Wiench, P.; Gryglewicz, S.; Gryglewicz, G. N-Doped Reduced Graphene Oxide/Gold Nanoparticles Composite as an Improved Sensing Platform for Simultaneous Detection of Dopamine, Ascorbic Acid, and Uric Acid. Sensors 2020, 20, 4427. [CrossRef]  
+270: 21. Shen, X.; Ju, F.; Li, G.; Ma, L. Smartphone-Based Electrochemical Potentiostat Detection System Using PEDOT: PSS/Chitosan/ Graphene Modified Screen-Printed Electrodes for Dopamine Detection. Sensors 2020, 20, 2781. [CrossRef]  
+271: 22. Anan, W.K.; Wanich, A.O.; Sriprachuabwong, C.; Karuwan, C.; Tuantranont, A.; Wisitsorall, A.; Srituravanich, W.; Pimpim, A. Disposable paper-based electrochemical sensor utilizing inkjet-printed Polyaniline modified screen-printed carbon electrode for Ascorbic acid detection. J. Electroanal. Chem. 2012, 685, 72-78. [CrossRef]  
+272: 23. Rwei, S.P.; Lee, Y.H.; Shiu, J.W.; Sasikumar, R.; Shyr, U.T. Characterization of Solvent-Treated PEDOT:PSS Thin Films with Enhanced Conductivities. Polymers 2019, 11, 134. [CrossRef]  
+273: 24. Kalakodimi, R.P.; Nookala, M. Electrooxidation of Ascorbic Acid on a Polyaniline-Deposited Nickel Electrode: Surface Modification of a Non-Platinum Metal for an Electrooxidative Analysis. Anal. Chem. 2002, 74, 5531-5537. [CrossRef]  
+274: 25. Selvolini, G.; Lazzarini, C.; Marrazza, G. Electrochemical Nanocomposite Single-Use Sensor for Dopamine Detection. Sensors 2019, 19, 3097. [CrossRef]
+275: 
+276: 26. Guo, B.; Finne-Wistrand, A.; Albertsson, A.C. Universal Two-Step Approach to Degradable and Electroactive Block Copolymers and Networks from Combined Ring-Opening Polymerization and Post-Functionalization via Oxidative Coupling Reactions. Macromolecules 2011, 44, 5227-5236. [CrossRef]  
+277: 27. Chao, D.; Zhang, J.; Liu, X.; Lu, X.; Wang, C.; Zhang, W.; Wei, Y. Synthesis of novel poly(amic acid) and polyimide with oligoaniline in the main chain and their thermal, electrochemical, and dielectric properties. Polymer 2010, 51, 4518-4524. [CrossRef]  
+278: 28. Arukula, R.; Thota, A.R.; Rao, C.R.K.; Narayan, R.; Sreedhar, B. Novel electrically conducting polyurethanes with oligoanilines: Synthesis, conductivity, and electrochemical properties. J. Appl. Polym. Sci. 2014, 131, 40794. [CrossRef]  
+279: 29. Hardy, J.G.; Mouser, D.J.; Arroyo-Curras, N.; Geissler, S.; Chow, J.K.; Nguyen, L.; Kim, J.M.; Schmidt, C.E. Biodegradable electroactive polymers for electrochemically-triggered drug delivery. J. Mater. Chem. B 2014, 2, 6809-6822. [CrossRef]  
+280: 30. Qu, G.; Li, F.; Berda, E.B.; Chi, M.; Liu, X.; Wang, C.; Chao, D. Electroactive polyurea bearing oligoaniline pendants: Electrochromicand anticorrosive properties. Polymer 2015, 58, 60-66. [CrossRef]  
+281: 31. Udeh, C.U.; Fey, N.; Faul, C.F.J. Functional block-like structures from electroactive tetra(aniline) oligomers. J. Mater. Chem. 2011, 21, 18137-18153. [CrossRef]  
+282: 32. Wei, Z.; Faul, C.F.J. Aniline Oligomers-Architecture, Function and New opportunities for Nanostructured Materials. Macromol. Rapid Commun. 2008, 29, 280. [CrossRef]  
+283: 33. Jia, X.; Chao, D.; Liu, H.; He, L.; Zheng, T.; Bian, X.; Wang, C. Synthesis and properties of novel electroactive poly(amic acid) and polyimide copolymers bearing pendant oligoaniline-groups. Polym. Chem. 2011, 2, 1300-1306. [CrossRef]  
+284: 34. Chao, D.; Jia, X.; Tuten, B.; Wang, C.; Berda, E.B. Controlled folding of a novel electroactive polyolefin via multiple sequential orthogonal intra-chain interactions. Chem. Commun. 2013, 49, 4178. [CrossRef]  
+285: 35. Chao, D.; He, L.; Berda, E.B.; Wang, W.; Jia, X.; Wang, C. Multifunctional hyperbranched polyamide: Synthesis and properties. Polymer 2013, 54, 3223-3229. [CrossRef]  
+286: 36. Bibi, A.; Huang, C.H.; Lan, Y.X.; Chen, K.Y.; Ji, W.F.; Yeh, J.M.; Santiago, K.S.J. Effect of Surface Morphology of Electro-spun EPAA Coatings on the  $\mathrm{H}_2\mathrm{S}$  Sensing Performance of Corresponding Interdigitated Electrode. Electrochem. Soc. 2020, 167, 117510. [CrossRef]  
+287: 37. Huang, L.; Hu, J.; Lang, L.; Wang, X.; Zhang, P.; Jing, X.; Wang, X.; Chen, X.; Lelkes, P.I.; MacDiarmid, A.G.; et al. Synthesis and characterization of electroactive and biodegradable ABA block copolymer of polylactide and aniline pentamer. Biomaterials 2007, 28, 1741. [CrossRef]  
+288: 38. Anantharaj, V.; Wang, L.Y.; Canteenwala, T.; Chiang, L.Y. Synthesis of starburst hexa(oligoanilinated)  $\mathrm{C}_{60}$  using hexanitro[60]fullerene as a precursor. J. Chem. Soc. Perkin Trans. 1999, 1, 3357. [CrossRef]  
+289: 39. Wang, Z.Y.; Yang, C.; Gao, J.P.; Lin, J.; Meng, S.X.; Wei, Y.; Li, S. Electroactive Polyimides Derived from Amino-Terminated Aniline Trimer. Macromolecules 1988, 31, 2702-2704. [CrossRef]  
+290: 40. Chao, D.; Ma, C.; Lu, X.; Cui, L.; Mao, H.; Zhang, W.; Wei, Y. Design, synthesis and characterization of novel electroactive polyamide with amine-capped aniline pentamer in the main chain via oxidative coupling polymerization. J. Appl. Polym. Sci. 2007, 104, 1603. [CrossRef]  
+291: 41. Han, D.H.; Yang, L.P.; Zhang, X.F.; Pan, C.Y. Synthesis and characterization of polystyrene- $b$ -tetraaniline stars from polystyrene stars with surface reactive groups prepared by RAFT polymerization. Eur. Polym. J. 2007, 43, 3873-3881. [CrossRef]  
+292: 42. Liu, Y.; Hu, J.; Zhuang, X.; Zhang, P.; Chen, X.; Wei, Y.; Wang, X. Preparation and Characterization of Biodegradable and Electroactive Polymer Blend Materials Based on mPEG/Tetraaniline and PLLA. Macromol. Biosci. 2011, 11, 806. [CrossRef]  
+293: 43. Chao, D.; Jia, X.; Liu, H.; He, L.; Cui, L.; Wang, C.; Berda, E.B. Novel electroactive poly(arylene ether sulfone) copolymers containing pendant oligoaniline groups: Synthesis and properties. J. Polym. Sci. A Polym. Chem. 2011, 49, 1605. [CrossRef]  
+294: 44. Chen, R.; Benicewicz, B.C. Preparation and Properties of Poly(methacrylamide)s Containing Oligoaniline Side Chains. Macromolecules 2003, 36, 6333. [CrossRef]  
+295: 45. Liu, S.; Kaizheng, Z.T.; Zhang, Y.; Zhu, Y.; Xu, T.X. Synthesis and electrical conductivity of poly(methacrylamide) (PMAA) with fixed length oligoaniline as side chains. Mater. Lett. 2005, 59, 3715. [CrossRef]  
+296: 46. Ji, W.F.; Chu, C.M.; Hsu, S.C.; Lu, Y.D.; Yu, Y.C.; Santiago, K.S.; Yeh, J.M. Synthesis and characterization of organo-soluble aniline oligomer-based electroactive doped with gold nanoparticles, and application to electrochemical sensing of ascorbic acid. Polymer 2017, 128, 218-228. [CrossRef]  
+297: 47. Chang, K.C.; Chu, C.M.; Chang, C.H.; Cheng, H.T.; Hsu, S.C.; Lan, C.C.; Chen, H.H.; Peng, Y.Y.; Yeh, J.M. Photoisomerization of electroactive polyimide/multiwalled carbon nanotube composites on the effect of electrochemical sensing for ascorbic acid. Polym. Int. 2015, 64, 373-382. [CrossRef]  
+298: 48. Weng, C.J.; Jhou, Y.S.; Chen, Y.L.; Feng, C.F.; Chang, C.H.; Chen, S.W.; Yeh, J.M.; Yen, W. Intrinsically electroactive polyimide microspheres fabricated by electrospraying technology for ascorbic acid detection. J. Mater. Chem. 2011, 21, 15666-15672. [CrossRef]  
+299: 49. Yeh, L.C.; Huang, T.C.; Lin, Y.J.; Lai, G.H.; Yang, T.I.; Lo, A.Y.; Yeh, J.M. Electroactive polyamide modified carbon paste electrode for the determination of ascorbic acid. Int. J. Green Energy 2016, 13, 1334-1341. [CrossRef]  
+300: 50. Huang, T.S.; Yeh, L.C.; Huang, H.Y.; Nian, Z.Y.; Yeh, Y.C.; Chou, Y.C.; Yeh, J.M.; Tsai, M.H. The use of a carbon paste electrode mixed with multiwalled carbon nanotube/electroactive polyimide composites as an electrode for sensing ascorbic acid. Polym. Chem. 2014, 5, 630-637. [CrossRef]
+301: 
+302: 51. Yeh, L.C.; Huang, T.C.; Huang, Y.P.; Huang, H.Y.; Chen, H.H.; Yang, T.I.; Yeh, J.M. Synthesis electroactive polyurea with aniline-pentamer-based in the main chain and its application in electrochemical sensor. Electrochim. Acta 2013, 94, 300-306. [CrossRef]  
+303: 52. Yeh, L.C.; Huang, T.C.; Lai, F.Y.; Lai, G.H.; Lo, A.Y.; Hsu, S.C.; Yang, T.I.; Yeh, J.M. Synthesis of electroactive polyazomethine and its application in electrochromic property and electrochemical sensor. Surf. Coat. Technol. 2016, 303, 154-161. [CrossRef]  
+304: 53. Huang, T.C.; Yeh, L.C.; Lai, G.H.; Lai, F.Y.; Yang, T.I.; Huang, Y.J.; Lo, A.Y.; Yeh, J.M. Electroactive polyurea/CNT composite-based electrode for detection of vitamin C. Express Polym. Lett. 2016, 10, 450-461. [CrossRef]  
+305: 54. Weng, C.J.; Hsu, P.H.; Hsu, S.C.; Chang, C.H.; Hung, W.I.; Wu, P.S.; Yeh, J.M. Synthesis of electroactive mesoporous gold-organosilica nanocomposite materials via a sol-gel process with non-surfactant templates and the electroanalysis of ascorbic acid. J. Mater. Chem. B 2013, 1, 4893–4991. [CrossRef] [PubMed]  
+306: 55. Tsai, M.H.; Lu, S.H.; Lai, Y.H.; Lai, G.H.; Dizon, G.V.; Yang, T.-I.; Lin, Y.J.; Chou, Y.C. Novel ascorbic acid sensor prepared from gold/aniline-pentamer-based electroactive polyamide composites. Express Polym. Lett. 2018, 12, 71-81. [CrossRef]  
+307: 56. Devasena, S.; Meenakshi, S.; Sayeekannan, R.; Pandian, K. In-situ functionalization of aniline oligomer onto layered graphene sheet and study of its application on electrochemical detection of ascorbic acid in food samples. Nanosyst. Phys. Chem. Math. 2016, 7, 774-779. [CrossRef]  
+308: 57. Han, B.; Pan, M.; Liu, X.; Liu, J.; Cui, T.; Chen, Q. Electrochemical Detection for Uric Acid Based on  $\beta$ -Lactoglobulin-Functionalized Multiwall Carbon Nanotubes Synthesis with PtNPs Nanocomposite. Materials 2019, 12, 214. [CrossRef]  
+309: 58. Guo, S.; Wang, E. Synthesis and electrochemical applications of gold nanoparticles. Anal. Chim. Acta 2007, 598, 181-192. [CrossRef]  
+310: 59. Income, K.; Ratnarathorn, N.; Khamchaiyo, N.; Srisuvo, C.; Ruckthong, L.; Dungchai, W. Disposable Nonenzymatic Uric Acid and Creatinine Sensors Using PAD Coupled with Screen-Printed Reduced Graphene Oxide-Gold Nanocomposites. Int. J. Anal. Chem. 2019, 3457247.  
+311: 60. Shams, N.; Lim, H.N.; Hajian, R.; Yusof, N.A.; Abdullah, J.; Sulaiman, Y.; Ibrahim, I.; Huang, N.M. Electrochemical sensor based on gold nanoparticles/ethylenediamine-reduced graphene oxide for trace determination of fenitrothion in water. RSC Adv. 2016, 6, 89430-89439. [CrossRef]  
+312: 61. Yang, Z.; Qi, C.; Zheng, X.; Zheng, J. Facile synthesis of silver nanoparticle-decorated graphene oxide nanocomposites and their application for electrochemical sensing. New J. Chem. 2015, 39, 9358-9362. [CrossRef]  
+313: 62. Chang, K.C.; Lu, H.I.; Peng, C.W.; Lai, M.C.; Hsu, S.C.; Hsu, M.S.; Tsai, Y.K.; Chang, C.H.; Hung, W.I.; Wei, Y.; et al. Nanocasting Technique to Prepare Lotus-leaf-like Superhydrophobic Electroactive Polyimide as Advanced Anticorrosive Coatings. ACS Appl. Mater. Interfaces 2013, 5, 1460–1467. [CrossRef] [PubMed]  
+314: 63. Rozalska, I.; Kulyk, P.; Kulszewicz Bajer, I. Linear 1,4-coupled oligoanilines of defined length: Preparation and spectroscopic properties. New J. Chem. 2004, 28, 1235-1243.  
+315: 64. Weng, C.J.; Huang, K.Y.; Jhuo, Y.S.; Chen, Y.L.; Feng, C.F.; Cho Ming, C.; Yeh, J.M. Electroactive PI sphere generated by electrospraying. Polym. Int. 2012, 61, 205-212. [CrossRef]  
+316: 65. Krishnamurthy, S.; Esterle, A.; Sharma, N.C.; Sahi, S.V. Yucca-derived synthesis of gold nanomaterial and their catalytic potential. Nanoscale Res. Lett. 2014, 9, 627. [CrossRef]  
+317: 66. Shameli, K.; Ahmad, M.B.; Zamanian, A.; Sanpour, P.; Shabanzadeh, P.; Abdollahi, Y.; Zargar, M. Green biosynthesis of silver nanoparticles using Curcuma longa tuber powder. Int. J. Nanomed. 2012, 7, 5603-5610. [CrossRef]  
+318: 67. Zhang, Z.; Zhang, X.; Xin, Z.; Deng, M.; Wen, Y.; Song, Y. Synthesis of monodisperse silver nanoparticles for ink-jet printed flexible electronics. Nanotechnology 2011, 22, 425601. [CrossRef]  
+319: 68. Zhang, G.; Yang, D.; Sacher, E. X-ray Photoelectron Spectroscopic Analysis of Pt Nanoparticles on Highly Oriented Pyrolytic Graphite, Using Symmetric Component Line Shapes. J. Phys. Chem. C. 2007, 111, 565-570. [CrossRef]  
+320: 69. Bard, A.J.; Faulkner, J.L.R. Electrochemical Methods: Fundamentals and Applications, 2nd ed.; Wiley: New York, NY, USA, 2001; ISBN 978-0-471-04372-0.  
+321: 70. Shi, W.; Liu, C.; Song, Y.; Lin, N.; Zhou, S.; Cai, X. An ascorbic acid amperometric sensor using over-oxidized polypyrrole and palladium nanoparticles composites. Biosens. Bioelectron. 2012, 38, 100-106. [CrossRef]  
+322: 71. Fu, L.; Zheng, Y.; Wang, A.; Cai, W.; Deng, B.; Zhang, Z. An Electrochemical Sensor Based on Reduced Graphene Oxide and ZnO Nanorods-Modified Glassy Carbon Electrode for Uric Acid Detection. Arab. J. Sci. Eng. 2015. [CrossRef]  
+323: 72. Fua, L.; Wangd, A.; Laic, G.; Sua, W.; Malherbeb, F.; Yue, J.; Line, C.T.; Yu, A. Defects regulating of graphene ink for electrochemical determination of ascorbic acid, dopamine and uric acid. Talanta 2017, 180, 248-253. [CrossRef] [PubMed]  
+324: 73. Chikere, C.O.; Faisal, N.H.; Lin, P.K.; Fernandez, C. Interaction between Amorphous Zirconia Nanoparticles and Graphite: Electrochemical Applications for Gallic Acid Sensing Using Carbon Paste Electrodes in Wine. Nanomaterials 2020, 10, 537. [CrossRef] [PubMed]  
+325: 74. Chikere, C.O.; Hobben, E.; Faisal, N.H.; Lin, P.K.; Fernandez, C. Electroanalytical determination of gallic acid in red and white wine samples using cobalt oxide nanoparticles-modified carbon-paste electrodes. Microchem. J. 2021, 160, 105668. [CrossRef]  
+326: 75. Habibi, B.; Pezhhan, H.; Pournaghi-Azar, M.H. Voltammetric and amperometric determination of uric acid at a carbon-ceramic electrode modified with multi walled carbon nanotubes. Microchim. Acta 2010, 169, 313. [CrossRef]
+327: 
+328: 76. Yan, J.; Liu, S.; Zhang, Z.; He, G.; Zhou, P.; Liang, H.; Tian, L.; Zhou, X.; Jiang, H. Simultaneous electrochemical detection of ascorbic acid, dopamine and uric acid based on graphene anchored with Pd-Pt nanoparticles. Colloid Surf. B 2013, 111, 392. [CrossRef]  
+329: 77. Zhou, Y.; Zhang, H.; Xie, H.; Chen, B.; Zhang, L.; Zheng, X.; Jia, P. A novel sensor based on LaPO4 nanowires modified electrode for sensitive simultaneous determination of dopamine and uric acid. Electrochim. Acta 2012, 75, 360-365. [CrossRef]  
+330: 78. Manivel, P.; Dhakshnamoorthy, M.; Balamurugan, A.; Ponpandian, N.; Mangalaraj, D.; Viswanathan, C. Conducting polyaniline-graphene oxide fibrous nanocomposites: Preparation, characterization and simultaneous electrochemical detection of ascorbic acid, dopamine and uric acid. RSC Adv. 2013, 3, 14428-14437. [CrossRef]  
+331: 79. Anu Prathap, M.U.; Srivastava, R. Tailoring properties of polyaniline for simultaneous determination of a quaternary mixture of ascorbic acid, dopamine, uric acid, and tryptophan. Sens. Actuators B Chem. 2013, 177, 239-250. [CrossRef]  
+332: 80. Chikere, C.O.; Faisal, N.H.; Lin, P.K.T.; Fernandez, C. Zinc oxide nanoparticles modified-carbon paste electrode used for the electrochemical determination of Gallic acid. J. Phys. Conf. Ser. 2019, 1310, 012008. [CrossRef]

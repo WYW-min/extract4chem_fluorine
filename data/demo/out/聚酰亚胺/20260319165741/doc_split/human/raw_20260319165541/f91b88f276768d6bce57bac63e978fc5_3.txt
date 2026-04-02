@@ -1,0 +1,35 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. I. PolyimidePolycarbonate &amp; Polyi.md
+doc_id: f91b88f276768d6bce57bac63e978fc5
+chunk_index: 3
+block_id: b0004
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Experimental
+line_span: [22, 42]
+char_span: [2739, 4548]
+line_count: 19
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0004: Experimental) ---
+22: # Experimental
+23: 
+24: Synthesis of composite polymer-polymer blends was carried out by the following two methods:
+25: 
+26: 1) mechanical mixing in  $m$ -cresol in different proportions of polymers: polyimide-polycarbonate (PI-PC) and polyimide-polysulphone (PI-PS) corresponding to 90:10, 80:20, 70:30. Upon completion of reaction time, P2 was gradually added into reaction flask wherein high thermal one-staged synthesis of polyimide on the basis of tricyclodecentetra-carbon acid was carried out. The mixture was stirred during two hours. The homogeneous liquid was used to cast thin films onto glass plates and the films were dried at  $170^{\circ}\mathrm{C}$ ;
+27: 
+28: 2) chemical mixing – for the synthesis of polyimide the monomers (tricyclodecentetracarbon acid and oxydianiline) were added to the solution P2 in  $m$ -cresol. The reaction was allowed to proceed for five hours at constant mixing and gradual rising of temperature to  $170^{\circ}\mathrm{C}$ . The reaction mixture was diluted with  $m$ -cresol to obtain a final concentration of  $6-7\%$ . The main reaction of polyimide is carried out by two-step procedure and based on equilibrium polycondensation of tricyclodecentetracarbon acid with
+29: 
+30: oxydianiline as following:
+31: 
+32: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+33: 
+34: The initial product of the reaction is polyamate, which undergoes dehydration at  $170^{\circ}\mathrm{C}$  to form an alicycled polyimide.
+35: 
+36: X-ray small angle diffraction analysis of the new composites on the basis of PI-P2 was carried out on diffractometer DRON-3.
+37: 
+38: Viscosity was implemented by using a Ubellode capillary viscometer from solutions in  $m$ -cresol at  $20^{\circ}\mathrm{C}$ .
+39: 
+40: Morphology of the films was investigated by means of optical light microscope Carl Zeiss equipped with Zenith M photocamera.

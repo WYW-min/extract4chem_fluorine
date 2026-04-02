@@ -1,0 +1,41 @@
+source_file: Physical Properties of Thermally Crosslinked Fluorinated Polyimide and Its Application to a Liquid Crystal Ali.md
+doc_id: c4f669b48b1423dc5ea06d7550ea03f2
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [58, 84]
+char_span: [8862, 15368]
+line_count: 25
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+58: # 2. Materials and Methods
+59: 
+60: # 2.1.Materials
+61: 
+62: The polyamic acid solution (4.5 wt% in NMP) used for the 6FDA-ODA was supplied by NCK Co., Ltd. (Pyeongtaek, Korea). The [4-(oxiran-2-ylmethoxy)-N,N-bis(oxiran-2-
+63: 
+64: ylmethyl)aniline] (EP) epoxy was purchased from Sigma-Aldrich. The MLC-2041 (IPS mode LC) used for the actual mass production of LCDs was purchased from Merck and used for the LC cell fabrication.
+65: 
+66: # 2.2. Preparation of Neat 6FDA-ODA PI and Its Crosslinked PI Films
+67: 
+68: A thin film of PI was applied to the substrate by spin coating using a PAA solution with or without epoxy (EP). According to the findings of a preliminary study, a concentration of  $5\mathrm{wt}\%$  EP mixed with the PAA film was chosen (Figure S1). In addition, a thick film was prepared by bar coating at room temperature using the same high-concentration PI solution. The prepared PAA film was dried in a high-temperature vacuum drying oven  $(110^{\circ}\mathrm{C}$  for  $2\mathrm{h}, 120^{\circ}\mathrm{C}$  for  $1\mathrm{h})$ . Then, the final 6FDA-ODA PI film was obtained by thermal imidization in a vacuum oven at  $230^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ . In addition, a PAA film containing a small amount of EP in PAA was dried using the same process as the neat PAA film to induce a crosslinking reaction. By heat-treating the crosslinked PAA film at  $230^{\circ}\mathrm{C}$ , most of the repeating groups of PAA that did not participate in the crosslinking were imidized.
+69: 
+70: # 2.3. Instrumentation
+71: 
+72: Thermogravimetric analysis (TGA) with a Mettler STARE was used to determine the decomposition temperatures  $(\mathrm{T_d}s)$  of the PAA and PIs. The  $\mathrm{T_d}$  of the polymer was defined as the temperature at which a  $5\%$  weight loss occurred. UV-vis absorption spectra were recorded using an Agilent 8453 UV–vis spectrophotometer. Fourier transform infrared (FT-IR) analysis was conducted using a Bio-Rad FTS-60A infrared spectrometer in attenuated total reflection mode. A reflection cell with an incidence angle of  $60^{\circ}$  was used. An average of 128 scans were collected for each film sample over the range of  $400 - 4000~\mathrm{cm}^{-1}$ . The resolution was  $4\mathrm{cm}^{-1}$ . The dielectric constants of the PI films were measured, using an Agilent LCR meter (ASTM D150), at room temperature while changing the frequency from  $10\mathrm{Hz}$  to  $10^{6}\mathrm{Hz}$  using the scanning mode. Atomic force microscopy (AFM) was conducted in the contact mode with silicon tips using an AFM 5100N from the Hitachi High-Tech Sci. Co. Tensile tests of the PI films were performed at a tensile speed of  $10\mathrm{mm}\mathrm{min}^{-1}$  on dog-bone specimens  $(50\mathrm{mm} \times 5\mathrm{mm} \times 40\mu \mathrm{m})$  using a Shimadzu AGS-100G (Shimadzu Corporation, Kyoto, Japan). DMA analysis of the thick PI films was performed using a DMA Q800 (TA Co., Detroit, MI, USA)at  $1.0\mathrm{Hz}$  and a heating rate of  $5^{\circ}\mathrm{C}\cdot \mathrm{min}^{-1}$  from room temperature to  $400^{\circ}\mathrm{C}$ .
+73: 
+74: # 2.4. Characterization of AL
+75: 
+76: The alignment treatment was performed by mechanically rubbing the PI films. Using an automatic rubbing machine that could be controlled up to a  $0.01\mathrm{mm}$  pile impression, the PI alignment film was rubbed once with a Hyperflex Sheath-Core type rubbing cloth (HY-7018, Hyperflex Co., Ltd., Gumi, Korea) (rubbing roller diameter:  $440\varphi$ , rubbing roller rpm:  $1000\mathrm{rpm}$ , pile impression:  $0.3\mathrm{mm}$ , stage speed:  $20\mathrm{mm/s}$ ). The optical anisotropy of the rubbed LC alignment layer was measured using LayScan ( $\lambda = 532\mathrm{nm}$ ,  $50\mathrm{mW}$ , angle of incidence  $= 50^{\circ}$ , Moritex Co., Ltd. (Asaka, Japan), LYS-LH3040). When p-polarized light with a vibration direction parallel to the incident surface of the alignment layer, having optical anisotropy, or s-polarized light with a vibration direction perpendicular to the incident surface is scanned, light containing different polarization components is reflected and its intensity is measured. The surface conditions of the PI films were estimated by measuring the surface roughness of each polymer film in a  $100\mu \mathrm{m}^2$  area using AFM.
+77: 
+78: # 2.5. Fabrication and Characterization of LC Cell
+79: 
+80: A  $100\mathrm{nm}$  thick polymer film was prepared by spin-coating a PAA solution on a glass substrate with an ITO electrode, after which the PAA thin film was dried at  $80^{\circ}\mathrm{C}$  for  $1\mathrm{min}$ , followed by heat treatment at  $230^{\circ}\mathrm{C}$  for  $30\mathrm{min}$  to prepare the PI layer. A dry method was used to spread a spacer with a diameter of  $4.0\mu \mathrm{m}$  on one of the two ITO/glass substrates with a rubbing PI alignment film. Subsequently, an IPS cell (anti-parallel) with
+81: 
+82: a cell gap of  $4.0\mu \mathrm{m}$  was fabricated by bonding the two substrates so that the rubbing directions were  $180^{\circ}$  to each other. In particular, in the manufacture of the LC cell for the measurement of electrical properties, the two substrates were bonded to ensure that the pattern shapes of the upper and lower plates were matched. Then, when the assembled cell was pressed, it was treated in a clean oven at  $80^{\circ}\mathrm{C}$  for  $15\mathrm{min}$  and  $150^{\circ}\mathrm{C}$  for  $90\mathrm{min}$  to heat cure the epoxy sealant. The measurement of the cell gap for the empty cell using an OPTIPRO-micro measuring instrument (SHINTECH) showed that the cell gap was in the range of  $3.8 - 4.2\mu \mathrm{m}$  in all cases. After injecting MLC-2041 LC into the empty cell at room temperature and atmospheric pressure, the LC inlet was sealed with an end sealant (XN-1500T from Mitsui Chemicals), and the LC part was masked to protect the AL and LC from UV light. The production of the LC cell was completed by final curing under UV light irradiation. The VHR of the LC cells was measured using a VHR: 6254C from the Toyo Corporation. After a constant voltage was applied to the LC cell, the degree of voltage maintained by the cell compared to the applied voltage during the period of no voltage application was called the VHR. The VHR of the LC cell was measured at  $23^{\circ}\mathrm{C}$  and  $60^{\circ}\mathrm{C}$  with a pulse width of  $64~\mu \mathrm{s}$ , a frequency of  $60\mathrm{Hz}$ , pulse widths of  $167\mathrm{ms}$  and  $1667\mathrm{ms}$ , and data voltage of  $4.0\mathrm{V}$ . The RDC values were also measured using Toyo 6254C.

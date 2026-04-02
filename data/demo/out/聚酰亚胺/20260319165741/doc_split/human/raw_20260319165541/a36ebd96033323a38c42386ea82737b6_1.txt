@@ -1,0 +1,25 @@
+source_file: A Study on the Interfacial Compatibility, Microstructure and Physico-Chemical Properties of PolyimideOrganical.md
+doc_id: a36ebd96033323a38c42386ea82737b6
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [47, 57]
+char_span: [4356, 8961]
+line_count: 9
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+47: # 1. Introduction
+48: 
+49: Polyimide (PI) materials exhibit outstanding physico-chemical, electrical, and mechanical properties that allow them to be used in several advanced applications such as microelectronic, packaging, and separation [1-8]. Among polymers, particularly, PIs are a very important class of polymers because the organic segments of these polymers can easily be changed in length, rigidity, geometry of substitution, and functionality so that the
+50: 
+51: overall properties such as transparency, thermal and mechanical, compatibility, processability, dielectric constant, and chemical resistance can easily be tuned [9-11]. It is found that the addition of reinforcing filler into the PI matrix has also shown to provide such desirable properties. Therefore, these composites with interesting synergistic properties have received much attention from both academics and industries. These composites have consisted of the organic polymer matrix and either organic or inorganic fillers [12-15]. For instance, polyimide-silica (PI-silica) composites are widely used as structural materials, in which, silica is used as an inorganic filler. Based on the studies, the type of silica fillers (either organosilica/inorganic) can control the compatibility and thermo-mechanical properties of the final PI matrix. Therefore, the use of those composites could easily be extended to the above-mentioned applications as well as other suitable applications including automotive, aerospace, and high-temperature manufacturing facilities. For making composites, the incorporation of various amounts of inorganic silica into the PI polymer has been a well-practiced strategy that enhances the thermomechanical properties of the polymer [16-19]. Most of the previous studies have used the sol-gel reaction to incorporate inorganic silica as filler into polymer because of its relatively low processing temperatures and the wide range of metal-organic sources that can be introduced. However, the control of the phase separation between organic and inorganic phases is still the primary problem for the formation of PI-silica nanocomposites, which significantly affects the final morphology of target composites [19-21]. Most approaches have used various silane coupling agents for improving the phase compatibility between trialkoxysilane-based organosilica and polymer phase. The final morphology of composites is largely affected by the nature of organic functional groups in the final composite phases. The resulting composite with large phase separation is found to deteriorate the thermomechanical properties instead of enhancement [22-24]. To address this problem, Akter et al. [25,26] have reported the polyimide-silica composites, in which the newly synthesized oligomeric species 2,6-bis(3-(triethoxysilyl)propyl)pyrrolo[3,4-f]isoindole-1,3,5,7(2H,6H)-tetraone (APA) was used as a coupling agent to improve compatibility between organic and inorganic phases. The APA-modified the silica particles (TEOS) were able to create bonds between imide linkages and hydroxyl groups that have played a role in improving the morphology and thermomechanical properties because of interfacial interactions that occurred through H-bonding and also like-like chemical interactions.
+52: 
+53: It is well-known that hydroxyl groups of silanol (Si-OH) undergo reactions with acid groups of polyamic acid (PAA) [16-24,27]. So far, most of the interactions have been interpreted from the final imidized composites only using FT-IR and improved thermomechanical properties. However, the interpretation of the introduced silica materials before adding them into PAA has hardly been considered. Thus, it is important to explain why the condensation sites such as  $Q^n$  and  $T^n$  sites of silica and organosilica, respectively, are vital for controlling the phase separation for the formation of composite phases.
+54: 
+55: Herein, we report the structural characterization and influence of the substitution of TEOS with GPMS to effectively control the phase separation of the final composites and the following outcomes could set (i) the synthesis and the  $^{29}\mathrm{Si}$  CP MAS NMR characterization of inorganic silica filler  $(\mathbf{Q}^{\mathrm{n}}$  site) and organosilica-modified silica  $(\mathrm{T}^{\mathrm{n}}$  sites). Then, 3-glycidoxypropyl trimethoxysilane (GPMS) which contains propyl organic segment and hydrophilic silanols at the end along with tetraethoxysilane (TEOS) was used as filler; (ii) discuss the phase compatibility, optical transmittance, thermal properties, FT-IR, and dielectric constant of composite films.

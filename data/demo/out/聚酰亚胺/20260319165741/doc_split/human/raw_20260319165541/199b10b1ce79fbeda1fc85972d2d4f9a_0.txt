@@ -1,0 +1,40 @@
+source_file: Optical anisotropy of uniaxially drawn and silver-dispersed polyimide films.md
+doc_id: 199b10b1ce79fbeda1fc85972d2d4f9a
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Optical anisotropy of uniaxially drawn and silver-dispersed polyimide films
+line_span: [1, 26]
+char_span: [0, 553]
+line_count: 24
+effective_body_non_empty_lines: 14
+
+lines:
+--- chunk (b0001: Optical anisotropy of uniaxially drawn and silver-dispersed polyimide films) ---
+1: [MINERU_DISCARDED_META]
+2: 么
+3: AIP Publishing
+4: [/MINERU_DISCARDED_META]
+5: 
+6: RESEARCH ARTICLE | FEBRUARY 15 1999
+7: 
+8: # Optical anisotropy of uniaxially drawn and silver-dispersed polyimide films
+9: 
+10: Takashi Sawada; Shinji Ando; Shigekuni Sasaki
+11: 
+12: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+13: 
+14: Check for updates
+15: 
+16: Appl.Phys.Lett.74,938-940 (1999)
+17: 
+18: https://doi.org/10.1063/1.123415
+19: 
+20: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+21: View Online
+22: 
+23: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+24: Export Citation

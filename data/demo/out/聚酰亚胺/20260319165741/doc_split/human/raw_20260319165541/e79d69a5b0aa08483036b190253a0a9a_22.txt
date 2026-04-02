@@ -1,0 +1,31 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 22
+block_id: b0023
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: OPTIMIZATION AND CONFIRMATION
+line_span: [296, 312]
+char_span: [48497, 51145]
+line_count: 15
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0023: OPTIMIZATION AND CONFIRMATION) ---
+296: # OPTIMIZATION AND CONFIRMATION
+297: 
+298: In the process of optimization, the upper and lower limits of each synthesis parameter (filler loading, annealing temperature and types of filler) and its responses (water
+299: 
+300: uptake, proton conductivity and ion exchange capacity), which were provided by the surface and contour plots, were used in the optimization procedure.
+301: 
+302: TABLE 7. The optimum conditions for highest physicochemical properties as suggested by Design Expert and validation experimental response values as confirmatory analysis  
+303: 
+304: <table><tr><td></td><td>Suggested value</td><td>Experimental (Average)</td><td>Error (%)</td></tr><tr><td>Filler loading (wt.%)</td><td>11.5</td><td>11.5</td><td>-</td></tr><tr><td>Annealing temperature (℃)</td><td>175</td><td>175</td><td>-</td></tr><tr><td>Filler type</td><td>sRHA</td><td>sRHA</td><td>-</td></tr><tr><td>Water uptake (%)</td><td>97.04</td><td>90.97</td><td>6.26</td></tr><tr><td>Proton conductivity (S cm-1)</td><td>0.1946</td><td>0.1891</td><td>2.82</td></tr><tr><td>IEC (mmol g-1)</td><td>0.2547</td><td>0.2608</td><td>2.39</td></tr></table>
+305: 
+306: Table 7 illustrated the possible solutions that fulfilled all the specified condition for the optimization of the physicochemical properties and values obtained experimentally. In this study, the optimum synthesis parameters in producing composite membrane SPI/ rice husk ash with the highest water uptake, proton conductivity, and ion exchange capacity are the composite membrane with the filler loading of  $11.5\mathrm{wt.}\%$  of sRHA and produced at the annealing temperature of  $175^{\circ}\mathrm{C}$ . The optimized composite membrane produced under these three combinations of the synthesis parameter was renamed as S-12-sR in the next section. Experimental validation of these optimum values was repeated 3 times to obtain the average of the physicochemical properties response values. The samples for the validation experiment were prepared using the same procedure as optimization sample.
+307: 
+308: The physicochemical performances were examined under the same method as the optimization sample. The average values of water uptake, proton conductivity and IEC for the validation test were  $90.97\%$ , 0.1891
+309: 
+310: $\mathrm{Scm^{-1}}$  and  $0.2608\mathrm{mmolg^{-1}}$  , respectively. The error between the predicted and experimental values for water uptake, proton conductivity and IEC were 6.26, 2.82, and  $2.39\%$  , respectively. These small error values proved that the three selected factors (filler loading, annealing temperature and filler type) could be used to maximizing the physicochemical performance of the composite membranes produced.

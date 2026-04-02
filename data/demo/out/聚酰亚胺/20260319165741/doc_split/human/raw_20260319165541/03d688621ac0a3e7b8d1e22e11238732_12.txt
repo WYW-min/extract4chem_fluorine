@@ -1,0 +1,43 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 12
+block_id: b0013
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Electrical Properties
+line_span: [139, 167]
+char_span: [22381, 25627]
+line_count: 27
+effective_body_non_empty_lines: 15
+
+lines:
+--- chunk (b0013: Electrical Properties) ---
+139: # Electrical Properties
+140: 
+141: One unique property of the MWCNTs is their electrical conductivity because of their large aspect ratio and mobile  $\pi$  electrons. Addition of very small quantities of MWCNTs significantly increases the conductivity of the composite as observed in Fig. 9. As in the case of mechanical properties, there is a noticeable difference in the electrical conductivity of the two composites at  $1\mathrm{wt}\%$  loading. The conductivity is almost twice for amide-MWCNTs/polyamide as compared to acid-MWCNTs/polyamide. The maximum value of the conductivities with  $5\mathrm{wt}\%$  acid-MWCNTs  $(0.938\mathrm{Scm}^{-1})$  and  $5\mathrm{wt}\%$  amide-MWCNTs  $(1.032\mathrm{Scm}^{-1})$  are much higher than the previously reported values in the literature by Yuen et al.  $(3.76\times 10^{-8}$  for acid modified at  $6.98\mathrm{wt}\%$
+142: 
+143: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+144: Fig. 7 TGA curves for a MWCNTs, b acid-MWCNTs/ polyimide nanocomposites and c amide-MWCNTs/polyimide nanocomposites
+145: 
+146: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+147: 
+148: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+149: 
+150: Table 1 Thermal degradation temperature  $\left( {T}_{\mathrm{d}}\right)$  and  ${T}_{5}$  of MWCNTs/polyimide nanocomposites  
+151: 
+152: <table><tr><td rowspan="2">Temperature (℃)</td><td rowspan="2">Pure PI</td><td colspan="5">Acid-MWCNTs/polyimide (MWCNTs wt%)</td><td colspan="5">Amide-MWCNTs/polyimide (MWCNTs wt%)</td></tr><tr><td>0.5</td><td>1</td><td>2</td><td>3</td><td>5</td><td>0.5</td><td>1</td><td>2</td><td>3</td><td>5</td></tr><tr><td>*Td</td><td>510</td><td>515</td><td>530</td><td>540</td><td>570</td><td>555</td><td>525</td><td>520</td><td>520</td><td>525</td><td>525</td></tr><tr><td>**T5</td><td>540</td><td>545</td><td>555</td><td>565</td><td>585</td><td>580</td><td>553</td><td>550</td><td>550</td><td>550</td><td>550</td></tr></table>
+153: 
+154: * Temperature at which degradation starts  
+155: ** Temperature at which 5 wt% of the material has degraded
+156: 
+157: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+158: Fig. 9 Effect of MWCNTs contents on the electrical conductivity of the MWCNTs/polyimide nanocomposites
+159: 
+160: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+161: Fig. 8 a Tensile strength and b Young's modulus of MWCNTs/ polyimide nanocomposites at different MWCNTs loadings
+162: 
+163: $5.78 \times 10^{-8} \mathrm{~S} \mathrm{~cm}^{-1}$  for amine modified at  $6.98 \mathrm{wt} \%$  [8]). The neat polymer film, however, behaves as an insulator as also measured by previous authors ( $6.53 \times 10^{-18} \mathrm{~S} \mathrm{~cm}^{-1}$  [8]). A possible explanation for these observations is the high aspect ratio of the MWCNTs used in this study which ranges between 1000 and 3000. The authors in previous studies have used tubes with aspect ratio of almost 400 (diameter  $40 - 60 \mathrm{~nm}$ , length  $0.5 - 40 \mu \mathrm{m}$ ) which could be the reason for lower electrical conductivity of these composites. Moreover, in the present study the tubes remain intact and are not damaged during surface modification as observed in the SEM micrographs (Fig 5b, c).
+164: 
+165: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)

@@ -1,0 +1,58 @@
+source_file: Closed-Cell Rigid Polyimide Foams for High-Temperature Applications The Effect of Structure on Combined Proper.md
+doc_id: 629f37c040a2cf6244b96cf890edd8ec
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [263, 304]
+char_span: [44528, 51473]
+line_count: 42
+effective_body_non_empty_lines: 39
+
+lines:
+--- chunk (b0006: References) ---
+263: # References
+264: 
+265: 1. Zhai, W.; Feng, W.; Ling, J.; Zheng, W. Fabrication of Lightweight Microcellular Polyimide Foams with Three-Dimensional Shape by  $\mathrm{CO}_{2}$  Foaming and Compression Molding. Ind. Eng. Chem. Res. (ACS) 2012, 51, 12827-12834. [CrossRef]  
+266: 2. Edward, A.L.; Paul, W.W. Cellular Polyimide Product. U.S. Patent 3310506, 21 March 1967.  
+267: 3. Caps, R.; Heinemann, U.; Fricke, J.; Keller, K. Thermal conductivity of polyimide foams. Int. J. Heat Mass Transf. 1997, 40, 269-280. [CrossRef]  
+268: 4. Cook, B.A.; Yudin, V.E.; Otaigbe, J.U. Thermal properties of polyimide foam composites. J. Mater. Sci. Lett. 2000, 19, 1971-1973. [CrossRef]  
+269: 5. Hower, R.T.; Hoang, S.V. Polyimide Foam-Containing Radomes. U.S. Patent 5662293, 2 September 1997.  
+270: 6. Gouzman, I.; Grossman, E.; Verker, R.; Atar, N.; Bolker, A.; Eliaz, N. Advances in Polyimide-Based Materials for Space Applications. Adv. Mater. 2019, 31, 1807738. [CrossRef] [PubMed]  
+271: 7. Indyke, D.M. Polyimide Foams and Their Production. U.S. Patent 4952611, 28 August 1990.  
+272: 8. Yang, J.Y.; Ye, Y.S.; Li, X.P.; Lu, X.Z.; Chen, R.J. Flexible, conductive, and highly pressure-sensitive graphene-polyimide foam for pressure sensor application. Compos. Sci. Technol. 2018, 164, 187-194. [CrossRef]  
+273: 9. Weiser, E.S.; Grimsley, B.W.; Pipes, R.B.; Williams, M.K. Polyimide Foams from Friable Balloons; Society for the Advancement of Material and Process Engineering Conference; SAMPE: Long Beach, CA, USA, 2002.  
+274: 10. Weiser, E.S.; Baillif, F.F.; Grimsley, B.W.; Marchello, J.M. High temperature structural foam. In Proceedings of the 43rd International SAMPE Symposium, Hampton, VA, USA, 31 May 1998; pp. 730-744.  
+275: 11. McConnell, V.P. NASA gets hands-on with X-33 design. High Perf. Comp. 1997, 5, 56-58.  
+276: 12. Fisher, K. Resin flow control is the key to RTM success. High Perf. Comp. 1997, 5, 34-38.  
+277: 13. Robert, H.W. Forming a Foamed Polyimide Article. U.S. Patent 3249561 A, 3 May 1966.  
+278: 14. Zhan, M.S.; Wang, K. Polyimide Foam Materials; National Defense Industry Press: Beijing, China, 2018; p. 5.  
+279: 15. Weiser, E.S.; Johnson, T.F.; St Clair, T.L.; Echigo, Y.; Kaneshiro, H.; Grimsley, B.W. Polyimide foams for aerospace vehicles. High Perform. Polym. 2000, 12, 1-12. [CrossRef]  
+280: 16. Li, J.W.; Zhang, G.C.; Li, J.T.; Zhou, L.S.; Jing, Z.X.; Ma, Z.L. Preparation and properties of polyimide/chopped carbon fiber composite foams. Polym. Adv. Technol. 2017, 28, 28-34. [CrossRef]  
+281: 17. Weng, L.; Wang, T.; Ju, P.H.; Liu, L.Z. Preparation and properties of polyimide/Fe3O4 composite foams. Pigm Resin Technol. 2018, 47, 173-179. [CrossRef]  
+282: 18. Ma, J.J.; Wang, K.; Zhan, M.S. A comparative study of structure and electromagnetic interference shielding performance for silver nanostructure hybrid polyimide foams. RSC Adv. 2015, 5, 65283-65296. [CrossRef]  
+283: 19. Pan, L.Y.; Zhan, M.S.; Wang, K. High-Temperature-Resistant Polyimide/Montmorillonite Nanocomposite Foams by Solid Blending. Polym. Eng. Sci. 2011, 51, 1397-1403. [CrossRef]  
+284: 20. Yan, L.; Fu, L.W.; Chen, Y.J.; Tian, H.F.; Xiang, A.M.; Rajulu, A.V. Improved thermal stability and flame resistance of flexible polyimide foams by vermiculite reinforcement. J. Appl. Polym. Sci. 2017, 134. [CrossRef]  
+285: 21. Xu, L.; Jiang, S.; Li, B.; Hou, W.; Li, G.; Memon, M.A.; Huang, Y.; Geng, J. Graphene Oxide: A Versatile Agent for Polyimide Foams with Improved Foaming Capability and Enhanced Flexibility. ACS Chem. Mater. 2015, 27, 4358-4367. [CrossRef]  
+286: 22. Qi, K.L.; Zhang, G.C. Effect of Organoclay on the Morphology, Mechanical, and Thermal Properties of Polyimide/Organoclay Nanocomposite Foams. Polym. Compos. 2014, 35, 2311-2317. [CrossRef]  
+287: 23. Chu, H.J.; Zhu, B.K.; Xu, Y.Y. Polyimide foams with ultralow dielectric constants. J. Appl. Polym. Sci. 2006, 102, 1734-1740. [CrossRef]  
+288: 24. Chu, H.J.; Zhu, B.K.; Xu, Y.Y. Preparation and dielectric properties of polyimide foams containing crosslinked structures. Polym. Adv. Technol. 2006, 17, 366-371. [CrossRef]  
+289: 25. Ou, A.; Huang, Z.; Qin, R.; Chen, X.; Li, Y.; Liu, Y.; Liu, X.; Wang, X. Preparation of Thermosetting/Thermoplastic Polyimide Foam with Pleated Cellular Structure via In Situ Simultaneous Orthogonal Polymerization. ACS Appl. Polym. Mater. 2019, 1, 2430-2440. [CrossRef]  
+290: 26. Wang, L.L.; Hu, A.J.; Fan, L.; Yang, S.Y. Structures and properties of closed-cell polyimide rigid foams. J. Appl. Polym. Sci. 2013, 130, 3282-3291. [CrossRef]  
+291: 27. Wang, L.L.; Hu, A.J.; Fan, L.; Yang, S.Y. Approach to produce rigid closed-cell polyimide foams. High Perform. Polym. 2013, 25, 956-965. [CrossRef]  
+292: 28. Li, J.; Yu, N.; Ding, Y.; Xu, T.; Zhang, G.; Jing, Z.; Shi, X. Fabrication of rigid polyimide foams with overall enhancement of thermal and mechanical properties. J. Cell. Plast. 2020, 57, 717-731. [CrossRef]  
+293: 29. Li, J.; Yu, N.; Jing, Z.; He, X.; Shi, X.; Zhang, G. Fabrication of rigid polyimide foams via thermal foaming of nadimide-end-capped polyester-amine precursor. Polym. Bull. 2020, 77, 5899-5912. [CrossRef]  
+294: 30. Wang, X.; Ou, P.A. Polyimide Foam and Preparation Method and Application Thereof. CN Patent 109880096 A, 21 April 2019.  
+295: 31. Li, J.W.; Zhang, G.C.; Yao, Y.; Jing, Z.X.; Zhou, L.S.; Ma, Z.L. Synthesis and properties of polyimide foams containing benzimidazole units. RSC Adv. 2016, 6, 60094-60100. [CrossRef]
+296: 
+297: 32. Liu, J.N.; Wu, D.Y.; Liang, W.H.; Cao, J.H. Effect of DAPBO segment on the structure and performance enhancement of powder foamed BTDA-ODA polyimide. J. Appl. Polym. Sci. 2021, 138, 49911. [CrossRef]  
+298: 33. Dong, J.; Yin, C.; Zhang, Z.; Wang, X.; Li, H.; Zhang, Q. Hydrogen-bonding interactions and molecular packing in polyimide fibers containing benzimidazole units. Macromol. Mater. Eng. 2014, 299, 1170-1179. [CrossRef]  
+299: 34. Ahn, T.-K.; Kim, M.; Choe, S. Hydrogen-bonding strength in the blends of polybenzimidazole with BTDA-and DSDA-based polyimides. Macromolecules 1997, 30, 3369-3374. [CrossRef]  
+300: 35. Dynes, P.; Panos, R.; Hamermesh, C. Investigation of the crosslinking efficiency of some additional curing polyimides. J. Appl. Polym. Sci. 1980, 25, 1059-1070. [CrossRef]  
+301: 36. Wilson, D. PMR—15 processing, properties and problems—A review. Br. Polym. J. 1988, 20, 405–416. [CrossRef]  
+302: 37. Luo, L.; Yao, J.; Wang, X.; Li, K.; Huang, J.; Li, B.; Wang, H.; Liu, X. The evolution of macromolecular packing and sudden crystallization in rigid-rod polyimide via effect of multiple H-bonding on charge transfer (CT) interactions. Polymer 2014, 55, 4258–4269. [CrossRef]  
+303: 38. Williams, M.K.; Weiser, E.S.; Fesmire, J.E.; Grimsley, B.W.; Smith, T.M.; Brenner, J.R.; Nelson, G.L. Effects of cell structure and density on the properties of high performance polyimide foams. Polym. Adv. Technol. 2005, 16, 167-174. [CrossRef]  
+304: 39. Swellam, M.; Yi, S.; Ahmad, M.F.; Huber, L.M. Mechanical properties of cellular materials. I. Linear analysis of hexagonal honeycombs. J. Appl. Polym. Sci. 1997, 63, 383-393. [CrossRef]

@@ -1,0 +1,35 @@
+source_file: One-Pot Synthesis of Amide-Functional Main-Chain Polybenzoxazine Precursors.md
+doc_id: a844b67c83cd6c3ff13c52c6161206a4
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [39, 59]
+char_span: [7194, 10795]
+line_count: 19
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+39: # 2. Materials and Methods
+40: 
+41: # 2.1. Characterization
+42: 
+43: ${}^{1}\mathrm{H}$  NMR spectra were recorded using an Agilent VNMRS 500 MHz (Santa Clara, CA, USA), and chemical shifts were recorded in ppm using tetramethylsilane as an internal standard. FTIR spectra were recorded on a PerkinElmer FTIR Spectrum One spectrometer (MA, USA). Differential scanning calorimetry (DSC) was performed on PerkinElmer Diamond DSC (MA, USA) from 20 to  $320^{\circ}\mathrm{C}$  with a heating rate of  $10^{\circ}\mathrm{C}\mathrm{min}^{-1}$  under nitrogen flow. Thermal gravimetric analysis (TGA) was performed on PerkinElmer Diamond TA/TGA with a heating rate of  $10^{\circ}\mathrm{C}\mathrm{min}^{-1}$  under nitrogen flow.
+44: 
+45: Molecular weights were determined by gel permeation chromatography (GPC). The measurements were performed on a TOSOH EcoSEC GPC system (MA, USA) equipped with an autosampler system, a temperature-controlled pump, a column oven, a refractive index (RI) detector, a purge and degasser unit, and a TSKgel SuperHZ2000,  $4.6\mathrm{mm}$  i.d.  $\times 15\mathrm{cm} \times 2\mathrm{cm}$  column. Tetrahydrofuran was used as an eluent at a flow rate of  $1.0\mathrm{mL}\mathrm{min}^{-1}$  at  $40^{\circ}\mathrm{C}$ . The refractive index detector was calibrated with polystyrene standards which had narrow molecular weight distributions. Data were analyzed using EcoSEC analysis software.
+46: 
+47: # 2.2. Materials
+48: 
+49: 3,4-Dihydrocoumarine (DHC) (Alfa Aesar,  $99\%$ , Tewksbury, MA, USA), o,o'-bis(2-aminopropyl) polypropylene glycol-block-polyethylene glycol-block-polypropylene glycol (Sigma-Aldrich, Jeffamine® ED-900, St. Louis, MO, USA), paraformaldehyde (Aldrich, 95.0–100.5%, St. Louis, MO, USA), acetonitrile (ACN, Merck,  $99.9\%$ , Kenilworth, NJ, U.S.), ethanol (EtOH, Aldrich,  $\geq 99.5\%$ ), methanol (MeOH, Sigma-Aldrich,  $\geq 99.8\%$ ), diethyl ether (DEE, VWR Chemicals,  $\geq 99.5\%$ , West Chester, PA, USA), toluene (Carlo Erba,  $99.5\%$ , Barcelona, Spain), and acetone (Carlo Erba,  $>99.8\%$ , Barcelona, Spain) were used as received.
+50: 
+51: # 2.3. Synthesis of the Main-Chain Polybenzoxazine Precursors
+52: 
+53: A representative procedure is as follows: A mixture of 3,4-dihydrocoumarine (0.772 g, 0.003 mol), bisamine (Jeffamine ED-900) (6 g, 0.003 mol), was placed in a 250 mL round-bottom flask containing 60 mL of toluene and 30 mL of ethanol or acetonitrile. This mixture was refluxed for 24 h. Then, paraformaldehyde (0.360 g, 0.012 mol) was added to the reaction mixture and refluxed for a further 12 h. Thereafter, the contents of the flask were concentrated using a rotary evaporator. The remaining solution was added into cold methanol (200 mL) dropwise, and kept in a refrigerator for 24 h. The solvent was decanted and the polymer washed with cold methanol. Finally, the polymer was dried at ambient temperature in a vacuum chamber for 24 h to obtain a transparent orange-colored oily polymer. Typically, conversions were between 60% and 80% depending on the diamine.
+54: 
+55: # 2.4. Film Preparation
+56: 
+57: To obtain polybenzoxazine film,  $1\mathrm{g}$  of main-chain polybenzoxazine precursor was dissolved in  $10~\mathrm{mL}$  of acetone and charged into a Teflon mold. The solvent was evaporated at room temperature for 3 days. Then, the film was subjected to a heat treatment at  $120^{\circ}\mathrm{C}$  for  $10\mathrm{min}$  in an ordinary oven for the removal of solvent residues, and then gradually heated up to  $180^{\circ}\mathrm{C}$  and cured for  $0.5\mathrm{h}$ . After curing, a dark-orange, transparent, and flexible crosslinked film with a smooth surface was obtained.

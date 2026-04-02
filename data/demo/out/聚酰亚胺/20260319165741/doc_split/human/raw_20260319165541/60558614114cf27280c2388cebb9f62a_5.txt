@@ -1,0 +1,53 @@
+source_file: Direct Ink Writing of Phenylethynyl End-Capped OligoimideSiO2 to Additively Manufacture High-Performance Therm.md
+doc_id: 60558614114cf27280c2388cebb9f62a
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [232, 268]
+char_span: [37009, 44215]
+line_count: 37
+effective_body_non_empty_lines: 34
+
+lines:
+--- chunk (b0006: References) ---
+232: # References
+233: 
+234: 1. Hou, Q.; Grijpma, D.W.; Feijen, J. Porous polymeric structures for tissue engineering prepared by a coagulation, compression moulding and salt leaching technique. Biomaterials 2003, 24, 1937-1947. [CrossRef]  
+235: 2. Jiang, S.; Reich, S.; Uch, B.; Hu, P.; Agarwal, S.; Greiner, A. Exploration of the Electrical Conductivity of Double-Network Silver Nanowires/Polyimide Porous Low-Density Compressible Sponges. ACS Appl. Mater. Interfaces 2017, 9, 34286-34293. [CrossRef] [PubMed]  
+236: 3. Meador, M.A.; Wright, S.; Sandberg, A.; Nguyen, B.N.; Van Keuls, F.W.; Mueller, C.H.; Rodriguez-Solis, R.; Miranda, F.A. Low dielectric polyimide aerogels as substrates for lightweight patch antennas. ACS Appl. Mater. Interfaces 2012, 4, 6346-6353. [CrossRef]  
+237: 4. Nguyen, T.; Wang, X. Multifunctional composite membrane based on a highly porous polyimide matrix for direct methanol fuel cells. J. Power Sources 2010, 195, 1024-1030. [CrossRef]  
+238: 5. Patel, Y.S.; Patel, H.S. Thermoplastic-thermosetting merged polyimides via furan-maleimide Diels-Alder polymerization. Arab. J. Chem. 2017, 10, S1373-S1380. [CrossRef]  
+239: 6. Yoo, T.; Kim, K.; Han, P.; Jang, W.; Han, H. Norbornene end-capped polyimide for low CTE and low residual stress with changes in the diamine linkages. Macromol. Res. 2015, 23, 776-786. [CrossRef]  
+240: 7. Mushtaq, N.; Chen, G.; Sidra, L.R.; Liu, Y.; Fang, X. Synthesis and crosslinking study of isomeric poly(thioether ether imide)s containing pendant nitrile and terminal phthalonitrile groups. Polym. Chem. 2016, 7, 7427-7435. [CrossRef]  
+241: 8. Luo, Y.; Sun, J.; Wang, J.; Jin, K.; He, F.; Fang, Q. A Novel Thermo-Polymerizable Aromatic Diamine: Synthesis and Application in Enhancement of the Properties of Conventional Polyimides. Macromol. Chem. Phys. 2016, 217, 856-862. [CrossRef]  
+242: 9. Yu, P.; Wang, Y.; Yu, J.; Zhu, J.; Hu, Z. Influence of different ratios of a-ODPA/a-BPDA on the properties of phenylethynyl terminated polyimide. J. Polym. Res. 2018, 25, 110. [CrossRef]  
+243: 10. Bershtein, V.A.; Sukhanova, T.E.; Krizan, T.D.; Keating, M.Y.; Grigoriev, A.I.; Egorov, V.M.; Yakushev, P.N.; Peschanskaya, N.N.; Vylegzhanova, M.E.; Bursian, A.E. Relationship of Processing Conditions to Structure and Properties in PMDA-ODA Polyimide. J. Macromol. Sci. Part B Phys. 2006, 44, 613-639. [CrossRef]  
+244: 11. Gladman, A.S.; Matsumoto, E.A.; Nuzzo, R.G.; Mahadevan, L.; Lewis, J.A. Biomimetic 4D printing. Nat. Mater. 2016, 15, 413-418. [CrossRef] [PubMed]  
+245: 12. Jiang, P.; Yan, C.; Guo, Y.; Zhang, X.; Cai, M.; Jia, X.; Wang, X.; Zhou, F. Direct ink writing with high-strength and swelling-resistant biocompatible physically crosslinked hydrogels. Biomater. Sci. 2019, 7, 1805-1814. [CrossRef] [PubMed]  
+246: 13. Leigh, S.J.; Bradley, R.J.; Purssell, C.P.; Billson, D.R.; Hutchins, D.A. A simple, low-cost conductive composite material for 3D printing of electronic sensors. PLoS ONE 2012, 7, e49365.  
+247: 14. Muth, J.T.; Vogt, D.M.; Truby, R.L.; Menguc, Y.; Kolesky, D.B.; Wood, R.J.; Lewis, J.A. Embedded 3D printing of strain sensors within highly stretchable elastomers. Adv. Mater. 2014, 26, 6307-6312. [CrossRef]  
+248: 15. Zarek, M.; Layani, M.; Cooperstein, I.; Sachyani, E.; Cohn, D.; Magdassi, S. 3D Printing of Shape Memory Polymers for Flexible Electronic Devices. Adv. Mater. 2016, 28, 4449-4454. [CrossRef] [PubMed]  
+249: 16. Li, V.C.; Dunn, C.K.; Zhang, Z.; Deng, Y.; Qi, H.J. Direct Ink Write (DIW) 3D Printed Cellulose Nanocrystal Aerogel Structures. Sci. Rep. 2017, 7, 8018. [CrossRef]  
+250: 17. Carneiro, O.S.; Silva, A.F.; Gomes, R. Fused deposition modeling with polypropylene. Mater. Des. 2015, 83, 768-776. [CrossRef]  
+251: 18. Chen, Z.; Yang, M.; Ji, M.; Kuang, X.; Qi, H.J.; Wang, T. Recyclable thermosetting polymers for digital light processing 3D printing. Mater. Des. 2021, 197, 109189. [CrossRef]  
+252: 19. Yang, K.; Grant, J.C.; Lamey, P.; Joshi-Imre, A.; Lund, B.R.; Smaldone, R.A.; Voit, W. Diels-Alder Reversible Thermoset 3D Printing: Isotropic Thermoset Polymers via Fused Filament Fabrication. Adv. Funct. Mater. 2017, 27, 1700318. [CrossRef]  
+253: 20. Tan, H.W.; Saengchairat, N.; Goh, G.L.; An, J.; Chua, C.K.; Tran, T. Induction Sintering of Silver Nanoparticle Inks on Polyimide Substrates. Adv. Mater. Technol. 2019, 5, 1900897. [CrossRef]  
+254: 21. Stepashkin, A.A.; Chukov, D.I.; Senatov, F.S.; Salimon, A.I.; Korsunsky, A.M.; Kaloshkin, S.D. 3D-printed PEEK-carbon fiber (CF) composites: Structure and thermal properties. Compos. Sci. Technol. 2018, 164, 319-326. [CrossRef]  
+255: 22. Ozbolat, V.; Dey, M.; Ayan, B.; Povilianskas, A.; Demirel, M.C.; Ozbolat, I.T. 3D Printing of PDMS Improves Its Mechanical and Cell Adhesion Properties. ACS Biomater. Sci. Eng. 2018, 4, 682-693. [CrossRef] [PubMed]  
+256: 23. Shi, Q.; Yu, K.; Kuang, X.; Mu, X.; Dunn, C.K.; Dunn, M.L.; Wang, T.; Jerry Qi, H. Recyclable 3D printing of vitrimer epoxy. Mater. Horiz. 2017, 4, 598-607. [CrossRef]  
+257: 24. Chandrasekaran, S.; Duoss, E.B.; Worsley, M.A.; Lewicki, J.P. 3D printing of high performance cyanate ester thermoset polymers. J. Mater. Chem. A 2018, 6, 853-858. [CrossRef]  
+258: 25. Chen, H.; Wang, X.; Xue, F.; Huang, Y.; Zhou, K.; Zhang, D. 3D printing of SiC ceramic: Direct ink writing with a solution of preceramic polymers. J. Eur. Ceram. Soc. 2018, 38, 5294-5300. [CrossRef]  
+259: 26. Zhao, Z.; Zhou, G.; Yang, Z.; Cao, X.; Jia, D.; Zhou, Y. Direct ink writing of continuous  $\mathrm{SiO}_2$  fiber reinforced wave-transparent ceramics. J. Adv. Ceram. 2020, 9, 403-412. [CrossRef]  
+260: 27. Hegde, M.; Meenakshisundaram, V.; Chartrain, N.; Sekhar, S.; Tafti, D.; Williams, C.B.; Long, T.E. 3D Printing All-Aromatic Polyimides using Mask-Projection Stereolithography: Processing the Nonprocessable. Adv. Mater. 2017, 29, 1701240. [CrossRef]  
+261: 28. Lau, D.A.; Herzberger, J.; Long, T.E.; Williams, C.B. Ultraviolet-Assisted Direct Ink Write to Additively Manufacture All-Aromatic Polyimides. ACS Appl. Mater. Interfaces 2018, 10, 34828-34833. [CrossRef]
+262: 
+263: 29. Guo, Y.; Ji, Z.; Zhang, Y.; Wang, X.; Zhou, F. Solvent-free and photocurable polyimide inks for 3D printing. J. Mater. Chem. A 2017, 5, 16307-16314. [CrossRef]  
+264: 30. Li, X.; Yang, Y.; Zhang, Y.; Wang, T.; Yang, Z.; Wang, Q.; Zhang, X. Dual-method molding of 4D shape memory polyimide ink. Mater. Des. 2020, 191, 108606. [CrossRef]  
+265: 31. Xu, W.; Ding, Y.; Huang, R.; Zhu, Z.; Fong, H.; Hou, H. High-performance polyimide nanofibers reinforced polyimide nanocomposite films fabricated by co-electrospinning followed by hot-pressing. Appl. Polym. Sci. 2018, 135, 46869. [CrossRef]  
+266: 32. Gong, C.; Luo, Q.; Li, Y.; Giotto, M.; Cipollini, N.E.; Yang, Z.; Weiss, R.A.; Scola, D.A. Free radical initiated low temperature crosslinking of phenylethynyl (PE) end-capped oligomides. J. Polym. Sci. Part. A Polym. Chem. 2010, 48, 3950-3963. [CrossRef]  
+267: 33. Abbott, A.; Gibson, T.; Tandon, G.P.; Hu, L.; Avakian, R.; Baur, J.; Koerner, H. Melt extrusion and additive manufacturing of a thermosetting polyimide. Addit. Manuf. 2021, 37, 101636. [CrossRef]  
+268: 34. Herzberger, J.; Meenakshisundaram, V.; Williams, C.B.; Long, T.E. 3D Printing All-Aromatic Polyimides Using Stereolithographic 3D Printing of Polyamic Acid Salts. ACS Macro Lett. 2018, 7, 493-497. [CrossRef]

@@ -1,0 +1,21 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 2
+block_id: b0003
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Experimental
+line_span: [31, 37]
+char_span: [6893, 7768]
+line_count: 5
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0003: Experimental) ---
+31: # Experimental
+32: 
+33: # Materials
+34: 
+35: MWCNTs were synthesized using toluene as a carbon source and ferrocene as catalyst precursor on a CVD set-up established in the laboratory [10]. The MWCNTs produced inside the reactor  $40 - 70\mathrm{nm}$  in diameter and  $50 - 100~{\mu\mathrm{m}}$  long. These were  $90\%$  pure with  $<  10$  wt.% of catalyst Fe. Polyamic acid (ABRON-S 10) based on pyromellitic dianhydride (PMDA) and 4,4-oxydianiline (ODA) was procured from M/s ABR organics Ltd., India (Fig. 1). It was obtained as a  $10\%$  solution in DMAc  $(N,N$  dimethylacetamide), with a solid content of  $10 - 12\%$  .It is a precursor form of polyimide (PI) polymer and was kept at  $0^{\circ}\mathrm{C}$  during this work. Octadecylamine  $\left(\mathrm{C}_{18}\mathrm{H}_{39}\mathrm{N}\right)$  AR grade was supplied by M/s Across Organics Co., USA with a purity of  $90\%$

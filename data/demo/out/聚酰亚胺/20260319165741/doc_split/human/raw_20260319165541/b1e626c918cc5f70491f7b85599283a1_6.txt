@@ -1,0 +1,72 @@
+source_file: Physical and Gas Transport Properties of Asymmetric Hyperbranched Polyimide-Silica Hybrid Membranes.md
+doc_id: b1e626c918cc5f70491f7b85599283a1
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: REFERENCES
+line_span: [230, 285]
+char_span: [41406, 50772]
+line_count: 56
+effective_body_non_empty_lines: 48
+
+lines:
+--- chunk (b0007: REFERENCES) ---
+230: # REFERENCES
+231: 
+232: [1] Kim TH, Koros WJ, Husk GR, O'Brien KC. Relationship between Gas Separation Properties and Chemical Structure in a Series of Aromatic Polyimides. J Membr Sci 1988; 37: 45-62. http://dx.doi.org/10.1016/S0376-7388(00)85068-1  
+233: [2] Stern SA, Mi Y, Yamamoto H. Structure/Permeability Relationships of Polyimide Membranes. Applications to the Separation of Gas Mixtures. J Polym Sci Part B: Polym Phys 1989; 27: 1887-909. http://dx.doi.org/10.1002/polb.1989.090270908  
+234: [3] Okamoto K, Tanaka K, Kita H, Ishida M, Kakimoto M, Imai Y. Gas Permeability and Permselectivity of Polyimides Prepared from 4,4'-Diaminotriphenylamine. Polym J 1992; 24: 451-7. http://dx.doi.org/10.1295/polymj.24.451  
+235: [4] Li Y, Wang X, Ding M, Xu J. Effects of Molecular Structure on the Permeability and Permselectivity of Aromatic Polyimides. J Appl Polym Sci 1996; 61: 741-8. http://dx.doi.org/10.1002/(SICI)1097-4628(19960801)61:5<741::AID-APP4>3.0.CO:2-O  
+236: [5] Hasegawa M, Sensui N, Shindo Y, Yokota R. Structure and Properties of Novel Asymmetric Biphenyl Type Polyimides. Homo- and Copolymers and Blends. Macromolecules 1999; 32: 387-96. http://dx.doi.org/10.1021/ma9808629  
+237: [6] Hergenrother PM, Watson KA, Smith JG, Connell JW, Yokota R. Polyimides from 2,3,3',4'-Biphenyltetracarboxylic Dianhydride and Aromatic Diamines. Polymer 2002; 43: 5077-93. http://dx.doi.org/10.1016/S0032-3861(02)00362-2  
+238: [7] Li Q, Fang X, Wang Z, Gao L, Ding M. Polyimides from Isomeric Oxydiphthalic Anhydrides. J Polym Sci Part A: Polym Chem 2003; 41: 3249-60. http://dx.doi.org/10.1002/pola.10918  
+239: [8] Sasaki T, Moriuchi H, Yano S, Yokota R. High Thermal Stable Thermoplastic-Thermosetting Polyimide Film by use of Asymmetric Dianhydride (a-BPDA). Polymer 2005; 46: 6968-75. http://dx.doi.org/10.1016/j.polymer.2005.06.052  
+240: [9] Kim YH. Hyperbranched Polymers 10 Years After. J Polym Sci Part A Polym Chem 1998; 36: 1685-98. http://dx.doi.org/10.1002/(SICI)1099-0518(199808)36:11<1685::AID-POLA1>3.0.CO;2-R  
+241: [10] Gao C, Yan D. Hyperbranched Polymers: from Synthesis to Applications. Prog Polym Sci 2004; 29: 183-275. http://dx.doi.org/10.1016/j.progpolymsci.2003.12.002  
+242: [11] Jikei M, Kakimoto M. Dendritic Aromatic Polyamides and Polyimides. J Polym Sci Part A Polym Chem 2004; 42: 1293-309. http://dx.doi.org/10.1002/pola.20018
+243: 
+244: [12] Fang J, Kita H, Okamoto K. Hyperbranched Polyimides for Gas Separation Applications. 1. Synthesis and Characterization. Macromolecules 2000; 33: 4639-46. http://dx.doi.org/10.1021/ma9921293  
+245: [13] Fang J, Kita H, Okamoto K. Gas Permeation Properties of Hyperbranched Polyimide Membranes. J Membr Sci 2001; 182: 245-56. http://dx.doi.org/10.1016/S0376-7388(00)00571-8  
+246: [14] Suzuki T, Yamada Y. Synthesis and Gas Transport Properties of Novel Hyperbranched Polyimide-Silica Hybrid Membranes. J Appl Polym Sci 2013; 127: 316-22. http://dx.doi.org/10.1002/app.37893  
+247: [15] Kickelbick G, Eds. Hybrid Materials. Weinheim: Wiley-VCH Verlag GmbH & Co. KgaA 2007.  
+248: [16] Zou H, Wu S, Shen J. Polymer/Silica Nanocomposites: Preparation, Characterization, Properties, and Applications. Chem Rev 2008; 108: 3893-957. http://dx.doi.org/10.1021/cr068035q  
+249: [17] Cornelius CJ, Marand E. Hybrid Silica-Polyimide Composite Membranes: Gas Transport Properties. J Membr Sci 2002; 202: 97-118. http://dx.doi.org/10.1016/S0376-7388(01)00734-7  
+250: [18] Ragosta G, Musto P. Polyimide/silica hybrids via the sol-gel route: High performance materials for the new technological challenges. eXPRESS Polym Lett 2009; 3(7): 413-28. http://dx.doi.org/10.3144/expresspolymlett.2009.51  
+251: [19] Romero AI, Parentis ML, Habert AC, Gonzo EE. Synthesis of Polyetherimide/Silica Hybrid Membranes by the Sol-gel Process: Influence of the Reaction Conditions on the Membrane Properties. J Mater Sci 2011; 46: 4701-9. http://dx.doi.org/10.1007/s10853-011-5380-4  
+252: [20] Suzuki T, Yamada Y. Characterization of 6FDA-based Hyperbranched and Linear Polyimide-Silica Hybrid Membranes by Gas Permeation and  $^{129}\mathrm{XeNMR}$  Measurements. J Polym Sci Part B Polym Phys 2006; 44: 291-8. http://dx.doi.org/10.1002/polb.20692  
+253: [21] Suzuki T, Yamada Y, Sakai J. Gas Transport Properties of ODPA-TAPOB Hyperbranched Polyimide-Silica Hybrid Membranes. High Perform Polym 2006; 18: 655-64. http://dx.doi.org/10.1177/0954008306068228  
+254: [22] Suzuki T, Yamada Y. Effect of End Group Modification on Gas Transport Properties of 6FDA-TAPOB Hyperbranched Polyimide-Silica Hybrid Membranes. High Perform Polym 2007; 19: 553-64. http://dx.doi.org/10.1177/0954008307081197  
+255: [23] Suzuki T, Yamada Y. Physical and Gas Transport Properties of Novel Hyperbranched Polyimide-Silica Hybrid Membranes. Polymer Bulletin 2005; 53: 139-46. http://dx.doi.org/10.1007/s00289-004-0322-9  
+256: [24] Suzuki T, Yamada Y, Itahashi K. 6FDA-TAPOB Hyperbranched Polyimide-Silica Hybrids for Gas Separation Membranes. J Appl Polym Sci 2008; 109: 813-19. http://dx.doi.org/10.1002/app.28145  
+257: [25] Miki M, Suzuki T, Yamada Y. Structure-Property Relationships of Hyperbranched Polyimide-silica Hybrid Membranes with Different Degree of modification. J Appl Polym Sci 2013; 130: 54-62. http://dx.doi.org/10.1002/app.39011  
+258: [26] Miki M, Yamada Y. Structure-Gas Transport Property Relationships of Hyperbranched Polyimide-silica Hybrid Membranes. J Photopolym Technol 2013; 261(3): 319-26. http://dx.doi.org/10.2494/photopolymer.26.319  
+259: [27] Takeichi T, Stille JK. Star and Linear Imide Oligomers Containing Reactive End Caps: Preparation and Thermal Properties. Macromolecules 1986; 19: 2093-102. http://dx.doi.org/10.1021/ma00162a001  
+260: [28] Van Krevelen DW. Properties of Polymers. 3rd ed. Amsterdam: Elsevier 1990; p. 71-107.
+261: 
+262: [29] Prabhakar RS, Freeman BD, Roman I. Gas and Vapor Sorption and Permeation in Poly(2,2,4-trifluoro-5-trifluoromethoxy-1,3-dioxole-co-tetrafluoroethylene). Macromolecules 2004; 37: 7688-97. http://dx.doi.org/10.1021/ma048909f  
+263: [30] Muruganandam N, Koros WJ, Paul DR. Gas Sorption and Transport in Substituted Polycarbonates. J Polym Sci Part B Polym Phys 1987; 25: 1999-2026. http://dx.doi.org/10.1002/polb.1987.090250917  
+264: [31] Morisato A, Shen HC, Sankar SS, Freeman BD, Pinnau I, Casillas CG. Polymer Characterization and Gas Permeability of Poly(1-trimethylsilyl-1-propyne) [PTMSP], Poly(1-phenyl-1-propyne) [PPP], and PTMSP/PPP Blends. J Polym Sci Part B Polym Phys 1996; 34: 2209-22. http://dx.doi.org/10.1002/(SICI)1099-0488(19960930)34:13<2209::AID-POLB10>3.0.CO;2-9  
+265: [32] Weinkauf DH, Kim HD, Paul DR. Gas Transport Properties of Liquid Crystalline Poly (p-phenyleneterephthalamide). Macromolecules 1992; 25: 788-96. http://dx.doi.org/10.1021/ma00028a044  
+266: [33] Chen H, Yin J. Synthesis and Characterization of Hyperbranched Polyimides with Good Organosolubility and Thermal Properties Based on a New Triamine and Conventional Dianhydrides. J Polym Sci Part A Polym Chem 2002; 40: 3804-14. http://dx.doi.org/10.1002/pola.10475  
+267: [34] Hibshman C, Cornelius CJ, Marand E. The Gas Separation Effects of Annealing Polyimide-Organosilicate Hybrid Membranes. J Membr Sci 2003; 211: 25-40. http://dx.doi.org/10.1016/S0376-7388(02)00306-X  
+268: [35] Tomokiyo N, Yamada Y, Suzuki T, Oku. Preparation and Characterization of Hyperbranched Polyimide-Colloidal Silica Hybrids. J Polym Prep Japan 2006; 55: 5175-76.  
+269: [36] Park JY, Paul DR. Correlation and Prediction of Gas Permeability in Glassy Polymer Membrane Materials via a Modified Free Volume Based Group Contribution Method. J Membr Sci 1997; 125: 23-39. http://dx.doi.org/10.1016/S0376-7388(96)00061-0
+270: 
+271: [37] Thran A, Kroll G, Faupel F. Correlation Between Fractional Free Volume and Diffusivity of Gas Molecules in Glassy Polymers. J Polym Sci Part B Polym Phys 1999; 37: 3344-58. http://dx.doi.org/10.1002/(SICI)1099-0488(19991201)37:23<3344::AID-POLB10>3.0.CO;2-A  
+272: [38] Suzuki T, Yamada Y, Tsujita Y. Gas Transport Properties of 6FDA-TAPOB Hyperbranched Polyimide Membrane. Polymer 2004; 45: 7167-71. http://dx.doi.org/10.1016/j.polymer.2004.08.025  
+273: [39] Merkel TC, Freeman BD, Spontak RJ, He Z, Pinnau I, Meakin P, Hill AJ. Ultrapermeable, Reverse-Selective Nanocomposite Membranes. Science 2002; 296: 519-22. http://dx.doi.org/10.1126/science.1069580  
+274: [40] Merkel TC, Toy LG, Andrady AL, Gracz H, Stejskal EO. Investigation of Enhanced Free Volume in Nanosilica-Filled Poly(1-trimethylsilyl-1-propyne) by  $^{129}\mathrm{Xe}$  NMR Spectroscopy. Macromolecules 2003; 36: 353-8. http://dx.doi.org/10.1021/ma0256690  
+275: [41] Andrady AL, Merkel TC, Toy LG. Effect of Particle Size on Gas Permeability of Filled Superglassy Polymers. Macromolecules 2004; 37: 4329-31. http://dx.doi.org/10.1021/ma049510u  
+276: [42] Dougnac VN, Peoples BC, Quijada R. The Effect of Nanospheres on the Permeability of PA6/SiO $_2$  Nanocomposites. Polym Int 2011; 60: 1600-06. http://dx.doi.org/10.1002/pi.3125  
+277: [43] Freeman BD. Basis of Permeability/Selectivity Tradeoff Relations in Polymeric Gas Separation Membranes. Macromolecules 1999; 32: 375-80. http://dx.doi.org/10.1021/ma9814548  
+278: [44] Robeson LM. Correlation of Separation Factor versus Permeability for Polymeric Membranes. J. Membr. Sci. 1991; 62: 165-85. http://dx.doi.org/10.1016/0376-7388(91)80060-J  
+279: [45] Robeson LM. The Upper Bound Revisited. J. Membr. Sci. 2008; 320: 390-400. http://dx.doi.org/10.1016/j.memsci.2008.04.030
+280: 
+281: Received on 07-08-2013
+282: 
+283: Accepted on 13-11-2013
+284: 
+285: Published on 30-11-2013

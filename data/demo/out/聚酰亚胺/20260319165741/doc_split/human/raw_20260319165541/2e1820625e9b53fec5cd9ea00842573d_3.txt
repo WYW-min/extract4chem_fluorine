@@ -1,0 +1,29 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 3
+block_id: b0004
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: INTRODUCTION
+line_span: [32, 46]
+char_span: [4223, 8668]
+line_count: 13
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0004: INTRODUCTION) ---
+32: # INTRODUCTION
+33: 
+34: Aromatic polyimides (PIs) have been well recognized as a high-performance polymer due to their outstanding heat resistance, mechanical performance, good chemical resistance and excellent electrical properties. These materials have been widely used in the aerospace and electronics industries (Hyde & Smith 1995; Liaw et al. 2012). In most industrial applications, PI is typically used in the form of films. Depending on the application, optical transparency of PI films is of special importance, such as substrates in image display devices, flexible organic photovoltaics, orientation films and optical fibres (Hasegawa, Fujii & Wada 2018; Tapaswi & Ha 2019). However, most PIs film have a strong UV-visible absorption because of their intense yellow or brown colour, arises from the highly conjugated aromatic structures and charge-transfer (CT) interactions (Ando, Matsuura & Sasaki 1997; Hasegawa & Horie 2001). It is also important to note that, while aromatic PIs have been used in several commercial applications, most PIs are insoluble due to the rigid chain structure which lead to serious film processing difficulties and limits their use in some applications (Sadavarte et al. 2009).
+35: 
+36: Hence, great efforts have been expanded to develop advanced PI material with both good solubility and transparency while retaining their thermal stability and other excellent properties (Amutha, Tharakan & Sarojadevi 2015; Ghosh, Mistri & Banerjee 2015; Thiruvasagam et al. 2016; Wu, Li & Liu 2012). According to St Clair, St Clair and Shekret (1984), the presence of bulky electron-withdrawing group in the polymer backbone could lighten the colour of polymer films and enhance their processability. Recently, considerable attention has been devoted to the synthesis of fluorine containing polymers. Incorporation of the bulky fluorine groups serves to increase the free volume of the polymers, thereby improving properties like solubility and optical transparency (Deng et al. 2018; Liaw, Huang & Chen 2006; Qu et al. 2001). Therefore, in this study,  $4,4^{\prime}$  -(hexafluoroisopropylidene) diphthalic anhydride (6FDA) is used to obtain highly soluble PI to assure its processability for further used in films development.
+37: 
+38: In general, most insoluble aromatic PIs have been prepared as thin films through thermal imidization of polyamic acids (PAA) up to  $300 - 350^{\circ}\mathrm{C}$  (Hsiao & Chen 2002; Li & Hsu 2007). However, during this process, a controlled heating treatment is required, as rapid heating will lead to the formation of bubbles in the cast PAA layer, subsequently result in the failure of film production (Tan et al. 2017). In contrast, the formation of films from
+39: 
+40: organo-soluble PI could be performed at much lower temperatures, making it a more energy efficient process as it practically employs solvent evaporation technique (Alvino & Edelman 1978; Deng et al. 2018; Hasegawa, Fujii & Wada 2018). Since our goal is to produce organosoluble PI, the second route is preferable.
+41: 
+42: Many previous studies concerning PIs film formation have focused on the diamine and dianhydride based monomers. However, little attention has been given to the other alternative monomers such as diisocyanate and dianhydride. This might be due to the fact that the aromatic PI obtained through these monomers is often in the form of powder, which may be insoluble, rendering a challenging film processing. Nevertheless, in comparison to diisocyanate, obtaining the organosoluble PI powder from diamine requires a much more complicated process involving additional chemical reagents (Takekoshi 1996).
+43: 
+44: Therefore, the monomers used in PI synthesis should be carefully chosen for specific application requirements since it could affect the properties of the produced films. Due to the lack of research on the approaches for producing polyimide-based diisocyanate films, the present works aimed to evaluate the critical parameters for developing PI films involving 4,4'-methylene diphenyl diisocyanate (MDI) and 6FDA powder. The film fabrication optimization process for PI derived from these monomers has not yet been reported. In addition, the diversity of monomer combinations makes it impractical to have one universal film-forming process attributed to their different processability properties. The optical, mechanical, chemical resistance, crystallization and thermal properties of the obtained PI films are discussed.

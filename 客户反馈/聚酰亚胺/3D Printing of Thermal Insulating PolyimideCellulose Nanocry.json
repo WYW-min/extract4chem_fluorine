@@ -1,0 +1,1340 @@
+{
+  "文献信息": {
+    "唯一文献标识": "doi:10.3390/polym13213614",
+    "论文标题": "3D Printing of Thermal Insulating Polyimide/Cellulose Nanocrystal Composite Aerogels with Low Dimensional Shrinkage",
+    "作者列表": [
+      "Chiao Feng",
+      "Sheng-Sheng Yu"
+    ],
+    "期刊名称": "Polymers",
+    "年份": 2021,
+    "卷号": 13,
+    "页码": "3614",
+    "文档类型": "Article",
+    "语言": "English",
+    "关键词": [
+      "polyimide",
+      "aerogels",
+      "3D printing"
+    ]
+  },
+  "聚合物": [
+    {
+      "聚合物分类名称": "Polyimide/Cellulose Nanocrystal Composite Aerogel",
+      "聚合物分类编码": "PI/CNC",
+      "名称": "PI/CNC Composite Aerogel (6.5 wt% CNCs)",
+      "身份标识": "doi:10.3390/polym13213614_PI/CNC Composite Aerogel (6.5 wt% CNCs)_01",
+      "样本形态": "Porous aerogel",
+      "结构特征_L1": "partially_heterocyclic",
+      "结构特征_L2": "aromatic, aliphatic",
+      "表征": {
+        "红外_FTIR": {
+          "仪器": "Nicolet 6700 (Thermo Scientific)",
+          "峰位_cm-1": [
+            "1776 (C=O asymmetric stretching of imide)",
+            "1721 (C=O symmetric stretching of imide)",
+            "1500 (C=C aromatic)",
+            "1375 (C-N imide)",
+            "3400 (OH groups on CNCs)"
+          ],
+          "备注": "Successful imidization confirmed by the absence of amide peaks at 1540 cm-1 and 1660 cm-1."
+        },
+        "核磁_13C NMR": {
+          "仪器": "Bruker Avance III HD 400 MHz",
+          "化学位移_ppm": [
+            "65.6 (CNC C6)",
+            "70-75 (CNC C2,C3,C5)",
+            "84-89 (CNC C4)",
+            "104.9 (CNC C1)",
+            "165.6 (PI C=O)",
+            "156.2 (PI phenoxy)",
+            "115-134 (PI aromatic)"
+          ]
+        },
+        "形貌": {
+          "仪器": "SEM (Hitachi SU-8010)",
+          "显微": "Lamellar structure with paralleled pores derived from ice crystal growth."
+        }
+      },
+      "性质": [
+        {
+          "类别": "Thermal Properties",
+          "名称": "Thermal conductivity",
+          "缩写": "λ",
+          "值": {
+            "单值": 92.27,
+            "单位": "mW/m·K",
+            "误差": "± 1.03"
+          },
+          "测试条件": {
+            "样品": "6.5 wt% CNCs",
+            "样品尺寸": "",
+            "方法": "Transient Plane Source (TPS) method",
+            "仪器": "Hotdisk TPS 2500S (Hot Disk AB)",
+            "样品预处理": "",
+            "表面处理": "",
+            "参数": "Probing depth: 5 mm, Heating power: 10 mW, Measuring time: 10 s"
+          }
+        },
+        {
+          "类别": "Thermal Properties",
+          "名称": "Thermal insulation capability",
+          "值": {
+            "说明": "Retained a temperature below 80 °C after 10 min"
+          },
+          "测试条件": {
+            "样品": "PI/CNC Composite Aerogel (6.5 wt% CNCs)",
+            "样品尺寸": "2.8 × 2.8 × 0.4 cm³",
+            "方法": "Infrared thermal imaging",
+            "仪器": "FLIR C2 thermal imaging camera",
+            "样品预处理": "",
+            "表面处理": "",
+            "测试温度": {
+              "单值": 160,
+              "单位": "°C"
+            }
+          }
+        },
+        {
+          "类别": "Rheological Properties",
+          "名称": "Viscosity (Low Shear)",
+          "缩写": "η",
+          "值": {
+            "单值": 18134,
+            "单位": "Pa·s"
+          },
+          "测试条件": {
+            "样品": "PAAS/CNC Ink (6.5 wt% CNCs)",
+            "样品尺寸": "Diameter: 25 mm, Gap: 1000 μm",
+            "方法": "Steady-state shear flow test",
+            "仪器": "Rheometer (HR-2, TA instruments)",
+            "样品预处理": "",
+            "表面处理": "",
+            "剪切速率": {
+              "单值": 0.01,
+              "单位": "1/s"
+            }
+          }
+        },
+        {
+          "类别": "Rheological Properties",
+          "名称": "Viscosity (High Shear)",
+          "缩写": "η",
+          "值": {
+            "单值": 228,
+            "单位": "Pa·s"
+          },
+          "测试条件": {
+            "样品": "PAAS/CNC Ink (6.5 wt% CNCs)",
+            "样品尺寸": "Diameter: 25 mm, Gap: 1000 μm",
+            "方法": "Steady-state shear flow test",
+            "仪器": "Rheometer (HR-2, TA instruments)",
+            "样品预处理": "",
+            "表面处理": "",
+            "剪切速率": {
+              "单值": 1,
+              "单位": "1/s"
+            }
+          }
+        },
+        {
+          "类别": "Rheological Properties",
+          "名称": "Yield Stress",
+          "值": {
+            "最小": 200,
+            "单位": "Pa"
+          },
+          "测试条件": {
+            "样品": "PAAS/CNC Ink (6.5 wt% CNCs)",
+            "样品尺寸": "Diameter: 25 mm, Gap: 1000 μm",
+            "方法": "Oscillatory stress sweep method",
+            "仪器": "Rheometer (HR-2, TA instruments)",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Processing Properties",
+          "名称": "Volumetric shrinkage (after freeze-drying)",
+          "值": {
+            "单值": 10,
+            "单位": "%"
+          },
+          "测试条件": {
+            "样品": "PI/CNC composite aerogels",
+            "样品尺寸": "",
+            "方法": "Volume measurement (calculated from CAD vs apparent volume)",
+            "仪器": "",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Processing Properties",
+          "名称": "Volumetric shrinkage (Total, after imidization)",
+          "值": {
+            "最大": 30,
+            "单位": "%",
+            "说明": "retained more than 70% of the initial volume"
+          },
+          "测试条件": {
+            "样品": "PI/CNC composite aerogels",
+            "样品尺寸": "",
+            "方法": "Volume measurement (calculated from CAD vs apparent volume)",
+            "仪器": "",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Processing Properties",
+          "名称": "Weight Loss (during Imidization)",
+          "值": {
+            "单值": 32.4,
+            "单位": "%"
+          },
+          "测试条件": {
+            "样品": "6.5 wt% CNCs Aerogel",
+            "样品尺寸": "",
+            "方法": "Thermogravimetric Analysis (TGA)",
+            "仪器": "",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Thermal Properties",
+          "名称": "Degradation temperature (Onset 1)",
+          "缩写": "Td1",
+          "值": {
+            "单值": 300,
+            "单位": "°C"
+          },
+          "测试条件": {
+            "样品": "6.5 wt% CNCs",
+            "样品尺寸": "",
+            "方法": "Thermogravimetric Analysis (TGA)",
+            "仪器": "TGA 4000 (PerkinElmer)",
+            "样品预处理": "",
+            "表面处理": "",
+            "气氛": "Nitrogen",
+            "测试温度范围": {
+              "最小": 30,
+              "最大": 700,
+              "单位": "°C"
+            },
+            "升温速率": {
+              "单值": 10,
+              "单位": "°C/min"
+            }
+          }
+        },
+        {
+          "类别": "Thermal Properties",
+          "名称": "Degradation temperature (Onset 2)",
+          "缩写": "Td2",
+          "值": {
+            "单值": 540,
+            "单位": "°C"
+          },
+          "测试条件": {
+            "样品": "6.5 wt% CNCs",
+            "样品尺寸": "",
+            "方法": "Thermogravimetric Analysis (TGA)",
+            "仪器": "TGA 4000 (PerkinElmer)",
+            "样品预处理": "",
+            "表面处理": "",
+            "气氛": "Nitrogen",
+            "测试温度范围": {
+              "最小": 30,
+              "最大": 700,
+              "单位": "°C"
+            },
+            "升温速率": {
+              "单值": 10,
+              "单位": "°C/min"
+            }
+          }
+        },
+        {
+          "类别": "Physical Properties",
+          "名称": "Bulk Density",
+          "值": {
+            "说明": "Trend: Increases with CNC concentration"
+          },
+          "测试条件": {
+            "样品": "PI/CNC Composite Aerogels",
+            "样品尺寸": "",
+            "方法": "Density measurement",
+            "仪器": "",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Processing Properties",
+          "名称": "Printability",
+          "值": {
+            "说明": "Successfully stacked up to 70 layers (28.22 mm in height)"
+          },
+          "测试条件": {
+            "样品": "PAAS/CNC ink",
+            "样品尺寸": "",
+            "方法": "Direct Ink Writing (DIW)",
+            "仪器": "FDM printer modified for DIW",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        }
+      ],
+      "工艺流程": [
+        {
+          "产物名称": "PAAS/CNC Ink",
+          "产物质量": "",
+          "产物单位": "",
+          "产物收率百分比": "",
+          "原料": [
+            {
+              "原料名称": "Polyamic acid",
+              "原料类别": "Precursor",
+              "单体类型": "",
+              "IUPAC名称": "",
+              "缩写": "PAA",
+              "分子式": "",
+              "SMILES": "",
+              "CAS号": "",
+              "InChI": "",
+              "投料方式": "Mixed with TEA and water",
+              "型号": "",
+              "来源": "",
+              "质量": {
+                "单值": 0.750,
+                "单位": "g"
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": "",
+                "单位": ""
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": "",
+                "单位": ""
+              },
+              "表征": ""
+            },
+            {
+              "原料名称": "Triethylamine",
+              "原料类别": "Catalyst",
+              "单体类型": "",
+              "IUPAC名称": "Triethylamine",
+              "缩写": "TEA",
+              "分子式": "C6H15N",
+              "SMILES": "CCN(CC)CC",
+              "CAS号": "121-44-8",
+              "InChI": "InChI=1S/C6H15N/c1-4-7(5-2)6-3/h4-6H2,1-3H3",
+              "投料方式": "Mixed with PAA",
+              "型号": "",
+              "来源": "Acros Organics",
+              "质量": {
+                "单值": 0.363,
+                "单位": "g"
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": "",
+                "单位": ""
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": 99,
+                "单位": "%"
+              },
+              "表征": ""
+            },
+            {
+              "原料名称": "Cellulose nanocrystals",
+              "原料类别": "Nanofiller",
+              "单体类型": "",
+              "IUPAC名称": "Cellulose",
+              "缩写": "CNCs",
+              "分子式": "(C6H10O5)n",
+              "SMILES": "OC1C(O)C(OC1CO)OC2C(O)C(O)C(OC2CO)O",
+              "CAS号": "9004-34-6",
+              "InChI": "",
+              "投料方式": "Dispersed in water",
+              "型号": "Diameter: 2.3-4.5 nm, Length: 44-108 nm",
+              "来源": "CelluForce Inc.",
+              "质量": {
+                "单值": 0.700,
+                "单位": "g"
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": "",
+                "单位": ""
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": "",
+                "单位": ""
+              },
+              "表征": ""
+            }
+          ],
+          "反应条件": [
+            {
+              "反应装置": "Planetary mixer (MV-300S, CGT, Taiwan)",
+              "反应气氛": "",
+              "反应温度": {
+                "单值": "",
+                "单位": ""
+              },
+              "溶剂": "Deionized water",
+              "溶剂量": {
+                "单值": 8.888,
+                "单位": "g"
+              },
+              "反应时间": {
+                "单值": 40,
+                "单位": "min"
+              },
+              "制备过程": "10 min for CNC dispersion (with Teflon balls), 30 min for mixing.",
+              "反应条件": ""
+            }
+          ],
+          "后处理步骤": "Bubble removal",
+          "位置索引": {
+            "block_id": "",
+            "md_range": "",
+            "原文": "The bubbles within the ink were removed by the planetary mixer."
+          }
+        },
+        {
+          "产物名称": "PI/CNC Composite Aerogel",
+          "产物质量": "",
+          "产物单位": "",
+          "产物收率百分比": "",
+          "原料": [
+            {
+              "原料名称": "PAAS/CNC Ink",
+              "原料类别": "Intermediate",
+              "单体类型": "",
+              "IUPAC名称": "",
+              "缩写": "",
+              "分子式": "",
+              "SMILES": "",
+              "CAS号": "",
+              "InChI": "",
+              "投料方式": "3D Printed",
+              "型号": "",
+              "来源": "",
+              "质量": {
+                "单值": "",
+                "单位": ""
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": "",
+                "单位": ""
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": "",
+                "单位": ""
+              },
+              "表征": ""
+            }
+          ],
+          "反应条件": [
+            {
+              "反应装置": "FDM printer (INFINITY X1Speed, INFINITY3DP) modified for DIW",
+              "反应气氛": "Ambient",
+              "反应温度": {
+                "单值": "",
+                "单位": ""
+              },
+              "溶剂": "",
+              "溶剂量": {
+                "单值": "",
+                "单位": ""
+              },
+              "反应时间": {
+                "单值": "",
+                "单位": ""
+              },
+              "制备过程": "Printing speed: 20 mm/s, Extrusion rate: 0.155 mL/min (using 0.4 mm conical nozzle)",
+              "反应条件": ""
+            },
+            {
+              "反应装置": "Freeze dryer",
+              "反应气氛": "Vacuum",
+              "反应温度": {
+                "单值": -20,
+                "单位": "°C"
+              },
+              "溶剂": "",
+              "溶剂量": {
+                "单值": "",
+                "单位": ""
+              },
+              "反应时间": {
+                "单值": 48,
+                "单位": "h"
+              },
+              "制备过程": "Frozen at -20°C overnight, then dried",
+              "反应条件": ""
+            },
+            {
+              "反应装置": "Vacuum oven (Thermal Imidization)",
+              "反应气氛": "Vacuum",
+              "反应温度": {
+                "单值": 300,
+                "单位": "°C"
+              },
+              "溶剂": "",
+              "溶剂量": {
+                "单值": "",
+                "单位": ""
+              },
+              "反应时间": {
+                "单值": 5,
+                "单位": "h"
+              },
+              "制备过程": "Stepwise heating: 80, 120, 180, 240, 300°C. Ramping rate: 1 °C/min. Hold time: 1 h for each step.",
+              "反应条件": ""
+            }
+          ],
+          "后处理步骤": "",
+          "位置索引": {
+            "block_id": "",
+            "md_range": "",
+            "原文": ""
+          }
+        }
+      ]
+    },
+    {
+      "聚合物分类名称": "Pure Polyimide Aerogel",
+      "聚合物分类编码": "PI",
+      "名称": "Pure PI Aerogel",
+      "身份标识": "doi:10.3390/polym13213614_Pure PI Aerogel_01",
+      "样本形态": "Porous aerogel",
+      "结构特征_L1": "heterocyclic",
+      "结构特征_L2": "aromatic",
+      "表征": {
+        "红外_FTIR": {
+          "仪器": "Nicolet 6700",
+          "峰位_cm-1": [
+            "1776 (C=O)",
+            "1721 (C=O)",
+            "1500 (C=C)",
+            "1375 (C-N)"
+          ],
+          "备注": "Absence of amide peaks at 1540 and 1660 cm-1"
+        },
+        "核磁_13C NMR": {
+          "仪器": "Bruker Avance III HD 400 MHz",
+          "化学位移_ppm": [
+            "165.6 (C=O imide moiety)",
+            "156.2 (phenoxy carbon)",
+            "115-134 (aromatic rings)"
+          ]
+        },
+        "形貌": {
+          "仪器": "SEM (Hitachi SU-8010)",
+          "显微": "Smaller and denser pores, less pronounced lamellar morphology."
+        }
+      },
+      "性质": [
+        {
+          "类别": "Thermal Properties",
+          "名称": "Degradation Temperature (Onset)",
+          "缩写": "Td",
+          "值": {
+            "单值": 576,
+            "单位": "°C"
+          },
+          "测试条件": {
+            "样品": "Pure PI Aerogel",
+            "样品尺寸": "",
+            "方法": "Thermogravimetric Analysis (TGA)",
+            "仪器": "TGA 4000 (PerkinElmer)",
+            "样品预处理": "",
+            "表面处理": "",
+            "气氛": "Nitrogen",
+            "测试温度范围": {
+              "最小": 30,
+              "最大": 700,
+              "单位": "°C"
+            },
+            "升温速率": {
+              "单值": 10,
+              "单位": "°C/min"
+            }
+          }
+        },
+        {
+          "类别": "Thermal Properties",
+          "名称": "Char Yield",
+          "值": {
+            "单值": 51,
+            "单位": "%"
+          },
+          "测试条件": {
+            "样品": "Pure PI Aerogel",
+            "样品尺寸": "",
+            "方法": "Thermogravimetric Analysis (TGA)",
+            "仪器": "TGA 4000 (PerkinElmer)",
+            "样品预处理": "",
+            "表面处理": "",
+            "气氛": "Nitrogen",
+            "测试温度范围": {
+              "最小": 30,
+              "最大": 700,
+              "单位": "°C"
+            },
+            "升温速率": {
+              "单值": 10,
+              "单位": "°C/min"
+            }
+          }
+        },
+        {
+          "类别": "Thermal Properties",
+          "名称": "Thermal insulation capability",
+          "值": {
+            "说明": "Retained a temperature below 80 °C after 10 min"
+          },
+          "测试条件": {
+            "样品": "Pure PI Aerogel",
+            "样品尺寸": "",
+            "方法": "Infrared thermal imaging",
+            "仪器": "FLIR C2 thermal imaging camera",
+            "样品预处理": "",
+            "表面处理": "",
+            "测试温度": {
+              "单值": 160,
+              "单位": "°C"
+            }
+          }
+        },
+        {
+          "类别": "Processing Properties",
+          "名称": "Volumetric Shrinkage (Total)",
+          "值": {
+            "最大": 60,
+            "单位": "%",
+            "说明": "Up to 60%"
+          },
+          "测试条件": {
+            "样品": "Pure PI Aerogel",
+            "样品尺寸": "",
+            "方法": "Volume measurement (calculated from CAD vs apparent volume)",
+            "仪器": "",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Processing Properties",
+          "名称": "Weight Loss (during Imidization)",
+          "值": {
+            "单值": 42.3,
+            "单位": "%",
+            "说明": "loss of weight to 42.3%"
+          },
+          "测试条件": {
+            "样品": "Pure PI Aerogel",
+            "样品尺寸": "",
+            "方法": "Heating from dried state to 300°C",
+            "仪器": "",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Mechanical Properties",
+          "名称": "Compressive Modulus",
+          "缩写": "E",
+          "值": {
+            "说明": "Lowest compression modulus among tested"
+          },
+          "测试条件": {
+            "样品": "Pure PI Aerogel",
+            "样品尺寸": "",
+            "方法": "Compression test",
+            "仪器": "Shimadzu AGS-X 100kN",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Physical Properties",
+          "名称": "Bulk Density",
+          "值": {
+            "说明": "High density due to severe shrinkage"
+          },
+          "测试条件": {
+            "样品": "Pure PI Aerogel",
+            "样品尺寸": "",
+            "方法": "Density measurement",
+            "仪器": "",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        }
+      ],
+      "工艺流程": [
+        {
+          "产物名称": "Pure PI Aerogel",
+          "产物质量": "",
+          "产物单位": "",
+          "产物收率百分比": "",
+          "原料": [
+            {
+              "原料名称": "Polyamic acid solution",
+              "原料类别": "Precursor",
+              "单体类型": "",
+              "IUPAC名称": "",
+              "缩写": "PAA",
+              "分子式": "",
+              "SMILES": "",
+              "CAS号": "",
+              "InChI": "",
+              "投料方式": "",
+              "型号": "",
+              "来源": "",
+              "质量": {
+                "单值": "",
+                "单位": ""
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": "",
+                "单位": ""
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": "",
+                "单位": ""
+              },
+              "表征": ""
+            }
+          ],
+          "反应条件": [
+            {
+              "反应装置": "Freeze dryer",
+              "反应气氛": "",
+              "反应温度": {
+                "单值": -20,
+                "单位": "°C"
+              },
+              "溶剂": "",
+              "溶剂量": {
+                "单值": "",
+                "单位": ""
+              },
+              "反应时间": {
+                "单值": 48,
+                "单位": "h"
+              },
+              "制备过程": "Frozen at -20 °C overnight, then dried for more than two days.",
+              "反应条件": ""
+            }
+          ],
+          "后处理步骤": "",
+          "位置索引": {
+            "block_id": "",
+            "md_range": "",
+            "原文": "The printed objects were frozen in a -20 °C refrigerator overnight. The frozen samples were rapidly transferred to a freeze dryer and dried for more than two days."
+          }
+        }
+      ]
+    },
+    {
+      "聚合物分类名称": "Pure Cellulose Nanocrystal Aerogel",
+      "聚合物分类编码": "CNC",
+      "名称": "Pure CNC Aerogel",
+      "身份标识": "doi:10.3390/polym13213614_Pure CNC Aerogel_01",
+      "样本形态": "Porous aerogel (fragile)",
+      "结构特征_L1": "unmodified_linear",
+      "结构特征_L2": "aliphatic",
+      "表征": {
+        "红外_FTIR": {
+          "仪器": "Nicolet 6700",
+          "峰位_cm-1": [
+            "3400 (hydroxyl groups)"
+          ]
+        },
+        "核磁_13C NMR": {
+          "仪器": "Bruker Avance III HD 400 MHz",
+          "化学位移_ppm": [
+            "65.6 (C6 crystalline)",
+            "70-75 (C2, C3, C5)",
+            "84-89 (C4)",
+            "104.9 (C1)"
+          ]
+        },
+        "形貌": {
+          "仪器": "SEM (Hitachi SU-8010)",
+          "显微": "Pores much larger than composite aerogels"
+        }
+      },
+      "性质": [
+        {
+          "类别": "Thermal Properties",
+          "名称": "Degradation Temperature (Onset)",
+          "缩写": "Td",
+          "值": {
+            "单值": 290,
+            "单位": "°C"
+          },
+          "测试条件": {
+            "样品": "Pure CNC Aerogel",
+            "样品尺寸": "",
+            "方法": "Thermogravimetric Analysis (TGA)",
+            "仪器": "TGA 4000 (PerkinElmer)",
+            "样品预处理": "",
+            "表面处理": "",
+            "气氛": "Nitrogen",
+            "测试温度范围": {
+              "最小": 30,
+              "最大": 700,
+              "单位": "°C"
+            },
+            "升温速率": {
+              "单值": 10,
+              "单位": "°C/min"
+            }
+          }
+        },
+        {
+          "类别": "Thermal Properties",
+          "名称": "Char Yield",
+          "值": {
+            "单值": 7,
+            "单位": "%"
+          },
+          "测试条件": {
+            "样品": "Pure CNC Aerogel",
+            "样品尺寸": "",
+            "方法": "Thermogravimetric Analysis (TGA)",
+            "仪器": "TGA 4000 (PerkinElmer)",
+            "样品预处理": "",
+            "表面处理": "",
+            "气氛": "Nitrogen",
+            "测试温度": {
+              "单值": 760,
+              "单位": "°C"
+            }
+          }
+        },
+        {
+          "类别": "Thermal Properties",
+          "名称": "Thermal insulation capability",
+          "值": {
+            "说明": "Retained a temperature below 80 °C after 10 min"
+          },
+          "测试条件": {
+            "样品": "Pure CNC Aerogel",
+            "样品尺寸": "",
+            "方法": "Infrared thermal imaging",
+            "仪器": "FLIR C2 thermal imaging camera",
+            "样品预处理": "",
+            "表面处理": "",
+            "测试温度": {
+              "单值": 160,
+              "单位": "°C"
+            }
+          }
+        },
+        {
+          "类别": "Physical Properties",
+          "名称": "Appearance change after thermal treatment",
+          "值": {
+            "说明": "Color became darker, indicating CNC degradation"
+          },
+          "测试条件": {
+            "样品": "Pure CNC Aerogel",
+            "样品尺寸": "",
+            "方法": "Thermal imidization observation",
+            "仪器": "",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        }
+      ],
+      "工艺流程": [
+        {
+          "产物名称": "Pure CNC Aerogel",
+          "产物质量": "",
+          "产物单位": "",
+          "产物收率百分比": "",
+          "原料": [
+            {
+              "原料名称": "CNC ink",
+              "原料类别": "Precursor",
+              "单体类型": "",
+              "IUPAC名称": "",
+              "缩写": "",
+              "分子式": "",
+              "SMILES": "",
+              "CAS号": "",
+              "InChI": "",
+              "投料方式": "",
+              "型号": "",
+              "来源": "",
+              "质量": {
+                "单值": "",
+                "单位": ""
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": "",
+                "单位": ""
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": "",
+                "单位": ""
+              },
+              "表征": ""
+            }
+          ],
+          "反应条件": [
+            {
+              "反应装置": "Freeze dryer",
+              "反应气氛": "",
+              "反应温度": {
+                "单值": -20,
+                "单位": "°C"
+              },
+              "溶剂": "",
+              "溶剂量": {
+                "单值": "",
+                "单位": ""
+              },
+              "反应时间": {
+                "单值": 48,
+                "单位": "h"
+              },
+              "制备过程": "Frozen at -20 °C overnight, then dried for more than two days.",
+              "反应条件": ""
+            }
+          ],
+          "后处理步骤": "",
+          "位置索引": {
+            "block_id": "",
+            "md_range": "",
+            "原文": "The printed objects were frozen in a -20 °C refrigerator overnight. The frozen samples were rapidly transferred to a freeze dryer and dried for more than two days."
+          }
+        }
+      ]
+    },
+    {
+      "聚合物分类名称": "Polyamic Acid Precursor",
+      "聚合物分类编码": "PAA",
+      "名称": "PMDA-ODA Polyamic Acid",
+      "身份标识": "doi:10.3390/polym13213614_PMDA-ODA Polyamic Acid_01",
+      "样本形态": "Solution / Powder",
+      "结构特征_L1": "unmodified_linear",
+      "结构特征_L2": "aromatic",
+      "表征": {},
+      "性质": [],
+      "工艺流程": [
+        {
+          "产物名称": "PMDA-ODA Polyamic Acid",
+          "产物质量": "",
+          "产物单位": "",
+          "产物收率百分比": "",
+          "原料": [
+            {
+              "原料名称": "4,4'-Oxydianiline",
+              "原料类别": "Monomer",
+              "单体类型": "Diamine",
+              "IUPAC名称": "4,4'-Oxydianiline",
+              "缩写": "ODA",
+              "分子式": "C12H12N2O",
+              "SMILES": "Nc1ccc(Oc2ccc(N)cc2)cc1",
+              "CAS号": "101-80-4",
+              "InChI": "InChI=1S/C12H12N2O/c13-9-1-5-11(6-2-9)15-12-7-3-10(14)4-8-12/h1-8H,13-14H2",
+              "投料方式": "Dissolved in DMF",
+              "型号": "",
+              "来源": "Acros Organics",
+              "质量": {
+                "单值": 4.806,
+                "单位": "g"
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": 24,
+                "单位": "mmol"
+              },
+              "当量比": {
+                "单值": 1.0,
+                "单位": "eq"
+              },
+              "纯度": {
+                "单值": 98,
+                "单位": "%"
+              },
+              "表征": ""
+            },
+            {
+              "原料名称": "Pyromellitic dianhydride",
+              "原料类别": "Monomer",
+              "单体类型": "Dianhydride",
+              "IUPAC名称": "Benzene-1,2,4,5-tetracarboxylic dianhydride",
+              "缩写": "PMDA",
+              "分子式": "C10H2O6",
+              "SMILES": "O=C1OC(=O)c2cc3c(cc21)C(=O)OC3=O",
+              "CAS号": "89-32-7",
+              "InChI": "InChI=1S/C10H2O6/c11-7-3-1-4-8(12)16-10(14)6(4)5(3)9(13)15-7/h1-2H",
+              "投料方式": "Gradually added to ODA solution",
+              "型号": "",
+              "来源": "Tokyo Chemical Industry",
+              "质量": {
+                "单值": 5.235,
+                "单位": "g"
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": 24,
+                "单位": "mmol"
+              },
+              "当量比": {
+                "单值": 1.0,
+                "单位": "eq"
+              },
+              "纯度": {
+                "单值": 98,
+                "单位": "%"
+              },
+              "表征": ""
+            }
+          ],
+          "反应条件": [
+            {
+              "反应装置": "Three-neck flask",
+              "反应气氛": "Nitrogen",
+              "反应温度": {
+                "单值": "",
+                "单位": ""
+              },
+              "溶剂": "N,N-Dimethylformamide (DMF)",
+              "溶剂量": {
+                "单值": 100,
+                "单位": "mL"
+              },
+              "反应时间": {
+                "单值": 4,
+                "单位": "h"
+              },
+              "制备过程": "Room temperature.",
+              "反应条件": ""
+            }
+          ],
+          "后处理步骤": "Dilution with 100 mL DMF, Precipitation in 600 mL water, Vacuum drying at 50°C",
+          "位置索引": {
+            "block_id": "",
+            "md_range": "",
+            "原文": "Next, the viscous polyamic acid solution was diluted with another 100 mL DMF, and slowly poured into 600 mL deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at 50 °C for more than two days before use."
+          }
+        }
+      ]
+    },
+    {
+      "聚合物分类名称": "Polyimide/Cellulose Nanocrystal Composite Aerogel",
+      "聚合物分类编码": "PI/CNC",
+      "名称": "PI/CNC Composite Aerogel (5.6 wt% CNCs)",
+      "身份标识": "doi:10.3390/polym13213614_PI/CNC Composite Aerogel (5.6 wt% CNCs)_01",
+      "样本形态": "Porous aerogel",
+      "结构特征_L1": "partially_heterocyclic",
+      "结构特征_L2": "aromatic, aliphatic",
+      "表征": {},
+      "性质": [
+        {
+          "类别": "Thermal Properties",
+          "名称": "Thermal conductivity",
+          "缩写": "λ",
+          "值": {
+            "单值": 89.39,
+            "单位": "mW/m·K",
+            "误差": "± 0.087"
+          },
+          "测试条件": {
+            "样品": "5.6 wt% CNCs",
+            "样品尺寸": "",
+            "方法": "Transient Plane Source (TPS) method",
+            "仪器": "Hotdisk TPS 2500S",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Thermal Properties",
+          "名称": "Thermal insulation capability",
+          "值": {
+            "说明": "Retained a temperature below 80 °C after 10 min"
+          },
+          "测试条件": {
+            "样品": "PI/CNC Composite Aerogel (5.6 wt% CNCs)",
+            "样品尺寸": "",
+            "方法": "Infrared thermal imaging",
+            "仪器": "FLIR C2 thermal imaging camera",
+            "样品预处理": "",
+            "表面处理": "",
+            "测试温度": {
+              "单值": 160,
+              "单位": "°C"
+            }
+          }
+        },
+        {
+          "类别": "Mechanical Properties",
+          "名称": "Compressive modulus",
+          "缩写": "E",
+          "值": {
+            "单值": 6.40,
+            "单位": "MPa"
+          },
+          "测试条件": {
+            "样品": "5.6 wt% CNCs",
+            "样品尺寸": "",
+            "方法": "Compression test (ASTM-D695)",
+            "仪器": "Universal electromechanical testing machine (AGS-X 100kN, Shimadzu)",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Degradation Properties",
+          "名称": "Thermal Degradation of CNCs",
+          "值": {
+            "说明": "Degradation of CNCs was more significant in the aerogels with 5.6 wt% CNCs than the other composite aerogels."
+          },
+          "测试条件": {
+            "样品": "PI/CNC Composite Aerogel (5.6 wt% CNCs)",
+            "样品尺寸": "",
+            "方法": "Thermal imidization analysis",
+            "仪器": "",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        }
+      ],
+      "工艺流程": []
+    },
+    {
+      "聚合物分类名称": "Polyimide/Cellulose Nanocrystal Composite Aerogel",
+      "聚合物分类编码": "PI/CNC",
+      "名称": "PI/CNC Composite Aerogel (7.4 wt% CNCs)",
+      "身份标识": "doi:10.3390/polym13213614_PI/CNC Composite Aerogel (7.4 wt% CNCs)_01",
+      "样本形态": "Porous aerogel",
+      "结构特征_L1": "partially_heterocyclic",
+      "结构特征_L2": "aromatic, aliphatic",
+      "表征": {},
+      "性质": [
+        {
+          "类别": "Thermal Properties",
+          "名称": "Thermal insulation capability",
+          "值": {
+            "说明": "Retained a temperature below 80 °C after 10 min"
+          },
+          "测试条件": {
+            "样品": "PI/CNC Composite Aerogel (7.4 wt% CNCs)",
+            "样品尺寸": "",
+            "方法": "Infrared thermal imaging",
+            "仪器": "FLIR C2 thermal imaging camera",
+            "样品预处理": "",
+            "表面处理": "",
+            "测试温度": {
+              "单值": 160,
+              "单位": "°C"
+            }
+          }
+        },
+        {
+          "类别": "Mechanical Properties",
+          "名称": "Compressive modulus",
+          "缩写": "E",
+          "值": {
+            "单值": 13.64,
+            "单位": "MPa"
+          },
+          "测试条件": {
+            "样品": "7.4 wt% CNCs",
+            "样品尺寸": "",
+            "方法": "Compression test (ASTM-D695)",
+            "仪器": "Universal electromechanical testing machine (AGS-X 100kN, Shimadzu)",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Rheological Properties",
+          "名称": "Yield Stress",
+          "值": {
+            "最小": 200,
+            "单位": "Pa"
+          },
+          "测试条件": {
+            "样品": "PAAS/CNC Ink (7.4 wt% CNCs)",
+            "样品尺寸": "Diameter: 25 mm, Gap: 1000 μm",
+            "方法": "Oscillatory stress sweep method",
+            "仪器": "Rheometer (HR-2, TA instruments)",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        }
+      ],
+      "工艺流程": []
+    },
+    {
+      "聚合物分类名称": "Polyimide/Cellulose Nanocrystal Composite Aerogel",
+      "聚合物分类编码": "PI/CNC",
+      "名称": "PAAS/CNC Ink (4.7 wt% PAA)",
+      "身份标识": "doi:10.3390/polym13213614_PAAS/CNC Ink (4.7 wt% PAA)_01",
+      "样本形态": "Ink",
+      "结构特征_L1": "unmodified_linear",
+      "结构特征_L2": "aromatic, aliphatic",
+      "表征": {},
+      "性质": [
+        {
+          "类别": "Rheological Properties",
+          "名称": "Shear-thinning behavior",
+          "值": {
+            "说明": "Similar shear-thinning behavior for DIW"
+          },
+          "测试条件": {
+            "样品": "4.7 wt% PAA, 6.5 wt% CNCs",
+            "样品尺寸": "Diameter: 25 mm, Gap: 1000 μm",
+            "方法": "Steady-state shear flow test",
+            "仪器": "Rheometer (HR-2, TA instruments)",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Rheological Properties",
+          "名称": "Storage modulus and yield stress",
+          "值": {
+            "说明": "Similar response"
+          },
+          "测试条件": {
+            "样品": "4.7 wt% PAA, 6.5 wt% CNCs",
+            "样品尺寸": "Diameter: 25 mm, Gap: 1000 μm",
+            "方法": "Oscillatory stress sweep method",
+            "仪器": "Rheometer (HR-2, TA instruments)",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        }
+      ],
+      "工艺流程": []
+    },
+    {
+      "聚合物分类名称": "Polyimide/Cellulose Nanocrystal Composite Aerogel",
+      "聚合物分类编码": "PI/CNC",
+      "名称": "PAAS/CNC Ink (9.7 wt% PAA)",
+      "身份标识": "doi:10.3390/polym13213614_PAAS/CNC Ink (9.7 wt% PAA)_01",
+      "样本形态": "Ink",
+      "结构特征_L1": "unmodified_linear",
+      "结构特征_L2": "aromatic, aliphatic",
+      "表征": {},
+      "性质": [
+        {
+          "类别": "Rheological Properties",
+          "名称": "Shear-thinning behavior",
+          "值": {
+            "说明": "Similar shear-thinning behavior for DIW"
+          },
+          "测试条件": {
+            "样品": "9.7 wt% PAA, 6.5 wt% CNCs",
+            "样品尺寸": "Diameter: 25 mm, Gap: 1000 μm",
+            "方法": "Steady-state shear flow test",
+            "仪器": "Rheometer (HR-2, TA instruments)",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        },
+        {
+          "类别": "Rheological Properties",
+          "名称": "Storage modulus and yield stress",
+          "值": {
+            "说明": "Similar response"
+          },
+          "测试条件": {
+            "样品": "9.7 wt% PAA, 6.5 wt% CNCs",
+            "样品尺寸": "Diameter: 25 mm, Gap: 1000 μm",
+            "方法": "Oscillatory stress sweep method",
+            "仪器": "Rheometer (HR-2, TA instruments)",
+            "样品预处理": "",
+            "表面处理": ""
+          }
+        }
+      ],
+      "工艺流程": []
+    },
+    {
+      "聚合物分类名称": "Polyamic Acid Ammonium Salt Aerogel",
+      "聚合物分类编码": "PAAS",
+      "名称": "Pure PAAS Aerogel",
+      "身份标识": "doi:10.3390/polym13213614_Pure PAAS Aerogel_01",
+      "样本形态": "Freeze-dried aerogel",
+      "结构特征_L1": "unmodified_linear",
+      "结构特征_L2": "aromatic",
+      "表征": {
+        "形貌": {
+          "仪器": "SEM",
+          "显微": "Contained some parallel sheet-like structures"
+        }
+      },
+      "性质": [],
+      "工艺流程": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 15
+block_id: b0016
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: CONCLUSION
+line_span: [190, 194]
+char_span: [29326, 30411]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0016: CONCLUSION) ---
+190: # CONCLUSION
+191: 
+192: A flexible MDI-6FDA film with an average thickness of  $93\mu \mathrm{m}$  was successfully developed by casting 46 drops  $(1\mathrm{mL})$  of solution and drying for  $2\mathrm{h}$  in a vacuum oven at  $160^{\circ}\mathrm{C}$ . The resulting film has a tensile strength of up to  $57\mathrm{MPa}$  with an elongation at break of  $5\%$ . The incorporation of large  $\mathrm{CF}_3$  bridging groups has reduced the rigidity of the polymer chain, hence indirectly affecting the mechanical properties of the MDI-6FDA film. Nonetheless, the polymer structure of the MDI-6FDA film has contributed to a better light transmission of up to  $69\%$  at  $500\mathrm{nm}$  compared to  $18\%$  for standard reference film Kapton. This has become one of the appealing properties of the flexible MDI-6FDA PI film developed in this study, which potentially used in optical applications. In addition, the obtained MDI-6FDA film demonstrates excellent thermal resistance  $(T_{5} = 574^{\circ}\mathrm{C})$  with a  $T_{\mathrm{g}}$  temperature of up to  $238^{\circ}\mathrm{C}$ .

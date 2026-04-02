@@ -1,0 +1,57 @@
+source_file: Closed-Cell Rigid Polyimide Foams for High-Temperature Applications The Effect of Structure on Combined Proper.md
+doc_id: 629f37c040a2cf6244b96cf890edd8ec
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Closed-Cell Rigid Polyimide Foams for High-Temperature Applications: The Effect of Structure on Combined Properties
+line_span: [1, 43]
+char_span: [0, 3226]
+line_count: 41
+effective_body_non_empty_lines: 24
+
+lines:
+--- chunk (b0001: Closed-Cell Rigid Polyimide Foams for High-Temperature Applications: The Effect of Structure on Combined Properties) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2021, 13, 4434. https://doi.org/10.3390/polym13244434
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Closed-Cell Rigid Polyimide Foams for High-Temperature Applications: The Effect of Structure on Combined Properties
+11: 
+12: Yawei Shi  $^{1,2}$ , Aijun Hu  $^{1,*}$ , Zhiyuan Wang  $^{1}$ , Kedi Li  $^{3}$  and Shiyong Yang  $^{1,2,*}$
+13: 
+14: $^{1}$  Key Laboratory of Science and Technology on High-Tech Polymer Materials, Institute of Chemistry, Chinese Academy of Sciences, Beijing 100190, China; shiywei@iccas.ac.cn (Y.S.); zhiyuan@iccas.ac.cn (Z.W.)  
+15: $^{2}$  School of Chemical Sciences, University of Chinese Academy of Sciences, Beijing 100190, China  
+16: 3 Cashem Advanced Materials Hi-Tech Co., Ltd., Shaoxing 312369, China; ked.li@cashem.cn  
+17: * Correspondence: ajunjhu@iccas.ac.cn (A.H.); shiyang@iccas.ac.cn (S.Y.)
+18: 
+19: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+20: 
+21: check for updates
+22: 
+23: Citation: Shi, Y.; Hu, A.; Wang, Z.; Li, K.; Yang, S. Closed-Cell Rigid Polyimide Foams for High-Temperature Applications: The Effect of Structure on Combined Properties. Polymers 2021, 13, 4434. https://doi.org/10.3390/polym13244434
+24: 
+25: Academic Editors: Somen K. Bhudolia and Sunil Chandrakant Joshi
+26: 
+27: Received: 10 November 2021
+28: 
+29: Accepted: 12 December 2021
+30: 
+31: Published: 17 December 2021
+32: 
+33: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+34: 
+35: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+36: 
+37: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+38: 
+39: Abstract: Closed-cell rigid polyimide foams with excellent thermal stability and combined properties were prepared by thermal foaming of a reactive end-capped polyimide precursor powder in a closed mold. The precursor powder was obtained by thermal treatment of a polyester-amine salt (PEAS) solution derived from the reaction of the diethyl ester of  $2,3,3^{\prime},4^{\prime}$ -biphenyl tetracarboxylic dianhydride ( $\alpha$ -BPDE) with an aromatic diamine mixture of p-phenylenediamine (PDA) and 2-(4-aminophenyl)-5-aminobenzimidazole (BIA) in the presence of an end-capping agent (mono-ethyl ester of nadic acid anhydride, NE) in an aliphatic alcohol. The effect of polymer mainchain structures on the foaming processability and combined properties of the closed-cell rigid polyimide foams were systematically investigated. The polyimide foams  $(100 - 300\mathrm{kg} / \mathrm{m}^{3})$  with closed-cell rates of  $91 - 95\%$  show an outstanding thermal stability with an initial thermal decomposition temperature of  $\geq 490^{\circ}\mathrm{C}$  and a glass transition temperature of  $395^{\circ}\mathrm{C}$ . Polyimide foams with density of  $250\mathrm{kg} / \mathrm{m}^{3}$  exhibited compression creep deformation as low as  $1.6\%$  after thermal aging at  $320^{\circ}\mathrm{C} / 0.4\mathrm{MPa}$  for  $2\mathrm{h}$ .
+40: 
+41: Keywords: polyimide foam; rigid closed-cell foam; high temperature; benzimidazole

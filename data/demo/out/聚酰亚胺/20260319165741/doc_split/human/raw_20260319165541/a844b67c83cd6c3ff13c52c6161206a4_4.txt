@@ -1,0 +1,25 @@
+source_file: One-Pot Synthesis of Amide-Functional Main-Chain Polybenzoxazine Precursors.md
+doc_id: a844b67c83cd6c3ff13c52c6161206a4
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [112, 122]
+char_span: [22679, 23999]
+line_count: 9
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+112: # 4. Conclusions
+113: 
+114: In this study, amide repeat units containing main-chain polybenzoxazine precursors with different chain lengths were synthesized in one pot, starting from readily available and relatively cheap paraformaldehyde, 3,4-dihydrocoumarine (DHC), 1,3-diaminopropane, 1,6-diaminohexane, and Jeffamine ED-900. The polymeric precursors were obtained through cascade ring-opening aminolysis of DHC with the selected amines, Mannich reaction, and ring-closure to form oxazine rings with amide linkages. One of the polymeric precursors exhibited good film-forming ability and the casted films were flexible after curing at  $180^{\circ}\mathrm{C}$ . This study reveals the potential of DHC and related compounds to be used as precursors for several different amide-containing main-chain polybenzoxazines in one pot by selecting suitable diamines. Accordingly, this method has a vast design capacity for these specific types of polybenzoxazines, and can be broadened according to specific application needs.
+115: 
+116: Author Contributions: C.D.—experimentation; B.K. and Y.Y.—supervision, writing, review and editing; B.K.—funding acquisition.
+117: 
+118: Funding: This research was funded by Istanbul Technical University Research Fund, project ID: TGA-2018-41502.
+119: 
+120: Conflicts of Interest: The authors declare no conflict of interest.

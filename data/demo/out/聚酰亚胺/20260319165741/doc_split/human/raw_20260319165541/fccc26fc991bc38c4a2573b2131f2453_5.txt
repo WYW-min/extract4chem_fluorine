@@ -1,0 +1,72 @@
+source_file: Mixed Rigid and Flexible Component Design for High-Performance Polyimide Films.md
+doc_id: fccc26fc991bc38c4a2573b2131f2453
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [321, 376]
+char_span: [41547, 51915]
+line_count: 56
+effective_body_non_empty_lines: 49
+
+lines:
+--- chunk (b0006: References) ---
+321: # References
+322: 
+323: 1. Liaw, D.J.; Wang, K.L.; Huang, Y.C.; Lee, K.R.; Lai, J.Y.; Ha, C.S. Advanced polyimide materials: Syntheses, physical properties and applications. Prog. Polym. Sci. 2012, 37, 907-974. [CrossRef]  
+324: 2. Jia, M.C.; Li, Y.J.; He, C.Q.; Huang, X.Y. Soluble perfluorocyclobutyl aryl ether-based polyimide for high-performance dielectric material. Appl. Mater. Interfaces 2016, 8, 26352-26358. [CrossRef] [PubMed]
+325: 
+326: 3. Peng, X.W.; Xu, W.H.; Chen, L.L.; Ding, Y.C.; Chen, S.L.; Wang, X.Y.; Hou, H.Q. Polyimide complexes with high dielectric performance: Toward polymer film capacitor applications. J. Mater. Chem. C 2016, 4, 6452-6456. [CrossRef]  
+327: 4. Xu, L.L.; Jiang, S.D.; Li, B.; Hou, W.; Li, G.X.; Memon, M.A.; Huang, Y.; Geng, J.X. Graphene oxide: A versatile agent for polyimide foams with improved foaming capability and enhanced flexibility. Chem. Mater. 2015, 27, 4358-4367. [CrossRef]  
+328: 5. Zhou, Y.Y.; Zhou, W.C.; Li, R.; Qing, Y.C.; Luo, F.; Zhu, D.M. Electroless plating preparation and electromagnetic properties of co-coated carbonyl iron particles/polyimide composite. J. Magn. Magn. Mater. 2016, 401, 251-258. [CrossRef]  
+329: 6. Leventis, N.; Sotiriouleventis, C.; Mohite, D.P.; Larimore, Z.J.; Mang, J.T.; Churu, G.; Lu, H.B. Polyimide aerogels by ring-opening metathesis polymerization (ROMP). Chem. Mater. 2011, 23, 2250-2261. [CrossRef]  
+330: 7. Li, X.D.; Zhong, Z.X.; Han, S.H.; Lee, S.H.; Lee, M.H. Facile modifications of polyimide via chloromethylation: II. Synthesis and characterization of thermocurable transparent polyimide having methylene acrylate side groups. Polym. Int. 2005, 54, 406-411. [CrossRef]  
+331: 8. Sullivan, D.M.; Bruening, M.L. Ultrathin, gas-selective polyimide membranes prepared from multilayer films. Chem. Mater. 2003, 15, 281-287. [CrossRef]  
+332: 9. Lim, J.; Yeo, H.; Goh, M.; Ku, B.C.; Kim, S.G.; Lee, H.S.; Park, B.; You, N.H. Grafting of polyimide onto chemically-functionalized graphene nanosheets for mechanically-strong barrier membranes. Chem. Mater. 2015, 27, 2040-2047. [CrossRef]  
+333: 10. Zhuang, Y.B.; Seong, J.G.; Lee, W.H.; Do, Y.S.; Lee, M.J.; Wang, G.; Guiver, M.D.; Lee, Y.M. Mechanically tough, thermally rearranged (TR) random/block poly(benzoxazole-co-imide) gas separation membranes. Macromolecules 2015, 48, 5286-5299. [CrossRef]  
+334: 11. Zhang, D.Z.; Chang, H.Y.; Li, P.; Liu, R.H.; Xue, Q.Z. Fabrication and characterization of an ultrasensitive humidity sensor based on metal oxide/graphene hybrid nanocomposite. Sensor. Actuators B Chem. 2016, 225, 233-240. [CrossRef]  
+335: 12. Triambulo, R.E.; Cheong, H.G.; Lee, G.H.; Yi, I.S.; Park, J.W. A transparent conductive oxide electrode with highly enhanced flexibility achieved by controlled crystallinity by incorporating Ag nanoparticles on substrates. J. Alloys Compd. 2015, 620, 340-349. [CrossRef]  
+336: 13. Lim, H.; Cho, W.J.; Ha, C.S.; Ando, S.; Kim, Y.K.; Park, C.H.; Lee, K. Flexible organic electroluminescent devices based on fluorine-containing colorless polyimide substrates. Adv. Mater. 2002, 14, 1275-1279. [CrossRef]  
+337: 14. Park, J.S.; Kim, T.W.; Stryakhilev, D.; Lee, J.S.; An, S.G.; Pyo, Y.S.; Lee, D.S.; Mo, Y.G.; Jin, D.U.; Chung, H.K. Flexible full color organic light-emitting diode display on polyimide plastic substrate driven by amorphous indium gallium zinc oxide thin-film transistors. Appl. Phys. Lett. 2009, 95, 013503. [CrossRef]  
+338: 15. Zhou, Z.X.; Zhang, Y.; Liu, S.W.; Chi, Z.G.; Chen, X.D.; Xu, J.R. Flexible and highly fluorescent aromatic polyimide: Design, synthesis, properties, and mechanism. J. Mater. Chem. C. 2016, 4, 10509-10517. [CrossRef]  
+339: 16. Wang, H.M.; Hsiao, S.H. Ambipolar, multi-electrochromic polypyromellitimides and polynaphthalimides containing di(tert-butyl)-substituted bis(triarylamine) units. J. Mater. Chem. C. 2014, 2, 1553-1564. [CrossRef]  
+340: 17. Zhang, Y.; Xiao, S.X.; Wang, Q.Y.; Liu, S.W.; Qiao, Z.P.; Chi, Z.G.; Xu, J.R.; Economy, J. Thermally conductive, insulated polyimide nanocomposites by AlO(OH)-coated MWCNTs. J. Mater. Chem. 2011, 21, 14563-14568. [CrossRef]  
+341: 18. Lewis, J. Material challenge for flexible organic devices. Mater. Today 2006, 9, 38-45. [CrossRef]  
+342: 19. Choi, M.C.; Kim, Y.; Ha, C.S. Polymers for flexible displays: From material selection to device applications. *Prog. Polym. Sci.* **2008**, 33, 581-630. [CrossRef]  
+343: 20. Zhang, B.; Wang, Q.F.; Zhang, J.J.; Ding, G.L.; Xu, G.J.; Liu, Z.H.; Cui, G.L. A superior thermostable and nonflammable composite membrane towards high power battery separator. Nano Energy 2014, 10, 277-287. [CrossRef]  
+344: 21. Chen, J.L.; Liu, C.T. Technology advances in flexible displays and substrates. Access IEEE. 2013, 1, 150-158. [CrossRef]  
+345: 22. Chen, H.L.; Ho, S.H.; Wang, T.H.; Chen, K.M.; Pan, J.P.; Liang, S.M.; Hung, A. Curl-free high-adhesion polyimide/copper laminate. J. Appl. Polym. Sci. 1994, 51, 1647-1652. [CrossRef]  
+346: 23. Lee, Y.I.; Choa, Y.H. Adhesion enhancement of ink-jet printed conductive copper patterns on a flexible substrate. J. Mater. Chem. 2012, 22, 12517-12522. [CrossRef]
+347: 
+348: 24. Long, K.; Kattamis, A.; Cheng, I.C.; Gao, Y.X.; Gleskova, H.; Wagner, S.; Sturm, J.C. High-temperature  $(250^{\circ}\mathrm{C})$  amorphous silicon TFT's on clear plastic substrates. SID Dig. 2005, 36, 313-315. [CrossRef]  
+349: 25. Ding, M.X. Polyimides: Chemistry, Relationship between Structure and Properties and Materials; Science Press: Beijing, China, 2006; pp. 515-517, ISBN 7030165322.  
+350: 26. Wang, L.N.; Yu, X.H.; Wang, D.M.; Zhao, X.G.; Yang, D.; Urrehman, S.; Chen, C.H.; Zhou, H.W.; Dang, G.D. High modulus and high strength ultra-thin polyimide films with hot-stretch induced molecular orientation. Mater. Chem. Phys. 2013, 139, 968-974. [CrossRef]  
+351: 27. Nishino, T.; Miki, N.; Mitsuoka, Y.; Nakamae, K.; Saito, T.; Kikuchi, T. Elastic modulus of the crystalline regions of polyimide derived from poly(amic acid)-biphtalic dianhydride and p-phenylene diamine. J. Polym. Sci. Polym. Phys. 1999, 37, 3294-3301. [CrossRef]  
+352: 28. Wang, H.Y.; Liu, T.J.; Liu, S.F.; Jeng, J.L.; Guan, C.E. Thermal and mechanical properties of stretched recyclable polyimide film. J. Appl. Polym. Sci. 2011, 122, 210-219. [CrossRef]  
+353: 29. Ma, X.Y.; Ma, X.F.; Qiu, X.P.; Liu, F.F.; Jin, R.; Kang, C.Q.; Guo, H.Q.; GAO, L.X. Preparation and properties of imidazole-containing polyimide/silica hybrid films. Chem. Res. Chin. Univ. 2014, 30, 1047-1050. [CrossRef]  
+354: 30. Jin, H.S.; Chang, J.H. Colorless polyimide nanocomposite films: Thermomechanical properties, morphology, and optical transparency. J. Appl. Polym. Sci. 2008, 1, 109-117. [CrossRef]  
+355: 31. Huang, J.C.; Xiao, Y.; Mya, K.Y.; Liu, X.M.; He, C.B.; Dai, J.; Siow, Y.P. Thermomechanical properties of polyimide-epoxy nanocomposites from cubic silsesquioxane epoxides. J. Mater. Chem. 2004, 14, 2858-2863. [CrossRef]  
+356: 32. Geng, Z.; Ba, J.Y.; Zhang, S.L.; Luan, J.S.; Jiang, X.; Huo, P.F.; Wang, G.B. Ultra low dielectric constant hybrid films via side chain grafting reaction of poly(ether ether ketone) and phosphotungstic acid. J. Mater. Chem. 2012, 22, 23534-23540. [CrossRef]  
+357: 33. Jin, H.S.; Chang, J.H. Synthesis and characterization of colorless polyimide nanocomposite films containing pendant trifluoromethyl groups. Macromol. Res. 2008, 16, 503-509. [CrossRef]  
+358: 34. An, L.; Pan, Y.Z.; Shen, X.W.; Lu, H.B.; Yang, Y.L. Rod-like attapulgite/polyimide nanocomposites with simultaneously improved strength, toughness, thermal stability and related mechanisms. J. Mater. Chem. 2008, 18, 4928-4941. [CrossRef]  
+359: 35. Chang, H.C.; Sohn, B.H.; Chang, J.H. Colorless and transparent polyimide nanocomposites: Comparison of the properties of homo- and co-polymers. J. Ind. Eng. Chem. 2013, 19, 1593-1599.  
+360: 36. Xenopoulos, C.; Mascia, L.; Shaw, S.J. Polyimide-silica hybrids derived from an isoimide oligomer precursor. J. Mater. Chem. 2002, 12, 213-218. [CrossRef]  
+361: 37. Song, G.L.; Wang, S.; Wang, D.M.; Zhou, H.W.; Chen, C.H.; Zhao, X.G.; Dang, G.D. Rigidity enhancement of polyimides containing benzimidazole moieties. J. Appl. Polym. Sci. 2013, 130, 1653-1658. [CrossRef]  
+362: 38. Chen, J.C.; Wu, J.A.; Lee, C.Y.; Tsai, M.C.; Chen, K.H. Novel polyimides containing benzimidazole for temperature proton exchange membrane fuel. J. Mater. Chem. 2015, 483, 144-154. [CrossRef]  
+363: 39. Song, G.L.; Wang, D.M.; Zhao, X.G.; Dang, G.D.; Zhou, H.W.; Chen, C.H. Synthesis and properties of polyimides-containing benzoxazole units in the main chain. High Perform. Polym. 2013, 25, 354-360. [CrossRef]  
+364: 40. Hasegawa, M. Semi-aromatic polyimides with low dielectric constant and low CTE. High Perform. Polym. 2001, 13, S93-S106. [CrossRef]  
+365: 41. Wang, S.; Zhou, H.W.; Dang, G.D.; Chen, C.H. Synthesis and characterization of thermally stable, high-modulus polyimides containing benzimidazole moieties. J. Polym. Sci. Polym. Chem. 2009, 47, 2024-2031. [CrossRef]  
+366: 42. Yin, C.Q.; Dong, J.; Zhang, Z.X.; Zhang, Q.H.; Lin, J.Y. Structure and properties of polyimide fibers containing benzimidazole and amide units. J. Polym. Sci. Polym. Phys. 2015, 53, 183-191. [CrossRef]  
+367: 43. Song, G.L.; Wang, D.M.; Dang, G.D.; Zhou, H.W.; Chen, C.H.; Zhao, X.G. Thermal expansion behavior of polyimide films containing benzoxazole units in the main chain. High Perform. Polym. 2014, 26, 413-419. [CrossRef]  
+368: 44. Xue, G.; Shi, G.Q.; Ding, J.F.; Chang, W.M.; Chen, R.S. Complex-induced coupling effect: Adhesion of some polymers to copper metal promoted by benzimidazole. J. Adhes. Sci. Technol. 1990, 4, 723-732. [CrossRef]  
+369: 45. Chen, K.M.; Ho, S.M.; Wang, T.H.; King, J.S.; Chang, W.C.; Cheng, R.P.; Hung, A. Studies on the adhesion of polyimide coatings on copper foil. J. Appl. Polym. Sci. 1992, 45, 947-956. [CrossRef]
+370: 
+371: 46. Ahn, T.K.; Kim, A.M.; Choe, S. Hydrogen-bonding strength in the blends of polybenzimidazole with btda- and dsda-based polyimides. Macromol. 1997, 30, 3369-3374. [CrossRef]  
+372: 47. Song, G.L.; Zhang, Y.; Wang, D.M.; Chen, C.H.; Zhou, H.W.; Zhao, X.G.; Dang, G.D. Intermolecular interactions of polyimides containing benzimidazole and benzoxazole moieties. Polymer 2013, 54, 2335-2340. [CrossRef]
+373: 
+374: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+375: 
+376: © 2017 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

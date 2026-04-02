@@ -1,0 +1,27 @@
+source_file: Carborane-Containing Aromatic Polyimide Films with Ultrahigh Thermo-Oxidative Stability.md
+doc_id: c71e2616cedfda9fcf5f09260a8bd28e
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [191, 203]
+char_span: [33702, 35678]
+line_count: 11
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+191: # 4. Conclusions
+192: 
+193: Carborane-containing polyimide (CPI) films with ultrahigh thermal and thermo-oxidative stability up to  $700^{\circ}\mathrm{C}$  were successfully synthesized. The excellent thermal and thermo-oxidative stability was attributed to the multilayered protection layers formed on the film surface by thermal conversion of the carborane group into boron oxides. The boron oxide layer enhanced the degradation activation energy and suppressed the direct contact of inner polymer materials with oxygen molecules in a high-temperature environment, acting as a "self-healing" skin layer on the polyimide materials. Compared with the corresponding carborane-free films, the CPI films retained much higher mechanical strength and flexibility even after thermo-oxidative aging at  $700^{\circ}\mathrm{C} / 30\mathrm{min}$ . It was this "self-healing", multilayered, dense boron oxide protective layer that slowed down the further erosion process of the inner polymer and prolonged the service life of materials at high temperatures.
+194: 
+195: Supplementary Materials: The following are available online at http://www.mdpi.com/2073-4360/11/12/1930/s1, Figure S1: The images of the carborane containing PAA solutions, Table S1: Thermal properties of the CPI films, Table S2: Tensile properties of CPI-20 and CPI-50 after thermo-oxidative aging, Table S3: Degradation  $E_{a}$  and linearly dependent coefficients  $\mathbb{R}^2$  of CPI-0, CPI-20 and CPI-50 and Scheme S1: Synthesis of 1,7-bis (aminophenyl)-meta-carborane (BACB).
+196: 
+197: Author Contributions: Investigation and writing—original draft preparation, F.L.; writing—review and editing, S.Y. and H.Y.; supervision, S.Y. and H.Y.; funding acquisition, S.Y., H.Y. and G.F.; validation, X.Z., Z.Z. and G.F.; project administration, S.Y.
+198: 
+199: Funding: This work was supported by the National Natural Science Foundation of China (NSFC grant 51973225 and 51573094).
+200: 
+201: Conflicts of Interest: The authors declare no conflict of interest.

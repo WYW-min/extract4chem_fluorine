@@ -1,0 +1,23 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 8
+block_id: b0009
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: RESULTS AND DISCUSSION
+line_span: [77, 85]
+char_span: [13650, 15404]
+line_count: 7
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0009: RESULTS AND DISCUSSION) ---
+77: # RESULTS AND DISCUSSION
+78: 
+79: # MDI-6FDA POLYIMIDE POWDER
+80: 
+81: The presence of peaks at  $1366~\mathrm{cm^{-1}}$  (C-N),  $1780~\mathrm{cm^{-1}}$ $(\mathrm{C = O}$  asymmetric),  $1719~\mathrm{cm^{-1}}$ $(\mathrm{C = O}$  symmetric), 1508  $\mathrm{cm^{-1}}$ $(\mathrm{C = C})$ ,  $721~\mathrm{cm^{-1}}$ $(\mathrm{C = O}$  bending), and  $1252~\mathrm{cm^{-1}}$ $(\mathrm{CF_3})$  in the IR spectrum indicates the completion of the polymerization reaction. The IR spectrum of synthesised powder have been discussed in the previous study (Mustaffa et al. 2022). Further confirmation was obtained through  ${}^{1}\mathrm{H}$  NMR and  ${}^{13}\mathrm{C}$  NMR analyses, with the following peaks observed in the  ${}^{1}\mathrm{H}$  NMR spectrum (400 MHz, DMSO-  $d_{6}$ ,  $\delta$ , ppm): 7.35-7.44 (H1-H2), 4.08 (H3), 7.74-8.16 (H4-H6), while peaks in  ${}^{13}\mathrm{C}$  NMR spectrum (400 MHz, DMSO-  $d_{6}$ ,  $\delta$ , ppm): 120.1-146.7 (C1-C4, C7-C12), 40.8 (C5), 166.7 (C6), 64.9 (C13), 109.8 (C14) (Mustaffa et al. 2022). Based on our previous study (Mustaffa et al. 2022), both NMR spectra exhibited peaks corresponding to proton and carbon signals of NMP residue, indicating that strong interactions between PI and NMP make it challenging to entirely extract the solvent from the MDI-6FDA PI products (Barsema et al. 2004; Kaba et al. 2005). This will be taken into account throughout the solvent evaporation process for film development. MDI-6FDA PI powder are highly soluble in NMP, DMSO, DMF, DMAc and THF. The obtained MDI
+82: 
+83: 6FDA PI has a weight average molecular weight  $(M_{\mathrm{w}})$  of  $35.6~\mathrm{kg / mol}$ , number average molecular weight  $(M_{\mathrm{n}})$  of  $26.8~\mathrm{kg / mol}$  and polydispersity index (PDI) of 1.33.

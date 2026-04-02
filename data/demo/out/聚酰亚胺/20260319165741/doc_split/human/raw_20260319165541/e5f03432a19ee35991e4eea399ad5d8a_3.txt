@@ -1,0 +1,160 @@
+source_file: Comparison of Properties of Colorless and Transparent Polyimide Nanocomposites Containing Chemically Modified .md
+doc_id: e5f03432a19ee35991e4eea399ad5d8a
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [128, 273]
+char_span: [16220, 35849]
+line_count: 144
+effective_body_non_empty_lines: 74
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+128: # 3. Results and Discussion
+129: 
+130: # 3.1. Nanofillers
+131: 
+132: Figure 1 shows the FT-IR spectra of the starting materials GO and MMT as well as their C16 chemically substituted derivatives C16-GS and C16-MMT. In the GO spectrum, peaks are observed corresponding to O-H  $(3399~\mathrm{cm}^{-1})$ , C=O (1727 and  $1610~\mathrm{cm}^{-1}$ ), and C-O  $(1058~\mathrm{cm}^{-1})$  stretching. After reacting GO with C16 (C16-GS), peaks related to N-H stretching, aliphatic C-H stretching, and C=O stretching are observed at 3606, 2923 and 2852, and  $1718~\mathrm{cm}^{-1}$ , respectively. C-N-C stretching peak was also observed at  $1371~\mathrm{cm}^{-1}$ . Although no peaks were observed in the spectrum of pure MMT, N-H  $(3628~\mathrm{cm}^{-1})$ , and aliphatic C-H (2927 and  $2851~\mathrm{cm}^{-1}$ ) stretching peaks were observed in the spectrum of the organoclay C16-MMT [29].
+133: 
+134: SEM images of GO and C16-GS are shown in Figure 2. GO exhibited sheets that remain translucent even when bent and folded and were well-separated from the graphite surface (Figure 2a). C16-GS was transparent and had a thin, wrinkled morphology because the substitution with C16 caused significant damage to the graphene surface (Figure 2b). In general, F-GS substituted with a long alkyl group exhibited higher porosity and volume expansion compared to GO and had a very low bulk density. Therefore, melt compounding using F-GS presents significant processing challenges, and a masterbatch is usually required to mitigate this issue [18]. However, these processing difficulties can be overcome by mixing the polymer and F-GS in the solution phase.
+135: 
+136: Graphene is composed of individual carbon layers with a thickness of approximately  $1\mathrm{nm}$ . However, graphene most often agglomerates or bundles to form several layers, resulting in significant differences between the theoretical and true thickness values. AFM can provide information regarding the surface topology, defects, dimensions, thickness, and bending properties of GSs. For monolayer graphene and F-GS, the lateral size and thickness
+137: 
+138: can be measured using stepped height scans. An AFM image of C16-GS deposited as a dispersion on a mica substrate is shown in Figure 3, indicating that the average thickness of the graphene layers is  $1.76\mathrm{nm}$ . We previously reported that the interlayer spacing of graphene layers increases as the length of the alkyl group in F-GS increases [30].
+139: 
+140: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+141: Figure 1. FT-IR spectra of GO, F-GS (C16-GS),  $\mathrm{Na^{+}}$ -MMT, and organoclay (C16-MMT).
+142: 
+143: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+144: Figure 2. FE-SEM photographs of (a) GO and (b) C16-GS.
+145: 
+146: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+147: Figure 3. Non-contact mode AFM image of C16-GS with three height profiles acquired at different locations.
+148: 
+149: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+150: 
+151: # 3.2. CPI Structure
+152: 
+153: The synthesis of CPI was confirmed using FT-IR and  $^{13}\mathrm{C}$  MAS NMR spectroscopy, and the results are shown in Figures 4 and 5, respectively. Peaks corresponding to aromatic and aliphatic C-H stretching were observed at 3065 and  $2960~\mathrm{cm}^{-1}$ , respectively, and peaks corresponding to  $-\mathrm{C = O}$  stretching were detected at 1776 and  $1717~\mathrm{cm}^{-1}$  (Figure 4). In addition, the imide C-N-C stretching at  $1337~\mathrm{cm}^{-1}$  confirmed successful imidization [29]. NMR analysis revealed peaks corresponding to methyl  $(- \mathrm{CH}_3)$ , isopropyl  $(- \mathrm{C - (CH_3)_2})$ , and carbonyl  $(- \mathrm{C = O})$  groups of the PI structure at 30.96, 42.42, and 165.26 ppm, respectively (Figure 5). Phenyl carbon peaks were observed at 127.25, 133.01, 142.67, and 151.25 ppm with spinning sidebands (indicated by an asterisk) [29].
+154: 
+155: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+156: Figure 4. FT-IR spectra of CPI.
+157: 
+158: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+159: Figure 5.  $^{13}\mathrm{C}$  MAS NMR spectra of CPI.
+160: 
+161: # 3.3. XRD Analysis
+162: 
+163: XRD patterns in the range  $2\theta = 3^{\circ} - 15^{\circ}$  of GO, C16-GS, MMT, C16-MMT, and CPI hybrid films with varying nanofiller loadings are shown in Figure 6. GO exhibited a weak peak at  $2\theta = 12.30^{\circ}$ , while C16-GS showed a very sharp peak at  $2\theta = 3.86^{\circ}$  (Figure 6a). The interlayer spacing  $d$  of C16-GS  $(d = 22.89\AA)$  was larger than that of GO  $(d = 7.19\AA)$  owing to the long alkyl group substituent on the GO surface. For the CPI hybrid film, no F-GS peak was observed until a loading of  $1.00\mathrm{wt}\%$ . This indicates that C16-GS is completely dispersed in the CPI matrix with no agglomeration.
+164: 
+165: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+166: Figure 6. XRD patterns of nanofillers, CPI, and CPI hybrid films with various loadings of nanofillers (a) C16-GS and (b) C16-MMT.
+167: 
+168: A diffraction peak was observed at  $2\theta = 8.60^{\circ}$ $(d = 11.99\AA)$  for pristine MMT, while C16-MMT exhibited a peak at  $2\theta = 3.69^{\circ}$ $(d = 25.96\AA)$  (see Figure 6b). The significant increase in the interlayer spacing of the organoclay was ascribed to the substitution of the clay surface with the long alkyl chain [26,31]. No clay peak was observed up to a  $0.50\mathrm{wt}\%$  C16-MMT loading; however, at a loading of  $0.75\mathrm{wt}\%$ , a very small peak appeared at  $2\theta = 6.73^{\circ}$ $(d = 13.12\AA)$ , and the intensity of this peak increases for a loading of  $1.00\mathrm{wt}\%$ . This observation can be explained by the agglomeration of the organoclay nanofiller above a certain critical concentration [32-34].
+169: 
+170: Because the interlayer separation of C16-MMT  $(d = 25.96\AA)$  was larger than that of C16-GS  $(d = 22.89\AA)$ , it is easier to insert a polymer chain when C16-MMT is used as the nanofiller rather than C16-GS, and thus, improved hybrid properties can be expected [22,26,31].
+171: 
+172: In general, XRD analysis is used to investigate the aggregation and interlayer separation of the composite. However, it provides only a preliminary indication, and it is necessary to observe the insertion or exfoliation of nanofillers using electron microscopy [35,36].
+173: 
+174: # 3.4. Morphology
+175: 
+176: FE-SEM was used to observe the fracture surfaces of CPI hybrid films with various C16-GS loadings, and micrographs are shown in Figure 7. The GSs are distributed in a uniform direction in the form of straight plates. Following initially good dispersibility, the agglomeration of F-GS in the CPI matrix gradually increases with increasing loading. These results show that as the amount of C16-GS increased, several empty spaces were detected in the matrix, indicating poor dispersibility in the CPI matrix. From the results of this study, the dispersibility of F-GS increased up to a certain concentration but decreased above the critical concentration.
+177: 
+178: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+179: Figure 7. FE-SEM micrographs of CPI hybrid films containing (a) 0.25, (b) 0.50, (c) 0.75, and (d) 1.00 wt% C16-GS.
+180: 
+181: TEM was used to confirm the dispersed morphology of C16-GS in the CPI polymer matrix. Figure 8 shows TEM images of the hybrid films containing 0.50 and  $1.00\mathrm{wt}\%$  C16-GS. The bright white line represents the graphene layer, and the space between the white lines corresponds to the CPI matrix. In the film containing  $0.50\mathrm{wt}\%$  C16-GS (Figure 8a), the GSs were exfoliated and randomly dispersed over a large area. However, at  $1.00\mathrm{wt}\%$  loading (Figure 8b), agglomerated GSs with a uniform arrangement were observed. This observation agrees well with the FE-SEM results, and the negative effect of agglomeration on the thermal and optical properties is described below.
+182: 
+183: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+184: (a)  $0.50\mathrm{wt}\%$
+185: 
+186: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+187: 
+188: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+189: (b) 1.00 wt%
+190: 
+191: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+192: Figure 8. TEM micrographs of CPI hybrid films containing (a) 0.50 and (b)  $1.00\mathrm{wt}\%$  C16-GS with different magnifications.
+193: 
+194: Organoclay is well-dispersed in the CPI polymer matrix for a loading of  $0.50\mathrm{wt}\%$  (Figure 9a). However, at a C16-MMT loading of  $1.00\mathrm{wt}\%$ , the clay showed an overall agglomerated morphology (Figure 9b), which corroborates the findings from the XRD analysis (Figure 6b). C16-GS is uniformly oriented and has a straight and rigid plate shape, whereas C16-MMT is randomly oriented and well-dispersed in the matrix, which improves the physical properties of the hybrid film [37].
+195: 
+196: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+197: (a)  $0.50\mathrm{wt}\%$
+198: 
+199: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+200: 
+201: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+202: (b)  $1.00\mathrm{wt}\%$
+203: 
+204: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+205: Figure 9. TEM micrographs of CPI hybrid films containing (a) 0.50 and (b)  $1.00\mathrm{wt}\%$  C16-MMT with different magnifications.
+206: 
+207: # 3.5. Thermal Properties
+208: 
+209: Figure 10 shows the DSC thermograms of the CPI hybrid films with various nanofillers loadings, and Table 2 summarizes their thermal properties. The glass transition temperature  $(T_{g})$  of the pure CPI film is  $170^{\circ}\mathrm{C}$  and that of the hybrid film gradually increases with the nanofiller content. For example, the  $T_{g}$  values increased to 185 and  $191^{\circ}\mathrm{C}$  for  $0.50\mathrm{wt}\%$  C16-GS and C16-MMT, respectively. This reflects the decreased mobility of the polymer chains sandwiched between hard plate-shaped nanofiller layers. Eventually, the segmental motion of the polymer chain was disturbed, and  $T_{g}$  increased. The increase in  $T_{g}$  is explained by two factors [38,39]. First, the nanofiller layers dispersed in the polymer matrix significantly decrease the free volume of polymer chains, thus increasing the  $T_{g}$  of the hybrid. The second factor is the constraint of the polymer chains inserted inside the filler gallery, which prevents the segmental motion of the polymer chains.
+210: 
+211: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+212: 
+213: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+214: Figure 10. DSC thermograms of nanofillers, CPI, and CPI hybrid films with various nanofiller loadings of (a) C16-GS and (b) C16-MMT.
+215: 
+216: Table 2. Thermal properties of CPI hybrid films.  
+217: 
+218: <table><tr><td rowspan="2">Filler in CPI (wt%)</td><td colspan="4">C16-GS</td><td colspan="4">C16-MMT</td></tr><tr><td>Tg(°C)</td><td>TDi a(°C)</td><td>wtrR600 b(%)</td><td>CTEc(ppm/°C)</td><td>Tg(°C)</td><td>TDi(°C)</td><td>wtrR600(%)</td><td>CTE(ppm/°C)</td></tr><tr><td>0(pure CPI)</td><td>170</td><td>467</td><td>52</td><td>54.7</td><td>170</td><td>467</td><td>52</td><td>54.7</td></tr><tr><td>0.25</td><td>180</td><td>474</td><td>54</td><td>53.2</td><td>180</td><td>508</td><td>56</td><td>49.3</td></tr><tr><td>0.50</td><td>185</td><td>492</td><td>55</td><td>52.0</td><td>191</td><td>511</td><td>56</td><td>49.0</td></tr><tr><td>0.75</td><td>181</td><td>480</td><td>52</td><td>54.2</td><td>185</td><td>504</td><td>55</td><td>49.0</td></tr><tr><td>1.00</td><td>177</td><td>467</td><td>54</td><td>52.2</td><td>183</td><td>483</td><td>55</td><td>47.1</td></tr></table>
+219: 
+220: a Initial  $2\%$  weight loss temperature. b Weight residue at  $600^{\circ}\mathrm{C}$ . c Coefficient of thermal expansion for 2nd heating between  $50 - 150^{\circ}\mathrm{C}$ .
+221: 
+222: However, when the content of the nanofillers increased from 0.50 to  $1.00\mathrm{wt}\%$ , the  $T_{g}$  value of the hybrid decreased to 177 and  $183^{\circ}\mathrm{C}$  for C16-GS and C16-MMT, respectively. This is ascribed to filler agglomeration, which occurs when nanofiller loading exceeds a critical concentration. Similar results have been reported in several papers [40,41].
+223: 
+224: CPI hybrid films comprising C16-MMT possess higher  $T_{g}$  values than films containing C16-GS. This is because the aspect ratio of MMT (~218) is smaller than that of GS (>250), which facilitates the dispersion of MMT in the matrix polymer [18,23]. This result confirms the dispersion state, as indicated by the electron microscopy results (Figures 7-9).
+225: 
+226: From the TGA results (Figure 11), the initial  $2\%$  weight loss temperature  $(T_{D}^{i})$  of the pure CPI film was  $467^{\circ}\mathrm{C}$  (Table 2), and the  $0.50\mathrm{wt}\%$  C16-GS hybrid has a  $T_{D}^{i}$  value of  $492^{\circ}\mathrm{C}$ . This was rationalized by dispersed C16-GS hindering heat transfer, thereby suppressing volatilization [42-44]. However, increasing the C16-GS loading from 0.50 to  $1.00\mathrm{wt}\%$  results in a lower  $T_{D}^{i}$  value of  $467^{\circ}\mathrm{C}$ , which is ascribed to nanofiller agglomeration. The C16-MMT hybrid film exhibited the same trend, attaining a maximum  $T_{D}^{i}$  value of  $511^{\circ}\mathrm{C}$  for loading of  $0.50\mathrm{wt}\%$ , and as the nanofiller loading was increased to  $1.00\mathrm{wt}\%$ , the  $T_{D}^{i}$  value decreased to  $483^{\circ}\mathrm{C}$ .
+227: 
+228: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+229: 
+230: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+231: Figure 11. TGA thermograms of nanofillers, CPI, and CPI hybrid films with various nanofiller loadings of (a) C16-GS and (b) C16-MMT.
+232: 
+233: As shown in Figure 11, all the thermograms of the hybrid films exhibit a small weight loss at  $\sim 250^{\circ}\mathrm{C}$ , owing to the decomposition of C16, and the loss starting at about  $450^{\circ}\mathrm{C}$  is presumed to be the decomposition of the PI main chain.
+234: 
+235: The weight residue at  $600^{\circ}\mathrm{C}$  ( $w t_{R}^{600}$ ) of the pure CPI film did not significantly change with the admixture of either nanofiller. This result is due to the retention of the excellent heat resistance of the plate-like layers of GS and MMT after the decomposition of the substituted alkyl groups.
+236: 
+237: Upon heating the polymer, the parallel PI chains relax in a direction perpendicular to their propagation direction. The GS or MMT layers of the nanofillers are considerably harder to deform. Therefore, graphene or clay, which can efficiently block heat transfer, effectively inhibits the traverse thermal expansion of the polymer matrix [45-47]. To endow
+238: 
+239: hybrid films with high resistance to thermal expansion, the matrix polymer and nanofiller must have high thermal stability.
+240: 
+241: Table 2 summarizes the CTE values of the CPI hybrid films with various nanofillers loadings obtained after secondary heating in the temperature range of  $50 - 150^{\circ}\mathrm{C}$ . In the C16-GS hybrid, CTE values were approximately constant in the range of  $52.0 - 54.7\mathrm{ppm} / {}^{\circ}\mathrm{C}$  regardless of the nanofiller content. However, the CTE value decreases with C16-MMT loading. For example, the CTE value decreased from  $54.7\mathrm{ppm} / {}^{\circ}\mathrm{C}$  for pure CPI to  $47.1\mathrm{ppm} / {}^{\circ}\mathrm{C}$  for the  $1.00\mathrm{wt}\%$  C16-MMT hybrid film. Figure 12 shows the TMA thermograms of the CPI hybrid films with different nanofiller loadings.
+242: 
+243: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+244: 
+245: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+246: Figure 12. TMA thermograms of nanofillers, CPI, and CPI hybrid films with various nanofiller loadings of (a) C16-GS and (b) C16-MMT.
+247: 
+248: Overall, the thermal properties of the C16-MMT hybrid film were superior to those of the C16-GS hybrid film. This is attributed to the following reasons. (1) C16-MMT had a larger  $d$  than C16-GS, which facilitates the intercalation of polymer chains (Figure 6). (2) MMT has a shorter aspect ratio than GS, which facilitates dispersion in a polymer matrix. (3) The thermal stability of the organoclay was higher than that of F-GS. According to the TGA results (Figure 11 and Table 1), the  $T_{D}^{i}$  of C16-GS and C16-MMT were 196 and  $279^{\circ}\mathrm{C}$ , respectively. Owing to the superior thermal stability of C16-MMT compared to C16-GS, the thermal stability  $(T_{D}^{i}, w t_{R}^{600})$ , and CTE) of the hybrid using the organoclay nanofiller is also superior to that of the F-GS hybrid.
+249: 
+250: # 3.6. Optical Properties
+251: 
+252: Figure 13 shows the UV-vis transmittance spectra of the hybrid films with various nanofiller loadings, and the  $\lambda_0$  and transmittance at  $500\mathrm{nm}$  ( $500\mathrm{nm}^{\mathrm{trans}}$ ) values are listed in Table 3. The  $\lambda_0$  value of pure CPI ( $368\mathrm{nm}$ ) gradually increased with the content of the
+253: 
+254: two nanofillers. For example, the  $\lambda_{o}$  value of the 0.25 and  $1.00\mathrm{wt}\%$  C16-GS hybrid films are 380 and  $385\mathrm{nm}$ , respectively, and that of the  $1.00\mathrm{wt}\%$  C16-MMT hybrid film is  $377\mathrm{nm}$ . All the hybrid films obtained in this study exhibit  $\lambda_{o}$  values below the visible light wavelengths (400-800 nm).
+255: 
+256: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+257: 
+258: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+259: Figure 13. UV-vis transmittance of nanofillers, CPI, and CPI hybrid films with various nanofiller loadings of (a) C16-GS and (b) C16-MMT.
+260: 
+261: Table 3. Optical properties of CPI hybrid films.  
+262: 
+263: <table><tr><td rowspan="2">Filler in CPI (wt%)</td><td colspan="4">C16-GS</td><td colspan="4">C16-MMT</td></tr><tr><td>Thickness (μm)</td><td>λo a (nm)</td><td>500 nmtrans (%)</td><td>YI b</td><td>Thickness (μm)</td><td>λo (nm)</td><td>500 nmtrans (%)</td><td>YI</td></tr><tr><td>0(pure CPI)</td><td>54</td><td>368</td><td>87</td><td>2</td><td>54</td><td>368</td><td>87</td><td>2</td></tr><tr><td>0.25</td><td>55</td><td>380</td><td>66</td><td>10</td><td>55</td><td>368</td><td>86</td><td>1</td></tr><tr><td>0.50</td><td>55</td><td>380</td><td>63</td><td>9</td><td>54</td><td>370</td><td>86</td><td>2</td></tr><tr><td>0.75</td><td>58</td><td>383</td><td>43</td><td>9</td><td>53</td><td>372</td><td>85</td><td>2</td></tr><tr><td>1.00</td><td>57</td><td>385</td><td>36</td><td>15</td><td>54</td><td>377</td><td>85</td><td>3</td></tr></table>
+264: 
+265: a Cut-off wavelength. b Yellow index.
+266: 
+267: The  $500\mathrm{nm}^{\mathrm{trans}}$  value substantially decreases from  $87\%$  to  $36\%$  when the C16-GS loading increased from 0 to  $1.00\mathrm{wt}\%$ ; however, it remained constant regardless of the organoclay loading (Table 3). Similarly, the YI value of the film significantly increases from 2 to 15 when the C16-GS content increases to  $1.00\mathrm{wt}\%$ , while it was maintained in the
+268: 
+269: range of 1-3 for all C16-MMT loadings. Therefore, colorlessness and transparency were maintained for the organoclay nanofiller.
+270: 
+271: The optical transparencies of the C16-MMT hybrid film with the same filler contents were better than those of the C16-GS hybrid film. As observed from the TEM images in Figures 8 and 9, at the same loading, C16-MMT had a smaller plate shape and better dispersion than C16-GS; therefore, the optical properties of pure CPI were better maintained and remained largely unaffected by the organoclay content. For C16-GS hybrid films, the transmittance decreased, and the YI value increased as the GS content increased because the plate aspect ratio was larger than that of MMT, and the dispersion state was worse than that of MMT. As already explained, these results are closely related to the aspect ratios of the GS and MMT.

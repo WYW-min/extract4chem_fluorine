@@ -1,0 +1,19 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1,4-Bis((4-aminophenyl)1,3,4-oxadiazolyl)benzene, BAOB (4)
+line_span: [57, 61]
+char_span: [12923, 14180]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0006: 1,4-Bis((4-aminophenyl)1,3,4-oxadiazolyl)benzene, BAOB (4)) ---
+57: # 1,4-Bis((4-aminophenyl)1,3,4-oxadiazolyl)benzene, BAOB (4)
+58: 
+59: The compound was synthesized according to the literature [46]. A mixture of terephthalic dihydrazide  $(0.194\mathrm{g},1\mathrm{mmol})$  and  $p$ -aminobenzoic acid  $(0.274\mathrm{g},2\mathrm{mmol})$  in trifluoroacetic acid  $(10\mathrm{mL})$  was refluxed for  $4 - 6\mathrm{h}$ . The reaction mixture was slowly poured over crushed ice and kept overnight. The solid thus separated out was neutralized with  $\mathrm{NaHCO}_3$ , filtered, washed with water and then re-crystallized from ethanol to give  $0.253\mathrm{g}$  brown powder.  $(Yield = 45.3\%)$ $\mathrm{m.p.} = 283 - 286^{\circ}\mathrm{C})$ . FT-IR (KBr,  $\mathrm{cm^{-1}}$ ): 3325 (m), 3218 (m), 1608 (s), 1497 (s), 1443 (m), 1394 (w), 1313 (m).  ${}^{13}\mathrm{C}$  NMR  $(75\mathrm{MHz}$  DMSO- $\mathbf{d}_6$ ,  $\Delta$ , ppm): 165.1, 164.8, 152.6, 129.3, 128.3, 127.9, 127.1, 126.2, 113.5, 109.4.  ${}^{1}\mathrm{H}$  NMR  $(300\mathrm{MHz}$  DMSO- $\mathbf{d}_6$ ,  $\Delta$ , ppm): 6.0 (s), 6.7 (d, J = 8.2), 7.8 (d, J = 8.3), 8.0-8.3 (m).  ${}^{1}\mathrm{H}$  NMR (DMSO- $\mathbf{d}_6$ ,  $\mathrm{D}_2\mathrm{O}$ ): ppm): 6.7 (d, J = 7.8), 7.7 (d, J = 8.2), 7.9-8.2 (m).  $(\mathrm{m / e})^{+}$ : 396  $(0.23\%)$ .

@@ -1,0 +1,19 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 9
+block_id: b0010
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: CONCLUSION
+line_span: [245, 249]
+char_span: [35278, 36324]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0010: CONCLUSION) ---
+245: # CONCLUSION
+246: 
+247: We investigated the effects of PMMA content and thermal treatment on  $\mathrm{CO}_{2}$  sorption of ABA-type triblock copolymers derived from PI and PMMA. TGA results showed that thermally labile blocks in Block(PI/PMMA) can be completely decomposed under a thermal condition presented in previous study. SEM results demonstrated that the asperity was microphase separation caused by the PMMA block content rate. Numerous pores with sizes of approximately 10 to  $50~\mathrm{nm}$  were observed in the Block(28/72) and Block(10/90). The isotherms fitted the dual-mode sorption model in all polymer films, and  $\mathrm{CO}_{2}$  sorption decreased with increasing PMMA content rate. Infinite-dilution  $\mathrm{CO}_{2}$  solubility depended on Langmuir's site of each polymer because  $S_{H0} / S_0$  of PI and Block(PI/PMMA) varied from 0.84 to 0.92.  $\mathrm{CO}_{2}$  affinity was increased by thermal treatment as indicated by the higher  $b$  and  $S_0$  values of thermally treated films than that of the nontreated films.

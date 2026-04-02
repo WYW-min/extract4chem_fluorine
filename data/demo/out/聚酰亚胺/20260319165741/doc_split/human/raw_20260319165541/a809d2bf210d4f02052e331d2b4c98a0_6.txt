@@ -1,0 +1,52 @@
+source_file: Mass-Synthesized Solution-Processable Polyimide Gate Dielectrics for Electrically Stable Operating OFETs and I.md
+doc_id: a809d2bf210d4f02052e331d2b4c98a0
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [186, 221]
+char_span: [29033, 37046]
+line_count: 36
+effective_body_non_empty_lines: 33
+
+lines:
+--- chunk (b0007: References) ---
+186: # References
+187: 
+188: 1. Li, J.; Tang, W.; Wang, Q.; Sun, W.; Zhang, Q.; Guo, X.; Wang, X.; Yan, F. Solution-processable organic and hybrid gate dielectrics for printed electronics. Mater. Sci. Eng. R Rep. 2018, 127, 1-36. [CrossRef]  
+189: 2. Wang, Y.; Huang, X.; Li, T.; Li, L.; Guo, X.; Jiang, P. Polymer-Based Gate Dielectrics for Organic Field-Effect Transistors. Chem. Mater. 2019, 31, 2212-2240. [CrossRef]  
+190: 3. Stucchi, E.; Dell'Erba, G.; Colpani, P.; Kim, Y.-H.; Caironi, M. Low-Voltage, Printed, All-Polymer Integrated Circuits Employing a Low-Leakage and High-Yield Polymer Dielectric. Adv. Electron. Mater. 2018, 4, 1800340. [CrossRef]  
+191: 4. Guo, S.; Wang, Z.; Chen, X.; Li, L.; Li, J.; Ji, D.; Li, L.; Hu, W. Low-voltage polymer-dielectric-based organic field-effect transistors and applications. Nano Select 2021. [CrossRef]  
+192: 5. Tang, X.; Kwon, H.-j.; Li, Z.; Wang, R.; Kim, S.J.; Park, C.E.; Jeong, Y.J.; Kim, S.H. Strategy for Selective Printing of Gate Insulators Customized for Practical Application in Organic Integrated Devices. ACS Appl. Mater. Interfaces 2021, 13, 1043-1056. [CrossRef]  
+193: 6. Kim, K.; Shin, S.; Kim, S.H.; Lee, J.; An, T.K. High-efficiency nitrene-based crosslinking agent for robust dielectric layers and high-performance solution-processed organic field-effect transistors. Appl. Surf. Sci. 2019, 479, 280–286. [CrossRef]  
+194: 7. Min, H.; Kang, B.; Shin, Y.S.; Kim, B.; Lee, S.W.; Cho, J.H. Transparent and Colorless Polyimides Containing Multiple Trifluoromethyl Groups as Gate Insulators for Flexible Organic Transistors with Superior Electrical Stability. ACS Appl. Mater. Interfaces 2020, 12, 18739-18747. [CrossRef] [PubMed]  
+195: 8. Kim, M.J.; Lee, M.; Min, H.; Kim, S.; Yang, J.; Kweon, H.; Lee, W.; Kim, D.H.; Choi, J.-H.; Ryu, D.Y.; et al. Universal three-dimensional crosslinker for all-photopatterned electronics. Nat. Commun. 2020, 11, 1520. [CrossRef] [PubMed]  
+196: 9. Kim, D.W.; Min, S.-Y.; Lee, Y.; Jeong, U. Transparent Flexible Nanoline Field-Effect Transistor Array with High Integration in a Large Area. ACS Nano 2020, 14, 907-918. [CrossRef]  
+197: 10. Huang, W.; Fan, H.; Zhuang, X.; Yu, J. Effect of UV/ozone treatment on polystyrene dielectric and its application on organic field-effect transistors. Nanoscale Res. Lett. 2014, 9, 479. [CrossRef]  
+198: 11. Lyu, B.; Kim, M.; Jing, H.; Kang, J.; Qian, C.; Lee, S.; Cho, J.H. Large-Area MXene Electrode Array for Flexible Electronics. ACS Nano 2019, 13, 11392-11400. [CrossRef]  
+199: 12. Chen, Z.; Zhu, D.; Tong, F.; Lu, X.; Lu, Q. Low Dielectric Constant Polyimide Hybrid Films Prepared by in Situ Blow-Balloon Method. ACS Appl. Polym. Mater. 2019, 1, 2189-2196. [CrossRef]  
+200: 13. Park, H.; Yoo, S.; Won, J.C.; Kim, Y.H. Room-temperature, printed, low-voltage, flexible organic field-effect transistors using soluble polyimide gate dielectrics. APL Mater. 2020, 8, 011112. [CrossRef]  
+201: 14. Ji, D.; Li, T.; Hu, W.; Fuchs, H. Recent Progress in Aromatic Polyimide Dielectrics for Organic Electronic Devices and Circuits. Adv. Mater. 2019, 31, 1806070. [CrossRef]  
+202: 15. Meador, M.A.B.; Vivod, S.L. Polyimide Synthesis. In Encyclopedia of Polymeric Nanomaterials; Kobayashi, S., Mullen, K., Eds.; Springer: Berlin/Heidelberg, Germany, 2021; pp. 1-11.  
+203: 16. Kang, M.J.; Doi, I.; Mori, H.; Miyazaki, E.; Takimiya, K.; Ikeda, M.; Kuwabara, H. Alkylated Dinaphtho [2,3-b:2',3'-f]Thieno[3,2-b]Thiophenes (Cn-DNTTs): Organic Semiconductors for High-Performance Thin-Film Transistors. Adv. Mater. 2011, 23, 1222-1225. [CrossRef] [PubMed]  
+204: 17. Sadhasivam, B.; Muthusamy, S. Thermal and dielectric properties of newly developed L-tryptophan-based optically active polyimide and its POSS nanocomposites. Des. Monomers Polym. 2016, 19, 236-247. [CrossRef]  
+205: 18. Kim, S.; Jang, K.-S.; Choi, H.-D.; Choi, S.-H.; Kwon, S.-J.; Kim, I.-D.; Lim, J.A.; Hong, J.-M. Porous polyimide membranes prepared by wet phase inversion for use in low dielectric applications. Int. J. Mol. Sci. 2013, 14, 8698-8707. [CrossRef]  
+206: 19. Kwon, H.-J.; Ye, H.; Baek, Y.; Hong, J.; Wang, R.; Choi, Y.; Lee, I.; Park, C.E.; Nam, S.; Kim, J.; et al. Printable Ultra-Flexible Fluorinated Organic-Inorganic Nanohybrid Sol-Gel Derived Gate Dielectrics for Highly Stable Organic Thin-Film Transistors and Other Practical Applications. Adv. Funct. Mater. 2021, 31, 2009539. [CrossRef]  
+207: 20. Kwon, H.-J.; Tang, X.; Shin, S.; Hong, J.; Jeong, W.; Jo, Y.; An, T.K.; Lee, J.; Kim, S.H. Facile Photo-cross-linking System for Polymeric Gate Dielectric Materials toward Solution-Processed Organic Field-Effect Transistors: Role of a Cross-linker in Various Polymer Types. ACS Appl. Mater. Interfaces 2020, 12, 30600–30615. [CrossRef]  
+208: 21. Lill, A.T.; Eftaiha, A.a.F.; Huang, J.; Yang, H.; Seifrid, M.; Wang, M.; Bazan, G.C.; Nguyen, T.-Q. High-k Fluoropolymer Gate Dielectric in Electrically Stable Organic Field-Effect Transistors. ACS Appl. Mater. Interfaces 2019, 11, 15821-15828. [CrossRef]  
+209: 22. Xu, B.; Dogan, T.; Wilbers, J.G.E.; de Jong, M.P.; Bobbert, P.A.; van der Wiel, W.G. Fabrication, electrical characterization and device simulation of vertical P3HT field-effect transistors. J. Sci. Adv. Mater. Devices 2017, 2, 501-514. [CrossRef]  
+210: 23. Seo, J.; Oh, S.; Choi, G.; Choi, H.H.; Lee, H.S. Polymeric Conformation of Organic Interlayers as a Determining Parameter for the Charge Transport of Organic Field-Effect Transistors. Macromol. Res. 2020, 28, 670-676. [CrossRef]  
+211: 24. Kwon, H.-J.; Gao, C.Y.; Tang, X.; Hong, J.; Park, C.E.; Kong, H.; Kim, S.H.; Yang, H. Comparison of semiconductor growth and charge transport on hydrophobic polymer dielectrics of organic field-effect transistors: Cytop vs. polystyrene. Org. Electron. 2020, 77, 105485. [CrossRef]  
+212: 25. Pei, K.; Chen, M.; Zhou, Z.; Li, H.; Chan, P.K.L. Overestimation of Carrier Mobility in Organic Thin Film Transistors Due to Unaccounted Fringe Currents. ACS Appl. Electron. Mater. 2019, 1, 379-388. [CrossRef]  
+213: 26. Hofmockel, R.; Zschieschang, U.; Kraft, U.; Rödel, R.; Hansen, N.H.; Stolte, M.; Würthner, F.; Takimiya, K.; Kern, K.; Pflaum, J.; et al. High-mobility organic thin-film transistors based on a small-molecule semiconductor deposited in vacuum and by solution shearing. Org. Electron. 2013, 14, 3213-3221. [CrossRef]
+214: 
+215: 27. Kojima, H.; Abe, R.; Fujiwara, F.; Nakagawa, M.; Takahashi, K.; Kuzuhara, D.; Yamada, H.; Yakiyama, Y.; Sakurai, H.; Yamamoto, T.; et al. Universality of the giant Seebeck effect in organic small molecules. Mater. Chem. Front. 2018, 2, 1276-1283. [CrossRef]  
+216: 28. Jeong, Y.J.; Yun, D.-J.; Nam, S.; Jang, J. Enhanced gate-bias stress stability of organic field-effect transistors by introducing a fluorinated polymer in semiconductor/insulator ternary blends. Appl. Surf. Sci. 2019, 481, 642-648. [CrossRef]  
+217: 29. Liu, C.; Xu, Y.; Li, Y.; Scheideler, W.; Minari, T. Critical Impact of Gate Dielectric Interfaces on the Contact Resistance of High-Performance Organic Field-Effect Transistors. J. Phys. Chem. C 2013, 117, 12337-12345. [CrossRef]  
+218: 30. Sim, K.; Rao, Z.; Kim, H.-J.; Thukral, A.; Shim, H.; Yu, C. Fully rubbery integrated electronics from high effective mobility intrinsically stretchable semiconductors. Sci. Adv. 2019, 5, eaav5749. [CrossRef] [PubMed]  
+219: 31. Tang, X.; Murali, G.; Lee, H.; Park, S.; Lee, S.; Oh, S.M.; Lee, J.; Ko, T.Y.; Koo, C.M.; Jeong, Y.J.; et al. Engineering Aggregation-Resistant MXene Nanosheets As Highly Conductive and Stable Inks for All-Printed Electronics. Adv. Funct. Mater. 2021, 31, 2010897. [CrossRef]  
+220: 32. Lee, D.; Yoon, J.; Lee, J.; Lee, B.-H.; Seol, M.-L.; Bae, H.; Jeon, S.-B.; Seong, H.; Im, S.G.; Choi, S.-J.; et al. Logic circuits composed of flexible carbon nanotube thin-film transistor and ultra-thin polymer gate dielectric. Sci. Rep. 2016, 6, 26121. [CrossRef] [PubMed]  
+221: 33. Lai, S.; Casula, G.; Ricci, P.C.; Cosseddu, P.; Bonfiglio, A. All-Organic, Low Voltage, Transparent and Compliant Organic Field-Effect Transistor Fabricated by Means of Large-Area, Cost-Effective Techniques. Appl. Sci. 2020, 10, 6656. [CrossRef]

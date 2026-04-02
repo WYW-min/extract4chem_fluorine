@@ -1,0 +1,46 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 17
+block_id: b0018
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: DIAGNOSTIC OF PHYSICOCHEMICAL RESPONSES
+line_span: [188, 219]
+char_span: [38157, 41018]
+line_count: 30
+effective_body_non_empty_lines: 16
+
+lines:
+--- chunk (b0018: DIAGNOSTIC OF PHYSICOCHEMICAL RESPONSES) ---
+188: # DIAGNOSTIC OF PHYSICOCHEMICAL RESPONSES
+189: 
+190: The diagnostic plots given in Figure 4 were used for estimating the adequacy of the regression model. The percentage value of actual physicochemical responses was the experimental result for a specific run whereas the predicted value was evaluated via the CCD model from the three independent variables. In Figure 4, it can be observed that there was a tendency in the linear regression fit. It proved that the model clarified the experimental range studied for response water uptake and proton conductivity. However, as for the response of IEC, the experimental data were distributed scattering far around the linear regression line, which had been explained by the low R2 value of 0.6177 that  $61.77\%$  of data were fitted to the model regression line.
+191: 
+192: A normal distribution function was then fitted to the studentized residuals. Figure 5 indicated the normal plot
+193: 
+194: for the studentized residuals. From Figure 5, it shows the normal distribution of studentized residuals regarding S-shaped curve was not formed. The data points indicated that neither response transformation was required nor there was an apparent problem with normalization.
+195: 
+196: Figure 6 shows the studentized residual and predicted physicochemical responses of the composite membranes. The random scatter of the residuals in Figure 6 indicated that the suggested models were in the appropriate description of the process. Besides, the red lines in Figure 6 were the outlier t plot for the three responses. It measured how many standard deviations of the actual values deviated from the predicted value. Most of the standard residuals should lie in the interval of  $\pm 3.00$ . In Figure 6, there were no data beyond the interval 3, which showed that the fitted models were consistent with all the data with no recording error.
+197: 
+198: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+199: 
+200: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+201: 
+202: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+203: FIGURE 4. Observed responses (a) water uptake, (b) proton conductivity and (c) IEC predicted by the model equation versus experimentally obtained responses
+204: 
+205: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+206: 
+207: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+208: 
+209: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+210: FIGURE 5. Normal % probability versus observed current residuals of (a) water uptake, (b) proton conductivity and (c) IEC
+211: 
+212: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+213: 
+214: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+215: 
+216: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+217: FIGURE 6. Studentized residuals versus predicted observed response of (a) water uptake, (b) proton conductivity and (c) IEC

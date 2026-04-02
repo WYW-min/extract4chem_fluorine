@@ -1,0 +1,23 @@
+source_file: Physical and Gas Transport Properties of Asymmetric Hyperbranched Polyimide-Silica Hybrid Membranes.md
+doc_id: b1e626c918cc5f70491f7b85599283a1
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. CONCLUSIONS
+line_span: [218, 226]
+char_span: [39282, 41190]
+line_count: 7
+effective_body_non_empty_lines: 3
+
+lines:
+--- chunk (b0005: 4. CONCLUSIONS) ---
+218: # 4. CONCLUSIONS
+219: 
+220: The asymmetric and symmetric HBPI-silica hybrid membranes were prepared via sol-gel reaction and their physical and gas transport properties were
+221: 
+222: investigated. It is considered that the asymmetric HBPI molecular chain is more linear than symmetric HBPI. ATR FT-IR spectra revealed satisfactory imidization and sufficient formation of a three-dimensional Si-O-Si network in all prepared membranes. The result of optical transmittances indicated the fine and homogeneous dispersion of silica component even in the asymmetric HBPI with high linearity. From the DMA and TMA measurements, it was suggested that thermal and dimensional stability of the asymmetric HBPI-silica hybrids were higher than those of symmetric HBPI-silica hybrids because the rigidity of the asymmetric HBPI molecular chains. Besides, there were more silanol groups left in the asymmetric HBPI-silica hybrids than the symmetric HBPI-silica hybrids due to the rigidity of the asymmetric HBPI molecular chains. Thus, the  $T_{\mathrm{d}}^{5}$  values of the asymmetric HBPI-silica hybrids did not increase so conspicuously as corresponding symmetric HBPI-silica hybrids with increasing silica content. The  $\mathrm{CO}_{2}, \mathrm{O}_{2}, \mathrm{N}_{2}$ , and  $\mathrm{CH}_4$  gas permeability coefficient of asymmetric AM-HBPI-silica hybrid membranes decreased with increasing silica content. This was because the dispersibility of a silica component in the asymmetric HBPI-silica hybrids with the high linearity of polymer chain is not as fine as in symmetric HBPI-silica hybrids, and therefore the long
+223: 
+224: and tortuous diffusion path was newly formed by hybridization with silica. Nevertheless, the asymmetric HBPI-silica hybrids demonstrate superior  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  selectivity due to the excellent molecular sieving effect of the newly formed free volume holes by incorporation with silica.

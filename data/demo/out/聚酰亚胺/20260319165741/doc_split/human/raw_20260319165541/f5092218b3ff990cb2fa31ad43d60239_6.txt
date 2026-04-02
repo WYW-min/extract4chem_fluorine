@@ -1,0 +1,75 @@
+source_file: Interpenetration Networked Polyimide鈥揈poxy Copolymer under Kinetic and Thermodynamic Control for Anticorrosion.md
+doc_id: f5092218b3ff990cb2fa31ad43d60239
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [329, 387]
+char_span: [50168, 61250]
+line_count: 59
+effective_body_non_empty_lines: 54
+
+lines:
+--- chunk (b0007: References) ---
+329: # References
+330: 
+331: 1. Association for Materials Protection and Performance. Available online: https://www.ampp.org/home (accessed on 1 December 2022).  
+332: 2. Taghavikish, M.; Dutta, N.K.; Roy Choudhury, N. Emerging Corrosion Inhibitors for Interfacial Coating. Coatings 2017, 7, 217. [CrossRef]  
+333: 3. Ahmad, Z. Principles of Corrosion Engineering and Corrosion Control; Chapter 7 Coatings; Elsevier: Amsterdam, The Netherlands, 2006; p. 388. [CrossRef]  
+334: 4. Liu, S.; Gu, L.; Zhao, H.; Chen, J.; Yu, H. Corrosion Resistance of Graphene-Reinforced Waterborne Epoxy Coatings. J. Mater. Sci. Technol. 2016, 32, 425-431. [CrossRef]  
+335: 5. Mu, J.; Gao, F.; Cui, G.; Wang, S.; Tang, S.; Li, Z. A comprehensive review of anticorrosive graphene-composite coatings. *Prog. Org. Coat.* 2021, 157, 106321. [CrossRef]  
+336: 6. Ellis, B. Chemistry and Technologh of Epoxy Resins; Springer: Cham, Switzerland, 1993; pp. 37-71. [CrossRef]  
+337: 7. Sun, J.; Zhang, Z.; Wang, L.; Liu, H.; Banb, X.; Ye, J. Investigation on the epoxy/polyurethane modified asphalt binder cured with bio-based curing agent: Properties and optimization. Constr. Build. Mater. 2022, 320, 126221. [CrossRef]  
+338: 8. Huo, S.; Wang, J.; Yang, S.; Wang, J.; Zhang, B.; Zhang, B.; Chen, X.; Tang, Y. Synthesis of a novel phosphorus-nitrogen type flame retardant composed of maleimide, triazine-trione, and phosphaphenanthrene and its flame retardant effect on epoxy resin. Polym. Degrad. Stab. 2016, 131, 106-113. [CrossRef]  
+339: 9. Han, S.; Yao, T.; Han, X.; Hongwei, Z.; Yang, X. Performance evaluation of waterborne epoxy resin modified hydrophobic emulsified asphalt micro-surfacing mixture. Constr. Build. Mater. 2020, 249, 118835. [CrossRef]  
+340: 10. Grgur, B.N.; Elkais, A.R.; Gvozdenovic, M.M.; Drmanič, S.Z.; Trišović, T.L.; Jugović, B.Z. Corrosion of mild steel with composite polyaniline coatings using different formulations. Prog. Org. Coat. 2015, 79, 17-24. [CrossRef]  
+341: 11. Boshkova, N.; Tabakova, N.; Atanassova, G.; Boshkov, N. Electrochemical Obtaining and Corrosion Behavior of Zinc-Polyaniline (Zn-PANI) Hybrid Coatings. Coatings 2019, 9, 487. [CrossRef]
+342: 
+343: 12. Fang, Z.; Wang, G.; Xiong, Y.; Li, J.; Yang, Y.; Huang, L.; Wang, P.; Liao, J.; Wang, A. Anti-Corrosion Performance of Polyaniline Coated Basalt Rockwool Wastes/Epoxy Resin Coatings. Coatings 2021, 11, 463. [CrossRef]  
+344: 13. Wu, F.; Zhou, X.; Yu, X. Reaction mechanism, cure behavior and properties of a multifunctional epoxy resin, TGDDM, with latent curing agent dicyandiamide. RSC Adv. 2018, 8, 8248-8258. [CrossRef]  
+345: 14. Dai, J.; Peng, Y.; Na, T.; Yuan, L.; Liu, X. High-Performing and Fire-Resistant Biobased Epoxy Resin from Renewable Sources. ACS Sustain. Chem. Eng. 2018, 6, 7589–7599. [CrossRef]  
+346: 15. Cha, J.R.; Gong, M.S. Preparation of epoxy/polyelectrolyte IPNs for flexible polyimide-based humidity sensors and their properties. Sens. Actuators B Chem. 2013, 178, 656-662. [CrossRef]  
+347: 16. Zhang, L.; Zhang, X.; Wei, X.; Jing, D.; Su, W.; Zhang, S. Hydroxyl-functionalized block co-polyimide enables simultaneously improved toughness and strength of tetrafunctional epoxy resin. Compos. Sci. Technol. 2022, 230, 109787. [CrossRef]  
+348: 17. Ma, H.; Aravand, M.A.; Falzon, B.G. Phase morphology and mechanical properties of polyetherimide modified epoxy resins: A comparative study. Polymer 2019, 179, 121640. [CrossRef]  
+349: 18. Xiong, X.; Zhou, L.; Ren, R.; Ma, X. Thermal, mechanical properties and shape memory performance of a novel phthalide-containing epoxy resins. Polymer 2018, 140, 326. [CrossRef]  
+350: 19. Luo, X.; Liu, X.F.; Ding, X.M.; Chen, L.; Chen, S.C.; Wang, Y.Z. Effects of curing temperature on the structure and properties of epoxy resin-poly(ε-caprolactam) blends. Polymer 2021, 228, 123940. [CrossRef]  
+351: 20. Xu, X.; Hu, D.; Ma, W. Synergistic improvement of mechanical and thermal properties in epoxy composites via polyimide microspheres. J. Appl. Polym. Sci. 2021, 35, 138. [CrossRef]  
+352: 21. Stenzenberger, H.D. Recent developments of thermosetting polymers for advanced composites. Compos. Struct. 1993, 24, 219-231. [CrossRef]  
+353: 22. ISO 7253; Paint and Varnishes. Determination of Resistance to Neutral Salt Spray (Fog). ISO: Geneva, Switzerland, 1996.  
+354: 23. Kim, S.H.; Lee, D.W.; Chung, K.H.; Park, J.K.; Jaung, J.Y.; Jeong, S.H. Improvement in the adhesion of polyimide/epoxy joints using various curing agents. J. Appl. Polym. Sci. 2002, 86, 812-820. [CrossRef]  
+355: 24. Huang, T.C.; Yeh, T.C.; Huang, H.Y.; Ji, W.F.; Chou, Y.C.; Hung, W.I.; Yeh, J.M.; Tsai, M.H. Electrochemical studies on aniline-pentamer-based electroactive polyimide coating: Corrosion protection and electrochromic properties. Electrochim. Acta 2011, 56, 10151-10158. [CrossRef]  
+356: 25. Feng, L.; Iroh, J.O. Corrosion resistance and lifetime of polyimide-b-polyurea novel copolymer coatings. Prog. Org. Coat. 2014, 77, 590-599. [CrossRef]  
+357: 26. Francis, B.; Poel, G.V.; Posada, F.; Groeninckx, G.; Roa, V.L.; Ramaswamy, R.; Thomas, S. Cure kinetics and morphology of blends of epoxy resin with poly (ether ether ketone) containing pendant tertiary butyl groups. Polymer 2003, 44, 3687-3699. [CrossRef]  
+358: 27. Xing, H.; Mao, Y.; Yang, Y.; Qu, C.; Wang, D.; Fan, X.; Zhao, L.; Zhou, D.; Liu, C. Preparation of waterborne polyimide-modified epoxy resin with high thermal properties and adhesion properties. J. Appl. Polym. Sci. 2021, 139, e53103. Available online: https://doi-org.ezproxy.lib.nctu.edu.tw/10.1002/app.53103 (accessed on 1 December 2022). [CrossRef]  
+359: 28. Wei, M.; Li, D.; Xiao, C.; Pan, D. Effects of triethylamine on the imidization temperature and properties of PI adhesive. Mater. Res. Exp. 2019, 6, 025311. [CrossRef]  
+360: 29. Gaw, K.; Kikei, K.; Kakimoto, M.; Imai, Y. Preparation of polyimide-epoxy composites. React. Funct. Polym. 1996, 30, 85–91. [CrossRef]  
+361: 30. Iijima, T.; Hamakawa, S.; Tomoi, M. Preparation of novel soluble poly(ester imide)s containing a trimellitimide moiety and their use as modifiers for aromatic diamine-cured epoxy resin. Polym. Int. 2001, 50, 1214-1222. [CrossRef]  
+362: 31. Chen, F.; Wang, X.; Zhao, X.; Liu, J.; Yang, S.; Han, C.C. Spontaneous Three-Layer Formation in the Curing of Polyimide/Epoxy Blends. Macromol. Rapid. Commun. 2008, 29, 74-79. [CrossRef]  
+363: 32. He, S.; Liu, W.; Liu, C.; Jiang, C.; Yang, M.; Wang, Z. Fluorinated polyacrylates containing amino side chains for the surface modification of waterborne epoxy resin. J. Appl. Polym. Sci. 2018, 136, 47091. [CrossRef]  
+364: 33. Tsai, M.-H.; Chen, D.-S.; Chiang, P.-C.; Lin, H.-C.; Jehng, J.-M. Synthesis and characteristics of multi-walled carbon nanotubes-polyimide nanocomposite films. J. Nanosci. Nanotechnol. 2008, 8, 2671-2675. [CrossRef]  
+365: 34. ASTM D882; Standard Test Method for Tensile Properties of Thin Plastic Sheeting. ASTM International: West Conshohocken, PA, USA, 2018.  
+366: 35. Li, S. Intelligent Coatings for Corrosion Control; Chapter 20—Monitoring Corrosion Using Vibrational Spectroscopic Techniques; Elsevier: Amsterdam, The Netherlands, 2015; pp. 673-701. [CrossRef]  
+367: 36. Tseng, I.H.; Lin, H.C.; Tsai, M.H.; Chen, D.S. Thermal conductivity and morphology of silver-filled multiwalled carbon nanotubes/polyimide nanocomposite films. J. Appl. Polym. Sci. 2012, 126, E182-E187. [CrossRef]  
+368: 37. Organic Chemistry (LibreTexts); 14.3: Kinetic vs. Thermodynamic Control of Reactions; University of California: Davis, CA, USA, 2022. Available online: https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(LibreTexts)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.03%3A_Kinetic_vs_.Thermodynamic_Control_of_Reactions (accessed on 1 December 2022).  
+369: 38. Zhang, H.; Heng, Z.; Zhou, J.; Shi, Y.; Chen, Y.; Zou, H.; Liang, M. In-situ co-continuous conductive network induced by carbon nanotubes in epoxy composites with enhanced electromagnetic interference shielding performance. Chem. Eng. J. 2020, 398, 125559. [CrossRef]
+370: 
+371: 39. Feng, W.; Li, J.; Fang, C.; Zhang, L.; Zhu, L. Controllable thermal annealing of polyimide membranes for highly-precise organic solvent nanofiltration. J. Membr. Sci. 2022, 643, 120013. [CrossRef]  
+372: 40. Satulovsky, J.; Carignano, M.A.; Szleifer, I. Kinetic and thermodynamic control of protein adsorption. Proc. Natl. Acad. Sci. USA 2000, 97, 9037-9041. [CrossRef]  
+373: 41. Sebastian, D.; Marcus, V.S.B. Thermodynamic control—An old paradigm with new applications. EPL 2020, 131, 20001. Available online: https://iopscience.iop.org/article/10.1209/0295-5075/131/20001 (accessed on 1 December 2022).  
+374: 42. Zhang, X.; Zhang, B.; Liu, C.; Sun, M.; Zhang, X.; Li, J.; Xue, G. Effect on the thermal resistance and thermal decomposition properties of thermally cross-linkable polyimide films obtained from a reactive acetylene. React. Funct. Polym. 2021, 167, 104994. [CrossRef]  
+375: 43. Matern, J.; Dorca, Y.; Sánchez, L.; Fernández, G. Angew. Revising Complex Supramolecular Polymerization under Kinetic and Thermodynamic Control. Chem. Int. Ed. 2019, 58, 16730. [CrossRef] [PubMed]  
+376: 44. Ryu, J.-H.; Lee, M. Transformation of Isotropic Fluid to Nematic Gel Triggered by Dynamic Bridging of Supramolecular Nanocylinders. J. Am. Chem. Soc. 2005, 127, 14170-14171. [CrossRef]  
+377: 45. Bonnet, A.; Pascauolt, J.P.; Sautereau, H.; Camberlin, Y. Epoxy-Diamine Thermoset/Thermoplastic Blends. 2. Rheological Behavior before and after Phase Separation. Marcormolecules 1999, 32, 8524-8530. [CrossRef]  
+378: 46. Cui, J.; Yu, Y.; Chen, W.; Li, S. Studies on the phase separation of polyetherimide-modified epoxy resin, 2. Effect of molecular weight of PEI on the structure formation. Marcomol. Chem. Phys. 1998, 198, 3267-3276. [CrossRef]  
+379: 47. Gan, W.; Yu, Y.; Wang, M.; Tao, Q.; Li, S. Morphology Evolution during the Phase Separation of Polyetherimide/Epoxy Blends. Macromol. Rapid Commun. 2003, 24, 952-956. [CrossRef]  
+380: 48. Su, S.; Wang, H.; Zhou, C.; Wang, Y.; Liu, J. Study on epoxy resin with high elongation-at-break using polyamide and polyether amine as a two-component curing agent. e-Polymers 2018, 18, 433-439. [CrossRef]  
+381: 49. Sperling, L.H. Interpenetrating Polymer Networks: An Overview; American Chemical Society: Washington, DC, USA, 1994; Volume 239. [CrossRef]  
+382: 50. Agag, T.; Takeichi, T. Synthesis and characterization of epoxy film cured with reactive polyimide. Polymer 1999, 40, 6557-6563. [CrossRef]  
+383: 51. ASTM D 3359-95; Revision A. ASTM International: West Conshohocken, PA, USA, 1995.  
+384: 52. Gaw, K.; Jikei, M.; Kakimoto, M.; Imai, Y.; Mochjizuki, A. Adhesion behaviour of polyamic acid cured epoxy. Polymer 1997, 38, 4413-4415. [CrossRef]  
+385: 53. Murray, S.; Hillman, C.; Pecht, M. Environmental aging and deadhesion of siloxane-polyimide-epoxy adhesive. IEEE Trans. Compon. Packag. Technol. 2003, 26, 524-531. [CrossRef]
+386: 
+387: Disclaimer/Publisher's Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.

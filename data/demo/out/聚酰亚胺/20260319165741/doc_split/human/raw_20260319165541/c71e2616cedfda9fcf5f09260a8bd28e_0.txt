@@ -1,0 +1,43 @@
+source_file: Carborane-Containing Aromatic Polyimide Films with Ultrahigh Thermo-Oxidative Stability.md
+doc_id: c71e2616cedfda9fcf5f09260a8bd28e
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Carborane-Containing Aromatic Polyimide Films with Ultrahigh Thermo-Oxidative Stability
+line_span: [1, 29]
+char_span: [0, 2288]
+line_count: 27
+effective_body_non_empty_lines: 17
+
+lines:
+--- chunk (b0001: Carborane-Containing Aromatic Polyimide Films with Ultrahigh Thermo-Oxidative Stability) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2019, 11, 1930; doi:10.3390/polym11121930
+5: www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Carborane-Containing Aromatic Polyimide Films with Ultrahigh Thermo-Oxidative Stability
+11: 
+12: Fulin Liu  $^{1,2}$ , Guangqiang Fang  $^{3}$ , Haixia Yang  $^{1,*}$ , Shiyong Yang  $^{1,*}$ , Xuezhong Zhang  $^{1}$  and Zhijie Zhang  $^{1}$
+13: 
+14: $^{1}$  Laboratory of Advanced Polymer Materials, Institute of Chemistry, Chinese Academy of Sciences, Beijing 100190, China; liufulin@iccas.ac.cn (F.L.); zhangxuezhong@iccas.ac.cn (X.Z.); zhangzj@iccas.ac.cn (Z.Z.)  
+15: 2 School of Chemical Sciences, University of Chinese Academy of Sciences, Beijing 100049, China  
+16: 3 Shanghai Institute of Aerospace Systems Engineering, Shanghai 201108, China; house19@126.com  
+17: * Correspondence: yanghx@iccas.ac.cn (H.Y.); shiyang@iccas.ac.cn (S.Y.)
+18: 
+19: Received: 28 October 2019; Accepted: 12 November 2019; Published: 22 November 2019
+20: 
+21: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+22: 
+23: check for updates
+24: 
+25: Abstract: Carborane-containing aromatic polyimide (CPI) films with ultrahigh thermo-oxidative stability at  $700^{\circ}\mathrm{C}$  have been prepared by casting poly(amic acid) (PAA) resin solution on a glass surface, followed by thermal imidization at elevated temperatures. The PAA solution was prepared by copolymerization of an aromatic dianhydride and an aromatic diamine mixture, including carborane-containing aromatic diamine in an aprotic solvent. The CPI films showed excellent thermo-oxidative stability at  $700^{\circ}\mathrm{C}$  due to the multilayered protection layers formed on the film surface by thermal conversion of the carborane group into boron oxides. The boron oxide layer enhanced the degradation activation energy and suppressed the direct contact of inner polymer materials with oxygen molecules in a high-temperature environment, acting as a "self-healing" skin layer on the polyimide materials. The CPI-50 film was still flexible and maintained  $50\%$  retention of mechanical strength even after thermo-oxidative aging at  $700^{\circ}\mathrm{C}/5\mathrm{min}$ . The mechanism of thermo-oxidative degradation was proposed.
+26: 
+27: Keywords: polyimide; carborane; thermo-oxidative stability; self-healing layer

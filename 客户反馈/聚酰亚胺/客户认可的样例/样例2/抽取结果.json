@@ -1,0 +1,1125 @@
+{
+  "文献信息": {
+    "唯一文献标识": "doi:10.3390/polym11121918",
+    "论文标题": "A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles: As a Chemiresistor Sensor for Hydrogen Sulfide Gas",
+    "作者列表": [
+      "Lee Marvin G. Padua",
+      "Jui-Ming Yeh",
+      "Karen S. Santiago"
+    ],
+    "期刊名称": "Polymers",
+    "年份": 2019,
+    "卷号": 11,
+    "页码": "1918",
+    "文档类型": "Article",
+    "语言": "English",
+    "关键词": "conducting polymers; metal nanoparticles; gas sensor; hydrogen sulfide gas"
+  },
+  "聚合物": [
+    {
+      "聚合物分类名称": "Aniline Oligomer",
+      "聚合物分类编码": "Oligomer",
+      "名称": "Amino-capped aniline trimer (ACAT)",
+      "身份标识": "doi:10.3390/polym11121918_ACAT_01",
+      "样本形态": "Powder",
+      "结构特征_L1": "modified_linear",
+      "结构特征_L2": "aromatic",
+      "表征": {
+        "红外_FTIR": {
+          "样品形态": "Powder",
+          "峰位_cm-1": [
+            "1504 (benzenoid rings)",
+            "1596 (quinoid rings)"
+          ],
+          "仪器": "JASCO FT/IR-4100"
+        },
+        "质谱_LCMS": {
+          "描述": "MS+ 289.1 m/z, MS- 286.9 m/z (Theoretical MW: 288 g mol-1)",
+          "仪器": "Bruker Daltonics ion trap mass spectrometer"
+        },
+        "核磁_NMR": {
+          "描述": "1H NMR in DMSO-d6",
+          "仪器": "Bruker 300 spectrometer"
+        }
+      },
+      "性质": [],
+      "工艺流程": [
+        {
+          "产物名称": "Amino-capped aniline trimer (ACAT)",
+          "产物质量": "",
+          "产物单位": "",
+          "产物收率百分比": "",
+          "原料": [
+            {
+              "原料名称": "Aniline",
+              "原料类别": "Monomer",
+              "单体类型": "Aromatic amine",
+              "IUPAC名称": "Aniline",
+              "缩写": "",
+              "分子式": "C6H7N",
+              "SMILES": "C1=CC=C(C=C1)N",
+              "CAS号": "62-53-3",
+              "InChI": "InChI=1S/C6H7N/c7-6-4-2-1-3-5-6/h1-5H,7H2",
+              "投料方式": "Distilled prior to use",
+              "型号": "",
+              "来源": "Fluka",
+              "质量": {
+                "单值": "",
+                "单位": ""
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": "",
+                "单位": ""
+              },
+              "当量比": {
+                "单值": 2.0,
+                "单位": "eq"
+              },
+              "纯度": {
+                "单值": 99.0,
+                "单位": "%"
+              },
+              "表征": ""
+            },
+            {
+              "原料名称": "1,4-phenylenediamine",
+              "原料类别": "Monomer",
+              "单体类型": "Aromatic diamine",
+              "IUPAC名称": "1,4-diaminobenzene",
+              "缩写": "",
+              "分子式": "C6H8N2",
+              "SMILES": "C1=CC(=CC=C1N)N",
+              "CAS号": "106-50-3",
+              "InChI": "InChI=1S/C6H8N2/c7-5-1-2-6(8)4-3-5/h1-4H,7-8H2",
+              "投料方式": "",
+              "型号": "",
+              "来源": "",
+              "质量": {
+                "单值": "",
+                "单位": ""
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": "",
+                "单位": ""
+              },
+              "当量比": {
+                "单值": 1.0,
+                "单位": "eq"
+              },
+              "纯度": {
+                "单值": "",
+                "单位": ""
+              },
+              "表征": ""
+            },
+            {
+              "原料名称": "Ammonium persulfate",
+              "原料类别": "Oxidant",
+              "单体类型": "",
+              "IUPAC名称": "Diammonium peroxodisulfate",
+              "缩写": "APS",
+              "分子式": "H8N2O8S2",
+              "SMILES": "O=S(=O)([O-])OOS(=O)(=O)[O-].[NH4+].[NH4+]",
+              "CAS号": "7727-54-0",
+              "InChI": "InChI=1S/2H3N.H2O8S2/c;;1-9(2,3)7-8-10(4,5)6/h2*1H3;(H,1,2,3)(H,4,5,6)/q;;/p-2",
+              "投料方式": "",
+              "型号": "",
+              "来源": "",
+              "质量": {
+                "单值": "",
+                "单位": ""
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": "",
+                "单位": ""
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": "",
+                "单位": ""
+              },
+              "表征": ""
+            }
+          ],
+          "反应条件": [
+            {
+              "反应装置": "",
+              "反应气氛": "",
+              "反应温度": {
+                "单值": "",
+                "单位": ""
+              },
+              "溶剂": "",
+              "溶剂量": {
+                "单值": "",
+                "单位": ""
+              },
+              "反应时间": {
+                "单值": "",
+                "单位": ""
+              },
+              "制备过程": "Oxidative coupling",
+              "反应条件": "Room temperature"
+            }
+          ],
+          "后处理步骤": "",
+          "位置索引": {
+            "block_id": "",
+            "md_range": "",
+            "原文": "Amino-capped aniline trimer (ACAT) was prepared by following the procedure reported by Wei et al. Briefly, the synthesis of ACAT involved the use of ammonium persulfate to oxidize 2 equivalents of aniline and 1,4-phenylenediamine."
+          }
+        }
+      ]
+    },
+    {
+      "聚合物分类名称": "Polyimide",
+      "聚合物分类编码": "PI",
+      "名称": "Electroactive Polyimide (PI)",
+      "身份标识": "doi:10.3390/polym11121918_PI_01",
+      "样本形态": "Solid",
+      "结构特征_L1": "heterocyclic",
+      "结构特征_L2": "aromatic",
+      "表征": {
+        "红外_FTIR": {
+          "样品形态": "Solid",
+          "峰位_cm-1": [
+            "1750 (C=O)",
+            "1504 (benzenoid rings)",
+            "1596 (quinoid rings)"
+          ],
+          "仪器": "JASCO FT/IR-4100"
+        },
+        "形貌": {
+          "XRD_WAXS": "Broad peak between 15-20 degrees (2 theta)",
+          "仪器": "Philips X'pert Pro X-ray diffractometer"
+        }
+      },
+      "性质": [],
+      "工艺流程": [
+        {
+          "产物名称": "Electroactive Polyimide (PI)",
+          "产物质量": "",
+          "产物单位": "",
+          "产物收率百分比": "",
+          "原料": [
+            {
+              "原料名称": "4,4'-(4,4'-isopropylidene diphenoxy)-bis(phthalic anhydride)",
+              "原料类别": "Monomer",
+              "单体类型": "Dianhydride",
+              "IUPAC名称": "5-[4-[2-[4-(1,3-dioxo-2-benzofuran-5-yl)oxyphenyl]propan-2-yl]phenoxy]-2-benzofuran-1,3-dione",
+              "缩写": "BSAA",
+              "分子式": "C31H20O8",
+              "SMILES": "CC(C)(c1ccc(cc1)Oc2ccc3c(c2)C(=O)OC3=O)c4ccc(cc4)Oc5ccc6c(c5)C(=O)OC6=O",
+              "CAS号": "38103-06-9",
+              "InChI": "InChI=1S/C31H20O8/c1-31(2,21-9-13-23(14-10-21)38-25-5-7-27-29(32)36-30(33)28(27)17-25)22-11-15-24(16-12-22)39-26-6-8-27-29(34)37-30(35)28(27)18-26/h5-18H,1-2H3",
+              "投料方式": "Dissolved in DMAc",
+              "型号": "",
+              "来源": "Aldrich",
+              "质量": {
+                "单值": 0.52,
+                "单位": "g"
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": 1.0,
+                "单位": "mmol"
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": 97.0,
+                "单位": "%"
+              },
+              "表征": ""
+            },
+            {
+              "原料名称": "Amino-capped aniline trimer",
+              "原料类别": "Monomer",
+              "单体类型": "Diamine",
+              "IUPAC名称": "",
+              "缩写": "ACAT",
+              "分子式": "",
+              "SMILES": "",
+              "CAS号": "",
+              "InChI": "",
+              "投料方式": "Dissolved in DMAc",
+              "型号": "",
+              "来源": "Synthesized",
+              "质量": {
+                "单值": 0.29,
+                "单位": "g"
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": 2.0,
+                "单位": "mmol"
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": "",
+                "单位": ""
+              },
+              "表征": ""
+            },
+            {
+              "原料名称": "Acetic anhydride",
+              "原料类别": "Dehydrating agent",
+              "单体类型": "",
+              "IUPAC名称": "Acetic anhydride",
+              "缩写": "",
+              "分子式": "C4H6O3",
+              "SMILES": "CC(=O)OC(=O)C",
+              "CAS号": "108-24-7",
+              "InChI": "InChI=1S/C4H6O3/c1-3(5)7-4(2)6/h1-2H3",
+              "投料方式": "",
+              "型号": "",
+              "来源": "",
+              "质量": {
+                "单值": 0.102,
+                "单位": "g"
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": 1.0,
+                "单位": "mmol"
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": "",
+                "单位": ""
+              },
+              "表征": ""
+            },
+            {
+              "原料名称": "Pyridine",
+              "原料类别": "Catalyst",
+              "单体类型": "",
+              "IUPAC名称": "Pyridine",
+              "缩写": "",
+              "分子式": "C5H5N",
+              "SMILES": "c1ccncc1",
+              "CAS号": "110-86-1",
+              "InChI": "InChI=1S/C5H5N/c1-2-4-6-5-3-1/h1-5H",
+              "投料方式": "",
+              "型号": "",
+              "来源": "",
+              "质量": {
+                "单值": 0.079,
+                "单位": "g"
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": 1.0,
+                "单位": "mmol"
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": "",
+                "单位": ""
+              },
+              "表征": ""
+            }
+          ],
+          "反应条件": [
+            {
+              "反应装置": "",
+              "反应气氛": "Nitrogen",
+              "反应温度": {
+                "单值": "",
+                "单位": ""
+              },
+              "溶剂": "N,N-dimethylacetamide (DMAc)",
+              "溶剂量": {
+                "单值": 16.0,
+                "单位": "g"
+              },
+              "反应时间": {
+                "单值": 27.0,
+                "单位": "h"
+              },
+              "制备过程": "Polyamic acid formation followed by chemical imidization",
+              "反应条件": "Mechanically stirred for 24 h at room temperature to prepare PAA, followed by refluxing for 3 h for imidization"
+            }
+          ],
+          "后处理步骤": "Washed with Methanol (250 mL), dried at 60 °C under vacuum for 1 day",
+          "位置索引": {
+            "block_id": "",
+            "md_range": "",
+            "原文": "After stirring for 30 min, solution B was added to solution A, and mechanically stirred for 24 h to prepare a poly(amic acid) solution. The poly(amic acid) (PAA) was converted to polyimide(PI) by chemical imidization reaction. This reaction was done by adding acetic anhydride (0.102 g, 1 mmol) and pyridine (0.079 g, 1 mmol) to the solution, and refluxing for 3 h under nitrogen. Methanol (250 mL) was used to wash the PI and dried at 60 °C under vacuum for 1 day."
+          }
+        }
+      ]
+    },
+    {
+      "聚合物分类名称": "Polyimide Composite",
+      "聚合物分类编码": "PI/AuNPs",
+      "名称": "Electroactive Polyimide Doped with Gold Nanoparticles (PI/AuNPs)",
+      "身份标识": "doi:10.3390/polym11121918_PI-AuNPs_01",
+      "样本形态": "Composite Film",
+      "结构特征_L1": "partially_heterocyclic",
+      "结构特征_L2": "aromatic",
+      "表征": {
+        "形貌": {
+          "XRD_WAXS": "Characteristic peaks of gold occurring at 38.01 (111), 43.96 (200), 64.50 (220), and 77.42 (311) degrees (2 theta)",
+          "显微": "Well-dispersed Au nanoparticles with an average diameter of about 60 nm",
+          "仪器": "Philips X'pert Pro X-ray diffractometer / JEOL-200FX TEM / Hitachi S-2300 SEM"
+        }
+      },
+      "性质": [
+        {
+          "类别": "Sensing Properties",
+          "名称": "Sensitivity",
+          "缩写": "",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 0.29,
+            "单位": "% ppm-1"
+          },
+          "测试条件": {
+            "样品": "PI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Chemiresistor gas sensing",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "Hydrogen sulfide gas (H2S) in Nitrogen",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Linear concentration range of 50 to 300 ppm (r = 0.9777), tested at Room Temperature"
+          }
+        },
+        {
+          "类别": "Sensing Properties",
+          "名称": "Limit of Detection",
+          "缩写": "LOD",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 0.142,
+            "单位": "ppm"
+          },
+          "测试条件": {
+            "样品": "PI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Theoretical calculation (least-square method)",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "Hydrogen sulfide gas (H2S)",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Calculated based on the linear regime at Room Temperature"
+          }
+        },
+        {
+          "类别": "Sensing Properties",
+          "名称": "Response Time",
+          "缩写": "",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 43.0,
+            "单位": "s"
+          },
+          "测试条件": {
+            "样品": "PI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Chemiresistor gas sensing",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "150 ppm H2S",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Average response time at Room Temperature"
+          }
+        },
+        {
+          "类别": "Sensing Properties",
+          "名称": "Recovery Time",
+          "缩写": "",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 99.0,
+            "单位": "s"
+          },
+          "测试条件": {
+            "样品": "PI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Chemiresistor gas sensing",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "150 ppm H2S",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Average recovery time at Room Temperature"
+          }
+        },
+        {
+          "类别": "Sensing Properties",
+          "名称": "Repeatability",
+          "缩写": "",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 8.88,
+            "单位": "%"
+          },
+          "测试条件": {
+            "样品": "PI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Chemiresistor gas sensing",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "50 to 300 ppm H2S",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Relative Standard Deviation (RSD) tested at Room Temperature"
+          }
+        },
+        {
+          "类别": "Sensing Properties",
+          "名称": "Reversibility",
+          "缩写": "",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 8.60,
+            "单位": "%"
+          },
+          "测试条件": {
+            "样品": "PI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Chemiresistor gas sensing",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "Alternating N2 blank and 200 ppm H2S",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Relative Standard Deviation (RSD) over 3 cycles tested at Room Temperature"
+          }
+        },
+        {
+          "类别": "Sensing Properties",
+          "名称": "Selectivity",
+          "缩写": "",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": "",
+            "单位": ""
+          },
+          "测试条件": {
+            "样品": "PI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Chemiresistor gas sensing",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "300 ppm H2S vs pure ethyl acetate, methanol, hexane, and ammonia",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Highest resistance change towards H2S; minimal response to organic vapors; opposite signal for ammonia at Room Temperature"
+          }
+        }
+      ],
+      "工艺流程": [
+        {
+          "产物名称": "Electroactive Polyimide Doped with Gold Nanoparticles (PI/AuNPs)",
+          "产物质量": "",
+          "产物单位": "",
+          "产物收率百分比": "",
+          "原料": [
+            {
+              "原料名称": "Electroactive Polyimide (PI)",
+              "原料类别": "Polymer",
+              "单体类型": "",
+              "IUPAC名称": "",
+              "缩写": "PI",
+              "分子式": "",
+              "SMILES": "",
+              "CAS号": "",
+              "InChI": "",
+              "投料方式": "Dissolved in DMAc",
+              "型号": "",
+              "来源": "Synthesized",
+              "质量": {
+                "单值": "",
+                "单位": ""
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": "",
+                "单位": ""
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": "",
+                "单位": ""
+              },
+              "表征": ""
+            },
+            {
+              "原料名称": "Gold (III) chloride trihydrate",
+              "原料类别": "Precursor",
+              "单体类型": "Metal Salt",
+              "IUPAC名称": "Gold(3+) trichloride trihydrate",
+              "缩写": "HAuCl4",
+              "分子式": "AuCl3·3H2O",
+              "SMILES": "O.O.O.Cl[Au](Cl)Cl",
+              "CAS号": "16961-25-4",
+              "InChI": "InChI=1S/Au.3ClH.3H2O/h;3*1H;3*1H2/q+3;;;;;;/p-3",
+              "投料方式": "Added as 1 mM aqueous solution",
+              "型号": "",
+              "来源": "Alfa Aesar",
+              "质量": {
+                "单值": "",
+                "单位": ""
+              },
+              "体积": {
+                "单值": "",
+                "单位": ""
+              },
+              "摩尔量": {
+                "单值": "",
+                "单位": ""
+              },
+              "当量比": {
+                "单值": "",
+                "单位": ""
+              },
+              "纯度": {
+                "单值": 99.99,
+                "单位": "%"
+              },
+              "表征": ""
+            }
+          ],
+          "反应条件": [
+            {
+              "反应装置": "",
+              "反应气氛": "",
+              "反应温度": {
+                "单值": "",
+                "单位": ""
+              },
+              "溶剂": "DMAc",
+              "溶剂量": {
+                "单值": "",
+                "单位": ""
+              },
+              "反应时间": {
+                "单值": 6.0,
+                "单位": "h"
+              },
+              "制备过程": "Doping process of PI with HAuCl4",
+              "反应条件": "Stirred for 6 h at room temperature"
+            }
+          ],
+          "后处理步骤": "Centrifugal filtration, washed with distilled water, dried in a vacuum oven at 60 °C",
+          "位置索引": {
+            "block_id": "",
+            "md_range": "",
+            "原文": "The gold nanoparticle-doped electroactive polyimide (PI/AuNPs) samples were prepared by dissolving PI in DMAc, and adding aqueous HAuCl4 solution (1 mM) at room temperature, then stirring for 6 h. After the reaction, centrifugal filtration was done to collect the precipitate. Large volumes of distilled water were used to wash the residue. The PI/AuNPs were dried in a vacuum oven at 60 °C"
+          }
+        },
+        {
+          "产物名称": "Gas sensing substrate",
+          "产物质量": "",
+          "产物单位": "",
+          "产物收率百分比": "",
+          "原料": [],
+          "反应条件": [
+            {
+              "反应装置": "Custom made Teflon bar",
+              "反应气氛": "",
+              "反应温度": {
+                "单值": "",
+                "单位": ""
+              },
+              "溶剂": "",
+              "溶剂量": {
+                "单值": "",
+                "单位": ""
+              },
+              "反应时间": {
+                "单值": 15.0,
+                "单位": "min"
+              },
+              "制备过程": "Substrate preparation",
+              "反应条件": "Ultrasonication, polishing, washing"
+            }
+          ],
+          "后处理步骤": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry, washed with methanol, sonicated in ultrapure water for 5 minutes, and dried.",
+          "位置索引": {
+            "block_id": "",
+            "md_range": "",
+            "原文": "The substrate (Figure 1b) is composed of gold wires (18 karats, Ø = 0.5 mm, l = 0.5 cm) soldered to polished copper wires (Ø = 0.5 mm, l = 2.5 cm). A pair of soldered Au-Cu wires, separated by a 200 μm gap, was mounted into a custom made Teflon bar (10 mm × 10 mm × 4 mm). The wires were cleaned via ultrasonication in detergent solution for 15 min. This step was immediately followed with washing of wires using water, acetone, methanol, water, and then dried. The wires were held in a sturdy and upright position by applying a cyanoacrylate adhesive (Mighty Bond™ by Pioneer adhesives). The exposed Au ends, which served as the substrate, were subsequently polished with high grade of abrasive paper (1200 grit) and pad with aluminum slurry (Ø = 3 μm). The polished electrodes were then washed with methanol, sonicated in ultrapure water for 5 minutes, and dried."
+          }
+        }
+      ]
+    },
+    {
+      "聚合物分类名称": "Polyaniline Composite",
+      "聚合物分类编码": "PANI/AuNPs",
+      "名称": "Polyaniline Doped with Gold Nanoparticles (PANI/AuNPs)",
+      "身份标识": "doi:10.3390/polym11121918_PANI-AuNPs_01",
+      "样本形态": "Composite Film",
+      "结构特征_L1": "conjugated_linear",
+      "结构特征_L2": "aromatic",
+      "表征": {},
+      "性质": [
+        {
+          "类别": "Sensing Properties",
+          "名称": "Sensitivity",
+          "缩写": "",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 0.11,
+            "单位": "% ppm-1"
+          },
+          "测试条件": {
+            "样品": "PANI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Chemiresistor gas sensing (control group)",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "Hydrogen sulfide gas (H2S)",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Linear concentration range of 50 to 300 ppm (r = 0.9551) at Room Temperature"
+          }
+        },
+        {
+          "类别": "Sensing Properties",
+          "名称": "Limit of Detection",
+          "缩写": "LOD",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 0.45,
+            "单位": "ppm"
+          },
+          "测试条件": {
+            "样品": "PANI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Theoretical calculation",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "Hydrogen sulfide gas (H2S)",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Calculated based on the linear regime at Room Temperature"
+          }
+        },
+        {
+          "类别": "Sensing Properties",
+          "名称": "Response Time",
+          "缩写": "RT",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 55.0,
+            "单位": "s"
+          },
+          "测试条件": {
+            "样品": "PANI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Chemiresistor gas sensing",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "150 ppm H2S",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Average response time at Room Temperature"
+          }
+        },
+        {
+          "类别": "Sensing Properties",
+          "名称": "Recovery Time",
+          "缩写": "",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 103.0,
+            "单位": "s"
+          },
+          "测试条件": {
+            "样品": "PANI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Chemiresistor gas sensing",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "150 ppm H2S",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Average recovery time at Room Temperature"
+          }
+        },
+        {
+          "类别": "Sensing Properties",
+          "名称": "Repeatability",
+          "缩写": "",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 28.36,
+            "单位": "%"
+          },
+          "测试条件": {
+            "样品": "PANI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Chemiresistor gas sensing",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "50 to 300 ppm H2S",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Relative Standard Deviation (RSD) at Room Temperature"
+          }
+        },
+        {
+          "类别": "Sensing Properties",
+          "名称": "Reversibility",
+          "缩写": "",
+          "值": {
+            "最大": "",
+            "最小": "",
+            "单值": 41.79,
+            "单位": "%"
+          },
+          "测试条件": {
+            "样品": "PANI/AuNPs sensing film",
+            "样品尺寸": "Gap distance = 200 um",
+            "表面处理": "Polished with 1200 grit abrasive paper and 3 um aluminum slurry",
+            "方法": "Chemiresistor gas sensing",
+            "仪器": "UNI-T UT71A multimeter / Agilent 34410A desktop multimeter",
+            "测试温度范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "气氛": "Alternating N2 blank and 200 ppm H2S",
+            "升温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "降温速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "温度扫描范围": {
+              "最大": "",
+              "最小": "",
+              "单位": ""
+            },
+            "温度扫描速率": {
+              "单值": "",
+              "单位": ""
+            },
+            "测量参数": "Relative Standard Deviation (RSD) over test cycles at Room Temperature"
+          }
+        }
+      ],
+      "工艺流程": [
+        {
+          "产物名称": "Polyaniline Doped with Gold Nanoparticles (PANI/AuNPs)",
+          "产物质量": "",
+          "产物单位": "",
+          "产物收率百分比": "",
+          "原料": [],
+          "反应条件": [],
+          "后处理步骤": "",
+          "位置索引": {
+            "block_id": "",
+            "md_range": "",
+            "原文": "Compared with the performance of the conventional conducting polyaniline also doped with gold nanoparticles (PANI/AuNPs)"
+          }
+        }
+      ]
+    }
+  ]
+}

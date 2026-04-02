@@ -1,0 +1,57 @@
+source_file: A Rigid and Planar Aza-Based Ternary Anhydride for the Preparation of Cross-Linked Polyimide Membrane Displayi.md
+doc_id: fc1d46c21270bb01aab3338147d76c95
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: A Rigid and Planar Aza-Based Ternary Anhydride for the Preparation of Cross-Linked Polyimide Membrane Displaying High  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  Separation Performance
+line_span: [1, 43]
+char_span: [0, 3272]
+line_count: 41
+effective_body_non_empty_lines: 24
+
+lines:
+--- chunk (b0001: A Rigid and Planar Aza-Based Ternary Anhydride for the Preparation of Cross-Linked Polyimide Membrane Displaying High  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  Separation Performance) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2022, 14, 389. https://doi.org/10.3390/polym14030389
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # A Rigid and Planar Aza-Based Ternary Anhydride for the Preparation of Cross-Linked Polyimide Membrane Displaying High  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  Separation Performance
+11: 
+12: Xiaozhou Zhang  $^{1,2}$ , Changyu Han  $^{1}$ , Tianhui Liang  $^{1}$ , Hongge Jia  $^{1}$  and Jinyan Wang  $^{3,*}$
+13: 
+14: $^{1}$  College of Materials Science and Engineering, Qiqihar University, Qiqihar 161006, China; 01727@qqhru.edu.cn (X.Z.); hanchangyu1216@163.com (C.H.); tianhui.liang@foxmail.com (T.L.); zhangxzh-n@163.com (H.J.)  
+15: 2 Heilongjiang Province Key Laboratory of Polymeric Composition Material, Qiqihar University, Qiqihar 161000, China  
+16: $^{3}$  Department of Polymer Science & Engineering, Dalian University of Technology, Dalian 116024, China  
+17: * Correspondence: wangjinyan@dlut.edu.cn
+18: 
+19: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+20: 
+21: check for updates
+22: 
+23: Citation: Zhang, X.; Han, C.; Liang, T.; Jia, H.; Wang, J. A Rigid and Planar Aza-Based Ternary Anhydride for the Preparation of Cross-Linked Polyimide Membrane Displaying High  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  Separation Performance. Polymers 2022, 14, 389. https://doi.org/10.3390/polym14030389
+24: 
+25: Academic Editor: Angels Serra
+26: 
+27: Received: 23 November 2021
+28: 
+29: Accepted: 10 January 2022
+30: 
+31: Published: 19 January 2022
+32: 
+33: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+34: 
+35: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+36: 
+37: Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+38: 
+39: Abstract: In this study, based on the preparation of hexazatriphenylene-ternary-anhydride (HAT-T), polyimide membranes were prepared by reaction of  $4,4^{\prime}$  (hexafluoroisopropylidene)diphthalic anhydride (6FDA),  $4,4^{\prime}$ -diaminodiphenyl sulfide (SDA),  $2,2^{\prime}$ -bis (trifluoromethyl)diaminobiphenyl (TFDB) and 5-amino-2-(4-aminophenyl) benzimidazole (PABZ). Polyimide films with a hexazobenzo structure have good film-forming properties, high molecular weight ( $M_{\mathrm{n}} = 0.79 - 11.79 \times 10^{6}$ ,  $M_{\mathrm{w}} = 1.03 - 16.60 \times 10^{6}$ ) and narrow molecular weight distribution (polymer dispersity index = 1.17-1.54). With the introduction of rigid HAT-T, the tensile strength and elongation at break of polyimide films are 195.63-510.37 MPa and  $4.00 - 9.70\%$ , respectively, with excellent mechanical properties. The gas separation performance test shows that hexazatriphenylene-containing polyimide films have good gas selectivity for  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$ . In particular, the separation performance of PIc-t (6FDA/PABZ/HAT-T) surpasses the "2008 Robeson Upper Bound". The selectivity of 188.43 for  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  gas reveals its potential value in the separation and purification of methane gas.
+40: 
+41: Keywords: ternary anhydride; hexazobenzene; polyimide; gas separation film

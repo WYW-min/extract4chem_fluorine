@@ -1,0 +1,38 @@
+source_file: Melt-Processable Semicrystalline Polyimides Based on 1,4-Bis(3,4-dicarboxyphenoxy)benzene Dianhydride (HQDPA) .md
+doc_id: 724b3ca4557ffff35902e69c7cee1aa6
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Melt-Processable Semicrystalline Polyimides Based on 1,4-Bis(3,4-dicarboxyphenoxy)benzene Dianhydride (HQDPA): Synthesis, Crystallization, and Melting Behavior
+line_span: [1, 24]
+char_span: [0, 2953]
+line_count: 22
+effective_body_non_empty_lines: 14
+
+lines:
+--- chunk (b0001: Melt-Processable Semicrystalline Polyimides Based on 1,4-Bis(3,4-dicarboxyphenoxy)benzene Dianhydride (HQDPA): Synthesis, Crystallization, and Melting Behavior) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2017, 9, 420; doi:10.3390/polym9090420
+5: www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Melt-Processable Semicrystalline Polyimides Based on 1,4-Bis(3,4-dicarboxyphenoxy)benzene Dianhydride (HQDPA): Synthesis, Crystallization, and Melting Behavior
+11: 
+12: Hongfei Zhang  $^{1,2}$ , Wei Wang  $^{1,*}$ , Guofei Chen  $^{1}$ , Anjiang Zhang  $^{1}$  and Xingzhong Fang  $^{1,*}$
+13: 
+14: <sup>1</sup> Key Laboratory of Additive Manufacturing Materials of Zhejiang Province, Ningbo Institute of Material Technology and Engineering, Chinese Academy of Sciences, 1219 Zhongguan West Rd, Zhenhai District, Ningbo 315201, Zhejiang, China; zhanghf@nimte.ac.cn (H.Z.); gfchen@nimte.ac.cn (G.C.); zhanganjiang@nimte.ac.cn (A.Z.)  
+15: $^{2}$  University of Chinese Academy of Sciences, 19 A Yuquan Rd, Shijingshan District, Beijing 100049, China  
+16: * Correspondence: ww@nimte.ac.cn (W.W.); faxzhong@nimte.ac.cn (X.F.); Tel.: +86-574-8668-5185 (X.F.)
+17: 
+18: Received: 27 June 2017; Accepted: 2 September 2017; Published: 6 September 2017
+19: 
+20: Abstract: It is a great challenge to develop semicrystalline polyimides exhibited significant recrystallization ability and fast crystallization kinetics from the melt. A series of semicrystalline polyimides based on 1,4-bis(3,4-dicarboxyphenoxy)benzene dianhydride (HQDPA) and different diamines, including 1,3-bis(4-aminophenoxy)benzene (TPER), 1,4-bis(4-aminophenoxy)benzene (TPEQ),  $4,4^{\prime}$ -oxydianiline  $(4,4^{\prime}$ -ODA) and  $4,4^{\prime}$ -bis(4-aminophenoxy)biphenyl (BAPB), end capped with phthalic anhydride were synthesized. Crystallization and melting behaviors were investigated by differential scanning calorimetry (DSC). The polyimide derived from HQDPA/TPER (PI-1) exhibited a glass transition temperature  $(T_{\mathrm{g}})$  at  $190~^\circ \mathrm{C}$  and double melting temperatures  $(T_{\mathrm{ms}})$  at  $331~^\circ \mathrm{C}$  and  $350~^\circ \mathrm{C}$ , and the polyimide derived from HQDPA/TPEQ (PI-2) displayed a  $T_{\mathrm{g}}$  at  $214~^\circ \mathrm{C}$  and a  $T_{\mathrm{m}}$  at  $388~^\circ \mathrm{C}$ . PI-1 and PI-2 showed significant recrystallization ability from melt and high crystallization rate by isothermal crystallization kinetics study, while polyimides based on  $4,4^{\prime}$ -ODA and BAPB lost crystallizability once taken to the melt. These polyimides also exhibited excellent thermo-oxidative stability with  $5\%$  weight loss temperature higher than  $500~^\circ \mathrm{C}$  and good mechanical properties with tensile moduli of  $2.0 - 3.3\mathrm{GPa}$ , tensile strengths of  $85 - 105\mathrm{MPa}$  and elongations at break of  $5 - 18\%$ . PI-1 also possessed outstanding melt flowability with less than  $300\mathrm{Pa}\cdot \mathrm{s}$  around  $370~^\circ \mathrm{C}$  by rheological measurements.
+21: 
+22: Keywords: semicrystalline polyimide; melt-processable; crystallization kinetics; thermal stability

@@ -1,0 +1,130 @@
+source_file: Influence of Mixed Imide Composition and Thermal Annealing on Ionic Liquid Uptake and Conductivity of Polyimid.md
+doc_id: 259a3763fadb7eeed7f1a64453962fa4
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results
+line_span: [104, 219]
+char_span: [16312, 33232]
+line_count: 114
+effective_body_non_empty_lines: 54
+
+lines:
+--- chunk (b0004: 3. Results) ---
+104: # 3. Results
+105: 
+106: # 3.1. Synthesis of Polyimide
+107: 
+108: To verify the production of the polyimides via the two-step polymerization process, FTIR measurements were first performed on the PAA solutions and the resulting membranes after thermal processing.
+109: 
+110: First, analyses were conducted for the series of polyimide systems with varying PEG contents in the membrane. Supplementary Figures S1-S3 show FTIR spectra of the polyimide-poly(ethylene glycol) membranes listed in Table 1 and the corrected height of the peaks to observe the effects of changing PEG concentration (28.8 wt%, 42.1 wt%, and
+111: 
+112: 46.8 wt%) in the system. In addition, FTIR analyses were conducted for the second set of membrane families listed in Table 2 containing varying amounts of the dianhydrides and a fixed PEG content at  $42.10\mathrm{wt}\%$ . To represent the influence of the dianhydrides, the FTIR spectra for these systems before and after imidization are shown in Supplementary Figures S4-S8.
+113: 
+114: The success of the synthesis can be seen from the peaks around  $1715~\mathrm{cm}^{-1}$ , which result from the  $>\mathrm{C = O}$  groups of the polyimide, and peaks around 1500 and  $1409~\mathrm{cm}^{-1}$ , which represent the stretching of carbonyl groups in the polyimide [13,42-44]. Supplementary Figures S4-S8 show the reduction in the intensity of the peaks around 2930, 1635, and  $1548~\mathrm{cm}^{-1}$ , which suggests that the imidization process took place in the two-step polymerization [34,44,45].
+115: 
+116: Supplementary Figures S1-S3 show the effects of increasing the proportion of PEG concentration. As the PEG content increases in the copolymer system, by analyzing the height of the peaks, it may be concluded that increasing PEG concentration enhances the yield of the polyimides with more ordered PEG domains. This may be the reason for the peaks seen in SAXS experiments studied in the literature [34]. However, this feature of the reaction has to be investigated more thoroughly and will not be discussed further.
+117: 
+118: # 3.2. Material Characterization
+119: 
+120: # 3.2.1. Thermal Stability of PI-PEG Systems
+121: 
+122: Membranes must withstand the elevated temperatures around  $120^{\circ}\mathrm{C}$  of operating fuel cells. To evaluate our PEMs' thermal stability, thermal gravimetric analysis (TGA) was performed. Thus, the aim of this experiment was to present the thermal stability of the synthesized membranes for operation temperatures around  $120^{\circ}\mathrm{C}$ .
+123: 
+124: The TGA results of all the synthesized membrane families are shown in Figures 1-3.
+125: 
+126: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+127: Figure 1. TGA of 6FDA-PDODA-PEG1500 (changing PEG content) SBC membranes (percentages given in the figure for PEG content are mol%).
+128: 
+129: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+130: Figure 2. TGA of ODPA-PDODA-PEG1500 (changing PEG content) SBC membranes (percentages given in the figure for PEG content are mol%).
+131: 
+132: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+133: Figure 3. TGA of 6FDA + ODPA-PDODA-PEG1500 (changing PEG content) SBC membranes (percentages given in the figure for PEG content are mol%).
+134: 
+135: Previous works reported by Coletta et al. [13,28,34] and other studies in the literature [46-49] showed that their PEG-incorporated polyimide copolymer systems realized a mass loss around  $250 - 450^{\circ}\mathrm{C}$ . The new SBC membranes described here showed a similar
+136: 
+137: mass loss in the range of  $300 - 550^{\circ}\mathrm{C}$ , occurring in two stages. The first major feature starting around  $300^{\circ}\mathrm{C}$  is due to the loss of PEG1500 content. The weight loss for PEG1500 content was found to be consistent with the incorporated amounts of 28.8, 42.1, and  $46.8\mathrm{wt\%}$ . To understand the weight-loss behaviors, the TGA of PEG1500 is also presented in Figures 1-3 (red line). It can be seen that PEG1500 starts to degrade at  $300^{\circ}\mathrm{C}$  and completely degrades at around  $400^{\circ}\mathrm{C}$ . In the new membranes, another mass loss can be seen around  $550^{\circ}\mathrm{C}$ , which is the degradation temperature for the remaining aromatic polyimide content of the SBC membrane. These observed results for the degradation of PI-PEG SBC systems are in line with the literature [34,46-49]. It can be concluded that these membranes are stable enough for practical applications with operating conditions above  $100^{\circ}\mathrm{C}$ .
+138: 
+139: # 3.2.2. Morphology of Polymers
+140: 
+141: To understand how conductivity and flexibility are affected by the membrane composition, thermal measurements can be an important guide. Thus, differential scanning calorimetry (DSC) analysis was conducted.
+142: 
+143: The PI-PEG segmented membrane copolymer systems did not show any of the endotherms related to PEG crystallinity, which are in line with the previous studies [13,28,34,39].
+144: 
+145: # 3.2.3. Ionic Liquid and Water Uptake
+146: 
+147: A subset of membrane systems was chosen, for which the PEG1500 weight percentage was kept constant for both water uptake and ionic liquid uptake (ILU) experiments. In Tables 3 and 4, water uptake and ionic liquid uptake results based on an average of three different membrane systems can be seen, respectively. These experiments were repeated for each SMC membrane group with four samples, testing each sample four times (one membrane group  $\times$  four samples  $\times$  four measurements).
+148: 
+149: Table 3. WU values.  
+150: 
+151: <table><tr><td>Material (PEG1500: 42.1 wt%)</td><td>Liquid 
+152: (at 25 °C)</td><td>wU (%)</td></tr><tr><td>6FDA-PDODA-PEG1500</td><td>Water</td><td>22 ± 10</td></tr><tr><td>ODPA-PDODA-PEG1500</td><td>Water</td><td>45 ± 12</td></tr><tr><td>6FDA + ODPA-PDODA-PEG1500</td><td>Water</td><td>42 ± 10</td></tr></table>
+153: 
+154: Table 4. ILU values.  
+155: 
+156: <table><tr><td>Material (PEG1500: 42.1 wt%)</td><td>IL
+157: (at 25 °C)</td><td>ILU (%)</td></tr><tr><td>6FDA-PDODA-PEG1500</td><td>EAN</td><td>106 ± 14</td></tr><tr><td>ODPA-PDODA-PEG1500</td><td>EAN</td><td>80 ± 9</td></tr><tr><td>6FDA + ODPA-PDODA-PEG1500</td><td>EAN</td><td>89 ± 11</td></tr></table>
+158: 
+159: As can be seen in Tables 3 and 4, uptake behaviors were different. ILU increased when the dianhydride composition changed to incorporate more 6FDA and even higher when only 6FDA was used. All the membranes' ILU absorptions, when they were doped for  $24\mathrm{h}$ , were in the same order of magnitude. In contrast, water uptake results decreased with more fluorinated dianhydride incorporation and were even lower when only 6FDA was used in the membrane. This lower water uptake could be due to the hydrophobicity of fluorinated molecules.
+160: 
+161: # 3.2.4. Conductivity
+162: 
+163: The ionic conductivity values were measured to establish the influence of polyimide structure on this key transport property. The conductivity results are given in Table 5. In
+164: 
+165: addition, to see the effect of the thermal heating process on the undoped and EAN-doped membranes, conductivity measurements at room temperature using an Autolab brand instrument were also completed with changing imide compositions. The thermal annealing process was conducted for  $1\mathrm{h}$  on a hot plate held at a constant temperature of  $60^{\circ}\mathrm{C}$ . These results given in Table 6 were acquired via repeating the tests for each SMC membrane group, using four samples and testing each sample four times (one membrane group  $\times$  four samples  $\times$  four measurements).
+166: 
+167: Table 5. Conductivity measurements of the EAN-doped SBC membranes (values are for the SBC membranes that are not thermally annealed. For detailed calculations please see Supplementary Table S1).  
+168: 
+169: <table><tr><td>Material</td><td>Conductivity (mS/cm) 
+170: (at 60 °C and RH 70%)</td></tr><tr><td>6FDA-PDODA-PEG1500a(PEG1500: 50 wt%)</td><td>80 ± 15</td></tr><tr><td>ODPA-PDODA-PEG1500b(PEG1500: 50 wt%)</td><td>16 ± 4</td></tr><tr><td>6FDA-PDODA-PEG1500c(PEG1500: 42.1 wt%)</td><td>60 ± 20</td></tr><tr><td>6FDA + ODPA,-PDODA-PEG1500d(PEG1500: 42.1 wt%)</td><td>84 ± 17</td></tr></table>
+171: 
+172: a From ref. [13]. b From ref. [34]. c From ref. [39]. d Detailed calculation of the value is given in Supplementary Table S1.
+173: 
+174: Table 6. Comparison of conductivity of membranes without and with thermal annealing.  
+175: 
+176: <table><tr><td rowspan="2">SBC Membranes</td><td colspan="2">No Thermal Annealing Processes</td><td colspan="2">1 h Thermal Annealing Process</td></tr><tr><td>Conductivities of Undoped Membrane Films (mS/cm)</td><td>Conductivities of Doped Membrane Films in EAN Ionic Liquid (mS/cm)</td><td>Conductivities of Undoped Membrane Films (mS/cm)</td><td>Conductivities of Doped Membrane Films in EAN Ionic Liquid (mS/cm)</td></tr><tr><td>6FDA (30 wt%)-PDODA-PEG1500</td><td>34 × 10-4</td><td>81</td><td>20 × 10-3</td><td>334</td></tr><tr><td>6FDA (22.5 wt%)-ODPA (7.5 wt%) -PDODA- PEG1500</td><td>49 × 10-4</td><td>73</td><td>30 × 10-3</td><td>152</td></tr><tr><td>6FDA (15 wt%)-ODPA (15 wt%)-PDODA-PEG1500</td><td>8 × 10-4</td><td>57</td><td>15 × 10-3</td><td>307</td></tr><tr><td>6FDA (7.5 wt%)-ODPA (22.5 wt%) -PDODAPEG1500</td><td>4 × 10-4</td><td>42</td><td>6 × 10-3</td><td>285</td></tr><tr><td>ODPA (30 wt%)-PDODA-PEG1500</td><td>6 × 10-4</td><td>23</td><td>22 × 10-3</td><td>128</td></tr></table>
+177: 
+178: From Table 5, SBC membranes, synthesized using equal amounts of two different functionalized dianhydrides, resulted in a higher conductivity value when compared with SBC membranes containing only one functionalized dianhydride at the same conditions of  $60^{\circ}\mathrm{C}$  and  $70\%$  RH.
+179: 
+180: As can be seen from Table 6, there are various important results. First, thermal annealing of undoped membranes significantly increases conductivity by a factor of 10 in all cases. Even though the conductivities of the undoped membranes were very small, it was worth investigating to see the effect of thermal heating in the membranes. Second, when SBC membranes were doped with IL, the conductivity values significantly increased. This positive effect can be understandable when molecules have high ILU values presented in Table 4. Even though ILU values were in the same order of magnitude, with decreasing 6FDA content in the SBC membranes, the conductivity values were decreased almost in all cases. Third, thermal annealing had a further effect on the doped membranes in favor of
+181: 
+182: conductivity. The thermal annealing process was seen to increase the conductivities for PEG-PI SBC membranes with PEG contents higher than  $26.2\mathrm{wt}\%$  by a factor of two to five times [39]. The same positive effect is present for all types of SBC membranes studied, where the conductivities were increased by a factor of two to seven.
+183: 
+184: Readers are encouraged to visit the supplementary file to see how the resistivity values of these SBC membranes were affected due to ILU and thermal annealing. In summary, all the doped membranes showed increased conductivity after the 1 h thermal annealing process.
+185: 
+186: # 3.2.5. Tensile Test
+187: 
+188: Mechanical properties depend on the composition of the SBC membranes. Thus, several different mechanical property measurements of the membrane materials were studied when changing the PEG concentration and changing the imide composition. The most common polymer tests are tensile tests. A typical tensile test for undoped membranes untreated with heat and thermally annealed are shown in Figures 4 and 5, respectively. A variety of information can be obtained from the tensile test; however, two properties, the tensile stress at maximum force and Young's modulus, are of interest. A clear transition from brittle to ductile in mechanical properties was observed when the incorporation of PEG concentration was increased.
+189: 
+190: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+191: Figure 4. Stress-strain curves obtained from the tensile test for not thermally treated SBC membranes with changing PEG1500 content.
+192: 
+193: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+194: Figure 5. Stress-strain curves obtained from the tensile test for  $1\mathrm{h}$  thermally treated SBC membranes with changing PEG1500 content.
+195: 
+196: A clear transition from brittle to ductile mechanical properties is observed when the incorporation of PEG concentration was increased in all cases (Figures 4 and 5). The thermal annealing process made the membranes more flexible, especially with a PEG content higher than  $28.8\mathrm{wt}\%$ . The most important observation can be made by analyzing the tensile stress at maximum force and the Young's modulus values, as presented in Table 7.
+197: 
+198: Table 7. Tensile stress at maximum force and the Young's modulus of the SBC membranes with changing PEG content (Dianhydride entities are written in bold text).  
+199: 
+200: <table><tr><td rowspan="2"></td><td colspan="2">Thermally Untreated SBC Membranes</td><td colspan="2">Thermally Annealed SBC Membranes</td></tr><tr><td>Tensile Stress at Maximum Force [MPa]</td><td>Young&#x27;s Modulus [MPa]</td><td>Tensile Stress at Maximum Force [MPa]</td><td>Young&#x27;s Modulus [MPa]</td></tr><tr><td>6FDA-PDODA-PEG1500 (28.8 wt%)</td><td>14.82</td><td>274.21</td><td>8.15</td><td>92.26</td></tr><tr><td>6FDA-PDODA-PEG1500 (42.1 wt%)</td><td>9.25</td><td>147.13</td><td>6.5</td><td>45.6</td></tr><tr><td>6FDA-PDODA-PEG1500 (46.8 wt%)</td><td>7.57</td><td>28.91</td><td>4.87</td><td>25.58</td></tr><tr><td>ODPA-PDODA-PEG1500 (28.8 wt%)</td><td>-</td><td>-</td><td>5.57</td><td>63.19</td></tr><tr><td>ODPA-PDODA-PEG1500 (42.1 wt%)</td><td>12.97</td><td>222.73</td><td>10.8</td><td>63.17</td></tr><tr><td>ODPA-PDODA-PEG1500 (46.8 wt%)</td><td>2.87</td><td>79.68</td><td>4.04</td><td>24.22</td></tr><tr><td>6FDA-ODPA-PDODA-PEG1500 (28.8 wt%)</td><td>23.21</td><td>289.02</td><td>10.45</td><td>155.89</td></tr><tr><td>6FDA-ODPA-PDODA-PEG1500 (42.1 wt%)</td><td>15.19</td><td>119.9</td><td>6.71</td><td>79.83</td></tr><tr><td>6FDA-ODPA-PDODA-PEG1500 (46.8 wt%)</td><td>5.11</td><td>67.03</td><td>3.63</td><td>41.78</td></tr></table>
+201: 
+202: The effect of combining both 6FDA and ODPA dianhydrides resulted in much better mechanical properties. Furthermore, even when the samples were subjected to thermal annealing, they were stiff enough to handle, with the membranes with a PEG content lower than  $46.8\mathrm{wt}\%$  having a Young's modulus around  $100\mathrm{MPa}$ .
+203: 
+204: Figure 6 shows the stress-strain curves for the SBC membranes with a changing imide composition and with a constant PEG concentration of  $42.1\mathrm{wt}\%$  and Table 8 summarizes the two properties of the corresponding membranes.
+205: 
+206: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+207: Figure 6. Stress–strain curves were obtained from the tensile test for the PI-PEG SBC membranes with changing dianhydride composition and constant PEG content of  $42.1\mathrm{wt}\%$  and Nafion 115, where Nafion 115 is used for comparison purposes.
+208: 
+209: A clear transition in mechanical properties with changing incorporated dianhydrides can also be observed from the stress-strain curve. Nafion 115 was also tested for the same testing conditions. Both membranes showed strain hardening after passing the yield point, beyond which this effect reduces ductility and increases the chances of brittle failure [12]. By contrast, the fluorinated membrane (PEM_1) and the membrane containing both dianhydrides (PEM_2) showed higher elongation at break values possessing a more ductile type of behavior.
+210: 
+211: On the other hand, tensile at break values showed an interesting pattern. The value increased with increasing ODPA content up to  $15\mathrm{wt}\%$  and then started to decrease for the higher content of  $15\mathrm{wt}\%$ .
+212: 
+213: Table 8. Tensile stress at maximum force and the Young's modulus of the SBC membranes with changing dianhydride composition and constant PEG content of  $42.1\mathrm{wt}\%$  (dianhydride entities are written in bold text).  
+214: 
+215: <table><tr><td rowspan="2"></td><td colspan="2">Thermally Untreated SBC Membranes</td></tr><tr><td>Tensile Stress at Maximum Force [MPa]</td><td>Young&#x27;s Modulus [MPa]</td></tr><tr><td>6FDA (30 wt%)-ODPA (0 wt%-PDODA-PEG1500)</td><td>9.62</td><td>147.05</td></tr><tr><td>6FDA (22.5 wt%)-ODPA (7.5 wt%-PDODA-PEG1500)</td><td>11.67</td><td>166.92</td></tr><tr><td>6FDA (15 wt%)-ODPA (15 wt%-PDODA-PEG1500)</td><td>18.21</td><td>150.43</td></tr><tr><td>6FDA (7.5 wt%)-ODPA (22.5 wt%-PDODA-PEG1500)</td><td>14.53</td><td>152.18</td></tr><tr><td>6FDA (0 wt%)-ODPA (30 wt%-PDODA-PEG1500)</td><td>17.43</td><td>220.33</td></tr><tr><td>Nafion 115</td><td>32.46</td><td>288.94</td></tr></table>
+216: 
+217: In summary, the effect of mixing oxygenated and fluorinate dianhydrides can be seen in Figure 6. Clear transitions in mechanical property with increasing amounts of oxygenated dianhydride (ODPA) segments from ductile to brittle are observed. However, all the membranes synthesized were stiff enough to be handled, having Young's modulus values comparable to Nafion (Table 8). It is shown that better materials were able to be synthesized in this study.

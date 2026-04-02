@@ -1,0 +1,37 @@
+source_file: Mass-Synthesized Solution-Processable Polyimide Gate Dielectrics for Electrically Stable Operating OFETs and I.md
+doc_id: a809d2bf210d4f02052e331d2b4c98a0
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: check for updates
+line_span: [25, 47]
+char_span: [1628, 3915]
+line_count: 21
+effective_body_non_empty_lines: 10
+
+lines:
+--- chunk (b0002: check for updates) ---
+25: # check for updates
+26: 
+27: Citation: Wang, R.; Lee, J.; Hong, J.; Kwon, H.-j.; Ye, H.; Park, J.; Park, C.E.; Kim, J.H.; Choi, H.H.; Eom, K.; et al. Mass-Synthesized Solution-Processable Polyimide Gate Dielectrics for Electrically Stable Operating OFETs and Integrated Circuits. Polymers 2021, 13, 3715. https://doi.org/10.3390/polym13213715
+28: 
+29: Academic Editor: Dong Jin Yoo
+30: 
+31: Received: 27 September 2021
+32: 
+33: Accepted: 26 October 2021
+34: 
+35: Published: 28 October 2021
+36: 
+37: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+38: 
+39: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+40: 
+41: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+42: 
+43: Abstract: Polyimides (PIs) are widely utilized polymeric materials for high-temperature plastics, adhesives, dielectrics, nonlinear optical materials, flexible hard-coating films, and substrates for flexible electronics. PIs can be facilely mass-produced through factory methods, so the industrial application value is limitless. Herein, we synthesized a typical poly(amic acid) (PAA) precursor-based solution through an industrialized reactor for mass production and applied the prepared solution to form thin films of PI using thermal imidization. The deposited PI thin films were successfully applied as gate dielectrics for organic field-effect transistors (OFETs). The PI layers showed suitable characteristics for dielectrics, such as a smooth surface, low leakage current density, uniform dielectric constant (k) values regardless of frequency, and compatibility with organic semiconductors. Utilizing this PI layer, we were able to fabricate electrically stable operated OFETs, which exhibited a threshold voltage shift lower than  $1\mathrm{V}$  under bias-stress conditions and a field-effect mobility of  $4.29~\mathrm{cm}^2\mathrm{V}^{-1}\mathrm{s}^{-1}$ . Moreover, integrated logic gates were manufactured using these well-operated OFETs and displayed suitable operation behavior.
+44: 
+45: Keywords: organic field-effect transistor; gate dielectric; polyimide; integrated logic gates

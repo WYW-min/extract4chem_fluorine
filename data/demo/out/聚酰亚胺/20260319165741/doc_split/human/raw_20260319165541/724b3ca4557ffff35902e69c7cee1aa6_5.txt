@@ -1,0 +1,79 @@
+source_file: Melt-Processable Semicrystalline Polyimides Based on 1,4-Bis(3,4-dicarboxyphenoxy)benzene Dianhydride (HQDPA) .md
+doc_id: 724b3ca4557ffff35902e69c7cee1aa6
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [263, 325]
+char_span: [45344, 57794]
+line_count: 63
+effective_body_non_empty_lines: 56
+
+lines:
+--- chunk (b0006: References) ---
+263: # References
+264: 
+265: 1. Mittal, K.L. Polyimides: Synthesis, Characterization, and Applications; Plenum: New York, NY, USA, 1984; pp. 149-161, ISBN 978-1-4615-7639-6.  
+266: 2. Wilson, D.; Stenzenberger, H.D.; Hergenrother, P.M. Polyimides; Blackie & Son Ltd.: Glasgow, UK, 1990; pp. 58-78, ISBN 978-94-010-9663-8.  
+267: 3. DeAbajo, J.; DelaCampa, J.G. Processable aromatic polyimides. In Progress in Polyimide Chemistry I; Kricheldorf, H., Ed.; Springer: Berlin/Heidelberg, Germany, 1999; Volume 140, pp. 23-59, ISBN 978-3-540-64962-5.  
+268: 4. Tamai, S.; Yamaguchi, A.; Ohta, M. Melt processible polyimides and their chemical structures. Polymer 1996, 37, 3683-3692. [CrossRef]  
+269: 5. Hou, T.H.; Bai, J.M. Thermal and rheological properties of LARC-TPI 1500 series polymers. *High Perform. Polym.* 1989, 1, 191-211. [CrossRef]  
+270: 6. Sokolova, M.; Smirnov, M.; Geydt, P.; Bugrov, A.; Ovaska, S.S.; Lahderanta, E.; Toikka, A. Structure and transport properties of mixed-matrix membranes based on polyimides with  $\mathrm{ZrO_2}$  nanostars. Polymers 2016, 8, 403. [CrossRef]  
+271: 7. Pei, X.L.; Chen, G.F.; Liu, J.T.; Fang, X.Z. Influence of crystalline polyimide hard block on the properties of poly(imide siloxane) copolymers. Polymer 2015, 56, 229-236. [CrossRef]  
+272: 8. Falkovich, S.G.; Larin, S.V.; Lyulin, A.V.; Yudin, V.E.; Kenny, J.M.; Lyulin, S.V. Influence of the carbon nanofiller surface curvature on the initiation of crystallization in thermoplastic polymers. RSC Adv. 2014, 4, 48606-48612. [CrossRef]  
+273: 9. Wang, W.; Wang, D.M.; Jia, H.; Liu, C.W.; Zhao, X.G.; Chen, C.H. Effect of copolymerization on crystallization kinetics of semicrystalline polyimides. J. Appl. Polym. Sci. 2013, 127, 4601-4609. [CrossRef]  
+274: 10. Wang, W.; Wang, D.M.; Jing, J.; Li, Q.M.; Jia, H.; Zhao, X.G.; Chen, C.H. Effect of monomer composition on properties of copolyimides derived from  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride/4,4'-oxydianiline/ 1,3-bis (4-aminophenoxy)benzene. Polym. Int. 2012, 61, 516-523. [CrossRef]  
+275: 11. Chao, M.; Kou, K.C.; Wu, G.L.; Zhang, J.Q.; Li, N.; Zhang, D.N. Synthesis and properties of semicrystalline copolyimides based on  $4,4^{\prime}$ -diaminodiphenylether and 1,3-bis(4-aminophenoxy) benzene. J. Macromol. Sci. B. 2012, 51, 2003–2014. [CrossRef]
+276: 
+277: 12. Zhao, G.Y.; Zhang, M.; Men, Y.F.; Ding, M.X.; Jiang, W. Crystallization behavior of a thermoplastic polyimide derived from  $3,3^{\prime},4,4^{\prime}$ -oxydiphthalic dianhydride and  $4,4^{\prime}$ -oxydianiline. J. Appl. Polym. Sci. 2008, 108, 1893-1900. [CrossRef]  
+278: 13. Song, N.H.; Yao, D.J.; Wang, Z.Y.; Sundararajan, P.R. A unique crystallization and double melting behavior of a polyimide derived from  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride and 1,4-bis(3-aminopropyl)piperazine. Polymer 2005, 46, 3831-3837. [CrossRef]  
+279: 14. Tamai, S.; Kuroki, T.; Shibuya, A.; Yamaguchi, A. Synthesis and characterization of thermally stable semicrystalline polyimide based on  $3,4^{\prime}$ -oxydianiline and  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride. Polymer 2001, 42, 2373-2378. [CrossRef]  
+280: 15. Liu, X.Q.; Jikei, M.; Kakimoto, M. Synthesis and properties of AB-type semicrystalline polyimides prepared from polyamic acid ethyl ester precursors. Macromolecules 2001, 34, 3146-3154. [CrossRef]  
+281: 16. Liu, X.Q.; Yamanaka, K.; Jikei, M.; Kakimoto, M. Semicrystalline polyimides starting from AB-type monomers. Chem. Mater. 2000, 12, 3885-3891. [CrossRef]  
+282: 17. Hsiao, B.S.; Kreuz, J.A.; Cheng, S.Z.D. Crystalline homopolyimides and copolyimides derived from  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride/1,3-bis(4-aminophenoxy)benzene/1,12-dodecanediamine. 2. Crystallization, melting, and morphology. Macromolecules 1996, 29, 135-142. [CrossRef]  
+283: 18. Kreuz, J.A.; Hsiao, B.S.; Renner, C.A.; Goff, D.L. Crystalline homopolyimides and copolyimides derived from  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride/1,3-bis(4-aminophenoxy)benzene/ 1,12-dodecanediamine. 1. Materials, preparation, and characterization. Macromolecules 1995, 28, 6926-6930. [CrossRef]  
+284: 19. Koning, C.E.; Teuwen, L.; DePlaen, A.; Mercier, J.P. Enhancement of the crystallinity of a thermoplastic polyimide. Polymer 1996, 37, 5619-5625. [CrossRef]  
+285: 20. Koning, C.E.; Teuwen, L.; Meijer, E.W.; Moonen, J.P. Synthesis and properties of alpha-omega-diaminoalkane based polyimides. Polymer 1994, 35, 4889–4895. [CrossRef]  
+286: 21. Korshak, V.V.; Babchinitser, T.M.; Kazaryan, L.G.; Vasilyev, V.A.; Genin, Y.V.; Azriel, A.Y.; Vygodsky, Y.S.; Churochkina, N.A.; Vinogradova, S.V.; Tsvankin, D.Y. Crystallization of alkyl-aromatic polyimides (polyalkanimides). J. Polym. Sci. Part B Polym. Phys. 1980, 18, 247-263. [CrossRef]  
+287: 22. Stclair, T.L.; Stclair, A.K. Crystalline polyimides containing  $4,4^{\prime}$ -bis(3,4-dicarboxyphenoxy)-diphenyl sulfide dianhydride. J. Polym. Sci. Part A Polym. Chem. 1977, 15, 1529-1533. [CrossRef]  
+288: 23. Hergenrother, P.M.; Wakelyn, N.T.; Havens, S.J. Polyimides containing carbonyl and ether connecting groups. J. Polym. Sci. Part A Polym. Chem. 1987, 25, 1093-1103. [CrossRef]  
+289: 24. Hergenrother, P.M.; Havens, S.J. Polyimides containing carbonyl and ether connecting groups. II. J. Polym. Sci. Part A Polym. Chem. 1989, 27, 1161-1174. [CrossRef]  
+290: 25. Brillhart, M.V.; Cheng, Y.Y.; Nagarkar, P.; Cebe, P. Molecular modelling and structure studies of LARC-CPI semicrystalline polyimide. Polymer 1997, 38, 3059-3068. [CrossRef]  
+291: 26. Brandon, D.K.; Wilkes, G.L. Influence of thermal imidization on the crystallization and melting behavior of the aromatic polyimide, LARC CPI-2. Polymer 1995, 36, 4083-4089. [CrossRef]  
+292: 27. Brandon, D.K.; Wilkes, G.L. Study of the multiple melting behavior of the aromatic polyimide LARC CPI-2. Polymer 1994, 35, 5672-5677. [CrossRef]  
+293: 28. Muellerleile, J.T.; Risch, B.G.; Rodrigues, D.E.; Wilkes, G.L.; Jones, D.M. Crystallization behavior and morphological features of LARC-CPI. Polymer 1993, 34, 789-806. [CrossRef]  
+294: 29. Tsai, R.S.; Lee, D.K.; Liu, Y.C.; Tsai, H.B. Crystallization of a thermoplastic polyimide. J. Appl. Polym. Sci. 2003, 90, 2604-2608. [CrossRef]  
+295: 30. Srinivas, S.; Wilkes, G.L. Structural and relaxation studies during crystallization of New TPI polyimide. Polymer 1998, 39, 5839-5851. [CrossRef]  
+296: 31. Hsiao, B.S.; Sauer, B.B.; Biswas, A. Crystallization study of a thermoplastic polyimide (New-TPI). J. Polym. Sci. Part B Polym. Phys. 1994, 32, 737-747. [CrossRef]  
+297: 32. Friler, J.B.; Cebe, P. Development of crystallinity in New-TPI polyimide. Polym. Eng. Sci. 1993, 33, 587-597. [CrossRef]  
+298: 33. Yudin, V.E.; Svetlichnyi, V.M.; Shumakov, A.N.; Letenko, D.G.; Feldman, A.Y.; Marom, G. The nucleating effect of carbon nanotubes on crystallinity in R-BAPB-type thermoplastic polyimide. Macromol. Rapid Commun. 2005, 26, 885-888. [CrossRef]
+299: 
+300: 34. Yudin, V.E.; Svetlichnyi, V.M.; Gubanova, G.N.; Didenko, A.L.; Sukhanova, T.E.; Kudryavtsev, V.V.; Ratner, S.; Marom, G. Semicrystalline polyimide matrices for composites: Crystallization and properties. J. Appl. Polym. Sci. 2002, 83, 2873-2882. [CrossRef]  
+301: 35. Yudin, V.E.; Svetlichnyi, V.M.; Gubanova, G.N.; Didenko, A.L.; Popova, E.N.; Sukhanova, T.E.; Grigoriev, A.I.; Kostereva, T.A.; Arbel, I.; Marom, G. Influence of crystallinity of R-BARB type polyimide matrix on thermal and mechanical properties of carbon fiber reinforced composites. In Polyimides and Other High Temperature Polymers: Synthesis, Characterization and Applications; Mittal, K.L., Ed.; CRC Press: Boca Raton, FL, USA, 2005; Volume 3, pp. 299-316, ISBN 978-9-04-741514-5.  
+302: 36. Yudin, V.E.; Svetlichnyi, V.M.; Gubanova, G.N.; Grigoriev, A.I.; Didenko, A.L.; Sukhanova, T.E.; Kudryavtsev, V.V.; Ratner, S.; Marom, G. Semicrystalline polyimides for advanced composites. In Polyimides and Other High Temperature Polymers: Synthesis, Characterization and Applications; Mittal, K.L., Ed.; Brill Academic Publishers: Zeist, The Netherlands, 2003; Volume 2, pp. 523-532, ISBN 90-6764-378-5.  
+303: 37. Heberer, D.P.; Cheng, S.Z.D.; Barley, J.S.; Lien, S.H.S.; Bryant, R.G.; Harris, F.W. Crystallization and morphology of semicrystalline polyimides. Macromolecules 1991, 24, 1890-1898. [CrossRef]  
+304: 38. Cheng, S.Z.D.; Mittleman, M.L.; Janimak, J.J.; Shen, D.X.; Chalmers, T.M.; Lien, H.S.; Tso, C.C.; Gabori, P.A.; Harris, F.W. Crystal-structure, crystallization kinetics and morphology of a new polyimide. Polym. Int. 1992, 29, 201-208. [CrossRef]  
+305: 39. Cheng, S.Z.D.; Heberer, D.P.; Janimak, J.J.; Lien, S.H.S.; Harris, F.W. Structure and thermal history dependent enthalpy relaxation at the glass-transition of semicrystalline polyimides. Polymer 1991, 32, 2053-2059. [CrossRef]  
+306: 40. Cheng, S.Z.D.; Heberer, D.P.; Lien, H.S.; Harris, F.W. Glass-transition and crystal melting in semicrystalline polyimides. J. Polym. Sci. Part B Polym. Phys. 1990, 28, 655-674. [CrossRef]  
+307: 41. Ratta, V.; Ayambem, A.; McGrath, J.E.; Wilkes, G.L. Crystallization and multiple melting behavior of a new semicrystalline polyimide based on 1,3-bis(4-aminophenoxy)benzene (TPER) and  $3,3^{\prime},4,4^{\prime}$ -biphenonetetracarboxylic dianhydride (BTDA). Polymer 2001, 42, 6173-6186. [CrossRef]  
+308: 42. Srinivas, S.; Caputo, F.E.; Graham, M.; Gardner, S.; Davis, R.M.; McGrath, J.E.; Wilkes, G.L. Semicrystalline polyimides based on controlled molecular weight phthalimide end-capped 1,3-bis(4-aminophenoxy)benzene and  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride: Synthesis, crystallization, melting, and thermal stability. Macromolecules 1997, 30, 1012-1022. [CrossRef]  
+309: 43. Ratta, V.; Ayambem, A.; Young, R.; McGrath, J.E.; Wilkes, G.L. Thermal stability, crystallization kinetics and morphology of a new semicrystalline polyimide based on 1,3-bis(4-aminophenoxy) benzene and  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride. Polymer 2000, 41, 8121-8138. [CrossRef]  
+310: 44. Ratta, V.; Stancik, E.J.; Ayambem, A.; Pavatureddy, H.; McGrath, J.E.; Wilkes, G.L. A melt-processable semicrystalline polyimide structural adhesive based on 1,3-bis(4-aminophenoxy)benzene and  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride. Polymer 1999, 40, 1889-1902. [CrossRef]  
+311: 45. Srinivas, S.; Graham, M.; Brink, M.H.; Gardner, S.; Davis, R.M.; McGrath, J.E.; Wilkes, G.L. Influence of melt stability on the crystallization of bis(4-aminophenoxy)benzene-oxydiphthalic anhydride based polyimides. Polym. Eng. Sci. 1996, 36, 1928-1940. [CrossRef]  
+312: 46. Sazanov, Y.N.; Florinsky, F.S.; Koton, M.M. Investigation of thermal and thermooxidative degradation of some polyimides containing oxyphenylene groups in the main chain. Eur. Polym. J. 1979, 15, 781-786. [CrossRef]  
+313: 47. Hsiao, S.H.; Dai, L.R. Synthesis and properties of poly(ether imide)s based on the bis(ether anhydride)s from hydroquinone and its derivatives. J. Polym. Sci. Part A Polym. Chem. 1999, 37, 665-675. [CrossRef]  
+314: 48. Takekoshi, T.; Kochanowski, J.E.; Manello, J.S.; Webber, M.J. Polyetherimides. II. High-temperature solution polymerization. J. Polym. Sci. Polym. Symp. 1986, 74, 93-108. [CrossRef]  
+315: 49. Han, Y.; Fang, X.Z.; Zuo, X.X. The influence of molecular weight on properties of melt-processable copolyimides derived from thioetherdiphthalic anhydride isomers. J. Mater. Sci. 2010, 45, 1921-1929. [CrossRef]  
+316: 50. Wunderlich, B. Chapter IX—Irreversible melting. In Macromolecular Physics: Crystal Melting; Academic Press: San Diego, CA, USA, 1980; Volume 3, pp. 128-253, ISBN 978-0-08-092664-3.  
+317: 51. Avrami, M. Kinetics of phase change I—General theory. J. Chem. Phys. 1939, 7, 1103-1112. [CrossRef]  
+318: 52. Wunderlich, B. Chapter VI—The growth of crystals. In Macromolecular Physics: Crystal Nucleation, Growth, Annealing; Academic Press: New York, NY, USA, 1976; Volume 2, pp. 115-347, ISBN 978-0-12-765602-1.
+319: 
+320: 53. Cebe, P.; Hong, C.H. Crystallization behaviour of poly(ether-ether-ketone). Polymer 1986, 27, 1183-1192. [CrossRef]  
+321: 54. Carroccio, S.; Puglisi, C.; Montaudo, G. New vistas in polymer degradation. Thermal oxidation processes in poly(ether imide). Macromolecules 2005, 38, 6849-6862. [CrossRef]
+322: 
+323: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+324: 
+325: © 2017 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

@@ -1,0 +1,43 @@
+source_file: Influence of Heating Rate on the Structure and Mechanical Properties of Aromatic BPDA鈥揚DA Polyimide Fiber.md
+doc_id: fc746317a61db975a40d5a9bdf4a52d0
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Influence of Heating Rate on the Structure and Mechanical Properties of Aromatic BPDA-PDA Polyimide Fiber
+line_span: [1, 29]
+char_span: [0, 2802]
+line_count: 27
+effective_body_non_empty_lines: 17
+
+lines:
+--- chunk (b0001: Influence of Heating Rate on the Structure and Mechanical Properties of Aromatic BPDA-PDA Polyimide Fiber) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2020, 12, 510; doi:10.3390/polym12030510
+5: www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Influence of Heating Rate on the Structure and Mechanical Properties of Aromatic BPDA-PDA Polyimide Fiber
+11: 
+12: Wenke Yang  $^{1}$ , Fangfang Liu  $^{2}$ , Hongxiang Chen  $^{3}$ , Xuemin Dai  $^{2}$ , Wei Liu  $^{3}$ , Xuepeng Qiu  $^{2,*}$  and Xiangling Ji  $^{3,*}$
+13: 
+14: $^{1}$  School of Materials Science and Engineering, Qilu University of Technology, Shandong Academy of Sciences, Jinan 250353, China; wkyang@qlu.edu.cn  
+15: $^{2}$  Polymer Composites Engineering Laboratory, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun 130022, China; lflf@ciac.ac.cn (F.L.); xmdai@ciac.ac.cn (X.D.)  
+16: 3 State Key Laboratory of Polymer Physics and Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun 130022, China; hxchen@ciac.ac.cn (H.C.); wliu@ciac.ac.cn (W.L.)  
+17: * Correspondence: xp_q@ciac.ac.cn (X.Q.); xlji@ciac.ac.cn (X.J.); Tel.: +86-0431-85262557 (X.Q.); +86-0431-85262876 (X.J.)
+18: 
+19: Received: 11 February 2020; Accepted: 24 February 2020; Published: 27 February 2020
+20: 
+21: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+22: 
+23: check for updates
+24: 
+25: Abstract: Aromatic polyimide fibers (PI) are usually produced in two steps. The precursor fibers of polyamic acid (PAA) are fabricated first, and then the fabricated fibers are converted into PI fibers through thermal treatment. In the second step (thermal treatment), the mechanical properties of the obtained PI fibers are remarkably affected. Here, the PAA fibers derived from  $3,3^{\prime},4,4^{\prime}$ -biphenyltetra-carboxylic dianhydride and p-phenylenediamine are fabricated by a dry-jet wet-spinning method. Then, the PI fibers are prepared by heating PAA fibers from room temperature to 300, 350 and  $400^{\circ}\mathrm{C}$  under different heating rates, ranging from  $1^{\circ}\mathrm{C / min}$  to  $80^{\circ}\mathrm{C / min}$ . When the heating rate is low, the crystallization lags behind the imidization process, and begins only when the amidization degree reaches a high level. As the heating rate increases, the crystallization tends to occur simultaneously with the amidization process, and the degree of crystallinity of the PI fibers also greatly increases. Our findings suggest that a high heating rate causes the polymer chains to undergo high mobility during thermal treatment. The tensile modulus of the PI fiber further demonstrates a high dependence on the heating rate. Moreover, a short annealing process after treatment proves to be efficient in releasing residual stress and improving tensile strength.
+26: 
+27: Keywords: polyimide; polyimide fibers; polyamic acid; polyamic acid fibers; imidization

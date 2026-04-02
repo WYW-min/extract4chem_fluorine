@@ -1,0 +1,88 @@
+source_file: A Novel Diamine Containing Ester and Diphenylethane Groups for Colorless Polyimide with a Low Dielectric Const.md
+doc_id: e4e23641a5a6262053f602a1e3dace26
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [255, 326]
+char_span: [44108, 59305]
+line_count: 72
+effective_body_non_empty_lines: 67
+
+lines:
+--- chunk (b0006: References) ---
+255: # References
+256: 
+257: 1. Ji, D.; Li, T.; Hu, W.; Fuchs, F. Recent progress in aromatic polyimide dielectrics for organic electronic devices and circuits. Adv. Mat. 2019, 31, 1806070. [CrossRef]  
+258: 2. Saha, H.N.; Mandal, A.; Sinha, A. Recent trends in the internet of things. In Proceedings of the 2017 IEEE 7th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, USA, 9-11 January 2017; pp. 1-4. [CrossRef]  
+259: 3. Lvov, V.A.; Senatov, F.S.; Veveris, A.A.; Skrybykina, V.A.; Diaz Lantada, A. Auxetic metamaterials for biomedical devices: Current Situation, main challenges, and research trends. Materials 2022, 15, 1439. [CrossRef] [PubMed]  
+260: 4. Bowman, D.; Harte, T.L.; Chardonnet, V.; De Groot, C.; Denny, S.J.; Le Goc, G.; Anderson, M.; Ireland, P.; Cassettari, D.; Bruce, G.D. High-Fidelity Phase and amplitude control of phase-only computer generated holograms using conjugate gradient minimisation. Opt. Express 2017, 25, 11692-11700. [CrossRef] [PubMed]
+261: 
+262: 5. Xu, L.; Zhou, X.; Tao, Y.; Yu, X.; Yu, M.; Khan, F. AF Relaying secrecy performance prediction for 6G mobile communication networks in industry 5.0. IEEE Trans. Ind. Inform. 2022, 18, 5485-5493. [CrossRef]  
+263: 6. Liu, X.; Zhang, X. Rate and energy efficiency improvements for 5G-based IoT with simultaneous transfer. IEEE Internet Things J. 2019, 6, 5971-5980. [CrossRef]  
+264: 7. Choi, M.-C.; Hwang, J.-C.; Kim, C.; Ando, S.; Ha, C.-S. New colorless substrates based on polynorbornene-chlorinated polyimide copolymers and their application for flexible displays. J. Polym. Sci. Part A Polym. Chem. 2010, 48, 1806-1814. [CrossRef]  
+265: 8. Weber, A.; Deutschbein, S.; Plichta, A.; Habeck, A. 6.3: Thin glass-polymer systems as flexible substrates for displays. SID Symp. Dig. Tech. Pap. 2002, 33, 53-55. [CrossRef]  
+266: 9. Shin, H.S.; Koo, J.B.; Jeong, J.K.; Mo, Y.G.; Chung, H.K.; Cheon, J.H.; Choi, J.H.; Kim, K.M.; Hur, J.H.; Park, S.H.; et al. 54.4: 4.1 inch Top-emission AMOLED on flexible metal foil. SID Symp. Dig. Tech. Pap. 2005, 36, 1642-1645. [CrossRef]  
+267: 10. Chen, Z.; Zhou, Y.; Wu, Y.; Liu, S.; Huang, H.; Zhao, J. Fluorinated polyimide with polyhedral oligomeric silsesquioxane Aggregates: Toward low dielectric constant and high toughness. Compos. Sci. Technol. 2019, 181, 107700. [CrossRef]  
+268: 11. Huang, C.; Li, J.; Xie, G.; Han, F.; Hang, D.; Zhang, F.; Zhang, B.; Zhang, G.; Sun, R.; Wong, C.-P. Low-dielectric constant and low-temperature curable polyimide/POSS nanocomposites. Macromol. Mater. Eng. 2019, 304, 1900505. [CrossRef]  
+269: 12. Hasegawa, M.; Ishigami, T.; Ishii, J. Optically transparent aromatic poly (ester imide) s with low coefficients of thermal expansion (1). Self-orientation behavior during solution casting process and substituent effect. Polymer 2015, 74, 1-15. [CrossRef]  
+270: 13. Kourakata, Y.; Onodera, T.; Kasai, H.; Jinnai, H.; Oikawa, H. Ultra-low dielectric properties of porous polyimide thin films fabricated by using the two kinds of templates with different particle sizes. Polymer 2021, 212, 123115. [CrossRef]  
+271: 14. Leppäniemi, J.; Eiroma, K.; Majumdar, H.; Alastalo, A. Far-UV annealed inkjet-printed In2O3 semiconductor layers for thin-film transistors on a flexible polyethylene naphthalate substrate. ACS Appl. Mater. Interfaces 2017, 9, 8774-8782. [CrossRef] [PubMed]  
+272: 15. Zhong, X.; Nag, A.; Zhou, J.; Takada, K.; Amat Yusof, F.A.; Mitsumata, T.; Oqmhula, K.; Hongo, K.; Maezono, R.; Kaneko, T. Stepwise copolymerization of polybenzimidazole for a low dielectric constant and ultrahigh heat resistance. RSC Adv. 2022, 12, 11885-11895. [CrossRef] [PubMed]  
+273: 16. Chen, Y.; Zhang, S.; Liu, X.; Pei, Q.; Qian, J.; Zhuang, Q.; Han, Z. Preparation of solution-processable reduced graphene oxide/polybenzoxazole nanocomposites with improved dielectric properties. Macromolecules 2015, 48, 365-372. [CrossRef]  
+274: 17. Silverstein, M.S.; Shach-Caplan, M.; Bauer, B.J.; Hedden, R.C.; Lee, H.-J.; Landes, B.G. Nanopore formation in a polyphenylene low-k dielectric. Macromolecules 2005, 38, 4301-4310. [CrossRef]  
+275: 18. Liaw, D.J.; Wang, K.L.; Huang, Y.C.; Lee, K.R.; Lai, J.Y.; Ha, C.-S. Advanced polyimide materials: Syntheses, physical properties and applications. Prog. Polym. Sci. 2012, 37, 907-974. [CrossRef]  
+276: 19. Kotov, B.V.; Gordina, T.A.; Voishchev, V.S.; Kolninov, O.V.; Pravednikov, A.N. Aromatic polyimides as charge transfer complexes. Polym. Sci. USSR 1977, 19, 711-716. [CrossRef]  
+277: 20. Ando, S.; Matsuura, T.; Sasaki, S. Coloration of aromatic polyimides and electronic properties of their source materials. Polym. J. 1997, 29, 69-76. [CrossRef]  
+278: 21. Crawford, G.P. Flexible Flat Panel Displays; John Wiley & Sons Ltd: Chichester, UK, 2005; pp. 1-9.  
+279: 22. Qian, C.; Bei, R.; Zhu, T.; Zheng, W.; Liu, S.; Chi, Z.; Aldred, M.P.; Chen, X.; Zhang, Y.; Xu, J. Facile strategy for intrinsic low-k dielectric polymers: Molecular design based on secondary relaxation behavior. Macromolecules 2019, 52, 4601-4609. [CrossRef]  
+280: 23. Chen, C.K.; Lin, Y.C.; Hsu, L.C.; Ho, J.C.; Ueda, M.; Chen, W.C. High performance biomass-based polyimides for flexible electronic applications. ACS Sustain. Chem. Eng. 2021, 9, 3278-3288. [CrossRef]  
+281: 24. Nam, K.-H.; Jin, J.; Lee, D.H.; Han, H.; Goh, M.; Yu, J.; Ku, B.-C.; You, N.-H. Towards solution-processable, thermally robust, transparent polyimide-chain-end tethered organosilicate nanohybrids. Compos. Part B Eng. 2019, 163, 290-296. [CrossRef]  
+282: 25. Sun, H.; Lv, Y.; Zhang, C.; Zuo, X.; Li, M.; Yue, X.; Jiang, Z. Materials with low dielectric constant and loss and good thermal properties prepared by introducing perfluorononenyl pendant groups onto poly(ether ether ketone). RSC Adv. 2018, 8, 7753-7760. [CrossRef] [PubMed]  
+283: 26. Tao, L.; Yang, H.; Liu, J.; Fan, L.; Yang, S. Synthesis and characterization of highly optical transparent and low dielectric constant fluorinated polyimides. Polymer 2009, 50, 6009-6018. [CrossRef]  
+284: 27. Kuo, C.C.; Lin, Y.C.; Chen, Y.C.; Wu, P.H.; Ando, S.; Ueda, M.; Chen, W.C. Correlating the molecular structure of polyimides with the dielectric constant and dissipation factor at a high frequency of 10 GHz. ACS Appl. Polym. Mater. 2021, 3, 362-371. [CrossRef]  
+285: 28. Nam, K.-H.; Choi, H.K.; Yeo, H.; You, N.-H.; Ku, B.-C.; Yu, J. Molecular design and property prediction of sterically confined polyimides for thermally stable and transparent materials. Polymers 2018, 10, 630. [CrossRef]  
+286: 29. Hasegawa, M.; Hishiki, T. Poly (ester imide) s possessing low coefficients of thermal expansion and low water absorption (V). effects of ester-linked diamines with different lengths and substituents. Polymers 2020, 12, 859. [CrossRef]  
+287: 30. Han, S.; Li, Y.; Hao, F.; Qi, S.; Tian, G.; Wu, D. Ultra-low dielectric constant polyimides: Combined efforts of fluorination and micro-branched crosslink structure. Eur. Polym. J. 2021, 143, 110206. [CrossRef]  
+288: 31. Chen, Y.C.; Lin, Y.C.; Chang, E.C.; Kuo, C.C.; Ueda, M.; Chen, W.C. Investigation of the structure-dielectric relationship of polyimides with ultralow dielectric constant and dissipation factors using density functional theory. Polymer 2022, 256, 125184. [CrossRef]  
+289: 32. Zheng, H.; Wang, C.; Tao, Z.; Jiang, C.; Zhao, X.; Li, J.; Ren, Q. Soluble polyimides containing bulky rigid terphenyl groups with low dielectric constant and high thermal stability. J. Electron. Mater. 2021, 50, 6981-6990. [CrossRef]
+290: 
+291: 33. Kim, S.D.; Kim, S.Y.; Chung, I.S. Soluble and transparent polyimides from unsymmetrical diamine containing two trifluoromethyl groups. J. Polym. Sci. Part A Polym. Chem. 2013, 51, 4413-4422. [CrossRef]  
+292: 34. Bei, R.; Qian, C.; Zhang, Y.; Chi, Z.; Liu, S.; Chen, X.; Xu, J.; Aldred, M.P. Intrinsic low dielectric constant polyimides: Relationship between molecular structure and dielectric properties. J. Mater. Chem. C 2017, 5, 12807. [CrossRef]  
+293: 35. Zhang, F.; Li, J.; Liu, F.; Zhang, G.; Sun, R.; Wong, C. Intrinsic low dielectric constant and low dielectric loss polyimides: The effect of molecular structure. In Proceedings of the 2019 20th International Conference on Electronic Packaging Technology (ICEPT), Hong Kong, China, 12-15 August 2019; pp. 1-4. [CrossRef]  
+294: 36. Anju, K.S.; Ramakrishnan, S.; Thomas, A.P.; Suresh, E.; Srinivasan, A. 9,10,19,20-Tetraarylporphycenes. Org. Lett. 2008, 10, 5545-5548. [CrossRef]  
+295: 37. Chandra, T.; Zebrowski, J.P. Hazards associated with laboratory scale hydrogenations. J. Chem. Health Saf. 2016, 23, 16-25. [CrossRef]  
+296: 38. Park, S.S.; Ha, C.-S. Polyimide/hollow silica sphere hybrid films with low dielectric constant. Compos. Interfaces 2016, 23, 831-846. [CrossRef]  
+297: 39. Hasegawa, M.; Watanabe, Y.; Tsukuda, S.; Ishii, J. Solution-processable colorless polyimides with ultralow coefficients of thermal expansion for optoelectronic applications. Polym. Int. 2016, 65, 1063-1073. [CrossRef]  
+298: 40. Ablajan, K.; Kamil, W.; Tuoheti, A.; Wan-Fu, S. An efficient three component one-pot synthesis of 5-amino-7-aryl-7,8-dihydro-[1,2,4] triazolo[4,3-a]-pyrimidine-6-carbonitriles. *Molecules* **2012**, 17, 1860–1869. [CrossRef]  
+299: 41. Nam, K.-H.; Kim, H.; Choi, H.K.; Yeo, H.; Goh, M.; Yu, J.; Hahn, J.R.; Han, H.; Ku, B.-C.; You, N.-H. Thermomechanical and optical properties of molecularly controlled polyimides derived from ester derivatives. Polymer 2017, 108, 502-512. [CrossRef]  
+300: 42. Chen, W.; Liu, F.; Ji, M.; Yang, S. Synthesis and characterization of low-CTE polyimide films containing trifluoromethyl groups with water-repellant characteristics. High Perform. Polym. 2017, 29, 501-512. [CrossRef]  
+301: 43. Hasegawa, M. Development of solution-processable, optically transparent polyimides with ultra-low linear coefficients of thermal expansion. Polymers 2017, 9, 520. [CrossRef]  
+302: 44. Jeong, K.-M.; Li, Y.; Yoo, D.-G.; Lee, N.-K.; Lee, H.-G.; Ando, S.; Ha, C.-S. Effects of crosslinking agents on the physical properties of polyimide/amino-functionalized graphene oxide hybrid films. Polym. Int. 2018, 67, 588-597. [CrossRef]  
+303: 45. Harris, F.W.; Lin, S.-H.; Li, F.; Cheng, S.Z.D. Organo-soluble polyimides: Synthesis and polymerization of  $2,2^{\prime}$ -disubstituted-4,4',5,5'-biphenyltetracarboxylic dianhydrides. Polymer 1996, 37, 5049-5057. [CrossRef]  
+304: 46. Liaw, D.-J.; Fan, C.-L.; Lin, C.-C.; Wang, K.-L. Synthesis and characterization of new soluble poly (ester-imide) s containing noncoplanar  $2,2^{\prime}$ -dimethyl-4,4'-biphenylene Unit. J. Appl. Polym. Sci. 2004, 92, 2486-2493. [CrossRef]  
+305: 47. Tapaswi, P.K.; Ha, C.-S. Recent Trends on Transparent colorless polyimides with balanced thermal and optical properties: Design and synthesis. Macromol. Chem. Phys. 2019, 220, 1800313. [CrossRef]  
+306: 48. He, X.; Tapaswi, P.K.; Ha, C.-S.; Huang, W. Soluble polyimides derived from a novel aromatic diamine containing an imidazole unit and trifluoromethyl groups. Macromol. Res. 2021, 29, 365-375. [CrossRef]  
+307: 49. Deng, B.; Zhang, S.; Liu, C.; Li, W.; Zhang, X.; Wei, H.; Gong, C. Synthesis and properties of soluble aromatic polyimides from novel 4{,}5-diazafluorene-containing dianhydride. RSC Adv. 2018, 8, 194-205. [CrossRef]  
+308: 50. Matsumoto, T.; Mikami, D.; Hashimoto, T.; Kaise, M.; Takahashi, R.; Kawabata, S. Alicyclic polyimides a colorless and thermally stable polymer for opto-electronic devices. J. Phys. Conf. Ser. 2009, 187, 012005. [CrossRef]  
+309: 51. Huang, J.; He, C.; Xiao, Y.; Mya, K.Y.; Dai, J.; Siow, Y.P. Polyimide/POSS nanocomposites: Interfacial interaction, thermal properties and mechanical properties. Polymer 2003, 44, 4491-4499. [CrossRef]  
+310: 52. Bershtein, V.A.; Egorova, L.M.; Yakushev, P.N.; Pissis, P.; Sysel, P.; Brozova, L. Molecular dynamics in nanostructured polyimide-silica hybrid materials and their thermal stability. J. Polym. Sci. Part B Polym. Phys. 2002, 40, 1056-1069. [CrossRef]  
+311: 53. Kong, J.-Y.; Choi, M.-C.; Kim, G.Y.; Park, J.J.; Selvaraj, M.; Han, M.; Ha, C.-S. Preparation and properties of polyimide/graphene oxide nanocomposite films with Mg ion crosslinker. Eur. Polym. J. 2012, 48, 1394-1405. [CrossRef]  
+312: 54. Liu, J.; Zhang, H.-B.; Xie, X.; Yang, R.; Liu, Z.; Liu, Y.; Yu, Z.-Z. Multifunctional, superelastic, and lightweight MXene/polyimide aerogels. Small 2018, 14, 1802479. [CrossRef]  
+313: 55. Tapaswi, P.K.; Choi, M.-C.; Jeong, K.M.; Ando, S.; Ha, C.-S. Transparent aromatic polyimides derived from thiophenyl-substituted benzidines with high refractive index and small birefringence. Macromolecules 2015, 48, 3462-3474. [CrossRef]  
+314: 56. Yang, G.; Zhang, R.; Huang, H.; Liu, L.; Wang, L.; Chen, Y. Synthesis of novel biobased polyimides derived from isomannide with good optical transparency, solubility and thermal stability. RSC Adv. 2015, 5, 67574-67582. [CrossRef]  
+315: 57. Pal, B.; Dhara, S.; Giri, P.K.; Sarkar, D. Room temperature ferromagnetism with high magnetic moment and optical properties of Co doped ZnO nanorods synthesized by a solvothermal route. J. Alloy. Compd. 2014, 615, 378-385. [CrossRef]  
+316: 58. Meulenkamp, E.A. Synthesis and growth of ZnO nanoparticles. J. Phys. Chem. B 1998, 102, 5566-5572. [CrossRef]  
+317: 59. Choi, M.-C.; Hwang, J.-C.; Kim, C.; Kim, Y.; Ha, C.-S. Synthesis of poly(N-9-ethylcarbazole-exo-norbornene-5,6-dicarboximide) for hole-transporting layer in hybrid organic light-emitting devices. J. Polym. Sci. Part A Polym. Chem. 2010, 48, 5189-5197. [CrossRef]  
+318: 60. DuPont KAPTON Summary of Properties. Available online: https://www.dupont.com/content/dam/dupont/amer/us/en/products/ei-transformation/documents/EI-10142_Kapton-Summary-of-Properties.pdf (accessed on 15 September 2022).  
+319: 61. Ebisawa, S.; Ishii, J.; Sato, M.; Vladimirov, L.; Hasegawa, M. Spontaneous molecular orientation of polyimides induced by thermal imidization (5). effect of ordered structure formation in polyimide precursors on CTE. Eur. Polym. J. 2010, 46, 283-297. [CrossRef]
+320: 
+321: 62. Hasegawa, M.; Hirai, T.; Ishigami, T.; Takahashi, S.; Ishii, J. Optically transparent aromatic poly (ester imide) s with low coefficients of thermal expansion. 2: Effect of the introduction of alkyl-substituted p-biphenylene units. Polym. Int. 2018, 67, 431-444. [CrossRef]  
+322: 63. Zhu, T.; Yu, Q.; Zheng, W.; Bei, R.; Wang, W.; Wu, M.; Liu, S.; Chi, Z.; Zhang, Y.; Xu, J. Intrinsic high-k-low-loss dielectric polyimides containing ortho-position aromatic nitrile moieties: Reconsideration on clausius-mossotti equation. Polym. Chem. 2021, 12, 2481-2489. [CrossRef]  
+323: 64. Chen, C.-K.; Lin, Y.-C.; Miyane, S.; Ando, S.; Ueda, M.; Chen, W.-C. Thermally and mechanically stable polyimides as flexible substrates for organic field-effect transistors. ACS Appl. Polym. Mater. 2020, 2, 3422-3432. [CrossRef]  
+324: 65. Huang, J.-J.; Chen, Y.-P.; Lien, S.-Y.; Weng, K.-W.; Chao, C.-H. High mechanical and electrical reliability of bottom-gate microcrystalline silicon thin film transistors on polyimide substrate. Curr. Appl. Phys. 2011, 1, S266-S270. [CrossRef]  
+325: 66. Yan, M.; Kim, T.W.; Erlat, A.G.; Pellow, M.; Foust, D.F.; Liu, J.; Schaepkens, M.; Heller, C.M.; McConnelee, P.A.; Feist, T.P.; et al. A transparent, high barrier, and high heat substrate for organic electronics. Proc. IEEE 2005, 93, 1468-1477. [CrossRef]  
+326: 67. Maier, G. Low dielectric constant polymers for microelectronics. Prog. Polym. Sci. 2001, 26, 3-65. [CrossRef]

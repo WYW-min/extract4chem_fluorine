@@ -1,0 +1,30 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 3
+block_id: b0004
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Acid Modification of MWCNTs
+line_span: [37, 52]
+char_span: [7768, 10550]
+line_count: 14
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0004: Acid Modification of MWCNTs) ---
+37: # Acid Modification of MWCNTs
+38: 
+39: Two grams of MWCNTs were treated with  $65\%$  (v/v)  $\mathrm{HNO}_3$  for  $48\mathrm{h}$  in a refluxing apparatus [11] with constant stirring to convert the MWCNTs to acid functionalized (MWCNTs-COOH). The treated material was washed several times with deionized water till washings were neutral to pH paper and dried at  $100^{\circ}\mathrm{C}$  for  $12\mathrm{h}$  prior to use.
+40: 
+41: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+42: Fig. 1 Structure of PMDA/ ODA-based polyamic acid
+43: 
+44: Amine Modification of Acid Modified
+45: 
+46: A  $100~\mathrm{mL}$  -flask was charged with  $1\mathrm{g}$  of MWCNTs-COOH dispersed in  $30~\mathrm{mL}$  of anhydrous benzene  $(\mathrm{C_6H_6})$  to which  $30~\mathrm{mL}$  of thionyl chloride  $(\mathrm{SOCl}_2)$  was subsequently added and stirred at  $70^{\circ}\mathrm{C}$  for  $8\mathrm{h}$ . After the reaction, the whole reaction mixture was filtered and the solid residue (MWCNTs-COCl) was washed several times with anhydrous THF and dried at  $50^{\circ}\mathrm{C}$  overnight. Approximately  $0.5\mathrm{g}$  of MWCNTs-COCl was suspended in THF and was stirred in excess of octadecylamine  $(\mathrm{C_{18}H_{39}N})$  for about  $90\mathrm{h}$  to produce amine modified MWCNTs (MWCNTsCO-NH-  $\mathrm{C_{18}H_{37}}$  ), the whole reaction mixture was maintained at a temperature of  $100^{\circ}\mathrm{C}$ . After functionalization reaction, MWCNTs were washed with ethanol to dissolve excess octadecylamine and subsequently with deionized water followed by drying under vacuum prior to use [12].
+47: 
+48: Nanocomposite Fabrication
+49: 
+50: Appropriate amount of acid or amine functionalized MWCNTs were separately mixed in  $10~\mathrm{mL}$  of DMAc by means of ultrasonication at room temperature to obtain a homogenous suspension of MWCNTs/DMAc. This suspension was poured into the polyamic acid and vigorously stirred with the help of a magnetic stirrer (80 rpm at  $150^{\circ}\mathrm{C}$ ) for  $40\mathrm{min}$  to obtain a highly viscous suspension of MWCNTs in polyamic acid. The viscous mass was casted on to a clean glass plate and dried in an air circulating oven at a temperature of  $70^{\circ}\mathrm{C}$  for  $12\mathrm{h}$  to evaporate the solvent (DMAc) and to obtain a dried tack free film. Imidization (curing) of nanocomposites film was achieved by heating the nanocomposites film in an air circulating oven at 100, 150, 200, and  $250^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  at each respective temperature with a final heat treatment at  $300^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ . During imidization, the amide linkage converted in to imide linkage (cyclization) with the evolution of water molecules. The whole scheme of nanocomposites fabrication is illustrated in Fig. 2.

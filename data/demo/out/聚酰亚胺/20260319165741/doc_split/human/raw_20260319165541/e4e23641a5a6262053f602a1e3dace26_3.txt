@@ -1,0 +1,123 @@
+source_file: A Novel Diamine Containing Ester and Diphenylethane Groups for Colorless Polyimide with a Low Dielectric Const.md
+doc_id: e4e23641a5a6262053f602a1e3dace26
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [129, 237]
+char_span: [21117, 41266]
+line_count: 107
+effective_body_non_empty_lines: 51
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+129: # 3. Results and Discussion
+130: 
+131: # 3.1. Synthesis and Characterization of the Diamine Monomer
+132: 
+133: The new ester- and phenyl-containing diamine monomer 1,2-DPEDBA was prepared through a total of three steps: ketone-alcohol reduction, esterification reaction with acyl halides, and hydrogenation reaction. The total synthesis route to 1,2-DPEDBA is shown in Scheme 1. After these processes, the diamine monomer with ester and phenyl moieties was successfully synthesized. The functional groups and structures of 1,2-diphenylethane-1,2-diol, 1,2-DPEDBN, and 1,2-DPEDBA were analyzed by  ${}^{1}\mathrm{H}$  NMR,  ${}^{13}\mathrm{C}$  NMR, and FTIR spectroscopy.
+134: 
+135: The  ${}^{1}\mathrm{H}$  NMR spectrum of 1,2-diphenylethane-1,2-diol is shown in Figure 1a, and all peaks are assigned to each proton in the chemical structure. In Figure 1a, the peaks at approximately  $7.25\sim 7.21$  ppm ('a, b, c') were assigned to the aromatic protons. The peak at  $5.20~\mathrm{ppm}$  ('d') was assigned to the -CH group, while the peak at  $4.55~\mathrm{ppm}$  ('e') was assigned to the -OH group [33]. Figure 1b shows the  ${}^{1}\mathrm{H}$  NMR spectrum of 1,2-DPEDBN. The peaks at approximately 8.33 and  $8.32~\mathrm{ppm}$  ('a, b') were assigned to the benzene ring protons near the nitro group, while the peaks at 7.45 and  $7.33~\mathrm{ppm}$  ('d, e, f') were ascribed to protons in the phenyl group. The peak at  $6.50~\mathrm{ppm}$  ('c') was assigned to the -CH group. The  ${}^{1}\mathrm{H}$  NMR spectra of 1,2-DPEDBA are depicted in Figure 2a,b. In Figure 2a, the peaks at 7.62 and  $6.54~\mathrm{ppm}$  ('a, b') were assigned to the benzene ring protons near the amine group, while the peaks at approximately  $7.29~\mathrm{ppm}$  ('d, e, f') were assigned to the protons in the phenyl group [39]. The peaks at  $6.24~\mathrm{ppm}$  and  $6.01~\mathrm{ppm}$  ('c, g') were assigned to the -CH group and  $-\mathrm{NH}_2$  group, respectively. In addition, Figure 2b shows the  ${}^{1}\mathrm{H}$  NMR spectrum of 1,2-DPEDBA with some drops of  $\mathrm{D}_2\mathrm{O}$ . A comparison of Figure 2a,b indicates that only the peak at  $6.01~\mathrm{ppm}$  disappeared, meaning that this peak is assigned to the  $-\mathrm{NH}_2$  proton [40].
+136: 
+137: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+138: Figure 1.  ${}^{1}\mathrm{H}$  -NMR spectra of (a) 1,2-diphenylethane-1,2-diol and (b) 1,2-DPEDBN.
+139: 
+140: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+141: 
+142: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+143: Figure 2.  ${}^{1}\mathrm{H}$  -NMR spectra of (a) 1,2-DPEDBA and (b) 1,2-DPEDBA with addition of  ${\mathrm{D}}_{2}\mathrm{O}$  .
+144: 
+145: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+146: 
+147: The  $^{13}\mathrm{C}$ -NMR spectra of 1,2-DPEDBN and DPEDBA are shown in Figure 3. All peaks in the figures are assigned to each carbon atom in the chemical structure. In Figure 3a, the peak at 162 ppm ('e') was assigned to the ester carbonyl (C=O) carbon atom, the peak at 150 ppm ('a') was assigned to the nitro group carbon (C-N) atom, and the peaks at approximately 120~135 ppm ('b, c, d, g, h, i, j') were assigned to the phenyl carbon atom. The peak at 77 ppm ('f') was assigned to ethyl carbon. In Figure 3b, the peak at approximately 160 ppm ('e') was assigned to the ester carbon atom, and the peak at approximately 150 ppm ('a') was assigned to amine carbon. The peak at approximately 76 ppm ('f') was assigned to ethyl carbon. The other peaks were assigned to phenyl carbon ('b, c, d, g, h, i, j') [41].
+148: 
+149: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+150: Figure 3.  $^{13}\mathrm{C}$  NMR spectra of (a) 1,2-DPEDBN and (b) 1,2-DPEDBA.
+151: 
+152: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+153: 
+154: Furthermore, the functional groups of 1,2-DPEDBN and 1,2-DPEDBA were investigated by FT-IR spectroscopy. In Figure 4, for the 1,2-DPEDBN spectrum, the distinctive absorption bands at approximately 1528 and  $1353~\mathrm{cm}^{-1}$  were due to asymmetric and symmetric vibrations of the nitro groups  $(\mathrm{N = O})$ , respectively. Additionally, the absorption bands at approximately 1731, 1267, and  $1099~\mathrm{cm}^{-1}$  were due to the vibration of the ester groups  $(\mathrm{C = O},\mathrm{C - O})$  [42]. After the hydrogenation reaction, distinctive absorption bands at approximately 3478, 3358, 1622, 1174, and  $702~\mathrm{cm}^{-1}$  newly appeared due to the primary amine groups (N-H, C-N).
+155: 
+156: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+157: Figure 4. FT-IR spectra of 1,2-DPEDBN and 1,2-DPEDBA.
+158: 
+159: # 3.2. Synthesis and Characterization of the 6FDA-DPEDBA PI
+160: 
+161: The new diamine monomer 1,2-DPEDBA was reacted with the counter dianhydride monomer 6-FDA to synthesize 6FDA-DPEDBA PI, as shown in Scheme 1. Using typical two-step chemical imidization with pyridine and acetic anhydride (1:2), 6FDA-DPEDBA PI was prepared. The solid content of poly(amic acid) before chemical imidization was  $25\%$ , while the solid content of the PI solution was  $10\%$  using  $\gamma$ -butyrolactone as a solvent. In this study, the chemical imidization method was used rather than the thermal imidization method. The PI film prepared via chemical imidization may show good transparency because acetic anhydride can be an end-capping reagent for the reactive terminal group of the PI main chain, since the coloration problem of PI usually occurs at high temperatures [43].
+162: 
+163: The PI film was characterized by  ${}^{1}\mathrm{H}$  NMR spectrum, FT-IR spectrum, and GPC. The FT-IR spectrum of transparent and thin PI films was analyzed by using the attenuated total reflectance (ATR) method. As described in Figure 5a, the PI film showed typical imide group absorption bands at 1721 and  $1370~\mathrm{cm^{-1}}$  due to C-N asymmetric stretching and  $\mathrm{C = O}$  asymmetrical stretching of the imide group, respectively. Furthermore, there are no N-H stretching vibration absorption bands at approximately  $3200 - 3450~\mathrm{cm^{-1}}$  or N-H bending vibration absorption bands at approximately  $1550 - 1650~\mathrm{cm^{-1}}$  due to the primary amine groups, implying that the chemical imidization process was successfully completed [44]. The  ${}^{1}\mathrm{H}$  NMR spectrum of PI is shown in Figure 5b. The peaks at approximately  $8.0 - 8.3~\mathrm{ppm}$  were assigned to the protons of dianhydride in the PI main chain, while the peaks at approximately  $6.5 - 7.7~\mathrm{ppm}$  were assigned to the protons of the diamine part in the PI main chain. Additionally, there are no more peaks at approximately  $12~\mathrm{ppm}$  for acid protons and approximately  $5.5~\mathrm{ppm}$  for amine protons, meaning that the chemical imidization process was successful. The average molecular weight of the PI was analyzed by using GPC. The number-average molecular weight of the PI was  $1.06\times 10^{4}\mathrm{g mol}^{-1}$ , and the weight-average molecular weight of the PI was  $2.37\times 10^{4}\mathrm{g mol}^{-1}$ . Additionally, the polydispersity index of the PI was 2.19. Overall, it can be said that our novel diamine reacted with the counter dianhydride and produced PI with a sufficient molecular weight.
+164: 
+165: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+166: (a)
+167: 
+168: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+169: (b)  
+170: Figure 5. FT-IR spectrum (a) and  $^1\mathrm{H}$ -NMR spectrum (b) of 6FDA-DPEDBA PI powder.
+171: 
+172: # 3.3. Solubility of PI
+173: 
+174: The solubility of the synthesized PI was tested by dissolving  $10\mathrm{mg}$  of the PI powder into  $1\mathrm{mL}$  of each organic solvent at room temperature in a test tube. As shown in Table 1, the synthesized PI shows excellent solubility not only in common polar solvents with high boiling points, such as DMAc and DMF, but it is also soluble in common low-boiling-point polar solvents, such as chloroform  $(\mathrm{CHCl}_3)$  and dichloromethane  $(\mathrm{CH}_2\mathrm{Cl}_2)$ , at room temperature. This can be explained by several reasons. First, introducing a bulky phenyl group into the main chain of PI can increase the intermolecular space and free volume between the polymer chains. Additionally, introducing a bulky group can decrease the chain packing density between the polymer chains and increase polymer flexibility [45]. Second, introducing an ester moiety into the PI main chain can hinder the CTC between the dianhydride and diamine moieties and decrease intermolecular interactions. This can increase the overall polymer chain flexibility and chain segment mobility and decrease the chain packing density [46]. Last, using 6-FDA as a counter dianhydride containing  $\mathrm{CF_3}$  groups can significantly increase polymer solubility. It was reported that bulky  $\mathrm{CF_3}$  groups can increase interchain space and hinder chain packing [47,48]. Additionally,  $\mathrm{CF_3}$  groups can reduce intermolecular forces due to the low polarizability of the C-F group. Overall, introducing ester and phenyl groups into the diamine monomer can effectively hinder intermolecular forces and easily penetrate the solvent molecule into the polymer matrix. Additionally, using 6-FDA as a counter dianhydride can escalate this phenomenon.
+175: 
+176: Table 1. Solubility data of the 6FDA-DPEDBA PI.  
+177: 
+178: <table><tr><td>Solvent</td><td>DMSO</td><td>DMAc</td><td>DMF</td><td>NMP</td><td>THF</td><td>CHCl3</td><td>CH2Cl2</td><td>Ethyl Acetate</td><td>γ-Butyrolactone</td><td>Ethanol</td><td>Methanol</td></tr><tr><td></td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>++</td><td>+</td><td>-</td><td>-</td></tr></table>
+179: 
+180: $^{+ + }$  Highly soluble;  $^+$  Soluble, but takes time;  $-$  insoluble.
+181: 
+182: # 3.4. X-ray Diffraction of the 6FDA-DPEDBA PI Film
+183: 
+184: The microscopic crystallinity of the PI film was analyzed by using XRD, and the result is described in Figure 6. The diffractogram shows a  $2\theta$  value from  $10^{\circ}$  to  $80^{\circ}$ . The diffractogram of the PI film displayed wide diffraction peaks at approximately  $20^{\circ}$  and overall broad peaks, meaning that the resulting PI film was amorphous. This result is due to the fact that introducing a bulky phenyl group and a trifluoromethyl group disturbs the intermolecular packing and increases the intermolecular space and free volume. This can hinder the crystalline order of the polymer matrix. For these reasons, the PI crystallinity was deteriorated by hindering the intermolecular interactions and intermolecular chain packing [49].
+185: 
+186: # 3.5. Properties of the 6FDA-DPEDBA PI Film
+187: 
+188: # 3.5.1. Thermal Stability of the 6FDA-DPEDBA PI Film
+189: 
+190: The thermal stability of the 6FDA-DPEDBA PI film was analyzed by using TGA under a nitrogen atmosphere with a heating rate of  $10^{\circ}\mathrm{C / min}$ . The TGA curve is shown in Figure 7a. The PI film showed a  $5\%$  weight loss temperature at  $360^{\circ}\mathrm{C}$  and a  $10\%$  weight loss temperature at  $375^{\circ}\mathrm{C}$ . These results imply some deterioration of the thermal stability of the PI in comparison with the PMDA-ODA PI film ( $\mathrm{T}^{5}_{\mathrm{d}} = 564^{\circ}\mathrm{C}$ ). Due to the fact that the diphenylethane group was introduced into the main chain of the PI film, the aromatic conjugation structure in the PI main chain was discontinued. Even though the bulky diphenylethane group can improve solubility, optical transparency, and dielectric properties, it can also decrease the interaction between the polymer chains, and the existence of a carbon single bond (C-C) in the polymer main chain may cause a break at a higher temperature [50]. However, this kind of deterioration in thermal stability may be easily overcome in a future study by the hybridization with various kinds of inorganic materials, such as silica, polyhedral oligomeric silsesquioxane (POSS), graphene, MXene, etc. [51-54].
+191: 
+192: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+193: Figure 6. XRD pattern of the 6FDA-DPEDBA PI film.
+194: 
+195: # 3.5.2. Optical Properties of the 6FDA-DPEDBA PI Film
+196: 
+197: The optical properties of the 6FDA-DPEDBA PI film were analyzed by UV-Vis spectrometry over a range of  $200 - 800\mathrm{nm}$ . The thickness of the 6FDA-DPEDBA PI film was  $40~{\mu\mathrm{m}}$  while that of the PMDA-ODA PI film was  $38~{\mu\mathrm{m}}$ . The results are described in Figure 7b and Table 2. The PI film showed colorless and outstanding transparency in the visible light region from  $400\mathrm{nm}$  to  $760\mathrm{nm}$ . The cutoff wavelength of the PI film was  $365\mathrm{nm}$ , the average transmittance in the visible light region  $(\mathrm{T}_{\mathrm{vis}})$  was  $87.1\%$ , and the transmittance at  $450\mathrm{nm}$ $(\mathrm{T}_{450})$  was  $85.57\%$ . The typical fully aromatic PMDA-ODA PI film showed a yellow-dark brown color due to the chemical structure of the PI main chain. The optical images of both the 6FDA-DPEDBA PI and PMDA-ODA PI film were displayed in the inset of Figure 7b for reference. The intra- and intermolecular CTC between electron accepting dianhydride and electron donating diamine is the main reason for the coloration [47]. The presence of a bulky diphenyletane group increases the intermolecular chain space and free volume [55]. Therefore, the CTC between other molecules is effectively hindered. Additionally, introducing an ester group into the PI main chain can easily decrease the imide group content, which can cause a CTC. Furthermore, the counter dianhydride 6-FDA has low polarizability and bulky trifluoromethyl groups [56]. Additionally, we can calculate the band gap  $(\Delta \varepsilon)$  between the highest occupied molecular orbital (HOMO) and the lowest unoccupied molecular orbital (LUMO) from the UV-Vis absorbance data. Practically,  $\Delta \varepsilon$  can be estimated from the wavelength at half of the excitonic peak [57-59]. The calculated  $\Delta \varepsilon$  of 6FDA-DPEDBA PI was  $\sim 3.20\mathrm{eV}$ , which is higher than that of PMDA-ODA PI ( $\sim 2.45\mathrm{eV}$ ). This result implies that the strong interaction due to the conjugation effect between polymer chains is effectively reduced for the molecular structure of the 6FDA-DPEDBA PI film.
+198: 
+199: Table 2. Optical properties of the 6FDA-DPEDBA PI film compared to those of the PMDA-ODA PI film.  
+200: 
+201: <table><tr><td>PI</td><td>Tvis (%)</td><td>T450 (%)</td><td>T400 (%)</td><td>λcutoff (nm)</td><td>Δε(eV)</td><td>Film Thickness (μm)</td></tr><tr><td>6FDA-DPEDBA</td><td>87.1</td><td>85.57</td><td>51.1</td><td>365</td><td>~3.2</td><td>40</td></tr><tr><td>PMDA-ODA</td><td>55.0</td><td>0.29</td><td>0.18</td><td>465</td><td>~2.45</td><td>38</td></tr></table>
+202: 
+203: Overall, the strategy of introducing ester and bulky phenyl groups into the diamine monomer, using 6-FDA as a counter dianhydride, can reduce the coloration of the film, increase the energy band gap between the HOMO and LUMO of the polymer, and hinder the CTC in the PI matrix [41].
+204: 
+205: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+206: (a)
+207: 
+208: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+209: (b)
+210: 
+211: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+212: (c)  
+213: Figure 7. TGA curves (a), UV-Visible spectra (b), and dielectric constants (c) of the 6FDA-DPEDBA PI film and PMDA-ODA PI film.
+214: 
+215: # 3.5.3. Water Absorption and Water Contact Angle of the 6FDA-DPEDBA PI Film
+216: 
+217: The water absorption behavior was tested by weighing a vacuum-dried 6FDA-DPEDBA PI film and soaking it in deionized water at room temperature for  $24\mathrm{h}$ . Then, it was calculated using Equation (1), as described in Section 2.6. In this study,  $W$  of the resulting PI film was  $0.1086\mathrm{g}$ , and  $W_{0}$  was  $0.1067\mathrm{g}$ . According to Equation (1), the water absorption of the PI film is of  $1.78\%$ , which is lower than that of PMDA-ODA PI film, i.e., conventional PI films such as KAPTON PI [60]. Introducing a bulky phenyl group increases intermolecular spaces and free volume and loosens the chain packing of the PI backbone, providing enough space for entrapping water molecules into the polymer matrix. Even though this phenomenon occurs, introducing an ester group into the polymer backbone ensures that the resulting PI film maintains a lower water absorption value than commercial PI. The water absorption is roughly related to the imide group content [29]. The highly polarized imide group and carbonyl group in the ester moiety can participate in the water absorption mechanism. However, the contribution of the carbonyl group is not more significant than reducing the imide group by introducing an ester moiety into the PI backbone.
+218: 
+219: The water contact angle of the PI film was analyzed by a contact angle analyzer. The average contact angle of the PI film was  $90.26^{\circ}$ . It was stated that if the water contact angle of the film is higher than  $75^{\circ}$ , then the water barrier properties of the film are relatively strong and hydrophobic [61].
+220: 
+221: Overall, the PI film based on a novel diamine containing ester and phenyl groups exhibits improved transparency and solubility by increasing the intermolecular chain space while maintaining the water barrier properties. Considering that the barrier against humidity is important for dielectric materials, the resultant PI film shows promising potential.
+222: 
+223: # 3.5.4. Dielectric Constant of PI Films
+224: 
+225: The dielectric constant of the resultant 6FDA-DPEDBA PI film was analyzed by a broad frequency dielectric spectrometer and is described in Figure 7c. The dielectric constant of the 6FDA-DPEDBA PI film was measured at a frequency of  $10^{0}$  to  $10^{7}\mathrm{Hz}$  at  $25^{\circ}\mathrm{C}$ . The resultant PI film showed a very low dielectric constant of 2.17 at  $1\mathrm{MHz}$ , while the PMDA-ODA PI film showed a dielectric constant of 3.59 at  $1\mathrm{MHz}$ . This outstanding dielectric constant of the PI film was due to the low imide group content due to the introduction of an ester group and a bulky phenyl group in the PI backbone as well as the presence of a strong electron-withdrawing trifluoromethyl group. Due to the aforementioned reasons, the 6FDA-DPEDBA PI film has a twisted and flexible chemical structure compared to the rigid, tightly packed PMDA-ODA PI film. The bulky phenyl group increases the distance between polymer chains and reduces intermolecular CTC interactions. Additionally, the ester group could inhibit the interaction between the diamine moiety and dianhydride moiety [62]. Moreover, introducing the diphenylethane group can destroy the conjugated structure of the PI main chain and hinder the free flow of charges. Furthermore, the strong electron-withdrawing nature of the trifluoromethyl group containing 6-FDA effectively reduces the dielectric constant. According to the Clausius-Mossotti equation described in Equation (2), the chain polarizability and free volume of polymers are the main factors for the dielectric constant  $(D_{k})$  [63].
+226: 
+227: $$
+228: D _ {k} = \left(1 + \frac {2 P}{V}\right) / \left(1 - \frac {P}{V}\right) \tag {2}
+229: $$
+230: 
+231: Following the above equation, the strategy of making PI with ester- and phenyl-containing diamine and 6-FDA not only increases the molar volume  $(V)$  but also decreases the molar polarity  $(P)$  [27].
+232: 
+233: Considering that the 6FDA-DPEDBA PI film has excellent dielectric properties, optical transparency, and water absorption behavior, it may be expected that this novel polyimide film be a promising candidate for a next-generation communication device such as organic field-effect transistors (OFETs), thin film transistors (TFTs), and optical electronic devices such as active-matrix organic light emitting display devices (AMOLEDs) [64-66]. Further
+234: 
+235: more, our findings may give insights for a guideline to further reduce the dielectric constant to meet the application requirements of modified PI (MPI) in 5G equipment, by extending our findings in this work, so that any as-synthesized polyimides can put forward good comprehensive properties with an easy strategy for interlayer dielectric (ILD) materials in the high-frequency communication of 5G [35,67].

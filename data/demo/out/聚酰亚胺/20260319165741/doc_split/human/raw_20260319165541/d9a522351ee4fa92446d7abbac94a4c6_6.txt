@@ -1,0 +1,29 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Characterization
+line_span: [82, 96]
+char_span: [7950, 10027]
+line_count: 13
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0007: Characterization) ---
+82: # Characterization
+83: 
+84: Infrared spectra were recorded on a Nicolet iS 50 spectrophotometer in the transmission model. Electrospun PAA nanofibers from C3 and the corresponding heated counterpart had a spectral result based on 30 scans with a  $1\mathrm{cm}^{-1}$  resolution across a wavenumber interval between 4000 and  $400\mathrm{cm}^{-1}$ .
+85: 
+86: Thermogravimetric analysis (TGA) was carried out to study the thermal stability of electrospun nanofibers using a thermogravimetric analyzer equipment (TG209F3, Netzsch). Samples were loaded in alumina pans and heated at a rate of  $10^{\circ}\mathrm{C / min}$  from 30 to  $800^{\circ}\mathrm{C}$  under dry nitrogen atmosphere.
+87: 
+88: To determine the viscosity of PAA solutions having an ambient temperature  $(20^{\circ}\mathrm{C})$ , a Bolin Rheometer with rotational cylinder was being used. The distance between the two metal plates was  $0.3\mathrm{mm}$  and tests were set to  $8\mathrm{min}$ .
+89: 
+90: The morphologies of electrospun nanofibers were observed by scanning electron microscopy (SEM, Hitachi TM3030) at an acceleration voltage of  $10\mathrm{kV}$ . Prior to its observation, the samples were dried and sputter coated with a thin Pd layer.
+91: 
+92: Pore size and distribution were analyzed using a TOPAS pore size meter (PSM165) at an air flow of  $2000\mathrm{l / h}$ . Circular samples with diameters of  $2.3\mathrm{cm}$  were held on a metal grid and wetted by the contrast liquid Topor having a surface tension of  $16\mathrm{mN / m}$ .
+93: 
+94: Filtration properties of samples were measured using a TOPAS filter testing stand (ATC 131). Prior to tests, dioctylmethane aerosol containing PM of  $300\mathrm{mg / m^3}$  was prepared. Circular samples with a diameter of  $20~\mathrm{cm}$  were mounted in a testing chamber and the coated face suffered with PM at an air flow of  $3.4\mathrm{m}^3 /\mathrm{h}$ . Filtration efficiency was recorded as the removal capacity of filters to various sizes of particles. Different air flow velocities  $(0.8 - 8\mathrm{m}^3 /\mathrm{h})$  were used to determine the pressure drop over filters.

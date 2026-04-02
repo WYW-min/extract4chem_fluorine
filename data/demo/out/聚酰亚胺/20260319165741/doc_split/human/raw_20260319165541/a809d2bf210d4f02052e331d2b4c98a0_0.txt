@@ -1,0 +1,39 @@
+source_file: Mass-Synthesized Solution-Processable Polyimide Gate Dielectrics for Electrically Stable Operating OFETs and I.md
+doc_id: a809d2bf210d4f02052e331d2b4c98a0
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Mass-Synthesized Solution-Processable Polyimide Gate Dielectrics for Electrically Stable Operating OFETs and Integrated Circuits
+line_span: [1, 25]
+char_span: [0, 1628]
+line_count: 23
+effective_body_non_empty_lines: 17
+
+lines:
+--- chunk (b0001: Mass-Synthesized Solution-Processable Polyimide Gate Dielectrics for Electrically Stable Operating OFETs and Integrated Circuits) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2021, 13, 3715. https://doi.org/10.3390/polym13213715
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Mass-Synthesized Solution-Processable Polyimide Gate Dielectrics for Electrically Stable Operating OFETs and Integrated Circuits
+11: 
+12: Rixuan Wang  $^{1,\dagger}$ , Joonjung Lee  $^{2,\dagger}$ , Jisu Hong  $^{3,4,\dagger}$ , Hyeok-jin Kwon  $^{4}$ , Heqing Ye  $^{1}$ , Juhyun Park  $^{5}$ , Chan Eon Park  $^{4}$ , Joon Ho Kim  $^{1,2}$ , Hyun Ho Choi  $^{3,6,*}$ , Kyuyoung Eom  $^{5,*}$  and Se Hyun Kim  $^{1,2,*}$
+13: 
+14: $^{1}$  School of Chemical Engineering, Yeungnam University, Gyeongsan 38541, Korea; nl910213@gmail.com (R.W.); yeheqing5420@gmail.com (H.Y.); joon@ynu.ac.kr (J.H.K.)  
+15: $^{2}$  Department of Advanced Organic Materials, Yeungnam University, Gyeongsan 38541, Korea; joon@utp.or.kr  
+16: $^{3}$  Research Institute for Green Energy Convergence Technology, Gyeongsang National University, Jinju 52828, Korea; jisu225@postech.ac.kr  
+17: $^{4}$  Department of Chemical Engineering, Pohang University of Science and Technology, Pohang 37673, Korea; hj1370@postech.ac.kr (H.-j.K.); cep@postech.ac.kr (C.E.P.)  
+18: 5 COMEC Corporation, Pyeongtaek 17957, Korea; komec66@daum.net  
+19: $^{6}$  Department of Materials Engineering and Convergence Technology, Gyeongsang National University, Jinju 52828, Korea  
+20: * Correspondence: hh.choi@gnu.ac.kr (H.H.C.); eky100@hanmail.net (G.U.); shkim97@yu.ac.kr (S.H.K.); Tel.: +82-53-810-2788 (S.H.K.)  
+21: These authors contributed equally to this work.
+22: 
+23: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)

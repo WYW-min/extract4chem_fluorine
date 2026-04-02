@@ -1,0 +1,24 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 9
+block_id: b0010
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Surface Morphology of the MWCNTs
+line_span: [93, 102]
+char_span: [14907, 16499]
+line_count: 8
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0010: Surface Morphology of the MWCNTs) ---
+93: # Surface Morphology of the MWCNTs
+94: 
+95: Figure 5(a-c) shows the SEM micrographs of the MWCNTs of the as-produced and the functionalized tubes. As seen from Fig. 5a, the raw MWCNTs are produced in the form of agglomerated bundles. These bundles are broken down into separate tubes due to violent refluxing during acid and amine functionalization (Fig. 5b, c). Treatment of MWCNTs with strong acids usually shortens the length of the MWCNTs, but in the present case we do not observe any such shortening of the tubes. A closer look at the micrographs reveal that the amino functionalized MWCNTs are relatively well dispersed as compared to raw and acid functionalized MWCNTs (Fig. 5a, c). This could be due to the repulsive forces generated between the long alkyl chain of the amino functional group.
+96: 
+97: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+98: Fig. 3 FTIR spectra of as such MWCNTs, acid modified MWCNTs and amine modified MWCNTs
+99: 
+100: A typical microstructure of the fractured surface of the  $2\mathrm{wt}\%$  MWCNT acid-MWCNT/polyimide and amineMWCNT/polyimide nanocomposite is shown in Figs. 6a and b, respectively. Though the MWCNTs show a high degree of dispersion throughout the polyimide matrix in both the cases; the amino functionalized MWCNTs are completely coated with the polymer (polyimide) and remain well embedded in the polyimide matrix, the acid modified tubes show very small amount of polymer coating. This feature clearly indicates better interfacial adhesion between the amino functionalized MWCNTs and matrix as compared to acid functionalized MWCNTs.

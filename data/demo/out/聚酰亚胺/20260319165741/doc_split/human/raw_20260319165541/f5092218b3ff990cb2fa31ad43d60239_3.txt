@@ -1,0 +1,53 @@
+source_file: Interpenetration Networked Polyimide鈥揈poxy Copolymer under Kinetic and Thermodynamic Control for Anticorrosion.md
+doc_id: f5092218b3ff990cb2fa31ad43d60239
+chunk_index: 3
+block_id: b0004
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials & Methods
+line_span: [66, 104]
+char_span: [8297, 14000]
+line_count: 37
+effective_body_non_empty_lines: 15
+
+lines:
+--- chunk (b0004: 2. Materials & Methods) ---
+66: # 2. Materials & Methods
+67: 
+68: # 2.1. Chemicals
+69: 
+70: The EP resin used in this study was a diglycidyl ether of bisphenol A (DGEBA) with EEW of 190, purchased from Shell Chemical, UK (Epon 828).
+71: 
+72: $4,4^{\prime}$ -Oxydianiline (ODA) with a purity of  $98\%$  was purchased from Criskev Company Inc. (Over Lake Park, KS, USA) and was used as received.
+73: 
+74: 1,2,4,5-bezene tetracaxylic dianhydride (pyromellitic dianhydride, PMDA) was purchased from Fluka (Charlotte, NC, USA). The purity of the PMDA was  $98\%$ . Before use, it was purified by recrystallization in acetic anhydride (4.5:1) followed by sublimation.
+75: 
+76: N-Methyl-2-Pyrrolidone (NMP) of  $99\%$  purity was obtained from Mallinchrodt Chemicals (St. Louis, MO, USA). The NMP was purified by distillation with a molecular sieve before use.
+77: 
+78: # 2.2. Preparation of Polyimide-EP Copolymer
+79: 
+80: Two types of PAA, namely PAA with terminal diamine and PAA with terminal dianhydride, were prepared. Before adding reagents to a three-neck flask, the flask was heated with constant nitrogen purge for one hour, and then the flask was allowed to cool with continued nitrogen purge to assure an oxygen-free condition [33].
+81: 
+82: In PI-O-EP preparation, oxydianiline (ODA, 0.24 mol,  $48.10\mathrm{g}$ ) was first dissolved in N-methylpyrrolidone (NMP) solvent by stirring  $(12\mathrm{h})$ . After complete dissolution of ODA, pyromellitic dianhydride (PMDA, 0.23 mol,  $49.95\mathrm{g}$ ) was added to the ODA solution. The mixture was stirred continuously for  $12\mathrm{h}$  to obtain a homogeneous PAA solution of  $15\mathrm{wt}\%$ . Various weight ratios of EP resin were then added to the mixture and stirred in nitrogen for  $3\mathrm{h}$ . The above mixture was then subject to thermal step imidization at various temperatures. Since a greater number of moles of ODA were added to the mixture, the resulting product was expected to be polyamic acid with terminal ODA, which later reacted with EP resin, and the resulting copolymer was termed PI-O-EP. The designed compositions of PI-O-EP copolymers are listed in Table 1.
+83: 
+84: Table 1. Designed compositions of PI-O-EP and PI-P-EP composite copolymer.  
+85: 
+86: <table><tr><td rowspan="2">System</td><td colspan="5">ODA and PMDA Mole Ratio of PAA</td></tr><tr><td colspan="2">ODA (mol)</td><td colspan="3">PMDA (mol)</td></tr><tr><td>PAA-ODA</td><td colspan="2">0.24</td><td colspan="3">0.23</td></tr><tr><td>PAA-PMDA</td><td colspan="2">0.24</td><td colspan="3">0.25</td></tr><tr><td>System</td><td colspan="5">Weight ratio of PAA and EP</td></tr><tr><td>PI-O-EP</td><td>10/90</td><td>30/70</td><td>50/50</td><td>70/30</td><td>90/10</td></tr><tr><td>PI-P-EP</td><td>10/90</td><td>30/70</td><td>50/50</td><td>70/30</td><td>90/10</td></tr></table>
+87: 
+88: In PI-P-EP preparation, ODA  $(0.24\mathrm{mol}, 48.10\mathrm{g})$  was first dissolved in NMP solvent by stirring for  $12\mathrm{h}$ . After complete dissolution of ODA, PMDA  $(0.25\mathrm{mol}, 54.30\mathrm{g})$  was added to the ODA solution. Because an excessive number of moles of PMDA were used to prepare PAA, the terminal functional groups are dianhydride, which later react with EP resin; the resulting copolymer was termed PI-P-EP. The rest of the procedures are the same as in PI-O-EP preparation. The designed compositions of the PI-P-EP composite copolymer are also listed in Table 1.
+89: 
+90: # 2.3. Techniques Used in the Investigation of Synthesized Polymeric Materials
+91: 
+92: FTIR (ISF112V, Perkin-Elmer, Waltham, MA, USA) was used to monitor chemical changes in the characteristic function groups and to verify the progress of the designed chemical reactions. Reaction mixtures with the same composition were coated on separate salt chips (KBr) and baked in the same oven. At different temperatures, one was taken for FTIR analysis. The waveband range was  $4000\sim 500~\mathrm{cm}^{-1}$ . All samples were dried via  $75^{\circ}\mathrm{C}$  air blowing to remove residual solvent. The film thickness of each sample was controlled at  $10\mu \mathrm{m}$  using a wire bar coater, as widely used in the ink and paint industry.
+93: 
+94: Thermal gravimetric analysis (TGA) was performed using a thermal analysis instrument (TGA-2050, TA Instruments, New Castle, DE, USA) in nitrogen with a heating rate of  $20^{\circ}\mathrm{C / min}$ .
+95: 
+96: Microscopic images of the fracture of the PI-EP copolymer were taken using a field emission scanning electron microscope (FESEM JEOL, JSM-6700F). Samples were coated
+97: 
+98: with gold in vacuum on aluminum mounts with carbon paste. The survey mode was SE (secondary electron) imaging, the acceleration voltage was  $3.0\mathrm{kV}$  and the electron light source was an in-lens Schottky field emission electron gun.
+99: 
+100: Corrosion resistances were evaluated using the salt spray test according to ISO standard 7253 [22]. Test specimens were placed in a closed chamber and exposed to a continuous indirect spray of  $5\%$  NaCl solution  $(\mathrm{pH}$  range of 6.5 to 7.2). The chamber temperature was controlled at  $35^{\circ}\mathrm{C}$ . The corrosion resistance of the individual specimens was established on the basis of the difference in time before the first corrosion observed. (Salt Spray Tester, CHERNG JIA INSTRUMENT ENTERPRISE CO., LTD. SST-CB, Taiwan).
+101: 
+102: Tensile tests were performed according to ASTM D882 [34]. Specimens of  $10\mathrm{mm}$  wide and  $100\mathrm{mm}$  long were used for the test. Five samples were tested and the results were averaged. Each specimen's elongation, tensile modulus, and tensile strength were analyzed by recording the tensile displacement and load, and the tensile rate was  $10\mathrm{mm / min}$ . Tensile tests were conducted using a universal instrument (Gotech Testing Machines Inc. AI-7000-ST, Taiwan).

@@ -1,0 +1,39 @@
+source_file: Organic鈥揑norganic Double-Gel System Thermally Insulating and Hydrophobic Polyimide Aerogel.md
+doc_id: 5303205641f7b0b70524db9882230995
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [67, 91]
+char_span: [7142, 13251]
+line_count: 23
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+67: # 2. Materials and Methods
+68: 
+69: # 2.1.Materials
+70: 
+71: $4,4^{\prime}$ -diaminodiphenyl ether (ODA), pyromellitic dianhydride (PMDA), tetraethyl orthosilicate (TEOS), ammonium hydroxide solution  $(25\%)$ , and N,N-dimethylacetamide (DMAc) were supplied by Shanghai Macklin Biochemical Co., Ltd. (Shanghai, China). Triethylamine (TEA) and (3-aminopropyl) triethoxysilane (3ATPES) were purchased from Aladdin Reagent Co., Ltd. (Shanghai, China). Ethanol, potassium permanganate, sulfuric acid  $(98\%)$ , and hydrochloric acid  $(36 - 38\%)$  were purchased from Sinopharm Chemical Reagent Co., Ltd. (Shanghai, China). Flake graphite was provided by Shanghai Jingchun Reagent Co., Ltd. (Shanghai, China). All the reagents mentioned above were analytical grade, unless otherwise indicated.
+72: 
+73: # 2.2. Preparation of Amino-Modified  $\mathrm{SiO}_2@GO}$ $(\mathrm{SiO}_2@GO-NH_2)$  Wet Gel by Sol-Gel Method
+74: 
+75: Graphene oxide (GO) was prepared using a modified Hummers' method [33].
+76: 
+77: $\mathrm{SiO}_2@GO-NH_2$  wet gels were prepared using the sol-gel method. Specifically,  $25\mathrm{mg}$  of GO was added to  $75~\mathrm{mL}$  of  $20\mathrm{vol}\%$  TEOS ethanol solution, ultrasonically treated for  $30\mathrm{min}$ , which ensured the system was well dispersed. Afterward,  $10.5~\mathrm{mL}$  of  $0.1\mathrm{M}$  hydrochloric acid was added to acidify the system and was then ultrasonically treated for  $5\mathrm{min}$  to fully hydrolyze the TEOS. A total of  $4.5~\mathrm{mL}$  of  $10.79\mathrm{wt.\%}$  3ATPES ethanol solution was titrated slowly with slow mechanical stirring to gel the system and stirred for  $24\mathrm{h}$ . The  $\mathrm{SiO}_2@GO-NH_2$  wet gel was then obtained.
+78: 
+79: # 2.3. Preparation of Polyamic Acid (PAA) Precursors and Wet Gel
+80: 
+81: Using an ice bath,  $5.2630\mathrm{g}$  of ODA was dissolved in  $55~\mathrm{mL}$  of DMAc at  $0^{\circ}\mathrm{C}$ . After stirring for  $5\mathrm{min}$ ,  $4.7369\mathrm{g}$  of PMDA was slowly added to the system in batches. The molar ratio of PMDA-to-ODA was 50:51 to control the length of polymer chains. The product was slowly poured into DI water at  $0^{\circ}\mathrm{C}$  and washed four times with DI water and freeze-dried at  $-65^{\circ}\mathrm{C}$  to obtain the PAA precursor. The ether bonding of ODA and the non-coplanar PAA chains make the PAA chains more soluble in the chosen solvent (water) and facilitate hydrogen bonding interactions with the inorganic doped material [34,35]. The PAA precursor was mixed with water and TEA in a mass ratio of 1:10:0.5 at room temperature and stirred at high speed for  $30\mathrm{min}$  to obtain the PAA wet gel [36].
+82: 
+83: # 2.4. Preparation of Polyimide (PI) Aerogels
+84: 
+85: The  $\mathrm{SiO}_2@GO-NH_2$  wet gel was dispersed in  $7.5\mathrm{g}$  of water by high-speed stirring and ultrasound. This was followed by continuous stirring in an ice bath at  $0^{\circ}\mathrm{C}$  using a slower stirring speed, while adding a total of  $11.5\mathrm{g}$  of PAA wet gel in five batches. Stirring was continued for  $4\mathrm{h}$  until the system was homogeneous. The obtained organic-inorganic dual system wet gels were poured into molds and frozen in a cold trap at  $-65^{\circ}\mathrm{C}$  for  $4\mathrm{h}$ , before being freeze-dried for  $48\mathrm{h}$ . The molds were pre-cooled in the cold trap in advance, with the lowest cold trap temperature chosen to reduce the size of ice crystals in the gel system. The obtained aerogels were heat-treated at  $80^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ ,  $110^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ ,  $195^{\circ}\mathrm{C}$  for  $120\mathrm{min}$ , and  $290^{\circ}\mathrm{C}$  for  $60\mathrm{min}$  under nitrogen protection to obtain PI aerogels and numbered PI-1 (1 represents the addition of  $1\mathrm{g} \mathrm{SiO}_2@GO-NH_2$ ). Similarly, a series of PI aerogels were prepared with different ratios of  $\mathrm{SiO}_2@GO-NH_2$  wet gels to study the effect of doping amount on the aerogel properties; the prepared PI aerogels were named PI-0, PI-0.5, PI-1.5, and PI-2. The PI aerogels used for mechanical and thermal property tests were prepared using specific molds. The diameter of the obtained PI aerogel was  $35 \pm 0.5\mathrm{mm}$  and the height was  $10 \pm 0.2\mathrm{mm}$ .
+86: 
+87: # 2.5. Characterization
+88: 
+89: The Nicolet 570 FTIR spectrometer (Thermo Fisher Scientific, Agawam, MA, USA) was used to obtain FTIR spectra of  $\mathrm{SiO}_2@GO-NH_2$ . Microstructure pictures and EDX maps of freeze-dried  $\mathrm{SiO}_2@GO-NH_2$  wet gels and PI aerogels were taken with a SUPRA 55 thermal field emission scanning electron microscope (Carl Zeiss, Berlin, Germany) (SEM). ATR-FTIR spectra of PI aerogels were obtained with a Nicolet iS50 Fourier Transform Infrared Spectrometer (Thermo Fisher Scientific, MA, USA). XRD data of PI aerogels were provided by using an ULTIMA III X-ray diffractometer (Nippon Rigaku, Tokyo, Japan). The DXR2Xi Confocal Laser Raman Spectrometer (Thermo Fisher Scientific, MA, USA) provided Raman spectra of PI-0, PI-0.5, and PI-1.5 samples. The photoelectron spectra of PI-0 and PI-1.5 aerogels were measured using the ESCALAB 250 X-ray photoelectron spectrometer (Agawam, VG, USA). The  $^{13}\mathrm{C}$  NMR data of PI-1.5 aerogel were acquired using an AVANCE III 500 Nuclear Magnetic Resonance Spectrometer (Bruker, Fällanden, Switzerland). The stress-strain curves of the aerogel samples were obtained using an INSTRON-1185 (INSTRON, Norwood, MA, USA). The thermal conductivity of the aerogel samples was investigated using a DZDR-S thermal conductivity meter (Dazhan Mechatronics, Singapore). The infrared photographs of PI-0 and PI-1.5 placed on the heating stage were taken using a DS-2TPH10-3AUF infrared camera (HIKVISION, Hangzhou Hikvision Digital Technology Co., Ltd., Hangzhou, China). The thermogravimetric data of each group of PI aerogels were tested using a STA449C/6/G simultaneous thermal analyzer (NETZSCH, Westendstr, Germany). The water contact angle of each group of PI aerogel samples was measured with a SL200A/B dynamic/static contact angle meter (Shanghai Solon, Shanghai, China).

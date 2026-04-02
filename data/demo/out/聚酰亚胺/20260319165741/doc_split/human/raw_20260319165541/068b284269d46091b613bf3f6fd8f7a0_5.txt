@@ -1,0 +1,74 @@
+source_file: 3D Printing of Thermal Insulating PolyimideCellulose Nanocrystal Composite Aerogels with Low Dimensional Shrin.md
+doc_id: 068b284269d46091b613bf3f6fd8f7a0
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [240, 297]
+char_span: [43280, 54324]
+line_count: 58
+effective_body_non_empty_lines: 54
+
+lines:
+--- chunk (b0006: References) ---
+240: # References
+241: 
+242: 1. Shi, B.; Ma, B.; Wang, C.; He, H.; Qu, L.; Xu, B.; Chen, Y. Fabrication and applications of polyimide nano-aerogels. Compos. Part A Appl. Sci. Manuf. 2021, 143, 106283. [CrossRef]  
+243: 2. Feng, J.; Su, B.-L.; Xia, H.; Zhao, S.; Gao, C.; Wang, L.; Ogbeide, O.; Feng, J.; Hasan, T. Printed aerogels: Chemistry, processing, and applications. Chem. Soc. Rev. 2021, 50, 3842-3888. [CrossRef] [PubMed]  
+244: 3. Liaw, D.-J.; Wang, K.-L.; Huang, Y.-C.; Lee, K.-R.; Lai, J.-Y.; Ha, C.-S. Advanced polyimide materials: Syntheses, physical properties and applications. Prog. Polym. Sci. 2012, 37, 907-974. [CrossRef]  
+245: 4. Ni, H.-J.; Liu, J.-G.; Wang, Z.-H.; Yang, S.-Y. A review on colorless and optically transparent polyimide films: Chemistry, process and engineering applications. J. Ind. Eng. Chem. 2015, 28, 16-27. [CrossRef]  
+246: 5. Gu, W.; Wang, G.; Zhou, M.; Zhang, T.; Ji, G. Polyimide-based foams: Fabrication and multifunctional applications. ACS Appl. Mater. Interfaces 2020, 12, 48246-48258. [CrossRef] [PubMed]  
+247: 6. Zhang, X.; Zhao, X.; Xue, T.; Yang, F.; Fan, W.; Liu, T. Bidirectional anisotropic polyimide/bacterial cellulose aerogels by freeze-drying for super-thermal insulation. Chem. Eng. J. 2020, 385, 123963. [CrossRef]  
+248: 7. Wang, Y.; Cui, Y.; Shao, Z.; Gao, W.; Fan, W.; Liu, T.; Bai, H. Multifunctional polyimide aerogel textile inspired by polar bear hair for thermoregulation in extreme environments. Chem. Eng. J. 2020, 390, 124623. [CrossRef]  
+249: 8. Wang, Y.-Y.; Zhou, Z.-H.; Zhou, C.-G.; Sun, W.-J.; Gao, J.-F.; Dai, K.; Yan, D.-X.; Li, Z.-M. Lightweight and robust carbon nanotube/polyimide foam for efficient and heat-resistant electromagnetic interference shielding and microwave absorption. ACS Appl. Mater. Interfaces 2020, 12, 8704-8712. [CrossRef]  
+250: 9. Cheng, Y.; Zhang, X.; Qin, Y.; Dong, P.; Yao, W.; Matz, J.; Ajayan, P.M.; Shen, J.; Ye, M. Super-elasticity at 4K of covalently crosslinked polyimide aerogels with negative poisson's ratio. Nat. Commun. 2021, 12, 4092. [CrossRef]  
+251: 10. Zhao, X.; Wang, W.; Wang, Z.; Wang, J.; Huang, T.; Dong, J.; Zhang, Q. Flexible PEDOT:PSS/polyimide aerogels with linearly responsive and stable properties for piezoresistive sensor applications. Chem. Eng. J. 2020, 395, 125115. [CrossRef]  
+252: 11. Zheng, Q.; Fang, L.; Guo, H.; Yang, K.; Cai, Z.; Meador, M.A.B.; Gong, S. Highly porous polymer aerogel film-based triboelectric nanogenerators. Adv. Funct. Mater. 2018, 28, 1706365. [CrossRef]  
+253: 12. Ligon, S.C.; Liska, R.; Stampfl, J.; Gurr, M.; Mulhaupt, R. Polymers for 3D printing and customized additive manufacturing. Chem. Rev. 2017, 117, 10212-10290. [CrossRef] [PubMed]  
+254: 13. Truby, R.L.; Lewis, J.A. Printing soft matter in three dimensions. Nature 2016, 540, 371-378. [CrossRef] [PubMed]  
+255: 14. Lewis, J.A. Direct ink writing of 3D functional materials. Adv. Funct. Mater. 2006, 16, 2193-2204. [CrossRef]  
+256: 15. Peng, E.; Zhang, D.; Ding, J. Ceramic robocasting: Recent achievements, potential, and future developments. Adv. Mater. 2018, 30, 1802404. [CrossRef] [PubMed]  
+257: 16. Hegde, M.; Meenakshisundaram, V.; Chartrain, N.; Sekhar, S.; Tafti, D.; Williams, C.B.; Long, T.E. 3D printing all-aromatic polyimides using mask-projection stereolithography: Processing the nonprocessable. Adv. Mater. 2017, 29, 1701240. [CrossRef] [PubMed]  
+258: 17. Guo, Y.; Xu, J.; Yan, C.; Chen, Y.; Zhang, X.; Jia, X.; Liu, Y.; Wang, X.; Zhou, F. Direct ink writing of high performance architected polyimides with low dimensional shrinkage. Adv. Eng. Mater. 2019, 21, 1801314. [CrossRef]  
+259: 18. Guo, Y.; Ji, Z.; Zhang, Y.; Wang, X.; Zhou, F. Solvent-free and photocurable polyimide inks for 3D printing. J. Mater. Chem. A 2017, 5, 16307-16314. [CrossRef]  
+260: 19. Herzberger, J.; Meenakshisundaram, V.; Williams, C.B.; Long, T.E. 3D printing all-aromatic polyimides using stereolithographic 3D printing of polyamic acid salts. ACS Macro Lett. 2018, 7, 493-497. [CrossRef]  
+261: 20. Lau, D.A.; Herzberger, J.; Long, T.E.; Williams, C.B. Ultraviolet-assisted direct ink write to additively manufacture all-aromatic polyimides. ACS Appl. Mater. Interfaces 2018, 10, 34828-34833. [CrossRef]  
+262: 21. Wang, C.; Ma, S.; Li, D.; Zhao, J.; Zhou, H.; Wang, D.; Zhou, D.; Gan, T.; Wang, D.; Liu, C.; et al. 3D printing of lightweight polyimide honeycombs with the high specific strength and temperature resistance. ACS Appl. Mater. Interfaces 2021, 13, 15690-15700. [CrossRef]  
+263: 22. Zhang, L.; Wu, J.; Sun, N.; Zhang, X.; Jiang, L. A novel self-healing poly(amic acid) ammonium salt hydrogel with temperature-responsivity and robust mechanical properties. J. Mater. Chem. A 2014, 2, 7666-7668. [CrossRef]
+264: 
+265: 23. Qin, S.; Jiang, Y.; Ji, Z.; Yang, C.; Guo, Y.; Zhang, X.; Qin, H.; Jia, X.; Wang, X. Three-dimensional printing of high-performance polyimide by direct ink writing of hydrogel precursor. J. Appl. Polym. Sci. 2021, 138, 50636. [CrossRef]  
+266: 24. Yang, C.; Jiang, P.; Qin, H.; Wang, X.; Wang, Q. 3D printing of porous polyimide for high-performance oil impregnated self-lubricating. Tribol. Int. 2021, 160, 107009. [CrossRef]  
+267: 25. Mariano, M.; El Kissi, N.; Dufresne, A. Cellulose nanocrystals and related nanocomposites: Review of some properties and challenges. J. Polym. Sci. Part B Polym. Phys. 2014, 52, 791-806. [CrossRef]  
+268: 26. Frka-Petesic, B.; Guidetti, G.; Kamita, G.; Vignolini, S. Controlling the photonic properties of cholesteric cellulose nanocrystal films with magnets. Adv. Mater. 2017, 29, 1701469. [CrossRef]  
+269: 27. Nguyen, B.N.; Cudjoe, E.; Douglas, A.; Scheiman, D.; McCorkle, L.; Meador, M.A.B.; Rowan, S.J. Polyimide cellulose nanocrystal composite aerogels. Macromolecules 2016, 49, 1692-1703. [CrossRef]  
+270: 28. Lee, H.-G.; Kim, G.-H.; Ha, C.-S. Polyimide/amine-functionalized cellulose nanocrystal nanocomposite films. Mater. Today Commun. 2017, 13, 275-281. [CrossRef]  
+271: 29. Siqueira, G.; Kokkinis, D.; Libanori, R.; Hausmann, M.K.; Gladman, A.S.; Neels, A.; Tingaut, P.; Zimmermann, T.; Lewis, J.A.; Studart, A.R. Cellulose nanocrystal inks for 3D printing of textured cellular architectures. Adv. Funct. Mater. 2017, 27, 1604619. [CrossRef]  
+272: 30. Lai, C.-W.; Yu, S.-S. 3D printable strain sensors from deep eutectic solvents and cellulose nanocrystals. ACS Appl. Mater. Interfaces 2020, 12, 34235-34244. [CrossRef] [PubMed]  
+273: 31. Heath, L.; Thielemans, W. Cellulose nanowhisker aerogels. *Green Chem.* 2010, 12, 1448-1453. [CrossRef]  
+274: 32. Yang, J.; Lee, M.-H. A water-soluble polyimide precursor: Synthesis and characterization of poly(amic acid) salt. Macromol. Res. 2004, 12, 263-268. [CrossRef]  
+275: 33. Smay, J.E.; Cesarano, J.; Lewis, J.A. Colloidal inks for directed assembly of 3-D periodic structures. Langmuir 2002, 18, 5429-5437. [CrossRef]  
+276: 34. Hausmann, M.K.; Ruhs, P.A.; Siqueira, G.; Lauer, J.; Libanori, R.; Zimmermann, T.; Studart, A.R. Dynamics of cellulose nanocrystal alignment during 3D printing. ACS Nano 2018, 12, 6926-6937. [CrossRef]  
+277: 35. Lai, P.-C.; Yu, S.-S. Cationic cellulose nanocrystals-based nanocomposite hydrogels: Achieving 3D printable capacitive sensors with high transparency and mechanical strength. Polymers 2021, 13, 688. [CrossRef]  
+278: 36. Oguzlu, H.; Dobyrden, I.; Liu, X.; Bhaduri, S.; Claesson, P.M.; Boluk, Y. Polymer induced gelation of aqueous suspensions of cellulose nanocrystals. Langmuir 2021, 37, 3015-3024. [CrossRef]  
+279: 37. Oguzlu, H.; Boluk, Y. Interactions between cellulose nanocrystals and anionic and neutral polymers in aqueous solutions. Cellulose 2017, 24, 131-146. [CrossRef]  
+280: 38. Oguzlu, H.; Danumah, C.; Boluk, Y. Colloidal behavior of aqueous cellulose nanocrystal suspensions. Curr. Opin. Colloid Interface Sci. 2017, 29, 46-56. [CrossRef]  
+281: 39. Laurati, M.; Egelhaaf, S.U.; Petekidis, G. Nonlinear rheology of colloidal gels with intermediate volume fraction. J. Rheol. 2011, 55, 673-706. [CrossRef]  
+282: 40. Liu, F.; Liu, Z.; Gao, S.; You, Q.; Zou, L.; Chen, J.; Liu, J.; Liu, X. Polyimide film with low thermal expansion and high transparency by self-enhancement of polyimide/sic nanofibers net. RSC Adv. 2018, 8, 19034-19040. [CrossRef]  
+283: 41. Li, M.-C.; Mei, C.; Xu, X.; Lee, S.; Wu, Q. Cationic surface modification of cellulose nanocrystals: Toward tailoring dispersion and interface in carboxymethyl cellulose films. Polymer 2016, 107, 200-210. [CrossRef]  
+284: 42. Rahnamoun, A.; Engelhart, D.P.; Humagain, S.; Koerner, H.; Plis, E.; Kennedy, W.J.; Cooper, R.; Greenbaum, S.G.; Hoffmann, R.; van Duin, A.C.T. Chemical dynamics characteristics of kapton polyimide damaged by electron beam irradiation. Polymer 2019, 176, 135-145. [CrossRef]  
+285: 43. Waters, J.F.; Likavec, W.R.; Ritchey, W.M. 13C CP-MAS NMR study of absorbed water in polyimide film. J. Appl. Polym. Sci. 1994, 53, 59-70. [CrossRef]  
+286: 44. Qiu, W.; Leisen, J.E.; Liu, Z.; Quan, W.; Koros, W.J. Key features of polyimide-derived carbon molecular sieves. Angew. Chem. Int. Ed. 2021, 60, 22322-22331. [CrossRef]  
+287: 45. Cui, Y.; Jin, R.; Zhang, Y.; Yu, M.; Zhou, Y.; Wang, L.-Q. Cellulose nanocrystal-enhanced thermal-sensitive hydrogels of block copolymers for 3D bioprinting. Int. J. Bioprinting 2021, 7, 397. [CrossRef]  
+288: 46. Chen, W.; Chen, W.; Zhang, B.; Yang, S.; Liu, C.-Y. Thermal imidization process of polyimide film: Interplay between solvent evaporation and imidization. Polymer 2017, 109, 205-215. [CrossRef]  
+289: 47. Li, V.C.-F.; Dunn, C.K.; Zhang, Z.; Deng, Y.; Qi, H.J. Direct ink write (DIW) 3D printed cellulose nanocrystal aerogel structures. Sci. Rep. 2017, 7, 8018. [CrossRef] [PubMed]  
+290: 48. Yu, Z.; Dai, T.; Yuan, S.; Zou, H.; Liu, P. Electromagnetic interference shielding performance of anisotropic polyimide/graphene composite aerogels. ACS Appl. Mater. Interfaces 2020, 12, 30990-31001. [CrossRef] [PubMed]  
+291: 49. Guo, H.; Meador, M.A.B.; McCorkle, L.; Quade, D.J.; Guo, J.; Hamilton, B.; Cakmak, M. Tailoring properties of cross-linked poly-imide aerogels for better moisture resistance, flexibility, and strength. ACS Appl. Mater. Interfaces 2012, 4, 5422-5429. [CrossRef]  
+292: 50. Feng, J.; Wang, X.; Jiang, Y.; Du, D.; Feng, J. Study on thermal conductivities of aromatic polyimide aerogels. ACS Appl. Mater. Interfaces 2016, 8, 12992-12996. [CrossRef] [PubMed]
+293: 
+294: 51. Tan, J.J.Y.; Lee, C.P.; Hashimoto, M. Preheating of gelatin improves its printability with transglutaminase in direct ink writing 3D printing. Int. J. Bioprint. 2020, 6, 296. [CrossRef] [PubMed]  
+295: 52. Goh, G.L.; Agarwala, S.; Yeong, W.Y. Aerosol-jet-printed preferentially aligned carbon nanotube twin-lines for printed electronics. ACS Appl. Mater. Interfaces 2019, 11, 43719-43730. [CrossRef] [PubMed]  
+296: 53. Ben Azouz, K.; Ramires, E.C.; Van den Fonteyne, W.; El Kissi, N.; Dufresne, A. Simple method for the melt extrusion of a cellulose nanocrystal reinforced hydrophobic polymer. ACS Macro Lett. 2012, 1, 236-240. [CrossRef]  
+297: 54. Nagalakshmaiah, M.; El Kissi, N.; Dufresne, A. Ionic compatibilization of cellulose nanocrystals with quaternary ammonium salt and their melt extrusion with polypropylene. ACS Appl. Mater. Interfaces 2016, 8, 8755-8764. [CrossRef]

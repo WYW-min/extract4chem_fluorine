@@ -1,0 +1,50 @@
+source_file: Formation of Nano-Fibrous Patterns on Aluminum Substrates via Photolithographic Fabrication of Electrospun Pho.md
+doc_id: 37c2ed62a82f3c15d3a0f8be98c663ae
+chunk_index: 7
+block_id: b0008
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [284, 317]
+char_span: [50609, 57775]
+line_count: 34
+effective_body_non_empty_lines: 31
+
+lines:
+--- chunk (b0008: References) ---
+284: # References
+285: 
+286: 1. Miao, J.; Miyauchi, M.; Simmons, T.J.; Dordick, J.S.; Linhardt, R.J. Electrospinning of nanomaterials and applications in electronic components and devices. J. Nanosci. Nanotechnol. 2010, 10, 5507-5519. [CrossRef] [PubMed]  
+287: 2. Hu, J.; Zhang, K.Q. Electrospun nanofibers for optical applications. In *Electrospinning: Nanofabrication and Applications; Ding, B.*, Wang, X., Yu, J., Eds.; Elsevier: Amsterdam, The Netherlands, 2019; pp. 603-617.  
+288: 3. Zhao, K.; Kang, S.X.; Yang, Y.Y.; Yu, D.G. Electrospun functional nanofiber membrane for antibiotic removal in water: Review. Polymers 2021, 13, 226. [CrossRef] [PubMed]  
+289: 4. Suja, P.S.; Reshmi, C.R.; Sagitha, P.; Sujith, A. Electrospun nanofibrous membranes for water purification. Polym. Rev. 2017, 57, 467-504. [CrossRef]  
+290: 5. Liao, Y.; Loh, C.H.; Tian, M.; Wang, R.; Fane, A.G. Progress in electrospun polymeric nanofibrous membranes for water treatment: Fabrication, modification and applications. Prog. Polym. Sci. 2018, 77, 69-94. [CrossRef]  
+291: 6. Mishra, R.K.; Mishra, P.; Verma, K.; Mondal, A.; Chaudhary, R.G.; Abolhasani, M.M.; Loganathan, S. Electrospinning production of nanofibrous membranes. Environ. Chem. Lett. 2019, 17, 767-800. [CrossRef]  
+292: 7. Zhang, J.; Zhang, F.; Song, J.; Liu, L.; Si, Y.; Yu, J.; Ding, B. Electrospun flexible nanofibrous membranes for oil/water separation. J. Mater. Chem. A 2019, 7, 20075-20102. [CrossRef]  
+293: 8. Han, Y.; Xu, Y.; Zhang, S.; Li, T.; Ramakrishna, S.; Liu, Y. Progress of improving mechanical strength of electrospun nanofibrous membranes. Macromol. Mater. Eng. 2020, 305, 2000230. [CrossRef]  
+294: 9. Matsumoto, H.; Tanioka, A. Functionality in electrospun nanofibrous membranes based on Fiber's size, surface area, and molecular orientation. Membranes 2011, 1, 249-264. [CrossRef]
+295: 
+296: 10. Cui, J.; Li, F.; Wang, Y.; Zhang, Q.; Ma, W.; Huang, C. Electrospun nanofiber membranes for wastewater treatment applications. Sep. Purif. Technol. 2020, 250, 117116. [CrossRef]  
+297: 11. Yin, X.; Zhang, Z.; Ma, H.; Venkateswaran, S.; Hsiao, B.S. Ultra-fine electrospun nanofibrous membranes for multicomponent wastewater treatment: Filtration and adsorption. Sep. Purif. Technol. 2020, 242, 116794. [CrossRef]  
+298: 12. Sagitha, P.; Reshmi, C.R.; Sundaran, S.P.; Sujith, A. Recent advances in post-modification strategies of polymeric electrospun membranes. Eur. Polym. J. 2018, 105, 227-249. [CrossRef]  
+299: 13. Lv, D.; Zhu, M.; Jiang, Z.; Jiang, S.; Zhang, Q.; Xiong, R.; Huang, C. Green electrospun nanofbers and their application in air filtration. Macromol. Mater. Eng. 2018, 303, 1800336. [CrossRef]  
+300: 14. Jin, G.; Prabhakaran, M.P.; Kai, D.; Kotaki, M.; Ramakrishna, S. Electrospun photosensitive nanofibers: Potential for photocurrent therapy in skin regeneration. Photochem. Photobiol. Sci. 2013, 12, 124-134. [CrossRef]  
+301: 15. Wang, W.; Tian, S.; Lu, J.; Zheng, Y.; Yan, Z.; Wang, D. Highly sensitive photoresponsive polyamide 6 nanofibrous membrane containing embedded spiropyran. J. Mater. Sci. 2021, 56, 18775-18794. [CrossRef]  
+302: 16. Khatri, M.; Ahmed, F.; Ali, S.; Mehdi, M.; Ullah, S.; Duy-Nam, P.; Khatri, Z.; Kim, I.S. Photosensitive nanofibers for data recording and erasing. J. Textile Inst. 2021, 112, 429-436. [CrossRef]  
+303: 17. Qi, L.; Guo, C.Y.; Huangfu, M.G.; Zhang, Y.; Wu, L.; Zhi, X.X.; Liu, J.G.; Zhang, X.M. Highly solvent-stable polyimide ultrafine fibrous membranes fabricated by a novel ultraviolet-assisted electrospinning technique via organo-soluble intrinsically negative phtosensitive varnishes. eXPRESS Polym. Lett. 2021, 15, 72-77. [CrossRef]  
+304: 18. Qi, L.; Liu, J.G.; Yang, Y.; Guo, C.Y.; Huangfu, M.G.; Zhang, Y. Solvent-resistant ultrafine nonwoven fibrous membranes by ultraviolet-assisted electrospinning of organo-soluble photosensitive polyimide resin. J. Appl. Polym. Sci. 2021, 138, 50048. [CrossRef]  
+305: 19. Qi, L.; Jia, Y.J.; An, Y.C.; Zhi, X.X.; Zhang, Y.; Liu, J.G.; Li, J.S. Photo-patternable, high-speed electrospun ultrafine fibers fabricated by intrinsically negative photosensitive polyimide. ACS Omega 2021, 6, 18458-18464. [CrossRef]  
+306: 20. Qi, L.; Guo, C.Y.; Zhang, Y.; Yin, L.M.; Wu, L.; Liu, J.G.; Zhang, X.M. An ultraviolet-assisted electrospinning procedure of polyimide ultrafine fibrous membranes fabricated by ester-type negative photosensitive polyimide. J. Mater. Sci. Mater. Electron. 2020, 31, 17647-17658. [CrossRef]  
+307: 21. Qi, L.; Guo, C.Y.; Huangfu, M.G.; Zhang, Y.; Yin, L.M.; Wu, L.; Liu, J.G.; Zhang, X.M. Enhancement of solvent resistance of polyimide electrospun mat via the UV-assisted electrospinning and photosensitive varnish. Polymers 2019, 11, 2055. [CrossRef]  
+308: 22. Li, S.; Zhang, R.; Xie, J.; Sameen, D.E.; Ahmed, S.; Dai, J.; Qin, W.; Li, S.; Liu, Y. Electrospun antibacterial poly(vinyl alcohol)/Ag nanoparticles membrane grafted with  $3,3^{\prime},4,4^{\prime}$ -benzoophenone tetracarboxylic acid for efficient air filtration. Appl. Surf. Sci. 2020, 533, 147516. [CrossRef]  
+309: 23. Li, Y.; Vergaelen, M.; Schoolaert, E.; Hoogenboom, R.; Clerck, K.D. Effect of crosslinking stage on photocrosslinking of benzophenone functionalized poly(2-ethyl-2-oxazoline) nanofibers obtained by aqueous electrospinning. Eur. Polym. J. 2019, 112, 24–30. [CrossRef]  
+310: 24. Goponenko, A.V.; Hou, H.Q.; Dzenis, Y.A. Avoiding fusion of electrospun  $3,3^{\prime},4,4^{\prime}$  - biphenyltetracarboxylic dianhydride-4,4'- oxydianiline copolymer nanofibers during conversion to polyimide. Polymer 2011, 52, 3776-3782. [CrossRef]  
+311: 25. Jiang, G.L.; Wang, D.Y.; Du, H.P.; Wu, X.; Zhang, Y.; Tan, Y.Y.; Wu, L.; Liu, J.G.; Zhang, X.M. Reduced coefficients of linear thermal expansion of colorless and transparent semi-alicyclic polyimide films via incorporation of rigid-rod amide moiety: Preparation and properties. Polymers 2020, 12, 413. [CrossRef]  
+312: 26. Lin, A.A.; Sastri, V.R.; Tesoro, G.; Reiser, A.; Eachus, R. On the cross-linking mechanism of benzophenone-containing polyimides. Macromolecules 1985, 21, 1165-1169. [CrossRef]  
+313: 27. Rohde, O.; Smolka, P.; Falcigno, P.A. Novel auto-photosensitive polyimides with tailored properties. Polym. Eng. Sci. 1992, 32, 1623-1629. [CrossRef]  
+314: 28. An, Y.; Jia, Y.; Zhi, X.; Zhang, Y.; Qi, L.; Wu, L.; Jiang, G.; Liu, J. Preimidized auto-photosensitive polyimides containing methyl-substituted benzanilide units with increased high-temperature dimensional stability for advanced optical applications: Preparation and properties. J. Polym. Res. 2021, 28, 228. [CrossRef]  
+315: 29. Qian, Z.G.; Ge, Z.Y.; Li, Z.X.; He, M.H.; Liu, J.G.; Pang, Z.Z.; Fan, L.; Yang, S.Y. Synthesis and characterization of new inherent photoimageable polyimides based on fluorinated tetramethyl-substituted diphenylmethanediamines. Polymer 2002, 43, 6057-6063. [CrossRef]  
+316: 30. Persano, L.; Camposeo, A.; Tekmen, C.; Pisignano, D. Industrial upscaling of electrospinning and applications of polymer nanofibers: A review. Macromol. Mater. Eng. 2013, 298, 504-520. [CrossRef]  
+317: 31. Yang, C.P.; Chen, R.S.; Chiang, H.C. Organosoluble and light-colored fluorinated polyimides based on 1,2-bis(4-amino-2-trifluoromethylphenoxy)benzene and aromatic dianhydrides. Polym. J. 2003, 35, 662-670. [CrossRef]

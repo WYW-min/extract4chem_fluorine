@@ -1,0 +1,19 @@
+source_file: Novel Polymer Composites on the Basis of Arylalicyclic Polyimide Blends. I. PolyimidePolycarbonate &amp; Polyi.md
+doc_id: f91b88f276768d6bce57bac63e978fc5
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Abstract
+line_span: [12, 16]
+char_span: [688, 1609]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0002: Abstract) ---
+12: # Abstract
+13: 
+14: The new composite materials based on dianhydride of tricyclodecentetracarbon acid and oxydianiline with two other thermally stable polymers, such as polycarbonate and polysulphone, are being reported. The synthesis of the polyimide blends was done through two ways: mechanical mixing of two homopolymer ingredients; and the so-called chemical mixing of polyimide comonomers with the above-mentioned polymers. The physico-chemical and physico-mechanical properties have been manifested in a broadening of their performance characteristics. It was not found any physical-chemical interactions between the two ingredients of the blend, which indicates the formation of a typical compatible polymer blend with an appropriate miscibility. Such new polyimide composite could be an ideal candidate for the preparation of reflective and conductive metallized polyimide blend films with wide mechanical performances.

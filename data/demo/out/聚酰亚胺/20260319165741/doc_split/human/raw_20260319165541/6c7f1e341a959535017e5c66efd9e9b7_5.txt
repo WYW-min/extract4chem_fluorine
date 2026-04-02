@@ -1,0 +1,19 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: $\mathrm{CO}_{2}$  Sorption
+line_span: [70, 74]
+char_span: [9210, 9865]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0006: $\mathrm{CO}_{2}$  Sorption) ---
+70: # $\mathrm{CO}_{2}$  Sorption
+71: 
+72: The equilibrium sorption isotherm of pure  $\mathrm{CO}_{2}$  in all films was volumetrically determined as a function of pressure at  $35^{\circ}\mathrm{C}$  by using a pressure-decay system. The sample was introduced into the chamber to degas the polymer film, and the sorption system was left overnight at  $35^{\circ}\mathrm{C}$ . Pure  $\mathrm{CO}_{2}$  was introduced into the sorption chamber. Penetrant uptake was recorded up to 50 atm as a function of time. All measurement data were obtained in the film state. A minimum of three samples were analyzed to confirm the reproducibility of the experimental results.

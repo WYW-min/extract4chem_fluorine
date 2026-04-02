@@ -1,0 +1,225 @@
+source_file: New Strategy for Inducing Surface Anisotropy in Polyimide Films for Nematics Orientation in Display Applicatio.md
+doc_id: d99a47e74ff612436c10f59dae6bb2f9
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [83, 293]
+char_span: [16289, 51107]
+line_count: 209
+effective_body_non_empty_lines: 113
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+83: # 3. Results and Discussion
+84: 
+85: In this work, two PI samples were tested for AL uses; namely, one that has a fully aliphatic structure (PI-HMDA) and the other with semi-aliphatic structure (PI-ODA). Since these imide-type polymers are synthesized from the same EPI dianhydride, their structural peculiarities are defined by the diamine properties. HMDA has an aliphatic, small, and
+86: 
+87: highly flexible structure, while ODA is an aromatic, bulky, and less flexible molecule. Molecular modeling of the PI structures in the presence/absence of the deformation provides valuable information on the structural aspects that contribute to the induced anisotropy. The morphological, optical, and wettability properties of the ALs are paramount for understanding the performance of the PI layers in terms of anisotropy, which in turn is responsible for the uniform orientation of the LC molecules.
+88: 
+89: # 3.1. Transmittance and Birefringence of ALs
+90: 
+91: The minimization of the PI absorption in the visible range is highly desirable for AL purposes. PI-HMDA and PI-ODA free-standing films were subjected to spectral analysis. Figure 2 depicts the differences between the transparencies of the fully aliphatic and semialiphatic studied PIs. The transmittance (T) measurements are registered from UV to near infrared and the attained data for all samples are indicating good transparency in the visible range, especially for PI-HMDA. For instance, at  $500\mathrm{nm}$ , the polymer containing ODA units presents slightly lower transmittance  $(\mathrm{T} \sim 70\%)$ , while the PI derived from HMDA has superior optical properties  $(\mathrm{T} \sim 86\%)$ . As the wavelength increases to  $700\mathrm{nm}$ , the transmittance is reaching  $91\%$  for PI-HMDA and  $86\%$  for PI-ODA. The cut-off wavelength, showing the point where transmittance is below  $1\%$ , is  $392\mathrm{nm}$  for PI-ODA and  $356\mathrm{nm}$  for PI-HMDA. The differences in the spectral data are attributed to the distinct features of the diamines. The presence of the aromatic ODA sequences contributes to closer chain packing and CTC interactions among the PI macromolecules, whereas the HMDA renders lower molecular density, smaller polarity, and seldom probability of the CTC occurrence. This is in agreement with the literature, which confirms the contribution of these factors to the transparency of the PIs [12].
+92: 
+93: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+94: Figure 2. The transmittance data against wavelength recorded for PI-HMDA and PI-ODA freestanding films.
+95: 
+96: The optical band gap energy  $(\mathrm{E_g})$  is a parameter that indicates the energetic threshold required for the light photons to be absorbed. The simplest manner to determine  $\mathrm{E_g}$  relies on its relation to cut-off wavelength:
+97: 
+98: $$
+99: \mathrm {E} _ {\mathrm {g}} = 1 2 4 0 / \lambda_ {\mathrm {c}}, \tag {1}
+100: $$
+101: 
+102: where  $\lambda_{\mathrm{c}}$  is the cut-off wavelength, depicting the onset of absorption.
+103: 
+104: As revealed by Equation (1), the optical band gap is  $3.25\mathrm{eV}$  for PI-ODA and  $3.48\mathrm{eV}$  for PI-HMDA. Hence, for the semi-aliphatic PI, a lower energetic threshold is imposed for allowing the photons' absorption. At the same time, the fully aliphatic sample has a higher  $\mathrm{E_g}$ , which induces a smaller probability of light absorption in this material.
+105: 
+106: Birefringence  $(\Delta n)$  is an important optical property for LC display applications. It is widely known as the double refraction of optical radiations in a molecularly ordered material that is expressed by the orientation-dependent differences in the refractive index. This optical parameter contains information on the intrinsic birefringence and orientation
+107: 
+108: distribution function, the latter describing the level of alignment of the molecular units. Thus, birefringence provides an idea about the overall molecular orientation in the samples. Moreover,  $\Delta n$  reveals the distinction among the in-plain and out-of-plain refraction properties, providing data on the 3D structure of the PI, and spatial arrangement of the chain segments that contribute to the light propagation through the layers of the LC cell. As noted in Figure 3, the pristine PI-ODA presents larger birefringence in comparison to PI-HMDA. This is because PIs containing aromatic segments have a higher preference for the macromolecules to orient along the plane of the film. Conversely, when decreasing the aromatic character of the PIs, there is a greater tendency for random orientation of the chains due to weak interactions among them [12,38-40]. In other words, the lack of a particular chain's orientation direction in the film renders low polarizability anisotropy and a reduced birefringence.
+109: 
+110: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+111: Figure 3. The variation of the birefringence of the pristine and surface adapted PI-HMDA and PI-ODA films.
+112: 
+113: Moreover, upon surface modification of the PI films, they gain optical anisotropy, which can be quantified by means of birefringence measurements. According to the data presented in Figure 3, the different  $\Delta n$  values indicate that different degrees of orientation can be generated in the film samples as a function of the applied method of deformation and PI chain flexibility.
+114: 
+115: The method of stretching by single-step pressing (noted here with STR) is determining the orientation of the macromolecules up to the bulk layers from the PI film. In contrast, during rubbing (noted here with RUBB), the velvet fibers are penetrating less deep in the bulk of the PI film, even if the applied repetitive deformations generate more intense alignment of the chains, which is reflected in a higher anisotropy. When mixing these two procedures, it seems that the first applied technique (RUBB or STR) has the prevalent effect from the point of view of created anisotropy. If the initial method produces higher chain orientation, the second method contributes less to further alignment of the chains. More specifically, when starting with the rubbing step, a larger alignment of the macromolecules is produced, and after stretching, is additionally extended. On the other hand, it can be remarked that as the backbone flexibility is higher, the chains are more sensitive to the applied deformation. Thus, the PI containing ODA units is less able to orient upon the imposed external deformation, while the sample containing flexible HMDA sequences is easier to orient upon the rubbing and/or stretching procedures. Thus, the response to deformation of each studied PI structure has a great impact on the overall birefringence magnitude, explaining the bigger values attained for the modified PI-HMDA films in comparison to PI-ODA.
+116: 
+117: # 3.2. Molecular Modeling
+118: 
+119: The first theoretical results were estimated by the Synthia module. The predictive correlations were developed using topological information, based on the connectivity indices
+120: 
+121: derived from graph theory [33]. The most representative thermophysical, mechanical, or entanglement properties at  $298\mathrm{K}$  are shown in Table 1.
+122: 
+123: Table 1. Predicted parameters of the PI-HMDA and PI-ODA polymers by QSPR method.  
+124: 
+125: <table><tr><td>System</td><td>Bulk Modulus (MPa)</td><td>Young&#x27;s Modulus (MPa)</td><td>Brittle Fracture Stress * (MPa)</td><td>Entanglement Length (Å)</td><td>Cohesive Energy (Fedors) (kJ/mol)</td><td>Surface Tension (Fedors) (dyn/cm)</td><td>Density (g/cm3)</td></tr><tr><td>PI-HMDA</td><td>4554.03</td><td>2528.81</td><td>128.00</td><td>200.86</td><td>147.14</td><td>48.09</td><td>1.20</td></tr><tr><td>PI-ODA</td><td>5297.00</td><td>3101.27</td><td>117.86</td><td>166.69</td><td>181.07</td><td>49.94</td><td>1.28</td></tr></table>
+126: 
+127: * At considered molecular weight, 10,000 amu.
+128: 
+129: Young's and bulk moduli (the marks of deformation in the elastic region) are representing the level of the solid's stiffness. If Young's modulus relates the stress to the straining of a solid along one axis, the bulk modulus reflects its volumetric elasticity. Having the same order of magnitude, the moduli indicate that these are related to each other, and also that the elastic properties are determined by the strength of the inter-chains' forces [41], especially the van der Waals ones. A high Young's modulus value for PI-ODA means that this polymer is stiffer than PI-HMDA. The compressibility of a body is mathematically defined as the reciprocal of the bulk modulus. From Table 1, it is noticeable that a great pressure must be applied to compress the PI-ODA polymer, meaning that this polymer is less compressible than the other one. Chain entanglements have a significant impact on the mechanical properties of the polymers [42]. The average length between entanglements of the PI-ODA is less than that of PI-HMDA, showing a high entanglement density in the PI-ODA macromolecular system. This fact could be explained by the large deformations of PI-HMDA than PI-ODA. The strength of the forces that keep the molecules close together in a condensed state, cohesive energy, is well related to the moduli and molecular packing. The theoretical values of the surface tension range similarly to the cohesive forces. This is correct since the strong intermolecular forces mean both high cohesive forces and high surface tensions.
+130: 
+131: Molecular dynamics simulations were realized for atomic level energetically calculations. After the NPT equilibration of the amorphous cells, the density reaches an average value of  $1.13\mathrm{g/cm^3}$  for PI-HMDA (Figure 4) and  $1.23\mathrm{g/cm^3}$  for PI-ODA (Figure 5). It was discovered that after the five dynamics, applied in order to stretch the amorphous cell, the elongation along the X axis is only  $20\%$ .
+132: 
+133: For each system, a slight increase in the free volume (for example, PI-HMDA from  $36.4\%$  to  $37.3\%$ , PI-ODA from  $36.7\%$  to  $37.1\%$ ) was observed. The difference in the packing behavior can be attributed to a subtle growth of the ordering of these systems, obtained through the cell elongation.
+134: 
+135: As mentioned in the Section 2, the next step was to generate the polymer surface. For a comparative evaluation, the structures with the MBBA or 5CB molecule adsorbed on the polymeric surface were built as follows: (i) a best fit plane of liquid crystal was parallel arranged with the polymeric plane, (ii) the distance from the same  $\mathrm{N / C}$  atom of the liquid crystal molecule and the centroid of the polymers from the surface was set to  $20\AA$ , (iii) the system was minimized so that the liquid crystal molecule is adsorbed by the polymeric surface, (iv) a quench dynamic, followed by the minimization, provided the most favorable orientation of the liquid crystal molecule on the surface. In order to explore the entire surface, the dynamics for the 5CB systems were conducted at a higher temperature than those used for the MBBA (Figures 4 and 5).
+136: 
+137: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+138: 
+139: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+140: 
+141: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+142: (d)  
+143: (c)
+144: 
+145: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+146: 
+147: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+148: (e)  
+149: (f)  
+150: Figure 4. Snapshots of the periodic PI-HMDA cell before (a) and after the stretch process (b). The polymer layer was limited to 6 polymeric chains. The best fit plane and centroid options were used to obtain similar reference systems with adsorbed MBBA (c) and 5CB molecule (e). From the multiple outputs of the quench procedure, the system with the lowest energy was chosen for MBBA (d), and respectively, for 5CB (f).
+151: 
+152: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+153: 
+154: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+155: 
+156: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+157: 
+158: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+159: (d)
+160: 
+161: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+162: 
+163: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+164: Figure 5. Considering the same procedure and methodology used in Figure 4, here are presented snapshots of the periodic PI-ODA cell before (a) and after the stretch process (b), and the initial system of the polymer surface and MBBA (c), and respectively, 5CB (e). From the multiple outputs of the quench procedure, the system with the lowest energy was chosen ((d) for system with MBBA, (f) for the system with 5CB).
+165: 
+166: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+167: (f)
+168: 
+169: The interaction energy between the polymeric surface and one liquid crystal molecule (MBBA and 5CB, respectively) was calculated in accordance with Equation (2):
+170: 
+171: $$
+172: \Delta \mathrm {E} = \text {E p o l y m} / \mathrm {L C} - (\text {E p o l y m} + \mathrm {E} _ {\mathrm {L C}}) \tag {2}
+173: $$
+174: 
+175: where Epolym/LC is the total energy of the polymer surface-liquid crystal system, Epolym is single point energy for the system when the liquid crystal molecule is removed, and  $\mathrm{E_{LC}}$  is the corresponding single point energy for the liquid crystal molecule.
+176: 
+177: The obtained average values of the interaction energies were:  $-26.93\mathrm{kcal / mol}$  for PI-HMDA/MBBA system,  $-35.70\mathrm{kcal / mol}$  for PI-ODA/MBBA system,  $-28.63\mathrm{kcal / mol}$  for PI-HMDA/5CB system, and  $-36.85\mathrm{kcal / mol}$  for PI-ODA/5CB system.
+178: 
+179: Keeping in mind that a negative value of interaction energy is binding energy, the average of the obtained values indicates that the adsorption strength of the liquid crystal
+180: 
+181: molecule on the PI-ODA surface is higher than the PI-HMDA. Our results suggest that the adhesion of a liquid crystal at the polymeric surface is slightly improved in the PI-ODA case, even though this is a less flexible system than the PI-HMDA. Given the high value of the dipole moment for 5CB (6.16 D), compared to the value obtained for MBBA (1.45 D), it was expected that the binding energy of 5CB would be higher than that of MBBA at the surface of each of the two studied polymers.
+182: 
+183: Despite the fact that our simplified model may require a series of improvements, it is doubtless a useful tool to investigate the behavior of the liquid crystals at the surface of the examined materials.
+184: 
+185: # 3.3. Morphological Analysis
+186: 
+187: As previously reported in our studies [11,17,18,20,22,23,43], the surfaces of the polyimide samples, whose synthesis is based on EPI, are uniform, homogeneous, presenting the same morphological characteristics in all directions (morphologically isotropic), and with very low roughness, of a few nanometers. Mechanical surface treatments, such as stretching and friction with textiles, can alter these characteristics by inducing the orientation of the morphological features in a certain direction and thus the appearance of the anisotropy (as observed in Figures 6 and 7).
+188: 
+189: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+190: Figure 6. Topography and corresponding autocorrelation images obtained for polyimides PI-HMDA after stretching (STR), rubbing (RUB), rubbing after stretching (STR RUB), and stretching after rubbing (RUB STR).
+191: 
+192: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+193: 
+194: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+195: 
+196: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+197: 
+198: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+199: 
+200: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+201: 
+202: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+203: 
+204: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+205: Figure 7. Topography and corresponding autocorrelation images obtained for polyimides PI-ODA after stretching (STR), rubbing (RUB), rubbing after stretching (STR RUB), and stretching after rubbing (RUB STR).
+206: 
+207: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+208: 
+209: Furthermore, both the order of application of mechanical treatments (stretching—STR, rubbing—RUB, rubbing after stretching—STR RUB, and stretching after rubbing—RUB STR) and the flexibility of the polymer structures are very important factors that can further influence the interactions of the resulted anisotropic surfaces with a nematic liquid crystal.
+210: 
+211: The determined grooves' characteristics are listed in Table 2. Analyzing the three-dimensional topographic images acquired for the modified samples (Figures 6 and 7), it can be seen in general that after the stretching process (which induces changes both in bulk and on the surface of the samples) quite deep main grooves are formed at considerable distances from each other (see the grooves' characteristics: depth of the groove—A and frequency of the grooves— $\Lambda$  from Table 2). Instead, after the rubbing process (which is mainly a surface process) the formed grooves have shallow depths and the distance between them is much more reduced (Table 2). The prepared films are thicker than  $100 \mathrm{~nm}$ , which is typical for PI ALs. According to Jiao et al. [4], this could be useful for better control of the voltage. Decreasing PI films' thickness up to  $100 \mathrm{~nm}$  would not influence the efficiency of the proposed surface treatment methods, except for the case of stretched PI-HMDA sample, which presents a mean depth of the grooves of  $211 \mathrm{~nm}$ . Given the finer depth of grooves, generated by the other proposed surface alteration procedures, these approaches are applicable even for PI samples of a standard thickness of  $100 \mathrm{~nm}$ .
+212: 
+213: Table 2. Groove characteristics and 3D texture parameters obtained for polyimides PI-HMDA and PI-ODA after stretching (STR), rubbing (RUB), rubbing after stretching (STR RUB), and stretching after rubbing (RUB STR).  
+214: 
+215: <table><tr><td rowspan="2">Sample</td><td colspan="3">Groove Characteristics</td><td colspan="3">3D Texture Parameters</td></tr><tr><td>A</td><td>Λ</td><td>Sq</td><td>Sdr</td><td>Stdi</td><td>Sbi</td></tr><tr><td>PI-HMDA STR</td><td>211 ± 24</td><td>3686 ± 555</td><td>41</td><td>0.556</td><td>0.298</td><td>0.497</td></tr><tr><td>PI-HMDA RUB</td><td>39 ± 16</td><td>706 ± 129</td><td>17</td><td>0.424</td><td>0.137</td><td>0.170</td></tr><tr><td>PI-HMDA STR RUB</td><td>22 ± 5</td><td>953 ± 256</td><td>11</td><td>0.286</td><td>0.385</td><td>0.102</td></tr><tr><td>PI-HMDA RUB STR</td><td>74 ± 15</td><td>1422 ± 567</td><td>50</td><td>0.700</td><td>0.157</td><td>0.670</td></tr><tr><td>PI-ODA STR</td><td>54 ± 12</td><td>1923 ± 297</td><td>16</td><td>0.382</td><td>0.480</td><td>0.0568</td></tr><tr><td>PI-ODA RUB</td><td>20 ± 6</td><td>657 ± 191</td><td>15</td><td>0.328</td><td>0.214</td><td>0.168</td></tr><tr><td>PI-ODA STR RUB</td><td>33 ± 15</td><td>1026 ± 190</td><td>14</td><td>0.374</td><td>0.448</td><td>0.124</td></tr><tr><td>PI-ODA RUB STR</td><td>65 ± 17</td><td>1112 ± 142</td><td>25</td><td>0.737</td><td>0.179</td><td>0.187</td></tr></table>
+216: 
+217: A: depth of the groove (nm);  $\Lambda$ : frequency of the grooves (nm); Sq: root mean square roughness of the surface (nm); Sdr: surface area ratio (%); Stdi: surface texture direction index; Sbi: surface bearing index.
+218: 
+219: Considering the findings derived from the molecular modeling, according to which PI-ODA is less flexible and less compressible than the PI-HMDA, it can be explained why the oriented morphological structures are much more pronounced in the case of PI-HMDA compared to those obtained for PI-ODA (see the A and  $\Lambda$  values from Table 2). Moreover, the increasing values of the surface feature characteristics favor the enhancement of the root mean square roughness and concomitant the complexity of morphology, suggested by the surface area ratio from Table 2.
+220: 
+221: The orientation of the polymer molecules was investigated via atomic force microscopy by evaluating the anisotropy of the surface morphology induced by each proposed method of surface treatment (RUBB, STR, RUBB + STR, STR + RUBB). In this way, first it was used as a visual tool, namely, the autocorrelation function (ACF), computed as:
+222: 
+223: $$
+224: \operatorname {A C F} \left(\tau_ {\mathrm {x}}, \tau_ {\mathrm {y}}\right) = \iint_ {- \infty} ^ {\infty} z _ {1} z _ {2} w \left(z _ {1}, z _ {2}, \tau_ {\mathrm {x}}, \tau_ {\mathrm {y}}\right) d z _ {1} d z _ {2} \tag {3}
+225: $$
+226: 
+227: from the surface topography of the AFM image, stored and processed by a computer, in digital form of a matrix  $z(i,j)$ , where  $i$  is the number of points along a scan line and  $j$  is the number of lines. In this equation,  $z_1$  is the value of the height at the point of coordinates  $(x_1,y_1)$  and  $z_2$  is the value of the height at the point of coordinates  $(x_2,y_2)$ . Furthermore, the spatial lag along the  $x$  scan axis is  $\tau_x = x_1 - x_2$  and the spatial lag along the  $y$  scan axis is  $\tau_y = y_1 - y_2$ . Corresponding to points  $(x_1,y_1)$  and  $(x_2,y_2)$ , the function  $w(z_1,z_2,\tau_x,\tau_y)$  representing a two-dimensional probability density can be defined. This symmetric function, with the maximum value at the origin (zero lag), is susceptible to describe the horizontal spreading of the oriented surface morphologies with repeating features, following the periodicity of the surface and, as the spatial lag increases, asymptotically falling to zero. Usually, in the ACF image the central lobe will be approximately circular (minimum  $(\tau_{\mathrm{min}})$  and maximum  $(\tau_{\mathrm{max}})$  radii being nearly equal) if the surface is morphologically isotropic, presenting no preferential orientation and will be very stretched out  $(\tau_{\mathrm{max}} >> \tau_{\mathrm{min}})$  if the surface presents a strong privileged orientation, meaning it is morphologically anisotropic.
+228: 
+229: Besides that, a quantitative tool, namely, the surface texture direction index (Stdi) spatial parameter calculated using the angular power spectral density function (APSDF) applied to the 3D surface was also used to appreciate the orientation of polymer molecules during the surface mechanical processing. As shown in Equation (4),
+230: 
+231: $$
+232: \operatorname {S t d i} = \frac {\sum_ {i = 0} ^ {M - 1} A \left(\frac {i \pi}{M}\right)}{M A _ {\max }} \tag {4}
+233: $$
+234: 
+235: Stdi can be defined as the average amplitude sum divided by the amplitude sum of the major direction, where M is the number of equiangular distinct radial lines and  $A_{\mathrm{max}}$  is the highest amplitude sum. Being a measure of how dominant the orientation direction is, if the Stdi will be close to values that are towards 0, the surface clearly will be oriented in a dominant direction, being anisotropic, while a Stdi near 1 indicates that the amplitude sum of all directions is similar, and the surface being isotropic, not showing a specific orientation.
+236: 
+237: In Figures 6 and 7, the autocorrelation images applied as mentioned to the adjacent 3D AFM images, are presented. The data are suggesting a prevalent orientation of the structures and repetitive patterns in spatial space. From X cross-section autocorrelation profiles, taken along the indicated perpendicular direction to the generated grooves, it can be seen that if the spatial conversion increases, autocorrelation asymptotically decreases to zero. Autocorrelation profiles indicate that for the samples processed by a single method, there is only one type of repetitive formation, located at greater distances for stretched samples and smaller for those rubbed with textile material.
+238: 
+239: When alternating the two methods of surface processing, namely, rubbing after stretching and stretching after rubbing, the autocorrelation images and autocorrelation profiles indicate two types of repetitive formations—the main ones, which are wider, and the secondary ones, which are less wide, located on and between the main ones. It can be seen that the aspect of morphology is predominated by the last applied procedure. There are two phenomena that occur during two-stage processing. When the polyimide films are first stretched, deep grooves are initially formed, which tend to smooth out after rubbing. Conversely, when polyimide films are initially rubbed, they form shallower nanometric grooves, that are much better defined and aligned, which after stretching in the second stage are found on the corrugated relief at the micrometric level. This can easily be seen also from the representations of height distribution (height histogram) and from the bearing area curves (Abbot-Firestone curves), which are presented in Figure 8. The height histograms of the samples processed in a single step have a normal distribution, indicating one single oriented entity. The ones represented for the samples processed in two steps have a bimodal distribution, with two peaks, indicating two orientated entities, as expected. For both PI-HMDA and PI-ODA, the graphs for the stretched samples and rubbed and stretched samples have similar close lower average heights and a narrow aspect. Analogically, the rubbed samples and stretched and rubbed samples present a similar wide aspect and higher average heights. The same trend and proximity are observed in the bearing curves from Figure 8. The above-mentioned thing is reflected in the values of the root mean square roughness and surface aspect ratio from Table 2, which are larger for stretched and rubbed-stretched polymers and lower for the rubbed and stretched-rubbed polymers. The greatest complexity of the morphology (over  $0.700\%$ ), noticed for the PI-HMDA RUB STR and PI-ODA RUB STR, suggests the increase of the ability for adherent coupling of the nematic liquid crystals. This is also supported by the high values of the surface bearing index (calculated from the bearing area curves) in the case of stretching after rubbing of PI-HMDA and PI-ODA.
+240: 
+241: Analyzing quantitatively the morphology anisotropy (see Stdi values from Table 2), it was found that this time, the influence of the first mechanical alignment process is predominant: the rubbing process induces a higher anisotropy, while the stretching method is a mild one. Moreover, the chemical structure of the PI has a significant influence on this property of the polymer to exhibit variable physical characteristics as a function of the direction of measurement and observation. Due to the aliphatic, small, and highly flexible structure of the HMDA moieties, the induced anisotropy was always higher in the case of PI-HMDA, compared with the one calculated for PI-ODA, containing aromatic, bulky, and less flexible ODA moieties.
+242: 
+243: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+244: 
+245: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+246: 
+247: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+248: Figure 8. Height histograms and bearing curves obtained from topography images for polyimides PI-HMDA and PI-ODA after stretching (STR), rubbing (RUB), rubbing after stretching (STR RUB), and stretching after rubbing (RUB STR).
+249: 
+250: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+251: 
+252: # 3.4. Nematic Wettability and Azimuthal Anchoring Energy
+253: 
+254: Two types of LC were used in this study, namely, MBBA with low polarity and weak negative dielectric anisotropy and 5CB with a terminal cyano group, which renders polarity, the orientation of the dipole moment, and higher dielectric properties [44]. When the nematic molecules of MBBA or 5CB are found in contact with the surface-modified AL films, it is very important to study the interfacial interactions. They are expressed through the work of adhesion  $(W_{\mathrm{adh}})$ , which is defined as follows:
+255: 
+256: $$
+257: \mathrm {W} _ {\mathrm {a d h}} = (1 + \cos \theta) \cdot \mathrm {Y} _ {\mathrm {L C}}, \tag {5}
+258: $$
+259: 
+260: where  $\theta$  is the contact angle at the PI/LC interface and  $\mathrm{Y_{LC}}$  is the surface tension of the nematic LC.
+261: 
+262: By measuring the contact angle made by nematic drops on the pristine and surface modified PI films, it is possible to estimate the adhesion at the interface. The contact angles with the LC are measured with the observer orthogonally positioned in regard to the created grooves on the PI surface. In the case of unmodified samples, it seems that the surface polarity is the main factor that dictates the magnitude of the contact angle. Hence, as seen in Figure 9a, pristine PI containing more polar ODA units has a lower value of the MBBA and 5CB contact angle than PI-HMDA.
+263: 
+264: Upon surface adaptation of the PI foils, the values of  $\theta$  are affected by the competing effects generated by surface topography and the surface polarity. Since rubbing penetrates in the superficial layers of the sample and induces considerable anisotropy, the value of the contact angle decreases in comparison to the pristine PI films. Similar effects are noted for the stretching procedure, but in the case of PI-ODA, the surface polarity produces a higher decrease of the  $\theta$  value. When mixing rubbing with stretching, the differences between values of  $\theta$  for PI-ODA and PI-HMDA become closer. The contact angle values of the MBBA on the samples are slightly slower than those recorded for 5CB (see Figure  $9a,a^{\prime}$ ). All these aspects are reflected in the data acquired for work of adhesion, depicted in Figure 9b.
+265: 
+266: One may remark that the aliphatic (less polar) nature of PI-HMDA maintains slightly lower  $W_{\mathrm{adh}}$  values than PI-ODA, but the backbone flexibility enables higher anisotropy and a relatively bigger depth of the micro-grooves, which decrease the contact angle. In the case of 5CB, the magnitude of the work of adhesion is higher than that noted for MBBA, regardless of the used surface modification procedure (see Figure 9b,b').
+267: 
+268: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+269: 
+270: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+271: 
+272: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+273: Figure 9. The variation of the (a) MBBA and  $(\mathbf{a}^{\prime})$  5CB contact angle and work of adhesion of (b) MBBA and  $(\mathbf{b}^{\prime})$  5CB with the surface treatment applied to the PI film.
+274: 
+275: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+276: 
+277: The alignment of the nematic molecules due to the presence of a solid support is named surface anchoring [45]. The anchoring energy is related to the free energy density of the LC in a system when the director is digressing from the easy axis with a low angle. Thus, the anchoring abilities of the polymer support provide quantitative information on the orienting substrate azimuthal anchoring magnitude generated by the strong interaction of chemically analogous mesogenic parts. According to Berreman [46], the LC anchoring is mainly caused by the elastic distortions produced via contact with a sinusoidally grooved support. A recent approach emphasizes that the principal alignment mechanism of rubbed ALs relies on epitaxial growth of the nematic molecules as a result of macromolecules reorientation [47]. Hence, the surface topographical features are affecting the arrangement of the LC in the LC cell. In contact with the undulated PI surface made of grooves with specific depth and frequency, the azimuthal anchoring energy can be evaluated based on Equation (6):
+278: 
+279: $$
+280: \mathrm {W} _ {\text {a n c h}} = 1 / 4 \mathrm {K} _ {1 1} (\mathrm {A q}) ^ {2} \mathrm {q}, \tag {6}
+281: $$
+282: 
+283: where  $W_{\text{anch}}$  is the azimuthal anchoring energy,  $A$  is the depth of the micro-grooves,  $K_{11}$  is splay elastic constant of the LC, and  $q$  is related to frequency of the grooves  $\Lambda = 2\pi / q$ .
+284: 
+285: Given the fact that the LC is permuted from one layer to the next one, it is presumed that the permutation near the polymer film is impacted by the value of the  $W_{\text{anch}}$  parameter. Introducing in Equation (6) the surface features of the textured polyimide films, registered in the AFM scans (Table 2), the values of the azimuthal anchoring energy were estimated. As observed in Table 3, the  $W_{\text{anch}}$  parameter of both MBBA and 5CB ranges significantly with the surface features created either by rubbing, stretching, or their mixed methods. This is because each surface adaptation step induces distinct depths and distances between the micro-grooves. For the stretched or rubbed PI-HMDA films, the azimuthal anchoring energy of MBBA and 5CB values are bigger than those of PI-ODA samples, but upon mixing the methods this changes. Regardless of the used LC, for PI-HMDA foils subjected to stretching followed by rubbing, the level of the  $W_{\text{anch}}$  is slightly lower than that of the PI-ODA film, whereas for rubbing and stretching this parameter is below the value corresponding to the semi-aliphatic polyimide structure. Thus, when mixing the two surface adaptation techniques, it is noted that the sample with the highest anisotropy requires less energy for digressing the LC from the preferred direction. On the other hand, a larger surface anchoring energy of the PI-ODA reveals a better interaction with the LC molecules, probably also to its higher surface polarity. Regardless of the PI structure or
+286: 
+287: surface modification method, the magnitude of the azimuthal anchoring energy is higher for 5CB nematic than that attained for MBBA. If the AL surface has large azimuthal anchoring energy, this is favoring homogeneous alignment of LCs, which could be employed to store some information. Conversely, if the main purpose is to attain improved characteristics in dynamic processes, such as the low-voltage switching of LCs from planar (or tilted) to homeotropic orientation (vertical), it is highly desirable to make ALs with weak azimuthal anchoring energy [48]. Based on the latter issue, it can be noted that the fully aliphatic sample displays the best features for use as AL in LC displays.
+288: 
+289: Table 3. The values of the azimuthal anchoring energy of MBBA and 5CB on the polyimides PI-HMDA and PI-ODA after stretching (STR), rubbing (RUB), rubbing after stretching (STR RUB), and stretching after rubbing (RUB STR).  
+290: 
+291: <table><tr><td rowspan="2">Sample</td><td colspan="2">Azimuthal Anchoring Energy, N/nm</td></tr><tr><td>MBBA</td><td>5CB</td></tr><tr><td>PI-HMDA STR</td><td>3.1926 × 10-16</td><td>3.7431 × 10-16</td></tr><tr><td>PI-HMDA RUB</td><td>1.5523 × 10-15</td><td>1.8199 × 10-15</td></tr><tr><td>PI-HMDA STR RUB</td><td>2.0082 × 10-16</td><td>2.3545 × 10-16</td></tr><tr><td>PI-HMDA RUB STR</td><td>6.8393 × 10-16</td><td>8.0185 × 10-16</td></tr><tr><td>PI-ODA STR</td><td>1.4726 × 10-16</td><td>1.7265 × 10-16</td></tr><tr><td>PI-ODA RUB</td><td>5.0654 × 10-16</td><td>5.9387 × 10-16</td></tr><tr><td>PI-ODA STR RUB</td><td>2.1223 × 10-16</td><td>2.4882 × 10-16</td></tr><tr><td>PI-ODA RUB STR</td><td>1.1035 × 10-15</td><td>1.2937 × 10-15</td></tr></table>

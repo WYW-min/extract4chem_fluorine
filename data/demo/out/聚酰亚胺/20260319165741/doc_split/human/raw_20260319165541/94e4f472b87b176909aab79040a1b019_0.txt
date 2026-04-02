@@ -1,0 +1,32 @@
+source_file: High performance polyimide films containing benzimidazole moieties for thin film solar cells.md
+doc_id: 94e4f472b87b176909aab79040a1b019
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: High performance polyimide films containing benzimidazole moieties for thin film solar cells
+line_span: [1, 18]
+char_span: [0, 1768]
+line_count: 16
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0001: High performance polyimide films containing benzimidazole moieties for thin film solar cells) ---
+1: [MINERU_DISCARDED_META]
+2: DE GRUYTER
+3: e-Polymers 2019; 19: 555-562
+4: [/MINERU_DISCARDED_META]
+5: 
+6: Pengchang Ma, Chuntao Dai and Hongbo Liu*
+7: 
+8: # High performance polyimide films containing benzimidazole moieties for thin film solar cells
+9: 
+10: https://doi.org/10.1515/epoly-2019-0
+11: 
+12: Received July 15, 2019; accepted August 10, 2019.
+13: 
+14: Abstract: In order to match the fabrication process of flexible Copper-Indium-Gallium-Selenide (CIGS) solar cell, a series of polyimides (PIs) with high initial decomposition temperatures (Td) were prepared from  $6,4^{\prime}$ -diamino-2'-trifluoromethyl-2-phenylbenzimidazole (DATFPBI), p-phenylenediamine (p-PPD), and S-type biphenyl dianhydride (s-BPDA) using a sequential copolymerization, casting, and thermal imidization process. The physical properties of the PIs were found to be effectively modified by adjusting both the ratio of the rigid momomers and the thermal imidization process. With the introduction of DATFPBI, the polymers showed significant improvements in thermal stability, thermal expansion, moisture absorption and mechanical properties. PIPBld, one of the synthesized PI film, exhibited an excellent comprehensive performance: a glass transition temperature of  $368^{\circ}\mathrm{C}$ , a tensile modulus of 6.8 GPa, a linar coefficient thermal expansion (CTE) of 16.8 ppm/K, and a moisture absorption of  $1.42\%$ . Furthermore, Td of this thin film was up to  $524^{\circ}\mathrm{C}$ , which indicated that the PIPBld film is a competitive candidate as the flexible substrate for CIGS, Copper-Zinc-Tin-Sulphide (CZTS) solar cell and flexible printed circuit boards (FPCB) where high process temperature is necessary.
+15: 
+16: Keywords: polyimides; thermal stability; benzimidazole; linar coefficient of thermal expansion (CTE)

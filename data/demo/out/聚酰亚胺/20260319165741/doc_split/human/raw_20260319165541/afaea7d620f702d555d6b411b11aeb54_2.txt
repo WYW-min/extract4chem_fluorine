@@ -1,0 +1,23 @@
+source_file: Development and Morphological Characterization of Novel PolyimideMetal nano Hybrid Materials.md
+doc_id: afaea7d620f702d555d6b411b11aeb54
+chunk_index: 2
+block_id: b0003
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [21, 29]
+char_span: [2643, 6551]
+line_count: 7
+effective_body_non_empty_lines: 3
+
+lines:
+--- chunk (b0003: 1. Introduction) ---
+21: # 1. Introduction
+22: 
+23: The versatile metal nanoparticle/polymer hybrid materials are very important because combine the characteristics of the polymer structure with metal nanoparticles. Embedding metal nanoparticles inside the polymer films can facilitate immobilization and auto-organization of metal nanoparticles. These nanostructures can be used in nonlinear optics, in Raman scattering, microwave absorption etc. [1]. Some composites (organic-inorganic) utilizing metal (Cu, Ni, Au, Ag etc.) nanoparticles embedded in organic layers have shown potential applications in memory devices [2-4]. In general, among other polymers, polyimides are useful in microelectronic applications because of their unique properties: thermal and chemical stability, high electrical resistivity, low dielectric constant, and good processibility [5]. Sava and his collaborators induced surface relief gratings on azo-polyimide and azo-copolyimide surfaces via laser irradiation through phase masks with different pitch [6-8], which were subsequently used as substrate for gold deposition by sputtering [8]. In this case, the application was metallic reflective gratings, gold being preferred due to its high optical performance [8]. O'Sullivan et al. highlighted the fact that electrolessly deposited materials (cobalt, nickel) on polyimide films can be investigated as possible diffusion barrier layers for multilayer microelectronic structures [9]. The bonding (adhesion)
+24: 
+25: between the polyimide film and electrolessly deposited layers can vary depending on the applied technique [9]. Other studies have shown that metals, such as copper and nickel, are conductors and by introducing them into a polyimide matrix, the interfacial information and stability can be investigated, helping to control the oxidation of the nanometal and create new metal/polymer materials with high dielectric constant and high processibility [5].
+26: 
+27: Thus, the objective of this paper was to analyse a class of polymers for the realization of polymer/metal multilayer systems. In this context, it has been shown that some of the substrates based on organic polymers have presented a number of advantages over inorganic ones: they are more flexible, they offer a domain variable rigidity and may adopt different forms as a result of external stimuli. More, the properties of the polymeric material can be adjusted according to the specific requirements by chemical modification or variation of the polymerization and/or crosslinking conditions. Micro- and nanostructures obtained on a polymeric support can be extremely useful for a wide variety of applications as well as for obtaining conductive circuits or substrates for adhesion control. In this context, metal nanoparticles (Cu, purity  $99.4\%$  and Ni, purity  $99.6\%$ ) were deposited on polyimide substrates by laser ablation. Studies on surface structuring capability of polymer thin films have shown that the irradiation conditions present a significant influence. International research on nanostructure phenomena followed until now the synthesis of materials capable of generating a controllable surface structure without making a direct link between the chemical structure of the polymer used and the nanostructure mechanism. To date, there are several theoretical models and mechanisms in the literature that try to explain the processes of reordering the surface of polymeric materials, based on two types of phenomena: the first group of theories involves a reorganization of the polymeric material and their compression under the UV radiation action, and the second group proceeds from the hypothesis of moving the polymeric material (photoinduction) [6-8]. In this context, the degree of novelty in this paper refers to the fact that the chemical structure of the polymer will essentially influence the type of mechanism through which the nanostructuring process is carried out.

@@ -1,0 +1,132 @@
+source_file: Methylethynyl-Terminated Polyimide Nanofibrous Membranes High-Temperature-Resistant Adhesives with Low-Tempera.md
+doc_id: e149dbb77904d4c03394a1ba0bfde6b5
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [107, 224]
+char_span: [18138, 40399]
+line_count: 116
+effective_body_non_empty_lines: 61
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+107: # 3. Results and Discussion
+108: 
+109: # 3.1. Molecular Weight and Solubility
+110: 
+111: The preparation process of three METI resins is shown in Figure 1. The METI resins were named "METI-5K", "METI-10K", and "METI-20K" for the systems with designed
+112: 
+113: molecular weights of  $5000\mathrm{g / mol}$ ,  $10,000\mathrm{g / mol}$ , and  $20,000\mathrm{g / mol}$ , respectively. First, the methylethynyl-terminated polyamic acid (MEPA-PAA) was synthesized using ODPA, BAPPT, and MEPA as the starting materials. Then, the soluble METI resins were afforded after dehydration at  $180^{\circ}\mathrm{C}$ . At last, METI-20K was obtained as continuous fibrous resin, METI-10K was obtained as short rod-like resin, and METI-5K was obtained as granular resin, indicating the gradually decreasing molecular weights of the resins.
+114: 
+115: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+116: Figure 1. Preparation of METI resins.
+117: 
+118: The  $\mathrm{M}_{\mathrm{n}}$  values of the METI resins shown in Table 2 are  $1.59\times 10^{4}\mathrm{g / mol}$  for METI-5K,  $1.71\times 10^{4}\mathrm{g / mol}$  for METI-10K, and  $3.53\times 10^{4}\mathrm{g / mol}$  for METI-20K. It can be deduced from the data that all the measured  $\mathrm{M}_{\mathrm{n}}$  values were higher than the designed values. This is consistent with the literature [32,33], which is mainly because the lithium bromide (LiBr) and phosphoric acid  $(\mathrm{H}_3\mathrm{PO}_4)$  in the GPC mobile phase affect the solubility of METI resins in NMP, resulting in an increase in the measured values. The METI resins exhibited narrow PDI values of 1.36 for METI-5K, 2.12 for METI-10K, and 1.66 for METI-20K. In addition, the  $[\eta ]_{\mathrm{inh}}$  and the  $\mathrm{M}_{\mathrm{n}}$  values of the controlled PI-ref (ODPA-BAPPT) resin were  $1.21~\mathrm{dL / g}$  and  $19.0\times 10^{4}\mathrm{g / mol}$ , respectively, indicating the high reactivity of the monomers. The moderate-to-high molecular weight feature of the METI resins, on one hand, could afford good melting flowability at elevated temperatures and, on the other hand, could guarantee good mechanical properties of the afforded electrospun NFMs.
+119: 
+120: Table 2. Inherent viscosities, molecular weights, and solubility of METI and PI-ref resins.  
+121: 
+122: <table><tr><td rowspan="2">PI</td><td rowspan="2">(η)inh a (dL/g)</td><td colspan="3">Molecular Weight b (×104g/mol)</td><td colspan="5">Solubilityc</td></tr><tr><td>Mn</td><td>Mw</td><td>PDI</td><td>NMP</td><td>DMAc</td><td>DMF</td><td>CHCl3</td><td>THF</td></tr><tr><td>METI-5K</td><td>1.16</td><td>1.59</td><td>2.17</td><td>1.36</td><td>++</td><td>++</td><td>++</td><td>+-</td><td>+-</td></tr><tr><td>METI-10K</td><td>1.22</td><td>1.71</td><td>3.63</td><td>2.12</td><td>++</td><td>++</td><td>++</td><td>+-</td><td>+-</td></tr><tr><td>METI-20K</td><td>1.01</td><td>3.53</td><td>5.87</td><td>1.66</td><td>++</td><td>++</td><td>++</td><td>+-</td><td>+-</td></tr><tr><td>PI-ref d</td><td>1.21</td><td>19.0</td><td>25.8</td><td>1.36</td><td>++</td><td>++</td><td>++</td><td>+-</td><td>-</td></tr></table>
+123: 
+124: a Inherent viscosities measured with PI resins at a concentration of  $0.5\mathrm{g / dL}$  in NMP at  $25^{\circ}\mathrm{C};$  b  $\mathbf{M}_{\mathrm{n}}$  : numberaverage molecular weight;  $\mathbf{M_w}$  : weight-average molecular weight; PDI: polydispersity index  $(\mathrm{M_w} / \mathrm{M_n})$  ..  $^{c + + }$  Soluble;  $+ -$  : partially soluble;  $-$  : insoluble;  $\mathrm{CHCl}_3$  : chloroform; THF: tetrahydrofuran. d PI-ref: derived from ODPA and BAPPT.
+125: 
+126: All three METI resins exhibited good solubility in polar aprotic solvents, as shown in Table 1. They were all soluble in NMP, DMAc, and DMF at room temperature with a solid
+127: 
+128: content of  $10\%$ . They were also partially soluble in chloroform  $(\mathrm{CHCl}_3)$  and tetrahydrofuran (THF). The PI-ref resin was insoluble in tetrahydrofuran. The good solubility of the METI resins in the test solvents, on one hand, came from the controlled molecular weights and, on the other hand, from the flexible ether linkages and bulky phenolphthalein groups in the molecular chains of the resins.
+129: 
+130: The viscosity-solid content relationship curves of the three METI resins are shown in Figure 2. There are clear differences in the solubility of the METI resins with different molecular weights in the same DMAc solvent. It can be seen that the viscosity of the METI resins gradually decreased with the decreasing molecular weights at the same solid content. In order to afford PI NFMs with fine micromorphologies, the METI solutions with the absolute viscosities of  $5000\mathrm{mPa}$  were prepared for the following electrospinning fabrications. According to the figure, different solid contents that were  $47.5\mathrm{wt}\%$  for METI-5K,  $38.0\mathrm{wt}\%$  for METI-10K, and  $33.0\mathrm{wt}\%$  for METI-20K were chosen.
+131: 
+132: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+133: Figure 2. Viscosity-solid content relationship of METI solutions with DMAc as solvent at room temperature.
+134: 
+135: # 3.2. Electrospinning Fabrications of METI NFMs and the Micromorphology
+136: 
+137: A series of METI NFMs were fabricated according to the electrospinning procedures shown in Figure 3 with the parameters shown in Section 2.4. It can be seen from the SEM images of the METI NFMs, shown in Figure 4, that the NFMs with fine micromorphology were successfully prepared. The flexible and tough fibrous membranes were composed of tangled nanofibers with average diameters  $(\mathrm{d_{av}})$  from  $644~\mathrm{nm}$  (METI-20K) to  $1471~\mathrm{nm}$  (METI-5K). At the same viscosity, with a decrease in the designed molecular weights, the  $\mathrm{d_{av}}$  values gradually increased. This might be attributed to the higher solid content of the resin solution with lower molecular weights at the same viscosity, resulting in higher resin content in the spinning solution sprayed from the spinneret per unit of time. Macroscopically, the  $\mathrm{d_{av}}$  values became larger.
+138: 
+139: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+140: (a)
+141: 
+142: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+143: (b)  
+144: (c)
+145: 
+146: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+147: Figure 3. (a) Electrospinning process for METI NFMs; (b) Fabrication of stainless steel adherends and the lap shear strength (LSS) measurements; (c) Schematic diagram of the dimensions of stainless steel adherends for adhesion.
+148: 
+149: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+150: Figure 4. SEM images and average diameters  $(\mathrm{d_{av}})$  of METI NFMs. (a) METI-5K; (b) METI-10K; (c) METI-20K.
+151: 
+152: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+153: 
+154: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+155: 
+156: To confirm the chemical structures of the METI NFMs, FTIR measurements were performed on the fibrous membranes with a reflective mode. Figure 5a reveals the FTIR spectra of the pristine NFMs without heat treatment. The carbonyl asymmetric stretching vibration peak at  $1778~\mathrm{cm}^{-1}$ , the asymmetric stretching vibration peak at  $1716~\mathrm{cm}^{-1}$ , and the C-N bond stretching vibration peak at  $1371~\mathrm{cm}^{-1}$  clearly prove the existence of the imide rings. Secondly, the phenolphthalein  $-\mathrm{C(O)} - \mathrm{O}-$  asymmetric stretching vibration peak at  $1608~\mathrm{cm}^{-1}$  and the characteristic absorption peaks of the ether bonds  $(-O-)$  at  $1234~\mathrm{cm}^{-1}$  were also detected. Since the contents of alkynyl groups  $(\mathrm{C} \equiv \mathrm{C})$  in METIs were quite low and the absorption peaks were weaker, the absorption of the  $\mathrm{C} \equiv \mathrm{C}$  groups in the wavenumber range of  $2000 - 3000~\mathrm{cm}^{-1}$  was enlarged, shown in Figure 5b. Obvious stretching vibration peaks of the substituted  $-\mathrm{C} \equiv \mathrm{C}-$  at  $2238~\mathrm{cm}^{-1}$  were detected for all METI NFMs. Visually, the intensity of the  $-\mathrm{C} \equiv \mathrm{C}-$  absorption peaks gradually decreases with increasing molecular weights for the polymers, which is mainly related to the decrease in alkynyl contents in the polymers. The above infrared absorption peaks demonstrate the successful preparation of METI NFMs.
+157: 
+158: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+159: Figure 5. FTIR spectra of METI NFMs. (a) spectra of pristine METI NFMs; (b) spectra in the wavenumber range of  $2000 - 3000\mathrm{cm}^{-1}$ ; (c) spectra of METI-10K treated at different temperatures.
+160: 
+161: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+162: 
+163: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+164: 
+165: Furthermore, the METI-10K NFM was heat-treated at different temperatures, and the FTIR spectra are shown in Figure 5c. With increasing temperatures, the characteristic absorption peaks of  $-\mathrm{C}\equiv \mathrm{C}-$  groups gradually weakened and nearly disappeared at about  $300^{\circ}\mathrm{C}$ , which was mainly due to the crosslinking of the alkynyl groups at this temperature [34]. Thus, it can be roughly determined that the crosslinking reaction for the current METI-10 NFM occurred at around  $300^{\circ}\mathrm{C}$ . Obtained by the same method, the crosslinking temperatures of METI-20K and METI-5K samples were about  $320^{\circ}\mathrm{C}$  and  $280^{\circ}\mathrm{C}$ , respectively.
+166: 
+167: # 3.3. Thermal Properties
+168: 
+169: Two methods, TGA and DSC, were used to investigate the thermal stability of the METI NFMs at elevated temperatures and the data are summarized in Table 3. Figure 6 records the TGA and derivative TGA (DTG) curves of the METI NFMs. All three METI NFMs exhibit good thermal stability up to  $450^{\circ}\mathrm{C}$ . With a further increase in temperature, the NFMs began to decompose, reaching a  $5\%$  weight-loss temperature  $(T_{5\%})$  of  $522.5^{\circ}\mathrm{C}$  for METI-5K,  $520.2^{\circ}\mathrm{C}$  for METI-10K, and  $534.8^{\circ}\mathrm{C}$  for METI-20K. From the DTG curve, it can be clearly seen that METI-10K and METI-20K samples exhibited clear two-stage thermal decomposition behaviors. The first stage occurred at about  $540^{\circ}\mathrm{C}$ , which was mainly due to the decomposition of the side-chain phthalide groups. The second stage was recorded at about  $600^{\circ}\mathrm{C}$ , which was mainly attributed to decomposition of the main chains of the polymers. Two-stage decomposition was not observed for METI-5K, which might be due to the reduced thermal resistance caused by lower molecular weights [35]. The  $700^{\circ}\mathrm{C}$  residual weight ratio  $(\mathrm{R}_{\mathrm{w}700})$  of the METI NFMs was about  $64.6 - 65.9\mathrm{wt\%}$ . As expected, METI-20K NFM, with the highest molecular weights, showed the highest  $\mathrm{R}_{\mathrm{w}700}$  value.
+170: 
+171: Table 3. Thermal properties of METI NFMs.  
+172: 
+173: <table><tr><td>Samples</td><td>T5%a(°C)</td><td>T10%a(°C)</td><td>Rw700a(wt%)</td><td>Tg1b(°C)</td><td>Tcb(°C)</td><td>Tgb(°C)</td></tr><tr><td>METI-5K</td><td>522.5</td><td>552.7</td><td>64.6</td><td>230.2</td><td>276.1</td><td>274.5</td></tr><tr><td>METI-10K</td><td>520.2</td><td>549.9</td><td>64.7</td><td>244.4</td><td>301.9</td><td>276.5</td></tr><tr><td>METI-20K</td><td>534.8</td><td>554.7</td><td>65.9</td><td>253.5</td><td>323.6</td><td>276.7</td></tr><tr><td>PI-ref</td><td>514.1</td><td>527.6</td><td>59.0</td><td>-</td><td>-</td><td>288.7</td></tr></table>
+174: 
+175: $^{\mathrm{a}}$ $\mathrm{T}_{5\%}$ :  $5\%$  weight-loss temperature;  $\mathrm{T}_{10\%}$ :  $10\%$  weight-loss temperature;  $\mathrm{R}_{\mathrm{w700}}$ : residual weight ratio at  $700^{\circ}\mathrm{C}$  in nitrogen;  ${}^{\mathrm{b}}\mathrm{T}_{\mathrm{g}1}$ : glass transition temperature without crosslinking in the first scan;  $\mathrm{T}_{\mathrm{c}}$ : crosslinking temperature.  $\mathrm{T}_{\mathrm{g}}$ : glass transition temperature after crosslinking.
+176: 
+177: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+178: Figure 6. TGA and DTG plots of METI NFMs in nitrogen atmosphere.
+179: 
+180: The curing process of the METI NFMs was further investigated by DSC measurements and the results are shown in Figure 7. As shown in Figure 7a, the METI polymers showed a clear two-stage transition process in the first heating scan. In the first stage, the polymers began melting to form endothermic peaks at  $230.2^{\circ}\mathrm{C}$ ,  $244.4^{\circ}\mathrm{C}$ , and  $253.5^{\circ}\mathrm{C}$  for METI-5K, METI-10K, and METI-20K samples, respectively. Then, with the increase in temperature, the second stages occurred at  $276.1^{\circ}\mathrm{C}$ ,  $301.9^{\circ}\mathrm{C}$ , and  $323.6^{\circ}\mathrm{C}$  for the three METI NFMs, respectively. Apparently, the second transitions were due to the alkynyl crosslinking reactions. It is worth noticing that current METI polymers exhibited crosslinking temperatures  $(T_{\mathrm{c}})$  in the range of  $280 - 320^{\circ}\mathrm{C}$ , which is nearly  $70^{\circ}\mathrm{C}$  lower than that of the conventional phenylethynyl  $(C_6H_4 - C\equiv C - C_6H_4)$  crosslinker [36]. This would undoubtedly expand the applications of "low-temperature" curable alkynyl-terminated PIs. In addition, the  $T_{\mathrm{c}}$  values of the METI NFMs increased gradually with an increase in the molecular weights of the polymers, that is, with a decrease in the alkynyl contents of the METI NFMs. Meanwhile, the endothermic peak intensities of the METI polymers also gradually weakened from METI-5K to METI-20K. The second DSC run was recorded and is shown in Figure 7b, in which the exothermic peaks of the thermally crosslinking reactions of METI NFMs all disappeared, indicating complete crosslinking in the polymers. Meanwhile, clear glass transitions were detected. The glass transition temperatures  $(T_{\mathrm{g}})$  of the three thermally crosslinked METI NFMs were  $270.5^{\circ}\mathrm{C}$  for METI-5K,  $272.0^{\circ}\mathrm{C}$  for METI-10K, and  $273.5^{\circ}\mathrm{C}$  for METI-20K. On one hand, the existence of clear glass transitions in the crosslinked polymers meant that the degrees of the crosslinking reactions for the current METI polymers were relatively low, resulting in some extent of thermoplastic features for the cured METI polymers. On the other hand, the  $T_{\mathrm{g}}$  values of the three METI polymers were a bit lower than that of the PI-ref  $(T_{\mathrm{g}} = 288.7^{\circ}\mathrm{C})$ ; however, the molecular weights of the METI polymers had little effect on the molecular segments' motion at elevated temperatures.
+181: 
+182: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+183: Figure 7. DSC diagrams of METI NFMs in nitrogen atmosphere. (a) first DSC scan; (b) second DSC scan.
+184: 
+185: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+186: 
+187: # 3.4. Adhesive Properties
+188: 
+189: Generally, the ideal bonding process for the adherends requires the adhesive to have a certain melting flowability to achieve good wettability and infiltrability between the adherends. The determination of complex viscosities and  $\mathrm{T_c}$  of the adhesives play important roles for achieving good adhesion [37]. Thus, rheological behaviors of the METI NFMs were evaluated. As shown in Figure 8a, all METIs exhibited good melting flowability, which was mainly attributed to the controlled molecular weights and also the decreased intermolecular interactions due to the incorporation of flexible ether bonds and bulky phthalide groups into the polymer molecular chains. When METI-5K, METI-10K, and METI-20K samples reached the minimum complex viscosities  $(\eta_{\mathrm{min}})$ , the corresponding temperatures  $(\mathrm{T}_{\mathrm{min}})$  were  $268.8^{\circ}\mathrm{C}$  (1413.81 Pa s),  $318.5^{\circ}\mathrm{C}$  (11,035.2 Pa s), and  $344.1^{\circ}\mathrm{C}$  (16,187.9 Pa s), respectively. At the same time, the  $\eta_{\mathrm{min}}$  values gradually decreased with ta decrease in the molecular weights of the polymers, indicating that the decreased molecular weights were beneficial for the improvement of the melting flowability of the polymers.
+190: 
+191: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+192: Figure 8. Rheological curves of three molecular weight resins: (a) METI; (b) METI and PETI.
+193: 
+194: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+195: 
+196: The rheological behaviors of the METI NFMs were further compared with the phenylethynyl-terminated (PETI) analogous materials [26] and the results are shown in Figure 8b. On one hand, the  $\mathrm{T}_{\mathrm{min}}$  values of the METIs were apparently lower than those of the PETI counterparts with the same designed molecular weights. For example, the METI-5K exhibited a  $\mathrm{T}_{\mathrm{min}}$  value of  $268.8^{\circ}\mathrm{C}$ , which was  $89.6^{\circ}\mathrm{C}$  lower than that of the PETI-5K sample  $(\mathrm{T}_{\mathrm{min}} = 358.4^{\circ}\mathrm{C})$ . From another point, the temperature required for achieving the same melting viscosity for the METI sample was also significantly lower than that of the
+197: 
+198: PETI sample. The low-temperature crosslinkable feature for the METI NFMs was helpful for the following adhesion applications.
+199: 
+200: To further explore the effects of processing temperature on the melting flowability of the METI NFMs, hot-pressing experiments were performed. The detailed evaluation procedure was reported in our previous work [26]. The double-layer fibrous membranes were placed into a heat-sealing machine, and the pressure was set to  $0.5\mathrm{MPa}$ . The hot-pressing procedure was performed at different temperatures for  $60~\mathrm{s}$ . The loading amounts of the METI NFMs on per bonded surface unit were about  $30\sim 40\mathrm{mg}$ . The SEM images of the METI NFMs after hot pressing are shown in Figures 9-11. In all three of the figures, the upper left corner of the group (b) shows the appearance of METI NFMs after hot pressing, the left side of the separating red line represents the un-heated part, and the right side is after hot pressing. It can be observed that the fibrous structures of the right part for the NFMs all gradually transformed into uniform film-like structures with increasing hot-pressing temperatures. Meanwhile, the right bi-layer fibrous membranes gradually became transparent, indicating the fusion of the two layers. This interface morphology, which is fibrous on the left and fused film on the right, can be clearly observed in the SEM images shown in Figures 9a, 10a and 11a with a relatively lower magnitude of enlargement.
+201: 
+202: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+203: Figure 9. SEM images of METI-5K NFM after hot-pressing treatment. (a)  $500 \times$ ; (b)  $4000 \times$ .
+204: 
+205: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+206: Figure 10. SEM images of METI-10K NFM after hot-pressing treatment. (a)  $500\times$ ; (b)  $4000\times$ .
+207: 
+208: For the METI-5K sample (Figure 9), when the hot-pressing temperature reached about  $290^{\circ}\mathrm{C}$ , the two NFM layers were almost completely fused into one uniform film structure; while for the METI-10K and METI-20K samples, the temperatures were  $310^{\circ}\mathrm{C}$  and  $330^{\circ}\mathrm{C}$ , respectively. The results were consistent with the rheological test results shown in Figure 8. Compared with our previous work [26], the melting temperatures of METI NFMs were greatly decreased, which was mainly attributed to the lower crosslinking temperature of flexible propynyl groups compared with the rigid phenylethynyl end-cappers. The processing temperatures for the final bonding procedures were then set as follows: METI-5K:  $290^{\circ}\mathrm{C}$ ; METI-10K:  $310^{\circ}\mathrm{C}$ ; and METI-20K:  $330^{\circ}\mathrm{C}$ .
+209: 
+210: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+211: Figure 11. SEM images of METI-20K NFM after hot-pressing treatment. (a)  $500 \times$ ; (b)  $4000 \times$ .
+212: 
+213: Finally, the single-lap shear strength (LSS) tests were used to evaluate the adhesion performance of the current METI NFMs to the stainless steel adherends [38]. The results are shown in Figure 12, and the data are summarized in Table 4. The three kinds of fibrous membrane adhesives showed good adhesion performance to the stainless steel adherends both at room temperature and at a high temperature of  $200^{\circ}\mathrm{C}$ . The LSS values were higher than  $25\mathrm{MPa}$  at room temperature and higher than  $20\mathrm{MPa}$  at  $200^{\circ}\mathrm{C}$ , and were all apparently higher than those of the PI-ref adhesive. This was due to the synergistic effects of the flexible ether linkages, phenolphthalein side chains, and the propynyl terminators. Among them, METI-10K showed the highest bonding strength  $(\mathrm{LSS}_{25} = 29.6\mathrm{MPa};\mathrm{LSS}_{200} = 26.2\mathrm{MPa})$  due to its excellent comprehensive properties, including suitable contents of alkynyl endcappers and moderate molecular weight. Furthermore, the bonding temperature for the METI-10K samples was only  $310^{\circ}\mathrm{C}$ . Compared with our previous work [26], the processing temperature of the current METI-10K decreases nearly  $70^{\circ}\mathrm{C}$  lower when compared to the analogous PETI-10K sample  $(380^{\circ}\mathrm{C})$ . The bonding strength was comparable to those of the PETI ones. This would reduce the difficulty in practical bonding fabrications and improve the bonding efficiency.
+214: 
+215: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+216: Figure 12. Lap shear strength (LSS) of electrospun METI fiber membranes for bonding stainless steel sheets.
+217: 
+218: Table 4. Bonding strength of METI NFM adhesives.  
+219: 
+220: <table><tr><td>Samples</td><td>LSS25a(MPa)</td><td>LSS200a(MPa)</td></tr><tr><td>METI-5K</td><td>27.2</td><td>23.8</td></tr><tr><td>METI-10K</td><td>29.6</td><td>26.2</td></tr><tr><td>METI-20K</td><td>26.3</td><td>22.6</td></tr><tr><td>PETI-10Kb</td><td>26.4</td><td>23.2</td></tr><tr><td>PI-ref</td><td>18.6</td><td>16.7</td></tr></table>
+221: 
+222: a  $\mathrm{LSS}_{25}$ : lap shear strength measures at  $25^{\circ}\mathrm{C}$ ;  $\mathrm{LSS}_{200}$ : lap shear strength measures at  $200^{\circ}\mathrm{C}$ ; b PETI NFM adhesive with the designed molecular weight of  $10,000\mathrm{g/mol}$  [26].

@@ -1,0 +1,37 @@
+source_file: Mass-Synthesized Solution-Processable Polyimide Gate Dielectrics for Electrically Stable Operating OFETs and I.md
+doc_id: a809d2bf210d4f02052e331d2b4c98a0
+chunk_index: 3
+block_id: b0004
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [57, 79]
+char_span: [7038, 10908]
+line_count: 21
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0004: 2. Materials and Methods) ---
+57: # 2. Materials and Methods
+58: 
+59: # 2.1. Preparation of Materials
+60: 
+61: The precursor of PI (PAA) was synthesized with pyromellitic dianhydride (PMDA, TCI Chem/Japan) and  $4,4^{\prime}$ -diaminodiphenylether (ODA, TCI Chem./Japan) following the conventional PAA synthesis method, as shown in Scheme 1a. For the synthesis of PAA, ODA and PMDA were dissolved in DMAc (TCI Chem./Japan) under dry nitrogen in an industrialized mass reactor (Figure S1) with a molar ratio of 1.000-1.005. The mixed solution was stirred at room temperature  $(\sim 20^{\circ}\mathrm{C})$  for 16 h. 2,9-didecyldinaphtho [2,3-b:2',3'-f] thieno [3,2-b] thiophene  $\left(\mathrm{C}_{10}\right.$  DNTT) was synthesized using previously reported methods [16].
+62: 
+63: # 2.2. Device Fabrication
+64: 
+65: Highly doped  $n$ -type Si wafers (resistivity  $< 0.005 \Omega \, \mathrm{cm}$ ) with thermally deposited  $300 \, \mathrm{nm} \, \mathrm{SiO}_2$  ( $\mathrm{Si} / \mathrm{SiO}_2$  wafers) produced from Namkang Hi-tech (Republic of Korea) and glass wafers (Eagle-XG) produced from iNexus. Inc. (Republic of Korea) were utilized as substrates for the material characterization and device fabrication. The wafers were clipped to a size of  $2 \times 2 \, \mathrm{cm}^2$ . Then, the wafers were cleaned with boiled acetone for  $20 \, \mathrm{min}$  and ultrasonically cleaned with acetone and isopropyl alcohol (IPA, Dasjung Chem./ Republic of Korea), each for  $30 \, \mathrm{min}$ . After these cleaning processes, the wafers were rinsed with acetone (J. T. Baker/US) and blown with nitrogen gas. To further eliminate residual contaminants on the surface, a UV-ozone cleaning process was conducted for  $20 \, \mathrm{min}$ . With these prepared Si wafers, the synthesized PAA precursor was deposited through a spin-coating process (2000 rpm for  $30 \, \mathrm{s}$ ). For the imidization of PAA, thermal annealing was conducted at  $200^{\circ} \mathrm{C}$ , as shown in Scheme 1b.
+66: 
+67: For the fabrication of OFETs and integrated circuits,  $30\mathrm{nm}$ -thick Al gate electrodes were initially deposited on the prepared glass substrates using a thermal evaporator (deposition rate  $= 20\AA \mathrm{s}^{-1}$ ; vacuum pressure  $= 10^{-6}$  Torr; substrate temperature  $= 25^{\circ}\mathrm{C}$ ). The synthesized PI layers were deposited using a previously mentioned method. Then, the fabrication of the OFETs was completed by the sequential deposition of a  $50\mathrm{nm}$  organic semiconductor ( $\mathrm{C_{10}}$ -DNTT, deposition rate  $= 0.1 - 0.2\AA \mathrm{s}^{-1}$ ; vacuum pressure  $= 10^{-6}$  Torr; substrate
+68: 
+69: temperature  $= 25^{\circ}\mathrm{C}$  and  $50\mathrm{nm}$  Au source/drain electrodes (deposition rate  $= 20\AA \mathrm{s}^{-1}$ ; vacuum pressure  $= 10^{-6}$  Torr; substrate temperature  $= 25^{\circ}\mathrm{C}$ ).
+70: 
+71: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+72: (a)  
+73: Scheme 1. (a) Synthesis of PAA precursor and (b) thermal imidization of PI layers.
+74: 
+75: # 2.3. Characterizations
+76: 
+77: The gel permeation chromatography (GPC) of the prepared solution was identified using an ACME9000/RI Detector (SHODEX KD-806/Japan/2 0.5 mL/min,  $45^{\circ}\mathrm{C}$ ). The chemical functionalities of the PI films were identified by Fourier transform infrared spectroscopy (FTIR) using a Vertex 70 v (Bruker/Germany). The surface morphologies of the dielectrics and organic semiconductors were characterized using atomic force microscopy (AFM, Bruker Multimode 8/Germany) and by collecting two-dimensional grazing-incidence Xray diffraction (2D-GIXD) data at the 9A beamline of the Pohang Accelerator Laboratory (PAL) in Korea. The electrical characteristics of the capacitor, OFET, and integrated circuits were obtained using an LCR meter (Agilent 4284A Precision LCR Meter, Keysight/US) and Keithley 4200 SCS parameter analyzer (Tektronix, Inc./US) under ambient air conditions.

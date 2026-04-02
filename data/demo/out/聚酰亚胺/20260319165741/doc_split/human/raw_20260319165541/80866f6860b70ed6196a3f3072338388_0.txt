@@ -1,0 +1,28 @@
+source_file: Multicore-shell nanofiber architecture of polyimidepolyvinylidene fluoride blend for thermal and long-term sta.md
+doc_id: 80866f6860b70ed6196a3f3072338388
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: SCIENTIFIC REPORTS
+line_span: [1, 14]
+char_span: [0, 247]
+line_count: 12
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0001: SCIENTIFIC REPORTS) ---
+1: [MINERU_DISCARDED_META]
+2: www.nature.com/scientificreports
+3: SCIENTIFIC REPORTS | 6:36977 | DOI: 10.1038/srep36977
+4: [/MINERU_DISCARDED_META]
+5: 
+6: # SCIENTIFIC REPORTS
+7: 
+8: OPEN
+9: 
+10: Received: 26 July 2016  
+11: Accepted: 24 October 2016  
+12: Published: 11 November 2016

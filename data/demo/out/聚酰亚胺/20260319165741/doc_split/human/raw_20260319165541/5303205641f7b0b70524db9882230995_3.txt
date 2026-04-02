@@ -1,0 +1,135 @@
+source_file: Organic鈥揑norganic Double-Gel System Thermally Insulating and Hydrophobic Polyimide Aerogel.md
+doc_id: 5303205641f7b0b70524db9882230995
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [91, 211]
+char_span: [13251, 32916]
+line_count: 119
+effective_body_non_empty_lines: 62
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+91: # 3. Results and Discussion
+92: 
+93: # 3.1. Amino-Modified  $\mathsf{SiO}_2@\mathsf{GO}$  ( $\mathsf{SiO}_2@\mathsf{GO}-\mathsf{NH}_2$ ) Wet Gel
+94: 
+95: The preparation process of  $\mathrm{SiO}_2@GO-NH_2$  wet gel is shown in Figure 1a. The SEM image in Figure 2b shows uniform accumulation of silica particles on the graphene sheets, indicating that the silica in the wet gel system is grown diffusively as nano-spheres with graphene as the base. FT-IR spectra of  $\mathrm{SiO}_2@GO-NH_2$  gels prepared by the above experimental scheme, and general  $\mathrm{SiO}_2@GO$  gels with the replacement of 3APTES with ammonia, are shown in Figure 1c. The peaks of both spectra contain -OH ( $3400\mathrm{~cm}^{-1}$ ), C=C ( $1630\mathrm{~cm}^{-1}$ ), and C=O (1350 and  $1230\mathrm{~cm}^{-1}$ ) from GO, Si-O-Si-( $1090\mathrm{~cm}^{-1}$ ),  $\mathrm{SiO}_2$ , and Si-O-C ( $1130\mathrm{~cm}^{-1}$ ), which represents the interaction between  $\mathrm{SiO}_2$  and GO. In addition to the peaks shared in  $\mathrm{SiO}_2@GO-NH_2$ ,  $-NH_2$  ( $3260\mathrm{~cm}^{-1}$ ) and C-N ( $1220\mathrm{~cm}^{-1}$ ) are also present. Such data indicate that 3ATPES underwent hydrolysis and co-growth with  $\mathrm{SiO}_2$  nano-spheres during the sol-gel process in the alcohol-water system. This co-growth process also serves to amino-modify the silica nano-spheres by functionalization through 3APTES [37].
+96: 
+97: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+98: 
+99: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+100: 
+101: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+102: Figure 1. (a) Preparation process of  $\mathrm{SiO}_2@\mathrm{GO-NH}_2$  wet gel. (b) SEM images of GO and  $\mathrm{SiO}_2@\mathrm{GO-NH}_2$ . (c) FT-IR spectra of  $\mathrm{SiO}_2@\mathrm{GO}$  and  $\mathrm{SiO}_2@\mathrm{GO-NH}_2$ .
+103: 
+104: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+105: a
+106: 
+107: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+108: b
+109: 
+110: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+111: 
+112: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+113: Figure 2. (a) Preparation process of double-gel PI aerogel. (b) A set of PI aerogels was prepared using custom molds, demonstrating the scalability of the preparation process. (c–g) SEM images of PI-0, PI-0.5, PI-1, PI-1.5, and PI-2. (h) Another SEM image and (i-l) EDS maps of PI-1.5 in the same area.
+114: 
+115: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+116: 
+117: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+118: 
+119: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+120: 
+121: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+122: 
+123: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+124: 
+125: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+126: 
+127: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+128: 
+129: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+130: 
+131: # 3.2. Preparation of PI Aerogel with Inorganic-Organic Double-Gel System
+132: 
+133: The preparation process of the PI aerogel is shown in Figure 2a. Specifically, this was to form a uniformly dispersed  $\mathrm{SiO}_2@GO-NH_2$  system from controlled quality  $\mathrm{SiO}_2@GO-NH_2$  gel in water, using high-speed stirring and ultrasonic treatment. Figure 2b shows the excellent processing properties of this aerogel preparation method, which can form finer and special structures with different molds. Figure 2c-h show typical SEM photographs of various PI aerogels. PI-1 to PI-2 formed a unique honeycomb, showing the limiting effect of the  $\mathrm{SiO}_2@GO-NH_2$  inorganic gel network on synergistic growth of the ice crystal/PAA linkage [38]. For comparison, PI-0 and PI-0.5 displayed a larger needle-like pore structure due to the spontaneous growth of polymer chains in the direction of the ice crystal growth edge during the freezing process. Typically,  $\mathrm{SiO}_2@GO-NH_2$  wet gel introduced in the PI-0.5 system is not enough to form an inorganic gel network, making the microstructure more similar to that of PI-0. The large pore size exhibited in PI-0 and PI-0.5 proves the difficulty of controlling the microscopic scale of polyimide aerogels prepared using the general freeze-drying method. In particular, the pores of PI-2 showed a lot of merging and fragmentation. The abnormal properties of PI-2 might be caused by the excessive addition of  $\mathrm{SiO}_2@GO-NH_2$  providing an overdose limiting effect, making it more difficult to form a stable honeycomb structure [39].
+134: 
+135: The elemental distribution on the microscopic scale of PI-1.5 was measured and analyzed using EDS. The results showed uniformity of the elements, while the microstructure of the original aerogel can still be observed in the images of each element, especially Si. The results observed by EDS demonstrate the homogeneity of the double-gel system, which means that the PI and the  $\mathrm{SiO}_2@\mathrm{GO-NH}_2$  form the aerogel honeycomb structure on the nanoscale together.
+136: 
+137: # 3.3. Chemical Structure of PI Aerogel
+138: 
+139: The ATR-FTIR infrared spectra of the aerogel materials are shown in Figure 3a. The strong characteristic peaks at 1774 and  $1710~\mathrm{cm}^{-1}$  occurring on all spectra are attributed to the symmetric and asymmetric stretching of the  $\mathrm{C = O}$  group of the imide double bond. The peak at  $1375~\mathrm{cm}^{-1}$  is attributed to the C-N stretching vibration, and a  $\mathrm{C = C}$  stretching vibration at  $1495~\mathrm{cm}^{-1}$  was also observed. It can be concluded that the doping of  $\mathrm{SiO}_2@GO\mathrm{-NH}_2$  and the double-gel network structure do not affect the chemical process of PI formation by imidization of PAA [40,41]. Figure 3b shows typical XRD data for each PI aerogel. All PI aerogels display characteristic polyimide amorphous structure peaks, but PI-0 and PI-0.5 have higher peak heights compared to other samples, which is related to the oriented structure formed during the aerogel and preparation process [42]. This also proves that the introduction of the  $\mathrm{SiO}_2@GO\mathrm{-NH}_2$  gel changes the overall structure of polyimide aerogels.
+140: 
+141: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+142: Figure 3. (a) FTIR-ATR spectra and (b) X-ray diffraction patterns of PI-0, PI-0.5, PI-1, PI-1.5, and PI-2.
+143: 
+144: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+145: 
+146: Figure 4a shows the Raman spectra of PI-0, PI-0.5, and PI-1.5. All three spectra exhibited bright fluorescent signals, and the spectral bands around  $1340~\mathrm{cm}^{-1}$  can be attributed to the C-N stretching vibration, around  $1590~\mathrm{cm}^{-1}$  to the ring vibration of PI, and around  $1740~\mathrm{cm}^{-1}$  to the stretching vibration of  $\mathrm{C = O}$  from PI and GO [43,44]. This may be caused by the convergence of the D-band of rGO ( $1330~\mathrm{cm}^{-1}$ ) and C-N stretching vibration ( $1340~\mathrm{cm}^{-1}$ ) with each other, the overlap of the G-band of rGO ( $1560~\mathrm{cm}^{-1}$ ) and the ring vibration of PI ( $1590~\mathrm{cm}^{-1}$ ), and the enhancement of the peak signal with an increase in the  $\mathrm{SiO}_2@GO-NH_2$  [45]. This evidence demonstrates the close association between PI chains and  $\mathrm{SiO}_2@GO-NH_2$  within aerogels.
+147: 
+148: To further verify the chemical bond structure and elemental composition of the aerogel material, XPS was used to analyze the PI-0 and PI-1.5 materials. The peaks of Si 2p can be deconvoluted into two groups of sub-bands, assigned to O-Si-O (102.9 eV) and O-Si-C (101.2 eV), representing the amino-modification by 3ATPES [37,46-48].
+149: 
+150: The solid-state  $^{13}\mathrm{C}$  NMR further reveals the chemical structure described by the previous characterizations. The peaks at 118, 123, and  $136~\mathrm{ppm}$  belong to graphene and aromatic carbon peaks on the PI chains [49]. The peak at  $165~\mathrm{ppm}$  belongs to the carbonyl carbon [50]. The peaks at 155 and  $158~\mathrm{ppm}$ , except for the observed double peaks, belong to aromatic carbon forming ether bonds on the PI chains, which are slightly shifted due to their chemical environment [51]. The peaks at 155 and  $158~\mathrm{ppm}$  belong to aromatic carbons forming ether bonds in the PI chains.
+151: 
+152: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+153: 
+154: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+155: 
+156: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+157: Figure 4. (a) Raman spectra of PI-0, PI-0.5, and PI-1.5. (b) XPS and (c) Si 2p spectra of PI-0 and PI-1.5. (d) Solid-state  $^{13}\mathrm{C}$  NMR spectra of the PI-1.5; * indicates peaks from spinning sidebands.
+158: 
+159: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+160: 
+161: # 3.4. Properties of PI Aerogel
+162: 
+163: In practical applications, mechanical properties are often the key element in measuring the performance of aerogels. The densities of aerogels were acquired by averaging the results of three measurements of a  $10\mathrm{mm}\times 10\mathrm{mm}\times 10\mathrm{mm}$  sized PI aerogel. In this way, we further obtained the specific moduli data of PI aerogels. Although it is generally believed that limited  $\mathrm{SiO}_2$  nanoparticles can improve the mechanical properties of polymeric materials to a certain extent, an excess can also lead to a decrease in mechanical properties [52,53]. This is because the addition of more  $\mathrm{SiO}_2$  leads to agglomeration of nanoparticles due to van der Waals forces and electrostatic adsorption, resulting in stress concentration between the  $\mathrm{SiO}_2$  and the polymer interface [54]. Although a large amount of  $\mathrm{SiO}_2@GO-NH_2$  was added into the system during the preparation of the PI aerogel in this study, the specific modulus of the original PI-1.5 sample still reached a relatively superior  $46.19~\mathrm{m}^2/\mathrm{s}^2$  while maintaining a low density  $(0.0441~\mathrm{g/cm}^3)$ . There are several reasons for this: (1) the high dispersion of  $\mathrm{SiO}_2@GO-NH_2$ , (2) amino groups led to  $\mathrm{SiO}_2@GO-NH_2$  providing crosslinking sites and enhancing material compatibility, (3) the loading effect played by GO, and (4) the improvement in the structural properties of the given substrate by the silica-containing network [39,55]. As shown in Figure 5a, PI-0 and PI-0.5 samples have similar stress-strain curves, probably due to the similarity in microstructure. With the improvement in microstructure, the Young's moduli of the PI-1 and PI-1.5 samples are greatly enhanced. Interestingly, the two groups of aerogels are still maintained in the linear elastic region when strain exceeds  $40\%$ . Then, there is a sharp increase in the platform strain behavior and the densification state. This can be attributed to the energy dissipation effect of the cross honeycomb material and graphene with good toughness values [56]. However, the linear elastic region of PI-2 produces a certain decrease with damage to the microstructure and stress concentration, caused by excessive doping.
+164: 
+165: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+166: a
+167: 
+168: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+169: 
+170: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+171: b
+172: 
+173: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+174: 
+175: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+176: C
+177: 
+178: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+179: d  
+180: Figure 5. (a,b) The stress-strain curves, (c) Young's moduli, (d) specific moduli, and densities of PI-0, PI-0.5, PI-1, PI-1.5, and PI-2.
+181: 
+182: As a representative of heat-resistant polymers, PI aerogels should maintain good performance even after the influence of high temperatures. The PI aerogel was heat-treated at a constant temperature of  $200^{\circ}\mathrm{C}$  in the air for  $24\mathrm{h}$  to investigate the property retention of PI aerogel after long-time heat treatment. The stress-strain curves of the heat-treated aerogels shown in Figure 5b, and the Young's moduli, specific moduli, and density data of the two sets of aerogels were statistically analyzed accordingly and are summarized in Figure 5c,d. It is not difficult to see that the moduli and specific moduli of polyimide aerogels decreased after heat treatment, created by the relaxation of internal stress and the destruction of the microstructure of polyimide aerogels after heat treatment [57]. However, PI-1.5 still
+183: 
+184: maintains a good Young's modulus (1.89 MPa) and specific modulus (41.21 m²/s²), which proves its durability and mechanical property retention under a long-term thermal environment. PI-1.5 produces huge mechanical property improvement compared with PI-1, based on the increase in filler content for polymeric materials, with constant microstructure and uniform dispersion of fillers [58]. Toughening is achieved. The Young's modulus of PI-2 (2.26 MPa) in PI aerogel preserved at room temperature without heat treatment improves compared with PI-1.5 (2.04 MPa). With an increase in density due to destruction of the microstructure ( $\rho_{\mathrm{PI - 2}} = 0.0536 \, \mathrm{g/cm}^3$ ), the specific modulus of PI-2 (42.23 m²/s²) was shown to decrease. Instead, the Young's modulus of PI-1.5 and PI-2 (1.97 MPa) became closer after heat treatment. The stress-strain curves showed that the heat-treated PI-2 samples could also be maintained in the linear elastic region at more than 40% of the strain, further indicating the relaxation effect of heat treatment on the concentration of internal stress in the aerogel material.
+185: 
+186: Thermal insulation is an essential indicator of the energy efficiency of PI aerogels. The thermal resistance analysis of the aerogel material is exhibited in Figure 6. The PI-1.5 aerogel exhibited superior thermal resistance in the original state (0.0309 W/m·K) and after heat treatment (0.0328 W/m·K). The PI-1.5 aerogel exhibits competitive thermal conductivity in comparison with other similar PI aerogel/foam materials (Xue et al. 0.036 W/m·K [39], Zhang et al. 0.0311 W/m·K [51], and Jiang et al. 0.04106 W/m·K [59]). As shown in Figure 6a, the flowers placed on top of PI-1.5 showed no significant dehydration after 15 min of burning using an alcohol burner flame. The introduction of graphene generally leads to an increase in the thermal conductivity of the system, with the wrapping of graphene using  $\mathrm{SiO}_2$  preventing the formation of thermal pathways between graphene, thus eliminating its thermal conductivity [60,61]. The dispersion interval of the thermal resistance test data of the PI-0 sample has a larger error interval compared to that of the other samples, which may be due to the large pore size of the PI-0 sample. Unlike the similarity of mechanical properties, the thermal resistance of PI-0.5 (original: 0.0387 W/m·K; after heat treatment 0.0390 W/m·K) is much better than PI-0 (original: 0.0426 W/m·K; after heat treatment: 0.0425 W/m·K). The uniform dispersion of the inorganic gel phase in the aerogel system forms a  $\mathrm{PI / SiO_2 / GO}$  multilayer interface, which enhances the thermal resistance (Kapitza thermal resistance) [62]. The thermal resistance of PI-1 (original: 0.0332 W/m·K; after heat treatment: 0.0344 W/m·K) and PI-1.5 increased significantly compared to other aerogels, suggesting that the double-gel system improves the density and microscopic pore structure of the aerogel system. The increased content of  $\mathrm{SiO}_2@\mathrm{GO-NH}_2$  enhanced the Kapitza thermal resistance of the system. As shown in Figure 6d, the infrared images of PI-0 and PI-1.5 are obtained by cutting the original aerogel samples into cylindrical test samples of  $2\mathrm{cm}$  in height and  $2\mathrm{cm}$  in diameter, and then placing them on a  $200^{\circ}\mathrm{C}$  heating stage for  $60\mathrm{min}$  and photographing them using an infrared camera. PI-1.5 shows much slower thermal diffusion than PI-0, and the thermal resistance is consistent. The superior thermal and mechanical properties make the PI aerogel in this study a possible solution for construction, energy, and other applications [16].
+187: 
+188: The thermal properties of PI aerogels are discussed further by thermogravimetric analysis. The TGA data of PI aerogels were tested and analyzed, and are shown in Figure 7. PI-0 and PI-0.5 showed similar weight loss changes at  $0 - 500^{\circ}\mathrm{C}$  and the curves of both almost overlapped. The aerogel microstructure and other factors produce improvement with the addition of  $\mathrm{SiO}_2@\mathrm{GO-NH}_2$ , causing decreased weight loss rates of PI-1 and PI-1.5 at  $0 - 500^{\circ}\mathrm{C}$  compared to PI-0 and PI-0.5. The decomposition temperatures of PI-0, PI-0.5, PI-1, and PI-1.5 were 522.45, 539.30, 548.88, and  $543.80^{\circ}\mathrm{C}$ , respectively, when the weight loss reached  $5\%$  in the Ar atmosphere. While in the air, they were 384.03, 440.55, 457.22, and  $496.03^{\circ}\mathrm{C}$ . The improvement in thermal stability demonstrates the strong interaction between organic and inorganic components in the double-gel system [63]. In contrast, the weight loss rate and decomposition temperature ( $392.12^{\circ}\mathrm{C}$  in Ar atmosphere and  $248.35^{\circ}\mathrm{C}$  in Air atmosphere) of the PI-2 aerogel at  $0 - 500^{\circ}\mathrm{C}$  produced a considerable
+189: 
+190: decrease, indicating that the excess  $\mathrm{SiO}_2@GO-NH_2$  for the disruption of the microstructure of the PI aerogel instead reduced the thermal stability of the aerogel [64].
+191: 
+192: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+193: 
+194: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+195: 
+196: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+197: 
+198: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+199: Figure 6. (a) PI-1.5 and flowers on the flame of the alcohol burner for  $15\mathrm{min}$ . (b,c) Thermal conductivity of PI-0, PI-0.5, PI-1, PI-1.5, and PI-2 before and after heat treatment. (d) Infrared photo of PI-0 and PI-1.5 placed on a  $200^{\circ}\mathrm{C}$  heating stage for  $60\mathrm{min}$ .
+200: 
+201: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+202: Figure 7. TGA curves of PI-0, PI-0.5, PI-1, PI-1.5, and PI-2 under (a) Ar and (b) air atmosphere.
+203: 
+204: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+205: 
+206: If the PI aerogel can absorb moisture from the environment, the thermal insulation property could also reduce. As shown in Figure 8, the hydrophobicity of the PI aerogel was studied by measuring the water contact angle. Due to the capillarity caused by the poor microscopic structure of PI-0, the PI-0 aerogel absorbed all the tested droplets, indicating intrinsic hydrophilicity. The PI-0.5 sample had a water contact angle of  $27.03^{\circ}$ , indicating that the  $\mathrm{SiO}_2@GO-NH_2$  gel could provide the hydrophobicity of the PI aerogel. The water contact angle of PI-1 and PI-1.5 produced a tremendous leap. More specifically, the water contact angle of PI-1.5 reached  $131.55^{\circ}$ , which testifies to its high hydrophobicity. The controlled pore structure of aerogels allows an increase in surface roughness, thus improving the hydrophobicity of the aerogel surface. However, with heat treatment, the water contact angles of the PI aerogels all decreased. The increasing hydrophilicity can be attributed to the introduction of oxygen-containing functional groups or changes in the microstructure [12,65].
+207: 
+208: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+209: Figure 8. Contact angle data of PI-0, PI-0.5, PI-1, PI-1.5, and PI-2.

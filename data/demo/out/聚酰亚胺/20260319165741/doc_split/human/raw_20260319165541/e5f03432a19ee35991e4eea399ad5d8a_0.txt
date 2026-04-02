@@ -1,0 +1,60 @@
+source_file: Comparison of Properties of Colorless and Transparent Polyimide Nanocomposites Containing Chemically Modified .md
+doc_id: e5f03432a19ee35991e4eea399ad5d8a
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Comparison of Properties of Colorless and Transparent Polyimide Nanocomposites Containing Chemically Modified Nanofillers: Functionalized-Graphene and Organoclay
+line_span: [1, 46]
+char_span: [0, 3018]
+line_count: 44
+effective_body_non_empty_lines: 27
+
+lines:
+--- chunk (b0001: Comparison of Properties of Colorless and Transparent Polyimide Nanocomposites Containing Chemically Modified Nanofillers: Functionalized-Graphene and Organoclay) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2022, 14, 2469. https://doi.org/10.3390/polym14122469
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Comparison of Properties of Colorless and Transparent Polyimide Nanocomposites Containing Chemically Modified Nanofillers: Functionalized-Graphene and Organoclay
+11: 
+12: Seon Ju Lee  $^{1}$ , Moon Young Choi  $^{1}$ , Lee Ku Kwac  $^{1,2}$ , Hong Gun Kim  $^{1,2}$  and Jin-Hae Chang  $^{2,*}$
+13: 
+14: 1 Graduate School of Carbon Convergence Engineering, Jeonju University, Jeonju 55069, Korea; qaz5515@naver.com (S.J.L.); ansdud2303@naver.com (M.Y.C.); kwac29@jj.ac.kr (L.K.K.); hkim1125@hanmail.net (H.G.K.)  
+15: 2 Institute of Carbon Technology, Jeonju University, Jeonju 55069, Korea  
+16: * Correspondence: changjinhae@hanmail.net
+17: 
+18: Abstract: Poly(amic acid) (PAA) was synthesized from dianhydride 4,4-(4,4-isopropylidenediphenoxy) bis(phthalic anhydride) and diamine bis [4-(3-aminophenoxy) phenyl] sulfone. Colorless and transparent polyimide (CPI) hybrid films were synthesized through thermal imidization after dispersing nanofillers using an intercalation method in a PAA solution. C16-GS and C16-MMT, in which hexadecylamine (C16) was substituted on graphene sheet (GS) and montmorillonite (MMT), respectively, were used as nanofillers to reinforce the CPI hybrid films. These two nanofillers were admixed in varying loadings of 0.25 to  $1.00\mathrm{wt}\%$  and the morphology, thermal properties, and optical transparency of the hybrid films were investigated and compared. The results suggest that the thermal properties of the CPI hybrid films can be improved by adding only a small amount of nanofiller. Transmission electron microscopy results of the CPI hybrid film containing two types of fillers suggested that the fillers were well dispersed in the nano-size in the matrix polymer; however, some of the fillers were observed as agglomerated particles above the critical concentration of  $0.50\mathrm{wt}\%$ .
+19: 
+20: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+21: 
+22: Citation: Lee, S.J.; Choi, M.Y.; Kwac, L.K.; Kim, H.G.; Chang, J.-H.
+23: 
+24: Comparison of Properties of Colorless and Transparent Polyimide Nanocomposites Containing   
+25: Chemically Modified Nanofillers: Functionalized-Graphene and   
+26: Organoclay.Polymers 2022,14,2469.   
+27: https://doi.org/10.3390/   
+28: polym14122469
+29: 
+30: Academic Editor: Marcelo Antunes
+31: 
+32: Received: 26 May 2022
+33: 
+34: Accepted: 14 June 2022
+35: 
+36: Published: 17 June 2022
+37: 
+38: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+39: 
+40: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+41: 
+42: Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+43: 
+44: Keywords: colorless and transparent polyimide; nanocomposite; film; poly(amic acid); thermal imidization

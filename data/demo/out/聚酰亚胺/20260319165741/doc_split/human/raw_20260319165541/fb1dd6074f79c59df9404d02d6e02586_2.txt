@@ -1,0 +1,19 @@
+source_file: Molecular Weight and Gas Separation Performance of Polyimide Membrane Insight into Role of Imidization Route.md
+doc_id: fb1dd6074f79c59df9404d02d6e02586
+chunk_index: 2
+block_id: b0003
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: ACKNOWLEDGMENT
+line_span: [218, 222]
+char_span: [32919, 33052]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0003: ACKNOWLEDGMENT) ---
+218: # ACKNOWLEDGMENT
+219: 
+220: This work is supported by MOHE Fundamental Research Grant Scheme FRGS/1/2017/TK02/USM/02/3(203.PJ KIMIA.6071367).

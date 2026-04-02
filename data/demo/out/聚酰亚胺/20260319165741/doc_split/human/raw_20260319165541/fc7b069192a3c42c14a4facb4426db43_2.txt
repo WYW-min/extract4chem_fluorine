@@ -1,0 +1,60 @@
+source_file: Electrospun Semi-Alicyclic Polyimide Nanofibrous Membrane High-Reflectance and High-Whiteness with Superior Th.md
+doc_id: fc7b069192a3c42c14a4facb4426db43
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [55, 100]
+char_span: [11722, 20083]
+line_count: 44
+effective_body_non_empty_lines: 19
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+55: # 2. Materials and Methods
+56: 
+57: # 2.1.Materials
+58: 
+59: 3,4-Dicarboxy-1,2,3,4,5,6,7,8-decahydro-1-naphthalenesuccinic dianhydride or hydrogenated tetralin dianhydride (HTDA) was kindly supplied by Newera Kesense New Materials Co. Ltd., Shandong, China and dried at  $150^{\circ}\mathrm{C}$  in vacuo for  $24\mathrm{h}$  prior to use. Pyromellitic anhydride (PMDA) was obtained from HOPE Co. Ltd. (Shijiazhuang, China) and dried at  $180^{\circ}\mathrm{C}$  in vacuo for  $24\mathrm{h}$  prior to use.  $4,4^{\prime}$ -Oxydianiline (ODA) and  $2,2^{\prime}$ -bis[(4-aminophenoxy)phenyl]hexafluoropropane (BDAF) were purchased from Tokyo Chemical Industry (TCI) (Tokyo, Japan) and used as received. Polystyrene (PS, average molecular weight:  $35,000\mathrm{g mol}^{-1}$ ) was purchased from Sigma-Aldrich (Shanghai, China) and used as received.  $N,N$ -Dimethylacetamide (DMAc),  $N,N$ -dimethylformamide (DMF),  $\gamma$ -butyrolactone (GBL), and other solvents were purchased from Beijing Yili Fine Chemicals (Beijing, China) and purified by distillation prior to use. The other commercially available reagents were used without further purification.
+60: 
+61: # 2.2. Measurements
+62: 
+63: Inherent and absolute viscosities of the PI (HTDA-BDAF) resin were tested with an Ubbelohde viscometer (As-one, Osaka, Japan) with a  $0.5\mathrm{g}\mathrm{dL}^{-1}$  NMP solution at  $25^{\circ}\mathrm{C}$  and a Brookfield DV3TRVCP viscometer (Middleboro, MA, USA) at  $25^{\circ}\mathrm{C}$ , respectively. Molecular weights of the PI resin, including number average molecular weight  $(Mn)$  and weight average molecular weight  $(Mw)$ , were tested via a gel permeation chromatography (GPC) system (Shimadzu, Kyoto, Japan). The solubility of the PI resin in organic solvent was detected by immersing  $1.0\mathrm{g}$  of the PI resin into  $9.0\mathrm{g}$  of the tested solvent with a solid content of  $10\mathrm{wt}\%$ . The mixture was stirred at room temperature for  $24\mathrm{h}$ . Then, the solubility behaviors of the PI resin in the solvent were classified visually as three grades: completely soluble  $(++)$ , partially soluble  $(+-)$ , and insoluble  $(-)$ .
+64: 
+65: An Iraffinity-1S FT-IR spectrometer (Shimadzu, Kyoto, Japan) was used to test the attenuated total reflectance-Fourier-transform infrared (ATR-FTIR) spectra of the PI NFM. A Hitachi U-3210 spectrophotometer (Tokyo, Japan) was used to test the ultraviolet-visible (UV-Vis) reflectance spectra of the PI NFMs. A JSM-6700F (JEOL, Tokyo, Japan) field
+66: 
+67: emission scanning electron microscopy (FE-SEM) system with an accelerating voltage of  $15\mathrm{kV}$  was used to observe the micro-morphologies of the PI NFMs. An X-rite color i7 spectrophotometer (Grand Rapids, Michigan, USA) was used to determine the CIE Lab optical parameters of the PI NFMs according to ASTM D1925 "Test method for yellowness index of plastics."  $L^{*}$  is the lightness, where 100 is white and 0 is black; a positive  $a^{*}$  indicates a red color and a negative one indicates a green color; a positive  $b^{*}$  indicates a yellow color and a negative one indicates a blue color. The whiteness values (WI) of the PI membranes were calculated with Equation (1) [26].
+68: 
+69: $$
+70: W I = 1 0 0 - \left[ (1 0 0 - L ^ {*}) ^ {2} + a ^ {* 2} + b ^ {* 2} \right] ^ {1 / 2} \tag {1}
+71: $$
+72: 
+73: where  $WI$  stands for whiteness,  $L^{*}$  stands for index of lightness, and  $a^{*}$  and  $b^{*}$  stand for chromaticity coefficient.
+74: 
+75: A TA-Q50 thermal analysis system (New Castle, Delaware, USA) was used to perform the thermogravimetric analysis (TGA) at a heating rate of  $20^{\circ}\mathrm{C}\mathrm{min}^{-1}$  in nitrogen. A TA-Q 100 thermal analysis system (New Castle, Delaware, USA) was used to test the differential scanning calorimetry (DSC) of the PI NFMs at a heating rate of  $10^{\circ}\mathrm{C}\mathrm{min}^{-1}$  in nitrogen.
+76: 
+77: The UV-LED aging test was performed with a UV-LED (wavelength:  $365\mathrm{nm}$ ) system (Model: IMS-811A-0606, IUVOT Co. Ltd. Jiangsu, China) with the conditions shown in Figure 1. The distance between the UV-LED array source and the polymers, including PI and the referenced polystyrene (PS) NFM samples, was controlled to be  $7.0 \pm 0.5\mathrm{cm}$  in order to avoid the heat impact of the UV source on the thermally unstable PS sample. The UV exposure time was set to be  $30\mathrm{min}$  (total exposure doze:  $\sim2670\mathrm{J/cm}^2$ ).
+78: 
+79: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+80: Figure 1. UV-LED exposure apparatus and measurement conditions.
+81: 
+82: # 2.3. Synthesis of PI Resin
+83: 
+84: Into a  $250~\mathrm{mL}$  three-necked flask equipped with a mechanical stirrer and a nitrogen inlet, the diamine BDAF  $(5.1845\mathrm{g}, 0.01\mathrm{mol})$  was first dissolved in newly distilled DMAc  $(20\mathrm{g})$ . Then, the dianhydride HTDA  $(3.0631\mathrm{g}, 0.01\mathrm{mol})$  and additional DMAc  $(4.7\mathrm{g})$  were added into the homogeneous diamine solution, producing a reaction system with a solid content of  $25\mathrm{wt}\%$ . After stirring at room temperature for  $24\mathrm{h}$ , a mixture of acetic anhydride  $(5.1\mathrm{g}, 0.05\mathrm{mol})$  and pyridine  $(3.2\mathrm{g}, 0.04\mathrm{mol})$  was then added. The reaction solution was stirred at room temperature for another  $24\mathrm{h}$ . Then, the obtained viscous solution was carefully poured into an excess of ethanol to yield white resin. The resin was filtered and dried at  $80^{\circ}\mathrm{C}$  in vacuum for  $24\mathrm{h}$  (Yield:  $\sim96\%$ ). The well-dried PI resin was redissolved into DMAc with a solid content of  $10\mathrm{wt}\%$ . Then, the PI solution was filtered through a  $0.45\mu\mathrm{m}$  Teflon filter to remove any impurities. Next, the PI solution was slowly poured into the highly pure ethanol to afford the PI resin.
+85: 
+86: FTIR  $(\mathrm{cm}^{-1})$  : 2931, 1782, 1712, 1601, 1502, 1383, 1242, 1203, 1171, 1016, 968, 930, and 829.  $^{1}\mathrm{H}$  NMR (DMSO-  $d_{6}$ , ppm): 7.39-7.38 (m, 4H), 7.30-7.29 (m, 4H), 7.23-7.21 (m, 4H),
+87: 
+88: 7.15-7.13 (m, 4H), 3.18-3.16 (m, 1H), 3.08-3.01 (m, 1H), 2.91-2.85 (m, 1H), 2.32-2.15 (m, 3H), 2.02-1.92 (m, 2H), 1.78-1.67 (m, 2H), and 1.58-1.05 (m, 8H).
+89: 
+90: # 2.4. Fabrication of PI NFM via Electrospinning
+91: 
+92: Four PI NFMs (PI-1~PI-4) were fabricated via the electrospinning procedure with the tailored solid contents of the PI solutions, the electrospinning voltage, and the inner diameters (IDs) of the spinnerets, as shown in Table 1. Four PI membranes with different micro-morphologies and fiber diameters were prepared by adjusting the solution and electrospinning parameters. The four PI NFMs were denoted as PI-1, PI-2, PI-3, and PI-4, respectively, as shown in Table 1. The fully dried PI (HTDA-BDAF) resin was dissolved in DMAc at room temperature with different solid contents of  $25 - 35\mathrm{wt}\%$  to obtain the electrospinning solution. The PI solution was loaded into a  $5\mathrm{mL}$  syringe and squeezed out through a spinneret by a syringe pump at a speed of  $0.2\mathrm{mL / h}$ . The ID values of the spinneret were 0.21 or  $0.50\mathrm{mm}$ . Different voltages of  $12 - 18\mathrm{kV}$  were applied between the syringe and the rolling drum collector. The distance between the spinneret and the collector (alumina foil) was  $15\mathrm{cm}$ . Random aligned PI fibers were deposited on the aluminum foil located on the rotating drum collector (speed:  $200\mathrm{rpm}$ ). The temperature and relative humidity during electrospinning were fixed at about  $20 \pm 2^{\circ}\mathrm{C}$  and  $30 \pm 5\%$ , respectively.
+93: 
+94: Table 1. Electrospinning parameters of PI NFMs.  
+95: 
+96: <table><tr><td></td><td>Solid Content (wt%)</td><td>Voltage Supply (kV)</td><td>Spinneret ID (mm)</td></tr><tr><td>PI-1</td><td>25</td><td>12</td><td>0.50</td></tr><tr><td>PI-2</td><td>30</td><td>15</td><td>0.50</td></tr><tr><td>PI-3</td><td>30</td><td>15</td><td>0.21</td></tr><tr><td>PI-4</td><td>35</td><td>18</td><td>0.50</td></tr></table>
+97: 
+98: The electrospinning parameters of the polystyrene (PS) NFM were the same as those mentioned above. For comparison, a poly(pyromellitic dianhydride-co-4,4'-oxydianiline) (PI-ref, PMDA-ODA) NFM was prepared via a two-step electrospinning procedure with soluble poly(amic acid) (PAA) as a starting material, followed by the high-temperature imidization procedure up to  $350^{\circ}\mathrm{C}$  [28].

@@ -1,0 +1,38 @@
+source_file: Atomic Oxygen-Resistant Polyimide Composite Films Containing Nanocaged Polyhedral Oligomeric Silsesquioxane Co.md
+doc_id: b037a535df732e8934bf61f9b9ad2a01
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [36, 59]
+char_span: [4318, 11027]
+line_count: 22
+effective_body_non_empty_lines: 12
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+36: # 1. Introduction
+37: 
+38: Research on the improvement of the atomic oxygen (AO)-resistant properties of standard polyimide (PI) films have become one of the most important topics in the development of high-performance polymer materials for low earth orbit (LEO) spacecraft [1-3]. The standard PI films, such as poly(pyromellitic dianhydride-4,4'-oxydianiline)  $(\mathrm{PI}_{\mathrm{PMDA - ODA}})$ , trademark: Kapton®, Dupont, DE, USA), poly(3,3',4,4'-biphenyltetracarboxylic dianhydride-1,4-phenylenediamine)  $(\mathrm{PI}_{\mathrm{BPDA - PDA}})$ , trademark: Upilex-S®, Ube, Japan) have been widely used in spacecraft due to their excellent combined properties, including good thermal resistance,
+39: 
+40: excellent radiation resistance, good mechanical properties, and so on [1]. However, they are usually subject to AO erosion with an erosion yield at the level of  $10^{-24}\mathrm{cm}^3/$  atom in LEO space environments [4-6]. This means that the PI film designed and served as the protecting layers for LEO spacecraft themselves might be eroded by AO exposure first, thereby losing the protecting functions. Even if the PI films are protected by AO-resistant surface coatings or fillers, such as silica, titania, alumina, germanium, and so on, the highly active AO might destroy the PI film matrixes via an undercutting route [7,8].
+41: 
+42: After several decades of basic and applied studies for the AO erosion mechanisms of standard PI films, there have been establishing some effective procedures for enhancing the AO-resistant abilities of the PI films. These procedures can roughly be classified as the passive and active ones. Both procedures obey the same mechanism and all achieve the AO protection via the formation of inorganic passivation layers [9,10]. The difference lies in the pathways achieving the purpose. The former usually provides the AO protections directly via applying surface coatings or external fillers [11-13]. The latter usually indirectly achieve the active protection via incorporation of specific elements, such as silicon or phosphorus, which could in-situ form the inorganic oxides passivation layer when being exposed in an AO environment [14-16]. Both procedures have advantages and disadvantages. The passive procedures are usually cost-effective and can usually achieve excellent AO protection to the PI films in short-term LEO exploration. However, the procedure usually suffers from the AO undercutting due to the unavoidable defects in the coatings and uniformity in the dispersion of the fillers [17,18]. The active procedures usually require the design and development of new functional monomers, which makes them cost-sensitive. In addition, the incorporation of new monomers might make the PI films inherent thermal and mechanical properties deteriorate. At last, in order to form the effective passivation layers, considerable amounts of the polymer matrix have to be consumed [19,20].
+43: 
+44: Considering the individual disadvantages for these two procedures, a combination of the passive and active pathways was proposed in recent years. In our previous work, the AO-resistant POSS fillers were used in combination with the AO-resistant phosphorus-containing matrix, so that the obtained composite films had excellent AO resistance. Due to the synergistic effect of phosphorus and silicon elements, the AO erosion yield of the derived composite films was as low as  $3.1 \times 10^{-26} \mathrm{~cm}^3/$  atom (Fluence:  $4.0 \times 10^{20}$  atoms/  $\mathrm{cm}^2$ ) [21]. The lowest erosion yield was only  $2.2\%$  of that of referenced Kapton® films. Song, et al. also reported the synergistic improvement of AO resistance of PI films by introduction of both phosphorus and silicon elements [22]. Although the combined procedures provided excellent AO resistance for the PI films, the compatibility between the PI matrix and the fillers has to be addressed so as to achieve the best protective efficiency.
+45: 
+46: In recent years, polyhedral oligomeric silsesquioxane (POSS) have been paid increasing attention as a promising component to enhance the AO resistant properties of the PI films due to the great potential ability to form silicon-containing passivation layers when reacted with AO [23]. Various POSS-substituted PI films, either in the positions of main chain or side chain of the PI molecular chains have been reported in the literature [24-26]. In 2012, Minton and coworkers systemically reported the research and development of main-chain POSS-substituted Kapton® PI film (MC-POSS-Kapton) and side-chain substituted one (SC-POSS-Kapton) [24]. Both POSS-containing PI films have been investigated as high-performance AO-resistant candidates in real LEO space environments and the results showed that it was a promising and practical pathway to enhance the AO-resistant properties of the standard Kapton® films by combining POSS units into the PI films via copolymerization. Especially, the SC-POSS-Kapton® film exhibited relatively lower cost and comparable AO resistance compared with the main chain one. Thus, SC-POSS-Kapton® showed great application future in long-term LEO exploration. In addition, POSS compounds have also been used as the fillers to develop PI composite films with improved AO resistance [27-29]. In 2016, Qian et al. reported the AO behaviors of PI films derived from the Kapton® matrix and the trisilanolphenyl POSS (TSP-POSS) additives [27]. TSP-POSS endowed the good AO resistance of the composite films while maintaining the inherent
+47: 
+48: thermal and mechanical properties of the Kapton® matrix film. The AO erosion yields of TSP-POSS/Kapton composite films are comparable to those of the MC-POSS-Kapton and SC-POSS-Kapton films.
+49: 
+50: In our previous work, the effects of the side-chain substituted POSS units on the optical, thermal, mechanical, and AO erosion behaviors of PI (PMDA-ODA) films were systemically reported [30]. In the current work, the POSS units were endeavored to incorporate into the PI (PMDA-ODA) films via the combination of copolymerization and physical blending procedures. The copolymerization was achieved by the use of the diamine monomer, DABA-POSS, and the blending was performed by the use of TSP-POSS additives, whose molecular structures are shown in Figure 1. Effects of the side-chain POSS and the external POSS components on the physical and chemical properties, especially thermal and AO erosion behaviors were investigated in detail.
+51: 
+52: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+53: DABA-POSS (monomer)
+54: 
+55: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+56: Figure 1. Nanocaged polyhedral oligomeric silsesquioxane (POSS) units used in the current work.  
+57: TSP-POSS (filler)

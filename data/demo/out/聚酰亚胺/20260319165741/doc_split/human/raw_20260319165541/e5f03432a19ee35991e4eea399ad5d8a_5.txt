@@ -1,0 +1,67 @@
+source_file: Comparison of Properties of Colorless and Transparent Polyimide Nanocomposites Containing Chemically Modified .md
+doc_id: e5f03432a19ee35991e4eea399ad5d8a
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [291, 341]
+char_span: [38233, 47331]
+line_count: 51
+effective_body_non_empty_lines: 47
+
+lines:
+--- chunk (b0006: References) ---
+291: # References
+292: 
+293: 1. Liaw, D.-J.; Wang, K.-L.; Huang, Y.-C.; Lee, K.-R.; Lai, J.-Y.; Ha, C.-S. Advanced polyimide materials: Syntheses, physical properties and applications. Prog. Polym. Sci. 2012, 37, 907-974. [CrossRef]  
+294: 2. Ho, J.S.; Greenbaum, S.G. Polymer capacitor dielectrics for high temperature applications. ACS Appl. Mater. Interfaces 2018, 10, 29189-29218. [CrossRef] [PubMed]  
+295: 3. Guo, Y.; Qiu, H.; Ruan, K.; Zhang, Y.; Gu, J. Hierarchically multifunctional polyimide composite films with strongly enhanced thermal conductivity. Nano-Micro Lett. 2022, 14, 26. [CrossRef] [PubMed]  
+296: 4. Wang, P.-C.; MacDiarmid, A.G. Integration of polymer-dispersed liquid crystal composites with conducting polymer thin films toward the fabrication of flexible display devices. Displays 2007, 28, 101-104. [CrossRef]
+297: 
+298: 5. Chen, C.-J.; Yen, H.-J.; Hu, Y.-C.; Liou, G.-S. Novel programmable functional polyimides: Preparation, mechanism of CT induced memory, and ambipolar electrochromic behavior. J. Mater. Chem. C 2013, 1, 7623-7634. [CrossRef]  
+299: 6. Choi, M.-C.; Kim, Y.; Ha, C.-S. Polymers for flexible displays: From material selection to device applications. *Prog. Polym. Sci.* 2008, 33, 581-630. [CrossRef]  
+300: 7. Nishihara, M.; Christiani, L.; Staykov, A.; Sasaki, K. Experimental and theoretical study of charge-transfer complex hybrid polyimide membranes. J. Polym. Sci. Part B Polym. Phys. 2014, 52, 293-298. [CrossRef]  
+301: 8. Hasegawa, M. Development of solution-processable, optically transparent polyimides with ultra-low linear coefficients of thermal expansion. Polymers 2017, 9, 520. [CrossRef]  
+302: 9. Kim, S.D.; Lee, S.; Heo, J.; Kim, S.Y.; Chung, I.S. Soluble polyimides with trifluoromethyl pendent groups. Polymer 2013, 54, 5648-5654. [CrossRef]  
+303: 10. Seino, H.; Sasaki, T.; Mochizuki, A.; Ueda, M. Synthesis of fully aliphatic polyimides. High Perform. Polym. 1999, 11, 255-262. [CrossRef]  
+304: 11. Kim, J.-H.; Choi, M.-C.; Kim, H.; Kim, Y.; Chang, J.-H.; Han, M.; Kim, I.; Ha, C.-S. Colorless polyimide/organoclay nanocomposite substrates for flexible organic light-emitting devices. J. Nanosci. Nanotech. 2010, 10, 388-396. [CrossRef] [PubMed]  
+305: 12. Chan, J.X.; Wong, J.F.; Petru, M.; Hassan, A.; Nirmal, U.; Othman, N.; Ilyas, R.A. Effect of nanofillers on tribological properties of polymer nanocomposites: A review on recent development. Polymers 2021, 13, 2867. [CrossRef] [PubMed]  
+306: 13. Nazari, M.H.; Zhang, Y.; Mahmoodi, A.; Xu, G.; Yu, J.; Wu, J.; Shi, X. Nanocomposite organic coatings for corrosion protection of metals: A review of recent advances. Prog. Org. Coat. 2022, 162, 106573. [CrossRef]  
+307: 14. Huh, T.H.; Lee, S.Y.; Park, S.K.; Chang, J.-H.; Lee, Y.S.; Kwark, Y.J. Homogeneous polyimide/silica nanohybrid films adapting simple polymer blending process: Polymeric silsesquiazane precursor to inorganic silica. Macromol. Res. 2018, 26, 187-193. [CrossRef]  
+308: 15. Shin, H.I.; Chang, J.-H. Transparent polyimide/organoclay nanocomposite films containing different diamine monomers. Polymers 2020, 12, 135. [CrossRef]  
+309: 16. Cao, M.-S.; Wang, X.-X.; Zhang, M.; Cao, W.-Q.; Fang, X.-Y.; Yuan, J. Variable-temperature electron transport and dipole polarization turning flexible multifunctional microsensor beyond electrical and optical energy. Adv. Mater. 2020, 32, 1907156. [CrossRef]  
+310: 17. Cao, M.-S.; Shu, J.-C.; Wen, B.; Wang, X.-X.; Cao, W.-Q. Genetic dielectric genes inside 2D carbon-based materials with tunable electromagnetic function at elevated temperature. Small Struct. 2021, 2, 2100104. [CrossRef]  
+311: 18. Ibrahim, A.; Klopocinska, A.; Horvat, K.; Hamid, Z.A. Graphene-based nanocomposites: Synthesis, mechanical properties, and characterizations. Polymers 2021, 13, 2869. [CrossRef]  
+312: 19. Heo, C.; Moon, H.G.; Yoon, C.S.; Chang, J.-H. ABS nanocomposites films based on functionalized-graphenes sheets. J. Appl. Polym. Sci. 2012, 124, 4663-4670. [CrossRef]  
+313: 20. Zeng, C.; Lu, S.; Xiao, X.; Gao, J.; Pan, L.; He, Z.; Yu, J. Enhanced thermal and mechanical properties of epoxy composites by mixing noncovalently functionalized graphene sheets. Polym. Bull. 2014, 72, 453-472. [CrossRef]  
+314: 21. Heo, C.; Chang, J.H. Syntheses and characterizations of position specific functionalized graphenes. Polymer 2013, 37, 218-224.  
+315: 22. Murray, H.H. Overview-clay mineral applications. Appl. Clay Sci. 1991, 5, 379-395. [CrossRef]  
+316: 23. Abulyazied, D.E.; Ene, A. An Investigative Study on the Progress of Nanoclay-reinforced polymers: Preparation, Properties, and Applications: A Review. Polymers 2021, 13, 4401. [CrossRef] [PubMed]  
+317: 24. Shin, H.I.; Kwark, Y.-J.; Chang, J.-H. Colorless and Transparent Copolyimides and Their Nanocomposites: Thermo-Optical Properties, Morphologies, and Gas Permeabilities. Polymers 2019, 11, 585. [CrossRef] [PubMed]  
+318: 25. Kwon, K.; Chang, J.-H. Comparison of the properties of polyimide nanocomposites containing three different nanofillers: Organoclay, functionalized graphene, and organoclay/functionalized graphene complex. J. Comp. Mater. 2015, 49, 3031-3044. [CrossRef]  
+319: 26. Yang, Y.; Zhu, Z.-K.; Yin, J.; Wang, X.-Y.; Qi, Z.-E. Preparation and properties of hybrids of organo-soluble polyimide and montmorillonite with various chemical surface modification methods. Polymer 1999, 40, 4407-4414. [CrossRef]  
+320: 27. LeBaron, P.C.; Wang, Z.; Pinnavaia, T.J. Polymer-layered silicate nanocomposites: An overview. Appl. Clay Sci. 1999, 15, 11-29. [CrossRef]  
+321: 28. Yano, K.; Usuki, A.; Okada, A.; Krrauchi, T.; Kamigaito, O. Synthesis a properties of polyimide-clay hybrid. J. Polym. Sci. Part A Polym Chem. 1993, 31, 2493-2498. [CrossRef]  
+322: 29. Pavia, D.L.; Lampman, G.M.; Kriz, G.S.; Vyvyan, J.A. Introduction to Spectroscopy; Cengage Learning: Boston, MA, USA, 2008; Chapters 2 and 4; pp. 14-95; 146-183.  
+323: 30. Heo, C.; Chang, J.H. Polyimide nanocomposites based on functionalized graphene sheets: Morphologies, thermal properties, and electrical and thermal conductivities. Sol. State Sci. 2013, 24, 6-14. [CrossRef]  
+324: 31. Chang, J.-H.; An, Y.U.; Sur, G.S. Poly(lactic acid) nanocomposites with various organoclay. I. Thermomechanical properties, morphology, and gas permeability. J. Polym. Sci. Part B Polym. Phys. 2003, 41, 94-103. [CrossRef]  
+325: 32. Ray, S.S.; Okamoto, M. Polymer/layered silicate nanocomposites: A review from preparation to processing. *Prog. Polym. Sci.* 2003, 28, 1539-1641.  
+326: 33. Porter, D.; Metcalfe, E.; Thomas, M.J.K. Nanocomposite fire retardants—A review. Fire Mater. 2000, 24, 45-52. [CrossRef]
+327: 
+328: 34. Vaia, R.A.; Giannelis, E.P. Polymer melt intercalation in organically-modified layered silicates: Model predictions and experiment. Macromolecules 1997, 30, 8000-8009. [CrossRef]  
+329: 35. Morgan, A.B.; Gilman, J.W. Characterization of polymer-layered silicate (clay) nanocomposites by transmission electron microscopy and X-ray diffraction: A comparative study. J. Appl. Polym. Sci. 2003, 87, 1329-1338. [CrossRef]  
+330: 36. Ma, J.; Xu, J.; Ren, J.-H.; Yu, Z.-Z.; Mai, Y.-W. A new approach to polymer/montmorillo-nite nanocomposites. Polymer 2003, 44, 4619-4624. [CrossRef]  
+331: 37. Pavlidou, S.; Papaspyrides, C.D. A review on polymer-layered silicate nanocomposites. Prog. Polym. Sci. 2008, 33, 1119-1198. [CrossRef]  
+332: 38. Kim, S.W.; Choi, H.M. Enhancement of thermal, mechanical, and barrier properties of ethylene vinyl alcohol copolymer by incorporation of graphene nanosheets: Effect of functionalization of graphene oxide. High Perform. Polym. 2015, 27, 694-704. [CrossRef]  
+333: 39. Agag, T.; Takeichi, T. Polybenzoxazine-montmorillonite hybrid nanocomposites: Synthesis and characterization. Polymer 2000, 41, 7083-7090. [CrossRef]  
+334: 40. Chang, J.-H.; Seo, B.-S.; Hwang, D.-H. An exfoliation of organoclay in thermotropic liquid crystalline polyester nanocomposites. Polymer 2002, 43, 2969-2974. [CrossRef]  
+335: 41. Xu, H.; Kuo, S.-W.; Lee, J.-S.; Chang, F.-C. Preparations, thermal properties, and  $T_{g}$  increase mechanism of inorganic/organic hybrid polymers based on polyhedral oligomeric silsesquioxanes. Macromolecules 2002, 35, 8788-8793. [CrossRef]  
+336: 42. Becker, O.; Varley, R.J.; Simon, G.P. Thermal stability and water uptake of high performance epoxy layered silicate nanocomposites. Eur. Polym. J. 2004, 40, 187-195. [CrossRef]  
+337: 43. Zhu, J.; Uhl, F.M.; Morgan, A.B.; Wilkie, C.A. Studies on the mechanism by which the formation of nanocomposites enhances thermal stability. Chem. Mater. 2001, 13, 4649-4654. [CrossRef]  
+338: 44. Fu, X.; Qutubuddin, S. Polymer-clay nanocomposites: Exfoliation of organophilic montmorillonite nanolayers in polystyrene. Polymer 2001, 42, 807-813. [CrossRef]  
+339: 45. Tyan, H.-L.; Liu, Y.-C.; Wei, K.-H. Thermally and mechanically enhanced clay/polyimide nanocomposite via reactive organoclay. Chem. Mater. 1999, 11, 1942-1947. [CrossRef]  
+340: 46. Hsu, S.L.-C.; Wang, U.; King, J.-S.; Jeng, J.-L. Photosensitive poly(amic acid)/organoclay nanocomposites. Polymer 2003, 44, 5533-5540. [CrossRef]  
+341: 47. Min, U.; Kim, J.-C.; Chang, J.-H. Transparent polyimide nanocomposite films: Thermo-optical properties, morphology, and gas permeability. Polym. Eng. Sci. 2011, 51, 2143-2150. [CrossRef]

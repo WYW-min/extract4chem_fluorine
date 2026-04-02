@@ -1,0 +1,19 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 11
+block_id: b0012
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Declaration of Conflicting Interests
+line_span: [163, 167]
+char_span: [19939, 20116]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0012: Declaration of Conflicting Interests) ---
+163: # Declaration of Conflicting Interests
+164: 
+165: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.

@@ -1,0 +1,25 @@
+source_file: Photo-Induced Vertical Alignment of Liquid Crystals via In Situ Polymerization Initiated by Polyimide Containi.md
+doc_id: c8a0b0e01a1542c63d073c9e4734504d
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [139, 149]
+char_span: [25065, 26505]
+line_count: 9
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+139: # 4. Conclusions
+140: 
+141: Vertical alignment of LC was easily achieved through in situ photopolymerization of dodecyl acrylate (DA) monomers initiated by BTDA-DMMDA PI. The dark state and dark cross brush under orthogonal polarized and conoscopic microscope separately were clearly observed, indicating vertical alignment. In addition, the vertical alignment remained stable after  $12\mathrm{h}$  of thermal treatment. The morphology and chemical structures of PI films peeled from cells with and without DA monomers revealed grafting and self-polymerizing of DA monomers. In addition, the contrast experiments with different dianhydrides and diamines also provided support for grafting DA monomers onto BTDA-DMMDA PI. The vertical alignment induced by the DA-grafted PI films, with low surface free energy on the surface of the PI films, which was easily obtained and thermal stable, was a novel method adopted for vertical-alignment-mode LCDs without extra small molecular photoinitiators.
+142: 
+143: Acknowledgments: This work was supported by National Natural Science Foundation of China (grant number 51173115).
+144: 
+145: Author Contributions: Fei Wang and Leishan Shao conceived and designed the experiments; Fei Wang performed the experiments; Qiyao Bai supplemented the contrast ratio data; Fei Wang, Xinyuan Che, and Bin Liu analyzed the data; Fei Wang and Yinghan Wang wrote the paper.
+146: 
+147: Conflicts of Interest: The authors declare no conflict of interest.

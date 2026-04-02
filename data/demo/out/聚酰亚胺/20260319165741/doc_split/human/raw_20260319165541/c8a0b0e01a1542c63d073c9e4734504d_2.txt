@@ -1,0 +1,37 @@
+source_file: Photo-Induced Vertical Alignment of Liquid Crystals via In Situ Polymerization Initiated by Polyimide Containi.md
+doc_id: c8a0b0e01a1542c63d073c9e4734504d
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [37, 59]
+char_span: [6436, 12396]
+line_count: 21
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+37: # 2. Materials and Methods
+38: 
+39: # 2.1. Materials
+40: 
+41: $3,3^{\prime}$ -dimethyl-4,4'-diaminodiphenyl methane (DMMDA) and 4,4-diaminodiphenyl ether (ODA) were purchased from Shanghai EMST Corp. (Shanghai, China) and used after recrystallization from ethanol.  $3,3^{\prime},4,4^{\prime}$ -benzophenonetetracarboxylic dianhydride (BTDA) and  $4,4^{\prime}$ -Oxydiphthalic anhydride (ODPA) ( $>98\%$ , Shanghai Research Institute of Synthetic Resins, Shanghai, China) were purified by a recrystallization from acetic anhydride. N-methyl-2-pyrrolidone (NMP, electronic grade,  $99.9\%$ ) and DA were obtained from Aladdin and used as received without further purification. Negative LC  $(\mathrm{no} = 1.4748, \Delta n = 0.083, \Delta \varepsilon = -4.2, \mathrm{TN-L} = 90^{\circ}\mathrm{C})$  was supplied by Yantai Xianhua Chem-Tech Co., Ltd. (Yantai, China).
+42: 
+43: # 2.2. Synthesis of Poly(Amic Acid)
+44: 
+45: Polyimide (PI) was prepared via a typical two-step method with a synthesis of poly(amic acid) (PAA) and subsequent thermal imidization. Specifically,  $1.00\mathrm{mmol}$  DMMDA was charged into a  $50~\mathrm{mL}$  three-necked flask, and  $4.94\mathrm{g}$  of NMP was added to dissolve DMMDA under magnetic stirring. Exactly  $1.00\mathrm{mmol}$  BTDA was added after DMMDA dissolved completely. The reaction was conducted under  $\mathbf{N}_2$  atmosphere for  $4\mathrm{h}$  at room temperature in order to obtain the viscous PAA solution. Subsequently, another  $5.48\mathrm{g}$  of NMP was added to dilute the PAA solution to  $5\mathrm{wt}\%$  to obtain proper viscosity for spin-casting on ITO glass.
+46: 
+47: The polycondensation of BTDA and ODA as well as ODPA and ODA was obtained in the same manner that poly(amic acid) based on  $3,3^{\prime},4,4^{\prime}$ -benzophenonetetracarboxylic dianhydride and 4,4-diaminodiphenyl ether (BTDA-ODA PAA) and poly(amic acid) based on  $4,4^{\prime}$ -Oxydiphthalic anhydride and 4,4-diaminodiphenyl ether (ODPA-ODA PAA) were obtained.
+48: 
+49: # 2.3. Preparation of Liquid Crystal Cells
+50: 
+51: The ITO glass was washed with  $3\mathrm{wt}\%$  NaOH aqueous, detergent, and alcohol successively and dried at  $120^{\circ}\mathrm{C}$  in an oven for  $3\mathrm{h}$ . The PAA solution was spin-coated onto the ITO glass at a rotation speed of  $600~\mathrm{rpm}$  for  $9\mathrm{s}$  and  $2500~\mathrm{rpm}$  for  $30\mathrm{s}$ . Then, the coated ITO glass was heated on a plate heater at  $80^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ ,  $120^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ ,  $180^{\circ}\mathrm{C}$  for  $30\mathrm{min}$ , and  $230^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  in turn to achieve imidization of polyimide based on  $3,3',4,4'$ -benzophenonetetracarboxylic dianhydride and  $3,3'$ -dimethyl-  $4,4'$ -diaminodiphenyl methane (BTDA-DMMDA PI) films. Two pieces of coated ITO glass were rubbed with a rubbing machine (TianLi Co. Ltd., Guangdong, China) and assembled in the antiparallel rubbing direction with a cell gap of  $40~\mu \mathrm{m}$ , which was set by an adhesive film spacer. DA was mechanically mixed with LC at weight ratios of  $2/98$ ,  $1/99$ ,  $0.5/0.95$ , and  $0/100$  under magnetic stirring for  $4\mathrm{h}$  at room temperature. The mixtures were charged into cells by a capillary action at  $95^{\circ}\mathrm{C}$  on a plate heater, and the cells were maintained at  $95^{\circ}\mathrm{C}$  for another  $20\mathrm{min}$  to eliminate the flow effect. The cells were radiated with unpolarized UV light (OSRAM 300 W, ORSAM, Munich, Bayern, Germany) for  $0.5\mathrm{h}$  and the distance between light and cells was  $10\mathrm{cm}$ .
+52: 
+53: The cells containing polyimide based on  $3,3^{\prime},4,4^{\prime}$ -benzophenonetetracarboxylic dianhydride and 4,4-diaminodiphenyl ether (BTDA-ODA PI) and polyimide based on  $4,4^{\prime}$ -Oxydiphthalic anhydride and 4,4-diaminodiphenyl ether (ODPA-ODA PI) were prepared with the same procedures. To be emphasized, the BTDA-ODA PI and ODPA-ODA PI films were not rubbed for easy observation of alignment condition.
+54: 
+55: # 2.4. Characterization
+56: 
+57: The alignment performance of LC was characterized by polarizing optical microscope (POM) (Shanghai Millimeter Precision Instrument Co. Ltd. (Shanghai, China)) and pretilt angle tester (Changchun Institute of Optics, Fine Mechanics and Physics (Changchun, China)). The Fourier transform infrared (FTIR) spectra of alignment layers were recorded with Nicolet 560 FTIR spectrometer (Thermo Nicolet Corporation, Madison, WI, USA) to determine the chemical structures. Scanning electron microscopy (SEM) photographs were taken with a Quanta 250 scanning electron microscope (FEI, Hillsboro, OR, USA) under an acceleration voltage of  $20\mathrm{kV}$  to characterize the surface morphologies of alignment layers. The alignment layers were carefully peeled off from cells with a process of being soaked in acetone and deionized water for  $30\mathrm{min}$  each and washed several times to completely remove LC, unreacted monomers, and homopolymers prior to FTIR testing. The alignment layers peeled off from cells were named DA-0.5, DA-1, and DA-2, separately, while DA-0 referred to the BTDA-DMDMA PI film, shown in Table 1. The contact angles of the alignment layers were measured by a contact angle-meter (DSA100, Kruss, Hamburg, Germany), and the total surface free energy was calculated with Method-EOS. The cells were disassembled to test the SEM and water contact angles via bath and washing with acetone, i.e., the alignment layers still adhered to the glass. The contrast ratios of LC cells were determined by a ZKY-LCDEO-2 liquid crystal electro-optic effect comprehensive tester (Chengdu century Zhongke Instrument Co., Ltd., Chengdu, China). The cells were UV irradiated and thermal annealing at  $120^{\circ}\mathrm{C}$  for  $30\mathrm{min}$  before the test. For comparison, a regular PSVA mode cell supplied by Yantai Xianhua Chem-Tech Co., Ltd., (Yantai, China) was determined using the same method.

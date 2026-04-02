@@ -1,0 +1,56 @@
+source_file: A Universal Study on the Effect Thermal Imidization Has on the Physico-Chemical, Mechanical, Thermal and Elect.md
+doc_id: 0f43da0f5e40ed55d6d84519f0353d25
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: A Universal Study on the Effect Thermal Imidization Has on the Physico-Chemical, Mechanical, Thermal and Electrical Properties of Polyimide for Integrated Electronics Applications
+line_span: [1, 42]
+char_span: [0, 4543]
+line_count: 40
+effective_body_non_empty_lines: 25
+
+lines:
+--- chunk (b0001: A Universal Study on the Effect Thermal Imidization Has on the Physico-Chemical, Mechanical, Thermal and Electrical Properties of Polyimide for Integrated Electronics Applications) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2022, 14, 1713. https://doi.org/10.3390/polym14091713
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # A Universal Study on the Effect Thermal Imidization Has on the Physico-Chemical, Mechanical, Thermal and Electrical Properties of Polyimide for Integrated Electronics Applications
+11: 
+12: Imadeddine Benfridja  $^{1,2,3}$ , Sombel Diaham  $^{3}$ , Fathima Laffir  $^{2}$ , Grace Brennan  $^{2,4}$ , Ning Liu  $^{2,4}$  and Tadhg Kennedy  $^{1,2,*}$
+13: 
+14: $^{1}$  Department of Chemical Sciences, University of Limerick, Limerick V94 T9PX, Ireland; imadeddine.benfridja@ul.ie  
+15: 2 Bernal Institute, University of Limerick, Limerick V94 T9PX, Ireland; fathima.laffir@ul.ie (F.L.); gracebrennan11@gmail.com (G.B.); ning.liu@ul.ie (N.L.)  
+16: 3 LAPLACE Institute, University of Toulouse, Université Paul Sabatier, 31062 Toulouse, France; sombel.diaham@laplace.univ-tlse.fr  
+17: $^{4}$  Department of Physics, University of Limerick, Limerick V94 T9PX, Ireland  
+18: * Correspondence: tadhg.kennedy@ul.ie
+19: 
+20: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+21: 
+22: check for updates
+23: 
+24: Citation: Benfridja, I.; Diaham, S.; Laffir, F.; Brennan, G.; Liu, N.; Kennedy, T. A Universal Study on the Effect Thermal Imidization Has on the Physico-Chemical, Mechanical, Thermal and Electrical Properties of Polyimide for Integrated Electronics Applications. Polymers 2022, 14, 1713. https://doi.org/10.3390/polym14091713
+25: 
+26: Academic Editors: Amir Ameli, Jin-Hae Chang and Yung-Chung Chen
+27: 
+28: Received: 7 February 2022  
+29: Accepted: 19 April 2022  
+30: Published: 22 April 2022
+31: 
+32: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+33: 
+34: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+35: 
+36: Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+37: 
+38: Abstract: Polyimides (PI) are a class of dielectric polymer used in a wide range of electronics and electrical engineering applications from low-voltage microelectronics to high voltage isolation. They are well appreciated because of their excellent thermal, electrical, and mechanical properties, each of which need to be optimized uniquely depending on the end application. For example, for high-voltage applications, the final polymer breakdown field and dielectric properties must be optimized, both of which are dependent on the curing process and the final physico-chemical properties of PI. The majority of studies to date have focused on a limited set of properties of the polymer and have analyzed the effect of curing from a physicochemical-, mechanical- or electrical-centric viewpoint. This paper seeks to overcome this, unifying all of these characterizations in the same study to accurately describe the universal effect of the cure temperature on the properties of PI and at an industrial processing scale. This paper reports the widest-ranging study of its kind on the effect that cure temperature has on the physico-chemical, mechanical, thermal and electrical properties of polyimide, specifically poly (pyromellitic dianhydride-co-4,  $4^{\prime}$ -oxydianiline) (PMDA/ODA). The optimization of the cure temperature is accurately studied not only regarding the degree of imidization (DOI), but also considering the entire physical properties. Particularly, the analysis elucidates the key role of the charge-transfer complex (CTC) on these properties. The results show that while the thermal and mechanical properties improve with both DOI and CTC formation, the electrical properties, particularly at high field conditions, show an antagonistic behavior enhancing with increasing DOI while degrading at higher temperatures as the CTC formation increases. The electrical characterization at low field presents an enhancement of the final PI properties likely due to the DOI. On the contrary, at high electric field, the conductivity results show an improvement at an intermediate temperature emphasizing an ideal compromise between a high DOI and PI chain packing when the thermal imidization process is performed over this equilibrium. This balance enables maximum performance to be obtained for the PI film with optimized electrical properties and, overall, optimal thermal and mechanical properties are achieved.
+39: 
+40: Keywords: polyimide;imidization; thermal curing

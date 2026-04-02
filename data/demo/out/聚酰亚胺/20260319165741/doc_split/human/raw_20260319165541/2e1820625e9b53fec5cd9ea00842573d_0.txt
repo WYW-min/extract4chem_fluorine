@@ -1,0 +1,34 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride
+line_span: [1, 20]
+char_span: [0, 942]
+line_count: 18
+effective_body_non_empty_lines: 10
+
+lines:
+--- chunk (b0001: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride) ---
+1: [MINERU_DISCARDED_META]
+2: Sains Malaysiana 52(5)(2023): 1567-1579
+3: http://doi.org/10.17576/jsm-2023-5205-18
+4: [/MINERU_DISCARDED_META]
+5: 
+6: # Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride
+7: 
+8: (Pembuatan Filem Polimida Aromatik Terhasil daripada Diisosianat dengan Dianhidrida Berfluorinat)
+9: 
+10: NAJAA MUSTAFFA $^{1}$ , TATSUO KANEKO $^{2}$ , KENJI TAKADA $^{2}$ , SUMANT DWIVEDI $^{3}$  & NADHRATUN NAIIM MOBARAK $^{1,*}$
+11: 
+12: $^{1}$ Department of Chemical Sciences, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Selangor Darul Ehsan, Malaysia
+13: 
+14: $^{2}$ Energy and Environment Area, Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology, 1-1 Asahidai, Nomi, Ishikawa 923-1292, Japan
+15: 
+16: $^{3}$ Department of Physics, Technical University of Denmark, Kongens Lyngby 2800, Denmark
+17: 
+18: Received: 27 December 2022/Accepted: 5 April 2023

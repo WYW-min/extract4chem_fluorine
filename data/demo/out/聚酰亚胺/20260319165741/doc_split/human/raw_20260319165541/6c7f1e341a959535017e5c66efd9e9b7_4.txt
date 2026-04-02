@@ -1,0 +1,34 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 4
+block_id: b0005
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Structure and Analysis
+line_span: [51, 70]
+char_span: [6742, 9210]
+line_count: 18
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0005: Structure and Analysis) ---
+51: # Structure and Analysis
+52: 
+53: Film density  $(\rho)$  was measured with flotation method at  $23 \pm 1^{\circ} \mathrm{C}$  by using calcium nitrate tetrahydrate (Junsei Chemical Co. Ltd., Tokyo, Japan).
+54: 
+55: Fourier transform-infrared spectrometry (FT-IR) spectroscopy with KBr method at  $23 \pm 1^{\circ} \mathrm{C}$  was performed using an FT/IR-4100 (Jasco Co., Tokyo, Japan). Each spectrum was determined from 32 scans at a resolution of  $2 \mathrm{~cm}^{-1}$  and then averaged.
+56: 
+57: Scanning electron microscopy (SEM) was performed with a high-resolution field-emission SEM (FE-SEM) (S5200, Hitachi High-Technologies Corporation, Tokyo, Japan). SEM sample was prepared by surface coating with a magnetron-type ion-sputtering instrument (JCS-1600, JEOL, Ltd., Tokyo, Japan). The sample was coated with platinum at  $70~\mathrm{s}$  and  $30~\mathrm{mA}$ . Acceleration voltage of SEM was  $5\mathrm{kV}$ .
+58: 
+59: All measurement data were obtained in the film state. A minimum of three samples were used to confirm the reproducibility of the experimental results.
+60: 
+61: Table I. PMMA Content of 6FDA-TeMPD (PI), PMMA, and Block(PI/PMMA)  
+62: 
+63: <table><tr><td rowspan="2">Polymer</td><td colspan="5">PMMA content</td><td colspan="2">Tg (PMMA block) (°C)</td><td colspan="2">ΔCp(PMMA block) (J/(g K))</td></tr><tr><td>NMRa(mol %)</td><td>NMRa(wt %)</td><td>NMR(vol %)</td><td>TGA(wt %)</td><td>TGA isotherms(wt %)</td><td>1st scan</td><td>2nd scan</td><td>1st scan</td><td>2nd scan</td></tr><tr><td>PI</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td>Block (73/27)</td><td>27</td><td>6</td><td>5</td><td>7</td><td>7</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td>Block (28/72)</td><td>72</td><td>31</td><td>32</td><td>27</td><td>31</td><td>135 ± 1</td><td>143 ± 1</td><td>2.413 ± 0.240</td><td>0.058 ± 0.005</td></tr><tr><td>Block (10/90)</td><td>90</td><td>60</td><td>62</td><td>55</td><td>60</td><td>135 ± 1</td><td>124 ± 1</td><td>3.154 ± 1.194</td><td>0.369 ± 0.132</td></tr><tr><td>PMMA</td><td>100</td><td>100</td><td>100</td><td>100</td><td>-</td><td>135 ± 1</td><td>113 ± 2</td><td>3.310 ± 0.538</td><td>0.392 ± 0.059</td></tr></table>
+64: 
+65: aCited from Ref. 29.
+66: 
+67: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+68: Figure 2. TGA curves and isotherms of Block(PI/PMMA) in air atmosphere. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]

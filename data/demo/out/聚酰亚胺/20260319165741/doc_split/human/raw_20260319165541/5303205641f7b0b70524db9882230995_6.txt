@@ -1,0 +1,85 @@
+source_file: Organic鈥揑norganic Double-Gel System Thermally Insulating and Hydrophobic Polyimide Aerogel.md
+doc_id: 5303205641f7b0b70524db9882230995
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [229, 297]
+char_span: [35805, 51312]
+line_count: 69
+effective_body_non_empty_lines: 65
+
+lines:
+--- chunk (b0007: References) ---
+229: # References
+230: 
+231: 1. Memon, S.A. Phase change materials integrated in building walls: A state of the art review. Renew. Sustain. Energy Rev. 2014, 31, 870-906. [CrossRef]  
+232: 2. Akeiber, H.; Nejat, P.; Majid, M.Z.A.; Wahid, M.A.; Jomehzadeh, F.; Famileh, I.Z.; Calautit, J.K.; Hughes, B.R.; Zaki, S.A. A review on phase change material (PCM) for sustainable passive cooling in building envelopes. Renew. Sustain. Energy Rev. 2016, 60, 1470-1497. [CrossRef]  
+233: 3. Nejat, P.; Jomehzadeh, F.; Taheri, M.M.; Gohari, M.; Majid, M.Z.A. A global review of energy consumption,  $\mathrm{CO}_{2}$  emissions and policy in the residential sector (with an overview of the top ten  $\mathrm{CO}_{2}$  emitting countries). Renew. Sustain. Energy Rev. 2015, 43, 843-862. [CrossRef]  
+234: 4. Sikder, A.; Sikder, N. A review of advanced high performance, insensitive and thermally stable energetic materials emerging for military and space applications. J. Hazard. Mater. 2004, 112, 1-15. [CrossRef] [PubMed]  
+235: 5. Gouzman, I.; Grossman, E.; Verker, R.; Atar, N.; Bolker, A.; Eliaz, N. Advances in polyimide-based materials for space applications. Adv. Mater. 2019, 31, e1807738. [CrossRef]  
+236: 6. Majhi, S.M.; Mirzaei, A.; Kim, H.W.; Kim, S.S.; Kim, T.W. Recent advances in energy-saving chemiresistive gas sensors: A review. Nano Energy 2021, 79, 105369. [CrossRef]  
+237: 7. Zhang, H.; Shi, T.; Ma, A. Recent Advances in Design and Preparation of Polymer-Based Thermal Management Material. Polymers 2021, 13, 2797. [CrossRef] [PubMed]  
+238: 8. Kaya, G.G.; Deveci, H. Synergistic effects of silica aerogels/xerogels on properties of polymer composites: A review. J. Ind. Eng. Chem. 2020, 89, 13-27. [CrossRef]  
+239: 9. Peng, F.; Jiang, Y.; Feng, J.; Cai, H.; Feng, J.; Li, L. Thermally insulating, fiber-reinforced alumina-silica aerogel composites with ultra-low shrinkage up to  $1500^{\circ}\mathrm{C}$ . Chem. Eng. J. 2021, 411, 128402. [CrossRef]  
+240: 10. Su, L.; Wang, H.; Niu, M.; Fan, X.; Ma, M.; Shi, Z.; Guo, S.-W. Ultralight, Recoverable, and High-Temperature-Resistant SiC Nanowire Aerogel. ACS Nano 2018, 12, 3103-3111. [CrossRef]  
+241: 11. Yue, Y.; Liu, N.; Ma, Y.; Wang, S.; Liu, W.; Luo, C.; Zhang, H.; Cheng, F.; Rao, J.; Hu, X.; et al. Highly Self-Healable 3D Mi-crosupercapacitor with MXene-Graphene Composite Aerogel. ACS Nano 2018, 12, 4224–4232. [CrossRef]  
+242: 12. Liu, J.; Zhang, H.-B.; Sun, R.; Liu, Y.; Liu, Z.; Zhou, A.; Yu, Z.-Z. Hydrophobic, Flexible, and Lightweight MXene Foams for High-Performance Electromagnetic-Interference Shielding. Adv. Mater. 2017, 29, 1702367. [CrossRef]  
+243: 13. An, L.; Wang, J.; Petit, D.; Armstrong, J.; Hanson, K.; Hamilton, J.; Souza, M.; Zhao, D.; Li, C.; Liu, Y.; et al. An All-Ceramic, Anisotropic, and Flexible Aerogel Insulation Material. Nano Lett. 2020, 20, 3828-3835. [CrossRef] [PubMed]  
+244: 14. Karamikamkar, S.; Naguib, H.E.; Park, C.B. Advances in precursor system for silica-based aerogel production toward improved mechanical properties, customized morphology, and multifunctionality: A review. Adv. Colloid Interface Sci. 2020, 276, 102101. [CrossRef]  
+245: 15. Ahankari, S.; Paliwal, P.; Subhedar, A.; Kargarzadeh, H. Recent developments in nanocellulose-based aerogels in thermal applications: A review. ACS Nano 2021, 15, 3849-3874. [CrossRef] [PubMed]  
+246: 16. Sun, Y.; Chu, Y.; Wu, W.; Xiao, H. Nanocellulose-based lightweight porous materials: A review. Carbohydr. Polym. 2020, 255, 117489. [CrossRef] [PubMed]  
+247: 17. Chen, Y.; Zhang, L.; Yang, Y.; Pang, B.; Xu, W.; Duan, G.; Jiang, S.; Zhang, K. Recent progress on nanocellulose aerogels: Preparation, modification, composite fabrication, applications. Adv. Mater. 2021, 33, e2005569. [CrossRef]  
+248: 18. Qian, H.; Wang, J. Synthesis of lignin-poly(N-methylaniline)-reduced graphene oxide hydrogel for organic dye and lead ions removal. J. Bioresour. Bioprod. 2020, 5, 204-210. [CrossRef]  
+249: 19. Shi, W.; Ching, Y.C.; Chuah, C.H. Preparation of aerogel beads and microspheres based on chitosan and cellulose for drug delivery: A review. Int. J. Biol. Macromol. 2021, 170, 751-767. [CrossRef]  
+250: 20. Lin, D.; Yuen, P.Y.; Liu, Y.; Liu, W.; Liu, N.; Dauskardt, R.H.; Cui, Y. A Silica-Aerogel-Reinforced Composite Polymer Electrolyte with High Ionic Conductivity and High Modulus. Adv. Mater. 2018, 30, e1802661. [CrossRef]  
+251: 21. Gao, L.; Li, C.; Huang, W.; Mei, S.; Lin, H.; Ou, Q.; Zhang, Y.; Guo, J.; Zhang, F.; Xu, S.; et al. MXene/Polymer membranes: Synthesis, properties, and emerging applications. Chem. Mater. 2020, 32, 1703-1747. [CrossRef]  
+252: 22. Chen, Y.; Li, D.; Yang, W.; Xiao, C.; Wei, M. Effects of different amine-functionalized graphene on the mechanical, thermal, and tribological properties of polyimide nanocomposites synthesized by in situ polymerization. Polymer 2018, 140, 56-72. [CrossRef]  
+253: 23. Li, X.; Dong, G.; Liu, Z.; Zhang, X. Polyimide Aerogel Fibers with Superior Flame Resistance, Strength, Hydrophobicity, and Flexibility Made via a Universal Sol-Gel Confined Transition Strategy. ACS Nano 2021, 15, 4759-4768. [CrossRef]
+254: 
+255: 24. Wang, N.-N.; Wang, H.; Wang, Y.-Y.; Wei, Y.-H.; Si, J.-Y.; Yuen, A.C.Y.; Xie, J.-S.; Yu, B.; Zhu, S.-E.; Lu, H.-D.; et al. Robust, Lightweight, Hydrophobic, and Fire-Retarded Polyimide/MXene Aerogels for Effective Oil/Water Separation. ACS Appl. Mater. Interfaces 2019, 11, 40512-40523. [CrossRef] [PubMed]  
+256: 25. Zhang, D.; Lin, Y.; Wang, W.; Li, Y.; Wu, G. Mechanically strong polyimide aerogels cross-linked with dopa-mine-functionalized carbon nanotubes for oil absorption. Appl. Surf. Sci. 2021, 543, 148833. [CrossRef]  
+257: 26. Wang, D.; Peng, H.; Yu, B.; Zhou, K.; Pan, H.; Zhang, L.; Li, M.; Liu, M.; Tian, A.; Fu, S. Biomimetic structural cellulose nanofiber aerogels with exceptional mechanical, flame-retardant and thermal-insulating properties. Chem. Eng. J. 2020, 389, 124449. [CrossRef]  
+258: 27. Zhu, J.; Xiong, R.; Zhao, F.; Peng, T.; Hu, J.; Xie, L.; Xie, H.; Wang, K.; Jiang, C. Lightweight, High-Strength, and Anisotropic Structure Composite Aerogel Based on Hydroxyapatite Nanocrystal and Chitosan with Thermal Insulation and Flame Retardant Properties. ACS Sustain. Chem. Eng. 2019, 8, 71-83. [CrossRef]  
+259: 28. Li, Y.; Liu, X.; Nie, X.; Yang, W.; Wang, Y.; Yu, R.; Shui, J. Multifunctional organic-inorganic hybrid aerogel for self-cleaning, heat-insulating, and highly efficient microwave absorbing material. Adv. Funct. Mater. 2019, 29, 1807624. [CrossRef]  
+260: 29. Zhou, Y.; Wang, S.-J.; Li, D.-S.; Jiang, L. Lightweight and recoverable ANF/rGO/PI composite aerogels for broad and high-performance microwave absorption. Compos. Part B Eng. 2021, 213, 108701. [CrossRef]  
+261: 30. Feng, Y.; Wang, H.; Xu, J.; Du, X.; Cheng, X.; Du, Z.; Wang, H. Fabrication of MXene/PEI functionalized sodium alginate aerogel and its excellent adsorption behavior for Cr(VI) and Congo Red from aqueous solution. J. Hazard. Mater. 2021, 416, 125777. [CrossRef]  
+262: 31. Zhang, T.; Zhao, Y.; Muhetaer, M.; Wang, K. Silver nanoparticles cross-linked polyimide aerogels with improved high tem-perature microstructure stabilities and high mechanical performances. Microporous Mesoporous Mater. 2020, 297, 110035. [CrossRef]  
+263: 32. Iglesias-Mejuto, A.; García-González, C.A. 3D-printed alginate-hydroxyapatite aerogel scaffolds for bone tissue engineering. Mater. Sci. Eng. C 2021, 131, 112525. [CrossRef]  
+264: 33. Zheng, W.; Zhang, X.; Zheng, Y.; Yue, Y. "Oxynitride trap" over N/S co-doped graphene-supported catalysts promoting low temperature NH3-SCR performance: Insight into the structure and mechanisms. J. Hazard. Mater. 2021, 423, 127187. [CrossRef]  
+265: 34. Zhuang, Y.; Seong, J.G.; Lee, Y.M. Polyimides containing aliphatic/alicyclic segments in the main chains. Prog. Polym. Sci. 2019, 92, 35-88. [CrossRef]  
+266: 35. Ma, P.; Dai, C.; Wang, H.; Li, Z.; Liu, H.; Li, W.; Yang, C. A review on high temperature resistant polyimide films: Heterocyclic structures and nanocomposites. Compos. Commun. 2019, 16, 84-93. [CrossRef]  
+267: 36. He, X.; Zhang, L.; Meng, D.; Wu, J. From hydrogel to aerogel: A green fabrication of multifunctional polyimide absorbents. Eur. Polym. J. 2017, 89, 461-467. [CrossRef]  
+268: 37. Ramezanzadeh, B.; Haeri, Z.; Ramezanzadeh, M. A facile route of making silica nanoparticles-covered graphene oxide nanohybrids (SiO $_2$ -GO); fabrication of SiO $_2$ -GO/epoxy composite coating with superior barrier and corrosion protection performance. Chem. Eng. J. 2016, 303, 511-528. [CrossRef]  
+269: 38. Xu, Q.; Chang, X.; Zhu, Z.; Xu, L.; Chen, X.; Luo, L.; Liu, X.; Qin, J. Flexible pressure sensors with high pressure sensitivity and low detection limit using a unique honeycomb-designed polyimide/reduced graphene oxide composite aerogel. RSC Adv. 2021, 11, 11760-11770. [CrossRef]  
+270: 39. Xue, T.; Fan, W.; Zhang, X.; Zhao, X.; Yang, F.; Liu, T. Layered double hydroxide/graphene oxide synergistically enhanced pol-yimide aerogels for thermal insulation and fire-retardancy. Compos. Part B Eng. 2021, 219, 108963. [CrossRef]  
+271: 40. Li, S.; Li, C.; Song, X.; Su, B.; Mandal, B.; Prasad, B.; Gao, X.; Gao, C. Graphene quantum dots-doped thin film nanocomposite polyimide membranes with enhanced solvent resistance for solvent-resistant nanofiltration. ACS Appl. Mater. Interfaces 2019, 11, 6527-6540. [CrossRef]  
+272: 41. Zhou, X.; Ding, C.; Cheng, C.; Liu, S.; Duan, G.; Xu, W.; Liu, K.; Hou, H. Mechanical and thermal properties of electrospun poly-ylimide/rGO composite nanofibers via in-situ polymerization and in-situ thermal conversion. Eur. Polym. J. 2020, 141, 110083. [CrossRef]  
+273: 42. Feng, H.; Fang, X.; Liu, X.; Pei, Q.; Cui, Z.-K.; Deng, S.; Gu, J.; Zhuang, Q. Reduced polyaniline decorated reduced graphene oxide/polyimide nanocomposite films with enhanced dielectric properties and thermostability. Compos. Part A Appl. Sci. Manuf. 2018, 109, 578-584. [CrossRef]  
+274: 43. Zhang, X.; Li, W.; Song, P.; You, B.; Sun, G. Double-cross-linking strategy for preparing flexible, robust, and multifunctional polyimide aerogel. Chem. Eng. J. 2019, 381, 122784. [CrossRef]  
+275: 44. Zhong, A.; Li, J.; Zhang, Y.; Zhang, F.; Wang, T.; Zhang, G.; Sun, R.; Wong, C.-P. Low temperature microwave fabrication of three-dimensional graphene/polyimide foams with flexibility strain responsivity. Compos. Part A Appl. Sci. Manuf. 2020, 137, 105995. [CrossRef]  
+276: 45. Wu, Y.; Ju, D.; Wang, H.; Zhao, H.; Sun, C.; Wu, Y.; Guo, B.; Wang, Y. Modification of surface structure and mechanical properties in polyimide aerogel by low-energy proton implantation. Surf. Coat. Technol. 2020, 403, 126364. [CrossRef]  
+277: 46. Hu, C.; Qi, H.; Song, J.; Zhao, G.; Yu, J.; Zhang, Y.; He, H.; Lai, J. Exploration on the tribological mechanisms of polyimide with different molecular structures in different temperatures. Appl. Surf. Sci. 2021, 560, 150051. [CrossRef]  
+278: 47. Jiang, X.; Pan, W.; Xiong, Z.; Zhang, Y.; Zhao, L. Facile synthesis of layer-by-layer decorated graphene oxide based magnetic nanocomposites for  $\beta$ -agonists/dyes adsorption removal and bacterial inactivation in wastewater. J. Alloys Compd. 2021, 870, 159414. [CrossRef]
+279: 
+280: 48. Sasikumar, B.; Bisht, S.; Arthanareeswaran, G.; Ismail, A.F.; Othman, M.H.D. Performance of polysulfone hollow fiber membranes encompassing ZIF-8,  $\mathrm{SiO^2}$  /ZIF-8, and amine-modified  $\mathrm{SiO^2}$  /ZIF-8 nanofillers for  $\mathrm{CO_2 / CH_4}$  and  $\mathrm{CO_2 / N_2}$  gas separation. Sep. Purif. Technol. 2021, 264, 118471. [CrossRef]  
+281: 49. Abbas, S.S.; Rees, G.J.; Kelly, N.L.; Dancer, C.E.J.; Hanna, J.V.; McNally, T. Facile silane functionalization of graphene oxide. Nanoscale 2018, 10, 16231-16242. [CrossRef]  
+282: 50. Kong, P.; Tan, H.; Lei, T.; Wang, J.; Yan, W.; Wang, R.; Waclawik, E.R.; Zheng, Z.; Li, Z. Oxygen vacancies confined in conjugated polyimide for promoted visible-light photocatalytic oxidative coupling of amines. Appl. Catal. B Environ. 2020, 272, 118964. [CrossRef]  
+283: 51. Zhang, X.; Ni, X.; Li, C.; You, B.; Sun, G. Co-gel strategy for preparing hierarchically porous silica/polyimide nanocomposite aerogel with thermal insulation and flame retardancy. J. Mater. Chem. A 2020, 8, 9701-9712. [CrossRef]  
+284: 52. Hassanzadeh-Aghdam, M.; Ansari, R.; Darvizeh, A. Micromechanical modeling of thermal expansion coefficients for unidirectional glass fiber-reinforced polyimide composites containing silica nanoparticles. Compos. Part A Appl. Sci. Manuf. 2017, 96, 110-121. [CrossRef]  
+285: 53. Zhang, T.; Zhao, Y.; Li, X.; Ma, X.; Li, S.; Sun, M.; Liu, H.; Wang, K. Ultralight and heat-insulating mesoporous polyimide aerogels cross-linked with aminated SiO2 nanoparticles. Microporous Mesoporous Mater. 2021, 319, 111074. [CrossRef]  
+286: 54. Fu, S.-Y.; Feng, X.-Q.; Lauke, B.; Mai, Y.-W. Effects of particle size, particle/matrix interface adhesion and particle loading on mechanical properties of particulate-polymer composites. Compos. Part B Eng. 2008, 39, 933-961. [CrossRef]  
+287: 55. Wu, T.; Dong, J.; De France, K.J.; Li, M.; Zhao, X.; Zhang, Q. Fabrication of polyimide aerogels cross-linked by a cost-effective amine-functionalized hyperbranched polysiloxane (NH2-HBPSi). ACS Appl. Polym. Mater. 2020, 2, 3876-3885. [CrossRef]  
+288: 56. Pan, C.; Liu, L.; Chen, Q.; Zhang, Q.; Guo, G. Tough, Stretchable, Compressive Novel Polymer/Graphene Oxide Nano-composite Hydrogels with Excellent Self-Healing Performance. ACS Appl. Mater. Interfaces 2017, 9, 38052–38061. [CrossRef]  
+289: 57. Zou, W.; Dong, J.; Luo, Y.; Zhao, Q.; Xie, T. Dynamic covalent polymer networks: From old chemistry to modern day innovations. Adv. Mater. 2017, 29, 1606100. [CrossRef]  
+290: 58. Zheng, Y.; Li, Y.; Li, Z.; Wang, Y.; Dai, K.; Zheng, G.; Liu, C.; Shen, C. The effect of filler dimensionality on the electromechanical performance of polydimethylsiloxane based conductive nanocomposites for flexible strain sensors. Compos. Sci. Technol. 2017, 139, 64-73. [CrossRef]  
+291: 59. Jiang, S.; Cheong, J.Y.; Nam, J.S.; Kim, I.-D.; Agarwal, S.; Greiner, A. High-density Fibrous Polyimide Sponges with Superior Mechanical and Thermal Properties. ACS Appl. Mater. Interfaces 2020, 12, 19006-19014. [CrossRef]  
+292: 60. Yang, X.; Fan, S.; Li, Y.; Guo, Y.; Li, Y.; Ruan, K.; Zhang, S.; Zhang, J.; Kong, J.; Gu, J. Synchronously improved electromagnetic interference shielding and thermal conductivity for epoxy nanocomposites by constructing 3D copper nanowires/thermally annealed graphene aerogel framework. Compos. Part A Appl. Sci. Manuf. 2019, 128, 105670.  
+293: 61. Jin, X.; Wang, J.; Dai, L.; Liu, X.; Li, L.; Yang, Y.; Cao, Y.; Wang, W.; Wu, H.; Guo, S. Flame-retardant poly(vinyl alcohol)/MXene multilayered films with outstanding electromagnetic interference shielding and thermal conductive performances. Chem. Eng. J. 2020, 380, 122475. [CrossRef]  
+294: 62. Zhang, Z.; Ouyang, Y.; Cheng, Y.; Chen, J.; Li, N.; Zhang, G. Size-dependent phononic thermal transport in low-dimensional nanomaterials. Phys. Rep. 2020, 860, 1-26. [CrossRef]  
+295: 63. Qin, Y.; Peng, Q.; Ding, Y.; Lin, Z.; Wang, C.; Li, Y.; Xu, F.; Li, J.; Yuan, Y.; He, X.; et al. Lightweight, Superelastic, and Mechanically Flexible Graphene/Polyimide Nanocomposite Foam for Strain Sensor Application. ACS Nano 2015, 9, 8933-8941. [CrossRef] [PubMed]  
+296: 64. Yao, K.; Chen, J.; Li, P.; Duan, G.; Hou, H. Robust strong electrospun polyimide composite nanofibers from a ternary polyamic acid blend. Compos. Commun. 2019, 15, 92-95. [CrossRef]  
+297: 65. Wang, D.; Sun, Q.; Hokkanen, M.J.; Zhang, C.; Lin, F.-Y.; Liu, Q.; Zhu, S.-P.; Zhou, T.; Chang, Q.; He, B.; et al. Design of robust superhydrophobic surfaces. Nature 2020, 582, 55-59. [CrossRef]

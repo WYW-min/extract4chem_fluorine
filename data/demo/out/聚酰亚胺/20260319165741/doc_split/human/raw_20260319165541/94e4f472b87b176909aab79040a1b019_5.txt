@@ -1,0 +1,63 @@
+source_file: High performance polyimide films containing benzimidazole moieties for thin film solar cells.md
+doc_id: 94e4f472b87b176909aab79040a1b019
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [137, 183]
+char_span: [28382, 35358]
+line_count: 47
+effective_body_non_empty_lines: 42
+
+lines:
+--- chunk (b0006: References) ---
+137: # References
+138: 
+139: 1. Liu H., Zhai L., Bai L., He M., Wang C., Mo S., et al., Synthesis and characterization of optically transparent semi-aromatic polyimide films with low fluorine content. Polymer, 2019, 163, 106-114.  
+140: 2. Zhang X.-M., Liu J.-G., Yang S.-Y., A review on recent progress of R&D for high-temperature resistant polymer dielectrics and their applications in electrical and electronic insulation. Rev. Adv. Mater. Sci., 2016, 46(1), 22-38.  
+141: 3. Li Q., Chen L., Gadinski M.R., Zhang S., Zhang G., Li H.U., et al., Flexible high-temperature dielectric materials from polymer nanocomposites. Nature, 2015, 523(7562), 576-579.
+142: 
+143: 4. Lei X., Chen Y., Qiao M., Tian L., Zhang Q., Hyperbranched polysiloxane (HBPSi)-based polyimide films with ultralow dielectric permittivity, desirable mechanical and thermal properties. J. Mater. Chem. C, 2016, 4(11), 2134-2146.  
+144: 5. Yu X., Liang W., Cao J., Wu D., Mixed rigid and flexible component design for high-performance polyimide films. Polymers, 2017, 9(9), 451.  
+145: 6. Peng X., Xu W., Chen L., Ding Y., Chen S., Wang X., et al., Polyimide complexes with high dielectric performance: Toward polymer film capacitor applications. J. Mater. Chem. C, 2016, 4(27), 6452-6456.  
+146: 7. Bisoi S., Mandal A.K., Singh A., Banerjee S., Gas separation properties of Troeger's base-bridged polyamides. e-Polymers, 2017, 17(4), 283-293.  
+147: 8. Dasgupta B., Banerjee S., A study of gas transport properties of semifluorinated poly (ether imide) membranes containing cardio diphenylfluorene moieties. J. Membrane Sci., 2010, 362(1-2), 58-67.  
+148: 9. Dasgupta B., Sen S.K., Banerjee S., Gas transport properties of fluorinated poly (ether imide) membranes containing indan moiety in the main chain. J. Membrane Sci., 2009, 345(1-2), 249-256.  
+149: 10. Ghosh A., Banerjee S., Thermal, mechanical, and dielectric properties of novel fluorinated copoly(imide siloxane)s. J. Appl. Polym. Sci., 2008, 109(4), 2329-2340.  
+150: 11. Takekoshi T., Polyimides. CRC Press, 2018, 7-48.  
+151: 12. Yokota R., Photosensitive Polyimides. Routledge, 2017, 49-95.  
+152: 13. Wu H., Khdour M., Apsangi P., Yu H., High-frequency magnetic thin-film inductor integrated on flexible organic substrates. IEEE T. Magn., 2017, 53(11), 1-7.  
+153: 14. Zhu W., Park S., Yogeesh M.N., McNicholas K.M., Bank S.R., Akinwande D., Black phosphorus flexible thin film transistors at gihertz frequencies. Nano Lett., 2016, 16(4), 2301-2306.  
+154: 15. Ahne H., Rubner R., Photosensitive Polyimides. Routledge, 2017, 13-48.  
+155: 16. Ding M.X., Polyimides: Chemistry, Relationship between Structure and Properties and Materials. Science Press, Beijing, China, 2006.  
+156: 17. Feurer T., Reinhard P., Avancini E., Bissig B., Lückinger J., Fuchs P., et al., Progress in thin film CIGS photovoltaics - Research and development, manufacturing, and applications. Prog. Photovoltaics, 2017, 25(7), 645-667.  
+157: 18. Ma P., Wei N., Yang Z., Zhang P., Gang L., Lei Q., et al., Preparation and characterization of polyimide/Al $_2$ O $_3$  hybrid films by sol-gel process. J. Appl. Polym. Sci., 2010, 108(2), 705-712.  
+158: 19. Fay C.C., Stoakley D.M., Clair A.K.S., Molecularly Oriented Polymeric Thin Films for Space Applications. High Perform. Polym., 2008, 11(1), 145-156.  
+159: 20. Zhao W., Xu Y., Song C., Chen J., Liu X., Polyimide/mica hybrid films with low coefficient of thermal expansion and low dielectric constant. e-Polymers, 2019, 19, 181-189.  
+160: 21. Khatua S.C., Maiti S., High-performance polymer films. III. Preparation and characterization. J. Appl. Polym. Sci., 2001, 82(4), 976-988.  
+161: 22. Ding M., Polyimides: Synthesis of Monomer, Polymerization Method and Preparation of Materials. Science Press, Beijing, China, 2011.  
+162: 23. Wang Y., Lu G., Wang W., Cao M., Luo Z., Shao N., et al., Molecular design and synthesis of thermotropic liquid crystalline
+163: 
+164: poly(amide imide)s with high thermal stability and solubility. e-Polymers, 2017, 17, 199-207.  
+165: 24. Kohno T., Otani A., Hosoma T., Inoue H., Aromatic polyimide film and polyimide/copper foil composite sheet. US patent, US 5849397, US patent: Google Patents, 1998.  
+166: 25. Ishii J., Takata A., Oami Y., Yokota R., Vladimirov L., Hasegawa M., Spontaneous molecular orientation of polyimides induced by thermal imidization (6). Mechanism of negative in-plane CTE generation in non-stretched polyimide films. Eur. Polym. J., 2010, 46(4), 681-693.  
+167: 26. Numata S., Miwa T., Thermal expansion coefficients and moduli of uniaxially stretched polyimide films with rigid and flexible molecular chains. Polymer, 1989, 30(6), 1170-1174.  
+168: 27. Chen D., Wang R., Tjiu W.W., Liu T., High performance polyimide composite films prepared by homogeneity reinforcement of electrospun nanofibers. Compos. Sci. Technol., 2011, 71(13), 1556-1562.  
+169: 28. Dai X., Bao F., Jiao L., Yao H., Ji X., Qiu X., et al., High-performance polyimide copolymer fibers derived from 5-anino-2-(2-hydroxy-4-aminobenzene)-benzoxazole: Preparation, structure and properties. Polymer, 2018, 150, 254-266.  
+170: 29. Wang S., Zhou H., Dang G., Chen C., Synthesis and characterization of thermally stable, high-modulus polyimides containing benzimidazole moieties. J. Polym. Sci. A1, 2009, 47(8), 2024-2031.  
+171: 30. Li Y., Xu G., Cui C., Li Y., Flexible and semitransparent organic solar cells. Adv. Energ. Mater., 2018, 8(7), 1701791.  
+172: 31. Choi H., Chung I.S., Hong K., Park C.E., Kim S.Y., Soluble polyimides from unsymmetrical diamine containing
+173: 
+174: benzimidazole ring and trifluoromethyl pendent group. Polymer, 2008, 49(11), 2644-2649.  
+175: 32. Nishino T., Kotera M., Inayoshi N., Miki N., Nakamae K., Residual stress and microstructures of aromatic polyimide with different imidization processes. Polymer, 2000, 41(18), 6913-6918.  
+176: 33. Fay C.C., St. Clair A.K., Dimensionally stable polyimide copolymers for microelectronics applications. J. Appl. Polym. Sci., 1998, 69(12), 2383-2393.  
+177: 34. Miwa T., Okabe Y., Ishida M., Effects of precursor structure and imidization process on thermal expansion coefficient of polymide (BPDA/PDA). Polymer, 1997, 38(19), 4945-4949.  
+178: 35. Chung H., Joe Y., Han H., The effect of curing history on the residual stress behavior of polyimide thin films. J. Appl. Polym. Sci., 1999, 74(14), 3287-3298.  
+179: 36. Chen K.M., Wang T.H., King J.S., Hung A., Effect of imidization temperature on properties of polymide films. J. Appl. Polym. Sci., 1993, 48(2), 291-297.  
+180: 37. Takekoshi T., Polyimides. Springer Berlin Heidelberg, Berlin, Heidelberg, 1990.  
+181: 38. Khatua S.C., Maiti S., High performance polymer films 4. Mechanical behavior. Eur. Polym. J., 2002, 38(3), 537-543.  
+182: 39. Hasegawa M., Fujii M., Wada Y., Approaches to improve the film ductility of colorless cycloaliphatic polyimides. Polym. Advan. Technol., 2018, 29(2), 921-933.  
+183: 40. Wang C., Zhao X., Tian D., Wang D., Chen C., Zhou H., Synthesis and characterization of novel polyimides derived from 4, 4'-bis (5-amino-2-pyridinoxyl) benzophenone: effect of pyridine and ketone units in the main. Des. Monomers Polym., 2017, 20(1), 97-105.

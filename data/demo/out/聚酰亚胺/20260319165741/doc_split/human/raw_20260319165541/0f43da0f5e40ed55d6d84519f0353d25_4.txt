@@ -1,0 +1,34 @@
+source_file: A Universal Study on the Effect Thermal Imidization Has on the Physico-Chemical, Mechanical, Thermal and Elect.md
+doc_id: 0f43da0f5e40ed55d6d84519f0353d25
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Summary of the Thermal Imidization Process
+line_span: [202, 221]
+char_span: [44477, 47221]
+line_count: 18
+effective_body_non_empty_lines: 10
+
+lines:
+--- chunk (b0005: 4. Summary of the Thermal Imidization Process) ---
+202: # 4. Summary of the Thermal Imidization Process
+203: 
+204: Over the course of this study, it has been shown that the curing temperature has a major impact on the final properties of polyimide films. FTIR analysis has shown that the DOI of PI increases from  $200^{\circ}\mathrm{C}$  before reaching a maximum at  $320^{\circ}\mathrm{C}$  (Figure 1c), beyond which it plateaus. Another phenomenon takes place during the thermal imidization. Indeed, the charge-transfer complex formation, which is an association of two or more molecules, or of different parts of one large molecule, in which a fraction of electronic charge is transferred between the molecular entities (see Supplementary Figure S7).
+205: 
+206: A high cured temperature of PI films is effective in increasing the CTC (Figure 3c) between polyimide backbone chains through steric hindrance. This leads to decrease in the intermolecular distance and thus increased the interaction between the PI chains resulting in
+207: 
+208: a good packing and less free volume which affect the final polyimide thickness (Figure 3d). As the CTC absorbs light, the PI color becomes darker during the thermal curing (Figure 3a). On the other hand, as the cure temperature varies, the strength of the CTC increases and involves an enhancement in glass transition temperature during the thermal imidization (Figure 4a) representing a difference in intermolecular chain interactions. This results in higher energy necessary for rotation, higher heat capacity and higher  $\mathrm{T_g}$ .
+209: 
+210: While the mechanical (Figure 4c,d) breakdown field and dielectric properties (Figure 5a,b,d) are continuously enhanced with cure temperature increase, the field-dependent electrical properties present an optimized imidization within the intermediate temperature range (Figure 5c). The electrical characterization at low field presents an enhancement of the final PI properties likely due to a DOI extent. On the contrary, at high electric field, the conductivity results show an improvement in the cure temperature at an intermediate temperature emphasizing an ideal compromise between a high DOI and a contained PI chain packing when the thermal imidization process is performed over this equilibrium.
+211: 
+212: Figure 6 summarizes in a universal plot of the main changes that occur in PI films over the thermal imidization process.
+213: 
+214: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+215: (a)
+216: 
+217: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+218: (b)  
+219: Figure 6. Universal plot of the main physical changes in PMDA-ODA polyimide films over the thermal imidization process: (a) DOI,  $\mathrm{T_g}$ ,  $\mathrm{E_{BR}}$ , and (b) thickness, UV-vis transmittance, CTE,  $\tan \delta_{\mathrm{d}}$ , and  $\varepsilon'$ .

@@ -1,0 +1,56 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 11
+block_id: b0012
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: REFERENCES
+line_span: [253, 292]
+char_span: [36670, 40503]
+line_count: 40
+effective_body_non_empty_lines: 36
+
+lines:
+--- chunk (b0012: REFERENCES) ---
+253: # REFERENCES
+254: 
+255: 1. Yang, C.-P.; Su, Y.-Y. Polymer 2005, 46, 5797.  
+256: 2. Creed, D.; Hoyle, C. E.; Subramanian, P.; Nagarajan, R.; Pandey, C.; Anzures, E. T.; Cane, K. M.; Cassidy, P. E. Macromolecules 1994, 27, 832.  
+257: 3. Hoyle, C. E.; Anzures, E. T.; Subramanian, P.; Nagarajan, R.; Creed, D. Macromolecules 1992, 25, 6651.  
+258: 4. Srisuwan, S.; Thongyai, S.; Praserthdam, P. J. Appl. Polym. Sci. 2010, 117, 2422.  
+259: 5. Miyata, S.; Sato, S.; Nagai, K.; Nakagawa, T.; Kudo, K. J. Appl. Polym. Sci. 2008, 107, 3933.  
+260: 6. Sato, S.; Ose, T.; Miyata, S.; Kanehashi, S.; Ito, H.; Matsumoto, S.; Iwai, Y.; Matsumoto, H.; Nagai, K. J. Appl. Polym. Sci. 2011, 121, 2794.  
+261: 7. Miyata, S.; Shirokura, H.; Nagai, K. Kobunshi Ronbunshu 2009, 66, 170.  
+262: 8. Kanehashi, S.; Sato, S.; Nagai, K. Polym. Eng. Sci. 2011, 51, 2360.  
+263: 9. Sato, S.; Gondo, D.; Sugiyama, H.; Nagai, K.; Matsumoto, S.; Matsumoto, H. J. Photopolym. Sci. Technol. 2012, 25, 401.  
+264: 10. Sato, S.; Ito, H.; Mizunuma, T.; Nagai, K.; Matsumoto, H.; Matsumoto, S. J. Photopolym. Sci. Technol. 2011, 24, 617.  
+265: 11. Nakamura, K.; Kitagawa, T.; Nara, S.; Wakamatsu, T.; Ishiba, Y.; Kanehashi, S.; Sato, S.; Nagai, K. Ind. Eng. Chem. Res. 2013, 52, 1133.  
+266: 12. Kanehashi, S.; Onda, M.; Shindo, R.; Sato, S.; Kazama, S.; Nagai, K. Polym. Eng. Sci. 2013, 53, 1667.  
+267: 13. Sato, S.; Suzuki, M.; Kanehashi, S.; Nagai, K. J. Membr. Sci. 2010, 360, 352.
+268: 
+269: 14. Kanehashi, S.; Gu, H.; Shindo, R.; Sato, S.; Miyakoshi, T.; Nagai, K. J. Appl. Polym. Sci. 2013, 128, 3814.  
+270: 15. Kanehashi, S.; Nakagawa, T.; Nagai, K.; Duthie, X.; Kentish, S.; Stevens, G. J. Membr. Sci. 2007, 298, 147.  
+271: 16. Scholes, C. A.; Ribeiro, C. P.; Kentish, S. E.; Freeman, B. D. J. Membr. Sci. 2014, 450, 72.  
+272: 17. Calle, M.; Doherty, C. M.; Hill, A. J.; Lee, Y. M. Macromolecules 2013, 46, 8179.  
+273: 18. Guo, R.; Sanders, D. F.; Smith, Z. P.; Freeman, B. D.; Paul, D. R.; McGrath, J. E. J. Mater. Chem. A 2013, 1, 6063.  
+274: 19. Smith, Z. P.; Sanders, D. F.; Ribeiro, C. P.; Guo, R.; Freeman, B. D.; Paul, D. R.; McGrath, J. E.; Swinnea, S. J. Membr. Sci. 2012, 415, 558.  
+275: 20. Kim, S.; Woo, K. T.; Lee, J. M.; Quay, J. R.; Murphy, M. K.; Lee, Y. M. J. Membr. Sci. 2014, 453, 556.  
+276: 21. Kostina, J.; Rusakova, O.; Bondarenko, G.; Alentiev, A.; Meleshko, T.; Kukarkina, N.; Yakimanskii, A.; Yampolskii, Y. Ind. Eng. Chem. Res. 2013, 52, 10476.  
+277: 22. Nguyen, T. H.; Wang, C.; Wang, X. J. Membr. Sci. 2009, 342, 208.  
+278: 23. Choi, J.; Takayama, T.; Yu, H.-C.; Chung, C.-M.; Kudo, K. Polymer 2012, 53, 1328.  
+279: 24. Hedrick, J. L.; Charlier, Y.; DiPietro, R.; Jayaraman, S.; McGrath, J. E. J. Polym. Sci. Part A: Polym. Chem. 1996, 34, 2867.
+280: 
+281: 25. Fodor, J. S.; Briber, R. M.; Russell, T. P.; Carter, K. R.; Hedrick, J. L.; Miller, R. D. J. Polym. Sci. Part B: Polym. Phys. 1997, 35, 1067.  
+282: 26. Hedrick, J. L.; Carter, K.; Sanchez, M.; Di Pietro, R.; Swanson, S.; Jayaraman, S.; McGrath, J. G. Macromol. Chem. Phys. 1997, 198, 549.  
+283: 27. Miyata, S.; Yoshida, K.; Shirokura, H.; Kashio, M.; Nagai, K. Polym. Int. 2009, 58, 1148.  
+284: 28. Miyata, S.; Nagai, K. Chem. Lett. 2007, 36, 1114.  
+285: 29. Kanehashi, S.; Koyama, Y.; Ando, S.; Konishi, S.; Shindo, R.; Miyata, S.; Sato, S.; Miyakoshi, T.; Nagai, K. Polym. Int. 2014, 63, 435.  
+286: 30. Sato, S.; Ichikawa, M.; Ose, T.; Miyata, S.; Takahashi, Y.; Kanehashi, S.; Matsumoto, H.; Nagai, K. Polym. Int. 2013, 62, 1377.  
+287: 31. Kanehashi, S.; Nagai, K. J. Membr. Sci. 2005, 253, 117.  
+288: 32. Nagai, K.; Kanehashi, S.; Tabei, S.; Nakagawa, T. J. Membr. Sci. 2005, 251, 101.  
+289: 33. Li, G. Z.; Cho, H.; Wang, L.; Toghiani, H.; Pittman, C. U. J. Polym. Sci. Part A: Polym. Chem. 2005, 43, 355.  
+290: 34. Prausnitz, J. M.; Shair, F. H. AICHe J. 1961, 7, 682.  
+291: 35.Nagai,K.Kobunshi Ronbunshu 2003,60,482.  
+292: 36. Kanehashi, S.; Nakagawa, T.; Nagai, K.; Duthie, X.; Kentish, S.; Stevens, G. J. Membr. Sci. 2007, 298, 147.

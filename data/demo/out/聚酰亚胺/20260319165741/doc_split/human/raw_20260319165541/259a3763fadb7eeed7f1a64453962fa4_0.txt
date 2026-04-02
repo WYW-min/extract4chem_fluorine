@@ -1,0 +1,70 @@
+source_file: Influence of Mixed Imide Composition and Thermal Annealing on Ionic Liquid Uptake and Conductivity of Polyimid.md
+doc_id: 259a3763fadb7eeed7f1a64453962fa4
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Influence of Mixed Imide Composition and Thermal Annealing on Ionic Liquid Uptake and Conductivity of Polyimide-Poly(ethylene glycol) Segmented Block Copolymer Membranes
+line_span: [1, 56]
+char_span: [0, 3534]
+line_count: 54
+effective_body_non_empty_lines: 30
+
+lines:
+--- chunk (b0001: Influence of Mixed Imide Composition and Thermal Annealing on Ionic Liquid Uptake and Conductivity of Polyimide-Poly(ethylene glycol) Segmented Block Copolymer Membranes) ---
+1: [MINERU_DISCARDED_META]
+2: molecules
+3: MDPI
+4: Molecules 2021, 26, 7450. https://doi.org/10.3390/molecules26247450
+5: https://www.mdpi.com/journal/molecules
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Influence of Mixed Imide Composition and Thermal Annealing on Ionic Liquid Uptake and Conductivity of Polyimide-Poly(ethylene glycol) Segmented Block Copolymer Membranes
+11: 
+12: Gokcen A. Ciftcioglu  $^{1,2,*}$  and Curtis W. Frank
+13: 
+14: $^{1}$  Department of Chemical Engineering, Marmara University, Istanbul 34722, Turkey  
+15: $^{2}$  Department of Chemical Engineering, Stanford University, Stanford, CA 94305, USA; cwfrank@stanford.edu  
+16: * Correspondence: ggiftcioglu@marmara.edu.tr
+17: 
+18: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+19: 
+20: Citation: Ciftcioglu, G.A.; Frank
+21: 
+22: C.W. Influence of Mixed Imide
+23: 
+24: Composition and Thermal Annealing on Ionic Liquid Uptake and
+25: 
+26: Conductivity of
+27: 
+28: Polyimide-Poly(ethylene glycol)
+29: 
+30: Segmented Block Copolymer
+31: 
+32: Membranes. Molecules 2021, 26, 7450.
+33: 
+34: https://doi.org/10.3390/
+35: 
+36: molecules26247450
+37: 
+38: Academic Editor: Paul Nancarrow
+39: 
+40: Received: 12 October 2021
+41: 
+42: Accepted: 1 November 2021
+43: 
+44: Published: 9 December 2021
+45: 
+46: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+47: 
+48: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+49: 
+50: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+51: 
+52: Abstract: Understanding the impact of different bridging groups in the two-step polymerization of poly(ethylene glycol) (PEG)-incorporated polyimide (PI) materials is significant. It is known that the proton exchange membranes (PEMs) used in industry today can experience performance degradation under rising temperature conditions. Many efforts have been devoted to overcoming this problem by improving the physical and mechanical properties that extend the hygrothermal life of a PEM. This work examines the effect of oxygenated and fluorinated bridging anhydrides in the production of PI-PEG PEMs. It is shown that the dianhydride identity and the amount incorporated in the synthesis influences the properties of the segmented block copolymer (SBC) membranes, such as increased ionic liquid uptake (ILU), enhanced conductivity and higher Young's modulus favoring stiffness comparable to Nafion 115, an industrial standard. Investigations on the ionic conductivity of PI-PEG membranes were carried out to determine how thermal annealing would affect the material's performance as an ion-exchange membrane. By applying a thermal annealing process at  $60^{\circ}\mathrm{C}$  for one hour, the conductivities of synthesized segmented block copolymer membranes values were increased. The effect of thermal annealing on the mechanical properties was also shown for the undoped SBC via measuring the change in the Young's modulus. These higher ILU abilities and mechanical behavior changes are thought to arise from the interaction between PEG molecules and ethylammonium nitrate (EAN) ionic liquid (IL). In addition, higher interconnected routes provide a better ion-transfer environment within the membrane. It was found that the conductivity was increased by a factor of ten for undoped and a factor of two to seven for IL-doped membranes after thermal annealing.
+53: 
+54: Keywords: copolymerization; bicontinuous structures; ionic liquid; polymer exchange membranes

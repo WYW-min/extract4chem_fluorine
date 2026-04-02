@@ -1,0 +1,31 @@
+source_file: Alicyclic PolyimideSiO2 Mixed Matrix Membranes for Watern-Butanol Pervaporation.md
+doc_id: e0b3ab252e5119414a412cf73a251285
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [288, 304]
+char_span: [42671, 45404]
+line_count: 15
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+288: # 4. Conclusions
+289: 
+290: Two types of alicyclic  $\mathrm{PI} / \mathrm{SiO}_2$  MMMs were developed for water/n-butanol pervaporation. The results of water contact angle and pure solvent swelling degree on membrane characterization showed that the BCDA-3,4'-ODA/SiO $_2$  MMMs became less hydrophilic with the increasing SiO $_2$  content, while the BCDA-1,3,3-APB/SiO $_2$  MMMs became more hydrophilic. In addition to the effect of the solvent swelling degree, the other effects affecting the pervaporation performance included: fractional free volume of pristine PI, faster diffusion capability of water, the restriction on liquid transport due to the blockage of nonporous SiO $_2$  nanoparticles, and the creation of non-selective transport paths owing to the void formation from SiO $_2$  nanoparticle aggregation at higher loading content. The combination of these effects resulted in the variations of individual solvent flux and separation factor. The BCDA-3,4'-ODA/SiO $_2$  MMMs exhibited both higher permeation flux and greater separation factor than BCDA-1,3,3-APB/SiO $_2$  MMMs. For both kinds of PI/SiO $_2$  MMMs, the separation factor increased first and then decreased with the increasing SiO $_2$  loading. The effect of SiO $_2$  incorporation was more significant for the BCDA-1,3,3-APB/SiO $_2$  MMMs, especially enhancing the separation factor 3-5.7 times. On the other hand, the overall separation efficiency (PSI value) of BCDA-3,4'-ODA-based membranes was better, ca. 10-30-fold higher than BCDA-1,3,3-APB-based membranes. Based on the PSI performance, the optimal SiO $_2$  loading content was 0.5 wt% for BCDA-3,4'-ODA/SiO $_2$  MMMs and 5 wt% for BCDA-1,3,3-APB/SiO $_2$  MMMs. In addition, larger SiO $_2$  content in MMM (e.g., 15 wt%) would cause more severe particle-cluster aggregation and create big defects to deteriorate the pervaporation performance.
+291: 
+292: Author Contributions: Conceptualization, S.-Y.S.; methodology, S.-Y.S.; validation, B.-X.L., C.-W.H. and S.-Y.S.; formal analysis, C.-W.H. and S.-Y.S.; investigation, B.-X.L., C.-W.H. and S.-Y.S.; resources, S.-Y.S.; data curation, S.-Y.S.; writing—original draft preparation, C.-W.H.; writing—review and editing, S.-Y.S.; visualization, S.-Y.S.; supervision, S.-Y.S.; project administration, S.-Y.S.; funding acquisition, S.-Y.S. All authors have read and agreed to the published version of the manuscript.
+293: 
+294: Funding: This research was funded by Ministry of Science and Technology, Taiwan, grant number MOST 104-2221-E-005-064-MY3.
+295: 
+296: Institutional Review Board Statement: Not applicable.
+297: 
+298: Informed Consent Statement: Not applicable.
+299: 
+300: Data Availability Statement: Not applicable.
+301: 
+302: Conflicts of Interest: The authors declare no conflict of interest.

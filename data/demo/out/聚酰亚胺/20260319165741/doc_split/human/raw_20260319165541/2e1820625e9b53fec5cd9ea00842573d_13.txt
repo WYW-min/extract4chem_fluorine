@@ -1,0 +1,21 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 13
+block_id: b0014
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: THERMAL PROPERTIES OF PI FILM
+line_span: [139, 145]
+char_span: [23797, 25304]
+line_count: 5
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0014: THERMAL PROPERTIES OF PI FILM) ---
+139: # THERMAL PROPERTIES OF PI FILM
+140: 
+141: Figures 6 and 7 represent TGA and DSC thermograms of PI films, respectively. Noticeably, the decomposition peak at  $360~^\circ \mathrm{C}$  in Figure 6 for MDI-6FDA film corresponds to the decomposition of trace amounts of
+142: 
+143: solvent in the sample. According to Table 5, MDI-6FDA film demonstrates excellent thermal stability at  $674~^\circ \mathrm{C}$  in a nitrogen atmosphere, comparable to reference film Kapton. However, the  $T_{\mathrm{g}}$  value of MDI-6FDA film is lower at  $238^{\circ}C$  compared to Kapton film. This is because the presence of a large  $\mathrm{CF}_3$  group in 6FDA has increased the intermolecular spacing between the chains, resulting in a lower packing density and rigidity of the polymer compared to PMDA in Kapton (Hu et al. 2021; Huang et al. 2017). This enables the polymer chains to move more easily and with less energy (Peng, Dussan & Narain 2020; Shrivastava 2018), producing a lower  $T_{\mathrm{g}}$  temperature in MDI-6FDA film than in Kapton. Despite this, the  $T_{\mathrm{g}}$  of the MDI-6FDA film achieved in this study is comparable to the  $T_{\mathrm{g}}$  of the PI film structure from the previous study with the  $\mathrm{C(CF_3)_2}$  group (Jang et al. 2007). Although the  $\mathrm{CF}_3$  structural features have helped to improve the transparency of MDI-6FDA film (Table 3) by reducing the rigidity of the polymer chain (Ando, Matsuura & Sasaki 1997), it has also significantly reduced its thermal resistance.

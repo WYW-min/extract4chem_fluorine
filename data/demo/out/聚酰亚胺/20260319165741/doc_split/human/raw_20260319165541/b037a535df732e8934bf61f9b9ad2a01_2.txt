@@ -1,0 +1,53 @@
+source_file: Atomic Oxygen-Resistant Polyimide Composite Films Containing Nanocaged Polyhedral Oligomeric Silsesquioxane Co.md
+doc_id: b037a535df732e8934bf61f9b9ad2a01
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [59, 97]
+char_span: [11027, 18250]
+line_count: 37
+effective_body_non_empty_lines: 17
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+59: # 2. Materials and Methods
+60: 
+61: # 2.1.Materials
+62: 
+63: TSP-POSS was obtained from Hybrid Plastics, Co. Ltd., (Hattiesburg, MS, USA). DABA-POSS was prepared according to our previous work [30]. Pyromellitic dianhydride (PMDA) and  $4,4^{\prime}$ -Oxydianline (ODA) were purchased from Tokyo Chemical Industry (TCI) Co., Ltd., Tokyo, Japan. PMDA was treated under vacuum at  $180^{\circ}$  for  $10\mathrm{h}$  to remove the water absorbed prior to use, ODA was used directly. Ultra-dry solvents with the water contents below  $200~\mathrm{ppm}$ , including  $N$ -methyl-2-pyrrolidinone (NMP),  $N,N$ -dimethylacetamide (DMAc),  $N,N$ -dimethylformamide (DMF) were purchased from Sinopharm Chem Reagent Co. Ltd. (Shanghai, China) without purification.
+64: 
+65: # 2.2. Measurements
+66: 
+67: The attenuated total reflectance Fourier transform infrared (ATR-FTIR) spectra of PI composite films were obtained using a Bruker Tensor-27 FT-IR spectrometer (Ettingen, Germany) with the scan range of wavenumber from 4000 to  $400\mathrm{cm}^{-1}$ . The wide-angle X-ray diffraction (XRD) patterns of PI composite films were determined with Rigaku D/max-2500 X-ray diffractometer (Tokyo, Japan) using Cu-Kα1 radiation at room temperature between  $3^{\circ}\mathrm{C}$  and  $80^{\circ}\mathrm{C}$ . X-ray photoelectron spectroscopy (XPS) data were measured with ESCALab220i-XL electron spectrometer (Thermo Fisher Scientific, Waltham, MA, USA). XPS spectra were obtained using  $\mathrm{MgK}\alpha$  X-ray source with a power of  $300\mathrm{W}$ . The base pressure of vacuum chamber was set at  $3\times 10^{-9}$  mbar. The binding energies were  $284.8\mathrm{eV}$  derived from the adventitious C1s as a reference. Field emission scanning electron microscopy (FE-SEM) was carried out using a Technex Lab Tiny-SEM 1540 (Tokyo, Japan) with an accelerating voltage of  $15\mathrm{KV}$  for imaging. Pt/Pd was sputtered on each film before the SEM measurements. The atomic force microscopy (AFM) images of PI composite films were measured in tapping mode on a Bruker Multimode 8 AFM microscope (Santa Barbara, CA, USA).
+68: 
+69: For the transparency measurements, ultraviolet-visible (UV-Vis) spectra of PI composite films were recorded on a Hitachi U-3210 spectrophotometer (Tokyo, Japan) at room temperature. PI samples were dried at  $100^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  to remove any absorbed moisture prior to tests. Yellow index (YI) and haze values of the PI films (thickness:  $20~\mu \mathrm{m}$ ) were measured using an X-rite Ci7800 spectrophotometer (Grand Rapids, MI, USA).
+70: 
+71: Thermogravimetric analysis (TGA) was performed with a Perkin-Elmer TGA4000 thermal analysis system (Waltham, MA, USA). The thermal scanning mode ranges from 50 to  $750^{\circ}\mathrm{C}$  at a heating rate of  $10\mathrm{K / min}$  in nitrogen atmosphere with a gas flow of  $20~\mathrm{mL / min}$ . Similarly, thermo-mechanical analysis (TMA) was recorded on a TA-Q 400 thermal analysis system (New Castle, DL, USA). The thermal scanning mode ranges from 50 to  $400^{\circ}\mathrm{C}$  at a heating rate of  $10\mathrm{K / min}$  in nitrogen atmosphere. The size of the film samples was  $10\times 5\times 0.025\mathrm{mm}^3$ . The coefficients of linear thermal expansion (CTE) values of composite films were recorded in the range of  $50 - 200^{\circ}\mathrm{C}$ .
+72: 
+73: The AO erosion behaviors of PI composite films were tested in a ground-based AO effect simulation facility [30]. The AO fluence was measured after exposure by the etch depth of Kapton® reference sample, whose erosion yield  $(E_{\mathrm{Kapton}})$  was  $3.0 \times 10^{-24} \mathrm{~cm}^3/$  atom. The fluence could be calculated from the etch depth by the following Equation (1):
+74: 
+75: $$
+76: F = \frac {\Delta H _ {K a p t o n}}{E _ {K a p t o n}} \tag {1}
+77: $$
+78: 
+79: where,  $F = \mathrm{AO}$  fluence (atoms/cm $^2$ );  $\Delta H_{\mathrm{Kapton}} =$  erosion depth of the Kapton reference sample (cm);  $E_{\mathrm{Kapton}} =$  erosion yield of Kapton reference sample (3.0 × 10 $^{-24}$  cm $^3$ /atom).
+80: 
+81: According to the equation above, the fluence of AO in this experiment is calculated to be  $2.51 \times 10^{21}$  atoms/cm $^2$ . In order to study the etching depth, the samples were covered with stainless steel meshes to produce the etched and pristine areas, which were used to measure the step height using a profilometer. The erosion yield of the sample,  $E_{\mathrm{s}}$ , is calculated through the following Equation (2) [27]:
+82: 
+83: $$
+84: E _ {s} = \frac {\Delta H _ {s}}{\Delta H _ {K a p t o n}} E _ {K a p t o n} \tag {2}
+85: $$
+86: 
+87: where,  $E_{\mathrm{s}} =$  erosion yield of the sample (cm $^3$ /atom);  $\Delta H_{\mathrm{s}} =$  erosion depth of the sample (cm).
+88: 
+89: # 2.3. Synthesis of PAA Varnishes and Preparation of PI Composite Film
+90: 
+91: The preparation of poly(amic acid) (PAA) composite solutions was achieved by the combination of copolymerization and physical blending of POSS-containing components, which could be illustrated by the synthesis of POSS-PAA-30 containing  $30\mathrm{wt}\%$  of DABAPPOSS and  $20\mathrm{wt}\%$  of TSP-POSS. The experimental device is equipped with a mechanical stirrer, an ice-cold bath, and a  $500\mathrm{-mL}$  three-necked round-bottom flask with nitrogen inlet. First, ODA  $(15.35\mathrm{g},76.67\mathrm{mmol})$ , DABA-POSS  $(15.15\mathrm{g},15.02\mathrm{mmol})$ , TSP-POSS  $(12.63\mathrm{g})$  and ultra-dry DMAc solvent  $(182.5\mathrm{g})$  were added into the flask. A clear solution was obtained after stirring at  $5 - 10^{\circ}\mathrm{C}$  for  $2\mathrm{h}$  under nitrogen flow. Then, PMDA  $(20.00\mathrm{g},91.69\mathrm{mmol})$  and the additional DMAc  $(70.0\mathrm{g})$  were added to the reaction mixture obtained above. The solid content of the reaction mixture was adjusted to be  $20\mathrm{wt}\%$  by this procedure. The cold bath was removed and the reaction mixture was stirred at room temperature for another  $22\mathrm{h}$ . The deep-brown viscous solution obtained was filtered through a  $0.45 - \mu \mathrm{m}$  polytetrafluoroethylene (PTFE) syringe filter. Then the prepared POSS-PAA-30 solution was stored in a glass bottle at  $-18^{\circ}\mathrm{C}$  before use.
+92: 
+93: The degassed POSS-PAA-30 solution was warmed to room temperature before use, and then blade-coated onto a clean glass substrate. The thickness of the wet PAA films was controlled by the height of the slit. The glass substrates were then placed in an oven with flowing nitrogen gas. The POSS-PAA-30 was gradually thermally imidized with the following curing procedure:  $80^{\circ}\mathrm{C} / 3\mathrm{h}$ ,  $120^{\circ}\mathrm{C} / 1\mathrm{h}$ ,  $150^{\circ}\mathrm{C} / 1\mathrm{h}$ ,  $180^{\circ}\mathrm{C} / 1\mathrm{h}$ ,  $250^{\circ}\mathrm{C} / 1\mathrm{h}$ ,  $300^{\circ}\mathrm{C} / 1\mathrm{h}$ , and  $350^{\circ}\mathrm{C} / 0.5\mathrm{h}$ . Then, the glass substrate was immersed in warm deionized water to obtain the free-standing POSS-PI-30 film.
+94: 
+95: The other PAA solutions and the corresponding PI films, including POSS-PI-10, POSS-PI-15, POSS-PI-20, and POSS-PI-25 were prepared according to a similar procedure. The difference was the contents of DABA-POSS were different. The pristine PI (PMDA-ODA) film was also prepared in a similar way.

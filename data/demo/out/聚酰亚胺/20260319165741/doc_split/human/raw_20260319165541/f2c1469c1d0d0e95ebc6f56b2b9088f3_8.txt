@@ -1,0 +1,51 @@
+source_file: Nanoindentation studies of polyimide thin films with various internal linkages in the diamine component.md
+doc_id: f2c1469c1d0d0e95ebc6f56b2b9088f3
+chunk_index: 8
+block_id: b0009
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: REFERENCES AND NOTES
+line_span: [158, 192]
+char_span: [31231, 34002]
+line_count: 35
+effective_body_non_empty_lines: 31
+
+lines:
+--- chunk (b0009: REFERENCES AND NOTES) ---
+158: # REFERENCES AND NOTES
+159: 
+160: 1. Tammula, R. R.; Rymaszewski, E. J. Microelectronics Packaging Handbook; Van Nostrand Reinhold: New York, 1989.  
+161: 2. Ghosh, M. K.; Mittal, K. L. Polyimides: Fundamentals and Applications; Marcel Dekker: New York, 1996.  
+162: 3. Bessonov, M. I.; Koton, M. M.; Kudryyavtsev, V. V.; Laius, L. A. Polyimides: Thermally Stable Polymers; Consultants Bureau: New York, 1987.  
+163: 4. Wilson, D.; Stenzenberger, H. D.; Hergenrother, P. M. Polyimides; Chapman and Hall: New York, 1990.  
+164: 5. Maier, G. Prog Polym Sci 2001, 26, 3.  
+165: 6. Li, D.; Chung, Y. W.; Wong, M. S.; Sproul, W. D. J Appl Phys 1993, 74, 219.  
+166: 7. Cha, H. J.; Hedrick, J. L.; DiPietro, R. A.; Blume, T.; Beyers, R.; Yoon, D. Y. Polym Prep 1996, 37, 815.  
+167: 8. Course Notes of Mechanical Testing by Indentation; MTS: Oak Ridge, TN, 2000.  
+168: 9. Kiflie, Z.; Piccarolo, S.; Brucato, V.; Balta-Callega, F. J. Polymer 2002, 43, 4487.  
+169: 10. Garcia Gutierrez, M. C.; Rueda, D. R.; Balta-Callega, F. J.; Stribeck, N.; Bayer, R. K. Polymer 2003, 44, 451.  
+170: 11. Azzurri, F.; Flores, A.; Alfonso, G. C.; Sics, I.; Hsiao, B. S.; Balta-Callega, F. J. Polymer 2003, 44, 1641.  
+171: 12. Yordanov, H.; Minkova, L. Eur Polym J 2003, 39, 951.  
+172: 13. Fakirov, S.; Balta Calleja, F. J.; Krumova, M. J. Polym Sci Part B: Polym Phys 1997, 37, 1413.
+173: 
+174: 14. Poilane, C.; Delobelle, P.; Lexcellent, C.; Hayashi, S.; Tobushi, H. Thin Solid Films 2000, 379, 156.  
+175: 15. Cramez, M. C.; Oliveira, M. J.; Fakirov, S.; Crawford, R. J.; Apostolov, A. A.; Krumova, M. Adv Polym Technol 2001, 2, 116.  
+176: 16. Beake, B. D.; Leggett, G. J. Polymer 2002, 43, 319.  
+177: 17. Sroog, C. E.; Endrey, A. L.; Abramo, S. V.; Berr, C. E.; Edwards, W. M.; Olivier, K. L. J Polym Sci Part A: Gen Pap 1965, 3, 1373.  
+178: 18. Kreuz, J. A.; Endrey, A. L.; Gay, F. P.; Sroog, C. E. J Polym Sci Part A-1 1966, 4, 2607.  
+179: 19. Lee, C.; Shul, Y.; Han, H. J Polym Sci Part B: Polym Phys 2002, 40, 2190.  
+180: 20. Han, H.; Seo, J.; Ree, M.; Pyo, S. M.; Gryte, C. C. Polymer 1998, 39, 2963.  
+181: 21. Chung, H.; Lee, C.; Han, H. Polymer 2001, 42, 319.
+182: 
+183: 22. Seo, J.; Jeon, J.; Lee, C.; Park, S.; Han, H. J Appl Polym Sci 2001, 79, 2121.  
+184: 23. Seo, J.; Lee, A.; Lee, C.; Han, H. J Appl Polym Sci 2000, 76, 1315.  
+185: 24. Lee, C.; Lee, B.; Min, B.; Han, H. (Unpublished result).  
+186: 25. Gao, S. L.; Mader, E. J Compos A 2002, 33, 559.  
+187: 26. Raju, T. D.; Nakasa, K.; Kato, M. Acta Mater 2003, 51, 457.  
+188: 27. Ree, M.; Chu, K. C.; Goldberg, M. J. J Appl Phys 1994, 75, 1410.  
+189: 28. Groh, W.; Zimmerman, A. Macromolecules 1991, 24, 6660.  
+190: 29. Ree, M.; Kim, K.; Woo, S. H.; Chang, H. J Appl Phys 1997, 81, 698.  
+191: 30. Yoon, D. Y.; Volksen, W.; Depero, L.; Parrish, W.; Ree, M. Mater Res Soc Symp Proc 1991, 227, 371.  
+192: 31. Cha, C. Y.; Samuels, R. J. J Polym Sci Part B: Polym Phys 1995, 33, 259.

@@ -1,0 +1,39 @@
+source_file: Influence of Heating Rate on the Structure and Mechanical Properties of Aromatic BPDA鈥揚DA Polyimide Fiber.md
+doc_id: fc746317a61db975a40d5a9bdf4a52d0
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [47, 71]
+char_span: [8274, 12818]
+line_count: 23
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+47: # 2. Materials and Methods
+48: 
+49: # 2.1. Materials
+50: 
+51: The BPDA and PDA were purchased from the Shanghai Research Institute of Synthetic Resins, Shanghai, China. The BPDA was dried at  $200^{\circ}\mathrm{C}$  for  $20\mathrm{h}$  in a nitrogen atmosphere (High Purity, Juyang Gas, Changchun, China). The PDA was purified by sublimation. The DMAc was purchased from Tianjin Fine Chemical Company, Tianjin, China, and used according to kit instructions.
+52: 
+53: # 2.2. Preparation of PAA Fibers
+54: 
+55: The BPDA-PDA PAA was synthesized in a dried DMAc solvent by mixing BPDA and PDA in a molar ratio of 1.01/1.00. The PDA monomer was dissolved in DMAc first, and BPDA monomer was then added in a nitrogen atmosphere. After stirring at  $0^{\circ}\mathrm{C}$  for  $8\mathrm{h}$ , a yellow viscous solution with  $15\mathrm{wt}\%$  solid content was obtained. The intrinsic viscosity of the PAA was measured as  $1.25\mathrm{dL/g}$  by Ubbelohde viscometer (the capillary diameter is  $0.57\mathrm{mm}$ ) at  $30^{\circ}\mathrm{C}$  through a dilution method. This PAA solution was filtered and degassed before fiber spinning. As-spun PAA fibers were prepared via dry-jet wet-spinning technology, by extruding the PAA solution through a spinneret (50 holes,  $120\mu\mathrm{m}$ ) into air first, and then drawn into a coagulation bath. The air gap between the spinneret and the coagulation bath was approximately  $5\mathrm{cm}$ . The coagulation bath was a mixture of water and DMAc  $(v/v = 5/5)$ . After several times being washed by deionized water, the as-spun PAA fibers were dried in an air oven at  $80^{\circ}\mathrm{C}$  for  $12\mathrm{h}$ . The synthetic route of the PAA and PI fibers is shown in Scheme 1.
+56: 
+57: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+58: Scheme 1. Synthesis of the BPDA-PDA polyamic acid and polyimide fibers.
+59: 
+60: # 2.3. Preparation of PI Fiber
+61: 
+62: The PI fibers were obtained under different heating rates by utilizing TGA equipment (Q50, TA Instruments, New Castle, DE, USA) as a furnace. The PAA fibers were treated using TGA at heating rates of 1, 2, 5, 10, 20, 40 and  $80^{\circ}\mathrm{C / min}$  from room temperature to 300, 350 and  $400^{\circ}\mathrm{C}$ .
+63: 
+64: # 2.4. Characterization
+65: 
+66: The amidization process of the PAA fibers was characterized on the basis of the curve trends detected by TGA. The amidization degrees of fiber samples was calculated from the FTIR spectra obtained through a FTIR spectrometer (Bruker Vertex 70, Billerica, MA, USA) in an attenuated total reflection mode. The bands at 1552 and  $1380~\mathrm{cm}^{-1}$ , which respectively represent the absorption of benzene ring and imide N-C stretching of PI, were chosen to estimate the amidization degrees of the fibers. DMA (SDTA861e, Mettler Toledo, Schwerzenbach, Zürich, Switzerland) was carried out on the PAA fibers in tension mode at a frequency of  $1\mathrm{Hz}$ . A series of heating rates (1, 2, 3, 3.5, 4, 5, 8, 10, 16 and  $20^{\circ}\mathrm{C / min}$ ) were adopted for DMA characterization. The densities of the PI fibers were measured by a buoyancy method [20]. The XRD (SmartLab, Rigaku, Akishima-shi, Tokyo, Japan) patterns were obtained along and perpendicular to the fiber axis. The PI fibers were twisted on the particular holder designed by our laboratory, enabling the fiber to be characterized quantitatively. The area and location of certain diffraction peaks were studied and analyzed with the Origin 8.0 (OriginLab Corporation, Northampton, MA, USA) and PeakFit 4.0 software (Systat Software, San Jose, CA, USA). The 2D wide-angle X-ray diffraction (WAXD) patterns of the PI fiber obtained from the Shanghai Synchrotron Radiation Facility are shown in Figure 1. The most isolated (004) streaks on the 2D WAXD patterns were determined, and Hermans' orientation factor  $(f_{\mathrm{c}})$  was calculated to characterize the preferred orientation of crystals in the fiber [20]. The tensile properties of all of the PI fibers were characterized by an extensometer (XQ-1C, New Fiber Instrument, Shanghai, China) with a cross-head speed of  $5\mathrm{mm / min}$ . Each sample was tested 30 times, and the average value was adopted as the final result.
+67: 
+68: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+69: Figure 1. 2D WAXD patterns of PI fiber (fiber treated at  $40^{\circ}C / \mathrm{min}$  from room temperature to  $400^{\circ}C$  as an example). The steaks of (004) and (0010) and the streaks of (110), (200) and (210) are on the meridian and equatorial directions of the PI fiber, respectively.

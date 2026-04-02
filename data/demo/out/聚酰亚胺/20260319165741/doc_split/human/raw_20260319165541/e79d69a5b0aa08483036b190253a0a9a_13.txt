@@ -1,0 +1,33 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 13
+block_id: b0014
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: BET AND MORPHOLOGY ANALYSIS
+line_span: [121, 139]
+char_span: [23718, 25648]
+line_count: 17
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0014: BET AND MORPHOLOGY ANALYSIS) ---
+121: # BET AND MORPHOLOGY ANALYSIS
+122: 
+123: of the pore and the average pore size for the two types of filler: RHA and sRHA. The BET surface area was calculated from the plots of BET with the P/P0 value of 0.20. From Table 3, it showed that RHA had greater BET surface area, higher pore volume and approximately similar pore size as compared to sRHA (4.33 and  $4.96\%$  higher in BET surface area and pore volume, respectively). It can be deduced that sulfonation on the rice husk ash had slightly reduced the BET surface area and the pore volume as SO3 particles had been incorporated into the rice husk ash. The average pore size diameter of  $5\mathrm{nm}$  indicated that the RHA and sRHA formed were mesoporous (IUPAC:  $2 - 50\mathrm{nm} =$  mesoporous).
+124: 
+125: Table 3 summarized the BET surface area, the volume  
+126: TABLE 3. BET analysis of fillers RHA and sRHA  
+127: 
+128: <table><tr><td>Filler</td><td>BETarea</td><td>Pore volume</td><td>Average pore size</td></tr><tr><td></td><td>(m2/g)</td><td>(cm3/g)</td><td>(nm)</td></tr><tr><td>RHA</td><td>275.95</td><td>0.3490</td><td>5.0591</td></tr><tr><td>sRHA</td><td>264.01</td><td>0.3317</td><td>5.0254</td></tr></table>
+129: 
+130: Figure 2 represented the TEM images for fillers RHA and sRHA, respectively. Both displayed nearly spherical in shape of silica nanoparticles with an average diameter of about  $50\mathrm{nm}$  were formed. For the RHA, there were some darker spots present in RHA where this meant they were the overlapped RHA particles. On the other
+131: 
+132: hand, based on Figure 2, it was noticeable that there were a lot of dark spots present in sRHA as compared to RHA. The dark spots present in sRHA were the consequence of the sulfonation process. This verified that the SO3 molecules were added to the rice husk ash.
+133: 
+134: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+135: FIGURE 2. TEM images of (a) RHA (b) sRHA
+136: 
+137: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)

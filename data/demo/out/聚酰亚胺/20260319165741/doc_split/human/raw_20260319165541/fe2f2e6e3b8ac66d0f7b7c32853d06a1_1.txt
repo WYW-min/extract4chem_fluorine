@@ -1,0 +1,53 @@
+source_file: Comparative Studies of CPEs Modified with Distinctive Metal Nanoparticle-Decorated Electroactive Polyimide for.md
+doc_id: fe2f2e6e3b8ac66d0f7b7c32853d06a1
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: check for updates
+line_span: [20, 58]
+char_span: [1047, 3380]
+line_count: 37
+effective_body_non_empty_lines: 18
+
+lines:
+--- chunk (b0002: check for updates) ---
+20: # check for updates
+21: 
+22: Citation: Bibi, A.; Hsu, S.-C.; Ji, W.-F.; Cho, Y.-C.; Santiago, K.S.; Yeh, J.-M.
+23: 
+24: Comparative Studies of CPEs
+25: 
+26: Modified with Distinctive Metal
+27: 
+28: Nanoparticle-Decorated Electroactive
+29: 
+30: Polyimide for the Detection of UA.
+31: 
+32: Polymers 2021, 13, 252.
+33: 
+34: https://doi.org/10.3390/
+35: 
+36: polym13020252
+37: 
+38: Academic Editor:
+39: 
+40: Arunas Ramanavicius
+41: 
+42: Received: 15 December 2020
+43: 
+44: Accepted: 8 January 2021
+45: 
+46: Published: 13 January 2021
+47: 
+48: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+49: 
+50: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+51: 
+52: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+53: 
+54: Abstract: In this present work, an electrochemical sensor was developed for the sensing of uric acid (UA). The sensor was based on a carbon paste electrode (CPE) modified with electroactive polyimide (EPI) synthesized using aniline tetramer (ACAT) decorated with reduced nanoparticles (NPs) of Au, Pt, and Ag. The initial step involved the preparation and characterization of ACAT. Subsequently, the ACAT-based EPI synthesis was performed by chemical imidization of its precursors  $4,4^{\prime}$ -(4.4'-isopropylidene-diphenoxy) bis (phthalic anhydride) BPADA and ACAT. Then, EPI was doped with distinctive particles of Ag, Pt and Au, and the doped EPIs were abbreviated as EPIS, EPIP and EPIG, respectively. Their structures were characterized by XRD, XPS, and TEM, and the electrochemical properties were determined by cyclic voltammetry and chronoamperometry. Among these evaluated sensors, EPI with Au NPs turned out the best with a sensitivity of  $1.53\mathrm{uA}\mathrm{uM}^{-1}$  UA, a low limit of detection (LOD) of  $0.78\mathrm{uM}$ , and a linear detection range (LDR) of  $5 - 50\mathrm{uM}$  UA at a low potential value of  $310\mathrm{mV}$ . Additionally, differential pulse voltammetric (DPV) analysis showed that the EPIG sensor showed the best selectivity for a tertiary mixture of UA, dopamine (DA), and ascorbic acid (AA) as compared to EPIP and EPIS.
+55: 
+56: Keywords: electroactive; polyimide; nanoparticles; uric acid; electrochemical sensor

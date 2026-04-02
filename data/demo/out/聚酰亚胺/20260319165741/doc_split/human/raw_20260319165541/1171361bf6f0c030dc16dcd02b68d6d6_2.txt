@@ -1,0 +1,44 @@
+source_file: Electrospun Benzimidazole-Based Polyimide Membrane for Supercapacitor Applications.md
+doc_id: 1171361bf6f0c030dc16dcd02b68d6d6
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Experimental Section
+line_span: [65, 94]
+char_span: [8053, 14461]
+line_count: 28
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0003: 2. Experimental Section) ---
+65: # 2. Experimental Section
+66: 
+67: # 2.1. Materials
+68: 
+69: All of the reagents used in the present study were of ACS reagent grade and were used without any purification unless otherwise specified. 4-aminobenzoic acid (PABA) and  $3,3^{\prime}$ -diaminobenzidine (DAB) were acquired from Sigma-Aldrich (St. Louis, MO, USA). Polyphosphoric acid (PPA, 84 wt.%), phosphorus (V) oxide (P2O5),  $N,N$ -dimethylacetamide (DMAc) and dimethyl sulfoxide (DMSO) were acquired from Acros Organics (Thermo Fisher Scientific, Waltham, MA, USA).  $4,4^{\prime}$ -oxydiphthalic anhydride (ODPA) was acquired from Alfa Aesar, Thermo Fisher Scientific Co. (Waltham, MA, USA). Sodium bicarbonate and methanol were acquired from Duksan Pure Chemicals Co. (Ansan, South Korea). The  $N,N$ -dimethylacetamide (DMAc) and dimethyl sulfoxide (DMSO) were stirred in the presence of P2O5 overnight and then distilled under reduced pressure.
+70: 
+71: # 2.2. Synthesis of  $6,6^{\prime}$ -bis[2-(4-Aminophenyl)Benzimidazole], BAPBI
+72: 
+73: PPA  $(40.0\mathrm{g})$  and  $\mathrm{P}_2\mathrm{O}_5$ $(5.0\mathrm{g})$  were mixed in a  $100~\mathrm{mL}$  completely dried reaction flask equipped with a mechanical stirrer (RCT digital, IKA®-Werke GmbH & CO. KG, Staufen, Germany) and a nitrogen inlet to form a thick paste. The mixture was stirred and heated at  $150^{\circ}\mathrm{C}$  until the  $\mathrm{P}_2\mathrm{O}_5$  was completely dissolved and was then allowed to cool to room
+74: 
+75: temperature.  $3,3^{\prime}$ -diaminobenzidine (2.1427 g, 10 mmol) and 4-aminobenzoic acid (3.0171 g, 22 mmol) were added to the flask and stirred for 12 h at  $200^{\circ}\mathrm{C}$ . After cooling to room temperature, the product was poured into an ice-cold 10 wt.% aqueous solution of sodium carbonate and was stirred rapidly to form a dark green precipitate. The solid precipitate was collected, washed with water and then dried. The dried precipitate was dissolved with methanol, and the filtrate was collected and vacuum dried to remove excess methanol and obtain yellow product BAPBI (3.79 g, 90%).
+76: 
+77: # 2.3. Fabrication of BI-PI Membrane
+78: 
+79: BI-PI was synthesized using the two-step method shown in Figure 1. In a typical process, BAPBI (1.8758 g, 4.5 mmol) and ODPA (1.3980 g, 4.5 mmol) were mixed in 17.5 mL anhydrous DMSO and DMAc (volume ratio = 1:1). The mixture was stirred for 12 h at room temperature to obtain a homogenous viscous PAA solution with a solid content of 15.4 wt.% Electrospinning was then performed using a syringe with a spinneret having an inside diameter of 0.686 mm (19 G) and an applied voltage of 20 kV. The PAA solution was fed at a speed of 0.01 mL/min with a distance of 20 cm between the tip of the needle and the collector. The PAA nanofiber-based nonwoven fabric was thermally imidized by a successive heating program (120, 200, 250, 300 °C for 2 h each and 350, 400 °C for 1 h each) in an Ar-condition muffle. Finally, the imidized BI-PI nonwoven fabric was hot-pressed for 30 min at 200 °C under a pressure of 50 kgf /cm².
+80: 
+81: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+82: Figure 1. Synthesis of BI-PI polymer containing BAPBI.
+83: 
+84: # 2.4. Characterization
+85: 
+86: Fourier transform infrared (FT-IR) spectra were obtained on a Thermo-iS50 spectrometer (Waltham, MA, USA) over the range of  $400 - 4000\mathrm{cm}^{-1}$  with a  $2\mathrm{cm}^{-1}$  spectral resolution.  ${}^{1}\mathrm{H}$  NMR and  ${}^{13}\mathrm{C}$  NMR spectra were additionally obtained at  $500\mathrm{MHz}$  using a Bruker AV-500 spectrometer (Bruker BioSpin, Rheinstetten, Germany) with DMSO- $d_{6}$  as the solvent. The surface morphologies and fiber diameters of the unpressed and hot-pressed BI-PI polymer membranes were examined by scanning electron microscopy (SEM, JSM-6701F,
+87: 
+88: JEOL Ltd., Tokyo, Japan). Thermogravimetric analyses (TGA, Perkin Elmer TGA 4000, Washington, MA, USA) were conducted over the temperature range of room temperature to  $800^{\circ}\mathrm{C}$  at a heating rate of  $10^{\circ}\mathrm{C} / \mathrm{min}$  under a dry nitrogen flow. The mechanical properties of the unpressed and hot-pressed BI-PI membranes were measured on a universal testing machine ((model 3365 with Bluehill software, Instron, Norwood, MA, USA) using rectangular specimens with a size of  $150 \times 5\mathrm{mm}$  and a stretching rate of  $12.5\mathrm{mm} / \mathrm{min}$ . Dynamic mechanical analyses (DMA, TA Q 800, TA Instruments, New Castle, DE, USA) were conducted in a nitrogen environment with a load frequency of  $1\mathrm{Hz}$  and a heating rate of  $5^{\circ}\mathrm{C} / \mathrm{min}$  over the temperature range of 100 to  $450^{\circ}\mathrm{C}$ . Finally, the pore-size distributions and porosities of the unpressed and hot-pressed membranes were measured by a mercury porosimeter (Micromeritics, AutoPore IV 9520, Norcross, GA, USA).
+89: 
+90: # 2.5. Electrochemistry Test
+91: 
+92: Multiporous carbon powder (MPC, Brunauer-Emmett-Teller surface area:  $1500\mathrm{m}^2/\mathrm{g}$ ) was derived by the KOH activation of water chestnut shell (WCS) at  $800^{\circ}\mathrm{C}$ , as described in a previous study by the present group [28]. Active materials (MPC, 92.5 wt.%) and polyvinylidene fluoride binder (7.5 wt.%) were thoroughly mixed to produce a slurry, and the slurry was coated on aluminum foils to produce test electrodes. A supercapacitor coin cell was constructed consisting of two facing electrodes sandwiching a hot-pressed BI-PI membrane (diameter  $17\mathrm{mm}$ ). Cyclic voltammetry (CV) measurements were conducted at voltages of  $-2.5$  to  $2.5\mathrm{V}$  using sweep rates ranging from 2 to  $200\mathrm{mV/s}$  and  $1.0\mathrm{M}$  TEABF $_4$  in a propylene carbonate (PC) solution as the electrolyte. Electrochemical impedance spectroscopy (EIS) measurements were additionally conducted under open-circuit voltage conditions (0 V) using a frequency range of  $1\mathrm{mHz}$  to  $100\mathrm{kHz}$  and a  $5\mathrm{mV}$  amplitude. The CV and EIS measurements were both obtained on an electrochemical workstation (CHI 680, CH Instruments, Inc., Austin, TX, USA). For comparison purposes, CV and EIS measurements were additionally obtained for a commercial CR-2032 coin cell with a cellulose membrane with a thickness of  $30\mu\mathrm{m}$  (TF-4030, Nippon Kodoshi Corporation, Kochi, Japan). Coin cells were assembled in an argon-filled glove box which the oxygen and moisture content below  $1.0\mathrm{ppm}$ .

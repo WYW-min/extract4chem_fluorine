@@ -1,0 +1,37 @@
+source_file: Melt-Processable Semicrystalline Polyimides Based on 1,4-Bis(3,4-dicarboxyphenoxy)benzene Dianhydride (HQDPA) .md
+doc_id: 724b3ca4557ffff35902e69c7cee1aa6
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [36, 58]
+char_span: [8269, 13191]
+line_count: 21
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+36: # 2. Materials and Methods
+37: 
+38: # 2.1. Materials
+39: 
+40: 1,3-Bis(4-aminophenoxy)benzene (TPER), 1,4-bis(4-aminophenoxy)benzene (TPEQ), and  $4,4^{\prime}$ -bis(4-aminophenoxy)biphenyl (BAPB) were supplied by Changzhou Sunshine Chemical Corp.
+41: 
+42: $4,4^{\prime}$ -Oxydianiline  $(4,4^{\prime}$ -ODA) was purchased from Shandong Wanda Chemical Company. The 1,4-bis(3,4-dicarboxyphenoxy)benzene dianhydride (HQDPA) was obtained from Hipolyking Corp. and dried at  $150~^\circ \mathrm{C}$  prior to use. Phthalic anhydride (PA), isoquinoline and  $m$ -cresol were obtained from Aladdin and used as received. All other reagents for the study were commercially obtained and used as received without further purification.
+43: 
+44: # 2.2. Synthesis of Polymers
+45: 
+46: The semicrystalline polyimides based on HQDPA were synthesized via one-step polycondensation in  $m$ -cresol. A typical synthesis procedure for the polyimide derived from HQDPA/TPEQ (PI-2) was carried out as follows:
+47: 
+48: A  $250\mathrm{-mL}$ , three-necked flask fitted with a nitrogen inlet tube and a condenser with a Dean-Stark trap was used as the reaction vessel. HQDPA  $(7.7244\mathrm{g}, 19.2\mathrm{mmol})$ , TPEQ  $(5.8466\mathrm{g}, 20.0\mathrm{mmol})$  and PA  $(0.2370\mathrm{g}, 1.6\mathrm{mmol})$  were firstly added to the reaction vessel.  $m$ -Cresol was added to achieve a  $10\%$  solid content, and then a few drops of isoquinoline were added successively as the catalyst. The reaction mixture was reacted at  $200^{\circ}\mathrm{C}$  for  $8\mathrm{h}$  under nitrogen to afford the polyimide. After cooling down, ethanol was added to the reaction mixture. The precipitated polyimide was collected by filtration, followed by thorough washing with ethanol and dried in a vacuum oven at  $200^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ . The inherent viscosity of PI-2 was  $0.58\mathrm{dL/g}$  in  $m$ -cresol at a concentration of  $0.5\mathrm{g/dL}$  at  $30^{\circ}\mathrm{C}$ . The other polyimides were also synthesized by the same procedure as described above.
+49: 
+50: # 2.3. Polymer Film Preparation
+51: 
+52: The polyimide films were prepared by heating the polyimide powder at about  $30^{\circ}\mathrm{C}$  higher than melting temperature for 10 min under 9.8 MPa load followed by slowly cooling to room temperature.
+53: 
+54: # 2.4. Measurements
+55: 
+56: The inherent viscosity  $(\eta_{\mathrm{inh}})$  of the polyimide was determined using an Ubbelohde viscometer with capillary diameter of  $1.07~\mathrm{mm}$  at a concentration of  $0.5~\mathrm{g / dL}$  in  $m$ -cresol at  $30^{\circ}\mathrm{C}$ . The Fourier transform infrared spectra (FT-IR) were obtained from a Thermo Scientific Nicolet 6700 FT-IR spectrometer (Thermo Fisher Scientific, Grand Island, NY, USA) and the sample was prepared with KBr pellets. Thermogravimetric analysis (TGA) studies were carried out on a TG/DTA (Mettler Toledo, Zurich, Switzerland). The powder samples were tested at a heating rate of  $10^{\circ}\mathrm{C}\cdot \mathrm{min}^{-1}$  under either a nitrogen or air atmosphere. The tensile measurements were measured using an Instron model 5567 (Instron, Boston, MA, USA), the film specimens ( $50~\mathrm{mm}$  long,  $10~\mathrm{mm}$  wide, and about  $30~\mu \mathrm{m}$  thick) were tested at a strain rate of  $5~\mathrm{mm}\cdot \mathrm{min}^{-1}$  at room temperature. The differential scanning calorimetry (DSC) measurements were conducted on a DSC (Mettler Toledo, Zurich, Switzerland),  $6 - 8\mathrm{mg}$  of sample under a nitrogen purge, at heating rates of  $10^{\circ}\mathrm{C}\cdot \mathrm{min}^{-1}$  unless otherwise specified. The DSC curves shown in this paper have been normalized to  $1\mathrm{mg}$  sample mass. Temperature and heat flow were calibrated using indium and zinc standards. Wide-angle X-ray diffraction (WAXD) measurement of the powder was carried out via Bruker D8 Advance Davinci X-ray Powder Diffraction (Bruker, Rheinstetten, Germany) with  $\mathrm{CuK}\alpha$  radiation. The data were collected in a fixed time mode with a step size of  $0.02^{\circ}$  ( $2\theta$ ) and run in the range  $2\theta = 10 - 50^{\circ}$ , operated at  $40\mathrm{KV}$  and  $40\mathrm{mA}$ . Dynamic mechanical thermal analysis (DMA) was performed on a dynamic mechanical thermal analyzer DMA Q800 (TA Instruments, Eden Prairie, MN, USA) in a tensile mode at a heating rate of  $3^{\circ}\mathrm{C}\cdot \mathrm{min}^{-1}$  and at a frequency of  $1\mathrm{Hz}$  in air. The rheological properties of polyimides were performed on a rotational rheometer Physica MCR 301 (Anton Paar, Graz, Austria) in an oscillation model at a heating rate of  $3^{\circ}\mathrm{C}\cdot \mathrm{min}^{-1}$  and at a frequency of  $1\mathrm{Hz}$  in air. Polarized optical microscopic (POM) was performed on Olympus BX51 optical microscope (Olympus, Tokyo, Japan) equipped with a hot stage, a video camera. The measurements were performed on thin films sandwiched between two microscope cover slips.

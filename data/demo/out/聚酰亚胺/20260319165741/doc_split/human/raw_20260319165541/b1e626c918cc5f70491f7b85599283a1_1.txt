@@ -1,0 +1,29 @@
+source_file: Physical and Gas Transport Properties of Asymmetric Hyperbranched Polyimide-Silica Hybrid Membranes.md
+doc_id: b1e626c918cc5f70491f7b85599283a1
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. INTRODUCTION
+line_span: [19, 33]
+char_span: [2749, 6556]
+line_count: 13
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0002: 1. INTRODUCTION) ---
+19: # 1. INTRODUCTION
+20: 
+21: Aromatic polyimide (PI) is one of the super engineering plastics which have been used in many high-technology fields. Especially, in recent years, aromatic PI have been of great interest in gas separation membranes because of their excellent mechanical and thermal property, and high gas permeability and selectivity [1-4]. PIs can take various kinds of structures by combining various monomers (diamines and dianhydrides).
+22: 
+23: For the asymmetric type PIs prepared from asymmetric dianhydrides and symmetric diamines, it has been reported that the resulting PIs exhibited increased solubility, reduced viscosity, and higher glass transition temperatures ( $T_{g}s$ ) than the symmetric type PIs. The increased  $T_{g}s$  were ascribable to their rigid and bent structure, and the steric hindrance [5-8]. In general, it is said that the increase in gas permeability is also induced by the rigid molecular chain.
+24: 
+25: Hyperbranched polymers are highly branched three-dimensional dendritic polymers possessing unique properties (e.g., good solubility, reduced viscosity, higher fractional free volume, and multifunctionality) arising from multiple end groups. Hyperbranched polyimides (HBPIs) can be synthesized from either the self-polycondensation of  $\mathsf{AB}_2$ -type monomers or the polycondensation reaction of  $\mathsf{A}_2 + \mathsf{B}_3$  monomers, where  $\mathsf{A}_2$  represents a dianhydride monomer and  $\mathsf{B}_3$  represents a triamine monomer. In the case of an  $\mathsf{A}_2 + \mathsf{B}_3$  type polycondensation reaction, a variety of HBPIs can be synthesized by changing the monomer ratio and combining  $\mathsf{A}_2$  and  $\mathsf{B}_3$  monomers [9-11]. Fang et al. were the first to report the synthesis of HBPIs derived from a triamine, tris(4-aminophenyl)amine (TAPA), and commercially available dianhydrides [12,13]. We have also studied physical and gas transport properties of the HBPI membranes which have benzene ring-centered symmetric structure; i.e. we have synthesized the HBPIs by polycondensation reaction of 4,4'- (hexafluoroisopropylidene) diphthalic anhydride (6FDA) as a dianhydride monomer and triamine monomers, 1,3,5-tris(4-aminophenoxy) benzene (TAPOB), 1,3,5-tris(4-aminophenoxy) triazine (TAPOTZ) and 1,3,5-
+26: 
+27: tris(4-aminophenyl)benzene (TAPB) and found that the HBPI(6FDA-TAPB) membranes exhibit the highest gas permeability coefficient arising from the highest fractional free volume (FFV) [14].
+28: 
+29: Additionally, we have studied the syntheses and gas transport properties of symmetric HBPI-silica hybrid membranes. Organic-inorganic hybrid materials have been recognized as a new class of high performance materials because they combine the advantages of the inorganic material (e.g., rigidity and thermal stability) and the organic polymer (e.g., flexibility, dielectric, ductility, and processability) [15, 16]. The synthesis of PI-silica hybrid materials and the investigation of their physical and gas transport properties have also received much attention [17-19]. In our previous researches about the symmetric HBPI-silica hybrid membranes, we found that the gas permeability and  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  selectivity of these membranes prepared via sol-gel reaction using tetramethoxysilane (TMOS) increased with increasing silica content, suggesting the characteristic distribution and interconnectivity of free volume holes created by the incorporation of silica [14, 20-26].
+30: 
+31: In this study, physical and gas transport properties of the asymmetric HBPI-silica hybrid membranes prepared with a dianhydride, 6FDA, and a asymmetric triamine,  $2,4,4^{\prime}$  (triaminodiphenyl)ether (TADE), were investigated and compared with those of symmetric HBPI-silica hybrid membranes prepared with a symmetric triamine, TAPOB.

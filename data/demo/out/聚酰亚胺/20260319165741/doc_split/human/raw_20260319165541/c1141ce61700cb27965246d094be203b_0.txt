@@ -1,0 +1,42 @@
+source_file: High Thermally Stable and Melt Processable Polyimide Resins Based on Phenylethynyl-Terminated Oligoimides Cont.md
+doc_id: c1141ce61700cb27965246d094be203b
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: High Thermally Stable and Melt Processable Polyimide Resins Based on Phenylethynyl-Terminated Oligoimides Containing Siloxane Structure
+line_span: [1, 28]
+char_span: [0, 3103]
+line_count: 26
+effective_body_non_empty_lines: 16
+
+lines:
+--- chunk (b0001: High Thermally Stable and Melt Processable Polyimide Resins Based on Phenylethynyl-Terminated Oligoimides Containing Siloxane Structure) ---
+1: [MINERU_DISCARDED_META]
+2: materials
+3: MDPI
+4: Materials 2020, 13, 3742; doi:10.3390/ma13173742
+5: www.mdpi.com/journal/materials
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # High Thermally Stable and Melt Processable Polyimide Resins Based on Phenylethynyl-Terminated Oligoimides Containing Siloxane Structure
+11: 
+12: Xiaozhou Xu  $^{1,2}$ , Yi Liu  $^{1}$ , Bangwei Lan  $^{1,2}$ , Song Mo  $^{1}$ , Lei Zhai  $^{1}$ , Minhui He  $^{1}$  and Lin Fan  $^{1,2,*}$
+13: 
+14: $^{1}$  Key Laboratory of Science and Technology on High-Tech Polymer Materials, Institute of Chemistry, Chinese Academy of Sciences, Beijing 100190, China; xuxiaozhou@iccas.ac.cn (X.X.); liuyipi@iccas.ac.cn (Y.L.); lanbangwei@iccas.ac.cn (B.L.); mosong@iccas.ac.cn (S.M.); zhailei@iccas.ac.cn (L.Z.); heminhui@iccas.ac.cn (M.H.)  
+15: $^{2}$  School of Chemical Science, University of Chinese Academy of Sciences, Beijing 100049, China  
+16: * Correspondence: fanlin@iccas.ac.cn; Tel.: +86-010-6256-4819
+17: 
+18: Received: 1 August 2020; Accepted: 20 August 2020; Published: 24 August 2020
+19: 
+20: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+21: 
+22: check for updates
+23: 
+24: Abstract: A series of 4-phenylethynylphthalic anhydride (PEPA)-terminated oligoimides were prepared by co-oligomerizing isomeric dianhydrides, i.e.,  $2,3,3^{\prime},4^{\prime}$  -biphenyltetracarboxylic dianhydride (a-BPDA),  $2,3,3^{\prime},4^{\prime}$  -benzophenonetetracarboxylic dianhydride (a-BTDA) or  $2,3,3^{\prime},4^{\prime}$  -diphenylethertetracarboxylic dianhydride (a-ODPA), with diamines mixture of bis(4-aminophenoxy)dimethyl silane (APDS) and  $2,2^{\prime}$  -bis(trifluoromethyl) benzidine (TFDB). The effects of siloxane content and dianhydride structure on the rheological properties of these oligoimides and thermal stability of the corresponding cured polyimide resins were investigated. The results indicated that the introduction of the siloxane structure improved the melt processability of the oligoimides, while the thermal stability of the cured polyimide resins reduced. The oligoimide derived from a-ODPA revealed better melt processability and melt stability due to the existence of a flexible dianhydride structure. The oligoimide PIS-O10 derived from a-ODPA gave the lowest minimum melt viscosity of  $0.09\mathrm{Pa}\cdot \mathrm{s}$  at  $333^{\circ}\mathrm{C}$  and showed the excellent melt stability at  $260^{\circ}\mathrm{C}$  for  $2\mathrm{h}$  with the melt viscosity in the range of  $0.69 - 1.63\mathrm{Pa}\cdot \mathrm{s}$ . It is also noted that the thermal stability of these resins can be further enhanced by postcuring at  $400 - 450^{\circ}\mathrm{C}$ , which is attributed to the almost complete chemical crosslinking of the phenyethynyl combined with oxidative crosslinking of siloxane. The PIS-T10 and PIS-O10 resins that were based on a-BTDA and a-ODPA, respectively, even showed a glass transition temperature over  $550^{\circ}\mathrm{C}$  after postcuring at  $450^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ .
+25: 
+26: Keywords: phenylethynyl-terminated oligoimide; siloxane structure; isomeric dianhydrides; rheological properties; thermal stability

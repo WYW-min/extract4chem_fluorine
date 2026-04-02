@@ -1,0 +1,68 @@
+source_file: One-Pot Synthesis of Amide-Functional Main-Chain Polybenzoxazine Precursors.md
+doc_id: a844b67c83cd6c3ff13c52c6161206a4
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [59, 112]
+char_span: [10795, 22679]
+line_count: 52
+effective_body_non_empty_lines: 29
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+59: # 3. Results and Discussion
+60: 
+61: DHCs are prone to react with amines in benign conditions without a catalyst requirement (Scheme 2) [55,56]. Correspondingly, ring-opening reactions of DHC have gained interest, especially in medicinal chemistry, where the synthesis of amide precursors using mild and non-catalytic conditions are preferred, in order to meet the requirements of green chemical synthesis [57]. More specifically, DHCs are suitable reagents for the preparation of amide-functional phenolics at room temperature, either quantitatively or with high yields. Therefore, such phenolics can be prepared without significant effort being used to select suitable amines.
+62: 
+63: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+64: Scheme 2. Ring-opening aminolysis of DHC to form a phenolic amide.
+65: 
+66: The presence of several different commercially available amines provides a vast design capacity to obtain phenolics for further use in benzoxazine synthesis. Besides, the ring-opening aminolysis of two moles of DHC with one mol of difunctional amine in a medium having four moles of formaldehyde would also trigger concomitant Mannich and ring-closure cascade reactions to form 1,3-oxazines. Hence, main-chain polybenzoxazines with amide linkages would eventually be synthesized under such a condition. Accordingly, DHC was reacted with three different diamines, and paraformaldehyde and polybenzoxazines precursors with different molecular weights were obtained successfully (Scheme 3).
+67: 
+68: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+69: Scheme 3. One-pot synthesis of amide linkage containing a main-chain polybenzoxazine precursor.
+70: 
+71: The reaction between DHC and diamines was performed at  $80^{\circ}\mathrm{C}$  in both  $\mathrm{CH}_3\mathrm{CN}$  and toluene-ethanol mixtures (2:1  $(v / v)$ ) for  $24\mathrm{h}$  to complete the ring-opening aminolysis reaction, and then paraformaldehyde was added into the mixtures under reflux for a further  $12\mathrm{h}$  to form the benzoxazine ring. 1,3-Diaminopropane, 1,6-diaminohexane, and Jeffamine® ED-900 were selected as diamines for regulating the flexibility of the main-chain polybenzoxazine precursor. The obtained polymers were abbreviated as poly(DHC-Bz-propylamide), poly(DHC-Bz-hexylamide), and poly(DHC-Bz-jeffamide), respectively.
+72: 
+73: The chemical structures of the polybenzoxazine precursors were evaluated by  ${}^{1}\mathrm{H}$  NMR and FTIR spectral analysis. In Figure 1, the  ${}^{1}\mathrm{H}$  NMR spectra of poly(DHC-Bz-hexylamide) and poly(DHC-Bz-jeffamide) were presented. It should be noted that poly(DHC-Bz-propylamide) was insoluble in common solvents used for NMR characterization. The characteristic oxazine proton signals at 4.96, 4.84 ppm (O-CH $_2$ -N), and 4.05, 3.94 ppm (Ar-CH $_2$ -N), provide clear evidence for the formation of benzoxazine in poly(DHC-Bz-jeffamide) and poly(DHC-Bz-hexylamide), respectively. Moreover, the triplet peaks at 2.61, 2.58 ppm (-CH $_2$ -NH), and 2.47, 2.40 ppm (Ar-CH $_2$ -) also verify the ring-opening of DHC. Besides, in Figure 1b, the peak at 2.68 ppm indicates that poly(DHC-Bz-hexylamide) contains an end-chain primary amine. FTIR spectra of the main-chain polybenzoxazines disclose the formation of amide functionality and the oxazine ring (Figure 2). The stretching vibration bands of aromatic C-H (3136–3038 cm $^{-1}$ ) and aromatic C=C (1461–1598 cm $^{-1}$ ) bonds, and the out-of-plane bending of aromatics and oxazine ring vibrations of C-H bonds (925–941 cm $^{-1}$ ), can be considered as convincing spectral evidence for the formation of benzoxazine moieties. Besides, stretching vibrations of the amide carbonyl group are clearly visible at ca. 1630–1653 cm $^{-1}$ , and for amide N-H with water residue, emerge at ca. 3288–3313 cm $^{-1}$ . Moreover, Figure 2a exhibits strong C-O stretching vibration of the poly(propylene glycol) segment at 1100 cm $^{-1}$ . Apart from the spectral characterization, molecular weights ( $M_{\mathrm{n}}$ ) and polydispersity index (PDI) of the polymers were determined as being ca. 4600 Da, 1.3 for poly(DHC-Bz-hexylamide), and ca. 3000 Da, 1.2 for poly(DHC-Bz-hexylamide) using GPC. These spectral and chromatographic data confirm the successful synthesis of amide-functional main-chain polybenzoxazines.
+74: 
+75: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+76: Figure 1.  ${}^{1}\mathrm{H}$  NMR spectra of (a) poly(DHC-Bz-jeffamide) and (b) poly(DHC-Bz-hexylamide).
+77: 
+78: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+79: Figure 2. The overlaid FTIR spectra of (a) poly(DHC-Bz-jeffamide), (b) poly(DHC-Bz-hexylamide), and (c) poly(DHC-Bz-propylamide).
+80: 
+81: As stated, polybenzoxazines can be synthesized by ring-opening polymerization (ROP) of benzoxazines at temperatures between 160 and  $260^{\circ}\mathrm{C}$ . The polymerization of these monomers is exothermic and can be monitored easily by differential scanning calorimetry (DSC). Figure 3 and Table 1 show the DSC results of poly(DHC-Bz-propylamide), poly(DHC-Bz-hexylamide), and poly(DHC-Bz-jeffamide). Accordingly, all of the precursors are curable and exhibit broad curing exotherms starting from  $168^{\circ}\mathrm{C}$  for hexylamide,  $172^{\circ}\mathrm{C}$  for Jeffamide, and  $185^{\circ}\mathrm{C}$  for propylamide-based precursors. These onset values are relatively low compared to the curing temperatures of classical benzoxazine monomers. The main reason for low onset temperatures might be the presence of some ring-opened oxazine repeat units, since it is well known that unreacted phenols in benzoxazine formulations could catalyze ROP and reduce the curing temperatures [5,58]. Moreover, the precursor poly(DHC-Bz-propylamide) that was synthesized from a shorter amine exhibits the largest amount of exotherm among the three examples because of the larger oxazine mass per repeat unit. Conversely, poly(DHC-Bz-jeffamide) has the smallest amount of exotherm due to the large Jeffamide units per oxazine ring. Therefore, it could be concluded that the amount of polymeric benzoxazine precursor exotherm is directly proportional to the mass ratio of the oxazine ring per total mass of the related precursor. However, this generalization may not be applicable for the two different types of main-chain precursors due to functional group effects. Also, without considering the structure, the success of the ring-closure reaction to form oxazine rings on the precursor would affect the extent of exotherm.
+82: 
+83: In general, around  $10\%$  of ring-opened oxazine units remain on the polymer backbone in a classical main-chain polybenzoxazine synthesis [37]. However, the ring-closure ratio of poly(DHC-Bz-jeffamide) was calculated as ca.  $77\%$  by using integration ratios from proton NMR spectroscopy. This result could be expected since the synthesis of poly(DHC-Bz-jeffamide) basically should include two successive stages—the ring-opening of DHC and oxazine formation.
+84: 
+85: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+86: Figure 3. DSC thermograms of (a) poly(DHC-Bz-propylamide), (b) poly(DHC-Bz-hexylamide), and (c) poly(DHC-Bz-jeffamide).
+87: 
+88: Table 1. Differential scanning calorimetry (DSC)  ${}^{a}$  characteristics of amide-functional polybenzoxazine precursors.  
+89: 
+90: <table><tr><td>Polymer</td><td>Tonset (°C)</td><td>Tend-set (°C)</td><td>Tmax (°C)</td><td>Enthalpy (j/g)</td></tr><tr><td>Poly(DHC-Bz-propylamide)</td><td>185</td><td>265</td><td>222</td><td>-122</td></tr><tr><td>Poly(DHC-Bz-hexylamide)</td><td>168</td><td>241</td><td>201</td><td>-56</td></tr><tr><td>Poly(DHC-Bz-jeffamide)</td><td>172</td><td>257</td><td>212</td><td>-49</td></tr></table>
+91: 
+92: <sup>a</sup> Analyses were performed under N<sub>2</sub> stream (20 mL/min) with a 10 °C/min heating rate.
+93: 
+94: Film fabrication from benzoxazine monomers is complicated, especially for monofunctional films. This is because casting films from powdery monomers is mostly difficult, and the formed films are generally brittle as a result of insufficient molecular weight and an inflexible polybenzoxazine network. Therefore, combining benzoxazines with polymeric structures to obtain main- or side-chain polybenzoxazine precursors emerged as a solution for film-formation difficulties with additional exploitable benefits stemming from the polymeric nature. Accordingly, processable, curable, and flexible polybenzoxazine thermoplastics were synthesized by the Mannich condensation reaction. Similarly obtained precursors reported in this study were solvent-casted in Teflon molds, and after evaporating the solvent, were cured at  $180^{\circ}\mathrm{C}$  for  $30\mathrm{min}$  to obtain flexible, transparent films (Figure 4). It should be noted that the films of poly(DHC-Bz-propylamide) and poly(DHC-Bz-hexylamide) could not be cast due to their limited solubility. Conversely, the films of poly(DHC-Bz-jeffamide) were easily prepared, as the polypropylene glycol and polyethylene glycol blocks on the precursor contributed immensely to the overall solubility.
+95: 
+96: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+97: Figure 4. Images of cured poly(DHC-Bz-jeffamide) films.
+98: 
+99: Thermostabilities of the cured precursors were characterized by using thermal gravimetric analysis (TGA). TGA thermograms and their derivatives are respectively displayed in Figure 5A,B, and the associated thermal properties are tabulated in Table 2. The initial degradation temperatures,  $\mathrm{T}_{5\%}$  and  $\mathrm{T}_{10\%}$ , of the samples differ in order of the chain length of the diamine. Shorter chains have lower initial degradation temperatures than longer Jeffamine chains due, probably, to amine degradation of the polybenzoxazines, where the temperature for this type of decomposition is generally between 160 and  $300^{\circ}\mathrm{C}$  and occurs via C-N cleavage [59-61]. In poly(DHC-Bz-propylamide) and poly(DHC-Bz-hexylamide), the number of amino groups per repeat unit is much higher than in poly(DHC-Bz-jeffamide) and, thus, amine degradation might be severe in these polymers. In Figure 5B (a') and (b'), the derivative thermograms clearly exhibit this behavior as downward bands. Conversely, the  $\mathrm{T}_{\mathrm{max}}$  values and char yields of the short-chain precursors are significantly higher than the Jeffamide-based precursor due to the number of aromatics per repeat units. Moreover, it is well known that large polyether units are prone to degrading rapidly at such high temperatures. For example, pristine Jeffamines generally have char yields below  $1\%$  at  $800^{\circ}\mathrm{C}$ , even under non-oxidizing conditions, such as  $\mathrm{N}_2$  or Ar atmosphere.
+100: 
+101: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+102: Figure 5. Thermal gravimetric analysis (TGA) thermograms (A) and their derivative curves (B) of cured precursors poly(DHC-Bz-propylamide) (a), (a'), poly(DHC-Bz-hexylamide) (b), (b') and poly(DHC-Bz-jeffamide) (c), (c').
+103: 
+104: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+105: 
+106: Table 2. Thermal properties of the cured  ${}^{a}$  polybenzoxazine precursors.  
+107: 
+108: <table><tr><td>Cured Precursor</td><td>T5% (°C)</td><td>T10% (°C)</td><td>Tc (%)</td><td>Tmax (°C)</td></tr><tr><td>Poly(DHC-Bz-propylamide)a</td><td>250</td><td>280</td><td>28</td><td>430</td></tr><tr><td>Poly(DHC-Bz-hexylamide)a</td><td>276</td><td>303</td><td>27</td><td>449</td></tr><tr><td>Poly(DHC-Bz-jeffamide)a</td><td>307</td><td>351</td><td>9</td><td>398</td></tr></table>
+109: 
+110: a Curing was performed at  $200^{\circ}\mathrm{C}$  for 20 min under  $\mathbf{N}_2$ .  $\mathrm{T}_{5\%}$ :  $5\%$  weight-loss temperature,  $\mathrm{T}_{10\%}$ :  $10\%$  weight-loss temperature,  $\mathrm{T}_c$ : char yield at  $800^{\circ}\mathrm{C}$ ,  $\mathrm{T}_{max}$ : Maximum weight-loss temperature was calculated from the derivative TGA graph (Figure 5B).

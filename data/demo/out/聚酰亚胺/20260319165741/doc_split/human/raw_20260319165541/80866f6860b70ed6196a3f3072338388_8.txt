@@ -1,0 +1,33 @@
+source_file: Multicore-shell nanofiber architecture of polyimidepolyvinylidene fluoride blend for thermal and long-term sta.md
+doc_id: 80866f6860b70ed6196a3f3072338388
+chunk_index: 8
+block_id: b0009
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Additional Information
+line_span: [149, 165]
+char_span: [39852, 41002]
+line_count: 17
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0009: Additional Information) ---
+149: # Additional Information
+150: 
+151: Supplementary information accompanies this paper at http://www.nature.com/srep
+152: 
+153: Competing financial interests: The authors declare no competing financial interests.
+154: 
+155: How to cite this article: Park, S. et al. Multicore-shell nanofiber architecture of polyimide/polyvinylidene fluoride blend for thermal and long-term stability of lithium ion battery separator. Sci. Rep. 6, 36977; doi: 10.1038/srep36977 (2016).
+156: 
+157: Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+158: 
+159: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+160: 
+161: This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license.
+162: 
+163: unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+164: 
+165: © The Author(s) 2016

@@ -1,0 +1,28 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Samples preparation
+line_span: [69, 82]
+char_span: [5819, 7950]
+line_count: 12
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0006: Samples preparation) ---
+69: # Samples preparation
+70: 
+71: The PI nanofibrous membrane-coated PI nonwoven fabrics filter materials were prepared following the scheme as shown in Figure 1. First of all, PAA precursor solutions were prepared through polycondensation of equimolar amounts of PMDA and ODA in proportionally increasing volume of DMF, as shown in Table 1. All of the composites contained a solid concentration of  $16.7\mathrm{wt}\%$ . The reaction was carried out in three-necked round-bottom flask immersed in an ice bath with a temperature of  $2 - 4^{\circ}\mathrm{C}$  for  $8\mathrm{h}$ . Then obtained transparent solution was then transferred to a  $10\mathrm{ml}$  of syringe and electrospun under  $16\mathrm{kV}$  of voltage and  $20\mathrm{cm}$  of gap between a spinneret having an inner diameter of  $0.45\mathrm{mm}$  and a flat metal collector covered with PI nonwoven fabric. The PAA solution was fed at a speed of  $1.5\mathrm{ml/h}$ . The prepared samples were overnight dried at  $60^{\circ}\mathrm{C}$  to remove the residual DMF. Finally, PAA nanofiber-coated PI nonwoven fabrics were heated to 120 and  $260^{\circ}\mathrm{C}$  at a rising rate of  $1^{\circ}\mathrm{C/min}$ , followed by an annealing at each stage for 60 and  $90\mathrm{min}$ , respectively. Uncoated commercial PI nonwoven fabric was set as blank sample and noted as C0.
+72: 
+73: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+74: Figure I. Scheme of preparation of PI nanofiber-coated PI nonwoven fabric filters. ODA: 4,4-oxidianiline; PAA: polyamic acid; PI: polyimide; PMDA: pyromellitic dianhydride.
+75: 
+76: Table I. Monomer amounts for synthesizing precursor PAA solution of each sample.  
+77: 
+78: <table><tr><td>Sample</td><td>PMDA (molar/gram)</td><td>ODA (molar/gram)</td><td>DMF (ml)</td></tr><tr><td>C1</td><td>0.01/2.18</td><td>0.01/2</td><td>25</td></tr><tr><td>C2</td><td>0.02/4.36</td><td>0.02/4</td><td>50</td></tr><tr><td>C3</td><td>0.03/6.54</td><td>0.03/6</td><td>75</td></tr><tr><td>C4</td><td>0.04/8.72</td><td>0.04/8</td><td>100</td></tr></table>
+79: 
+80: DMF: dimethylformamide; ODA: 4,4-oxidianiline; PAA: polyamic acid; PMDA: pyromellic dianhydride.

@@ -1,0 +1,71 @@
+source_file: 3D Printing of Thermal Insulating PolyimideCellulose Nanocrystal Composite Aerogels with Low Dimensional Shrin.md
+doc_id: 068b284269d46091b613bf3f6fd8f7a0
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3D Printing of Thermal Insulating Polyimide/Cellulose Nanocrystal Composite Aerogels with Low Dimensional Shrinkage
+line_span: [1, 57]
+char_span: [0, 3393]
+line_count: 55
+effective_body_non_empty_lines: 31
+
+lines:
+--- chunk (b0001: 3D Printing of Thermal Insulating Polyimide/Cellulose Nanocrystal Composite Aerogels with Low Dimensional Shrinkage) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2021, 13, 3614. https://doi.org/10.3390/polym13213614
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # 3D Printing of Thermal Insulating Polyimide/Cellulose Nanocrystal Composite Aerogels with Low Dimensional Shrinkage
+11: 
+12: Chiao Feng  $^{1}$  and Sheng-Sheng Yu  $^{1,2,3,*}$
+13: 
+14: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+15: 
+16: check for updates
+17: 
+18: Citation: Feng, C.; Yu, S.-S. 3D
+19: 
+20: Printing of Thermal Insulating
+21: 
+22: Polyimide/Cellulose Nanocrystal
+23: 
+24: Composite Aerogels with Low
+25: 
+26: Dimensional Shrinkage. Polymers
+27: 
+28: 2021, 13, 3614. https://doi.org/
+29: 
+30: 10.3390/polym13213614
+31: 
+32: Academic Editor: Houwen
+33: 
+34: Matthew Pan
+35: 
+36: Received: 29 September 2021
+37: 
+38: Accepted: 19 October 2021
+39: 
+40: Published: 20 October 2021
+41: 
+42: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+43: 
+44: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+45: 
+46: Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+47: 
+48: $^{1}$  Department of Chemical Engineering, National Cheng Kung University, Tainan 70101, Taiwan; N36094136@gs.ncku.edu.tw  
+49: 2 Core Facility Center, National Cheng Kung University, Tainan 70101, Taiwan  
+50: 3 Program on Smart and Sustainable Manufacturing, Academy of Innovative Semiconductor and Sustainable Manufacturing, National Cheng Kung University, Tainan 70101, Taiwan  
+51: * Correspondence: ssyu@mail.ncku.edu.tw; Tel.: +886-6-2757575 (ext. 62628)
+52: 
+53: Abstract: Polyimide (PI)-based aerogels have been widely applied to aviation, automobiles, and thermal insulation because of their high porosity, low density, and excellent thermal insulating ability. However, the fabrication of PI aerogels is still restricted to the traditional molding process, and it is often challenging to prepare high-performance PI aerogels with complex 3D structures. Interestingly, renewable nanomaterials such as cellulose nanocrystals (CNCs) may provide a unique approach for 3D printing, mechanical reinforcement, and shape fidelity of the PI aerogels. Herein, we proposed a facile water-based 3D printable ink with sustainable nanofillers, cellulose nanocrystals (CNCs). Polyamic acid was first mixed with triethylamine to form an aqueous solution of polyamic acid ammonium salts (PAAS). CNCs were then dispersed in the aqueous PAAS solution to form a reversible physical network for direct ink writing (DIW). Further freeze-drying and thermal imidization produced porous PI/CNC composite aerogels with increased mechanical strength. The concentration of CNCs needed for DIW was reduced in the presence of PAAS, potentially because of the depletion effect of the polymer solution. Further analysis suggested that the physical network of CNCs lowered the shrinkage of aerogels during preparation and improved the shape-fidelity of the PI/CNC composite aerogels. In addition, the composite aerogels retained low thermal conductivity and may be used as heat management materials. Overall, our approach successfully utilized CNCs as rheological modifiers and reinforcement to 3D print strong PI/CNC composite aerogels for advanced thermal regulation.
+54: 
+55: Keywords: polyimide; aerogels; 3D printing

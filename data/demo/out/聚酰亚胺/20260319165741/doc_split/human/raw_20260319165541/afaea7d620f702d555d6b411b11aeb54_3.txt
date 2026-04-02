@@ -1,0 +1,61 @@
+source_file: Development and Morphological Characterization of Novel PolyimideMetal nano Hybrid Materials.md
+doc_id: afaea7d620f702d555d6b411b11aeb54
+chunk_index: 3
+block_id: b0004
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and methods
+line_span: [29, 75]
+char_span: [6551, 13120]
+line_count: 45
+effective_body_non_empty_lines: 19
+
+lines:
+--- chunk (b0004: 2. Materials and methods) ---
+29: # 2. Materials and methods
+30: 
+31: # 2.1. Materials
+32: 
+33: 4,4'-Isopropylidenediphenoxy-bis(phthalic anhydride) (6HDA), and 4,4'- diaminodiphenylmethane (DDM) were purchased from Aldrich, and has been used as received. Melting point (m.p.) of 6HDA was  $184 - 187^{\circ}\mathrm{C}$ ; m. p. of DDM was  $90 - 92^{\circ}\mathrm{C}$ . 3,3'-Dimethyl-4,4'-diaminodiphenylmethane (MMDA) was obtained in our laboratory by a previously reported method [10,11]. m.p of MMDA was  $155 - 157^{\circ}\mathrm{C}$ .
+34: 
+35: # 2.2. Polymer synthesis
+36: 
+37: The investigated polymers have been obtained by two-step polycondensation reaction [12]. The first step was performed at room temperature with equimolar amounts of one aromatic diamine (DDM or MMDA) and dianhydride (6HDA) in N,N-dimethylacetamide (DMAc), at a total concentration of  $14-15\%$ , under inert atmosphere during  $6 - 7\mathrm{h}$ . In the second step, thermal imidization of the resulting poly(amic acid) in solution was performed in the same reaction flask by heating the solution at reflux temperature  $(170 - 180^{\circ}\mathrm{C})$  for  $5 - 6\mathrm{h}$ , under a slow stream of nitrogen to remove the water of imidization. The final product was precipitated in water, washed with water and ethanol, and dried in vacuum oven at  $105^{\circ}\mathrm{C}$ . The structures of the resulted polyimides are shown in Figure 1.
+38: 
+39: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+40: PI-I
+41: 
+42: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+43: Figure 1. Chemical structure of polyimide based on  $4,4^{\prime}$  -(4,4'-isopropylidene diphenoxy) bis (phthalic anhydride) and  $4,4^{\prime}$  -diaminodiphenylmethane (DDM-6HDA) (PI-I) and  $4,4^{\prime}$  -(4,4' isopropylidenediphenoxy) bis (phthalic anhydride) with  $3,3^{\prime}$  -dimethyl  $4,4^{\prime}$  -diaminodiphenylmethane (MMDA-6HDA) (PI-II)
+44: 
+45: # 2.3. Preparation of films
+46: 
+47: The polyimide films were obtained by casting the polyimide solutions of  $15\%$  concentration in DMAc onto a glass plate and by drying it at  $60^{\circ}\mathrm{C}$  for  $4\mathrm{h}$ . Then the films were further dried at  $100^{\circ}\mathrm{C}$ , 150, 200, and  $250^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  at each temperature. Finally the films were kept at  $260^{\circ}\mathrm{C}$  for  $2\mathrm{h}$  and they were used afterwards for various measurements. The thickness of such films was in the range of  $30 - 40 \mu \mathrm{m}$ . In polyimide films, we have to consider interactions with electronic charge transfer between polymer chains. Polymer chains resulting from load transfer interactions form nano-aggregates in which pairs of atomic structures appear as electronic charge donors and pairs as electronic load acceptors (Figure 2).
+48: 
+49: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+50: (a)
+51: 
+52: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+53: Figure 2. (a) Nanostructured aggregates in polyimide films. Polyimides may stack like this allowing the carbonyl of the acceptors on one chain to interact with the nitrogen of the donor on adjacent chain; (b) carbonyl groups from the acceptor unit and nitrogen groups as donors  
+54: (b)
+55: 
+56: # 2.4. Ni and Cu nanoparticle deposition
+57: 
+58: The metal nanoparticles were embedded using the deposition set-up presented in Figure 3. The Cu and Ni targets were mounted on a multi-axis manipulator placed inside the vacuum chamber. The experiments were conducted at a pressure of  $\sim 10^{-2}$  Torr. The polyimide films were placed on the substrate holder at a  $2\mathrm{cm}$  distance from the target surface. The energy of the laser pulse  $(30\mathrm{mJ})$  and the irradiated surface  $(1.5\mathrm{mm}^2)$  were kept constant during all experiments, leading to a fluence of  $2\mathrm{J/cm}^2$ . The varied experimental parameter was the deposition time. Half of the experiments were done by irradiating the target for 40 seconds and half for  $600\mathrm{s}$ . Table 1 summarizes the investigated samples and the conditions in which were obtained.
+59: 
+60: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+61: Figure 3. Schematic representation of the experimental set-up used for thin film deposition
+62: 
+63: Table 1. Experimental parameters used for the sample synthesis  
+64: 
+65: <table><tr><td>Sample</td><td>Polyimide (substrate)</td><td>Metal (target)</td><td>Deposition time (seconds)</td></tr><tr><td>PI-I/Cu/40s</td><td>DDM-6HDA(PI-I)</td><td>Cu</td><td>40</td></tr><tr><td>PI-I/Cu/600s</td><td>DDM-6HDA (PI-I)</td><td>Cu</td><td>600</td></tr><tr><td>PI-I/Ni/40s</td><td>DDM-6HDA(PI-I)</td><td>Ni</td><td>40</td></tr><tr><td>PI-I/Ni/600s</td><td>DDM-6HDA(PI-I)</td><td>Ni</td><td>600</td></tr><tr><td>PI-II/Cu/40s</td><td>MMDA-6HDA(PI-II)</td><td>Cu</td><td>40</td></tr><tr><td>PI-II/Cu/600s</td><td>MMDA-6HDA(PI-II)</td><td>Cu</td><td>600</td></tr><tr><td>PI-II/Ni/40s</td><td>MMDA-6HDA(PI-II)</td><td>Ni</td><td>40</td></tr><tr><td>PI-II/Ni/600s</td><td>MMDA-6HDA(PI-II)</td><td>Ni</td><td>600</td></tr></table>
+66: 
+67: # 2.5. Atomic force microscopy (AFM)
+68: 
+69: The metal-polymer nano-aggregates were studied by performing the atomic force microscopy(AFM) measurements on a Scanning Probe Microscope (Solver PRO-M, NTMDT, Russia), at room temperature  $(23^{\circ}\mathrm{C})$ , in semi-contact mode, using a commercially available NSG10 (Solver PRO-M, NTMDT, Russia) silicon cantilever with a tetrahedral shape tip with curvature radius of  $10~\mathrm{nm}$ . The resonant frequency of the cantilever was  $373~\mathrm{kHz}$ . The cantilever's planar dimensions were: length  $= 95\pm 5~\mu \mathrm{m}$ , width  $= 30\pm 5~\mu \mathrm{m}$ , thickness  $= 2\pm 0.5~\mu \mathrm{m}$ . For image acquisition on  $5\times 5~\mu \mathrm{m}^2$ , Nova v.1.26.0.1443 software was used. In order to calculate the 3D morphological parameters and to make the grain analysis, Image Analysis 3.5.0.18542 software was used.
+70: 
+71: # 2.6. Scanning electron microscopy (SEM) and Energy-dispersive X-ray spectroscopy (EDX)
+72: 
+73: Images have been acquired through scanning electron microscopy using a Crossbeam System Neon 40ESB FIB/SEM microscope from Carl Zeiss, with thermal Schottky field emission, equipped with EDS, In-lens, SE and EsB detectors. Electron beam resolution:  $1.1\div 2.5$  nm for  $\mathrm{U} = 20\div 1\mathrm{kV}$ . Electrons accelerating voltage used for the SEM images-  $20\mathrm{kV}$ . Working distance was around  $5\mathrm{mm}$ . For the EDX analysis an X-Max 50 from Oxford Instruments detector was used; electrons accelerating voltage  $20\mathrm{kV}$ , working distance  $5.1\mathrm{mm}$ .

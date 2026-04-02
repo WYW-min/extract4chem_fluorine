@@ -1,0 +1,33 @@
+source_file: A Rigid and Planar Aza-Based Ternary Anhydride for the Preparation of Cross-Linked Polyimide Membrane Displayi.md
+doc_id: fc1d46c21270bb01aab3338147d76c95
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [192, 210]
+char_span: [33272, 35292]
+line_count: 17
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+192: # 4. Conclusions
+193: 
+194: In this study, PI films (PIa-c-t) were synthesized by the preparation of the HAT-T ternary anhydride monomer containing the hexaaazatriphenylene structure, the commercial dianhydride 6FDA and commercial diamines (SDA, TFDB and PABZ). The experimental results show that the PIs with the addition of hexaaazatriphenylene structure have high molecular weight and good mechanical properties. In addition, the introduction of the hexaaazatriphenylene structure has an important effect on the permeability and selectivity of a gas. Compared with the PI film without the hexaaazatriphenylene structure, the gas permeability of the PI film with the introduction of the hexaaazatriphenylene structure decreased, but the gas selectivity increased. The selectivity for  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  gas is 188.43, which surpasses the "2008 Robeson Upper Bound". This is because the introduction of the hexaaazatriphenylene structure can effectively reduce the interchain interaction and inhibit chain stacking. The rigid planar structure of hexaaazatriphenylene can also improve the selectivity for  $\mathrm{CO}_{2}$  gas. Therefore, this study is of great significance for the design and synthesis of cross-linked PIs and their application in gas separation membranes.
+195: 
+196: Author Contributions: Methodology, C.H.; Software, T.L.; Supervision, H.J.; Writing—original draft, X.Z.; Writing—review and editing, J.W. All authors have read and agreed to the published version of the manuscript.
+197: 
+198: Funding: This research was funded by [the Opening Foundation of Heilongjiang Provincial Key Laboratory of Polymeric Composition materials] grant number [CLKFKT2021Z1].
+199: 
+200: Institutional Review Board Statement: Not applicable.
+201: 
+202: Informed Consent Statement: Not applicable.
+203: 
+204: Data Availability Statement: Not applicable.
+205: 
+206: Acknowledgments: This work was supported by the Fundamental Research Funds in Heilongjiang Provincial Universities (CLKFKT2021Z1).
+207: 
+208: Conflicts of Interest: The authors declare no conflict of interest.

@@ -1,0 +1,69 @@
+source_file: Fabrication of Aromatic Polyimide Films Derived from Diisocyanate with Fluorinated Dianhydride.md
+doc_id: 2e1820625e9b53fec5cd9ea00842573d
+chunk_index: 17
+block_id: b0018
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: REFERENCES
+line_span: [198, 250]
+char_span: [30934, 39503]
+line_count: 53
+effective_body_non_empty_lines: 45
+
+lines:
+--- chunk (b0018: REFERENCES) ---
+198: # REFERENCES
+199: 
+200: Alvino, W.M. & Edelman, L.E. 1978. Polyimides from diisocyanates, dianhydrides, and their dialkyl esters. Journal of Applied Polymer Science 22(7): 1983-1990.
+201: 
+202: Amutha, N., Tharakan, S.A. & Sarojadevi, M. 2015. Synthesis and characterization of new soluble polyimides based on pyridine unit with flexible linkages. High Performance Polymers 27(8): 979-989.  
+203: An, H., Xue, B., Li, D., Li, H., Meng, Q., Guo, L. & Chen, L. 2006. Environmentally friendly LiI/ethanol based gel electrolyte for dye-sensitized solar cells. Electrochemistry Communications 8(1): 170-172.  
+204: Ando, S., Matsuura, T. & Sasaki, S. 1997. Coloration of aromatic polyimides and electronic properties of their source materials. Polymer Journal 29(1): 69-76.  
+205: Barsema, J.N., Klijnstra, S.D., Balster, J.H., Van der vegt, N.F.A., Koops, G.H. & Wessling, M. 2004. Intermediate polymer to carbon gas separation membranes based on Matrimid PI. Journal of Membrane Science 238(1-2): 93-102.  
+206: Cao, L., Zhang, M., Niu, H., Chang, J., Liu, W., Yang, H., Cao, W. & Wu, D. 2016. Structural relationship between random copolyimides and their carbon fibers. Journal of Materials Science 52(4): 1883-1897.  
+207: Deng, B., Zhang, S., Liu, C., Li, W., Zhang, X., Wei, H. & Gong, C. 2018. Synthesis and properties of soluble aromatic polyimides from novel 4,5-diazafluorene-containing dianhydride. RSC Advances 8(1): 194-205.  
+208: Ghosh, A., Mistri, E.A. & Banerjee, S. 2015. Fluorinated polyimides: Synthesis, properties, and applications. Handbook of Specialty Fluorinated Polymers. pp. 97-185.  
+209: Hasegawa, M., Fujii, M. & Wada, Y. 2018. Approaches to improve the film ductility of colorless cycloaliphatic polyimides. Polymers for Advanced Technologies 29(2): 921-933.  
+210: Hasegawa, M. & Horie, K. 2001. Photophysics, photochemistry, and optical properties of polyimides. Progress in Polymer Science 26(2): 259-335.  
+211: Hsiao, S.H. & Chen, Y.J. 2002. Structure-property study of polyimides derived from PMDA and BPDA dianhydrides with structurally different diamines. European Polymer Journal 38(4): 815-828.
+212: 
+213: Hsiao, S.H. & Lin, K.H. 2005. Polyimides derived from novel asymmetric ether diamine. Journal of Polymer Science Part A: Polymer Chemistry 43(2): 331-341.  
+214: Hu, M., Chen, H., Wang, M., Liu, G., Chen, C., Qian, G. & Yu, Y. 2021. Novel low-dielectric constant and soluble polyimides from diamines containing fluorene and pyridine unit. Journal of Polymer Science 59(4): 329-339.  
+215: Huang, X., Li, H., Liu, C. & Wei, C. 2019. Design and synthesis of high heat-resistant, soluble, and hydrophobic fluorinated polyimides containing pyridine and trifluoromethylthiophenyl units. High Performance Polymers 31(1): 107-115.  
+216: Huang, X., Chen, B., Mei, M., Li, H., Liu, C. & Wei, C. 2017. Synthesis and characterization of organosoluble, thermal stable and hydrophobic polyimides derived from 4-(4-(1-pyrrolidinyl)phenyl)-2,6-bis(4-(4-aminophenoxy) phenyl)pyridine. Polymers 9(10): 1-13.  
+217: Huo, H., Mo, S., Sun, H., Yang, S. & Fan, L. 2012. Preparation and properties of molecular-weight-controlled polyimide adhesive film. e-Polymers 12(1): 1-18.  
+218: Hyde, L.J. & Smith, R.M. 1995. Bearing-grade thermoplastic polyimides in automotive tribological applications. (No. 950190) SAE Technical Paper pp. 1-11.  
+219: Jang, W., Shin, D., Choi, S., Park, S. & Han, H. 2007. Effects of internal linkage groups of fluorinated diamine on the optical and dielectric properties of polyimide thin films. Polymer 48(7): 2130-2143.  
+220: Jiang, H., Zhang, M. & Adhikari, B. 2013. Fruit and vegetable powders. Handbook of Food Powders. Elsevier. pp. 532-552.  
+221: Kaba, M., Romero, R.E., Essamri, A. & Mas, A. 2005. Synthesis and characterization of fluorinated copolyetherimides with  $\mathrm{CH}_2\mathrm{C}_6\mathrm{F}_{13}$  side chains based on the ULTEM™ structure. Journal of Fluorine Chemistry 126(11-12): 1476-1486.  
+222: Kambezidis, H.D. 2012. The solar resource. Comprehensive Renewable Energy 3: 27-84.  
+223: Li, T.L. & Hsu, S.L.C. 2007. Preparation and properties of a high temperature, flexible and colorless ITO coated polyimide substrate. European Polymer Journal 43(8): 3368-3373.  
+224: Liaw, D.J., Huang, C.C. & Chen, W.H. 2006. Color lightness and highly organosoluble fluorinated polyamides, polyimides and poly(amide-imide)s based on noncoplanar  $2,2^{\prime}$ -dimethyl-4,4'-biphenylene units. Polymer 47(7): 2337-2348.  
+225: Liaw, D.J., Wang, K.L., Huang, Y.C., Lee, K.R., Lai, J.Y. & Ha, C.S. 2012. Advanced polyimide materials: Syntheses, physical properties and applications. Progress in Polymer Science 37(7): 907-974.  
+226: Lim, C.Y., Park, J.K., Kim, Y.H. & Han, J.I. 2012. Mechanical and electrical stability indium-tin-oxide coated polymer substrates under continuous bending stress condition. Journal of International Council on Electrical Engineering 2(3): 237-241.
+227: 
+228: Liu, J., Zhang, Q., Xia, Q., Dong, J. & Xu, Q. 2012. Synthesis, characterization and properties of polyimides derived from a symmetrical diamine containing bis-benzimidazole rings. Polymer Degradation and Stability 97(6): 987-994.  
+229: Mustaffa, N., Kaneko, T., Takada, K., Dwivedi, S., Su'ait, M.S. & Mobarak, N.N. 2022. Synthesis and characterization of polyimides from diisocyanate with enhanced solubility and thermostability properties via direct low-temperature one-step polymerization in NMP solvent. Polymer Bulletin. pp. 1-17.  
+230: Ngamwonglumlert, L. & Devahastin, S. 2018. Microstructure and its relationship with quality and storage stability of dried foods. Food Microstructure and Its Relationship with Quality and Stability. Elsevier. pp. 139-159.  
+231: Peng, Y.Y., Dussan, D.D. & Narain, R. 2020. Thermal, mechanical, and electrical properties. Polymer Science and Nanotechnology. Elsevier. pp. 179-201.  
+232: Punathil, L. & Basak, T. 2016. Microwave processing of frozen and packaged food materials: Experimental. *Reference Module in Food Science*. Elsevier. pp. 1-28.  
+233: Qu, W., Ko, T.M., Vora, R.H. & Chung, T.S. 2001. Effect of polyimides with different ratios of para - to meta - analogous fluorinated diamines on relaxation process. Polymer 42(15): 6393-6401.  
+234: Reis, F.R. 2014. Introduction to low pressure processes. In Vacuum Drying for Extending Food Shelf-Life, edited by Reis, F.R. Springer. pp. 1-6.  
+235: Sadavarte, N.V., Halhalli, M.R., Avadhani, C.V. & Wadgaonkar, P.P. 2009. Synthesis and characterization of new polyimides containing pendent pentadecyl chains. European Polymer Journal 45(2): 582-589.  
+236: Shen, Y., Feng, Z. & Zhang, H. 2020. Study of indium tin oxide films deposited on colorless polyimide film by magnetron sputtering. Materials & Design 193: 1-7.  
+237: Shrivastava, A. 2018. Introduction to Plastics Engineering. Elsevier. pp. 1-16.  
+238: St Clair, A.K., St Clair, T.L. & Shevket, K.I. 1984. Synthesis and characterization of essentially colorless polyimide films. Journal of Polymer Material Science Engineering 51: 62-66.  
+239: Takekoshi, T. 1996. Synthesis of polyimides. In *Polyimides: Fundamentals and Applications*, edited by Ghosh, M. Boca Raton: CRC Press; pp. 7-48.  
+240: Tan, P.C., Ooi, B.S., Ahmad, A.L. & Low, S.C. 2017. Correlating the synthesis protocol of aromatic polyimide film with the properties of polyamic acid precursor. IOP Conference Series: Materials Science and Engineering 206: 1-11.  
+241: Tapaswi, P.K. & Ha, C.S. 2019. Recent trends on transparent colorless polyimides with balanced thermal and optical properties: Design and synthesis. Macromolecular Chemistry and Physics 220(3): 1-33.
+242: 
+243: Thiruvasagam, P., Saritha, B. & Hari, N. 2016. Poly(ether-imide)s with flexible linkages and kinks: Synthesis, processability, thermal stability, and dielectric studies. High Performance Polymers 28(6): 660-668.  
+244: Vivod, S.L., Meador, M.A.B., Pugh, C., Wilkosz, M., Calomino, K. & McCorkle, L. 2020. Toward improved optical transparency of polyimide aerogels. ACS Applied Materials & Interfaces 12(7): 8622-8633.  
+245: Wu, H.W., Li, H. & Liu, H.Z. 2012. Synthesis and properties of a high-molecular-weight polyimide based on 4, 4'-(hexafluoroisopropylidene) diphthalic anhydride. Advanced Materials Research 550-553: 742-746.
+246: 
+247: Xue, B.F., Wang, H.X., Hu, Y.S., Li, H., Wang, Z.X., Meng, Q.B., Huang, X.J., Sato, O., Chen, L.Q. & Fujishima, A. 2004. An alternative ionic liquid based electrolyte for dyesensitized solar cells. Photochemical & Photobiological Sciences 3(10): 918-919.  
+248: Yi, C., Li, W., Shi, S., He, K., Ma, P., Chen, M. & Yang, C. 2020. High-temperature-resistant and colorless polyimide: Preparations, properties, and applications. Solar Energy 195: 340-354.
+249: 
+250: *Corresponding author; email: nadhratunnaiim@ukm.edu.my

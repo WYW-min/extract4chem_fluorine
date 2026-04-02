@@ -1,0 +1,25 @@
+source_file: Enhancing the Toughness of Free-Standing Polyimide Films for Advanced Electronics Applications A Study on the .md
+doc_id: c884e49a30bd98baa9c0ec7a77277509
+chunk_index: 1
+block_id: b0002
+section_number: 1
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 1. Introduction
+line_span: [58, 68]
+char_span: [2691, 6763]
+line_count: 9
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0002: 1. Introduction) ---
+58: # 1. Introduction
+59: 
+60: Compared with traditional electronic devices, flexible micro/nano devices have garnered significant attention in recent years due to their flexibility and wearable characteristics [1]. These devices have found widespread use in healthcare, flexible storage, flexible displays, and other fields [2]. As the carrier of functional structure and the sensitive unit, the performance of flexible substrate directly determines the further thinness of flexible micro/nano devices [3]. Polyimide (PI) is one of the most commonly used flexible substrates due to its remarkable mechanical properties, excellent thermal stability, and low coefficient of thermal expansion [4,5]. The easily regulatable molecular structure of PI molecules has led to the development of various functional PIs, such as transparent PI, photosensitive PI, and recyclable PI [6-8]. Additionally, the mechanical properties of PI films have been further improved to meet more complex application environments, such as aerospace and military fields [9,10].
+61: 
+62: Nowadays, to meet the demand for PI films with excellent mechanical properties, different endeavors have been proposed to reinforce the PI films, including incorporating the inorganic fillers [11,12] and designing the chemical structure of monomers [13,14]. Generally, the incorporation of inorganic substances increases the tensile strength and modulus while reducing the elongation at break [15,16]. Besides, much more attention has been given to modifying the chemical structure of the polymer backbone. Yang et al. [17] designed a novel hyperbranched PI (HBPI) that increased the free volume of the system, resulting in a significant improvement in the toughness of the modified resin. However, the design and synthesis of monomer structures are often complex and time-consuming, which greatly limits the efficiency of PI film preparation. Recently, there has been a growing
+63: 
+64: interest in studying the effect of the imidization process on enhancing the performance of PI materials, as the cost of novel diamines and dianhydride monomers is high and limits their commercial feasibility [18-20]. Ji et al. [21] traced and studied the structure changes from poly(amic acid) (PAA) fibers to polyimide fibers during ramp-heating and isothermal treatments. Chung et al. [15] improved the tensile strength by increasing the flexibility of PI films via microwave (MW) irradiation of the PAA. The improvement in mechanical properties can be attributed to the increase in molecular weight of the PI by MW irradiation. Nevertheless, there is currently a lack of systematic conditions exploration of the film formation process. For most PI films, achieving high mechanical strength and toughness simultaneously remains a challenge, as these properties tend to be mutually exclusive. Thus, the fabrication of PI films with outstanding comprehensive properties and a balance between toughness and strength is still a significant challenge.
+65: 
+66: In this study, the effect of film-forming conditions on the mechanical properties of thin films was systematically investigated, and a highly tough free-standing PI film was simply prepared from diamine monomers with ether linkages. The PAA solution was prepared by a two-step polycondensation method under the protection of a nitrogen atmosphere. The flexible and robust PI film was successfully prepared by the spin coating method. By systematically exploring the film-forming conditions, such as the rotation speed, thermal treatment process, and annealing treatment, high-toughness free-standing PI films were easily prepared using diamine monomers with ether linkages. These films exhibit excellent thickness uniformity and surface homogeneity, as well as outstanding mechanical properties, including both strength and toughness. The tensile strain behavior of PI films was analyzed at room temperature using a tensile test machine. The results revealed that the films exhibited outstanding mechanical properties, with a tensile strength of  $194.71\mathrm{MPa}$  and elongation of  $130.13\%$ .

@@ -1,0 +1,25 @@
+source_file: Mixed Rigid and Flexible Component Design for High-Performance Polyimide Films.md
+doc_id: fccc26fc991bc38c4a2573b2131f2453
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [311, 321]
+char_span: [39447, 41547]
+line_count: 9
+effective_body_non_empty_lines: 4
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+311: # 4. Conclusions
+312: 
+313: To obtain a PI film with an equal CTE to that of copper, PIs containing flexible ODA-BTDA segments and rigid DAPBI-BTDA segments were prepared from ODA, DAPBI, and BTDA. Six different PI films with different molecular compositions were obtained by adjusting the molar ratio of the two diamines. Owing to the inclusion of rigid structural benzimidazole moieties and hydrogen bonds forming between the carbonyl group of the imide ring and the NH group of DAPBI, the regularity of the molecular chain improves as the DAPBI molar ratio increases. Hence, the PIs containing benzimidazole moieties exhibit excellent thermal stability, mechanical properties and dimensional stabilities. The  $T_{\mathrm{g}}$  of the PI was enhanced to 400 from  $280^{\circ}\mathrm{C}$ , the CTE (50-250°C) was reduced to 15 from 67 ppm/K, and the tensile strength was increased to 220 from 146 MPa. Furthermore, the CTE of the PI-80 film was found to be equal to that of copper and was therefore used to prepare a PI/copper laminate that exhibited no distortion or delamination when heated. The SEM and EDX results of the peeled PI/copper laminate interface reveal that a strong interfacial interaction formed between the PI and copper owing to the chemical nature of DAPBI and flexible structural ODA. The excellent flatness, folding resistance, and high peel strength of this PI/copper laminate indicate that this PI film has potential for use in flexible printed circuit boards, flexible display substrates, and other next-generation electronic devices.
+314: 
+315: Acknowledgments: This work was financially supported by the "Strategic Priority Research Program" of the Chinese Academy of Sciences (Grant No. XDA09010105) and National Key R&D Program of China (No. 2016YFB0100105).
+316: 
+317: Author Contributions: Xiaohui Yu and Dayong Wu conceived and designed the experiments; Xiaohui Yu performed the experiments. Weihua Liang and Jianhua Cao analyzed the data; Dayong Wu contributed reagents/materials/analysis tools; Xiaohui Yu wrote the paper.
+318: 
+319: Conflicts of Interest: The authors declare no conflict of interest.

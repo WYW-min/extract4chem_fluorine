@@ -1,0 +1,40 @@
+source_file: 3D Printing of Thermal Insulating PolyimideCellulose Nanocrystal Composite Aerogels with Low Dimensional Shrin.md
+doc_id: 068b284269d46091b613bf3f6fd8f7a0
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [215, 240]
+char_span: [39373, 43280]
+line_count: 24
+effective_body_non_empty_lines: 13
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+215: # 4. Conclusions
+216: 
+217: In this study, we utilized CNCs as renewable nanofillers to prepare water-based inks for the 3D printing of PI composite aerogels. Freeze-drying and thermal imidization of the printed objects produced porous PI/CNC composite aerogels. The potential depletion effect by PAAS promoted the gelation of CNCs and reduced the required concentration of CNCs for DIW. In addition, the strong physical networks of the CNCs increased the thermal stability of the porous structures and reduced the shrinkages of the aerogels after thermal imidization. Furthermore, CNCs reinforced the PI/CNC composite aerogels to provide high mechanical strength. Our composite aerogels exhibited low thermal conductivities for thermal regulation. Overall, our work demonstrated a simple way to print PI aerogels with customizable shapes, low density, and high mechanical strength. The 3D printing of high-performance composite aerogels may further enable advanced and rapid design of thermal insulating materials to precisely control the local temperature distribution of the target device.
+218: 
+219: - High-resolution printing by DIW can be achieved by using the ink containing only  $6.5 \mathrm{wt}\%$  CNCs.  
+220: - Chemical analysis showed that a significant amount of CNCs remained in the composite after thermal imidization, and CNCs displayed improved thermal stability.  
+221: CNCs significantly reduce the dimensional shrinkage of the aerogels during preparation and enable the 3D printing of aerogels with high shape fidelity.  
+222: - The PI/CNC composite aerogels demonstrated increased mechanical stiffness and sufficient thermal insulating capability.
+223: 
+224: Supplementary Materials: The following are available online at https://www.mdpi.com/article/10.3390/polym13213614/s1, Figure S1: The experimental procedure of the 3D printed PI/CNC composite aerogels; Figure S2: Rheological analysis of the inks under different concentrations of polyamic acid; Figure S3: A 3D printed cylinder that shows the thickness achievable by the PAAS/CNC ink; Figure S4: Full FTIR spectra of the aerogels after thermal imidization; Figure S5: Weight loss of the freeze-dried samples after thermal imidization; Figure S6: Cross-sectional SEM images of the composite aerogels after the thermal imidization process; Figure S7: Cross-sectional SEM images of pure PAAS aerogels and pure CNC aerogels after freeze-drying; Figure S8: Bulk densities of PI/CNC composite aerogels, CNC aerogels, and PI aerogels.
+225: 
+226: Author Contributions: Data curation, C.F.; Formal analysis, C.F. and S.-S.Y.; Funding acquisition, S.-S.Y.; Investigation, S.-S.Y.; Methodology, C.F. and S.-S.Y.; Project administration, S.-S.Y.; Visualization, S.-S.Y.; Writing—original draft, S.-S.Y.; Writing—review & editing, S.-S.Y. All authors have read and agreed to the published version of the manuscript.
+227: 
+228: Funding: This research was funded by the Ministry of Science & Technology in Taiwan, grant No. 108-2636-E-006-005, 109-2636-E-006-005 and 110-2222-E-006-009-MY3.
+229: 
+230: Institutional Review Board Statement: Not applicable.
+231: 
+232: Informed Consent Statement: Not applicable.
+233: 
+234: Data Availability Statement: The data presented in this study are available on request from the corresponding author.
+235: 
+236: Acknowledgments: We are grateful for the valuable discussion and inputs from Mitsuru Ueda. We thank the Ministry of Science & Technology in Taiwan for financial support (Young Scholar Fellowship Program, MOST 108-2636-E-006-005 and 109-2636-E-006-005). We also thank the support by Higher Education Sprout Project, Ministry of Education to the Headquarters of University Advancement at National Cheng Kung University (NCKU). The authors gratefully acknowledge the use of Bruker Avance III HD 400 NMR spectrometer (NMR000800) of MOST 108-2731-M-006-001 belonging to the Core Facility Center of National Cheng Kung University.
+237: 
+238: Conflicts of Interest: The authors declare no conflict of interest.

@@ -1,0 +1,44 @@
+source_file: Influence of Heating Rate on the Structure and Mechanical Properties of Aromatic BPDA鈥揚DA Polyimide Fiber.md
+doc_id: fc746317a61db975a40d5a9bdf4a52d0
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [183, 210]
+char_span: [37540, 42484]
+line_count: 28
+effective_body_non_empty_lines: 23
+
+lines:
+--- chunk (b0006: References) ---
+183: # References
+184: 
+185: 1. Dai, X.; Bao, F.; Jiao, L.; Yao, H.; Ji, X.; Qiu, X.; Men, Y. High-performance polyimide copolymer fibers derived from 5-anino-2-(2-hydroxy-4-aminobenzene)-benzoxazole: Preparation, structure and properties. Polymer 2018, 150, 254–266. [CrossRef]  
+186: 2. Yin, C.Q.; Dong, J.; Tan, W.J.; Lin, J.Y.; Chen, D.J.; Zhang, Q.H. Strain-induced crystallization of polyimide fibers containing 2-(4-aminophenyl)-5-aminobenzimidazole moiety. Polymer 2015, 75, 178-186. [CrossRef]  
+187: 3. Yin, C.Q.; Dong, J.; Zhang, D.B.; Lin, J.Y.; Zhang, Q.H. Enhanced mechanical and hydrophobic properties of polyimide fibers containing benzimidazole and benzoxazole units. Eur. Polym. J. 2015, 67, 88-98. [CrossRef]  
+188: 4. Yin, C.; Zhang, Z.; Dong, J.; Zhang, Q. Structure and properties of aromatic poly(benzimidazole-imide) copolymer fibers. J. Appl. Polym. Sci. 2015, 132. [CrossRef]  
+189: 5. Niu, H.; Huang, M.; Qi, S.; Han, E.; Tian, G.; Wang, X.; Wu, D. High-performance copolyimide fibers containing quinazolinone moiety: Preparation, structure and properties. Polymer 2013, 54, 1700-1708. [CrossRef]  
+190: 6. Niu, H.; Qi, S.; Han, E.; Tian, G.; Wang, X.; Wu, D. Fabrication of high-performance copolyimide fibers from  $3,3^{\prime},4,4^{\prime}$ -biphenyltetracarboxylic dianhydride, p-phenylenediamine and 2-(4-aminophenyl)-6-amino-4(3H)-quinazolinone. Mater. Lett. 2012, 89, 63-65. [CrossRef]  
+191: 7. Chen, W.J.; Chen, W.; Zhang, B.Q.; Yang, S.Y.; Liu, C.Y. Thermal imidization process of polyimide film: Interplay between solvent evaporation and imidization. Polymer 2017, 109, 205-215. [CrossRef]  
+192: 8. Unsal, E.; Cakmak, M. Real-Time Characterization of Physical Changes in Polyimide Film Formation: From Casting to Imidization. Macromolecules 2013, 46, 8616-8627. [CrossRef]  
+193: 9. Unsal, E.; Cakmak, M. Molecular mechanism of temporal physico/chemical changes that take place during imidization of polyamic acid: Coupled real-time rheo-optical and IR dichroism measurements. Polymer 2014, 55, 6569-6576. [CrossRef]  
+194: 10. Kailani, M.H.; Sung, C.S.P. Chemical imidization study by spectroscopic techniques. 1. Model amic acids. Macromolecules 1998, 31, 5771-5778. [CrossRef]  
+195: 11. Pryde, C.A. Ftir Studies of Polyimides.2. Factors Affecting Quantitative Measurement. J. Polym. Sci. Polym. Chem. 1993, 31, 1045-1052. [CrossRef]  
+196: 12. Pryde, C.A. IR Studies of Polyimides.1. Effects of Chemical and Physical Changes during Cure. J. Polym. Sci. Polym. Chem. 1989, 27, 711-724. [CrossRef]  
+197: 13. Terui, Y.; Matsuda, S.I.; Ando, S. Molecular structure and thickness dependence of chain orientation in aromatic polyimide films. J. Polym. Sci. Part B Polym. Phys. 2005, 43, 2109-2120. [CrossRef]  
+198: 14. Nomura, H.; Asano, M. Molecular-Orientation in Polyimide Films Having Rodlike Molecular Skeleton Formed on Silicon Substrate. Jpn. J. Appl. Phys. 1993, 32, 3933-3937. [CrossRef]  
+199: 15. Kotera, M.; Samyul, B.; Araie, K.; Sugioka, Y.; Nishino, T.; Maji, S.; Noda, M.; Senoo, K.; Koganezawa, T.; Hirosawa, I. Microstructures of BPDA-PPD polyimide thin films with different thicknesses. Polymer 2013, 54, 2435-2439. [CrossRef]  
+200: 16. Ishii, J.; Takata, A.; Oami, Y.; Yokota, R.; Vladimirov, L.; Hasegawa, M. Spontaneous molecular orientation of polyimides induced by thermal imidization (6). Mechanism of negative in-plane CTE generation in non-stretched polyimide films. Eur. Polym. J. 2010, 46, 681-693. [CrossRef]
+201: 
+202: 17. Ishii, J.; Shimizu, N.; Ishihara, N.; Ikeda, Y.; Sensui, N.; Matano, T.; Hasegawa, M. Spontaneous molecular orientation of polyimides induced by thermal imidization (4): Casting- and melt-induced in-plane orientation. Eur. Polym. J. 2010, 46, 69–80. [CrossRef]  
+203: 18. Ebisawa, S.; Ishii, J.; Sato, M.; Vladimirov, L.; Hasegawa, M. Spontaneous molecular orientation of polyimides induced by thermal imidization (5). Effect of ordered structure formation in polyimide precursors on CTE. Eur. Polym. J. 2010, 46, 283-297. [CrossRef]  
+204: 19. Luo, L.B.; Yao, J.; Wang, X.; Li, K.; Huang, J.Y.; Li, B.Y.; Wang, H.N.; Feng, Y.; Liu, X.Y. The evolution of macromolecular packing and sudden crystallization in rigid-rod polyimide via effect of multiple H-bonding on charge transfer (CT) interactions. Polymer 2014, 55, 4258–4269. [CrossRef]  
+205: 20. Yang, W.; Liu, F.; Zhang, J.; Zhang, E.; Qiu, X.; Ji, X. Influence of thermal treatment on the structure and mechanical properties of one aromatic BPDA-PDA polyimide fiber. Eur. Polym. J. 2017, 96, 429-442. [CrossRef]  
+206: 21. Yoon, D.Y.; Parrish, W.; Depero, I.E.; Ree, M. Chain Conformations of Aromatic Polyimides and Their Ordering in Thin-Films. MRS Online Proc. Lib. Arch. 1991, 227, 387-393. [CrossRef]
+207: 
+208: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+209: 
+210: © 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).

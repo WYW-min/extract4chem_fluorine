@@ -1,0 +1,56 @@
+source_file: Direct Ink Writing of Phenylethynyl End-Capped OligoimideSiO2 to Additively Manufacture High-Performance Therm.md
+doc_id: 60558614114cf27280c2388cebb9f62a
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Direct Ink Writing of Phenylethynyl End-Capped Oligoimide/SiO $_2$  to Additively Manufacture High-Performance Thermosetting Polyimide Composites
+line_span: [1, 42]
+char_span: [0, 3528]
+line_count: 40
+effective_body_non_empty_lines: 24
+
+lines:
+--- chunk (b0001: Direct Ink Writing of Phenylethynyl End-Capped Oligoimide/SiO $_2$  to Additively Manufacture High-Performance Thermosetting Polyimide Composites) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2022, 14, 2669. https://doi.org/10.3390/polym14132669
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Direct Ink Writing of Phenylethynyl End-Capped Oligoimide/SiO $_2$  to Additively Manufacture High-Performance Thermosetting Polyimide Composites
+11: 
+12: Keda Li  $^{1,2,\dagger}$ , Jinghong Ding  $^{1,2,\dagger}$ , Yuxiong Guo  $^{2,3,\dagger}$ , Hongchao Wu  $^{1}$ , Wenwen Wang  $^{1}$ , Jiaqi Ji  $^{1}$ , Qi Pei  $^{1,2}$ , Chenliang Gong  $^{1,*}$ , Zhongying Ji  $^{2,3,*}$  and Xiaolong Wang  $^{2,*}$
+13: 
+14: $^{1}$  State Key Laboratory of Applied Organic Chemistry, Key Laboratory of Special Function Materials and Structure Design of Ministry of Education, College of Chemistry and Chemical Engineering, Lanzhou University, Lanzhou 730000, China; likd21@lzu.edu.cn (K.L.); dingjh18@lzu.edu.cn (J.D.); wuhc19@lzu.edu.cn (H.W.); wangww20@lzu.edu.cn (W.W.); jjjq21@lzu.edu.cn (J.J.); peiq20@lzu.edu.cn (Q.P.)  
+15: $^{2}$  State Key Laboratory of Solid Lubrication, Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences, Lanzhou 730000, China; guoyuxiong91@163.com  
+16: 3 Shandong Laboratory of Yantai Advanced Materials and Green Manufacturing, Yantai Zhongke Research Institute of Advanced Materials and Green Chemical Engineering, Yantai 264006, China  
+17: * Correspondence: gongchl@lzu.edu.cn (C.G.); jizy@licp.cas.cn (Z.J.); wangxl@licp.cas.cn (X.W.)  
+18: These authors contributed equally to this work.
+19: 
+20: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+21: 
+22: Citation: Li, K.; Ding, J.; Guo, Y.; Wu, H.; Wang, W.; Ji, J.; Pei, Q.; Gong, C.; Ji, Z.; Wang, X. Direct Ink Writing of Phenylethynyl End-Capped Oligoimide/SiO $_2$  to Additively Manufacture High-Performance Thermosetting Polyimide Composites. Polymers 2022, 14, 2669. https://doi.org/10.3390/polym14132669
+23: 
+24: Academic Editor: Jin-Hae Chang
+25: 
+26: Received: 10 June 2022
+27: 
+28: Accepted: 27 June 2022
+29: 
+30: Published: 30 June 2022
+31: 
+32: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+33: 
+34: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+35: 
+36: Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+37: 
+38: Abstract: The three-dimensional (3D) printing of a  $\mathrm{SiO_2}$ -filled thermosetting polyimide  $(\mathrm{SiO}_2@TSPI)}$  composite with outstanding performance is realized via the direct ink writing (DIW) of polyamide acid (PAA) composite ink and thermal treatment conducted thereafter. The composite ink consists of phenylethynyl-terminated PAA and silica nanoparticles, where the  $\mathrm{SiO}_2$  nanoparticles serve as the rheology modifier that is necessary for the DIW technique to obtain self-supporting feedstock during 3D printing and the reinforcement filler that is used to enhance the performance of the final composite. As a result, printed parts with complex geometry and robust thermal stability are obtained. Due to the extrusion-based DIW technique, the printed structures exhibit anisotropic mechanical strength that highly depends on printing roads. This simple and convenient means of realizing 3D structures of thermosetting polyimides is a promising strategy in aerospace and other fields.
+39: 
+40: Keywords: direct ink writing; thermosetting polyimide; dimensional shrinkage; thermal stability

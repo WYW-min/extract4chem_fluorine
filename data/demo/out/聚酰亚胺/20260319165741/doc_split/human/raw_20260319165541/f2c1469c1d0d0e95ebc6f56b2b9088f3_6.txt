@@ -1,0 +1,32 @@
+source_file: Nanoindentation studies of polyimide thin films with various internal linkages in the diamine component.md
+doc_id: f2c1469c1d0d0e95ebc6f56b2b9088f3
+chunk_index: 6
+block_id: b0007
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Dynamic Mechanical Properties
+line_span: [133, 150]
+char_span: [27103, 29625]
+line_count: 16
+effective_body_non_empty_lines: 8
+
+lines:
+--- chunk (b0007: Dynamic Mechanical Properties) ---
+133: # Dynamic Mechanical Properties
+134: 
+135: The various polyimides were subjected to DMTA, and the results are given in Table 3. Figure 5(a)
+136: 
+137: Table 3. Dynamic Mechanical Properties of the Polyimide Thin Films  
+138: 
+139: <table><tr><td>Polymer</td><td>Tg</td><td>Tan δ</td><td>Log E&#x27; (Pa) at 50 °Ca</td></tr><tr><td>BPDA-PDA</td><td>351</td><td>0.32</td><td>9.26</td></tr><tr><td>BPDA-BZ</td><td>402</td><td>0.15</td><td>9.32</td></tr><tr><td>BPDA-ODA</td><td>294</td><td>0.33</td><td>9.06</td></tr><tr><td>BPDA-DDS</td><td>407</td><td>0.84</td><td>9.00</td></tr></table>
+140: 
+141: ${}^{\mathrm{a}}E$  ’ is the storage modulus.
+142: 
+143: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+144: Figure 5. DMTA data for the polyimide thin films: (a) storage modulus  $(E^{\prime})$  and (b) tan  $\delta$ .
+145: 
+146: ture. It can be seen from Figure 5(a) that there was a regular reduction in the storage modulus with an increase in the temperature.  $T_{\mathrm{g}}$  of the polymer is denoted by a sharp decrease in the storage modulus. For stiff BPDA-PDA and BPDA-BZ, the  $T_{\mathrm{g}}$  transition occurred over a wide temperature range, whereas flexible BPDA-ODA and BPDA-DDS were accompanied by a relatively sharp  $T_{\mathrm{g}}$  transition.
+147: 
+148: Figure 5(b) gives tan  $\delta$  versus the temperature.  $T_{\mathrm{g}}$  is denoted by the peak maxima of the tan  $\delta$  curves, and the corresponding values are given in table. It can be seen from the curves that, with the increase in rigidity, the difference between the starting and ending temperatures of the peak (width of the peak) increased. Moreover, the tan  $\delta$  values for the various polymers increased in the following order: BPDA-BZ < BPDA-PDA < BPDA-ODA < BPDA-DDS. Generally, with an increase in the flexibility of the system, tan  $\delta$  increased. Because of their hinged nature, BPDA-ODA and BPDA-DDS were more flexible than the other two linear polyimides. The bulky sulfonyl groups imparted more flexibility to the system than the less bulky ether groups, and so BPDA-DDS had the highest tan  $\delta$  value. Between linear BPDA-BZ and BPDA-PDA, the biphenyl groups of BZ imparted more rigidity and, therefore, resulted in the lowest tan  $\delta$  value. The initial storage moduli for the various polyimides are given in the table. It can be seen from the table that the modulus decreased in the following order: BPDA-BZ > BPDA-PDA > BPDA-ODA > BPDA-DDS. This agreed with the modulus found from the nanoindentation study, which also followed the same trend.

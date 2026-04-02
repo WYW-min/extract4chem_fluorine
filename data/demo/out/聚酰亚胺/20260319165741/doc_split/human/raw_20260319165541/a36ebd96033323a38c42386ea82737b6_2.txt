@@ -1,0 +1,72 @@
+source_file: A Study on the Interfacial Compatibility, Microstructure and Physico-Chemical Properties of PolyimideOrganical.md
+doc_id: a36ebd96033323a38c42386ea82737b6
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [57, 114]
+char_span: [8961, 16285]
+line_count: 56
+effective_body_non_empty_lines: 28
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+57: # 2. Materials and Methods
+58: 
+59: # 2.1.Materials
+60: 
+61: Tetraethoxysilane (TEOS), 3-glycidoxypropyltrimethoxysilane (GPMS),  $3,3^{\prime},4,4^{\prime}$ -Biphenyltetracarboxylic dianhydride (BPDA),  $p$ -phenylenediamine (PDA) were purchased from Sigma Aldrich and used as received. Deionized water, technical grade ethanol, dilute HCl, and dimethylacetamide (DMAc) were also used in this study.
+62: 
+63: # 2.2. Synthesis of BPDA-PDA PAA, PI-Silica, and PI-Organically Modified Silica Composite Films
+64: 
+65: The  $15\mathrm{-wt}\%$  of the BPDA-PDA PAA solution in DMAc was synthesized as shown in Figure 1 using the equimolar ratio of BPDA and PDA under nitrogen atmosphere. The solution was stirred for  $24\mathrm{h}$  under nitrogen flow at room temperature to make a homogeneous solution. Then, the PAA solution was cast onto a glass plate by the applicator. Then, thermal imidization was also carried out at various temperatures  $(60^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ ,  $80^{\circ}\mathrm{C}$  for  $2\mathrm{h}$ ,  $200^{\circ}\mathrm{C}$  for  $1\mathrm{h}$ , and  $300^{\circ}\mathrm{C}$  for  $1.5\mathrm{h})$  in a vacuum oven with nitrogen flow. The used heating rate was  $2^{\circ}\mathrm{C / min}$ . The chemical structures of BPDA and PDA and their conversion from monomers to PAA and BPDA-PDA PI are shown in Figure 1.
+66: 
+67: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+68: Figure 1. Synthesis of BPDA-PDA PAA solution and fabrication of PI film.
+69: 
+70: For preparing PI/silica and PI/GPMS-modified silica composites, the  $30\mathrm{wt}\%$  of pre-prepared silica sol (TSi) was added drop by drop into PAA solution as shown in Figure 2 to avoid local inhomogeneities under nitrogen flow. Then composite PI-TSi/PI-TSi-GPMS containing BPDA-PDA PAA solution films was cast onto the glass plate and the films were imidized under the same heating protocol. Finally, after curing at different temperatures, free-standing composite films were successfully obtained. Sample codes, physical appearance, optical transmittance, and  $5\mathrm{wt}\%$  ( $T_{\mathrm{d}5}$ ) of thermal decomposition of the various samples are shown in Table 1. The film thickness of all the films was about  $200\mu \mathrm{m}$ . The spectroscopy, optical transmittance, microstructure, thermal and physicochemical properties of the final composites are systematically discussed in Figures 3-8.
+71: 
+72: Table 1. Physical, optical transmittance, and the relevant TGA temperature that triggered 5 wt% weight loss of the samples.  
+73: 
+74: <table><tr><td>Sample Code</td><td>Physical Appearance</td><td>Optical Transmittance (T%)</td><td>5 wt% Weight Loss from TGA (℃) (Td5)</td></tr><tr><td>PI</td><td>Transparent and flexible</td><td>88</td><td>576</td></tr><tr><td>PI/TSi</td><td>Opaque and flexible but rigid</td><td>45</td><td>600</td></tr><tr><td>PI/TSi-GPMS25</td><td>Opaque and flexible</td><td>45-47</td><td>Not done</td></tr><tr><td>PI/TSi-GPMS50</td><td>Translucent</td><td>60</td><td>460</td></tr><tr><td>PI/TSi-GPMS75</td><td>Translucent</td><td>62</td><td>Not done</td></tr></table>
+75: 
+76: Note: Physical appearance: eye observation; T%: Optical transmittance at 638 nm. The numerical number at the end of the sample codes is the amount of TEOS that was replaced with GPMS.  $T_{\mathrm{d5}}$  : obtained from TGA analysis.
+77: 
+78: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+79: Polyimide/silica and PI/GPMS-modified silica composite
+80: 
+81: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+82: Figure 2. Synthesis of silica/GPMS-modified containing BPDA-PDA PAA composite solution and its conversion into polyimide/silica composite film and PI/GPMS-modified silica composite film.
+83: 
+84: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+85: Figure 3. Solid-state  $^{29}\mathrm{Si}$  MAS NMR spectra of silica and GPMS-modified silica samples: (a) TSi, (b) TSi-GPMS25, and (c) TSi-GPMS50.
+86: 
+87: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+88: 
+89: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+90: Figure 4. Cross-sectional fracture surface images of different composite samples: (a) PI-TSi, (b) PI-TSi-GPMS25, (c) PI-TSi-GPMS50, and (d) PI-TSi-GPMS75. Arrows show silica/GPMS-modified silica where the continuous matrix phase is polymer.
+91: 
+92: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+93: 
+94: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+95: Figure 5. UV spectra of various samples: (a) pure PI, (b) PI-TSi; (c) PI-TSi-GPMS50; and (d) PI-TSi-GPMS75. The values of all films at  $638~\mathrm{nm}$  are inserted in Figure 5.
+96: 
+97: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+98: Figure 6. FT-IR spectra of (a) pure PI and (b) PI-TSi-GPMS50.
+99: 
+100: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+101: Figure 7. Thermal analysis of (a) pure PI, (b) PI-TSi, and (c) PI-TSi-GPMS50 composites.
+102: 
+103: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+104: Figure 8. Effect of silica and GPMS-modified silica on the dielectric constant of polyimide.
+105: 
+106: # 2.3. Preparation of Pure Silica (TSi) and GPMS-Modified Silica (TSi-GPMS)
+107: 
+108: The silica sample was prepared by the drop-wise addition of TEOS to ethanol  $(1.3\mathrm{mL})$  in the presence of  $0.07\mathrm{M}$  HCl  $(0.3\mathrm{mL})$  and the stoichiometric amount of water against the amount of TEOS for making TSi and TSi-GPMS, whereas the amount of ethanol and HCl is kept constant for the all the samples. At first, ultrasonication was carried out to make the homogeneous solution of silica, and then stirring was done. Solution vials were stirred in a closed vial at room temperature before adding them into the BPDA-PDA PAA solution. In this study, we prepared silica and GPMS-modified silica by replacing the partial amount of TEOS with organosilica GPMS as shown in Figure 2.
+109: 
+110: # 2.4. Characterization and Properties Evaluation
+111: 
+112: The solid-state NMR (Nuclear Magnetic Resonance) spectra were recorded on the same NMR instrument equipped with solid-state probe using the following experimental conditions:  $^{13}\mathrm{C}$  CP/MAS NMR, 6 usec prescan delay time, 2000 usec contact pulse,  $5\mathrm{kHz}$  MAS rate, and 2000 scans;  $^{29}\mathrm{Si}$  CP/MAS NMR, 30.0 usec delay time, 1200 usec contact pulse,  $5\mathrm{kHz}$  MAS rate, and 2500 scans. Then, a field-emission scanning electron microscope (FE-SEM) (JEOL) was used for observing the fractured cross-section of composite films. The fractured surfaces of the samples were obtained by dipping them into liquid nitrogen for  $10\mathrm{min}$  and then broken into two pieces by radial impact force. The exposed fracture surfaces were gold-coated for 20 sec prior to SEM observation. UV spectra for the reported samples were recorded using a UV-Visible photo-spectrometer (UV-3101PC). Fourier Transform Infrared spectroscopy (FT-IR) spectra data were collected using a Perkin-Elmer spectrometer using ATR (Attenuated Total Reflection) mode. Thermogravimetric analysis was carried using under nitrogen atmosphere on TA instrument (TGA Q500) by maintaining a heating rate of  $15^{\circ}\mathrm{C}\mathrm{min}^{-1}$  from 50 to  $950^{\circ}\mathrm{C}$ . The dielectric constants (DC) of the films were recorded on a TA instrument (DEA 2970) analyzer with a heating rate of  $5^{\circ}\mathrm{C / min}$ .

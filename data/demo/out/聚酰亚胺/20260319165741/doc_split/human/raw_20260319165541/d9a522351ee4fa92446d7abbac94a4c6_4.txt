@@ -1,0 +1,23 @@
+source_file: Electrospun polyimide nanofiber-coated polyimide nonwoven fabric for hot gas filtration.md
+doc_id: d9a522351ee4fa92446d7abbac94a4c6
+chunk_index: 4
+block_id: b0005
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Experiment
+line_span: [61, 69]
+char_span: [5406, 5819]
+line_count: 7
+effective_body_non_empty_lines: 2
+
+lines:
+--- chunk (b0005: Experiment) ---
+61: # Experiment
+62: 
+63: # Materials
+64: 
+65: Needle-punched PI nonwoven fabric filter materials with a thickness of  $2.1 - 2.5\mathrm{mm}$  and a weight of  $450 - 550~\mathrm{g / m}^2$  were kindly supplied by Lantian Huanbao Co. Ltd (Jiangsu, China).
+66: 
+67: Pyromellitic dianhydride (PMDA), 4,4-oxidianiline (ODA), and dimethylformamide (DMF) were brought from Sinopharm Group (Tianjin). All the raw materials were used as received.

@@ -1,0 +1,122 @@
+source_file: A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles As a Chemiresistor Sensor for Hyd.md
+doc_id: 529c7ae8c913032b7aa9cc247dac1581
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results and Discussion
+line_span: [72, 179]
+char_span: [15428, 26972]
+line_count: 106
+effective_body_non_empty_lines: 60
+
+lines:
+--- chunk (b0004: 3. Results and Discussion) ---
+72: # 3. Results and Discussion
+73: 
+74: # 3.1. Synthesis and Characterization of PI-Based Materials
+75: 
+76: # 3.1.1. Synthesis of electroactive polyimide-based materials
+77: 
+78: The ACAT was synthesized by the oxidative coupling of  $4 - 4^{\prime}$ -diaminodiphenylamine and aniline monomer by the addition of ammonium persulfate as the oxidant (Scheme 1). The synthesized ACAT was then subjected to chemical polymerization with the aid of BSAA, resulting in the formation of poly(amic acid). Finally, the poly(amic acid) underwent chemical imidization by acetic anhydride and pyridine to form the final product, electroactive polyimide.
+79: 
+80: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+81: Scheme 1. Proposed mechanism for the synthesis of electroactive polyimide.
+82: 
+83: Scheme 2, adapted from the work of Ji et al. [50], shows the proposed mechanism of the formation of electroactive PI/AuNPs by doping gold nanoparticles onto the synthesized PI, with the aid of dimethyl acetamide and ethyl acetate solvents.
+84: 
+85: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+86: Scheme 2. Proposed mechanism for the synthesis of gold nanoparticle-doped electroactive polyimide.
+87: 
+88: # 3.1.2. Structural and Morphological Characterization
+89: 
+90: Figure 2a,b shows the LC-MS spectra of the synthesized ACAT. It can be seen that the maximum intensity in the  $\mathrm{MS}^{+}$  spectrum occurred at  $289.1\mathrm{m / z}$ , while the maximum in the  $\mathrm{MS}^{-}$  spectrum occurred
+91: 
+92: at  $286.9 \, \mathrm{m/z}$ . These results suggest that the synthesized powder is ACAT. In theory, the molecular weight of ACAT is  $288 \, \mathrm{g} \, \mathrm{mol}^{-1}$ . The peak shifted by  $+/-1$  which could be attributed to H.
+93: 
+94: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+95: 
+96: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+97: 
+98: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+99: Figure 2. LC-MS spectra (a)  $\mathrm{MS}^+$  mode and (b)  $\mathrm{MS}^-$  mode, and (c)  ${}^{1}\mathrm{H}$ -NMR spectrum of the synthesized ACAT powder.
+100: 
+101: Further confirmation of the successful synthesis of ACAT using  ${}^{1}\mathrm{H}$  NMR spectroscopy was done. The sample used was prepared by dissolving a small amount of the synthesized ACAT in dimethylsulfoxide- $\mathrm{d}_6((\mathrm{CD}_3)_2\mathrm{SO})$ . Figure 2c shows the spectrum obtained from the analysis.
+102: 
+103: The results show that PI (Figure 3c) has the same characteristic peaks with ACAT (Figure 3a) at 1504 and  $1596~\mathrm{cm}^{-1}$ . The characteristic peaks at 1504 and  $1596~\mathrm{cm}^{-1}$  may be due to the vibration bands of benzenoid rings and quinoid rings of ACAT, respectively. At  $1750~\mathrm{cm}^{-1}$ , PI (Figure 3c) and BSAA (Figure 3b) have characteristic peaks referring to the vibration bands of BSAA's C=O groups. Based on the overall spectra, the synthesis of PI was successfully achieved.
+104: 
+105: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+106: Figure 3. FTIR spectra of (a) synthesized ACAT, (b) BSAA, (c) synthesized electroactive PI.
+107: 
+108: TEM and FE-SEM micrographs reveal the presence of well-dispersed Au nanoparticles with an average diameter of about  $60~\mathrm{nm}$ , as shown in Figure 4.
+109: 
+110: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+111: 
+112: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+113: 
+114: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+115: Figure 4. (a,b) TEM, and (c,d) FE-SEM images of the synthesized electroactive PI/AuNPs.
+116: 
+117: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+118: 
+119: The diffractogram in Figure 5a shows a broad peak between  $15 - 20^{\circ}$  (2θ), which can be attributed to the semi-crystalline nature of the PI sample, having periodic parallel polymer chains. The diffractogram of the PI/AuNPs (Figure 5b) show the characteristic peaks of gold occurring at  $38.01^{\circ}$ ,  $43.96^{\circ}$ ,  $64.50^{\circ}$ , and  $77.42^{\circ}$  (2θ), corresponding to reflections from the planes, (111), (200), (220), and (311) [71]. The prominent diffraction at  $38.01^{\circ}$  revealed that zero valent gold grew and mostly fixed in the direction (111). This behavior also signifies the formation of pure gold nanocrystals [72].
+120: 
+121: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+122: Figure 5. XRD pattern of electroactive (a) PI and (b) PI/AuNPs.
+123: 
+124: # 3.2. Evaluation of the Sensor's Performance
+125: 
+126: Sensitivity, linearity, and limit of detection. Shown in Figure 6a is the calibration curve constructed based in the performance of electroactive polyimide doped with gold nanoparticles (PI/AuNPs) towards increasing concentration of hydrogen sulfide gas. Responses were reported as  $(\Delta R / R_0)\times 100\%$  .  $\Delta R = /R_{\mathrm{g}} - R_0/$  , where  $R_{\mathrm{g}}$  is the resistance of the chemiresistor gas sensor and  $R_0$  refers to baseline resistance. The sensor presented a sensitivity of  $0.29\%$  ppm-1 H2S gas and a linearity of 0.9777 at a dynamic linear concentration range of 50 to 300 ppm H2S gas. The theoretical detection limit was found to be 0.142 ppm or 142 ppb H2S, estimated according to the least-square method of fitting in the linear regime.
+127: 
+128: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+129: (a)  
+130: Figure 6. Cont.
+131: 
+132: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+133: (b)  
+134: Figure 6. (a) Calibration plot obtained after the electroactive PI/AuNPs-based chemiresistor sensor was exposed towards increasing concentrations of  $\mathrm{H}_2\mathrm{S}$  gas at RT  $(n = 3)$ ; and (b) the proposed sensing mechanism.
+135: 
+136: As indicated in Figure 6b, the decrease in resistance in the electroactive PI/AuNPs film could possibly be attributed to further doping of the polymer due to the sulfurous acid formed. Hydrogen sulfide gas  $(K_{\mathrm{a}} = 1.1\times 10^{-7})$  in humid condition may generate sulfurous acid  $(K_{\mathrm{a}} = 1.3\times 10^{-2})$  which consequently dissociates more effectively into hydrogen and sulfite ions. At room temperature and pressure, the hydrogen ions, then, protonate the polymer's imine nitrogen sites of the ACAT chains. This phenomenon results to a corresponding increase in conductivity or decrease in resistance. Experimental data show that higher concentrations of  $\mathrm{H}_2\mathrm{S}$  gas lead to higher decrease in resistance. It is speculated that the resulting positive charges in the imine nitrogen are counteracted by the negatively charged sulfite ions. Furthermore, the gold nanoparticles could possibly be contributing to the stabilization of the interaction by attracting the sulfur-containing counter ions toward the ACAT segments.
+137: 
+138: Repeatability of the sensor's response. Figure 7a shows a comparison of calibration plots of electroactive PI/AuNPs and PANI/AuNPs chemiresistor sensors towards increasing concentration of hydrogen sulfide gas. The latter has a sensitivity of  $0.11\% \mathrm{ppm}^{-1}\mathrm{H}_2\mathrm{S}$ , a theoretical detection limit of  $0.45\mathrm{ppmH_2S}$ , and a linearity of 0.9551 at the same linear concentration range of 50 to  $300\mathrm{ppmH_2S}$  gas. Based on sensitivity values, there was a  $62\%$  improvement in the performance with electroactive PI/AuNPs sensor. This may be attributed to the formation of additional conducting paths due to further doping of PI's active sites. This, consequently, improved hopping of electrons throughout the polymeric chain.
+139: 
+140: The repeatability studies depicted in Figure 7b,c prove the better precision of all the trials, with respect to sensitivity values, in electroactive PI/AuNPs (\% RSD = 8.88%) than PANI/AuNPs (\% RSD = 28.36%).
+141: 
+142: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+143: (a)  
+144: Figure 7. Cont.
+145: 
+146: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+147: (b)
+148: 
+149: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+150: (c)  
+151: Figure 7. (a) A comparison of the calibration plots of electroactive PI/AuNPs-, and PANI/AuNPs-based chemiresistor gas sensors towards increasing concentrations of  $\mathrm{H}_2\mathrm{S}$  gas (50 to  $300~\mathrm{ppm}$ ,  $n = 3$ , RT). Repeatability studies based on the calibration plots of (b) PI/AuNPs, and (c) PANI/AuNPs.
+152: 
+153: Response and Recovery Characteristics of the Sensor. Response time refers to the duration it takes the sensor to change from its initial state to its stable value, while recovery time is the period it takes the sensor to return to its initial state. As shown in Figure 8, a response time of  $43\mathrm{~s}$  and recovery time of  $99\mathrm{~s}$  was exhibited by PI/AuNPs while a response time of  $55\mathrm{~s}$  and recovery time of  $103\mathrm{~s}$  was shown by the PANI/AuNPs. The faster response time and recovery in PI/AuNPs could be attributed to the polymer's three-dimensional (3D) surface, i.e., the porous sensing membrane contributing to higher surface area (see FE-SEM presented in Figure 4d). This 3D structure, in both PI/AuNPs and PANI/AuNPs, allows easier diffusion of gas analyte into and out of the polymer matrix. Morphological studies revealed that PI/AuNPs are more porous than PANI/AuNPs. This increase in surface area could possibly be the cause of the higher response at a faster gas diffusion rate in PI/AuNPs.
+154: 
+155: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+156: (a)  
+157: Figure 8. Cont.
+158: 
+159: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+160: (b)
+161: 
+162: Reversibility of the Sensor's response. As shown in Figure 9a, the PI/AuNPs sensor exhibited a good reversibility within 3 cycles of exposure to alternating  $\mathrm{N}_2$  blank and  $200~\mathrm{ppm}$ $\mathrm{H}_2\mathrm{S}$ $(\mathrm{RSD} = 8.60\%)$ . The reading returned to its baseline value once the gas analyte was removed.
+163: 
+164: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+165: Figure 8. Dynamic response and recovery characteristics of (a) PI/AuNPs, and (b) PANI/AuNPs-based chemiresistor sensors towards  $150~\mathrm{ppm}$ $\mathrm{H}_2\mathrm{S}$  at RT (cycle = 1).
+166: 
+167: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+168: (a)  
+169: Figure 9. A comparison of the reversibility of the response of (a) PI/AuNPs, and (b) PANI/AuNPs-based chemiresistor sensors towards  $200~\mathrm{ppm}$ $\mathrm{H}_2\mathrm{S}$  at RT (cycles = 3).  
+170: (b)
+171: 
+172: The case is different compared with the performance of PANI/AuNPs sensor. Figure 9b shows that the sensor did not exhibit a good reversible process. The sensor experienced difficulty in reverting to the baseline reading after the first cycle of exposure to  $\mathrm{H}_2\mathrm{S}$  gas. An RSD of  $41.79\%$  validated that PANI/AuNPs showed a poor reversibility.
+173: 
+174: Selectivity. The selectivity studies in Figure 10 revealed that the electroactive PI/AuNPs-based chemiresistor sensor resulted in the highest resistance change towards  $300~\mathrm{ppm}$  hydrogen sulfide gas compared to minimal to almost negligible response when the sensor was exposed to pure forms of solvents of varying polarity such as hexane, ethyl acetate, and methanol vapors. The same sensor, when exposed and tested towards the same concentration of ammonia gas, resulted in a signal that was opposite in direction, implying a different sensing mechanism.
+175: 
+176: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+177: Figure 10. Selectivity test of electroactive PI/AuNPs with  $300~\mathrm{ppm}$  concentration of  $\mathrm{H}_2\mathrm{S}$ , ethyl acetate (pure), methanol (pure), hexane (pure);  $(n = 3, \mathrm{RT})$ .

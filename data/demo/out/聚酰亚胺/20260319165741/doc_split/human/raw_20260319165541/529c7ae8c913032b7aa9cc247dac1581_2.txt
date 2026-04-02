@@ -1,0 +1,48 @@
+source_file: A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles As a Chemiresistor Sensor for Hyd.md
+doc_id: 529c7ae8c913032b7aa9cc247dac1581
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Experimental
+line_span: [39, 72]
+char_span: [8482, 15428]
+line_count: 32
+effective_body_non_empty_lines: 13
+
+lines:
+--- chunk (b0003: 2. Experimental) ---
+39: # 2. Experimental
+40: 
+41: # 2.1. Chemicals and Equipment
+42: 
+43: Aniline  $(99.0\%)$ , Fluka) was distilled under reduced pressure prior to use. Chemicals such as 4,  $4^{\prime}$ -diaminodiphenylamine sulfate hydrate  $(>97.0\%)$ , TCI),  $4,4^{\prime}-(4,4^{\prime}$ -isopropylidene diphenoxy)-bis(phthalic anhydride) (BSAA,  $97.0\%$ , Aldrich), gold(III)chloride trihydrate  $\mathrm{(HAuCl_4\cdot 3H_2O}$ ,  $99.99\%$ , Alfa Aesar) 1-methyl-2-pyrrolidone (NMP,  $99.7\%$ , MACRON), N,N-dimethylacetamide (DMAc,  $99.0\%$ , MACRON, and  $99\%$ , Sigma-Aldrich, St. Louis, MO, USA), acetone (Ac,  $99.5\%$ , J.T. Baker, New Jersey, USA), methanol (MeOH,  $99.8\%$ , J.T. Baker), tetrahydrofuran (THF,  $99.8\%$ , RCI Labscan, Bangkok, Thailand), cyclohexanone (CH,  $100\%$ , J.T. Baker), dimethylformamide (DMF,  $99.9\%$ , J.T. Baker), acetonitrile (ACN,  $100\%$ , J.T. Baker) were used without further purification.
+44: 
+45: Infrared spectra were recorded using JASCO FT/IR-4100. To confirm presence of the Au nanoparticles, the samples were cut using a diamond knife to a  $60 - 90\mathrm{nm}$  thick sections, and observed using a JEOL-200FX TEM (JEOL, Tokyo, Japan). The morphology of samples was recorded using scanning electron microscopy (SEM) (Hitachi S-2300). X-ray diffraction (XRD) analyses were recorded using a Philips X'pert Pro X-ray diffractometer. Electrochemical properties were investigated using a conventional three-electrode system connected to a VoltaLab 40 analytical voltammeter.  ${}^{1}\mathrm{H}$  NMR investigations were carried out using Bruker 300 spectrometer, referenced to internal standard of tetramethylsilane (TMS). DMSO was used as solvent. LC-MS further facilitated analysis of samples using Bruker Daltonics ion trap mass spectrometer (Model: Esquire 2000 with an Agilent ESI source (Model: G1607-6001, Leipzig, Germany).
+46: 
+47: A UNI-T UT71A multimeter with UT71A_B V3.00 software/Agilent 34410A desktop multimeter with Keysight BenchVue V 3.0 software (MatLab, CA, USA), was used in testing the gas sensing capability of the polymeric membranes.
+48: 
+49: # 2.2. Synthesis and Characterization of PI and PI/AuNPs
+50: 
+51: Amino-capped aniline trimer (ACAT) was prepared by following the procedure reported by Wei et al. Briefly, the synthesis of ACAT involved the use of ammonium persulfate to oxidize 2 equivalents of aniline and 1,4-phenylenediamine [70]. The success of ACAT preparation was confirmed by  ${}^{1}\mathrm{H}$  NMR mass, LC-MS, and FT-IR spectroscopy.
+52: 
+53: The electroactive polyimide (PI) was synthesized using ACAT and BSAA. Solution A was prepared by dissolving BSAA  $(0.52\mathrm{g},1\mathrm{mmol})$  in  $8.0\mathrm{g}$  of DMAc with continuous stirring for  $30\mathrm{min}$  at room temperature. Solution B was prepared by dissolving ACAT  $(0.29\mathrm{g},2\mathrm{mmol})$  in  $8.0\mathrm{g}$  of DMAc with continuous stirring for  $30\mathrm{min}$  at room temperature. After stirring for  $30\mathrm{min}$ , solution B was added to solution A, and mechanically stirred for  $24\mathrm{h}$  to prepare a poly(amic acid) solution. The poly(amic acid)(PAA) was converted to polyimide(PI) by chemical imidization reaction. This reaction was done by adding acetic anhydride  $(0.102\mathrm{g},1\mathrm{mmol})$  and pyridine  $(0.079\mathrm{g},1\mathrm{mmol})$  to the solution, and refluxing for  $3\mathrm{h}$  under nitrogen. Methanol  $(250\mathrm{mL})$  was used to wash the PI and dried at  $60^{\circ}\mathrm{C}$  under vacuum for 1 day. The PI was characterized by  ${}^{1}\mathbf{H}$  NMR, LC-MS, FT-IR spectroscopy, X-ray diffraction.
+54: 
+55: The gold nanoparticle-doped electroactive polyimide (PI/AuNPs) samples were prepared by dissolving PI in DMAc, and adding aqueous  $\mathrm{HAuCl_4}$  solution  $(1\mathrm{mM})$  at room temperature, then stirring for  $6\mathrm{h}$ . After the reaction, centrifugal filtration was done to collect the precipitate. Large volumes of distilled water were used to wash the residue. The PI/AuNPs were dried in a vacuum oven at  $60^{\circ}\mathrm{C}$ . The PI-AuNP was characterized using TEM, FT-SEM, and X-ray diffraction.
+56: 
+57: # 2.3. Evaluation of Fabricated Sensors Toward  $H_2S$
+58: 
+59: $\mathbf{H}_2\mathbf{S}$  headspace generation. Hydrogen sulfide is generated in a reaction chamber by mixing  $7.1\mathrm{mg}$  ferrous sulfide (FeS) and  $10~\mathrm{mL}~5\mathrm{M}$  hydrochloric acid (HCl). This reaction produced 50 ppm
+60: 
+61: concentration of  $\mathrm{H}_2\mathrm{S}$  in a  $55~\mathrm{mL}$  sample chamber. The procedure was repeated to achieve 100, 150, 200, 250, and  $300~\mathrm{ppm}~\mathrm{H}_2\mathrm{S}$ .
+62: 
+63: As illustrated in Figure 1a, the gas sensing set-up was composed of a nitrogen tank connected to an enclosed reaction chamber (left,  $V = 55~\mathrm{mL}$ ), where generation of hydrogen sulfide gas occurred. The generated  $\mathrm{H}_2\mathrm{S}$  gas was flushed into the sample chamber (middle,  $V = 55~\mathrm{mL}$ ) for determination using the fabricated sensor attached to a UNI-T multimeter. The resistance data obtained was recorded continuously using a computer. The gas exhausted from the sample chamber was bubbled in the third chamber containing water.
+64: 
+65: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+66: Figure 1. An illustration of the (a) gas sensing set-up: (1)  $\mathrm{N}_2$  tank, (2) reaction chamber, (3) sample chamber, (4) PI/AuNPs-based  $\mathrm{H}_2\mathrm{S}$  gas chemiresistor sensor, (5) reservoir for exhausted gas, (6) multimeter, and (7) computer; and (b) sensor substrate configuration: left-side view, and right-top view ( $1'$ ) Au discs (end of Au wires), ( $2'$ ) Teflon block, and ( $3'$ ) insulated Cu wires.
+67: 
+68: Substrate preparation. The substrate (Figure 1b) is composed of gold wires (18 karats,  $\varnothing = 0.5\mathrm{mm}, 1 = 0.5\mathrm{cm}$ ) soldered to polished copper wires ( $\varnothing = 0.5\mathrm{mm}, 1 = 2.5\mathrm{cm}$ ). A pair of soldered Au-Cu wires, separated by a  $200~{\mu\mathrm{m}}$  gap, was mounted into a custom made Teflon bar ( $10\mathrm{mm} \times 10\mathrm{mm} \times 4\mathrm{mm}$ ). The wires were cleaned via ultrasonication in detergent solution for  $15\mathrm{min}$ . This step was immediately followed with washing of wires using water, acetone, methanol, water, and then dried. The wires were held in a sturdy and upright position by applying a cyanoacrylate adhesive (Mighty Bond™ by Pioneer ® adhesives). The exposed Au ends, which served as the substrate, were subsequently polished with high grade of abrasive paper (1200 grit) and pad with aluminum slurry ( $\varnothing = 3~{\mu\mathrm{m}}$ ). The polished electrodes were then washed with methanol, sonicated in ultrapure water for 5 minutes, and dried.
+69: 
+70: Sensor performance evaluation. The sensor performance was evaluated based on sensitivity, linearity, linear concentration range, limit of detection, dynamic response and recovery characteristics, repeatability and reproducibility, and selectivity.

@@ -1,0 +1,19 @@
+source_file: Multicore-shell nanofiber architecture of polyimidepolyvinylidene fluoride blend for thermal and long-term sta.md
+doc_id: 80866f6860b70ed6196a3f3072338388
+chunk_index: 4
+block_id: b0005
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Conclusions
+line_span: [100, 104]
+char_span: [32340, 33120]
+line_count: 3
+effective_body_non_empty_lines: 1
+
+lines:
+--- chunk (b0005: Conclusions) ---
+100: # Conclusions
+101: 
+102: The porous PI/PVdF composite separator, which was composed of nanofibers with a multicore-shell (MCS) structure, was prepared using a facile electrospinning technique with a single nozzle. The intrinsic immiscibility of polymers allowed for the formation of a novel MCS membrane despite single-nozzle electrospinning. The unique MCS separator showed better thermal stability, mechanical properties, and long-term battery performance than a commercial PE separator due to its well-distributed thermally stable PI nanofibrils in a PVdF shell and external PVdF and electrolyte interactions. Therefore, the MCS separator prepared using single-nozzle electrospinning is a promising material to be used as a thermally stable and active separator for Li-based batteries.

@@ -1,0 +1,50 @@
+source_file: Physical Properties of Thermally Crosslinked Fluorinated Polyimide and Its Application to a Liquid Crystal Ali.md
+doc_id: c4f669b48b1423dc5ea06d7550ea03f2
+chunk_index: 5
+block_id: b0006
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: References
+line_span: [231, 264]
+char_span: [44681, 51438]
+line_count: 34
+effective_body_non_empty_lines: 31
+
+lines:
+--- chunk (b0006: References) ---
+231: # References
+232: 
+233: 1. Murata, M.; Awaji, H.; Isurugi, M.; Uekita, M.; Tawada, Y. Alignment of nematic liquid crystals by polyimide Langmuir-Blodgett films. Jpn. J. Appl. Phys. 1992, 31, L189-L192. [CrossRef]  
+234: 2. Paek, S.-H. Comparative study of effects of rubbing parameters on polyimide alignment layers and liquid crystal alignment. J. Ind. Eng. Chem. 2001, 7, 316-325.  
+235: 3. Tong, F.; Chen, S.; Chen, Z.; Lu, X.; Lu, Q. Mesogen-co-polymerized transparent polyimide as a liquid-crystal alignment layer with enhanced anchoring energy. RSC Adv. 2018, 8, 11119-11126. [CrossRef]  
+236: 4. Van Aerle, N.A.J.M.; Tol, A.J.W. Molecular orientation in rubbed polyimide alignment layers used for liquid-crystal displays. Macromolecules 1994, 27, 6520-6526. [CrossRef]  
+237: 5. Liaw, D.-J.; Wang, K.-L.; Huang, Y.-C.; Lee, K.-R.; Lai, J.-Y.; Ha, C.-S. Advanced polyimide materials: Syntheses, physical properties and applications. Prog. Polym. Sci. 2021, 37, 907-974. [CrossRef]  
+238: 6. Lee, T.R.; Kim, J.H.; Lee, S.H.; Jun, M.C.; Baik, H.K. Investigation on newly designed low resistivity polyimide-type alignment layer for reducing DC image sticking of in-plane switching liquid crystal display. Liq. Cryst. 2017, 44, 738-747. [CrossRef]  
+239: 7. Bi, H.-S.; Zhi, X.-X.; Wu, P.-H.; Zhang, Y.; Wu, L.; Tan, Y.-Y.; Jia, Y.-J.; Liu, J.-G.; Zhang, X.-M. Preparation and characterization of semi-alicyclic polyimide resins and the derived alignment layers for liquid crystal display technology. Polymers 2020, 12, 217. [CrossRef] [PubMed]  
+240: 8. Dong, W.; Paek, S.-H. Chemical structural effects of polyimides on the alignment and electro-optical properties of liquid crystal cells. Macromol. Res. 2004, 12, 251-257. [CrossRef]  
+241: 9. Perlmutter, S.H.; Doroski, D.; Moddel, G. Degradation of liquid crystal device performance due to selective adsorption of ions. Appl. Phys. Lett. 1996, 69, 1182-1184. [CrossRef]  
+242: 10. Mizusaki, M.; Miyashita, T.; Uchida, T. Behavior of ion affecting image sticking on liquid crystal displays under application of direct current voltage. J. Appl. Phys. 2010, 108, 104903. [CrossRef]  
+243: 11. Xu, D.; Peng, F.; Chen, H.; Yuan, J.; Wu, S.-T.; Li, M.-C.; Lee, S.-L.; Tsai, W.-C. Image sticking in liquid crystal displays with lateral electric fields. J. Appl. Phys. 2014, 116, 193102. [CrossRef]  
+244: 12. Chung, I.S.; Kim, S.Y. Soluble polyimides from unsymmetrical diamine with trifluoromethyl pendent group. Macromolecules 2000, 33, 3190-3193. [CrossRef]  
+245: 13. Harris, F.W.; Lin, S.-H.; Li, F.; Cheng, S.Z.D. Organo-soluble polyimides: Synthesis and polymerization of  $2,2^{\prime}$ -disubstituted-4,4',5,5'-biphenyltetracarboxylic dianhydrides. Polymer 1996, 37, 5049-5057. [CrossRef]  
+246: 14. Dhara, M.G.; Banerjee, S. Fluorinated high-performance polymers: Poly(arylene ether)s and aromatic polyimides containing trifluoromethyl groups. Prog. Polym. Sci. 2010, 35, 1022-1077. [CrossRef]  
+247: 15. Liaw, D.-J.; Chang, F.-C.; Leung, M.-k.; Chou, M.-Y.; Muellen, K. High thermal stability and rigid rod of novel organosoluble polyimides and polyamides based on bulky and noncoplanar naphthalene-biphenyldiamine. Macromolecules 2005, 38, 4024-4029. [CrossRef]  
+248: 16. Tapaswi, P.K.; Choi, M.-C.; Jeong, K.-M.; Ando, S.; Ha, C.-S. Transparent aromatic polyimides derived from thiophenyl-substituted benzidines with high refractive index and small birefringence. Macromolecules 2015, 48, 3462-3474. [CrossRef]  
+249: 17. Husk, G.R.; Cassidy, P.E.; Gebert, K.L. Synthesis and characterization of a series of polyimides derived from  $4,4^{\prime}$  [2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis [1,3-isobenzofurandione]. Macromolecules 1988, 21, 1234-1238. [CrossRef]
+250: 
+251: 18. Vanherck, K.; Koeckelberghs, G.; Vanelecom, I.F.J. Crosslinking polyimides for membrane applications: A review. *Prog. Polym. Sci.* 2013, 30, 874-896. [CrossRef]  
+252: 19. Gaw, K.; Kikei, M.; Kakimoto, M.; Imai, Y. Preparation of polyimide-epoxy composites. React. Funct. Polym. 1996, 30, 85–91. [CrossRef]  
+253: 20. Gaw, K.O.; Kakimoto, M. Polyimide-epoxy composites. In Advanced Polymer Science: Progress in Polyimide Chemistry I; Kricheldorf, H.R., Ed.; Springer: New York, NY, USA, 1999; Volume 140, pp. 107-136.  
+254: 21. Arafune, R.; Sakamoto, K.; Ushioda, S. Correlation between the pretilt angle of liquid crystal and the inclination angle of the polyimide backbone structure. Appl. Phys. Lett. 1997, 71, 2755-2757. [CrossRef]  
+255: 22. Van Aerle, N.A.J.M.; Barmentlo, M.; Hollering, R.W.J. Effect of rubbing on the molecular orientation within polyimide orienting layers of liquid-crystal displays. J. Appl. Phys. 1993, 74, 3111-3120. [CrossRef]  
+256: 23. Ree, M.; Kim, K.; Woo, S.H.; Chang, H. Structure, chain orientation, and properties in thin films of aromatic polyimides with various chain rigidities. J. Appl. Phys. 1997, 81, 698-708. [CrossRef]  
+257: 24. Kim, S.-U.; Lee, C.; Sundar, S.; Jang, W.B.; Yang, S.-J.; Han, H. Synthesis and characterization of soluble polyimides containing trifluoromethyl groups in their backbone. J. Polym. Sci. Polym. Phys. 2004, 42, 4303-4312. [CrossRef]  
+258: 25. Schadt, M. Liquid crystal materials and liquid crystal displays. Ann. Rev. Mater. Sci. 1997, 27, 305-379. [CrossRef]  
+259: 26. Mizusaki, M.; Yoshimura, Y.; Yamada, Y.; Okamoto, K. Analysis of ion behavior affecting voltage holding property of liquid crystal displays. Jpn. J. Appl. Phys. 2012, 51, 014102. [CrossRef]  
+260: 27. Zhi, X.-X.; Bi, H.-S.; Gao, Y.-S.; Liu, J.-G.; Chen, J.; Gao, K.-Y.; Zhang, X.-M. Preparation and characterization of novel preimidized semi-alicyclic polyimide alignment layers with low curing temperature and high voltage holding ratio for TFT-LCDs. Chem. Lett. 2019, 48, 654-657. [CrossRef]  
+261: 28. Mizusaki, M.; Miyashita, T.; Uchida, T.; Yamada, Y.; Ishii, Y.; Mizushima, S. Generation mechanism of residual direct current voltage in a liquid crystal display and its evaluation parameters related to liquid crystal and alignment layer materials. J. Appl. Phys. 2007, 102, 014904. [CrossRef]  
+262: 29. Mizusaki, M.; Miyashita, T.; Uchida, T. Kinetic analysis of image sticking with adsorption and desorption of ions to a surface of an alignment layer. J. Appl. Phys. 2012, 112, 044510. [CrossRef]  
+263: 30. Mizusaki, M.; Enomoto, S. Characteristics of voltage holding ratio and residual direct current voltage for polymer-sustained-alignment liquid crystal cells formed from mixed monomers containing biphenyl- and benzilketal-groups. Mol. Cryst. Liq. Cryst. 2020, 703, 13-22. [CrossRef]  
+264: 31. Choi, J.-C.; Lee, D.-J.; Park, M.-K.; Park, J.-S.; Lee, J.-H.; Baek, J.-H.; Choi, H.C.; Kim, H.-R. Highly enhanced voltage holding property for low-frequency-driven fringe-field switching liquid crystal mode by charge-trapping effect of carbon-nanotube-doped surface. Opt. Express 2019, 27, 29178-29195. [CrossRef]

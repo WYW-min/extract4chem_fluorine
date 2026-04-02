@@ -1,0 +1,56 @@
+source_file: A Novel Diamine Containing Ester and Diphenylethane Groups for Colorless Polyimide with a Low Dielectric Const.md
+doc_id: e4e23641a5a6262053f602a1e3dace26
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: A Novel Diamine Containing Ester and Diphenylethane Groups for Colorless Polyimide with a Low Dielectric Constant and Low Water Absorption
+line_span: [1, 42]
+char_span: [0, 3527]
+line_count: 40
+effective_body_non_empty_lines: 23
+
+lines:
+--- chunk (b0001: A Novel Diamine Containing Ester and Diphenylethane Groups for Colorless Polyimide with a Low Dielectric Constant and Low Water Absorption) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2022, 14, 4504. https://doi.org/10.3390/polym14214504
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # A Novel Diamine Containing Ester and Diphenylethane Groups for Colorless Polyimide with a Low Dielectric Constant and Low Water Absorption
+11: 
+12: Jun Seok Lee  $^{1}$ , Yong-Zhu Yan  $^{1}$ , Sung Soo Park  $^{2}$ , Suk-kyun Ahn  $^{1}$  and Chang-Sik Ha  $^{1, *}$
+13: 
+14: $^{1}$  Department of Polymer Science and Engineering, School of Chemical Engineering, Pusan National University, Busan 46241, Korea  
+15: 2 Division of Advanced Materials Engineering, Dong-Eui University, Busan 47340, Korea  
+16: * Correspondence: csha@pnu.edu; Tel.: +82-51-510-3095
+17: 
+18: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+19: 
+20: check for updates
+21: 
+22: Citation: Lee, J.S.; Yan, Y.-Z.; Park, S.S.; Ahn, S.-k.; Ha, C.-S. A Novel Diamine Containing Ester and Diphenylethane Groups for Colorless Polyimide with a Low Dielectric Constant and Low Water Absorption. Polymers 2022, 14, 4504. https://doi.org/10.3390/polym14214504
+23: 
+24: Academic Editor: Antonio Zuorro
+25: 
+26: Received: 30 September 2022
+27: 
+28: Accepted: 21 October 2022
+29: 
+30: Published: 25 October 2022
+31: 
+32: Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+33: 
+34: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+35: 
+36: Copyright: © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+37: 
+38: Abstract: In this study, a novel diamine monomer containing ester and phenyl moieties, 1,2-diphenylethane-1,2-diyl bis(4-aminobenzoate) (1,2-DPEDBA), was synthesized through a three-step reaction. Using this diamine, a novel polyimide (PI) film was prepared with  $4,4^{\prime}$ -(hexafluoroisopropylidene)diphthalic anhydride (6-FDA) as a counter dianhydride through a typical two-step chemical imidization. For comparison, poly(pyromellitic dianhydride-co- $4,4^{\prime}$ -oxydianiline) (PMDA-ODA PI) was also synthesized via thermal imidization. The resulting 6-FDA-DPEDBA PI film was not only soluble in common polar solvents with high boiling points, such as N,N-dimethylacetamide (DMAc) and N,N-dimethylformamide (DMF), but also soluble in common low-boiling-point polar solvents, such as chloroform  $(\mathrm{CHCl}_3)$  and dichloromethane  $(\mathrm{CH}_2\mathrm{Cl}_2)$ , at room temperature. The resulting novel PI showed a  $5\%$  weight loss temperature  $(\mathrm{T}^{5}_{\mathrm{d}})$  at  $360^{\circ}\mathrm{C}$  under a nitrogen atmosphere. The resulting PI film was colorless and transparent with a transmittance of  $87.1\%$  in the visible light region ranging from 400 to  $760~\mathrm{nm}$ . The water absorption of the novel PI film was of  $1.78\%$ . The PI film also possessed a good moisture barrier and hydrophobicity. Furthermore, the resulting PI film displayed a low dielectric constant of 2.17 at  $10^{6}\mathrm{Hz}$  at room temperature. In conclusion, the novel PI film exhibited much better optical transparency, lower moisture absorption, and a lower dielectric constant as well as better solubility than the PMDA-ODA PI film, which is insoluble in any solvent, although its thermal stability is not better than that of PMDA-ODA PI.
+39: 
+40: Keywords: polyimide; a novel diamine; low water absorption; low dielectric constant; high transparency; high solubility

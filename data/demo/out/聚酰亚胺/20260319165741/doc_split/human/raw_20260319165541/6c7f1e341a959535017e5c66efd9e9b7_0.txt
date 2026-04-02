@@ -1,0 +1,38 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Effects of thermal treatment on the  $\mathrm{CO}_{2}$  sorption of triblockcopolymers derived from polyimide and poly(methylmethacrylate)
+line_span: [1, 24]
+char_span: [0, 1949]
+line_count: 22
+effective_body_non_empty_lines: 14
+
+lines:
+--- chunk (b0001: Effects of thermal treatment on the  $\mathrm{CO}_{2}$  sorption of triblockcopolymers derived from polyimide and poly(methylmethacrylate)) ---
+1: [MINERU_DISCARDED_META]
+2: JOURNAL OF Applied Polymer SCIENCE
+3: Materials ViewS
+4: WWW.MATERIALSVIEWS.COM
+5: 42208 (1 of 12)
+6: J. APPL. POLYM. SCI. 2015, DOI: 10.1002/APP.42208
+7: [/MINERU_DISCARDED_META]
+8: 
+9: # Effects of thermal treatment on the  $\mathrm{CO}_{2}$  sorption of triblockcopolymers derived from polyimide and poly(methylmethacrylate)
+10: 
+11: Shota Ando, Akihiro Yoshida, Kazukiyo Nagai
+12: 
+13: Department of Applied Chemistry, Meiji University, Kawasaki 214-8571, Japan  
+14: Correspondence to K. Nagai (E-mail: nagai@meiji.ac.jp)
+15: 
+16: ABSTRACT: ABA-type triblock copolymers were synthesized using 4,4-(hexafluoroisopropylidene) diphthalic anhydride-2,3,5,6-tetramethyl-1,4-phenylenediamine (6FDA-TeMPD) and poly(methyl methacrylate) (PMMA). The films were characterized by determining the effects of different content ratios and thermal decomposition of PMMA block on  $\mathrm{CO}_{2}$  sorption properties. TGA results showed that a thermal labile block can be completely decomposed under a previously reported thermal condition. SEM results presented that the asperity was micro-phase separation caused by the PMMA block content rate. Numerous pores with sizes of approximately 10 to  $50~\mathrm{nm}$  were detected on Block(28/72) and Block(10/90). The isotherms of all films fitted the dual-mode sorption model, and  $\mathrm{CO}_{2}$  sorption decreased with increased PMMA content rate. Infinite-dilution  $\mathrm{CO}_{2}$  solubility depended on the Langmuir's site of each polymer because  $S_{\mathrm{H0}} / S_0$  of PI and Block(PI/PMMA) varied from 0.84 to  $0.92\mathrm{CO}_{2}$  affinity was increased by thermal treatment as indicated by the higher  $b$  and  $S_0$  values of thermally treated films than those of nontreated films. © 2015 Wiley Periodicals, Inc. J. Appl. Polym. Sci. 2015, 132, 42208.
+17: 
+18: KEYWORDS: copolymers; degradation; films; polyimides; radical polymerization
+19: 
+20: Received 23 January 2015; accepted 16 March 2015
+21: 
+22: DOI: 10.1002/app.42208

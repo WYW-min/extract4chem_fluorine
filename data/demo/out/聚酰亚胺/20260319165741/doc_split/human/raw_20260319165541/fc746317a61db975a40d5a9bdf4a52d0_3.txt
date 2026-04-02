@@ -1,0 +1,115 @@
+source_file: Influence of Heating Rate on the Structure and Mechanical Properties of Aromatic BPDA鈥揚DA Polyimide Fiber.md
+doc_id: fc746317a61db975a40d5a9bdf4a52d0
+chunk_index: 3
+block_id: b0004
+section_number: 3
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 3. Results
+line_span: [71, 171]
+char_span: [12818, 34385]
+line_count: 99
+effective_body_non_empty_lines: 47
+
+lines:
+--- chunk (b0004: 3. Results) ---
+71: # 3. Results
+72: 
+73: # 3.1. Imidization Process as Detected by TGA
+74: 
+75: Figure 2a shows the TGA curves of the PAA fiber treated under different heating rates. Two steps of weight loss can be observed among the samples. The first step can be assigned to the evaporation of the absorbed water in the PAA fiber, while the second step originates from the water produced by the amidization reaction. As the heating rate increases, the TGA curve shifts to a high temperature. An amidization reaction is expected to occur in the high temperature range. The derivatives of the TGA curves are plotted in Figure 2b. The maximum of the DTG curve also shifts to the high temperature, and increases to a large value as the heating rate is increased. This trend implies that the reaction rate of amidization in the PAA fiber increases when the heating rate is increased. Figure 2c shows the plot of the amidization degrees of the PI fibers obtained at 300, 350 and  $400^{\circ}\mathrm{C}$  under different heating rates.
+76: 
+77: Almost all of the samples exhibit imidization degrees of higher than  $95\%$  regardless of their respective end temperatures, even for the fibers obtained at  $300^{\circ}\mathrm{C}$ ; this finding is consistent with that of our previous research [20]. The imidization degree evidently decreases with the increase in heating rate, especially for fibers with end temperatures of  $300^{\circ}\mathrm{C}$ . Under such high heating rates, the fibers do not have enough time to realize full imidization. On the basis of this trend, for fibers treated under different high heating rates, a high-end temperature is needed to ensure complete imidization.
+78: 
+79: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+80: 
+81: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+82: 
+83: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+84: Figure 2. (a) TGA and (b) DTG curves of PAA fibers under different heating rates; (c) imidization degree of PI fibers obtained at  $300^{\circ}\mathrm{C}$ ,  $350^{\circ}\mathrm{C}$  and  $400^{\circ}\mathrm{C}$  under different heating rates.
+85: 
+86: # 3.2. DMA Measurement
+87: 
+88: The PAA fibers are characterized in DMA tensile mode under different heating rates, ranging from  $1^{\circ}\mathrm{C / min}$  to  $20^{\circ}\mathrm{C / min}$ . The curves of the storage modulus  $(\mathrm{E}^{\prime})$ , loss modulus  $(\mathrm{E}^{\prime \prime})$  and tanδ with temperatures are plotted in Figure 3a-c. For instance, for PAA fibers treated at  $1^{\circ}\mathrm{C / min}$ ,  $\mathrm{E}^{\prime}$  decreases slightly from 125 to  $200^{\circ}\mathrm{C}$ , which aligns with imidization reaction. Then, as the temperature exceeds  $200^{\circ}\mathrm{C}$ ,  $\mathrm{E}^{\prime}$  significantly increases at the beginning of crystallization in the fiber. When the temperature is higher than  $275^{\circ}\mathrm{C}$ ,  $\mathrm{E}^{\prime}$  remarkably decreases due to the glass transition of the amorphous phase in the PI fiber. Subsequently, the experimental heating rate is increased from 1 to  $3.5^{\circ}\mathrm{C / min}$ . The  $\mathrm{E}^{\prime}$  curve shifts slightly to the high temperatures, but shows a similar behavior.
+89: 
+90: When the heating rate exceeds  $3.5^{\circ}\mathrm{C / min}$ , the  $\mathrm{E}^{\prime}$  curve rapidly drops to approximately  $240^{\circ}\mathrm{C}$ . This  $\mathrm{E}^{\prime}$  drop expands significantly with the increase in heating rate, and fully offsets the increase in  $\mathrm{E}^{\prime}$  when the heating rate exceeds  $10^{\circ}\mathrm{C / min}$ . The drop in  $\mathrm{E}^{\prime}$  is clearly caused by the  $T_{\mathrm{g}}$  of the fiber, which consists of non-fully imidized PAA-PI chains. This kind of  $T_{\mathrm{g}}$  is somewhat dependent on the experimental heating rate and the imidization degree of the non-fully imidized fiber, as  $T_{\mathrm{g}}$  may increase with the rise in the imidization degree when the flexible PAA chains are converted into rigid PI chains. At low heating rates, the increase in  $T_{\mathrm{g}}$  generally matches the experimental temperature, and no distinguishable  $T_{\mathrm{g}}$  is likely to be detected on the  $\mathrm{E}^{\prime}$  curve. By contrast, at the high heating rate range, the experimental temperature increases rapidly, and is expected to surpass the  $T_{\mathrm{g}}$  of the fibers at low temperatures. As shown in Figure 3a,  $T_{\mathrm{g}}$  emerges at a much lower temperature under high heating rates. On the basis of Figure 2a, we can further conclude that the experimental temperature
+91: 
+92: can surpass the  $T_{\mathrm{g}}$  with a low amidization degree at high heating rates. Moreover, as the experimental temperature exceeds the  $T_{\mathrm{g}}$  of the fiber, the polymer chains can achieve much higher mobility. Under high heating rates, imidization reaction and crystallization are expected to occur simultaneously.
+93: 
+94: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+95: Figure 3. (a) Storage modulus; (b) loss modulus; and (c) tanδ of PAA fibers with temperatures under different heating rates.
+96: 
+97: # 3.3. Density Measurement
+98: 
+99: Figure 4 shows the densities of the fibers treated at 5, 10, 40 and  $80^{\circ}\mathrm{C / min}$ . All of the fibers treated under different heating rates show a similar behavior. At first, the fiber density decreases because of the imidization reaction, which releases water into the fiber. Then, the density starts to increase as the crystals substantially form. Density is dependent on both imidization and crystallization during treatment, and the minimum of the fiber density needs to be observed. As shown in Figure 4a, for fibers treated at 5, 10, 40 and  $80^{\circ}\mathrm{C / min}$ , the temperatures of the density minima are 220, 210, 200 and  $200^{\circ}\mathrm{C}$ , respectively. Compared with Figure 2c, the imidization conversion at the density minima in Figure 4a are  $60\%$ ,  $39\%$ ,  $18\%$  and  $15\%$ , respectively. The crystallization in the fiber can start at low temperatures and imidization conversions under a high heating rate. In other words, when PAA fibers are heated at a high rate, imidization and crystallization may occur simultaneously, which is somewhat consistent with the DMA conclusion. Furthermore, for fibers treated with high heating rates, the fiber density significantly increases after the minimum, and finally reaches a much higher value. This finding indicates that the formation of crystals in the fiber is more vigorous at high heating rates than that of low heating rates. This phenomenon is believed to offer more evidence proving that the mobility of polymer chains is much higher under high heating rates, as discussed previously with the topic on DMA.
+100: 
+101: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+102: Figure 4. (a) Density change in fibers under different heating rates; (b) density of PI fibers obtained at 300, 350 and  $400^{\circ}\mathrm{C}$  under different heating rates.
+103: 
+104: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+105: 
+106: Figure 4b shows the densities of the fibers treated under different heating rates and the varying end temperatures. For the PI fibers obtained at 300, 350 and  $400^{\circ}\mathrm{C}$ , their densities monotonically increase with the heating rate from 1.46 to  $1.47\mathrm{g/cm}^3$ , from 1.46 to  $1.48\mathrm{g/cm}^3$  and from 1.47 to  $1.49\mathrm{g/cm}^3$ , respectively. This finding proves that PI fibers can obtain high crystallinity under high heating rates.
+107: 
+108: # 3.4. Crystallization Evolution and Orientation by XRD Patterns
+109: 
+110: The PI fibers obtained at 300, 350 and  $400^{\circ}\mathrm{C}$  under different heating rates are characterized by XRD along and perpendicular to the fiber axis. Figure 5a,b show the meridian and equatorial diffraction patterns of the PI fibers obtained at  $400^{\circ}\mathrm{C}$  (sampled case). The orthorhombic unit cell [21] is considered; for all fiber samples, the meridian peaks at approximately  $11.2^{\circ}$ ,  $16.9^{\circ}$ ,  $22.8^{\circ}$  and  $28.1^{\circ}$  can be indexed as (004), (006), (008) and (0010), and the equatorial peaks at approximately  $18.2^{\circ}$ ,  $20.9^{\circ}$ , and  $25.3^{\circ}$  can be assigned to (110), (200) and (210). The (00l) and (hk0) diffraction peaks appear at the meridian and equatorial directions, respectively. Such locations imply a preferred orientation for the crystals in the fiber. Figure 6 shows the Hermans' orientation factors for the fibers calculated using the (004) streaks on 2D WAXD profiles. The values of  $f_{c}$  are similar, at approximately 0.82 regardless of the heating rate, indicating similar crystal orientations in the PI fibers.
+111: 
+112: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+113: Figure 5. XRD patterns along the (a) meridian and (b) equatorial directions of fibers obtained at  $400^{\circ}\mathrm{C}$  under different heating rates.
+114: 
+115: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+116: 
+117: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+118: Figure 6. Crystal orientation factors of PI fibers obtained under different heating rates.
+119: 
+120: Figure 7 shows the values of the (004) and (110) peak areas at the meridian and equatorial directions of the fibers obtained at 300, 350 and  $400^{\circ}\mathrm{C}$ . The diffraction intensity increases significantly with the increase in the heating rate, regardless of the end temperature. Considering the similarity in  $f_{c}$  values, we assume that the increase in diffraction intensity is caused only by the formation of crystals in the fiber, further demonstrating the promotion of high heating rates in relation to the crystallinity of the PI fibers. The result is in agreement with the density results mentioned above.
+121: 
+122: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+123: Figure 7. Areas of (a) (004) and (b) (110) diffraction peaks of PI fibers obtained under different heating rates.
+124: 
+125: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+126: 
+127: In addition, as shown in the meridian diffraction patterns (inset in Figure 5a), the (004) peak shifts significantly to a much smaller angle with the increase in the heating rate, indicating an increase in the axial distance for the crystal lattice. Table 1 lists the diffraction angles and full-width-of-half-maximum of the (004) peaks of all of the samples, and the calculated axial d-spacings and crystal sizes based on the Bragg and Scherrer equations. As the heating rate increases from 1 to  $80^{\circ}\mathrm{C / min}$  for the fibers obtained at 300, 350 and  $400^{\circ}\mathrm{C}$ , the calculated axial d-spacings increase significantly from 31.50 to  $31.70\mathring{\mathrm{A}}$ , from 31.50 to  $31.76\mathring{\mathrm{A}}$  and from 31.56 to  $31.87\mathring{\mathrm{A}}$ , respectively. The axial crystal sizes also remarkably increase from 173.08 to  $184.78\mathring{\mathrm{A}}$ , from 165.05 to  $172.58\mathring{\mathrm{A}}$  and from 173.36 to  $181.08\mathring{\mathrm{A}}$ . Obviously, PI fibers obtained under a much higher heating rate exhibit a much larger axial d-spacing and crystal size. This indicates that under a high heating rate, PI chains cannot perfectly arrange themselves onto the lattice. This is because the PI chains may be frozen quickly after the heating treatment, and do not have enough time to move or adjust to the conformation to form a perfect lattice. So, much higher residual stress may be induced in the fiber under a high heating rate, subsequently directly affecting the mechanical properties.
+128: 
+129: Table 1. D-spacing, crystal size and orientation factors calculated using the (004) diffraction for PI fibers obtained at 300, 350 and  ${400}^{ \circ  }\mathrm{C}$  under different heating rates.  
+130: 
+131: <table><tr><td>End Temperature (°C)</td><td>Heating Rate (°C/min)</td><td>2-Theta (Degrees)</td><td>FWHM (Degrees)</td><td>d-spacing (Angstrom)</td><td>Crystal Size (Angstrom)</td></tr><tr><td rowspan="10">400</td><td>1</td><td>11.22</td><td>0.46</td><td>31.56</td><td>173.36</td></tr><tr><td>2</td><td>11.21</td><td>0.45</td><td>31.59</td><td>175.08</td></tr><tr><td>5</td><td>11.18</td><td>0.46</td><td>31.67</td><td>173.14</td></tr><tr><td>10</td><td>11.16</td><td>0.44</td><td>31.73</td><td>181.12</td></tr><tr><td>20</td><td>11.15</td><td>0.44</td><td>31.76</td><td>179.92</td></tr><tr><td>40</td><td>11.14</td><td>0.43</td><td>31.79</td><td>184.91</td></tr><tr><td>80</td><td>11.11</td><td>0.44</td><td>31.87</td><td>181.08</td></tr><tr><td>1</td><td>11.24</td><td>0.49</td><td>31.50</td><td>165.05</td></tr><tr><td>2</td><td>11.22</td><td>0.48</td><td>31.56</td><td>163.55</td></tr><tr><td>5</td><td>11.19</td><td>0.47</td><td>31.64</td><td>167.11</td></tr><tr><td rowspan="7">350</td><td>10</td><td>11.19</td><td>0.47</td><td>31.64</td><td>167.40</td></tr><tr><td>20</td><td>11.17</td><td>0.45</td><td>31.70</td><td>175.97</td></tr><tr><td>40</td><td>11.16</td><td>0.45</td><td>31.73</td><td>174.83</td></tr><tr><td>80</td><td>11.15</td><td>0.46</td><td>31.76</td><td>172.58</td></tr><tr><td>1</td><td>11.24</td><td>0.46</td><td>31.50</td><td>173.08</td></tr><tr><td>2</td><td>11.23</td><td>0.45</td><td>31.53</td><td>176.27</td></tr><tr><td>5</td><td>11.22</td><td>0.44</td><td>31.56</td><td>181.86</td></tr><tr><td rowspan="4">300</td><td>10</td><td>11.20</td><td>0.43</td><td>31.62</td><td>182.40</td></tr><tr><td>20</td><td>11.19</td><td>0.43</td><td>31.64</td><td>184.04</td></tr><tr><td>40</td><td>11.18</td><td>0.49</td><td>31.67</td><td>184.08</td></tr><tr><td>80</td><td>11.17</td><td>0.43</td><td>31.70</td><td>184.78</td></tr></table>
+132: 
+133: # 3.5. Mechanical Properties
+134: 
+135: The mechanical properties of the PI fibers obtained under different heating rates are measured. For each heating rate, the test sample of a PI fiber is taken under the different temperatures of 300, 350 and  $400^{\circ}\mathrm{C}$ . The tensile strength, tensile modulus and elongation at each break of each sample are plotted in Figure 8.
+136: 
+137: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+138: Figure 8. Tensile strength (a), Tensile modulus (b), and Elongation at break (c) of PI fibers obtained under different heating rates.
+139: 
+140: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+141: 
+142: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+143: 
+144: As reported in our previous research [20], the tensile strength of PI fibers can be improved significantly with the increase in crystallinity. As for the PI fibers obtained under different heating rates, the above-mentioned density and XRD results demonstrate that the crystallinity of fibers can be increased by significantly raising the heating rate. However, the tensile strength shown in Figure 8a slightly declines with the increase in the heating rate. The tensile strengths of the PI fibers obtained at 300, 350 and  $400^{\circ}\mathrm{C}$  decrease from 0.67, 0.94 and  $1.12\mathrm{GPa}$  at  $1^{\circ}\mathrm{C / min}$  to 0.57, 0.70 and  $0.96\mathrm{GPa}$  at  $80^{\circ}\mathrm{C / min}$ . We assume that this result is related to residual stress, which rises with the increase in the heating rate. Although crystallinity can be promoted with high heating rates, a much higher residual stress is also produced, causing the fiber to be fractured much more easily during measurement. In
+145: 
+146: addition, tensile strength can also be significantly promoted by treatment temperature. As a sample case, the PI fibers are treated at  $1^{\circ}\mathrm{C / min}$ , with the tensile strength shifting from 0.67 to  $1.12\mathrm{GPa}$ , and the treatment temperature increasing from 300 to  $400^{\circ}\mathrm{C}$ . As emphasized in our previous study [20], high treatment temperatures may effectively eliminate the non-imide units of polymer chains. Obviously, a few defects in fibers under high treatment temperatures is advantageous in ensuring the good tensile strength of these fibers.
+147: 
+148: Figure 8b presents the tensile moduli of the obtained PI fibers. For the PI fibers obtained at 300, 350 and  $400^{\circ}\mathrm{C}$ , as the heating rate increases from 1 to  $80^{\circ}\mathrm{C / min}$ , the tensile moduli remarkably grow from approximately 45 to  $60\mathrm{GPa}$ . General knowledge dictates that raising the crystallinity will affect the tensile modulus, given the enhanced stiffness of a fiber. Our finding proves that the crystallinity of the PI fiber can be promoted by both the heating rate and treatment temperature. The tensile modulus is significantly dependent on heating rate, but seems non-significantly dependent on the treatment temperature. This finding indicates that the behavior of the tensile modulus cannot be determined by simply referring to the crystallinity. We assume that as the PAA fibers are treated under high heating rates (attributable to PI chains possessing high mobility, except for those with high crystallinity), the PI chains can also arrange themselves to form a more continuous crystal region. In other words, the tensile modulus depends on the size of the crystal region and not on crystallinity. Similar to the findings in our previous research [20], when the PAA fibers are isothermally treated in a muffle furnace at temperatures of 300, 350 and  $400^{\circ}\mathrm{C}$ , the tensile moduli of the obtained PI fibers are independent of the treatment temperature, as proven by their similar values. This present work provides a further explanation of the previous study's result, i.e., although the treatment temperatures differ, the PAA fibers experience a similar heating rate in a muffle furnace. The sizes of the crystal regions in the PI fiber are identical, and thus the PI fibers exhibit similar tensile moduli.
+149: 
+150: Figure 8c shows the elongation at the break of the PI fibers. For all samples obtained at 300, 350 and  $400^{\circ}\mathrm{C}$ , the elongation at the break decreases significantly at the heating rates of  $2.1\%$ ,  $3.2\%$  and  $3.9\%$  to  $1.5\%$ ,  $1.9\%$  and  $2.2\%$ . As a common behavior of the fibers, the elongation at the break will decrease with the increase in tensile modulus, as an increase in the stiffness of the fiber may restrict its ability to elongate. Moreover, the elongation at the break increases significantly with the rise in treatment temperature. The same reason has been given for tensile strength, with the high treatment temperature possibly eliminating the defects of a fiber.
+151: 
+152: # 3.6. Isothermal Annealing after Treatment
+153: 
+154: Although increasing the heating rate can effectively promote the crystallinity of PI fibers and remarkably enhance their respective tensile moduli, the tensile strength does not increase, and instead slightly decreases due to the high residual stress under high heating rates. A thermal annealing process is necessary to reduce the residual stress. Here, the PI fiber obtained at  $80^{\circ}\mathrm{C} / \mathrm{min} - 400^{\circ}\mathrm{C}$  is annealed at  $400^{\circ}\mathrm{C}$  under different times. The annealed fiber is characterized by XRD and tensile testing for further study.
+155: 
+156: Table 2 lists the diffraction angles, full-width-at-half-maximum values, axial d-spacings and crystal sizes of the annealed PI fibers. As annealing time increases from 0 to  $25\mathrm{~s}$ , the axial d-spacing and crystal size both remarkably decrease from 31.87 and  $181.08\AA$  to 31.73 and  $154.80\AA$ . This result proves that when the PI fiber is annealed, the crystal lattice becomes highly compact, indicating that the residual stress in the fiber has been greatly reduced. Moreover, it should be noticed that the above process is only carried out in less than  $25\mathrm{~s}$ , which is a rather short time.
+157: 
+158: Table 2. D-spacing and crystal size calculated using the (004) diffraction for PI fibers annealed at  ${400}^{ \circ  }\mathrm{C}$  under different times.  
+159: 
+160: <table><tr><td>Annealing Time (s)</td><td>2-Theta (Degrees)</td><td>FWHM (Degrees)</td><td>d-spacing (Angstrom)</td><td>Crystal Size (Angstrom)</td></tr><tr><td>0</td><td>11.11</td><td>0.44</td><td>31.87</td><td>181.08</td></tr><tr><td>5</td><td>11.12</td><td>0.44</td><td>31.84</td><td>179.42</td></tr><tr><td>10</td><td>11.14</td><td>0.47</td><td>31.79</td><td>167.97</td></tr><tr><td>25</td><td>11.16</td><td>0.51</td><td>31.73</td><td>154.80</td></tr><tr><td>60</td><td>11.16</td><td>0.52</td><td>31.73</td><td>151.82</td></tr><tr><td>120</td><td>11.16</td><td>0.51</td><td>31.73</td><td>154.80</td></tr><tr><td>300</td><td>11.16</td><td>0.52</td><td>31.73</td><td>151.82</td></tr></table>
+161: 
+162: The mechanical properties of the annealed PI fibers are plotted in Figure 9. From 0 to  $25\mathrm{s}$ , the tensile strength and elongation at the break simultaneously increase, the tensile strength increases from 0.96 to  $1.24\mathrm{GPa}$ , and the elongation at the break slightly increases from  $2.2\%$  to  $2.6\%$ . This result proves that annealing can reduce residual stress and improve both tensile strength and elongation at the break. As for the tensile modulus, this study finds it somewhat insensible for the annealing process to remain at the constant value of approximately  $62\mathrm{GPa}$ , regardless of the annealing time.
+163: 
+164: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+165: Figure 9. Tensile strength (a), Tensile modulus (b), and Elongation at break (c) of PI fibers annealed at  $400^{\circ}\mathrm{C}$  under different times.
+166: 
+167: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+168: 
+169: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)

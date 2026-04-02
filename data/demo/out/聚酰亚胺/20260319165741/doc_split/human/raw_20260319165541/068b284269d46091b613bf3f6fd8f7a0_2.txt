@@ -1,0 +1,57 @@
+source_file: 3D Printing of Thermal Insulating PolyimideCellulose Nanocrystal Composite Aerogels with Low Dimensional Shrin.md
+doc_id: 068b284269d46091b613bf3f6fd8f7a0
+chunk_index: 2
+block_id: b0003
+section_number: 2
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 2. Materials and Methods
+line_span: [74, 116]
+char_span: [9244, 15941]
+line_count: 41
+effective_body_non_empty_lines: 14
+
+lines:
+--- chunk (b0003: 2. Materials and Methods) ---
+74: # 2. Materials and Methods
+75: 
+76: # 2.1.Materials
+77: 
+78: 4,4-Oxydianiline (ODA,  $98\%$ ) and triethylamine (TEA,  $99\%$ ) were purchased from Acros Organics, Geel, Belgium. Pyromellitic dianhydride (PMDA,  $>98\%$ ) was obtained from Tokyo Chemical Industry, Tokyo, Japan. Cellulose nanocrystals (CNCs) were obtained from CelluForce Inc., Montreal, QC, Canada. The diameter and length of CNCs were 2.3 to  $4.5 \mathrm{~nm}$  and 44 to  $108 \mathrm{~nm}$ , respectively. N, N-Dimethylformamide (DMF, ACS grade) was offered by Avantor, Radnor, PA, USA, and was treated with molecular sieves for more than two days before synthesis. All other reagents were used as received.
+79: 
+80: # 2.2. Synthetic Procedures of PMDA-ODA Polyamic Acid
+81: 
+82: First,  $4.806\mathrm{g}$  (24 mmol) ODA was added to a three-neck flask and mixed with  $100~\mathrm{mL}$  DMF under room temperature and a nitrogen atmosphere. A total of  $5.235\mathrm{g}$  (24 mmol) PMDA was gradually added to form a polyamic acid precursor solution with a light yellow color. The solution was then stirred for another four hours to ensure the completeness of the reaction. Next, the viscous polyamic acid solution was diluted with another  $100~\mathrm{mL}$  DMF, and slowly poured into  $600~\mathrm{mL}$  deionized water under vigorous stirring for precipitation. The yellow polyamic acid was dried in a vacuum oven at  $50^{\circ}\mathrm{C}$  for more than two days before use. The detailed experimental procedure is summarized in Figure S1.
+83: 
+84: # 2.3. Preparation of PAAS/CNC Inks
+85: 
+86: First,  $0.750\mathrm{g}$  polyamic acid,  $0.363\mathrm{g}$  TEA, and  $4.444\mathrm{g}$  deionized water were mixed in a glass vial. The solution was sonicated until all materials had dissolved to form the PAAS solution. Next,  $700\mathrm{mg}$  of CNCs was dispersed in  $4.444\mathrm{g}$  deionized water by a planetary mixer (MV-300S, CGT, Taiwan) at  $1500\mathrm{rpm}$  for  $10\mathrm{min}$  to form a uniform CNC hydrogel. Seven Teflon balls were added in the container to deagglomerate the CNC powder better. Finally, the aqueous PAAS solution was mixed with the CNC hydrogel by the planetary mixer at  $1500\mathrm{rpm}$  for  $30\mathrm{min}$ . The final concentration of polyamic acid and CNCs was  $7.0\mathrm{wt\%}$  and  $6.5\mathrm{wt\%}$ , respectively. For comparison, the amount of CNC was adjusted to make inks with  $5.6\mathrm{wt\%}$ ,  $6.5\mathrm{wt\%}$ , and  $7.4\mathrm{wt\%}$  CNCs. Pure PI aerogels were prepared using a  $7.5\mathrm{wt\%}$  polyamic acid solution. Pure CNC aerogels were prepared from the inks containing only  $6.5\mathrm{wt\%}$  CNCs.
+87: 
+88: # 2.4. Rheological Test
+89: 
+90: The rheological behavior of inks was investigated by a rheometer (HR-2, TA instruments, New Castle, DE, USA) with parallel plates (diameter:  $25\mathrm{mm}$ ). The gap between the two parallel plates was set at  $1000~{\mu\mathrm{m}}$ . A steady-state shear flow test was used to measure the viscosity of the inks under different shear rates. The shear storage modulus  $(G^{\prime})$  and shear loss modulus  $(G^{\prime \prime})$  were measured by an oscillatory stress sweep method at a frequency of  $1\mathrm{Hz}$ . All rheological tests were performed at room temperature.
+91: 
+92: # 2.5. 3D Printing of PAAS/CNC Composite Ink
+93: 
+94: The as-prepared PAAS/CNC ink was transferred into a  $10~\mathrm{mL}$  disposable syringe. The bubbles within the ink were removed by the planetary mixer. A FDM printer (INFINITY X1Speed, INFINITY3DP, Kaohsiung, Taiwan) was modified for the DIW process by replacing the extruder with a 3D printed adapter. The syringe was then mounted on a syringe pump (NE-1010, New Era Instrument, Farmingdale, NY, USA) and connected to a  $0.4\mathrm{mm}$  conical type plastic nozzle (TPND-22G-U, Musashi Engineering, Tokyo, Japan). The printer was controlled by Repetier software, and the G-codes were generated from the Slic3r toolpath generator. Typically, the printing speed was set at  $20~\mathrm{mm / s}$ , and the extrusion rate was  $0.155~\mathrm{mL / min}$ .
+95: 
+96: # 2.6. Preparation of PI, CNC, and PI/CNC Composite Aerogels
+97: 
+98: The printed objects were frozen in a  $-20^{\circ}\mathrm{C}$  refrigerator overnight. The frozen samples were rapidly transferred to a freeze dryer and dried for more than two days. The dried samples further underwent a sequential temperature increase from 80, 120, 180, 240, to  $300^{\circ}\mathrm{C}$  under vacuum to form the PI/CNC composite aerogels. Each temperature was held for one hour, and the ramping rate was  $1^{\circ}\mathrm{C / min}$  in all cases.
+99: 
+100: # 2.7. Characterization
+101: 
+102: The compression strength was measured using a universal electromechanical testing machine (AGS-X 100kN, Shimadzu, Kyoto, Japan) equipped with a  $10\mathrm{kN}$  load cell. All tests were performed following the ASTM-D695 standard.
+103: 
+104: The shrinkage ratio was calculated based on the following equation:
+105: 
+106: $$
+107: \text{Shrinkage} (\%) = 100 \% \times \frac {V _ {\mathrm {CAD}} - V _ {\mathrm {s}}}{V _ {\mathrm {CAD}}}
+108: $$
+109: 
+110: where  $V_{\mathrm{CAD}}$  represents the volume of the cylindrical CAD models and  $V_{s}$  is the apparent volume of the aerogels. Bulk density was calculated by the weight and volume of each sample after imidization.
+111: 
+112: Fourier transform infrared spectroscopy (FTIR) was performed using a Nicolet 6700 Fourier transform infrared spectrometer (Thermo Scientific, Waltham, MA, USA). The scanning region was set from 650 to  $4000~\mathrm{cm}^{-1}$ . Resolution and scanning times were set at  $2\mathrm{cm}^{-1}$  and 32 scans. Solid-state  $^{13}\mathrm{C}$  NMR spectra were recorded using a Bruker Avance III HD 400 MHz NMR spectrometer. Thermogravimetric analysis (TGA) was conducted on a TGA 4000 (PerkinElmer, Waltham, MA, USA) from  $30^{\circ}\mathrm{C}$  to  $700^{\circ}\mathrm{C}$  under a nitrogen atmosphere at a heating rate of  $10^{\circ}\mathrm{C / min}$ . The microstructures of the aerogels were observed using a high-resolution field emission scanning electron microscope (SU-8010, Hitachi, Tokyo, Japan). The accelerating voltage was  $10\mathrm{kV}$ .
+113: 
+114: Thermal conductivity  $(\lambda)$  was measured by Hotdisk TPS 2500S (Hot Disk AB, Gothenburg, Sweden) with a 5465 f1 type Kapton® sensor and standard isotropic method under room temperature. The probing depth, heating power, and measuring time were set at  $5\mathrm{mm}$ ,  $10\mathrm{mW}$ , and  $10\mathrm{s}$ , respectively. Thermal images were taken by a FLIR C2 thermal imaging camera (FLIR, Wilsonville, OR, USA). The working distance was around  $30\mathrm{cm}$ . Samples were placed on a  $160^{\circ}\mathrm{C}$  hotplate. A series of thermal images were taken before and after  $10\mathrm{min}$  of heating treatment.

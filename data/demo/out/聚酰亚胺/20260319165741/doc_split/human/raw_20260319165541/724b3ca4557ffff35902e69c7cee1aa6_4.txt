@@ -1,0 +1,29 @@
+source_file: Melt-Processable Semicrystalline Polyimides Based on 1,4-Bis(3,4-dicarboxyphenoxy)benzene Dianhydride (HQDPA) .md
+doc_id: 724b3ca4557ffff35902e69c7cee1aa6
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [249, 263]
+char_span: [42723, 45344]
+line_count: 13
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+249: # 4. Conclusions
+250: 
+251: The synthesis and characterization of a series of semicrystalline polyimides based on 1,4-bis(3,4-dicarboxyphenoxy) benzene dianhydride have been reported. All polyimides exhibited
+252: 
+253: excellent thermal stability and mechanical properties. In particular, PI-1 and PI-2 displayed significant recrystallization ability and fast crystallization kinetics from the melt. The PI-1 exhibited  $T_{\mathrm{g}}$  of  $190^{\circ}\mathrm{C}$  and double  $T_{\mathrm{m}}$  at  $331^{\circ}\mathrm{C}$  and  $350^{\circ}\mathrm{C}$ , while the PI-2 displayed  $T_{\mathrm{g}}$  and  $T_{\mathrm{m}}$  at  $214^{\circ}\mathrm{C}$ , and  $388^{\circ}\mathrm{C}$ , respectively.  $T_{\mathrm{m}}^{\circ}\mathrm{s}$  were found to be  $356^{\circ}\mathrm{C}$  and  $390^{\circ}\mathrm{C}$  for PI-1 and PI-2 by the Hoffman-Weeks equation, respectively. The value of  $K^{1/\mathrm{n}}$  of PI-1 and PI-2 obtained from Avrami analysis are higher than that of PEEK and New-TPI, indicating the high crystallization rate from melt. Furthermore, PI-1 and PI-2 also exhibited excellent melt-processability and mechanical performance under high temperature, which made them attractive candidates for high-performance melt-processable engineering plastics.
+254: 
+255: Supplementary Materials: The following are available online at www.mdpi.com/2073-4360/9/9/420/s1. Figure S1: FTIR spectra of polyimides. Figure S2: DSC curves of PI-1 after different isothermal treatment. Figure S3: WAXD patterns of PI-1 after different isothermal treatment. Figure S4: Hoffman-Weeks plot for PI-1 and PI-2. Figure S5: Normalized crystalline content as a function of time at various crystallization temperatures. (a) PI-1, (b) PI-2. Figure S6: Avrami plot of log  $[- \ln (1 - X_{\mathrm{c}}(t))]$  versus log  $t$  at various crystallization temperatures. (a) PI-1, (b) PI-2.
+256: 
+257: Acknowledgments: This work was financially supported by the National Natural Science Foundation of China (Grant No. 51703231 and 51403225), Zhejiang Province Preferential Postdoctoral Funded Project (Grant No. BSH1502164) and the program for Ningbo Municipal Science and Technology Innovative Research Team (Grant No. 2015B11002 and 2016B10005).
+258: 
+259: Author Contributions: Hongfei Zhang and Wei Wang conceived and designed the experiments; Hongfei Zhang performed the experiments; Hongfei Zhang and Wei Wang analyzed the data; Guofei Chen, Anjiang Zhang, and Xingzhong Fang contributed reagents/materials/analysis tools; Hongfei Zhang, Wei Wang, Guofei Chen, Anjiang Zhang, and Xingzhong Fang wrote the paper.
+260: 
+261: Conflicts of Interest: The authors declare no conflict of interest.

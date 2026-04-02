@@ -1,0 +1,215 @@
+source_file: Molecular Weight and Gas Separation Performance of Polyimide Membrane Insight into Role of Imidization Route.md
+doc_id: fb1dd6074f79c59df9404d02d6e02586
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: ABSTRACT
+line_span: [18, 218]
+char_span: [1019, 32919]
+line_count: 199
+effective_body_non_empty_lines: 109
+
+lines:
+--- chunk (b0002: ABSTRACT) ---
+18: # ABSTRACT
+19: 
+20: Various methods have been explored to improve the gas separation performance of polyimide membrane for more viable industrial commercialization. Generally, polyimide membrane can be synthesized via two different methods: chemical imidization and thermal imidization routes. Due to the markedly different membrane synthesis conditions, the influence of imidization methods on the gas transport properties of resulting membrane is worthy of investigation. The polyimide produced from two imidization methods was characterized for its molecular weight. In overall, the molecular weight of thermally imidized polyimide was higher than that of chemically imidized one except ODPA-6FpDA:DABA as it was prone to depropagation at high temperature. It was observed that the chemically imidized ODPA-6FpDA:DABA membrane possessed better gas separation performance than the thermally imidized counterpart. In particular, it showed 12 times higher  $\mathrm{CO}_{2}$  permeability (19.21 Barrer) with  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  selectivity of 5. After crosslinking, the  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  selectivity of the polyimide membrane was further improved to 11.8 at 6 bar of permeation pressure.
+21: 
+22: Keywords: Chemical imidization, thermal imidization,  $\mathrm{CO_2 / N_2}$  separation, polyimide membrane, molecular weight
+23: 
+24: # 1.0 INTRODUCTION
+25: 
+26: Vigorous industrial development in recent years has released a remarkable amount of carbon dioxide  $\mathrm{(CO_2)}$  into the atmosphere, in which the  $\mathrm{CO}_{2}$  concentration has climbed up to beyond  $400~\mathrm{ppm}$  as of today [1]. The tense scenario of greenhouse effect and global warming have urged the strong need of an efficient  $\mathrm{CO}_{2}$  separation technology. In this context, polyimide membrane has grasped significant attention from researchers due to its unique properties such as flexibility in
+27: 
+28: molecular design, superior transport properties and excellent mechanical strength [2, 3]. Nevertheless, continuous improvement of the polyimide membrane gas separation performance is still ongoing in order to commercialize it in industrial scale applications.
+29: 
+30: Generally, there are a few different synthesis protocols that can be employed in the synthesis of polyimide membrane. The two most common ways are chemical imidization and thermalimidization approach. In chemicalimidization approach,
+31: 
+32: polyamic acid (PAA) precursor is imidized by the addition of chemicals such as triethylamine and acetic anhydride to transform PAA to polyimide polymer. Thereafter, polyimide membrane can be synthesized via solution casting. In this simple technique, a casting dope solution is prepared by dissolving the chemically imidized polyimide in solvents such as tetrahydrofuran (THF) 1-methyl-2-pyrrolidinone (NMP) and dichloromethane [4-7]. It was reported that a slow solvent evaporation rate was necessary to produce a defect-free dense membrane. Specifically, membrane casting is carried out in a glove bag with controlled environment. The glove bag is usually saturated with THF solvent to slow down the evaporation rate of THF from the casted membrane [4]. In addition, the evaporation rate of solvent can also be lowered by covering the casted membrane with aluminium foil or glass dish [7, 8]
+33: 
+34: On the other hand, the production of polyimide polymer is not required for thermal imidization route. Instead, the PAA precursor can be casted directly into a thin layer and thermally treated at high temperature to convert the PAA to polyimide [9]. Different heating protocols have been adopted by the researchers to complete the thermal imidization of PAA precursor as summarized in Table 1. Indeed, this approach requires a controlled heating protocol as a too rapid heating will cause the formation of bubbles in the casted PAA layer [10]. This will subsequently lead to the formation of a defective PI membrane.
+35: 
+36: As the two imidization methods employ totally different conditions in the membrane synthesis, the physical and gas transport properties of the membrane formed are expected to vary
+37: 
+38: as well. In particular, Han et al. has reported the significant impact of imidization route on the gas transport properties of thermally rearranged (TR) polymers obtained from polyimide precursors [11]. The work has pointed out that the TR polymers synthesized from chemical imidization method possessed higher  $\mathrm{CO}_{2}$  permeability than the membrane produced from thermal imidization without compromising the  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  and  $\mathrm{CO}_{2} / \mathrm{CH}_{4}$  selectivity. Meanwhile, imidization method is also found to be critical in governing the polymer packing as it affects the polymer interchain interaction. Generally, chemically imidized polyimide membrane demonstrates lower density and thus higher fractional free volume (FFV) than the thermally imidized counterpart. This eventually leads to higher gas permeability [6]. Up to authors' best knowledge, there are only a few works studying on this aspect. Therefore, this study aims to comprehend the role of membrane synthesis route, either chemical imidization or thermal imidization, on the gas separation performance of polyimide membrane in terms of  $\mathrm{CO}_{2}$  permeability and  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  selectivity. Since polymer molecular weight is important in governing the film forming ability, the molecular weight of the polyimide produced from both methods was highlighted. Gel permeation chromatography (GPC) is a common technique used in analysing the molecular weight of polymer. However, the sample concentration plays an important role in determining the result accuracy. In view of this, this work also studied on the optimum sample concentration of PAA, chemically imidized polyimide and thermally imidized polyimide in GPC analysis.
+39: 
+40: Table 1 Heating protocol for the thermal imidization of PAA from literature  
+41: 
+42: <table><tr><td>Reference</td><td>Monomer combination</td><td>Heating protocol</td></tr><tr><td rowspan="3">[12]</td><td>PMDAa-p-PDAb</td><td>80 °C overnight, 150 °C/30 min,</td></tr><tr><td>BPDAc-p-PDA</td><td>200 °C/30 min, 250 °C/30 min,</td></tr><tr><td></td><td>300 °C/1 h</td></tr><tr><td rowspan="7">[13]</td><td>BATBd-6FDAe</td><td>110 °C/20 min, 150 °C/20 min,</td></tr><tr><td>BATB-BPDA</td><td>180 °C/20 min, 210 °C/20 min,</td></tr><tr><td>BATB-BTDAf</td><td>250 °C/20 min, 300 °C/20 min</td></tr><tr><td>BATB-DSDAg</td><td></td></tr><tr><td>TMBPSh-6FDA</td><td></td></tr><tr><td>TMBPS-ODPa i</td><td></td></tr><tr><td>TMBPS-BTDA</td><td></td></tr><tr><td rowspan="2">[14]</td><td>PMDA-ODAj</td><td>60 °C/2 h, 120 °C/1 h, 150 °C/1h,</td></tr><tr><td></td><td>350 °C/4 h</td></tr><tr><td rowspan="2">[15]</td><td>6FDA-MDAk:DABA l</td><td>75 °C/18 h, 200 °C/4 h</td></tr><tr><td>BTDA-MDA:DABA</td><td></td></tr><tr><td rowspan="3">[16]</td><td>PMDA-ODA</td><td>100 °C/30 min, 200 °C/30 min,</td></tr><tr><td></td><td>300 °C/30 min, 350 °C/30 min,</td></tr><tr><td></td><td>370 °C/30 min</td></tr><tr><td rowspan="6">[17]</td><td>BTDA-P1m</td><td>60 °C/1.5 h, 100 °C/1 h, 200°C/1 h,</td></tr><tr><td>BTDA-O1n</td><td>300 °C/1 h</td></tr><tr><td>BTDA-M1o</td><td></td></tr><tr><td>ODPA-P1</td><td></td></tr><tr><td>ODPA-O1</td><td></td></tr><tr><td>BTDA-M1</td><td></td></tr></table>
+43: 
+44: <sup>a</sup> pyromellitic dianhydride  
+45: b p-phenylenediamine  
+46: $3,3^{\prime},4,4^{\prime}$  -biphenyltetracarboxylic dianhydride  
+47: d 1,4-bis(4-aminophenoxy)2-tert-butylbenzene  
+48: $^{\mathrm{e}}$  4,4'-(hexafluoroisopropylidene)diphthalic anhydride  
+49: f benzophenone-3,3',4,4'-tetracarboxylic dianhydride  
+50: g 4,4'-sulfonyldiphthalic anhydride  
+51: $^{\mathrm{h}}3,3^{\prime},5,5^{\prime}$  -tetramethyl-bis[4-(4-aminophenoxy)phenyl]sulfone  
+52: 1  $4,4^{\prime}$  -oxydiphthalic anhydride  
+53: 4,4'-oxydianiline  
+54: $^{k}$  4,4'-diaminodiphenylmethane  
+55: 1 3,5-diaminobenzoic acid  
+56: m1,4-bis(4-aminophenoxy)benzene  
+57: $^{1}$ n1,2-bis(4-aminophenoxy)benzene  
+58: $^{\circ}1,3$ -bis(4-aminophenoxy)benzene
+59: 
+60: # 2.0 MATERIALS AND METHODS
+61: 
+62: # 2.1 Materials
+63: 
+64: All monomers for polyimide synthesis, including 4,4'- (hexafluoroisopropylidene)diphthalic anhydride (6FDA), benzophenone-3,3',4,4'-tetracarboxylic dianhydride (BTDA), 4,4'-oxydiphthalic anhydride (ODPA), 4,4'- (hexafluoroisopropylidene)dianiline
+65: 
+66: (6FpDA), 3,5-diaminobenzoic acid (DABA) and 2,4,6-trimethyl-m-phenylenediamine (DAM), were purchased from Sigma-Aldrich (USA). Solvents such as acetic anhydride (Acros Organics, Belgium), triethylamine (Sigma-Aldrich, USA), 1-methyl-2-pyrrolidinone (NMP, Sigma-Aldrich, USA), methanol (Merck, USA) and tetrahydrofuran (THF, Fisher Scientific, UK) were used as received. The gases used in permeation test  $\mathrm{CO}_{2}$  and  $\mathrm{N}_2$
+67: 
+68: were supplied by Wellgas, Malaysia.
+69: 
+70: # 2.2 Synthesis of PAA
+71: 
+72: PAA is the intermediate formed during polyimide synthesis. Stoichiometric amount of dianhydride and diamine monomers were used in the synthesis of PAA, as demonstrated in the previous works [18, 19]. Owing to the water-sensitive nature of reaction, all the apparatus and monomers were dried overnight at  $40^{\circ}\mathrm{C}$  before use. In addition, the reaction flask and setup
+73: 
+74: were purged with purified nitrogen thoroughly to remove any trapped moisture. In this study, a diamine ratio of 3:2 was used, as summarized in Table 2. Diamines (6FpDA, DAM or DABA) were first dissolved in NMP followed by dianhydride (6FDA or ODPA). The mixture was stirred for  $24\mathrm{h}$  under inert atmosphere at room temperature to obtain PAA solution. The PAA solution yielded can then be imidized to produce polyimide. The polyimide structure is denoted as dianydride-diamine 1:diamine 2 thereafter.
+75: 
+76: Table 2 Polyimide structure investigated in this study  
+77: 
+78: <table><tr><td>Polyimide</td><td>Dianhydride</td><td>Diamine 1</td><td>Diamine 2</td></tr><tr><td>1</td><td>6FDA</td><td>DAM</td><td>DABA</td></tr><tr><td>2</td><td>BTDA</td><td>DAM</td><td>DABA</td></tr><tr><td>3</td><td>6FDA</td><td>6FpDA</td><td>DABA</td></tr><tr><td>4</td><td>ODPA</td><td>6FpDA</td><td>DABA</td></tr></table>
+79: 
+80: * The molar ratio of dianhydride, diamine 1 and diamine 2 is 5:3:2 respectively.
+81: 
+82: # 2.3 Membrane Synthesis
+83: 
+84: Two different synthesis routes were employed for membrane fabrication: chemical imidization and thermal imidization. For chemical imidization method, the PAA solution was transformed to polyimide solution first. This was done by the addition of triethylamine and acetic anhydride to promote cyclodehydration [18, 19]. The solution was stirred for another 24 h to obtain polyimide solution. Polyimide powder was then recovered by precipitation method, where the polyimide solution obtained was poured into a methanol bath to form polyimide precipitates. The polyimide precipitates were washed several times using methanol to remove unreacted monomers, air-dried for  $16\mathrm{h}$  and vacuum-dried at  $200^{\circ}\mathrm{C}$  for  $24\mathrm{h}$ . The dried polyimide powder was now ready for membrane synthesis.  $10\mathrm{wt.\%}$  dope solution was prepared by dissolving the polyimide powder in THF. A predetermined amount of dope solution, which corresponded to a membrane thickness of  $1300~\mu \mathrm{m}$ , was poured into a glass petri dish. The glass petri dish was covered by aluminium foil to
+85: 
+86: promote slow phase inversion inside a glovebox. After membrane solidification, the membrane was transferred to a vacuum oven for heating at  $180~^\circ \mathrm{C}$  for  $24\mathrm{h}$ . Decarboxylation induced crosslinking was then performed using a three-step thermal treatment in a dual zone split tube furnace (model OTF-1200X-80-II, MTI, Richmond). The membrane was heated from room temperature to  $330^{\circ}\mathrm{C}$  at a ramping rate of  $5^{\circ}\mathrm{C / min}$ , followed by a ramping rate of  $1^{\circ}\mathrm{C / min}$  to  $370^{\circ}\mathrm{C}$ . The thermal treatment was maintained at  $370^{\circ}\mathrm{C}$  for  $1\mathrm{h}$  before natural cooling to room temperature.
+87: 
+88: Meanwhile, the conversion of PAA solution to polyimide powder was not required in thermal imidization approach. Instead, the PAA solution produced was used for membrane casting directly. Before casting, the PAA solution was diluted to 10 wt.% A specific amount of PAA solution was poured into a glass petri dish to obtain a  $1300\mu \mathrm{m}$  membrane. The casted PAA layer was then imidized thermally by heating it at  $60^{\circ}\mathrm{C}$ ,  $150^{\circ}\mathrm{C}$  and  $200^{\circ}\mathrm{C}$  for  $1\textrm{h}$  each. Afterward, the membrane produced was treated in the furnace by following the same heating protocol as in chemical imidization,
+89: 
+90: except the temperature was maintained at  $300^{\circ}\mathrm{C}$  for  $30\mathrm{min}$  before further heating to  $330^{\circ}\mathrm{C}$ .
+91: 
+92: # 2.4 Characterizations
+93: 
+94: Gel permeation chromatography (GPC, Agilent Technology 1260 Infinity, Santa Clara) was used to evaluate the average molecular weight  $(\mathrm{M_w})$  of different polyimide structures. The sample (PAA or polyimide) was dissolved in NMP solvent at different concentrations of 0.01, 0.05, 0.1, 0.2 and  $0.3\mathrm{wt}.\%$  to determine the optimum sample concentration for GPC analysis. THF, which was the mobile phase, was controlled at  $1\mathrm{mL / min}$  throughout the chromatographic analysis. The molecular weight of the sample was determined based on the concentration of sample in the eluent at different retention time.
+95: 
+96: Single gas permeation test was performed at  $25^{\circ}\mathrm{C}$  to determine the gas separation performance of polyimide membrane. The setup of permeation rig with an effective membrane area of  $7.07~\mathrm{cm}^2$  is depicted in Figure 1. Prior to permeation test, the setup was purged with purified nitrogen to remove trapped moisture from the system. The permeation test began with  $\mathbf{N}_2$  followed by  $\mathrm{CO}_{2}$  to avoid any possible plasticization
+97: 
+98: caused by the highly condensable  $\mathrm{CO}_{2}$ . Under steady state condition, the permeate flow rate was measured using a bubble flow meter and the value was used to calculate the gas permeability (P) using the following equation:
+99: 
+100: $$
+101: \mathrm {P} = \frac {\dot {\mathrm {V p l}}}{\mathrm {T A} \Delta \mathrm {p}} \times 2 6 9 5. 9 3
+102: $$
+103: 
+104: where  $\mathrm{P}$  is the pure gas permeability  $(\mathrm{cm}^3$  (STP)  $\cdot \mathrm{cm / (cm^2\cdot s\cdot cmHg)}$  A is the effective membrane area  $(\mathrm{cm}^2)$ $\dot{\mathbf{V}}$  is the permeate flow rate  $(\mathrm{cm}^3 /\mathrm{s})$  T is the operating temperature K),  $l$  is the membrane thickness  $(\mu \mathrm{m})$  p is the downstream pressure Pa),  $\Delta p$  is the differential pressure  $(\mathrm{cmHg})$  . Generally, P is expressed in Barrer where 1 Barrer  $= 1\times 10^{-10}\mathrm{cm}^3$  (STP)  $\cdot \mathrm{cm / (cm^2\cdot s\cdot cmHg)}$  . Meanwhile, the gas selectivity  $(\alpha_{\mathrm{A / B}})$  is defined as the permeability ratio as follows:
+105: 
+106: $$
+107: \alpha_ {\mathrm {A / B}} = \frac {\mathrm {P _ {A}}}{\mathrm {P _ {B}}}
+108: $$
+109: 
+110: where  $\mathrm{P_A}$  and  $\mathrm{P_B}$  are the pure gas permeability of gases A and B, respectively. The reported permeation results were the averages of a minimum of three samples.
+111: 
+112: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+113: Figure 1 Schematic diagram of permeation cell
+114: 
+115: # 3.0 RESULTS AND DISCUSSION
+116: 
+117: For an effective gas separation, a defect-free membrane with high mechanical strength is desirable to simultaneously achieve higher gas selectivity and withstand harsh industrial operating conditions. It is generally accepted that the molecular weight of polymer plays an important role in governing the formation of high strength and defect-free membrane [18, 20, 21]. Hence, in this work, the molecular weight of PAA precursors as well as both thermally and chemically imidized polyimides was evaluated using GPC. However, GPC has one major limitation, in which its result might vary depending on the sample concentration. This may lead to inaccurate or worse incorrect result interpretation without appropriate choice of sample concentration for GPC. More specifically speaking, no sample peak can be detected if the sample is too diluted. On the other hand, there is high possibility of unbounded peaks when the sample is too concentrated, which renders the data inaccurate [22]. In view of this, an optimum sample concentration, which provides accurate molecular weight data without the occurrence of unbounded peak, is necessary. By taking ODPA-6FpDA:DABA as an example, its PAA precursor, thermally and chemically imidized polyimide were dissolved in NMP solvent at concentration of 0.01 wt.% 0.05 wt.% 0.10 wt.% 0.20 wt.%
+118: 
+119: and  $0.30\mathrm{wt}.\%$  . It was expected that the optimum sample concentration determined could also be applied to other monomer combinations under the same synthesis protocol (chemical or thermal imidization approach).
+120: 
+121: The GPC results of ODPA-6FpDA:DABA PAA precursor at different concentrations are summarized in Table 3. When the sample concentration was increased from 0.05 wt.% to 0.30 wt.% the molecular weight value increased. In order to obtain a clearer view on the variation of molecular weight with increasing sample concentration, the GPC chromatograms in Figure 2 were analysed in detail. Surprisingly, two peaks were observed at low sample concentration range of 0.01 to 0.10 wt.% (Figure 2a, 2b and 2c). As the sample concentration was increased from 0.01 wt.% to 0.10 wt.% the intensity of the first peak reduced gradually relative to the second peak. When the concentration of PAA precursor was further increased to 0.30 wt.% the two peaks appeared to merge together (Figure 2e). It was unclear whether both peaks in the GPC chromatograms were contributed by the PAA sample or the NMP solvent. Therefore, a control GPC run was carried out, in which the sample contained only NMP solvent. Figure 3 shows the GPC chromatogram for the control run. It was noticed that the pure NMP solvent showcased a peak ranging from  $5 \times 10^{4}$  to  $1 \times 10^{6} \mathrm{~g/mol}$ .
+122: 
+123: Table 3 Molecular weight of ODPA-6FpDA:DABA PAA precursor at different concentrations  
+124: 
+125: <table><tr><td>Concentration (wt%)</td><td>Molecular weight, Mw (g/mol)</td></tr><tr><td>0.01</td><td>1.61 x 106</td></tr><tr><td>0.05</td><td>1.93 x 106</td></tr><tr><td>0.10</td><td>2.32 x 106</td></tr><tr><td>0.20</td><td>3.27 x 106</td></tr><tr><td>0.30</td><td>3.71 x 106</td></tr></table>
+126: 
+127: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+128: 
+129: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+130: 
+131: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+132: 
+133: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+134: 
+135: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+136: Figure 2 GPC chromatograms of ODPA-6FpDA:DABA PAA precursor in NMP solvent at various concentrations
+137: 
+138: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+139: Figure 3 GPC chromatogram of pure NMP
+140: 
+141: It was found that the NMP solvent peak was sufficiently similar to represent all the first peak in Figure 2a to 2c. At low concentration of  $0.01\mathrm{wt}.\%$  and  $0.05\mathrm{wt}.\%$  , the relative intensity of the first peak was much higher
+142: 
+143: compared to the second peak, indicating that the PAA sample was too diluted to be detected accurately by the GPC. Meanwhile, high sample concentration of  $0.20\mathrm{wt}.\%$  and  $0.30\mathrm{wt}.\%$  were also not preferable as it was difficult to
+144: 
+145: distinguish the NMP solvent peak from the PAA peak (Figure 2d and 2e). It was believed that the merging of two peaks at high sample concentration was contributed by the polymer agglomeration, which shifted the first peak (lower molecular weight) significantly towards right to merge with the second peak (higher molecular weight). Generally, the phenomenon of agglomeration is undesirable in GPC analysis as it will give a wrong indication on the polymer's membrane forming ability. In other words, the molecular weight of individual polyimide chain should be the targeted outcome of GPC analysis instead of the molecular weight of polymer aggregates. Therefore,  $0.10\mathrm{wt}.\%$  was the optimum PAA concentration for GPC analysis. Since the first peak in Figure 2 was contributed mainly by the NMP solvent as aforementioned, this peak should be eliminated in evaluating the PAA molecular weight. After the removal of the first peak, the  $10\mathrm{wt}.\%$  ODPA-6FpDA:DABA PAA possessed a molecular weight of  $5.12\times 10^{6}\mathrm{g / mol}$ . For the subsequent GPC runs, the peak similar to the solvent peak was also omitted in molecular weight analysis.
+146: 
+147: PAA serves as the precursor for the formation of polyimide through chemical and thermal imidization methods. Undeniably, the molecular weight of polyimide produced using the
+148: 
+149: two methods is of high interest. Owing to the different synthesis protocols, the optimum GPC analysis concentration for chemically imidized and thermally imidized polyimide could be different. At low concentration of 0.01 wt.% the GPC result demonstrated a molecular weight of  $5.14 \times 10^{5} \mathrm{~g/mol}$  for the thermally imidized ODPA-6FpDA:DABA polyimide. This molecular weight value lay within the range of solvent peak ( $5 \times 10^{4}$  to  $1 \times 10^{6} \mathrm{~g/mol}$ ). The result indicated that only the NMP solvent was detected at such low sample concentration instead of the polyimide. Hence, this sample concentration was not suitable for thermally imidized polyimide in GPC run. Figure 4 depicts the GPC chromatograms of thermally imidized polyimide at higher concentration. At 0.20 wt.% and 0.30 wt.% unbounded peak was observed (Figure 4c and 4d). This reflected that the concentration of the sample was beyond the detection limit of GPC detector and hence the results obtained were inaccurate. On the contrary, both samples at 0.05 wt.% (Figure 4a) and 0.10 wt.% (Figure 4b) illustrated a bell-shaped peak. Upon comparing the peak profile of the two concentrations, 0.10 wt.% would be a more sensible choice for GPC analysis of thermally imidized polyimide as the GPC peak was more symmetrical [23].
+150: 
+151: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+152: 0.05 wt.%
+153: 
+154: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+155: 0.10 wt.%
+156: 
+157: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+158: Figure 4 GPC chromatograms of thermally imidized ODPA-6FpDA:DABA polyimide at various concentrations
+159: 
+160: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+161: 
+162: Similar GPC result was obtained for the chemically imidized polyimide. Again, 0.01 wt.% sample showed a peak within the range of solvent peak (3.11 x  $10^{5}$  g/mol), which made it undesirable for GPC analysis. On the contrary, a too high sample concentration (0.20 wt.% and 0.30 wt.% Figure 5c and 5d) gave unbounded peak. Meanwhile, it was found that both the 0.05 wt.% and 0.10 wt.% samples displayed good and
+163: 
+164: distinct peak. In fact, both samples demonstrated similar molecular weight, which were  $1.078 \times 10^{7}$  and  $1.074 \times 10^{7}$  g/mol for 0.05 wt.% and 0.10 wt.% sample respectively. Owing to the comparable chromatogram and molecular weight reading, 0.05 wt.% was selected as the optimum sample concentration for chemically imidized polyimide to minimize the polyimide usage in sample preparation.
+165: 
+166: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+167: (a)  $0.05\mathrm{wt}\%$
+168: 
+169: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+170: (b)  $0.10\mathrm{wt}.\%$
+171: 
+172: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+173: (c)  $0.20\mathrm{wt}\%$
+174: 
+175: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+176: Figure 5 GPC chromatograms of chemically imidized ODPA-6FpDA:DABA polyimide with various concentrations  
+177: 0.30 wt.%
+178: 
+179: The polyimide molecular weight of other monomer combinations was then evaluated using GPC at the optimum concentration determined previously. As illustrated in Figure 6, the final polyimide (chemically or thermally imidized) consistently demonstrated higher molecular weight than its corresponding PAA precursor regardless of the monomer combinations. This was because polycondensation occurred simultaneously as the imidization process. As more time was allowed for the polyimide chain growth, longer polyimide chains were eventually achieved, hence leading to higher molecular weight of the final polyimide. Interestingly, it was noticed that thermal imidization approach always produced a higher molecular weight polyimide than chemical imidization route, except ODPA-6FpDA:DABA. This could be explained from the aspect of reaction kinetics. During thermal imidization, the higher temperature promoted more effective and frequent collision between the polyimide chains, hence increasing the chance of chain growth. On the other hand, chemical imidization was only
+180: 
+181: carried out at room temperature. This eventually led to the formation of longer polyimide chains in thermal imidization. However, the opposite trend was observed for ODPA-6FpDA:DABA monomer combination, where the chemically imidized polyimide showed a higher molecular weight than the one produced via thermal imidization. In general, the formation of polyimide chain involves propagation (chain growth) and depropagation (chain scissoring) steps [24]. The depropagation reaction of ODPA-6FpDA:DABA was more sensitive to heat because the amide linkage formed was weaker due to the weaker electron withdrawing group of ODPA dianhydride (electron rich ether group) [25]. During thermal imidization, the high temperature promoted the depropagation reaction, causing the scissoring of polyimide chains into shorter one. This in turn hindered the formation of longer polyimide chains and thus shorter ODPA-6FpDA:DABA polyimide chains were formed via thermal imidization route.
+182: 
+183: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+184: Figure 6 Molecular weight of PAA and polyimide of different structures
+185: 
+186: Out of the four monomer combinations, only ODPA-6FpDA:DABA membrane could be formed successfully via both the chemical and thermal imidization route, as reported in the previous work [21]. Therefore, single gas  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  permeation test was carried out to assess the effect of synthesis route on the membrane gas separation performance. Figure 7 shows the  $\mathrm{CO}_{2}$  permeability and  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  selectivity of ODPA-6FpDA:DABA membrane. It was observed that the chemically imidized ODPA-6FpDA:DABA membrane possessed at least 12 times higher  $\mathrm{CO}_{2}$  permeability than the thermally imidized counterpart. In general, a membrane with higher fractional free volume (FFV) has higher gas permeability [26]. Hence, the lower  $\mathrm{CO}_{2}$  permeability of the thermally imidized polyimide membrane was believed to be caused by the lower FFV in the membrane matrix. In fact, thermal imidization improved the interchain interaction and hence reduced the void volume in between the polymer chains [6]. During thermal imidization, solvent and water formed from imidization process were evaporated off
+187: 
+188: at a much vigorous rate due to application of high temperature (up to  $200^{\circ}\mathrm{C}$ ). This induced a much higher degree of molecular aggregation among the polyimide chains, causing the molecular structure to be more compact (lower FFV) [24]. Meanwhile, chemical imidization was carried out at a much lower temperature (room temperature). Hence, the molecular aggregation problem was not that serious compared to the thermal imidization method. This eventually led to the higher FFV of the chemically imidized polyimide membrane. In addition, both membranes produced from thermal and chemical imidization showed no sign of plasticization up to 6 bar, in which there was no increment of  $\mathrm{CO}_{2}$  permeability with increasing feed pressure [27]. Interestingly, the  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  selectivity of the chemically imidized membrane was not compromised by its higher  $\mathrm{CO}_{2}$  permeability and reached a value of approximately 5. In overall, chemical imidization approach was able to produce a membrane with better gas separation performance in terms of gas permeability and selectivity.
+189: 
+190: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+191: (a)
+192: 
+193: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+194: Figure 7 (a)  $\mathrm{CO}_{2}$  permeability and (b)  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  selectivity of ODPA-6FpDA:DABA membrane synthesized via chemical and thermal imidization  
+195: (b)
+196: 
+197: For practical application, a membrane with higher gas selectivity is desirable as it can separate the gaseous components more effectively. In other words, a permeate with higher purity can be
+198: 
+199: achieved. Therefore, the subsequent work focused on the crosslinking of the chemically imidized polyimide chains. Crosslinking was induced by thermal treatment of the membrane in a furnace
+200: 
+201: at high temperature of  $370~^\circ \mathrm{C}$ . The DABA in the polymer backbone served as the crosslinking site to link the polyimide chains together [28, 29]. As illustrated in Figure 8, crosslinking improved the gas selectivity significantly. At 6 bar of permeation pressure, the  $\mathrm{CO_2 / N_2}$  selectivity increased by  $146\%$  after crosslinking (increased from 4.8 to 11.8). Unfortunately, this remarkable improvement of  $\mathrm{CO_2 / N_2}$  selectivity was accompanied by permeability drop. In particular, the  $\mathrm{CO_2}$  permeability decreased from 19.21 Barrer to 8.61
+202: 
+203: Barrer at 6 bar (reduced by  $55\%$ ). This change in gas separation performance was believed to be contributed by the lower FFV of membrane after crosslinking. With polymer chain crosslinking, the available sorption sites as well as the diffusion pathways reduced, hence reducing the  $\mathrm{CO}_{2}$  permeability. Meanwhile, the more compact polymer packing after crosslinking also increased the size discrimination ability of membrane matrix, which eventually led to higher gas selectivity.
+204: 
+205: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+206: (a)
+207: 
+208: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+209: Figure 8 (a)  $\mathrm{CO}_{2}$  permeability and (b)  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  selectivity of chemically imidized ODPA-6FpDA:DABA membrane before and after thermal treatment  
+210: (b)
+211: 
+212: # 4.0 CONCLUSIONS
+213: 
+214: This work provides an insight into the role of imidization methods on the polyimide membrane gas separation performance. It was found that the optimum sample concentration for GPC analysis of PAA, thermally imidized polyimide and chemically imidized polyimide was  $0.10\mathrm{wt.\%}$ ,  $0.10\mathrm{wt.\%}$  and  $0.05\mathrm{wt.\%}$  respectively. Among the four polyimides studied, the thermally imidized polyimide consistently showed a higher molecular weight than the chemically imidized polyimide except ODPA-6FpDA:DABA. This was due to the higher tendency of depropagation of ODPA-6FpDA:DABA at high temperature, which led to shorter chains
+215: 
+216: formed during thermal imidization. In terms of gas separation performance, the chemically imidized ODPA-6FpDA:DABA showed a higher  $\mathrm{CO}_{2}$  permeability of 19.21 Barrer without sacrificing its  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  selectivity. The gas selectivity was further improved by high temperature crosslinking process. At 6 bar of permeation pressure,  $146\%$  improvement in  $\mathrm{CO}_{2} / \mathrm{N}_{2}$  selectivity was observed, albeit accompanied by  $55\%$  reduction in  $\mathrm{CO}_{2}$  permeability. This variation in gas separation performance was caused by the lower FFV after crosslinking.

@@ -1,0 +1,37 @@
+source_file: New Strategy for Inducing Surface Anisotropy in Polyimide Films for Nematics Orientation in Display Applicatio.md
+doc_id: d99a47e74ff612436c10f59dae6bb2f9
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [293, 315]
+char_span: [51107, 54603]
+line_count: 21
+effective_body_non_empty_lines: 10
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+293: # 4. Conclusions
+294: 
+295: Two PI structures based on the same cycloaliphatic dianhydride were synthesized and characterized to check their suitability as ALs. The polymer films are highly transparent, i.e., at  $550\mathrm{nmT} > 80\%$ . Upon surface modification, the PI foils gain anisotropy, which correlated through birefringence revealed higher chain orientation for the PI-HMDA sample in comparison to PI-ODA.
+296: 
+297: The mechanical behavior of both polymers was quantitatively predicted. In order to understand the competition between adsorbed liquid crystal molecules on the polymeric surfaces, molecular dynamics simulations were conducted. It can be noted that even the PI-ODA is less flexible and compressible than PI-HMDA, the stretched PI-ODA film has the most favorable interactions with the LC molecules, this fact being emphasized in an experimental manner later. Both theoretically and experimentally, it has been found that 5CB molecules have better adhesion to polymeric surfaces.
+298: 
+299: AFM measurements revealed that the polymer structure and the order of application of the mechanical treatments are key factors that can further influence the interactions of the resulted anisotropic surfaces with a nematic liquid crystal. The oriented morphological structures were much more pronounced and had higher anisotropy in the case of softer and easily compressible PI-HMDA compared to those obtained for the stiffer and less compressible PI-ODA. The induced micro and nano-grooves aspect, correlated with the roughness, complexity, and bearing properties was predominated by the last applied process, either stretching or rubbing. Instead, the morphology anisotropy was influenced by the first applied mechanical alignment process: the rubbing process induces a higher anisotropy, while the stretching method a mild one.
+300: 
+301: The bigger surface polarity of PI-ODA favors better interaction with LC, while the larger anisotropy of PI-HMDA imposes less energy for diverging the LC molecules from their preferred direction of orientation. The magnitude of the azimuthal anchoring energy was higher for 5CB nematic than that attained for MBBA. Given the highest transparency, better surface anisotropy, and lower azimuthal anchoring energy of the fully aliphatic sample, it can be concluded that PI-HMDA has the most suitable features for use as AL in LC displays.
+302: 
+303: Author Contributions: Conceptualization, A.I.B. and E.-L.E.; methodology, I.S., R.M.A., C.H. and A.I.B.; software, E.-L.E.; validation, I.S., A.I.B., R.M.A., C.H. and E.-L.E.; formal analysis, I.S., A.I.B. and R.M.A.; investigation, I.S., A.I.B., R.M.A., C.H. and E.-L.E.; resources, I.S., A.I.B., R.M.A., C.H. and E.-L.E.; data curation, I.S., A.I.B., R.M.A., C.H. and E.-L.E.; writing—original draft, I.S., A.I.B. and E.-L.E.; writing—review and editing, I.S., A.I.B., R.M.A., C.H. and E.-L.E.; visualization, I.S.; supervision, I.S. and A.I.B.; project administration, E.-L.E.; funding acquisition, E.-L.E. All authors have read and agreed to the published version of the manuscript.
+304: 
+305: Funding: Publications grant of the TUIASI, TUIASI—"Gheorghe Asachi" Technical University: project number GI /P18/2021.
+306: 
+307: Institutional Review Board Statement: Not applicable.
+308: 
+309: Informed Consent Statement: Not applicable.
+310: 
+311: Acknowledgments: This work was supported by a publications grant of the TUIASI, project number GI/P18/2021 (TUIASI—"Gheorghe Asachi" Technical University of Iasi).
+312: 
+313: Conflicts of Interest: The authors declare no conflict of interest.

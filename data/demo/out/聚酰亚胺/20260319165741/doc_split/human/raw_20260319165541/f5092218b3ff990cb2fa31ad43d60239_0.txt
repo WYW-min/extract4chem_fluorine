@@ -1,0 +1,36 @@
+source_file: Interpenetration Networked Polyimide鈥揈poxy Copolymer under Kinetic and Thermodynamic Control for Anticorrosion.md
+doc_id: f5092218b3ff990cb2fa31ad43d60239
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Interpenetration Networked Polyimide-Epoxy Copolymer under Kinetic and Thermodynamic Control for Anticorrosion Coating
+line_span: [1, 22]
+char_span: [0, 2050]
+line_count: 20
+effective_body_non_empty_lines: 13
+
+lines:
+--- chunk (b0001: Interpenetration Networked Polyimide-Epoxy Copolymer under Kinetic and Thermodynamic Control for Anticorrosion Coating) ---
+1: [MINERU_DISCARDED_META]
+2: polymers
+3: MDPI
+4: Polymers 2023, 15, 243. https://doi.org/10.3390/polym15010243
+5: https://www.mdpi.com/journal/polymers
+6: [/MINERU_DISCARDED_META]
+7: 
+8: Article
+9: 
+10: # Interpenetration Networked Polyimide-Epoxy Copolymer under Kinetic and Thermodynamic Control for Anticorrosion Coating
+11: 
+12: Dong-Sen Chen  $^{1}$ , Chun-Hua Chen  $^{1, *}$ , Wha-Tzong Whang  $^{1}$  and Chun-Wei Su  $^{2}$
+13: 
+14: $^{1}$  Department of Materials Science and Engineering, National Yang Ming Chiao Tung University, Hsinchu 300, Taiwan  
+15: 2 Material and Chemical Research Laboratories, Industrial Technology Research Institute, Hsinchu 310, Taiwan  
+16: * Correspondence: chunhuachen@nycu.edu.tw; Tel.: +886-3-5913463
+17: 
+18: Abstract: Epoxy (EP) was copolymerized with polyamic acid (PAA, precursor of polyimide (PI)) with termanil monomers of (1)  $4,4^{\prime}$ -Oxydianiline (ODA) and (2) pyromellitic dianhydride (PMDA) individually to form (PI-O-EP) and (PI-P-EP) copolymers. The FTIR spectrum of PI-O-EP copolymerization intermediates shows that some amide-EP linkages were formed at low temperature and were broken at higher temperature; in addition, the released amide was available for subsequent imidization to form PI. The curing and amidization of the amide groups on PAA were determined by reaction temperature (kinetic vs. thermodynamic control). In PI-P-EP, the released amide group was very short-lived (fast amidization) and was not observed on FTIR spectra. Formation and breakage of the amide-EP linkages is the key step for EP homopolymerization and formation of the interpenetration network. PI contributed in improving thermal durability and mechanical strength without compromising EP's adhesion strength. Microphase separations were minimal at PI content less than  $10\mathrm{wt}\%$ . The copolymerization reaction in this study followed the "kinetic vs. thermodynamic control" principle. The copolymer has high potential for application in the field of higher-temperature anticorrosion.
+19: 
+20: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)

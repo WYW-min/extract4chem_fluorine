@@ -1,0 +1,24 @@
+source_file: Formation of Nano-Fibrous Patterns on Aluminum Substrates via Photolithographic Fabrication of Electrospun Pho.md
+doc_id: 37c2ed62a82f3c15d3a0f8be98c663ae
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Article
+line_span: [1, 10]
+char_span: [0, 190]
+line_count: 8
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0001: Article) ---
+1: [MINERU_DISCARDED_META]
+2: nanomaterials
+3: MDPI
+4: Nanomaterials 2022, 12, 2745. https://doi.org/10.3390/nano12162745
+5: https://www.mdpi.com/journal/nanomaterials
+6: [/MINERU_DISCARDED_META]
+7: 
+8: # Article

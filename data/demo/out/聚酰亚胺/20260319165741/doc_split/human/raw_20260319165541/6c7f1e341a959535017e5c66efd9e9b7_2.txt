@@ -1,0 +1,28 @@
+source_file: Effects of thermal treatment on the scpCOscp2 sorption of triblockcopolymers derived from polyimide and poly(m.md
+doc_id: 6c7f1e341a959535017e5c66efd9e9b7
+chunk_index: 2
+block_id: b0003
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: EXPERIMENTAL
+line_span: [30, 43]
+char_span: [4370, 5496]
+line_count: 12
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0003: EXPERIMENTAL) ---
+30: # EXPERIMENTAL
+31: 
+32: # Film Preparation
+33: 
+34: PI, PMMA, and triblock copolymer have been used to synthesize a sample in previous study.[29] The chemical structure and composition ratio of these polymers are shown in Figure 1 and
+35: 
+36: © 2015 Wiley Periodicals, Inc.
+37: 
+38: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+39: Figure 1. Chemical structures of PI, PMMA, and PMMA-block-PI-block-PMMA (Block(PI/PMMA)).
+40: 
+41: Table I. Similar to previous study,[29] films were prepared on a Teflon petri dish by casting 3 wt % chloroform solution to obtain a film thickness of 100 to  $140~\mu \mathrm{m}$ . The plate was covered with a glass dish to decrease the rate of solvent evaporation and prevent contamination in atmospheric pressure at  $23 \pm 1^{\circ}\mathrm{C}$ . The solvent was allowed to evaporate for  $72\mathrm{h}$ . The solvent was removed by placing in a methanol solution at  $23 \pm 1^{\circ}\mathrm{C}$  for 1 week. The films were dried at  $100^{\circ}\mathrm{C}$  for  $12\mathrm{h}$  to remove the solvent. All experiments were performed on the dried film with a thickness difference of  $\pm 1\mu \mathrm{m}$ .

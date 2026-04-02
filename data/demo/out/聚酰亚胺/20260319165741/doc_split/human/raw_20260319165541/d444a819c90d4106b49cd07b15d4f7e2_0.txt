@@ -1,0 +1,32 @@
+source_file: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazoly.md
+doc_id: d444a819c90d4106b49cd07b15d4f7e2
+chunk_index: 0
+block_id: b0001
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazolyl)benzene, BAOB, via BAOB-modified Organoclay
+line_span: [1, 18]
+char_span: [0, 1938]
+line_count: 16
+effective_body_non_empty_lines: 9
+
+lines:
+--- chunk (b0001: Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazolyl)benzene, BAOB, via BAOB-modified Organoclay) ---
+1: [MINERU_DISCARDED_META]
+2: Article
+3: J. Mex. Chem. Soc. 2014, 58(2), 126-136 © 2014, Sociedad Quimica de Mexico ISSN 1870-249X
+4: [/MINERU_DISCARDED_META]
+5: 
+6: # Novel Organo Soluble Polyimides and Polyimide Nanocomposites Based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazolyl)benzene, BAOB, via BAOB-modified Organoclay
+7: 
+8: Yagoub Mansoori, and Kamran Darvishi
+9: 
+10: Department of Applied Chemistry, Faculty of Science, University of Mohagheh Ardabili, Ardabil, Iran. ya_mansoori@yahoo.com
+11: 
+12: Received November 21<sup>st</sup>, 2013; Accepted January 28<sup>th</sup>, 2014
+13: 
+14: Abstract. New, thermally stable polyimides (PI) containing a 1,3,4-oxadiazole ring in the polymer backbone based on 1,4-bis((4-aminophenyl)-1,3,4-oxadiazolyl)benzene, BAOB, were synthesized. The prepared polymers were soluble in polar and aprotic solvents. The obtained results reveal that within the prepared polymers, polyimide (7) which has been obtained from BAOB and  $4,4^{\prime}$ -oxydiphthalic di-anhydride, ODPA, has the most improved thermal properties. In the next part, thermally stable organophilic clay was obtained via cation exchange reaction between sodium montmorillonite (Na-MMT) and the hydrochloride salt of BAOB. Then, a series of PI/clay nanocomposite materials (PCNs) were synthesized from the in situ polymerization reaction of BAOB and ODPA via thermal imidization. BAOB-MMT was used as the filler at different concentrations. Intercalation of polymer chains within the organoclay galleries was confirmed by WXRD. The glass transition temperature is increased with respect to pristine PI for PCNs 1-3 wt%. At high clay loadings, the aggregation of organoclay particles results in a decrease in  $\mathrm{T_g}$ . In the SEM images of the pure polymer too many micro-cracks were observed in the background, while surface homogeneity of PCN 1 wt% is increased and microcracks are reduced.
+15: 
+16: Key words: Polyimide; nanocomposite; Clay modification; montmorillonite.

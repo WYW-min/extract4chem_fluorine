@@ -1,0 +1,118 @@
+{
+    "run_id": "20260316200954",
+    "doc_id": "9b5e715b5f923488d86f83be36344c49",
+    "task_id": "20260316200954__9b5e715b5f923488d86f83be36344c49__main_signal",
+    "file_name": "A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles As a Chemiresistor Sensor for Hyd.md",
+    "source_refs": [
+        {
+            "block_id": "b0001",
+            "chunk_index": 0,
+            "section_title": "A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles: As a Chemiresistor Sensor for Hydrogen Sulfide Gas",
+            "line_span": [
+                1,
+                29
+            ],
+            "roles": [
+                "title",
+                "front_matter"
+            ]
+        },
+        {
+            "block_id": "b0003",
+            "chunk_index": 2,
+            "section_title": "2. Experimental",
+            "line_span": [
+                39,
+                72
+            ],
+            "roles": [
+                "experimental"
+            ]
+        },
+        {
+            "block_id": "b0004",
+            "chunk_index": 3,
+            "section_title": "3. Results and Discussion",
+            "line_span": [
+                72,
+                179
+            ],
+            "roles": [
+                "results"
+            ]
+        }
+    ],
+    "result": {
+        "文献信息": {
+            "唯一文献标识": "doi:10.3390/polym11121918",
+            "论文标题": "A Novel Application of Electroactive Polyimide Doped with Gold Nanoparticles: As a Chemiresistor Sensor for Hydrogen Sulfide Gas",
+            "作者列表": [
+                "Lee Marvin G. Padua",
+                "Jui-Ming Yeh",
+                "Karen S. Santiago"
+            ],
+            "期刊名称": "Polymers",
+            "年份": 2019,
+            "卷号": 11,
+            "页码": "1918",
+            "文档类型": "Article",
+            "语言": "English",
+            "关键词": [
+                "conducting polymers",
+                "metal nanoparticles",
+                "gas sensor",
+                "hydrogen sulfide gas"
+            ]
+        },
+        "聚合物": [
+            {
+                "聚合物分类名称": "aniline trimer",
+                "聚合物分类编码": "ACAT",
+                "名称": "amine-capped aniline trimer",
+                "样本形态": "Powder",
+                "结构特征_L1": "linear",
+                "结构特征_L2": "aromatic",
+                "表征": {},
+                "性质": [],
+                "工艺流程": [],
+                "身份标识": "doi:10.3390/polym11121918_amine-capped aniline trimer_01"
+            },
+            {
+                "聚合物分类名称": "polyimide",
+                "聚合物分类编码": "PI",
+                "名称": "electroactive polyimide",
+                "样本形态": "Powder",
+                "结构特征_L1": "heterocyclic",
+                "结构特征_L2": "aromatic",
+                "表征": {},
+                "性质": [],
+                "工艺流程": [],
+                "身份标识": "doi:10.3390/polym11121918_electroactive polyimide_01"
+            },
+            {
+                "聚合物分类名称": "gold nanoparticle doped electroactive polyimide",
+                "聚合物分类编码": "PI/AuNPs",
+                "名称": "gold nanoparticle-doped electroactive polyimide",
+                "样本形态": "Film",
+                "结构特征_L1": "heterocyclic",
+                "结构特征_L2": "aromatic",
+                "表征": {},
+                "性质": [],
+                "工艺流程": [],
+                "身份标识": "doi:10.3390/polym11121918_gold nanoparticle-doped electroactive polyimide_01"
+            },
+            {
+                "聚合物分类名称": "gold nanoparticle doped polyaniline",
+                "聚合物分类编码": "PANI/AuNPs",
+                "名称": "conducting polyaniline doped with gold nanoparticles",
+                "样本形态": "Membrane",
+                "结构特征_L1": "conjugated_linear",
+                "结构特征_L2": "aromatic",
+                "表征": {},
+                "性质": [],
+                "工艺流程": [],
+                "身份标识": "doi:10.3390/polym11121918_conducting polyaniline doped with gold nanoparticles_01"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+source_file: Modification and Optimization of Rice Husk Ash Bio-Filler in Sulfonated Polyimide Membrane for Direct Methanol.md
+doc_id: e79d69a5b0aa08483036b190253a0a9a
+chunk_index: 14
+block_id: b0015
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: PRIMARY PERFORMANCE
+line_span: [139, 154]
+char_span: [25648, 28968]
+line_count: 14
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0015: PRIMARY PERFORMANCE) ---
+139: # PRIMARY PERFORMANCE
+140: 
+141: Primary performance of the composite membrane produced was based on the analysis of membranes' water uptake ability, level of proton conductivity and the ion exchange capacity. A well-perform DMFC membrane mainly has the physicochemical properties of high water uptake, high proton conductivity and high ion exchange capacity. High water uptake leads to higher mobility for the proton to be transported in the membrane and hence produces low resistance. High proton conductivity gives higher rate of proton being transferred across the membrane. High ion exchange capacity will give more ions to be exchanged with the proton at the anode side. These will then lead to a higher fuel cell performance of DMFC.
+142: 
+143: Figure 3 gave the comparison of performance for the SPI/sRHA and SPI/RHA composite membranes with different loading of filler used. Using different types of RHA (pure RHA and sulfonated RHA) and filler contents in composite membranes had significantly affected the membrane performance. From Figure 3(a), sRHA gave better membrane performance in terms of water uptake and proton conductivity compared to RHA. This was mainly due to the presence of sulfonic acid groups in sRHA. The sulfonic acid group had improved the water retention of SPI/sRHA composite membranes (due to the greater water uptake capacity of the sulfonic acid group itself). On the other hand, proton conductivity of SPI/ sRHA membranes was higher as compared to SPI/RHA membranes. The sulfonic acid groups in SPI and sRHA act
+144: 
+145: as the donor and acceptor for the proton carrier sites. Since SPI/sRHA membranes had more sulfonic acid groups compared to SPI/RHA membranes, hence, more proton carrier sites were available for SPI/sRHA membranes. Due to this, SPI/sRHA showed higher proton conductivity compared to SPI/RHA membranes. Both sRHA and RHA filler loading had shown the same trend towards the water uptake and proton conductivity with the values obtained by SPI/sRHA membranes were slightly higher than that of SPI/RHA membranes. This indicated that when the filler loading reached optimum value (both cases 10 wt.%) the water uptake and proton conductivity for both composite membranes started to decrease. This may due to the higher rate of filler agglomeration when the filler loading exceeded 10 wt.%
+146: 
+147: Incorporation of sRHA into SPI membrane matrix had increased the performance of IEC in the composite membranes as shown in Figure 3(b). The highest value obtained by  $10\%$  filler loading SPI/sRHA membrane was  $0.2785 \, \mathrm{mmol} \, \mathrm{g}^{-1}$ , which was  $15.4\%$  higher than SPI/RHA membrane with the same amount of filler loading. IEC was defined as the number of sulfonic acid groups (unit: mmol) per  $1 \, \mathrm{g}$  of membrane. Hence, higher content of sulfonic acid groups present in sRHA had led to the increment of IEC in the composite membrane. Without sulfonation of RHA, further addition of RHA into SPI membrane matrix had reduced the IEC of the composite membranes produced.
+148: 
+149: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)
+150: 
+151: ![待补充图片](https://placeholder.pics/svg/1x1/FFFFFF/FFFFFF?text=暂无图片)  
+152: FIGURE 3. (a) Water uptake and proton conductivity and (b) ion exchange capacity of SPI/sRHA membranes and SPI/RHA membranes with different loading of filler

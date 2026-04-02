@@ -1,0 +1,27 @@
+source_file: Influence of Surface Modified MWCNTs on the Mechanical, Electrical and Thermal Properties of Polyimide Nanocom.md
+doc_id: 03d688621ac0a3e7b8d1e22e11238732
+chunk_index: 4
+block_id: b0005
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: Characterization
+line_span: [52, 64]
+char_span: [10550, 11026]
+line_count: 11
+effective_body_non_empty_lines: 5
+
+lines:
+--- chunk (b0005: Characterization) ---
+52: # Characterization
+53: 
+54: Fourier Transform Infrared Spectroscopy
+55: 
+56: Functionalization of MWCNTs and conversion of polymeric acid to polyimide (imidization) was confirmed by the Fourier transform infrared spectra recorded on a Perkin Elmer spectrum BX FTIR spectrometer.
+57: 
+58: Scanning Electron Microscopy
+59: 
+60: The surface morphology of the as-produced, functionalized MWCNTs and the fractured surface of the nanocomposites
+61: 
+62: was analysed on a Scanning Electron Microscope (Leo model: S-440).

@@ -1,0 +1,29 @@
+source_file: Nanoindentation studies of polyimide thin films with various internal linkages in the diamine component.md
+doc_id: f2c1469c1d0d0e95ebc6f56b2b9088f3
+chunk_index: 1
+block_id: b0002
+section_number: None
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: INTRODUCTION
+line_span: [19, 33]
+char_span: [2706, 6208]
+line_count: 13
+effective_body_non_empty_lines: 6
+
+lines:
+--- chunk (b0002: INTRODUCTION) ---
+19: # INTRODUCTION
+20: 
+21: Recently, high-performance microelectronic devices have been designed with a multilayer structure to produce dense wiring of metal conductors
+22: 
+23: in a compact size. $^{1}$  Aromatic polyimide thin films, for these devices, have received significant attention because of their broad industrial utilization as interdielectric,  $\alpha$ -particle-protecting materials and passivation layers in microcircuits. $^{2-4}$  Many technologies depend, at some critical juncture, on advanced manufacturing processes. $^{5}$  As manufacturing operations approach submicrometer, nanometer, or even atomic scales, efforts are under
+24: 
+25: way in materials and mechanics communities to measure, characterize, and model behaviors at submicrometer and nanometer scales. $^{6,7}$  The need to measure and characterize various properties, such as electronic, physical, and mechanical properties, have driven the development of instrumented nanoindentation hardness testers, which are capable of characterizing the near-surface properties of thin films, microscopic wires, and bulk materials. Nanoindentation, known as depth-sensing indentation, instrumented indentation testing, continuous-recording indentation, and ultra-low-load indentation, is a relatively new form of mechanical testing that significantly expands on the capabilities of traditional hardness testing. $^{8}$  The advantages of nanoindentation are numerous; because indentation load-displacement data contain a wealth of information, nanoindentation techniques have been developed for characterizing a variety of mechanical properties. Nanoindentation has become a primary tool for examining thin films, coatings, and materials with surfaces modified by techniques such as ion implantation and laser heat treatment.
+26: 
+27: Moreover, microhardness testing provides a wealth of valuable quantitative data regarding deformation processes occurring in various polymers and many other systems, including polymer blends, copolymers, and composites.[9-12] Despite the insight that microhardness testing provides, far fewer studies of the nanoscale indentation of polymeric materials have been reported. Fakirov et al.[13] found that there was a linear correlation between the hardness and the glass-transition temperature  $(T_{\mathrm{g}})$  for a number of polymers. By means of this relationship, the deviation in the hardness values from the additivity law for some multicomponent and/or multiphase polymeric systems can be explained. In a study by Poilane et al.,[14] nanoindentation tests were performed with success on thin films of polyurethane shape-memory polymer to characterize their mechanical behavior. Cramez et al.[15] reported that, for rotationally molded polyethylene, the microhardness depended on the type of pigment. Recently, Beake and Leggett[16] observed that, for poly(ethylene terephthalate) films, the biaxial material exhibited significantly higher hardness and elastic modulus than the uniaxial film because of increased crystallinity from the second draw.
+28: 
+29: In this nanoindentation study, the effects of the chemical and morphological structures for the various polyimide thin films on the hardness were investigated. The purpose of this work was to
+30: 
+31: determine how the mechanical properties of poly-imide thin films were affected by morphological structures, such as the crystallinity and in-plane orientation. The morphological structures in films were examined with wide-angle X-ray diffraction (WAXD) and a prism coupler.

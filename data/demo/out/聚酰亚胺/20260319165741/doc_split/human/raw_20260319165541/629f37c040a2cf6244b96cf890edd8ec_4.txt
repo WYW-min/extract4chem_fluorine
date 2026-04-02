@@ -1,0 +1,31 @@
+source_file: Closed-Cell Rigid Polyimide Foams for High-Temperature Applications The Effect of Structure on Combined Proper.md
+doc_id: 629f37c040a2cf6244b96cf890edd8ec
+chunk_index: 4
+block_id: b0005
+section_number: 4
+header_level: 1
+outline_level: 1
+title_level: 1
+section_title: 4. Conclusions
+line_span: [247, 263]
+char_span: [42737, 44528]
+line_count: 15
+effective_body_non_empty_lines: 7
+
+lines:
+--- chunk (b0005: 4. Conclusions) ---
+247: # 4. Conclusions
+248: 
+249: In our study, rigid PI foams with different densities were prepared by thermal foaming of a nadimide end-capped polyimide precursor with an  $\alpha$ -BPDA-PDA/BIA structure. The molar ratio of BIA/PDA and the  $\mathrm{M_w}$  of the precursor were found to be two effective factors regulating the performance of PI foams. The prepared PI foams showed excellent combined properties, in which the initial thermal decomposition temperature was  $\geq 490^{\circ}\mathrm{C}$  and the Tg was  $395.0^{\circ}\mathrm{C}$ . PIF-2-1500  $(300\mathrm{kg} / \mathrm{m}^{3})$  showed outstanding mechanical properties with a compressive strength of  $11\mathrm{MPa}$  and a compressive modulus of  $215\mathrm{MPa}$ . Moreover, the foams with a density of  $\geq 250\mathrm{kg} / \mathrm{m}^{3}$  were suitable as foam core materials of carbon fiber reinforced polyimide sandwich composites co-cured at  $320^{\circ}\mathrm{C} / 0.4\mathrm{MPa}$ .
+250: 
+251: Author Contributions: Conceptualization, S.Y.; data curation, Z.W.; funding acquisition, S.Y. and A.H.; resources, K.L. and Z.W.; project administration, K.L. and Z.W.; visualization, K.L. and Y.S.; formal analysis, Z.W. and Y.S.; investigation, Y.S.; methodology, S.Y., K.L. and A.H.; writing—original draft, Y.S.; writing—review and editing, S.Y. and A.H. All authors have read and agreed to the published version of the manuscript.
+252: 
+253: Funding: This research was funded by the National Natural Science Foundation of China, grant number 51803222.
+254: 
+255: Institutional Review Board Statement: Not applicable.
+256: 
+257: Informed Consent Statement: Not applicable.
+258: 
+259: Data Availability Statement: The data presented in this study are available on request from the corresponding author.
+260: 
+261: Conflicts of Interest: The authors declare no conflict of interest.
